@@ -1,0 +1,190 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12254 : 2021",
+    "full_title": "Polyvinylchloride (PVC) Industrial Boots — Specification (Second Revision)",
+    "sector_category": "Footwear (approved by the Chemical Division Council and finalized by the Footwear Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "61.060",
+    "sectional_committee": {
+      "name": "Footwear Sectional Committee",
+      "number": "CHD 19"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, methods of sampling, and test procedures for polyvinyl chloride (PVC) industrial boots manufactured by injection molding or other molding processes. These boots are designed to protect workers' feet in demanding industrial environments (such as chemical processing plants, construction sites, and agricultural applications) from water, acids, alkalis, physical impacts, and slip hazards.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, 2021 (incorporating Amendment No. 1 and Amendment No. 2, November 2024)",
+    "year_first_published": "1988",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1988" },
+      { "edition": "First Revision", "year": "1993" },
+      { "edition": "Second Revision", "year": "2021" }
+    ],
+    "supersedes": "IS 12254 : 1993",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "N/A",
+        "description": "Updates physical-mechanical parameters and aligns select testing routines with revised BIS footwear guidelines."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "November 2024",
+        "description": "Substitutes Clause 5.5.5 to mandate that slip-resistance must be evaluated in accordance with Clause 5.5 of ISO 4643 (replacing the legacy Annex B of ISO 4643). It also completely replaces Clause 5.11.1 to update minimum sole thicknesses when tested per IS 15298 (Part 1), enforcing separate minimum boundaries for forepart and heel thickness with (d1) and without (d2) cleats."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 15298 (Part 1)",
+      "title": "Personal protective equipment: Part 1 Test methods for footwear",
+      "category": "Test method",
+      "location": "Clause 5.11.1 & Clause 5 (Amended)",
+      "relevance": "Prescribes standard laboratory test procedures for evaluating essential physical footwear properties, including sole thickness, bond strength, and flex resistance."
+    },
+    {
+      "is_number": "ISO 4643",
+      "title": "Plastics moulded footwear — Polyvinyl chloride industrial boots — Specification",
+      "category": "Reference standard",
+      "location": "Clause 5.5.5 (Amended)",
+      "relevance": "Provides the harmonized international specifications for molded plastic boots, referenced specifically for slip-resistance limits (Clause 5.5)."
+    },
+    {
+      "is_number": "IS 12240 (Part 4)",
+      "title": "Methods of test for polyvinyl chloride boots: Part 4 Determination of volatility",
+      "category": "Test method",
+      "location": "Clause 6.1 / Product Manual",
+      "relevance": "Governs the volatility evaluation of plasticized PVC compounds to ensure plasticizer retention and prevent premature cracking."
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Sampling guidelines (implied)",
+      "relevance": "Controls the unbiased selection of representative finished boot boxes from consignments for conformity audits."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes mathematical rounding off of observed or calculated test outcomes to verify compliance boundaries."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15298 (Part 2) : 2011 / ISO 20345 : 2004",
+      "title": "Personal protective equipment — Part 2: Safety footwear",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Governs general design and mechanical thresholds (impact and compression resistance) for steel toe caps, sharing identical protection definitions."
+    },
+    {
+      "is_number": "IS 5557 (Part 1) : 2004",
+      "title": "Industrial and protective rubber knee and ankle boots — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Parallel standard specifying safety and design limits for heavy-duty vulcanized rubber-based industrial gumboots."
+    },
+    {
+      "is_number": "IS 5557 (Part 2) : 2018",
+      "title": "All rubber gum boots and ankle boots — Part 2: Occupational purposes — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Parallel standard regulating all-rubber protective footwear intended specifically for light-duty occupational purposes."
+    },
+    {
+      "is_number": "IS 13893 : 1994",
+      "title": "Polyurethane sole, semirigid — Specification",
+      "category": "Allied standard",
+      "location": "Foreword",
+      "relevance": "Specifies physical-chemical properties of alternative polymeric outsoles used in industrial environments."
+    },
+    {
+      "is_number": "IS 16994 : 2018",
+      "title": "Footwear for men and women for municipal scavenging work — Specification",
+      "category": "Allied standard",
+      "location": "Foreword",
+      "relevance": "Regulates safety footwear optimized to protect municipal scavenging and sanitation personnel from wet and hazardous conditions."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Polymeric & Molded Footwear / Gumboots)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Footwear made from All Rubber and All Polymeric Material and its Components (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all Polyvinyl Chloride (PVC) Industrial Boots must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or selling uncertified boots in the Indian market is a statutory offense. Micro and small enterprises (MSEs) are granted specific delayed implementation schedules, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to molded polymeric protective footwear.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Each boot must be legibly and indelibly marked on the outer waist of the sole and the inner face of the upper with the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+        "clause_reference": "Marking clauses"
+      },
+      {
+        "requirement_type": "Molded Boot Designs",
+        "detail": "The boots are classified into two designs based on shaft height: Type 1 (Ankle Boots) and Type 2 (Gum Boots / Wellington Boots / Wellington Gumboots).",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Protection Level Varieties",
+        "detail": "The standard establishes three varieties based on toe protection: a) Variety 1: Safety footwear (fitted with a steel toe cap designed to withstand high impact energy of 200 J and 15 kN compression load); b) Variety 2: Protective footwear (fitted with a steel toe cap to withstand medium impact energy of 100 J and 10 kN compression load); c) Variety 3: Occupational footwear (manufactured without steel toe caps for general protective wear).",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Minimum Sole Thickness (Table 1 - Amended)",
+        "detail": "When tested in accordance with IS 15298 (Part 1), the sole thickness must satisfy the following limits: a) Forepart: d1 (thickness including cleats) must be minimum 6 mm, and d2 (thickness excluding cleats/sole base) must be minimum 4 mm; b) Heel: d1 (thickness including cleats) must be minimum 9 mm, and d2 (thickness excluding cleats) must be minimum 6 mm.",
+        "clause_reference": "Clause 5.11.1 (Amended)",
+        "page_reference": "Page 5 of Amendment No. 2"
+      },
+      {
+        "requirement_type": "Mandatory Slip-Resistance (Amended)",
+        "detail": "Boots must satisfy strict slip-resistance parameters on wet and slick industrial floorings. Under Amendment No. 2, the test must be performed in accordance with Clause 5.5 of ISO 4643.",
+        "clause_reference": "Clause 5.5.5 (Amended)",
+        "page_reference": "Page 5 of Amendment No. 2"
+      },
+      {
+        "requirement_type": "Upper-to-Sole Joint Adhesion Strength",
+        "detail": "Molded boots must possess robust bond strength: the upper-to-outsole joint must satisfy minimum peel resistance limits to prevent splitting or delamination under continuous bending.",
+        "clause_reference": "Clause 5.5.2"
+      },
+      {
+        "requirement_type": "Leak-Proofness and Watertightness",
+        "detail": "Every boot must undergo an inflation leak-proofness test, demonstrating zero air bubble escapes when submerged in water under a specified internal pressure.",
+        "clause_reference": "Clause 5.5.7"
+      },
+      {
+        "requirement_type": "Raw Material Volatility Control",
+        "detail": "The raw plasticized PVC compound must show low plasticizer loss under heat aging, exhibiting high volatility control when tested in accordance with IS 12240 (Part 4).",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Physical Durability Tests",
+        "detail": "Boots must meet strict baseline thresholds for: tensile strength and elongation at break of the PVC upper, flexing resistance (Ross flex cyclic testing), outsole abrasion resistance, tear strength, and hardness.",
+        "clause_reference": "Table 1 & Product Manual"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12254 : 2021",
+    "Polyvinylchloride Boots",
+    "PVC Industrial Boots",
+    "Gumboots",
+    "Wellington Boots",
+    "Variety 1 to 3",
+    "Steel Toe Cap",
+    "Sole Thickness",
+    "d1 and d2 thickness",
+    "ISO 4643 Slip Resistance",
+    "Leak Proofness",
+    "Flexing Resistance",
+    "Footwear QCO 2024",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12254 : 2021 is the mandatory national Indian Standard specification governing polyvinyl chloride (PVC) industrial boots (gumboots and ankle boots) utilized for personal protection in factories, mines, chemical plants, and construction sites. Under the national Footwear Quality Control Order (QCO), all such PVC industrial boots sold, distributed, or imported in India must bear the mandatory BIS Standard Mark (ISI Mark). The standard divides boots into Type 1 (Ankle) and Type 2 (Gum Boots), and establishes three varieties based on whether they contain safety steel toe caps (resisting up to 200 J impact). Amendment No. 2 (November 2024) enforces strict new sole thickness parameters—demanding distinct minimum forepart (min 6 mm with cleats, min 4 mm base) and heel (min 9 mm with cleats, min 6 mm base) limits—and updates the slip-resistance criteria to align directly with international ISO 4643 benchmarks to protect workers from catastrophic slips and physical injuries."
+  },
+  "source_information": {
+    "source_pdf_filename": "12254_amd2.pdf",
+    "document_version_edition": "Second Revision, 2021 (incorporating Amendment No. 1 and Amendment No. 2, November 2024)"
+  }
+}

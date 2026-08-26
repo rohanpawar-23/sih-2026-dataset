@@ -1,0 +1,141 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16113 : 2013 (incorporating Amendment No. 1, February 2024)",
+    "full_title": "Gamma Picoline — Specification",
+    "sector_category": "Chemicals, Fertilizers, Polymers & Textiles (approved by the Chemical Division Council and finalized by the Organic Chemicals, Alcohols and Allied Products Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "71.080.30",
+    "sectional_committee": {
+      "name": "Organic Chemicals, Alcohols and Allied Products Sectional Committee",
+      "number": "PCD 09"
+    },
+    "citations": ""
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements, sampling guidelines, and testing methods for Gamma Picoline (4-methylpyridine) suitable for industrial use. It is used in the polymer industry for making 4-vinylpyridine (utilized in manufacturing polymers and pharmaceutical intermediates) and in the pharmaceutical industry for the manufacture of Isoniazid (an anti-tuberculosis drug).",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1",
+    "citations": ""
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2013 (incorporating Amendment No. 1, February 2024)",
+    "year_first_published": "2013",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2013" }
+    ],
+    "supersedes": "N/A (Developed as a new standard)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "February 2024",
+        "description": "Inserts Clause 4.2.3 to mandate that for supplies of Gamma Picoline in bulk, a test certificate containing specific tanker and batch details, certified by an authorized person, must be provided for each tanker [1]."
+      }
+    ],
+    "citations": "[1]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1070",
+      "title": "Reagent grade water — Specification",
+      "category": "Normative reference",
+      "location": "Annex A",
+      "relevance": "Provides standardized baseline requirements for highly pure, reagent-grade water used to prepare test solutions and dilutions for chemical analysis.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Clause 5",
+      "relevance": "Prescribes statistical randomization methods for drawing representative packaged containers from manufacturing lots.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes the mathematical procedures used to round off calculated or observed physical and chemical testing figures to evaluate code compliance.",
+      "citations": ""
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16112 : 2013",
+      "title": "Beta Picoline — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Specifies requirements for Beta Picoline (3-methylpyridine), an isomer of Gamma Picoline widely used as a raw material in the manufacture of Vitamin B3 (Niacin).",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 8058 : 2018",
+      "title": "Pyridine — Specification",
+      "category": "Allied / Parent chemical standard",
+      "location": "Foreword",
+      "relevance": "Specifies the technical requirements for pure pyridine, which belongs to the same chemical family and is also under mandatory BIS certification.",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Industrial / Organic Chemicals)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Gamma Picoline (Quality Control) Order, 2020' issued by the Ministry of Chemicals and Fertilizers, Government of India, all Gamma Picoline manufactured, imported, distributed, or sold in India must conform to IS 16113 and carry the mandatory BIS Standard Mark (ISI Mark). Export-only shipments are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to chemical intermediate liquids, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Standard Mark Scheme",
+        "detail": "Every container of Gamma Picoline must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Tanker Bulk Delivery Test Certificate (Amendment No. 1)",
+        "detail": "For supplies of material in bulk, a test certificate must be provided for each tanker containing: a) Name and grade of the material; b) Name of the manufacturer and his recognized trade-mark, if any; c) Batch number; d) Supply date; e) Tanker number; and f) Quantity. The test certificate must be certified by an authorized person of the manufacturer's organization [1].",
+        "clause_reference": "Clause 4.2.3 [1]"
+      },
+      {
+        "requirement_type": "Gas Chromatography (GC) Purity Analysis",
+        "detail": "The chemical purity (assay) of Gamma Picoline must be determined using Gas Chromatography (GC) equipped with a Flame Ionization Detector (FID) to verify that the active Gamma Picoline content is kept at high-purity limits (typically minimum 98.5% or 99.0% by mass).",
+        "clause_reference": "Clause 3.3 & Annex A"
+      },
+      {
+        "requirement_type": "Strict Moisture and Water Limits",
+        "detail": "Water or moisture content must be evaluated and kept below specified limits to prevent chemical process interference in downstream polymer and drug synthesis.",
+        "clause_reference": "Clause 3.3 & Annex B"
+      },
+      {
+        "requirement_type": "Maximum Isomeric and Unknown Impurities",
+        "detail": "The maximum limits for other picoline isomers (such as Alpha Picoline and Beta Picoline) and other unknown organic impurities must be strictly monitored and kept below specified thresholds.",
+        "clause_reference": "Clause 3.3 & Table 1"
+      },
+      {
+        "requirement_type": "Container Labeling and Traceability Details",
+        "detail": "Each package or container must be clearly and indelibly marked with: name of material, grade, manufacturer's name/trademark, batch or lot number, net weight, year/month of manufacture, and shelf-life or retest date.",
+        "clause_reference": "Clause 5.1"
+      }
+    ],
+    "citations": "[1]"
+  },
+  "keywords": [
+    "IS 16113:2013",
+    "Gamma Picoline",
+    "4-methylpyridine",
+    "4-picoline",
+    "Organic Chemical",
+    "Gas Chromatography (GC)",
+    "Assay",
+    "Isomeric Impurities",
+    "Isoniazid intermediate",
+    "Tanker Bulk supplies",
+    "Amendment No. 1",
+    "Chemical QCO 2020",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16113 : 2013 is the strict national Indian Standard specification establishing physical, chemical, and quality requirements for Gamma Picoline (4-methylpyridine), a highly valuable organic chemical intermediate used to manufacture polymer intermediates and pharmaceuticals, such as the anti-tuberculosis drug Isoniazid. Following the enforcement of the national chemical Quality Control Order (QCO), Gamma Picoline cannot be manufactured, imported, or sold in India without carrying the mandatory BIS Standard Mark (ISI Mark). The standard enforces strict purity (minimum assay) and maximum impurity thresholds—including other picoline isomers—determined via Gas Chromatography (GC). Amendment No. 1 (February 2024) introduces a mandatory requirement for bulk tanker deliveries, enforcing that each shipment must be accompanied by a certified test certificate detailing batch traceability, quantity, and tanker identification [1].",
+    "citations": "[1]"
+  },
+  "source_information": {
+    "source_pdf_filename": "16113_amd1.pdf",
+    "document_version_edition": "First Edition, 2013 (incorporating Amendment No. 1, February 2024) [1]",
+    "citations": "[1]"
+  }
+}

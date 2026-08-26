@@ -1,0 +1,191 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16890 : 2024",
+    "full_title": "Textiles — Protective Clothing for Firefighters — Specification (First Revision)",
+    "sector_category": "Textiles / Technical Textiles (approved by the Textile Division Council and finalized by the Textiles Protective Clothing Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "13.340.10",
+    "sectional_committee": {
+      "name": "Textiles Protective Clothing Sectional Committee",
+      "number": "TXD 32"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies test methods and minimum performance requirements for protective clothing (firefighter suits) worn during firefighting and associated activities where there is a risk of heat and/or flame. It covers general clothing design, minimum performance levels of the materials used, and test methods to determine these performance levels. It does not cover special high-risk situations (such as specialized chemical/proximity firefighting, wildland/forest firefighting) or separate protective gear for head, hands, and feet.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2024 (incorporating Amendment No. 1, October 2025)",
+    "year_first_published": "2018",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2018"
+      },
+      {
+        "edition": "First Revision (reorganized into multiple protection categories and updated test methods)",
+        "year": "2024"
+      }
+    ],
+    "supersedes": "IS 16890 : 2018",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "October 2025",
+        "description": "Established on 01 October 2025, bringing updates to the technical and testing specifications for firefighter protective clothing under national quality guidelines (allowing standard without amendment to remain in force until 31 March 2026)."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 15612 (Part 2) / ISO 6941",
+      "title": "Textiles — Burning behaviour of curtains and drapes: Part 2 Measurement of flame spread of vertically oriented specimens",
+      "category": "Test method",
+      "location": "Testing clauses",
+      "relevance": "Prescribes standard vertical burn testing methods to evaluate flame spread and confirm limited flame propagation properties."
+    },
+    {
+      "is_number": "IS 12467 (Part 1)",
+      "title": "Textiles — Determination of the effects of cleansing/water soaking — Part 1: Water soaking procedure",
+      "category": "Pre-treatment",
+      "location": "Pre-treatment clauses",
+      "relevance": "Outlines standard pre-conditioning water soaking methods that the protective fabrics must undergo before flammability testing."
+    },
+    {
+      "is_number": "IS 12467 (Part 2)",
+      "title": "Textiles — Determination of the effects of cleansing/water soaking — Part 2: Water soaking procedure",
+      "category": "Pre-treatment",
+      "location": "Pre-treatment clauses",
+      "relevance": "Provides alternative standard laundering pre-treatments to ensure flame-retardant properties survive repeated soaking."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Sampling guidelines",
+      "relevance": "Governs statistical random sampling parameters for selecting representative garments from manufacturing lots for certification audits."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine compliance limits."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16874 : 2018",
+      "title": "Protective Gloves for Firefighters — Specification",
+      "category": "Allied / Hand protection standard",
+      "location": "Foreword",
+      "relevance": "Governs specifications and mechanical/thermal quality checks for protective gloves worn alongside firefighter suits."
+    },
+    {
+      "is_number": "IS 18582 (Part 6) : 2024",
+      "title": "Footwear for Firefighters — Specification Part 6: Footwear used by Firefighters",
+      "category": "Allied / Foot protection standard",
+      "location": "Foreword",
+      "relevance": "Governs materials, slip resistance, and thermal insulation of protective firefighting boots."
+    },
+    {
+      "is_number": "IS 2745 : 1983",
+      "title": "Specification for Non-Metal Helmet for Firemen and Civil Defence Personnel",
+      "category": "Allied / Head protection standard",
+      "location": "Foreword",
+      "relevance": "Details quality and impact-resistance parameters for firefighting safety helmets."
+    },
+    {
+      "is_number": "IS 15741 : 2007",
+      "title": "Textiles — Resistance to Ignition of Curtains and Drapes — Specification",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "A fellow protective textiles specification governing flame retardant drapes used in public structures."
+    },
+    {
+      "is_number": "IS 15742 : 2007",
+      "title": "Textiles — Requirements for clothing made of limited flame spread materials and material assemblies affording protection against heat and flame — Specification",
+      "category": "Allied / Protective clothing standard",
+      "location": "Foreword",
+      "relevance": "Specifies requirements for heat-protective garments that do not necessitate the high structural insulation required for active firefighters."
+    },
+    {
+      "is_number": "IS 15748 : 2022",
+      "title": "Protective Clothing for Industrial Workers Exposed to Heat — Specification",
+      "category": "Allied / Protective clothing standard",
+      "location": "Foreword",
+      "relevance": "Specifies thermal insulation and structural parameters for industrial heat-resistant workwear."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Protective / Firefighter Apparel)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Protective Textiles (Quality Control) Amendment Order, 2024' issued by the Ministry of Textiles, Government of India, all protective clothing for firefighters sold, distributed, stocked, or imported in India must conform to IS 16890 and carry the mandatory BIS Standard Mark (ISI Mark). Export-only products conform to buyer specifications but are exempt. Precious metal hallmarking is completely inapplicable to synthetic aramid fiber protective clothing.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every suit (jacket and trousers) conforming to this standard must carry the BIS Standard Mark (ISI Mark) permanently printed or labeled, along with the manufacturer's registered licence number (CM/L)."
+      },
+      {
+        "requirement_type": "Firefighter Suit Categories",
+        "detail": "The standard classifies firefighter protective clothing into two categories: a) Category 1: Low-level thermal/flame protection (intended for outdoor/wildland/forest support or auxiliary firefighting operations); b) Category 2: High-level convective, radiant, and flame protection (mandatory for active structural firefighting and emergency rescue where direct thermal exposure is expected)."
+      },
+      {
+        "requirement_type": "Multilayer Material Assembly (Category 2)",
+        "detail": "Category 2 suits must incorporate a robust multilayer fabric assembly comprising: a) Outer Shell (at least 93% Meta-Aramid, 5% Para-Aramid, and 2% Anti-static fibers) providing inherent flame resistance, high tensile strength, and water repellency; b) Moisture Barrier (PTFE membrane laminated with aramid non-woven) blocking liquid water and chemicals while allowing breathability; c) Thermal Barrier (FR non-woven Nomex/Kevlar quilted to an innermost lining) offering thick insulation against convective and radiant heat transfer."
+      },
+      {
+        "requirement_type": "Size Designation Metrics",
+        "detail": "Each garment must be sized and labeled based on Chest or Bust Girth (cm) and Height (cm) as per Table 1. Standard overlap between the jacket/coat and trousers must be a minimum of 30 cm to prevent exposing the midsection during physical bending."
+      },
+      {
+        "requirement_type": "Flame Resistance & Burning Behaviour",
+        "detail": "When tested, materials must show zero vertical flame propagation, no flaming or melting debris dripping, no hole formation, and minimal afterglow/afterflame times."
+      },
+      {
+        "requirement_type": "Heat Transfer (Convective and Radiant)",
+        "detail": "Materials must provide strict thermal barrier protection: convective heat transfer index (HTI24) and radiant heat transfer index (RHTI24) must meet high insulation limits under intense exposure (Category 2 requires HTI24 >= 13 s and RHTI24 >= 18 s, with a temperature rise delay of at least 4 s)."
+      },
+      {
+        "requirement_type": "Heat Resistance at 180°C",
+        "detail": "All constituent materials (outer shell, moisture barrier, thermal barrier) must withstand hot air exposure at 180°C for 5 minutes, showing zero ignition, melting, or dripping, and maximum dimensional shrinkage must not exceed 5 percent."
+      },
+      {
+        "requirement_type": "Cleaning and Dimensional Shrinkage",
+        "detail": "After undergoing a minimum of 5 laundering cycles as per standard procedures, garments must maintain high dimensional stability, restricting shrinkage to a maximum of 3 percent in both warp and weft directions."
+      },
+      {
+        "requirement_type": "Liquid/Chemical Penetration and Surface Wetting",
+        "detail": "The moisture barrier must resist chemical penetration (sulfuric acid, sodium hydroxide, o-xylene) under pressure, and the outer shell must satisfy high water-repellency ratings (spray rating >= 4)."
+      },
+      {
+        "requirement_type": "Mandatory Garment Labeling Details",
+        "detail": "Each item must be legibly and indelibly marked with: manufacturer's name/brand, standard number (IS 16890), category (Category 1 or Category 2), size designation (girth/height), batch/lot number, fiber composition, and extensive washing/drying care instructions."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16890 : 2024",
+    "Protective Clothing",
+    "Firefighters",
+    "Aramid Suits",
+    "Category 1",
+    "Category 2",
+    "Outer Shell",
+    "Moisture Barrier",
+    "Thermal Barrier",
+    "Convective Heat Transfer",
+    "Radiant Heat Transfer",
+    "180°C Heat Resistance",
+    "TXD 32",
+    "Protective Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16890 : 2024 is the strict national Indian Standard specification that establishes physical, design, and performance requirements for firefighter protective clothing (fire fighting suits). Under the mandatory national Protective Textiles Quality Control Order (QCO), all structural and occupational firefighting suits supplied to municipal and industrial fire forces must be certified under the BIS Standard Mark scheme (ISI Mark). Reorganized under its first revision, the standard divides suits into Category 1 (for wildland or auxiliary outdoor firefighting) and Category 2 (for severe structural fire operations), enforcing strict multi-layer aramid assemblies. Quality teams must verify convective/radiant heat transfer indices, zero melting or dripping at 180°C, high tensile strength, and water/chemical penetration resistance to secure frontline life protection."
+  },
+  "source_information": {
+    "source_pdf_filename": "16890_amd1.pdf",
+    "document_version_edition": "First Revision, 2024 (incorporating Amendment No. 1, October 2025)"
+  }
+}

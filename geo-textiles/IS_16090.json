@@ -1,0 +1,189 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16090 : 2013",
+    "full_title": "Geo-Synthetics — Geo-Textiles Used as Protection (or Cushioning) Materials — Specification",
+    "sector_category": "Textiles / Technical Textiles (approved by the Textile Division Council and finalized by the Geosynthetics Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "59.080.70",
+    "sectional_committee": {
+      "name": "Geosynthetics Sectional Committee",
+      "number": "TXD 30"
+    },
+    "citations": "[1, 2]"
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, sampling protocols, and testing methods for nonwoven and woven geotextiles used as protective (or cushioning) layers. These materials are placed directly over geomembranes or other impermeable liners in civil and geotechnical engineering projects (such as municipal landfills, industrial effluent containment ponds, canals, reservoirs, and reservoirs) to prevent mechanical puncture, tearing, or localized stress concentrations from sharp aggregates and subgrade defects.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2013 (reaffirmed periodically; incorporating Amendment No. 1, December 2023)",
+    "year_first_published": "2013",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2013" }
+    ],
+    "supersedes": "N/A (New Standard)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "December 2023",
+        "description": "Substitutes Clause 4.3 (fourth sentence) to enforce strict carbon black and stabilizer composition limits on polyolefin fibers. It also replaces Table 1 to update mechanical and physical characteristics, deletes legacy reference standards, and inserts modern test method specifications such as wide-width tensile and CBR static puncture tests."
+      }
+    ],
+    "citations": "[1-3]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 16635 : 2017 / ISO 10319 : 2015",
+      "title": "Geosynthetics — Wide-width tensile test",
+      "category": "Test method",
+      "location": "Page 4, Annex A (Amended)",
+      "relevance": "Prescribes standard wide-width tensile testing methods to determine the ultimate tensile strength (kN/m) of protection geotextiles.",
+      "citations": "[2]"
+    },
+    {
+      "is_number": "IS 16078 : 2013 / ISO 12236 : 2006",
+      "title": "Geosynthetics — Static puncture test (CBR test)",
+      "category": "Test method",
+      "location": "Page 4, Annex A (Amended)",
+      "relevance": "Specifies static plunger penetration tests (CBR puncture) to evaluate the geotextile's capability to resist local stone-piercing forces.",
+      "citations": "[2]"
+    },
+    {
+      "is_number": "IS 14716 : 2021",
+      "title": "Geosynthetics — Test method for the determination of mass per unit area of geotextiles and geotextile-related products (first revision)",
+      "category": "Test method",
+      "location": "Page 4, Annex A (Amended)",
+      "relevance": "Provides standard sampling and analytical routines to verify that the fabric mass per unit area (GSM) matches specified grades.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 13162 (Part 2)",
+      "title": "Geotextiles — Methods of test: Part 2 Determination of resistance to the exposure of ultraviolet light, moisture and heat (xenon-arc type apparatus)",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. v)",
+      "relevance": "Regulates Xenon-arc weather exposure setups for 500 hours to assess physical degradation and strength retention under sunlight.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 13321 (Part 1) : 2022 / ISO 10318-1 : 2015",
+      "title": "Geosynthetics: Part 1 Terms and definitions (first revision)",
+      "category": "Terminology",
+      "location": "Page 4, Annex A (Amended)",
+      "relevance": "Defines key engineering terms, symbols, and standard classifications related to technical textiles and geotextiles.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Sampling guidelines (implied)",
+      "relevance": "Governs the unbiased statistical random selection of rolls from manufactured batches for third-party auditing."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Enforces mathematical rounding off of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15351 : 2015",
+      "title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Governs heavy HDPE woven geomembranes that are frequently specified alongside cushioning geotextiles (IS 16090) to prevent subgrade stones from puncturing the waterproof liner.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "PVC Geomembranes for Lining — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Parallel lining specification governing flexible PVC geomembranes, which also require protective geotextiles under high physical point loads.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "Sister technical textile standard developed under the same Geosynthetics Sectional Committee (TXD 30).",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 16653 : 2017",
+      "title": "Geosynthetics — Needle punched nonwoven geobags for coastal and waterways protection — Specification",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "Sister product standard utilizing nonwoven needle-punched fabrics for waterways training and flood protection.",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Technical Textiles / Geosynthetics)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order' issued by the Ministry of Textiles, Government of India, all geotextiles used as protection (or cushioning) materials must carry the mandatory BIS Standard Mark (ISI Mark). Export-only products are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to synthetic polymers and technical textiles.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every roll or bundle of cushioning geotextiles conforming to the requirements of this standard must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Mandatory UV Durability and Retention (Table 1 - Amended)",
+        "detail": "After undergoing 500 hours of continuous ultraviolet light exposure in a Xenon-arc apparatus as prescribed in IS 13162 (Part 2), all types of protection geotextiles must maintain a minimum tensile strength retention of 70 percent.",
+        "clause_reference": "Table 1 (Sl No. v)",
+        "page_reference": "Page 1 of Amendment No. 1",
+        "citations": "[3]"
+      },
+      {
+        "requirement_type": "Standard Mass per Unit Area Grades",
+        "detail": "Geotextiles are graded by mass per unit area (GSM) ranging from 300 g/m² to 1200 g/m² depending on project-specific cushioning and physical demands.",
+        "clause_reference": "Table 1 (Sl No. i)"
+      },
+      {
+        "requirement_type": "CBR Static Puncture and Tensile Demands",
+        "detail": "Mechanical properties must comply with the strict parameters defined in Table 1, including wide-width tensile strength (IS 16635) and static puncture resistance (CBR test under IS 16078) to survive localized shear stresses.",
+        "clause_reference": "Table 1 & Annex A",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Standard Roll Markings",
+        "detail": "Each roll must be legibly and indelibly marked or labeled with: a) Manufacturer's name or trademark; b) Grade, width, and length of roll; c) Batch or lot number with date of manufacture; and d) Nominal mass per unit area (g/m²).",
+        "clause_reference": "Clause 8.1"
+      }
+    ]
+  },
+  "raw_material_and_purity_controls": {
+    "uv_stabilization": "All polyolefin geotextile materials used for protection and cushioning applications must be UV stabilized by adding a suitable chemical UV stabilizer and/or carbon black.",
+    "carbon_black_mass_and_dispersion": "If the polyolefin geotextile is manufactured using carbon black, it must contain 2 percent to 3 percent of carbon black by mass with a highly uniform and satisfactory dispersion to ensure consistent weathering resistance.",
+    "polymer_origin": "To maintain environmental durability and chemical inertness against naturally occurring soil acids, alkalis, and microorganisms, only virgin polypropylene (PP) or polyester (PES) fibers are permitted, as low-grade recycled plastics are prone to stress cracking under continuous load.",
+    "citations": "[1]"
+  },
+  "keywords": [
+    "IS 16090:2013",
+    "Geosynthetics",
+    "Geotextiles",
+    "Protection Materials",
+    "Cushioning Materials",
+    "Carbon Black Dispersion",
+    "Xenon-Arc UV Exposure",
+    "Wide-Width Tensile Test",
+    "CBR Static Puncture Test",
+    "Landfill cushioning",
+    "TXD 30",
+    "Geo Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16090 : 2013 is the strict national Indian Standard specification governing nonwoven and woven geotextiles utilized as protective cushioning layers over geomembranes in civil and environmental works, such as hazardous waste landfills, canals, and reservoirs. In accordance with India's national Geo Textiles Quality Control Order (QCO), all protection geotextiles supplied to the domestic market must carry the mandatory BIS Standard Mark (ISI Mark). Following Amendment No. 1 (December 2023), the standard enforces strict chemical composition limits on polyolefin fibers—mandating 2% to 3% carbon black content with uniform dispersion to resist weathering—and replaces mechanical test indexes with modern wide-width tensile (IS 16635) and CBR puncture (IS 16078) tests, requiring at least 70% strength retention after 500 hours of intense UV radiation to ensure long-term structural integrity.",
+    "citations": "[1-3]"
+  },
+  "source_information": {
+    "source_pdf_filename": "16090_amd1.pdf",
+    "document_version_edition": "First Edition, 2013 (incorporating Amendment No. 1, December 2023)",
+    "citations": "[1]"
+  }
+}

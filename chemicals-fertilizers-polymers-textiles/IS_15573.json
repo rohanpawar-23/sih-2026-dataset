@@ -1,0 +1,184 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15573 : 2018 (incorporating Amendment No. 3, February 2026)",
+    "full_title": "Polyaluminium Chloride — Specification (First Revision)",
+    "sector_category": "Chemical (approved by the Chemical Division Council and finalized by the Water Quality for Industrial Purposes Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "71.060.50; 13.060.20",
+    "sectional_committee": {
+      "name": "Water Quality for Industrial Purposes Sectional Committee",
+      "number": "CHD 13"
+    },
+    "citations": "[1-3]"
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, sampling guidelines, and testing methods for Polyaluminium Chloride (PAC) used in water purification (including drinking water treatment) and industrial wastewater processing. It covers both Liquid and Powder forms of PAC, which are further divided into Medium Basicity and High Basicity types.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard",
+    "citations": "[4, 5]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2018 (incorporating Amendment No. 3, February 2026)",
+    "year_first_published": "2005",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2005" },
+      { "edition": "First Revision", "year": "2018" }
+    ],
+    "supersedes": "IS 15573 : 2005",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "June 2020",
+        "description": "Substitutes specific test parameters in Table 1 and updates the standard BIS Certification marking clause to align with the BIS Conformity Assessment Regulations, 2018."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "N/A",
+        "description": "Incorporates minor technical and chemical parameter adjustments."
+      },
+      {
+        "amendment_number": "Amendment No. 3",
+        "date": "February 2026",
+        "description": "Revises the physical description for Liquid PAC (colourless to pale yellow, hazy to transparent liquid) and Powder PAC (pale yellow powder). It also substitutes the title of Annex C from 'Long Term Protection Test' to 'Determination of Chloride Test'."
+      }
+    ],
+    "citations": "[1-3]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 9316 (Part 2) / IS 6213 (Part 4)",
+      "title": "Methods of test for pulp / paper — Viscosity determination",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. vi)",
+      "relevance": "Prescribes standard laboratory test setups (such as viscometer motors and water baths) used to verify that the dynamic viscosity at 20°C of liquid PAC forms falls within specified ranges.",
+      "citations": "[6]"
+    },
+    {
+      "is_number": "IS 3025 (Part 56) : 2003",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater — Part 56: Selenium",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. viii-h)",
+      "relevance": "Mandatory testing protocol referenced to evaluate and limit selenium impurities to safe parts-per-million thresholds.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Normative reference",
+      "location": "Clause 6 / Annex",
+      "relevance": "Governs the statistical random sampling methods and lot selection schedules used during factory inspection audits.",
+      "citations": "[7]"
+    },
+    {
+      "is_number": "IS 1070 : 1992",
+      "title": "Reagent grade water — Specification (third revision)",
+      "category": "Normative reference",
+      "location": "Annex A",
+      "relevance": "Defines water purity requirements utilized inside the manufacturer's testing laboratories to execute chemical limit evaluations.",
+      "citations": "[8]"
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Governs mathematical rounding off of final observed or calculated test and analysis results to determine compliance with specified standards.",
+      "citations": "[9]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10116 : 2015",
+      "title": "Boric Acid — Specification",
+      "category": "Allied / Sister chemical standard",
+      "location": "Foreword",
+      "relevance": "Parallel major industrial chemical standard under mandatory quality control orders (QCO) enforcing strict purity levels.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 695 : 2020",
+      "title": "Acetic Acid — Specification",
+      "category": "Allied / Sister chemical standard",
+      "location": "Foreword",
+      "relevance": "Another key industrial and water-treatment acid placed under mandatory quality and marking compliance frameworks.",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Water Treatment / Industrial Chemicals)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Poly Aluminium Chloride (Quality Control) Order, 2019' issued by the Ministry of Chemicals and Fertilizers, Government of India, all Polyaluminium Chloride manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark) to be legally distributed in the domestic market. Precious metal hallmarking is completely inapplicable to industrial water treatment compounds as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Polyaluminium Chloride conforming to the quality and performance requirements of this standard must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L) printed clearly on each packaging bag or container.",
+        "clause_reference": "Foreword & Clause 6",
+        "page_reference": "Page 1 of base standard"
+      },
+      {
+        "requirement_type": "Mandatory Alumina (Al2O3) and Basicity Limits",
+        "detail": "Liquid PAC must contain a minimum of 9.5% Al2O3 (Medium Basicity) or 10.2% Al2O3 (High Basicity) by mass. Powder PAC must contain a minimum of 28.0% Al2O3 for both types. Relative basicity must be a minimum of 35% for Medium Basicity PAC and a minimum of 64% for High Basicity PAC.",
+        "clause_reference": "Table 1 (Sl No. i & ii)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Strict Chloride and Sulphate Thresholds",
+        "detail": "Maximum chloride limits (as Cl) are: Liquid (12.5% Medium, 10.5% High); Powder (37.5% Medium, 31.0% High). Maximum sulphate limits (as SO4) are: Liquid (2.7% Medium, 2.5% High); Powder (10.0% Medium, 10.0% High).",
+        "clause_reference": "Table 1 (Sl No. iii & iv)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Dynamic Viscosity & Specific Gravity",
+        "detail": "The specific gravity at 25°C of liquid PAC must be a minimum of 1.18 (Medium) or 1.20 (High). Liquid dynamic viscosity at 20°C must fall within the range of 3 to 10 mPa.s. Bulk density for powder forms must be at least 0.65 g/ml.",
+        "clause_reference": "Table 1 (Sl No. v, vi & vii)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Trace Toxic Substance Limits",
+        "detail": "To prevent water contamination, toxic trace impurities are strictly restricted. Maximum allowed thresholds are: Mercury (0.2 ppm liquid / 0.6 ppm powder); Arsenic (5 ppm liquid / 15 ppm powder); Lead (30 ppm liquid / 90 ppm powder); Cadmium (6 ppm liquid / 18 ppm powder); Iron (80 ppm liquid / 240 ppm powder); Manganese (20 ppm liquid / 60 ppm powder); Chromium (15 ppm liquid / 45 ppm powder); and Selenium (8 ppm liquid / 24 ppm powder).",
+        "clause_reference": "Table 1 (Sl No. viii)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Total Organic Carbon and Insolubles Restrictions",
+        "detail": "Total Organic Carbon (TOC) is limited to a maximum of 80 ppm for liquid and 240 ppm for powder. Insoluble matter must not exceed 0.5 percent by mass for liquid or 1.50 percent by mass for powder.",
+        "clause_reference": "Table 1 (Sl No. ix & x)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "pH of 5% solution (w/v) Controls",
+        "detail": "The pH of a 5 percent solution must be: Liquid (1.8 to 4.5 for Medium, 2.5 to 4.5 for High); Powder (2.5 to 4.5 for both).",
+        "clause_reference": "Table 1 (Sl No. xi)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Physical Appearance (Amendment No. 3)",
+        "detail": "Liquid PAC must be colourless to pale yellow, hazy to transparent liquid, and Powder PAC must be pale yellow powder. Both forms must be completely free from odour, dirt, visible impurities, and foreign matter.",
+        "clause_reference": "Clause 5.1.1, Clause 5.1.2 & Table 1 Note",
+        "page_reference": "Page 1 of Amendment No. 3 & Page 2 of base standard"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15573:2018",
+    "Polyaluminium Chloride (PAC)",
+    "Water Coagulant",
+    "Water Treatment Chemicals",
+    "Medium Basicity PAC",
+    "High Basicity PAC",
+    "Basicity Percentage",
+    "Heavy Metal Limits",
+    "Total Organic Carbon (TOC)",
+    "Viscosity Test",
+    "Chemical QCO 2019",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15573 : 2018 is the strict national Indian Standard specification governing Polyaluminium Chloride (PAC), a highly effective chemical coagulant extensively used in municipal drinking water treatment, wastewater purification, and industrial water processing. Under the national Quality Control Order (QCO) issued by the Ministry of Chemicals and Fertilizers, all Polyaluminium Chloride manufactured or imported in India must be certified under the BIS Standard Mark scheme (ISI Mark). The standard covers liquid and powder forms of PAC, categorized by Medium and High Basicity. It enforces strict physical-chemical limits—including minimum Al2O3 concentrations, specific gravity, and viscosity—and sets very low maximum limits on heavy metals (such as lead, mercury, and arsenic) and organic carbon to ensure the safety of public water supplies. Amendment No. 3 (February 2026) updates the standard visual characteristics of the liquids and powders and corrects test references to Annex C.",
+    "citations": "[1, 2, 6]"
+  },
+  "source_information": {
+    "source_pdf_filename": "15573.pdf (base standard) & 15573_amd3.pdf (amendment sheet)",
+    "document_version_edition": "First Revision, 2018 (incorporating Amendment No. 1, 2, and Amendment No. 3, February 2026)",
+    "citations": "[1, 2]"
+  }
+}

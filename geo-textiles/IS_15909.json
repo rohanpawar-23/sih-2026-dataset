@@ -1,0 +1,189 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15909 : 2020",
+    "full_title": "PVC Geomembranes for Lining — Specification (Second Revision)",
+    "sector_category": "Textiles (approved by the Textiles Division Council and finalized by the Geosynthetics Sectional Committee of the Bureau of Indian Standards) [1]",
+    "ics_code": "59.080.70",
+    "sectional_committee": {
+      "name": "Geosynthetics Sectional Committee",
+      "number": "TXD 30"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard covers the raw material and performance requirements for flexible polyvinyl chloride (PVC) geomembranes of two categories depending upon their intended end use [2]. Category A includes liners used for seepage control in canals, ponds, reservoirs, and water features, waste containments (landfills, solid and hazardous waste management, and industrial effluents), and waterproofing of basements, roofs, and terraces [2]. Category B covers liners designed for high-pressure installations such as tunneling, tanking, and specialized roofs [3].",
+    "clause_number": "Clause 1 (specifically Clauses 1.1, 1.1.1, and 1.1.2)",
+    "page_number": "Page 1",
+    "citations": "[2, 3]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, December 2020",
+    "year_first_published": "2010",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2010" },
+      { "edition": "First Revision", "year": "2015" },
+      { "edition": "Second Revision", "year": "2020" }
+    ],
+    "supersedes": "IS 15909 : 2015",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy [4].",
+    "citations": "[1, 4]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 13162 (Part 3)",
+      "title": "Geotextiles — Methods of test: Part 3 Determination of thickness of geotextiles and related products",
+      "category": "Test method",
+      "location": "Table 1 & Table 2 [Sl No. (ii)]",
+      "relevance": "Prescribes Method A for determining the nominal thickness of Category A and Category B sheets under a specified pressure of 20 kPa [5].",
+      "citations": "[5]"
+    },
+    {
+      "is_number": "IS 2076",
+      "title": "Method of test for specific gravity of plastics and rubbers",
+      "category": "Test method",
+      "location": "Table 1 & Table 2 [Sl No. (iii)]",
+      "relevance": "Prescribes specific gravity testing to evaluate compound density, requiring a target value of 1.30 ± 0.03 for Category B types [5].",
+      "citations": "[5]"
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Clause 10.1 (a)",
+      "relevance": "Enforces the use of standard random number tables to select unbiased representative geomembrane rolls from manufacturing lots [6].",
+      "citations": "[6]"
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes the mathematical procedures used to round off analytical or physical testing data to verify specified limits [7].",
+      "citations": "[7]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15351 : 2015",
+      "title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Parallel Indian Standard specification governing woven HDPE geomembranes used similarly for canal, pond, and reservoir waterproofing linings [8, 9].",
+      "citations": "[8, 9]"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Geosynthetics / Lining Materials)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order' issued by the Ministry of Textiles, Government of India, all PVC geomembranes manufactured, imported, distributed, or sold in India must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). Products manufactured exclusively for export are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to synthetic polymers and technical textiles.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Standard Mark Scheme",
+        "detail": "Every roll or bundle of PVC geomembranes conforming to the quality and performance requirements of this standard must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L) [4].",
+        "clause_reference": "Marking clauses (implied)"
+      },
+      {
+        "requirement_type": "Jointing and Heat-Lamination Limits",
+        "detail": "If two or more layers of PVC films are combined to achieve the target thickness, they must be joined strictly using heat fusion lamination [10]. Joining layers using adhesives is explicitly prohibited [10]. For constructing larger panels, sheets must be joined by heat-sealing with a minimum overlap of 2.5 cm [11].",
+        "clause_reference": "Clause 3.3 & Clause 3.4",
+        "page_reference": "Pages 1-3",
+        "citations": "[10, 11]"
+      },
+      {
+        "requirement_type": "Categorisation by Thickness (Clause 4)",
+        "detail": "The geomembranes are classified into two categories based on end-use: Category A (Type I: 0.30 mm, Type II: 0.50 mm, Type III: 0.75 mm, Type IV: 1.00 mm, and Type V: 1.50 mm nominal thickness) [11] and Category B (Type VI: 2.00 mm, Type VII: 2.50 mm, and Type VIII: 3.00 mm nominal thickness) [5].",
+        "clause_reference": "Clauses 4.1.1 & 4.1.2",
+        "page_reference": "Page 3",
+        "citations": "[5, 11]"
+      },
+      {
+        "requirement_type": "Ladle-Lot Sampling Scale (Table 3)",
+        "detail": "To determine consignment conformity, representative sample rolls must be drawn randomly based on lot size: up to 50 rolls (select 3, permissible defectives = 0); 51 to 150 rolls (select 5, permissible defectives = 0); 151 to 300 rolls (select 8, permissible defectives = 0); and 301 and above (select 13, permissible defectives = 0) [6].",
+        "clause_reference": "Clause 10.1 & Table 3",
+        "page_reference": "Page 4",
+        "citations": "[6]"
+      },
+      {
+        "requirement_type": "Standard Tensile and Elongation Testing (Annex L)",
+        "detail": "Dumbbell-shaped test specimens (5 longitudinal and 5 transverse) must be prepared [12]. Prior to testing, they must be conditioned for at least 20 hours at 27 ± 2 °C and 65 ± 5% relative humidity [12]. Tensile testing must run at a grip separation speed of 100 ± 10 mm/min [12]. Category B grades must satisfy a minimum longitudinal and transverse tensile strength of 17 N/mm² [5].",
+        "clause_reference": "Annex L, Clauses L-3 to L-5",
+        "page_reference": "Page 13",
+        "citations": "[5, 12]"
+      },
+      {
+        "requirement_type": "Tear Propagation Strength Calculations (Annex M)",
+        "detail": "Tear resistance must be tested using a constant rate of grip separation machine on specimens cut with a die [13, 14]. The tear propagation strength is calculated using the formula: TS = L/t, where TS is tear propagation strength, L is maximum force (N), and t is the average specimen thickness (mm) [15].",
+        "clause_reference": "Annex M, Clause M-6",
+        "page_reference": "Page 14",
+        "citations": "[13-15]"
+      },
+      {
+        "requirement_type": "Low Temperature Crack Resistance (Annex D)",
+        "detail": "Six random specimens (50 mm wide, 225 mm long) must be conditioned in a chamber at the specified sub-zero test temperature for at least 60 minutes alongside a 40 mm diameter mandrel [16, 17]. The test piece is manually bent 180° over the mandrel in approximately 3 seconds [17]. The bent surface is evaluated under 4X magnification and must show zero cracks, breaks, or failures [17].",
+        "clause_reference": "Annex D, Clauses D-1 to D-3",
+        "page_reference": "Page 9",
+        "citations": "[16, 17]"
+      },
+      {
+        "requirement_type": "UV Exposure and Deterioration (Annex J)",
+        "detail": "Specimens must be exposed to ultraviolet light in a Xenon-arc apparatus for 500 hours under 120-minute cycles (102 minutes light only, followed by 18 minutes water spray + light) [18]. Post-exposure tensile strength and elongation are compared against unexposed values to assess weathering degradation [18].",
+        "clause_reference": "Annex J, Clause J-1",
+        "page_reference": "Page 12",
+        "citations": "[18]"
+      },
+      {
+        "requirement_type": "Dynamic Hydrostatic Pressure Resistance (Annex P)",
+        "detail": "For high-pressure structural uses, a specimen (conditioned for 20 hours at standard atmosphere) is placed with its upper side downwards in a water-filled apparatus against a standardized slotted plate [3, 19]. A hydrostatic test pressure of 5 bar must be applied continuously for 24 hours at 27 ± 2 °C and 65 ± 5% RH, and the sample must remain completely watertight [19].",
+        "clause_reference": "Annex P, Clauses P-1 to P-5",
+        "page_reference": "Page 17",
+        "citations": "[3, 19, 20]"
+      },
+      {
+        "requirement_type": "Dimensional Stability After Heating (Annex R)",
+        "detail": "Specimens must be suspended vertically in an oven at 70 °C for 2 hours [21]. The displacement/change in dimensions is measured, and a mean change greater than 2.0 mm constitutes a dimensional stability failure [21].",
+        "clause_reference": "Annex R, Clause R-1",
+        "page_reference": "Page 20",
+        "citations": "[21]"
+      },
+      {
+        "requirement_type": "Pond Subgrade Compaction Limits",
+        "detail": "During installation, a layer of soft soil must be applied, and the subgrade and slopes must be compacted to at least 90 percent of proctor density up to a depth of 300 mm to provide solid support for the geomembrane [22]. Anchor trenches (typically 500 mm x 500 mm) must secure the edges of the liner [23, 24].",
+        "clause_reference": "Annex W, Clauses W-1.4.6, W-1.4.7 & W-1.5",
+        "page_reference": "Page 25",
+        "citations": "[22, 23]"
+      },
+      {
+        "requirement_type": "Corner Safety Shade Nets (Clause W-1.11.2)",
+        "detail": "To prevent damage to the liner, shade nets must be installed over the geomembrane at the corners of ponds or reservoirs, providing crawling friction so trapped reptiles can escape instead of clawing and tearing the sheet [23, 24].",
+        "clause_reference": "Annex W, Clause W-1.11.2",
+        "page_reference": "Pages 25-27",
+        "citations": "[23, 24]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15909 : 2020",
+    "PVC Geomembranes",
+    "Flexible Polyvinyl Chloride",
+    "Lining Materials",
+    "Canal Seepage Control",
+    "Landfill Containment",
+    "Heat Fusion Lamination",
+    "Wide-width tensile",
+    "Tear Propagation Strength",
+    "Xenon-Arc UV Exposure",
+    "Low Temperature Crack Resistance",
+    "Hydrostatic Pressure Resistance",
+    "Pond Subgrade Compaction",
+    "Reptile Corner Shade Net",
+    "Geo Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15909 : 2020 is the mandatory national Indian Standard specification that regulates flexible PVC geomembranes used as impermeable liners in structural, civil, and environmental projects—such as canals, waste landfills, basements, and tunnels [2]. Under the mandatory national Geo Textiles Quality Control Order, all PVC geomembrane liners sold or imported in India must carry the BIS Standard Mark (ISI Mark) [6]. It divides geomembranes into Category A (for low-pressure seepage control and containment, ranging from 0.30 mm to 1.50 mm) [2, 11] and Category B (for high-pressure tunneling and tanking applications, ranging from 2.00 mm to 3.00 mm) [3, 5]. The standard enforces strict physical, mechanical, and environmental tests, such as Xenon-arc UV weathering for 500 hours [18], low-temperature crack resistance over mandrels [17], and 5-bar hydrostatic water pressure resistance [19], ensuring high-level durability and complete containment safety."
+  },
+  "source_information": {
+    "source_pdf_filename": "15909_2020.pdf",
+    "document_version_edition": "Second Revision, December 2020"
+  }
+}

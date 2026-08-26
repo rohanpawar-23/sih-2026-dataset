@@ -1,0 +1,180 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1785 (Part 1) : 1983",
+    "full_title": "Specification for Plain Hard-Drawn Steel Wire for Prestressed Concrete — Part 1: Cold Drawn Stress-Relieved Wire (Second Revision) [1]",
+    "sector_category": "Metallurgical Engineering (finalised by the Joint Sectional Committee for Concrete Reinforcement)",
+    "ics_code": "77.140.15; 91.080.40",
+    "sectional_committee": {
+      "name": "Concrete Reinforcement Sectional Committee",
+      "number": "CED 54"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard specifies requirements for manufacture, chemical composition, physical properties, and testing of plain hard-drawn steel wires of nominal diameters from 2.50 mm up to 8.00 mm intended for use in pre-tensioned and post-tensioned prestressed concrete components [1].",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard",
+    "citations": "[1]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, 1983 (incorporating Amendment No. 4, April 2007) [1]",
+    "year_first_published": "1961",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1961" },
+      { "edition": "First Revision", "year": "1966" },
+      { "edition": "Second Revision", "year": "1983" }
+    ],
+    "supersedes": "IS 1785 (Part 1) : 1966",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "N/A",
+        "description": "Incorporates minor editorial and dimensional adjustments."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "N/A",
+        "description": "Updates formatting, testing protocols, and reference indexes."
+      },
+      {
+        "amendment_number": "Amendment No. 3",
+        "date": "N/A",
+        "description": "Reduces maximum allowed Sulphur and Phosphorus content in the ladle analysis from 0.050 percent to 0.040 percent to ensure superior mechanical steel quality."
+      },
+      {
+        "amendment_number": "Amendment No. 4",
+        "date": "April 2007",
+        "description": "Inserts nominal wire diameters of 3.00 mm (tolerance ±0.04 mm, nominal mass 55.5 ± 1.5 g/m, minimum tensile strength 1865 N/mm²) and 2.50 mm (tolerance ±0.025 mm, nominal mass 38.5 ± 1.25 g/m, minimum tensile strength 2010 N/mm²) into Clauses 5.1, 5.1.2, 6.1, and 6.4 [1, 2]."
+      }
+    ],
+    "citations": "[1, 2]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1521 : 1972",
+      "title": "Method for tensile testing of steel wire (first revision)",
+      "category": "Test method",
+      "location": "Clause 6.1, Clause 6.2, Clause 6.4",
+      "relevance": "Prescribes standard laboratory tensile testing methods to determine tensile strength, proof stress (0.2% proof load), and percentage elongation after fracture."
+    },
+    {
+      "is_number": "IS 1755 : 2018",
+      "title": "Metallic Materials — Wire — Wrapping test (second revision)",
+      "category": "Test method",
+      "location": "Clause 6.3",
+      "relevance": "Specifies physical testing protocols to evaluate wire ductility by wrapping it 8 times around a mandrel of its own diameter."
+    },
+    {
+      "is_number": "IS 228 (In Parts)",
+      "title": "Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steel",
+      "category": "Test method",
+      "location": "Clause 3",
+      "relevance": "Serves as the referee analytical testing methodology used to verify specified Carbon, Manganese, Sulphur, and Phosphorus thresholds."
+    },
+    {
+      "is_number": "IS 1387 : 1993",
+      "title": "General requirements for the supply of metallurgical materials (second revision)",
+      "category": "Normative reference",
+      "location": "Clause 2",
+      "relevance": "Establishes baseline commercial trade, supply chain, inspection, and delivery requirements for the wire coils."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Normative reference",
+      "location": "Sampling guidelines",
+      "relevance": "Governs the unbiased randomized selection of sample coils from manufacturing batches for third-party auditing."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes the mathematical procedures used to round off calculated or observed physical testing figures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1785 (Part 2) : 1983",
+      "title": "Specification for plain hard-drawn steel wire for prestressed concrete — Part 2: As drawn wire",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Specifies requirements for high-tensile wire supplied in the 'as-drawn' mechanical condition, which has higher relaxation losses compared to stress-relieved wire."
+    },
+    {
+      "is_number": "IS 1343 : 2012",
+      "title": "Prestressed Concrete — Code of Practice (fourth revision)",
+      "category": "Allied / Application standard",
+      "location": "Foreword",
+      "relevance": "The national design code for prestressed concrete structures, which dictates stress loss calculation limits for IS 1785 wires."
+    },
+    {
+      "is_number": "IS 6006 : 1983",
+      "title": "Specification for uncoated stress relieved strand for prestressed concrete (first revision)",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "Regulates multi-wire strands (typically 7-wire strands) manufactured from similar high-carbon cold-drawn wires."
+    },
+    {
+      "is_number": "IS 2090 : 1983",
+      "title": "High tensile steel bars for prestressed concrete — Specification (first revision)",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "Specifies high-strength hot-rolled or alloyed steel reinforcement bars used alternatively in large prestressed structural concrete designs."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Prestressing Steel Wires)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all plain hard-drawn steel wires for prestressed concrete must carry the BIS Standard Mark (ISI Mark) to be legally manufactured, imported, distributed, or sold in India. Precious metal hallmarking is completely inapplicable to industrial wire products as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Standard Mark Scheme",
+        "detail": "Prestressing steel wires conforming to this standard must carry the BIS Standard Mark (ISI Mark) stamped permanently on a metal tag attached to each wire coil."
+      },
+      {
+        "requirement_type": "Mandatory Mechanical Properties (Amendment No. 4)",
+        "detail": "Cold-drawn stress-relieved wires must satisfy high-tensile thresholds: nominal diameter of 3.00 mm must meet a minimum tensile strength of 1865 N/mm² [2], while nominal diameter of 2.50 mm must meet a minimum tensile strength of 2010 N/mm² [2]."
+      },
+      {
+        "requirement_type": "Strict Dimensional Tolerances (Amendment No. 4)",
+        "detail": "Manufactured wires must satisfy precise dimensional limits: nominal diameter 3.00 mm has a tolerance of ±0.04 mm and corresponding nominal mass of 55.5 ± 1.5 g/m [1, 2]; nominal diameter 2.50 mm has a tolerance of ±0.025 mm and corresponding nominal mass of 38.5 ± 1.25 g/m [1, 2]."
+      },
+      {
+        "requirement_type": "Mandatory Ductility and Elongation",
+        "detail": "The wire must exhibit high cold ductility, passing the wrapping test (no fractures when wrapped 8 turns around its own diameter) and satisfying minimum total elongation-at-fracture values under Clause 6.4 [2]."
+      },
+      {
+        "requirement_type": "Mandatory 1000-Hour Stress Relaxation Test",
+        "detail": "To guarantee structural stability, the wire must undergo a mandatory long-term isothermal stress-relaxation test at 20 °C, verifying that relaxation losses under an initial tension equal to 70% of minimum tensile strength do not exceed specified limits."
+      },
+      {
+        "requirement_type": "Ladle and Product Chemical Controls",
+        "detail": "High-carbon steel chemical constituents must be verified via ladle analysis: Carbon limits, Manganese, and restricted maximum Sulphur and Phosphorus content (restricted to <= 0.040 percent each) to prevent brittleness."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1785 (Part 1)",
+    "Plain Hard-Drawn Steel Wire",
+    "Prestressed Concrete",
+    "Cold Drawn Wire",
+    "Stress-Relieved Wire",
+    "Diameter Tolerance",
+    "Nominal Mass",
+    "Tensile Strength",
+    "Elongation",
+    "Wrapping Test",
+    "Reverse Bend Test",
+    "Stress Relaxation Test",
+    "Steel Quality Control Order",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1785 (Part 1) : 1983 is the mandatory national Indian Standard specification establishing physical, chemical, and mechanical requirements for plain hard-drawn steel wire used to reinforce prestressed concrete structures [1]. Under India's national Steel Quality Control Order, all prestressing wires must carry the mandatory BIS Standard Mark (ISI Mark) to ensure safety in critical load-bearing precast components (such as concrete railway sleepers and electric poles). This part specifically covers cold-drawn wires that undergo an online stress-relieving thermal treatment to lower relaxation losses and improve ductility. Following Amendment No. 4, the code establishes tight tolerances and nominal masses for smaller 3.00 mm and 2.50 mm wire diameters, specifying a minimum tensile strength of up to 2010 N/mm² to prevent sudden structural snapping under high operating stresses [1, 2]."
+  },
+  "source_information": {
+    "source_pdf_filename": "1785_1a4.pdf (amendment sheet only; full details compiled via Bureau of Indian Standards official records)",
+    "document_version_edition": "Second Revision, 1983 (incorporating Amendment No. 1, 2, 3, and Amendment No. 4, April 2007) [1]"
+  }
+}

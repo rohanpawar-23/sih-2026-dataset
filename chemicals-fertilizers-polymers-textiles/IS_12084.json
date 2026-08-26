@@ -1,0 +1,217 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12084 : 2018",
+    "full_title": "Morpholine — Specification (First Revision)",
+    "sector_category": "Chemical (approved by the Chemical Division Council and finalized by the Water Quality for Industrial Purposes Sectional Committee of the Bureau of Indian Standards) [1]",
+    "ics_code": "71.080.30",
+    "sectional_committee": {
+      "name": "Water Quality for Industrial Purposes Sectional Committee",
+      "number": "CHD 13"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements and methods of sampling and test for morpholine [2]. Morpholine is an organic amine compound primarily utilized in industrial settings as a volatile corrosion inhibitor in steam boiler systems, as well as an intermediate in the synthesis of rubber additives, pharmaceuticals, and agricultural chemicals.",
+    "clause_number": "Clause 1 (Amended)",
+    "page_number": "Page 1 of base standard & Page 1 of Amendment No. 1",
+    "citations": "[2]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2018 (incorporating Amendment No. 1, August 2023)",
+    "year_first_published": "1987",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1987" },
+      { "edition": "First Revision", "year": "2018" }
+    ],
+    "supersedes": "IS 12084 : 1987",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "August 2023",
+        "description": "Substitutes Clause 1 to refine the standard's scope; completely replaces Table 1 to update testing methods and introduce optional ICP-OES and ICP-MS testing routes [2]; inserts normative references for IS 3025 (Part 2) and (Part 65) [3]; and appends Annex F detailing precise automated acid digestion and fusion sample preparation methodologies [1, 4]."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 3025 (Part 2) : 2019 / ISO 11885 : 2007",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 2 Determination of selected elements by inductively coupled plasma optical emission spectrometry (ICP - OES)",
+      "category": "Test method",
+      "location": "Page 3, Annex A (Amended)",
+      "relevance": "Referenced for the determination of trace iron, copper, nickel, and silica impurities using advanced optical emission spectrometry [3]."
+    },
+    {
+      "is_number": "IS 3025 (Part 65) : 2022 / ISO 17294-2 : 2016",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 65 Application of inductively coupled plasma mass spectrometry (ICP - MS) — Determination of selected elements including uranium isotopes",
+      "category": "Test method",
+      "location": "Page 3, Annex A (Amended)",
+      "relevance": "Referenced as a high-precision mass-spectrometric method for quantifying trace metals and silica in morpholine [3]."
+    },
+    {
+      "is_number": "IS 3025 (Part 4)",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 4 Colour",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. iii)",
+      "relevance": "Used to evaluate the colour of morpholine against the Platinum-Cobalt (Pt-Co) scale."
+    },
+    {
+      "is_number": "IS 5298",
+      "title": "Method of test for determination of boiling range",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. iv)",
+      "relevance": "Prescribes testing parameters to verify the boiling range and fractional distillation recovery of morpholine."
+    },
+    {
+      "is_number": "IS 3025 (Part 53)",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 53 Iron",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. vii)",
+      "relevance": "Provides the baseline chemical analysis route to measure trace iron impurities."
+    },
+    {
+      "is_number": "IS 3025 (Part 42)",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 42 Copper",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. viii)",
+      "relevance": "Provides the baseline chemical analysis route to measure trace copper impurities."
+    },
+    {
+      "is_number": "IS 3025 (Part 54)",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 54 Nickel",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. ix)",
+      "relevance": "Provides the baseline chemical analysis route to measure trace nickel impurities."
+    },
+    {
+      "is_number": "IS 3025 (Part 35)",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 35 Silica",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. x)",
+      "relevance": "Provides the baseline chemical analysis route to measure trace silica impurities."
+    },
+    {
+      "is_number": "IS 3025 (Part 32)",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 32 Chloride",
+      "category": "Test method",
+      "location": "Table 1 (Amended, Sl No. xi)",
+      "relevance": "Provides the baseline chemical analysis route to measure trace chloride impurities."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Sampling guidelines (implied)",
+      "relevance": "Governs statistical random sampling of chemical containers from batches to ensure representative evaluation."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword (implied)",
+      "relevance": "Controls the standard mathematical rounding routines used on calculated and observed physical or chemical testing figures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15573 : 2018",
+      "title": "Polyaluminium Chloride — Specification",
+      "category": "Allied / Water Treatment standard",
+      "location": "Foreword",
+      "relevance": "A sister chemical standard developed under the same sectional committee (CHD 13) for water purification, also subject to mandatory QCO guidelines."
+    },
+    {
+      "is_number": "IS 10116 : 2015",
+      "title": "Boric Acid — Specification",
+      "category": "Allied / Chemical standard",
+      "location": "Foreword",
+      "relevance": "Related industrial acid chemical also placed under mandatory Quality Control Orders (QCO) in India."
+    },
+    {
+      "is_number": "IS 5158 : 2025",
+      "title": "Phthalic Anhydride, Technical — Specification",
+      "category": "Allied / Organic Chemical standard",
+      "location": "Foreword",
+      "relevance": "Parallel organic chemical intermediate standard subjected to mandatory BIS marking and QCO enforcement."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Industrial & Water-Treatment Chemicals)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Morpholine (Quality Control) Order' issued by the Ministry of Chemicals and Fertilizers, Government of India, all morpholine manufactured, imported, distributed, or sold in India must conform to IS 12084 and carry the mandatory BIS Standard Mark (ISI Mark) to be legally distributed in the domestic market. Precious metal hallmarking is completely inapplicable to industrial chemical compounds, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Standard Mark Scheme",
+        "detail": "Polyaluminium and organic chemical containers of morpholine conforming to this standard must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L)."
+      },
+      {
+        "requirement_type": "Purity (as Morpholine) (Table 1 - Amended)",
+        "detail": "The minimum allowed purity of the chemical must be 99.0 percent by mass, tested in accordance with the acidimetric titration method specified in Annex B.",
+        "clause_reference": "Table 1 (Sl No. i)"
+      },
+      {
+        "requirement_type": "Relative Density (Table 1 - Amended)",
+        "detail": "The relative density of the liquid compound at 20/20 °C must be a minimum of 1.001, evaluated per Annex C.",
+        "clause_reference": "Table 1 (Sl No. ii)"
+      },
+      {
+        "requirement_type": "Colour scale limits (Table 1 - Amended)",
+        "detail": "The colour of morpholine must be clear and light, not exceeding 15 units on the Platinum-Cobalt (Pt-Co) scale when tested per IS 3025 (Part 4).",
+        "clause_reference": "Table 1 (Sl No. iii)"
+      },
+      {
+        "requirement_type": "Boiling Range (Table 1 - Amended)",
+        "detail": "Boiling range characteristics must be highly controlled: the temperature must remain between 125 °C and 129 °C for 90 percent recovery of the distilled fraction when tested per IS 5298.",
+        "clause_reference": "Table 1 (Sl No. iv)"
+      },
+      {
+        "requirement_type": "Residue and Ash (Table 1 - Amended)",
+        "detail": "To prevent particulate fouling, residues on evaporation must not exceed a maximum of 1000 mg/l (Annex D), and the ash content must not exceed 0.003 g/100 ml (Annex E).",
+        "clause_reference": "Table 1 (Sl No. v & vi)"
+      },
+      {
+        "requirement_type": "Chloride and Silica Limits (Table 1 - Amended)",
+        "detail": "Trace contaminants must remain within low safety thresholds: Silica (as SiO2) is restricted to a maximum of 5 ppm, and Chloride (as Cl) is limited to a maximum of 5 ppm.",
+        "clause_reference": "Table 1 (Sl No. x & xi)"
+      },
+      {
+        "requirement_type": "Trace Heavy Metal Limits (Table 1 - Amended)",
+        "detail": "The maximum permissible concentration for trace iron (Fe), copper (Cu), and nickel (Ni) impurities is strictly limited to 5 ppm each.",
+        "clause_reference": "Table 1 (Sl No. vii, viii, ix)"
+      },
+      {
+        "requirement_type": "Sample Preparation for Cu, Fe, and Ni by ICP (Annex F - Amended)",
+        "detail": "In case of determination by ICP-OES or ICP-MS, sample preparation must be followed as per F-1. Reagents include de-ionized water, 96% H2SO4, 70% HClO4, 65% HNO3, 36% HCl, 99.9% Cs2SO4, and a mixed acid (HNO3:H2SO4:HClO4, 2:1:1 ratio) or Acid Mixture 1 (H2SO4:HNO3, 39:1 ratio with 2.2 g/l Cs2SO4). Weigh 0.35 g to 0.40 g of sample into the automated digestion system, add acid mixture, crack at 320 °C, completely digest organic remnants at 160 °C, evaporate to dryness, boil residue with 5% HCl, and perform duplicate determinations to report the mean value.",
+        "clause_reference": "Clause F-1 & Table 1 Footnote 1",
+        "page_reference": "Pages 2-3 of Amendment No. 1"
+      },
+      {
+        "requirement_type": "Sample Preparation for Silica by ICP (Annex F - Amended)",
+        "detail": "In case of determination by ICP-OES or ICP-MS, sample preparation must be followed as per F-2. Reagents include 50% HCl, 0.4 g K2CO3-Na2CO3 and 0.1 g Na2B4O7 (soda-borax, 4:1 w/w mix). Pre-condition a platinum dish at 550 °C for 10 min. Weigh 100 g to 115 g sample in portions of 20 g to 40 g into the Pt dish, burn above a Bunsen burner, incinerate residues at 550 °C for 30 min in a muffle furnace, homogenize residue with soda-borax mix, melt over open flame, dissolve cooled melt cake in 6 ml HCl and 10 ml water, heat, and dilute to 50 ml for duplicate determinations.",
+        "clause_reference": "Clause F-2 & Table 1 Footnote 2",
+        "page_reference": "Page 3 of Amendment No. 1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12084:2018",
+    "Morpholine",
+    "Volatile Amine",
+    "Boiler Water Treatment",
+    "Corrosion Inhibitor",
+    "Pt-Co Colour Scale",
+    "Boiling Range Distillation",
+    "Residue on Evaporation",
+    "Trace Heavy Metals",
+    "Annex F Sample Digestion",
+    "Silica Fusion Method",
+    "ICP-OES ICP-MS",
+    "Chemical QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12084 : 2018 is the national Indian Standard specification governing Morpholine, a critical cyclic organic chemical intermediate and volatile amine corrosion inhibitor extensively used in water-treatment for industrial boiler steam loops. Following the enforcement of the national chemical Quality Control Order (QCO), morpholine cannot be manufactured, imported, or sold in India without carrying the mandatory BIS Standard Mark (ISI Mark). Amendment No. 1 (August 2023) completely replaces the quality requirements of Table 1 and updates the standard to permit trace metal (Fe, Cu, Ni) and silica determinations through modern ICP-OES or ICP-MS instruments. It establishes strict sample-handling protocols in Annex F, detailing automated acid digestion at 320 °C and soda-borax platinum-dish fusions at 550 °C to eliminate organic remnants and ensure highly accurate, duplicate chemical analyses."
+  },
+  "source_information": {
+    "source_pdf_filename": "12084_amd1.pdf",
+    "document_version_edition": "First Revision, 2018 (incorporating Amendment No. 1, August 2023)"
+  }
+}

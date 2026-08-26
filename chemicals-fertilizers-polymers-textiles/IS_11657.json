@@ -1,0 +1,213 @@
+{
+  "basic_identification": {
+    "is_number": "IS 11657 : 2025",
+    "full_title": "Phosphorus Oxychloride, Technical — Specification (Second Revision)",
+    "sector_category": "Chemical (approved by the Chemical Division Council and finalized by the Inorganic Chemicals Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "71.060.99",
+    "sectional_committee": {
+      "name": "Inorganic Chemicals Sectional Committee",
+      "number": "CHD 01"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements and methods of sampling and test for technical-grade phosphorus oxychloride (POCl3). It finds wide application as a catalyst and chlorinating agent in dyestuff, pesticide, and pharmaceutical industries. It is also a key intermediate in manufacturing phosphoric acid tri-esters, which are utilized in plasticizers and as additives for motor fuels and lubricating oils.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard / Image 14",
+    "citations": "[5, 7, Image 14]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, October 2025 (incorporating Amendment No. 1)",
+    "year_first_published": "1986",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1986" },
+      { "edition": "First Revision", "year": "2020" },
+      { "edition": "Second Revision", "year": "2025" }
+    ],
+    "supersedes": "IS 11657 : 2020",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "N/A",
+        "description": "Incorporated directly into the second revision text; updates referenced Indian Standards and adjusts baseline testing methodologies."
+      }
+    ],
+    "citations": "[1, 2]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1070 : 2023",
+      "title": "Reagent grade water — Specification (fourth revision)",
+      "category": "Normative reference",
+      "location": "Clause B-1 & Annex A",
+      "relevance": "Prescribes pure chemicals and distilled water requirements to be employed across all chemical testing and dilution setups.",
+      "citations": "[3, 4]"
+    },
+    {
+      "is_number": "IS 1260 (Part 1) : 1973",
+      "title": "Pictorial marking for handling and labelling of dangerous goods: Part 1 Dangerous goods (first revision)",
+      "category": "Safety reference",
+      "location": "Clause 4.2 & Annex A",
+      "relevance": "Provides the required 'Poisonous' pictorial markings and hazard symbols that must be labeled on transport containers.",
+      "citations": "[9, Image 14]"
+    },
+    {
+      "is_number": "IS 2088 : 2023",
+      "title": "Methods for determination of arsenic (third revision)",
+      "category": "Test method",
+      "location": "Clause B-5.3 & Annex A",
+      "relevance": "Governs the reference analytical procedures to determine and limit toxic arsenic content.",
+      "citations": "[9, Image 14]"
+    },
+    {
+      "is_number": "IS 3025 (Part 2) : 2019 / ISO 11885 : 2007",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 2 Determination of selected elements by inductively coupled plasma optical emission spectrometry (ICP - OES) (first revision)",
+      "category": "Test method",
+      "location": "Clause B-8 & Annex A",
+      "relevance": "Enforces high-precision emission spectrometry to quantify trace heavy metals and arsenic.",
+      "citations": "[4, 5]"
+    },
+    {
+      "is_number": "IS 3025 (Part 65) : 2025 / ISO 17294-2 : 2023",
+      "title": "Methods of sampling and test (physical and chemical) for water and wastewater: Part 65 Application of inductively coupled plasma mass spectrometry (ICP-MS) — Determination of selected elements including uranium isotopes (second revision)",
+      "category": "Test method",
+      "location": "Clause B-5.1 & Annex A",
+      "relevance": "Establishes ICP-MS as the primary referee testing method for quantifying trace iron and arsenic impurities.",
+      "citations": "[4]"
+    },
+    {
+      "is_number": "IS 4905 : 2015 / ISO 24153 : 2009",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Normative reference",
+      "location": "Clause C-2.3 & Annex A",
+      "relevance": "Provides statistical randomization guidelines to select representative sample containers from consignments.",
+      "citations": "[4, 6]"
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes mathematical rounding off of observed or calculated test outcomes to verify compliance boundaries.",
+      "citations": "[2]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10116 : 2015",
+      "title": "Boric Acid — Specification",
+      "category": "Allied / Chemical standard",
+      "location": "Foreword (CHD 01 parallel)",
+      "relevance": "Sister chemical standard formulated by the same Inorganic Chemicals Sectional Committee (CHD 01) subject to mandatory quality control certification.",
+      "citations": "[1, 7]"
+    },
+    {
+      "is_number": "IS 15573 : 2018",
+      "title": "Polyaluminium Chloride — Specification",
+      "category": "Allied / Chemical standard",
+      "location": "Foreword",
+      "relevance": "Another major inorganic chemical standard subject to mandatory BIS certification marking for industrial and water purification use.",
+      "citations": "[8]"
+    },
+    {
+      "is_number": "IS 16113 : 2013",
+      "title": "Gamma Picoline — Specification",
+      "category": "Allied / Chemical standard",
+      "location": "Foreword",
+      "relevance": "Related industrial organic chemical intermediate utilized across pharmaceutical syntheses, under mandatory QCO guidelines.",
+      "citations": "[9]"
+    },
+    {
+      "is_number": "IS 5158 : 2025",
+      "title": "Phthalic Anhydride, Technical — Specification",
+      "category": "Allied / Chemical standard",
+      "location": "Foreword",
+      "relevance": "Parallel organic chemical intermediate standard extensively used in plasticizers, subject to identical statutory enforcement.",
+      "citations": "[10]"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Specialty / Inorganic Chemicals)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under Quality Control Orders issued by the Ministry of Chemicals and Fertilizers, Government of India, all technical-grade Phosphorus Oxychloride manufactured, imported, distributed, or sold in India must bear the mandatory BIS Standard Mark (ISI Mark). Precious metal hallmarking is completely inapplicable to industrial chemical liquids, as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every container of Phosphorus Oxychloride conforming to this standard must bear the BIS Standard Mark (ISI Mark) alongside the manufacturer's registered licence number (CM/L).",
+        "clause_reference": "Clause 4.2.1",
+        "page_reference": "Image 14"
+      },
+      {
+        "requirement_type": "Mandatory Danger Marking",
+        "detail": "The word 'Poisonous' together with the hazardous substance symbol specified in IS 1260 (Part 1) must be clearly printed on the container label.",
+        "clause_reference": "Clause 4.2",
+        "page_reference": "Image 14"
+      },
+      {
+        "requirement_type": "Water Reactivity Caution Label",
+        "detail": "Each container must prominently display the following warning: 'CAUTION — Phosphorus oxychloride is highly corrosive. When mixed with water, it decomposes with evolution of heat.'",
+        "clause_reference": "Clause 4.2",
+        "page_reference": "Image 14"
+      },
+      {
+        "requirement_type": "Assay Purity Limits",
+        "detail": "The material must possess a minimum assay purity of 98 percent by mass of POCl3, determined via the acidimetric or excess silver nitrate back-titration testing procedures.",
+        "clause_reference": "Table 1 (Sl No. iii) & Clause B-4",
+        "page_reference": "Page 5 & Image 14"
+      },
+      {
+        "requirement_type": "Trace Iron and Arsenic Limits",
+        "detail": "To ensure process safety and avoid downstream product contamination, trace impurities are strictly limited: Iron (as Fe) must not exceed 0.000 5 percent by mass (5 ppm), and Arsenic (as As) is capped at 0.000 2 percent by mass (2 ppm). Tests can be conducted chemically or via ICP-OES/ICP-MS.",
+        "clause_reference": "Table 1 (Sl No. iv, v) & Clauses B-5, B-6, B-8",
+        "page_reference": "Pages 5-8 & Image 14"
+      },
+      {
+        "requirement_type": "Phosphorus Trichloride (PCl3) Contaminant Limit",
+        "detail": "Free Phosphorus Trichloride (PCl3) content is capped at a maximum of 0.3 percent by mass. It must be analyzed using Gas Chromatography with a Nitrogen Phosphorus Detector (NPD) under controlled temperature and pressure environments.",
+        "clause_reference": "Table 1 (Sl No. vi) & Clause B-7",
+        "page_reference": "Pages 7-8 & Image 14"
+      },
+      {
+        "requirement_type": "Physical Characteristics and Boiling Range",
+        "detail": "The fuming liquid must be colourless to pale yellow with an irritating odour. It must have a relative density of 1.64 to 1.67 at 27 °C, and a boiling range of 104 °C to 108 °C for 95 percent distillation by volume.",
+        "clause_reference": "Clauses 3.1, Table 1 (Sl No. i, ii) & Clause B-2",
+        "page_reference": "Pages 1-2 & Image 14"
+      },
+      {
+        "requirement_type": "Approved Storage Materials",
+        "detail": "The highly corrosive chemical must be packed in drums fitted with polyethylene liners, in high-density polyethylene (HDPE) carboys, or in clean glass carboys.",
+        "clause_reference": "Clause 4.1",
+        "page_reference": "Image 14"
+      },
+      {
+        "requirement_type": "Sampling Frequencies and scale",
+        "detail": "Random container selection for testing must conform to Table 3 based on consignment lot sizes: up to 50 containers (select 3), 51-100 (4), 101-150 (5), 151-300 (7), and 301 and above (10).",
+        "clause_reference": "Clause C-2.2 & Table 3",
+        "page_reference": "Page 11"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 11657:2025",
+    "Phosphorus Oxychloride",
+    "POCl3",
+    "Specialty Chemical",
+    "Assay Purity",
+    "Boiling Range",
+    "Relative Density",
+    "Arsenic Limit",
+    "Iron Limit",
+    "Phosphorus Trichloride (PCl3)",
+    "Water Decomposition",
+    "Poisonous marking",
+    "Chemical QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 11657 : 2025 is the mandatory national Indian Standard specification establishing physical, chemical, and safety quality requirements for technical-grade Phosphorus Oxychloride (POCl3). Widely used as a chlorinating agent, catalyst, and intermediate for manufacturing plasticizers, dyestuffs, pesticides, and pharmaceuticals, it is subject to strict Quality Control Orders issued by the Indian government. This second revision updates referenced standards and incorporates modern testing alternatives—specifically permitting ICP-OES and ICP-MS for evaluating trace iron (maximum 5 ppm) and arsenic (maximum 2 ppm) impurities. It enforces a high purity of at least 98% POCl3 while capping unreacted phosphorus trichloride at 0.3%. Given its corrosive properties and dangerous hazard of decomposing with intense heat when in contact with water, all containers must prominently carry standard 'Poisonous' markings and a dedicated moisture-reaction caution label."
+  },
+  "source_information": {
+    "source_pdf_filename": "11657_2025.pdf",
+    "document_version_edition": "Second Revision, October 2025"
+  }
+}

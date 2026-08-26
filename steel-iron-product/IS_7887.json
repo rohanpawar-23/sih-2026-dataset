@@ -1,0 +1,174 @@
+{
+  "basic_identification": {
+    "is_number": "IS 7887 : 1992 (incorporating Amendment No. 1 and Amendment No. 2)",
+    "full_title": "Mild Steel Wire Rod for General Engineering Purposes — Specification (First Revision)",
+    "sector_category": "Metallurgical Engineering (approved by the Metallurgical Engineering Division Council and finalized by the Wrought Steel Products Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "77.140.60",
+    "sectional_committee": {
+      "name": "Wrought Steel Products Sectional Committee",
+      "number": "MTD 04"
+    },
+    "citations": ""
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements of hot-rolled mild steel wire rods in coils [1]. Under the second amendment, the scope is restricted strictly to coils [1], removing straightened and cut lengths.",
+    "clause_number": "Clause 1 (Amended)",
+    "page_number": "Page 1 of base standard & Page 1 of Amendment No. 2",
+    "citations": "[1]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 1992 (incorporating Amendment No. 2)",
+    "year_first_published": "1975",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1975" },
+      { "edition": "First Revision (with 15 grades of carbon steels introduced)", "year": "1992" }
+    ],
+    "supersedes": "IS 7887 : 1975",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "January 1995",
+        "description": "Updates chemical limits and referenced testing standards."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "N/A",
+        "description": "Substitutes Clause 1 to restrict the scope strictly to hot-rolled mild steel wire rods in coils [1] and replaces Table 1, Note 4 to permit any other restricted chemistry within specified grades upon mutual agreement between the manufacturer and purchaser [1]."
+      }
+    ],
+    "citations": "[1]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 228 (all parts)",
+      "title": "Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steel",
+      "category": "Test method",
+      "location": "Clause 7.1",
+      "relevance": "Serves as the referee analytical testing methodology used to verify specified Carbon, Manganese, Silicon, Sulphur, and Phosphorus limits of the grades."
+    },
+    {
+      "is_number": "IS 1608 (Part 1)",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Test method",
+      "location": "Physical Properties / Testing",
+      "relevance": "Used to evaluate physical mechanical properties, such as yield strength and ultimate tensile strength (UTS), if requested by the purchaser."
+    },
+    {
+      "is_number": "IS 1500 (Part 1)",
+      "title": "Metallic materials — Brinell hardness test: Part 1 test method",
+      "category": "Test method",
+      "location": "Physical Properties / Testing",
+      "relevance": "Referenced to measure and verify Brinell hardness numbers (HBW) of the hot-rolled wire rod coils."
+    },
+    {
+      "is_number": "IS 1387 : 1993",
+      "title": "General requirements for the supply of metallurgical materials (second revision)",
+      "category": "Normative reference",
+      "location": "Foreword",
+      "relevance": "Establishes baseline commercial trade, supply chain, inspection, and technical delivery conditions for the wire rods."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Normative reference",
+      "location": "Sampling",
+      "relevance": "Prescribes statistical randomization methods to select unbiased sample coils from manufacturing batches for quality control audits."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine standard limits."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 280 : 2006",
+      "title": "Mild steel wire for general engineering purposes — Specification",
+      "category": "Allied / Downstream product standard",
+      "location": "Foreword",
+      "relevance": "The national standard for general engineering wires (e.g. binding wire, mesh, nails), which specifies that the raw input material used should conform to IS 7887."
+    },
+    {
+      "is_number": "IS 11169 (Part 1) : 2022",
+      "title": "Steels for cold heading/cold extrusion application: Part 1 Wrought carbon and low alloy steels",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Governs carbon and low-alloy steel wire rods optimized for cold-heading processes such as bolts, screws, and fasteners."
+    },
+    {
+      "is_number": "IS 7904 : 2018",
+      "title": "Carbon steel wire rods — Specification (second revision)",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Specifies high carbon steel wire rods intended for drawing high-strength wires (such as spring wire or wire ropes), as opposed to mild steel."
+    },
+    {
+      "is_number": "IS 2255 : 1977",
+      "title": "Specification for Mild Steel Wire Rod for the Manufacture of Machine Screws (By Cold Heading)",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "Details specialized high-ductility mild steel wire rods manufactured specifically for cold-headed machine screws."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Steel Wire Rods)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all mild steel wire rods used for general engineering purposes in India must conform to IS 7887:1992 and bear the BIS Standard Mark (ISI Mark). Manufacturing, stocking, selling, or importing non-certified wire rods is a legal offence. Precious metal hallmarking is completely inapplicable to heavy metallurgical products as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Standard Mark Scheme",
+        "detail": "Wire rod coils conforming to this standard must carry the BIS Standard Mark (ISI Mark) stamped permanently on a secure metal tag attached to each coil.",
+        "clause_reference": "Clause 14 (implied)"
+      },
+      {
+        "requirement_type": "Ladle Analysis and Chemical Composition",
+        "detail": "Ladle analysis must conform to the strict chemical composition thresholds defined in Table 1 for 15 specified grades. Delineated parameters cover Carbon, Manganese, Sulphur, Phosphorus, and Silicon limits. For example, common Grade 2 limits Carbon to 0.08% max, and Manganese to 0.25 - 0.40% with Silicon at 0.15 - 0.35%.",
+        "clause_reference": "Clause 7.1 & Table 1"
+      },
+      {
+        "requirement_type": "Permissible Restricted Chemistry",
+        "detail": "By mutual agreement between the manufacturer and the purchaser, any other restricted chemical composition limits within specified grades can be defined to suit downstream drawing or fabrication needs [1].",
+        "clause_reference": "Table 1, Note 4 (Amended) [1]"
+      },
+      {
+        "requirement_type": "Dimensional and Out-of-Shape Tolerances",
+        "detail": "Hot-rolled wire rods must satisfy strict dimensional limits to prevent drawability failure: nominal size tolerances must be within ±0.40 mm max, and out-of-shape variance must not exceed 0.60 mm max.",
+        "clause_reference": "Clause 9"
+      },
+      {
+        "requirement_type": "Freedom from Defects",
+        "detail": "The wire rods must be clean, homogeneous, and entirely free from harmful surface defects such as cracks, seams, piping, deep scratches, or severe scale that would compromise cold-drawing performance.",
+        "clause_reference": "Clause 11"
+      },
+      {
+        "requirement_type": "Standard Retesting Protocol",
+        "detail": "If any sample fails a physical or chemical test, two additional samples must be drawn from the same lot. Both retests must pass for the lot to be accepted; otherwise, it is rejected [2].",
+        "clause_reference": "Clause 10 [2]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 7887:1992",
+    "Mild Steel",
+    "Wire Rod",
+    "Hot Rolled Coils",
+    "General Engineering",
+    "SWRM8",
+    "SAE 1008",
+    "SAE 1006",
+    "Ladle Analysis",
+    "Restricted Chemistry",
+    "Out of Shape Tolerance",
+    "Steel QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 7887 : 1992 is the strict national Indian Standard specification governing hot-rolled mild steel wire rods supplied in coils for general engineering and downstream wire drawing (such as nails, binding wire, and mesh). Under India's national Steel Quality Control Order, all such wire rods must bear the mandatory BIS Standard Mark (ISI Mark). The standard establishes chemical compositions for 15 carbon steel grades, allows customized restricted chemistries on mutual agreement per Amendment No. 2 [1], sets tight dimensional tolerances, and mandates strict surface and testing controls to ensure seamless drawability without mechanical failure."
+  },
+  "source_information": {
+    "source_pdf_filename": "7887a2.pdf (amendment sheet only; full details compiled via Bureau of Indian Standards official records)",
+    "document_version_edition": "First Revision, 1992 (incorporating Amendment No. 1 and Amendment No. 2)"
+  }
+}

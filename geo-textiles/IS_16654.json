@@ -1,0 +1,227 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16654 : 2017",
+    "full_title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+    "sector_category": "Textiles / Technical Textiles (approved by the Textile Division Council and finalized by the Geosynthetics Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "59.080.70; 93.160",
+    "sectional_committee": {
+      "name": "Geosynthetics Sectional Committee",
+      "number": "TXD 30"
+    },
+    "citations": ""
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, sampling methods, and test procedures for geobags manufactured from polypropylene (PP) multifilament woven geotextiles. These geobags are permeable, synthetic containers designed to be filled with sand or soil for use in hydraulic and civil structures, such as river training works, bank revetments, groynes, coastal embankments, and artificial reefs to prevent soil erosion and manage floods. Woven slit-film geotextiles (made from flat tape-like yarns) are explicitly prohibited from use under this standard for permanent erosion control.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard",
+    "citations": ""
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, April 2017 (Reviewed and Reaffirmed in 2023)",
+    "year_first_published": "2017",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2017" }
+    ],
+    "supersedes": "N/A (Developed as a new standard)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the standard is active and has zero amendments on this copy).",
+    "citations": ""
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 13162 (Part 5) / IS 16635",
+      "title": "Geotextiles — Wide-width tensile test",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (i), (ii)]",
+      "relevance": "Prescribes standard laboratory procedures to evaluate wide-width tensile strength and elongation in both Machine Direction (MD) and Cross-Machine Direction (CD).",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 15060",
+      "title": "Test method for seam strength of geomembranes / geotextiles",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (iii)]",
+      "relevance": "Governs the evaluation of pre-fabricated joint efficiency, ensuring the seams can withstand intense hydraulic pressure without tearing.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 14293",
+      "title": "Geotextiles — Method for determination of trapezoid tearing strength",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (v)]",
+      "relevance": "Specifies physical testing protocols to determine the tearing resistance of the geobag fabric under concentrated tension.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 13162 (Part 4)",
+      "title": "Geotextiles — Method for determination of CBR puncture resistance",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (vi)]",
+      "relevance": "Enforces steel plunger test methods (CBR puncture) to ensure geobags resist piercing by sharp stones or branches.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 13162 (Part 3) / IS 14324",
+      "title": "Water permeability / Permittivity at 100 mm water head",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (vii)]",
+      "relevance": "Regulates hydraulic testing to verify that water flow rate through the bag is high enough to relieve hydrostatic water build-up.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 14294",
+      "title": "Determination of Apparent Opening Size (AOS) of geotextiles",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (viii)]",
+      "relevance": "Mandates dry-sieving glass bead techniques to verify the maximum fabric pore size (AOS) to prevent filled sand leaching.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 1964 / IS 14716",
+      "title": "Determination of mass per unit area of geotextiles (GSM)",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (ix)]",
+      "relevance": "Governs the weight verification (mass per unit area) of the fabric on conditioned specimens.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 13162 (Part 2)",
+      "title": "Geotextiles — Methods of test: Part 2 Determination of resistance to the exposure of ultraviolet light, moisture and heat (xenon-arc type apparatus)",
+      "category": "Test method",
+      "location": "Table 1 [Sl No. (v)]",
+      "relevance": "Regulates UV weathering exposure setups for 500 hours to verify fabric strength retention under sunlight.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Clause 10",
+      "relevance": "Prescribes standard randomization tables to select representative sample geobag rolls from lots for auditing.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine standard limits.",
+      "citations": ""
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16653 : 2017",
+      "title": "Geosynthetics — Needle punched nonwoven geobags for coastal and waterways protection — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "The parallel sister standard governing geobags made of needle-punched nonwoven geotextiles rather than woven multifilament fabrics.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 14715 (Part 1) : 2016",
+      "title": "Jute Geotextiles — Part 1: Strengthening of Sub-grade in Roads",
+      "category": "Allied / Application standard",
+      "location": "Foreword",
+      "relevance": "Regulates natural jute geotextile grids used alternatively for sub-grade and roadbed reinforcement.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 14715 (Part 2) : 2016",
+      "title": "Jute Geotextiles — Part 2: Control of Bank Erosion in Rivers",
+      "category": "Allied / Application standard",
+      "location": "Foreword",
+      "relevance": "Specifies natural biodegradable jute layouts for temporary slope erosion and bank control in waterways.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 15869 : 2020",
+      "title": "Open Weave Coir Bhoovastra — Specification",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "Regulates natural coir matrices used to stabilize river banks and hillsides until vegetation roots establish.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 15351 : 2015",
+      "title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
+      "category": "Allied / Product standard",
+      "location": "Foreword",
+      "relevance": "Specifies heavy HDPE waterproof liners used for deep reservoir and pond containment linings.",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Technical Textiles / Geosynthetics)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order' issued by the Ministry of Textiles, Government of India, all Polypropylene Multifilament Woven Geobags must carry the mandatory BIS Standard Mark (ISI Mark) to be legally manufactured, imported, distributed, or sold in India. Export-only products conform to buyer specifications but are exempt. Precious metal hallmarking is completely inapplicable to synthetic geotextiles.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Standard Mark Scheme",
+        "detail": "Geobag rolls and prefabricated bundles must bear the BIS Standard Mark (ISI Mark) permanently printed or tagged, detailing the manufacturer's licence number (CM/L).",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Types of Geobags",
+        "detail": "The standard classifies geobags into two varieties based on nominal mass per unit area: Type 1 (nominal mass 200 g/m²) and Type 2 (nominal mass 300 g/m²).",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Fabric Material Quality Requirements",
+        "detail": "The raw PP multifilament woven fabric/geotextile must conform to the requirements of Clause 4.1.1. The polyester/polypropylene stitching thread used for geobag pre-fabrication must satisfy Clause 4.3, verified via supplier certificates.",
+        "clause_reference": "Clause 4.1.1 & Clause 4.3"
+      },
+      {
+        "requirement_type": "Mandatory Mechanical Properties (Type 2 / 300 GSM)",
+        "detail": "Type 2 geobags must meet a minimum wide-width tensile strength of 80 kN/m in the Machine Direction (MD) and 70 kN/m in the Cross-Machine Direction (CD). Design elongation at maximum load must not exceed 25 percent in either direction.",
+        "clause_reference": "Table 1 (Sl No. i, ii)"
+      },
+      {
+        "requirement_type": "Pre-fabricated Seam Strength",
+        "detail": "Prefabricated joints and seams on the geobags must exhibit high efficiency, retaining a seam strength equal to at least 50 percent of the actual parent fabric tensile strength.",
+        "clause_reference": "Table 1 (Sl No. iii)"
+      },
+      {
+        "requirement_type": "Mandatory Tear and Puncture Resistance (Type 2 / 300 GSM)",
+        "detail": "Type 2 geobags must satisfy a minimum trapezoidal tear strength of 1500 N in MD and 1300 N in CD, alongside a minimum CBR puncture resistance of 900 N.",
+        "clause_reference": "Table 1 (Sl No. v, vi)"
+      },
+      {
+        "requirement_type": "Hydraulic Properties and opening size",
+        "detail": "Type 2 geobags must maintain water permeability at 100 mm water head of >= 18 l/m²/s, and the Apparent Opening Size (AOS) must be <= 250 microns.",
+        "clause_reference": "Table 1 (Sl No. vii, viii)"
+      },
+      {
+        "requirement_type": "Isothermal UV Weathering Limits",
+        "detail": "The geobags must undergo 500 hours of continuous ultraviolet light exposure in a Xenon-arc apparatus (per IS 13162 Part 2). After exposure, the fabric must retain at least 80 percent of its original tensile strength in both machine and cross-machine directions.",
+        "clause_reference": "Table 1 (Sl No. v) / Cl. 4.1.1"
+      },
+      {
+        "requirement_type": "Standard Geobag Dimension Metrics",
+        "detail": "Geobag dimensions must satisfy specified ranges: small geobags (nominal size 1.0 m x 0.7 m) and large geobags (nominal size 2.0 m x 1.5 m) must conform to design lengths, widths, and nominal sand-filled volumes.",
+        "clause_reference": "Table 1 [Sl No. (ii), (iii), (iv)]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16654:2017",
+    "Geosynthetics",
+    "Polypropylene Geobags",
+    "Multifilament Woven",
+    "Erosion Control",
+    "Waterways Protection",
+    "Revetments",
+    "CBR Puncture Strength",
+    "Seam Efficiency",
+    "Wide-Width Tensile",
+    "Xenon-Arc UV Exposure",
+    "Geo Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16654 : 2017 is the mandatory national Indian Standard specification that regulates polypropylene (PP) multifilament woven geobags used in hydraulic and civil structures—including riverbanks, coastal walls, and artificial reefs—to control erosion and mitigate flood damage. Under the national Geo Textiles Quality Control Order (QCO), all such geobags must carry the mandatory BIS Standard Mark (ISI Mark) to verify structural and environmental safety. It classifies geobags into Type 1 (200 GSM) and Type 2 (300 GSM), enforcing strict mechanical bounds such as high wide-width tensile strengths (up to 80 kN/m for Type 2), 50% minimum seam strength efficiency, 500-hour ultraviolet light resistance retaining at least 80% strength, and precise water flow and apparent opening sizes to retain fill materials while releasing water pressure."
+  },
+  "source_information": {
+    "source_pdf_filename": "16654.pdf",
+    "document_version_edition": "First Edition, April 2017 (Reaffirmed 2023)"
+  }
+}

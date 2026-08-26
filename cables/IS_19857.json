@@ -1,0 +1,155 @@
+{
+  "basic_identification": {
+    "is_number": "IS 19857 : 2026",
+    "full_title": "कुडिनीर टैबलेट (काढे का टैबलेट) तैयार करना — रीतत संतिता (Preparation of Kuṭinīr Tablet [Decoction Tablet] — Code of Practice)",
+    "sector_category": "Ayush / Traditional Medicine (Siddha) (approved by the Ayush Division Council and finalized by the Siddha Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "11.120.10",
+    "sectional_committee": {
+      "name": "Siddha Sectional Committee",
+      "number": "AYD 05"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the code of practice and manufacturing guidelines for the preparation of Kuṭinīr Tablets (decoction tablets) used in the traditional Siddha system of medicine. It details raw material selections, analytical-grade excipients, water quality suitability, physical parameters (such as Carr's compressibility index and Hausner's ratio), and mechanical-dosage uniformity criteria to ensure high product quality and therapeutic consistency.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, June 2026",
+    "year_first_published": "2026",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2026" }
+    ],
+    "supersedes": "N/A (Newly established code of practice under the joint standardization initiatives between the Ministry of Ayush and the Bureau of Indian Standards)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "Annex A (Clauses A-2 & A-3)",
+      "title": "Methods for determination of untapped bulk density and tapped density",
+      "category": "Test method",
+      "location": "A-4",
+      "relevance": "Prescribes standard laboratory protocols to measure untapped bulk volume (V0) and final tapped volume (VF) of the prepared granules."
+    },
+    {
+      "is_number": "Annex A (Clause A-4)",
+      "title": "Method for determination of Carr's compressibility index and Hausner's ratio",
+      "category": "Test method",
+      "location": "Clause A-4",
+      "relevance": "Directs the mathematical calculation of powder flow properties and compaction readiness to ensure tablets are formed without structural splitting."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Governs the standard mathematical rounding routines used on calculated and observed physical or chemical testing figures to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 19856 : 2026",
+      "title": "Preparation of Cūraṇam tablet (Medicinal Powder tablet) — Code of Practice",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "A sister standard formulated by the same Siddha Sectional Committee AYD 05, governing the code of practice for processing traditional medicinal powders (Cūraṇam) into solid tablets."
+    },
+    {
+      "is_number": "IS 19858 : 2026",
+      "title": "Preparation of Cattu Tablet (Herbal extract tablet) — Code of Practice",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "A sister standard formulated by the same Siddha Sectional Committee AYD 05, governing the code of practice for processing traditional herbal extracts (Cattu) into tablets."
+    },
+    {
+      "is_number": "IS 19310 : 2025",
+      "title": "Neykkuṟi (Oleo-Uromacroscopy) Analysis — Code of Practice",
+      "category": "Allied / Diagnostic standard",
+      "location": "Foreword",
+      "relevance": "Another major standard under the AYD 05 sectional committee, regulating the traditional diagnostic oil-pattern urine analysis utilized in personalized Siddha healthcare."
+    },
+    {
+      "is_number": "IS 18842 : 2024",
+      "title": "Zingiber officinale Roscoe Fresh Rhizome for Use in Traditional Medicine — Specification",
+      "category": "Allied / Material standard",
+      "location": "Foreword",
+      "relevance": "Specifies physical and chemical limits (including contaminant and pesticide residue limits) for fresh ginger rhizomes used as raw materials in Siddha medicine."
+    },
+    {
+      "is_number": "IS 18839 : 2024",
+      "title": "Nigella sativa L. Seed for Use in Traditional Medicine — Specification",
+      "category": "Allied / Material standard",
+      "location": "Foreword",
+      "relevance": "Specifies quality, macroscopic, and microscopic limits for black cumin (Nigella sativa) seeds utilized in standard Traditional formulations."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Preparation Specification (Traditional Medicine / Ayush)",
+    "certification_status": "Voluntary/Statutory Certification. Under the active collaborative framework established between the Bureau of Indian Standards and the Ministry of Ayush, drug manufacturers in the Ayurveda, Siddha, and Unani (ASU) sectors are sensitized and encouraged to implement these standards. Complying facilities can apply for BIS Product Certification (ISI Mark) under Scheme-I to print the Standard Mark on their packaging, proving product safety and quality. Precious metal hallmarking is completely inapplicable to herbal pharmaceutical tablets, as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial container or batch pack of Kuṭinīr tablets conforming to the standard must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+        "clause_reference": "Foreword / Marking clauses (implied)"
+      },
+      {
+        "requirement_type": "Mandatory Packaging Information (Clause 7.3.1)",
+        "detail": "Each package containing a unit or a designated number of dosage units must have the following details clearly and indelibly marked: a) Name of the product (with trade or brand name, if any); b) Size or weight of the tablets; c) Number of tablets inside; d) Batch or lot number; e) Month and year of manufacture (MM/YYYY); f) Month and year of expiry (MM/YYYY).",
+        "clause_reference": "Clause 7.3.1",
+        "page_reference": "Page 3"
+      },
+      {
+        "requirement_type": "Analytical-Grade Excipients",
+        "detail": "To guarantee high safety and prevent chemical contamination, all excipients used in compiling the tablets must strictly be of analytical grade.",
+        "clause_reference": "Clause 7.3.1 (a)",
+        "page_reference": "Page 3"
+      },
+      {
+        "requirement_type": "Water Grade Suitability",
+        "detail": "Water utilized during the extraction, decoction, and compounding phases must be of appropriate grade suitable for pharmaceutical use, unless otherwise specified.",
+        "clause_reference": "Clause 7.3.1 (b)",
+        "page_reference": "Page 3"
+      },
+      {
+        "requirement_type": "Carr's Compressibility Index and Hausner’s Ratio Limits (Clause A-4)",
+        "detail": "Granules must be evaluated for compaction flow properties: \na) Compressibility Index (Carr's Index) = 100 × (V0 – VF)/V0 \nb) Hausner’s Ratio = V0/VF \nwhere V0 is untapped bulk volume and VF is the final tapped volume.",
+        "clause_reference": "A-4 (Determination of Compressibility Index and Hausner's Ratio)",
+        "page_reference": "Page 4"
+      },
+      {
+        "requirement_type": "Multi-Stage Dosage Unit Uniformity (Table 3)",
+        "detail": "Tablets must comply with the strict statistical acceptance parameters of Table 3 under Clause 5.1.2.6 across S1, S2, and S3 testing stages: \na) Stage S1 (6 units tested): Each individual value shall be not less than Q + 5 percent; \nb) Stage S2 (6 units tested, 12 cumulative): Average value of 12 units (S1 + S2) must be equal to or greater than Q, and no single unit can be less than Q - 15 percent; \nc) Stage S3 (24 units tested, 36 cumulative): Average value of 24 units (S1 + S2 + S3) must be equal to or greater than Q, not more than two units can be less than Q - 15 percent, and no single unit can be less than Q - 25 percent.",
+        "clause_reference": "Clause 5.1.2.6 & Table 3 (Concluded)",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Granular Sizing Screen Mesh",
+        "detail": "The woven metal cloth used for granules sizing or sifting must satisfy standard structural boundaries: O.D. 102 ± 4 mm and I.D. 10 mm, with precise metal thread weaving dimensions (42, 19, 4±1, 9.75±0.35, 74.5±0.5, 35.8, B, B, A, 25±2, 168±8).",
+        "clause_reference": "Annex A / Diagram",
+        "page_reference": "Page 5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 19857:2026",
+    "Kuṭinīr Tablet",
+    "Decoction Tablet",
+    "Siddha Medicine",
+    "Traditional Medicine",
+    "AYUSH",
+    "Carr's Compressibility Index",
+    "Hausner’s Ratio",
+    "Analytical Grade Excipients",
+    "Siddha Sectional Committee",
+    "AYD 05",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 19857 : 2026 is a newly established, ground-breaking national Indian Standard code of practice regulating the preparation and quality control of Kuṭinīr Tablets (traditional Siddha decoction/kaadha tablets). Formulated under the AYUSH-BIS collaboration framework, this standard establishes strict manufacturing, material, and packaging specifications—requiring the exclusive use of analytical-grade excipients and pharmaceutical-grade water to prevent chemical contamination. It enforces rigorous testing benchmarks, including Carr's compressibility index and Hausner's ratio to verify granule compaction, and a multi-stage dosage unit uniformity test (S1, S2, and S3 stages with Q limits) to ensure that each tablet delivers a reliable, consistent, and safe therapeutic dose to patients."
+  },
+  "source_information": {
+    "source_pdf_filename": "19857_2026.pdf",
+    "document_version_edition": "First Edition, June 2026"
+  }
+}

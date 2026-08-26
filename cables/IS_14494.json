@@ -1,0 +1,228 @@
+{
+  "basic_identification": {
+    "is_number": "IS 14494 : 2019",
+    "full_title": "Elastomer Insulated Flexible Cables for Use in Mines — Specification (First Revision)",
+    "sector_category": "Electrotechnical / Power Cables (approved by the Electrotechnical Division Council and finalized by the Power Cables Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "29.060.20",
+    "sectional_committee": {
+      "name": "Power Cables Sectional Committee",
+      "number": "ETD 09"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, construction types, testing schedules, and sampling criteria for flexible elastomer-insulated cables designed for power transmission, control, lighting, and auxiliary systems in coal mines, quarries, and other underground or surface mining operations [1, 2]. It covers cables operating at rated voltage grades of 1.1 kV, 3.3 kV, 3.8/6.6 kV, and 6.35/11 kV [1].",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard",
+    "citations": "[1]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2019 (Reaffirmed 2024)",
+    "year_first_published": "1998",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1998" },
+      { "edition": "First Revision (reorganized into modern voltage grades and testing scopes)", "year": "2019" }
+    ],
+    "supersedes": "IS 14494 : 1998",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy.",
+    "citations": "[1]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 8130 : 2013",
+      "title": "Conductors for insulated electric cables and flexible cords — Specification",
+      "category": "Normative reference / Component standard",
+      "location": "Annex A",
+      "relevance": "Establishes raw material purity, resistance limits, and stranded flex structural classes for phase, pilot, and earth conductors [3, 4].",
+      "citations": "[3, 4]"
+    },
+    {
+      "is_number": "IS 6380 : 1984",
+      "title": "Elastomeric insulation and sheath of electric cables — Specification",
+      "category": "Normative reference / Component standard",
+      "location": "Annex A",
+      "relevance": "Prescribes standard chemical, physical, thermal, and mechanical safety limits for elastomeric insulating compounds [4].",
+      "citations": "[4]"
+    },
+    {
+      "is_number": "IS 10810 (series)",
+      "title": "Methods of test for cables",
+      "category": "Test method",
+      "location": "Annex A & Clause 27.1",
+      "relevance": "A comprehensive multi-part standard referenced for executing key physical, electrical, and flammability tests (e.g. Part 45 for High Voltage, Part 46 for Partial Discharge, and Part 53 for Flammability) [4-6].",
+      "citations": "[4-6]"
+    },
+    {
+      "is_number": "IS 1885 (Part 32) : 1993",
+      "title": "Electro technical vocabulary: Part 32 Electric cable",
+      "category": "Terminology",
+      "location": "Annex A",
+      "relevance": "Establishes baseline electrical engineering vocabulary, definitions, and standard cable coding symbols [4].",
+      "citations": "[4]"
+    },
+    {
+      "is_number": "IS 3975 : 1999",
+      "title": "Low carbon galvanized steel wires, formed wires and tapes for armouring of cables",
+      "category": "Component standard",
+      "location": "Annex A",
+      "relevance": "Specifies quality, galvanization, and tensile requirements for pliable wire armour strands [4, 7].",
+      "citations": "[4, 7]"
+    },
+    {
+      "is_number": "IS 4826 : 1979",
+      "title": "Hot dipped galvanized coatings on round steel wires",
+      "category": "Component standard",
+      "location": "Annex A",
+      "relevance": "Governs hot-dip zinc plating weight and quality requirements for round steel armour wires [4].",
+      "citations": "[4]"
+    },
+    {
+      "is_number": "IS 4905 : 1968",
+      "title": "Methods for random sampling",
+      "category": "Normative reference",
+      "location": "Annex A",
+      "relevance": "Governs statistical sampling schedules to select random test reels from lot consignments during auditing [4, 8].",
+      "citations": "[4, 8]"
+    },
+    {
+      "is_number": "IS 10418 : 1982",
+      "title": "Drums for electric cables",
+      "category": "Packaging",
+      "location": "Clause 29.1",
+      "relevance": "Defines wood or steel drum dimensions and construction standards for safe cable packaging and transport [9].",
+      "citations": "[9]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 7098 (Part 1) : 2025",
+      "title": "Crosslinked Polyethylene Insulated Thermoplastic Sheathed Cables — Specification, Part 1: For Working Voltages up to and including 1 100 Volts",
+      "category": "Allied electrotechnical standard",
+      "location": "Parallel electrotechnical standard",
+      "relevance": "The national low-voltage power distribution cable standard, sharing identical raw conductor quality (IS 8130), testing methods (IS 10810), sampling (IS 4905), and cable drum (IS 10418) standards [4, 9-13].",
+      "citations": "[4, 9-13]"
+    },
+    {
+      "is_number": "IS 14255 : 1995",
+      "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1100 Volts — Specification",
+      "category": "Allied electrotechnical standard",
+      "location": "Parallel electrotechnical standard",
+      "relevance": "The national low-voltage insulated overhead transmission line standard, sharing identical vocabulary (IS 1885 Part 32), raw conductor quality (IS 8130), testing methods (IS 10810), and cable drum (IS 10418) standards [4, 10, 14].",
+      "citations": "[4, 10, 14]"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Electrical & Industrial Mining Cables)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under Quality Control Orders (QCO) issued by the Ministry of Chemicals and Fertilizers and the Electrotechnical Department of the Government of India, all mining cables manufactured, imported, distributed, or sold in India must conform to IS 14494 and carry the mandatory BIS Standard Mark (ISI Mark). Precious metal hallmarking is completely inapplicable to industrial electrotechnical cables, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every cable drum or attached label must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+        "clause_reference": "Clause 29.2",
+        "page_reference": "Page 24",
+        "citations": "[9]"
+      },
+      {
+        "requirement_type": "Voltage Suitability and Grounding (Notes 1 & 2)",
+        "detail": "Cables rated at 1.1 kV and 3.3 kV grades are suitable for both earthed and unearthed electrical networks, whereas 3.8/6.6 kV cables are specifically suitable for earthed 6.6 kV systems.",
+        "clause_reference": "Clause 1.1 (Notes 1 & 2)",
+        "page_reference": "Page 1",
+        "citations": "[1]"
+      },
+      {
+        "requirement_type": "Splitting of Earth Conductors",
+        "detail": "It is permissible to split the earth conductor into equal parts and lay them in the outer interstices. Split-up earth conductors must have the same colour or number code to maintain traceability and core identification.",
+        "clause_reference": "Clause 14.3 & Clause 20.1 Note",
+        "page_reference": "Page 3 & Page 10",
+        "citations": "[3, 15]"
+      },
+      {
+        "requirement_type": "Conductor Screening for High Voltage",
+        "detail": "For rated voltages above 6.6 kV (E), power cores must feature a conductor screen consisting of extruded semi-conducting compound applied over a semi-conducting tape. Conductor screening is not required for pilot and earth cores.",
+        "clause_reference": "Clause 15",
+        "page_reference": "Page 3",
+        "citations": "[3]"
+      },
+      {
+        "requirement_type": "Standard Core Color Coding (Clause 20.2)",
+        "detail": "Multi-core cables must be easily identified using a distinct colour scheme: a) 2 Cores: Power core is Red, Earth core is Green; b) 3 Cores: Power core is Red, Pilot core is Black.",
+        "clause_reference": "Clause 20.2",
+        "page_reference": "Page 4",
+        "citations": "[16]"
+      },
+      {
+        "requirement_type": "Underground Mining Application Profiles (Annex G)",
+        "detail": "Cables are classified into functional types to ensure safety under specialized mining conditions: a) FT1: 3-phase intrinsically safe cables for U/G production systems requiring infrequent movement; b) P3: Power feeders for transport and ventilation systems; c) FT3: Power cables for heavy mobile production machinery; d) PLC2 to PLC5: Cables for lighting and auxiliary control circuits.",
+        "clause_reference": "Annex G",
+        "page_reference": "Page 32",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Core Layouts and Cradle Separators",
+        "detail": "To prevent mechanical crushing and shear forces during mobile mining, core layouts such as Cable Type P3 or PA1 must feature insulated power, pilot, and earth cores laid around an elastomeric cradle separator.",
+        "clause_reference": "Table 1 (P3 & PA1)",
+        "page_reference": "Page 5 & Page 7",
+        "citations": "[17, 18]"
+      },
+      {
+        "requirement_type": "Partial Discharge Test Parameters",
+        "detail": "Cables with rated voltages above 3.3 kV must undergo partial discharge testing. The discharge magnitude at a test voltage of 1.73 Uo must not exceed 10 pC for routine/acceptance testing and must not exceed 5 pC for type testing.",
+        "clause_reference": "Clause 27.2",
+        "page_reference": "Page 22",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Fictitious Dimensions Calculation (Annex B)",
+        "detail": "To ensure uniform sheath and armour thicknesses across all manufacturers, dimensions are calculated using a fictitious diameter formula (e.g. Dc = dL + 2ti + 3.0 mm for screened cores) that ignores the shape and compaction of conductors.",
+        "clause_reference": "Annex B & B-2.1",
+        "page_reference": "Page 26",
+        "citations": "[6, 19]"
+      },
+      {
+        "requirement_type": "Pliable Wire Armour Dimensions (Table 38)",
+        "detail": "The size and structure of steel strands in pliable armour must comply with Table 38 based on fictitious diameter under the armour: a) Up to 25 mm: 7/0.45 mm strand size; b) 25 to 40 mm: 7/0.70 mm; c) 40 to 60 mm: 7/0.90 mm; d) Above 60 mm: 7/1.25 mm.",
+        "clause_reference": "Annex D (Table 38)",
+        "page_reference": "Page 30",
+        "citations": "[7]"
+      },
+      {
+        "requirement_type": "Outer Sheath Nominal Thickness (Table 37)",
+        "detail": "The nominal outer sheath thickness must correlate with calculated fictitious diameters as per Table 37: a) Up to 10 mm: 2.5 mm; b) 10 to 15 mm: 2.8 mm; c) 25 to 30 mm: 4.0 mm; d) 40 to 50 mm: 5.0 mm; e) 50 to 60 mm: 5.7 mm; f) Above 100 mm: 9.0 mm.",
+        "clause_reference": "Annex D (Table 37)",
+        "page_reference": "Page 29",
+        "citations": "[7]"
+      },
+      {
+        "requirement_type": "Consignment Sampling Protocol (Annex F)",
+        "detail": "Each consignment lot (consisting of same-sized cables produced under identical conditions) must be randomly sampled and tested per Annex F to verify conformity before delivery.",
+        "clause_reference": "Annex F (Clauses F-1 & F-2)",
+        "page_reference": "Page 31",
+        "citations": "[8]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 14494 : 2019",
+    "Mining Cables",
+    "Elastomer Insulated",
+    "Flexible Power Cables",
+    "Intrinsically Safe",
+    "Cradle Separator",
+    "Conductor Screening",
+    "Pliable Wire Armour",
+    "Fictitious Calculation",
+    "Partial Discharge Test",
+    "Core Identification Colors",
+    "ETD 09",
+    "Cables QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 14494 : 2019 is the strict national Indian electrotechnical safety specification governing flexible elastomer-insulated power, control, and lighting cables utilized in coal, quarry, and surface or underground mines. Due to the high-vibration, high-impact, and moisture-prone nature of mining environments, all such cables sold or imported in India must carry the mandatory BIS Standard Mark (ISI Mark). The standard covers voltage grades from 1.1 kV to 11 kV, organizing cables into specialized protection profiles (including intrinsically safe 3-phase and mobile machine feeds). It enforces high-precision partial discharge limits, strict core colour coding, and a standardized 'Fictitious Calculation Method' to predetermine uniform sheathing and pliable wire armour thicknesses, ensuring robust electrical insulation and mechanical life protection."
+  },
+  "source_information": {
+    "source_pdf_filename": "14494_2019_reaff2024.pdf",
+    "document_version_edition": "First Revision, 2019"
+  }
+}

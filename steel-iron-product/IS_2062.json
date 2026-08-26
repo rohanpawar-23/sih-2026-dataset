@@ -1,0 +1,158 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2062 (Part 2) : 2026",
+    "full_title": "Structural Steel — Part 2 Hot Rolled Quenched and Tempered Steel Plates, Sheets, Strips and Wide Flats",
+    "sector_category": "Metallurgical Engineering (finalised by the Wrought Steel Products Sectional Committee) [1]",
+    "ics_code": "77.140.10; 77.140.50",
+    "sectional_committee": {
+      "name": "Wrought Steel Products Sectional Committee [1]",
+      "number": "MTD 04 [1]"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies requirements for hot-rolled quenched and tempered steel plates, sheets, strips, and wide flats for structural purposes. It covers high-strength structural steel grades divided into S grades and SG grades designed for demanding engineering or structural loads.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2026",
+    "year_first_published": "2026",
+    "revision_history": [
+      {
+        "edition": "First Edition (under split structure Part 2)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "IS 2062 : 2011 (partially superseded as structural steel standards are split into multiple parts)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (newly established standard in 2026) [1]."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1608 (Part 1) : 2022 / ISO 6892-1 : 2019",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Test method",
+      "location": "Clause 9",
+      "relevance": "Specified standard under which the physical tensile and proof stress tests must be carried out on the finished steel products."
+    },
+    {
+      "is_number": "IS 1599 : 2019",
+      "title": "Metallic materials — Bend test",
+      "category": "Test method",
+      "location": "Clause 9",
+      "relevance": "Outlines standard testing conditions to verify cold-bending ductility of the plates."
+    },
+    {
+      "is_number": "IS 1757 (Part 1)",
+      "title": "Metallic materials — Charpy V-notch pendulum impact test",
+      "category": "Test method",
+      "location": "Clause 9.4",
+      "relevance": "Prescribes standard testing protocols to evaluate low-temperature notch toughness of structural steel."
+    },
+    {
+      "is_number": "IS 228 (all parts)",
+      "title": "Methods of chemical analysis of steel",
+      "category": "Test method",
+      "location": "Clause 7.1",
+      "relevance": "Referee chemical analytical methods to verify compliance with specified ladle and product elements."
+    },
+    {
+      "is_number": "IS 8910 : 2022 / ISO 404 : 2013",
+      "title": "General technical delivery requirements for steel and steel products",
+      "category": "Normative reference",
+      "location": "Clause 2",
+      "relevance": "Governs technical delivery, marking, commercial supply, and inspection parameters for metallurgical steel products."
+    },
+    {
+      "is_number": "IS 16998 : 2018 / ISO 7452 : 2013",
+      "title": "Tolerances on dimensions and shape of steel plates",
+      "category": "Normative reference",
+      "location": "Clause 2",
+      "relevance": "Mandates permissible dimensional, thickness, and flat shape variations for the structural steel plates."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2062 (Part 1) : 2025",
+      "title": "Structural Steel — Part 1 Hot Rolled Medium and High Tensile Steel",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "The primary sister standard governing conventional structural steels of medium and high strength, as opposed to quenched and tempered alloys."
+    },
+    {
+      "is_number": "IS 2002 : 2024",
+      "title": "Steel Plate for Pressure Vessel for Intermediate and High Temperature Service Including Boilers — Specification",
+      "category": "Allied / Application standard",
+      "location": "Foreword",
+      "relevance": "Specifies heavy carbon steel plates used specifically for fabricating pressure-retaining vessels operating at elevated temperatures."
+    },
+    {
+      "is_number": "IS 2041 : 2024",
+      "title": "Steel Plates and Strips for Pressure Vessels Used at Moderate and Low Temperature — Specification",
+      "category": "Allied / Application standard",
+      "location": "Foreword",
+      "relevance": "Specifies carbon steel plates optimized for low to moderate temperature pressure-vessel service."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied / Design standard",
+      "location": "Foreword",
+      "relevance": "The national design code for structural steel installations, defining allowable bending, compression, and shear limits for steels conforming to IS 2062 [2]."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (High-Strength Structural Steel Plates / Sheets)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all structural steel products sold, stocked, or imported in India must carry the mandatory BIS Standard Mark (ISI Mark). Export-only products conform to buyer specifications but are exempt. Precious metal hallmarking is completely inapplicable to heavy structural steel products, as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every conforming structural steel plate, sheet, or strip must bear the BIS Standard Mark (ISI Mark) stamped or embossed permanently on a visible face.",
+        "clause_reference": "Clause 11"
+      },
+      {
+        "requirement_type": "Ladle Analysis Chemical Composition (SG Grades)",
+        "detail": "Heat analysis for SG grades must strictly satisfy maximum limits for Carbon (0.18% to 0.22%), Manganese (1.70% to 2.00%), Sulphur (0.035% to 0.040%), Phosphorus (0.035%), and other alloying elements like Silicon, Nickel, Chromium, Molybdenum, and Boron [3].",
+        "clause_reference": "Table 2 (Clause 7.1) [3]"
+      },
+      {
+        "requirement_type": "Maximum Carbon Equivalent (CE)",
+        "detail": "To ensure excellent site weldability, maximum carbon equivalent (CE) limits based on ladle analysis are restricted depending on grade, quality, and nominal thickness. For example, grade ISH S460Q (Qualities C, D, E) must not exceed 0.47% for thickness <= 50 mm, or 0.48% for thickness > 50 mm to 100 mm [4].",
+        "clause_reference": "Table 6 (Clause 7.4) [4]"
+      },
+      {
+        "requirement_type": "Product Analysis vs Ladle Analysis",
+        "detail": "When specified at the time of order, product analysis must be carried out on the finished structural product. Permissible variations between product analysis and ladle analysis are strictly limited per Table 3 (for S grades) and Table 4 (for SG grades) [5].",
+        "clause_reference": "Clause 7.2 & Clause 7.3 [5]"
+      },
+      {
+        "requirement_type": "Transverse Charpy V-Notch Toughness",
+        "detail": "High-toughness S grades must satisfy strict minimum transverse Charpy V-notch energy absorption values at sub-zero temperatures: Quality C is tested at 0 °C (Min 30 J to 40 J), Quality D is tested at -20 °C (Min 27 J to 35 J), and Quality E is tested at -40 °C or -60 °C (Min 27 J to 40 J) depending on the grade [6]. For thicknesses <= 12 mm using sub-sized test pieces, the energy limits are reduced proportionally to the cross-sectional area [7].",
+        "clause_reference": "Table 10 (Clause 9.4) [6, 7]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2062 (Part 2) : 2026",
+    "Structural Steel",
+    "High-Strength Steel",
+    "Quenched and Tempered Steel",
+    "Steel Plates",
+    "Ladle Analysis",
+    "Product Analysis",
+    "Carbon Equivalent (CE)",
+    "Charpy V-Notch Toughness",
+    "S Grades",
+    "SG Grades",
+    "MTD 04",
+    "Steel QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2062 (Part 2) : 2026 is the strict national Indian Standard safety specification governing hot-rolled quenched and tempered steel plates, sheets, strips, and wide flats utilized in demanding structural and civil engineering projects [5]. In accordance with India's national Steel Quality Control Order, all structural steel supplied to the domestic market must carry the mandatory BIS Standard Mark (ISI Mark). This second part of the standard establishes strict mechanical and chemical limits—including maximum carbon equivalent (CE) limits to ensure reliable site welding [4], product analysis variation tolerances [5], and sub-zero Charpy V-notch impact toughness requirements down to -60 °C [6]—to prevent sudden brittle fractures in critical high-stress structural joints."
+  },
+  "source_information": {
+    "source_pdf_filename": "2062_2_2026.pdf",
+    "document_version_edition": "First Edition, 2026"
+  }
+}
