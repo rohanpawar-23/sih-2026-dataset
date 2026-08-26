@@ -1,0 +1,223 @@
+{
+  "basic_identification": {
+    "is_number": "IS 4985 : 2021",
+    "full_title": "Unplasticized PVC Pipes for Water Supplies — Specification",
+    "sector_category": "Civil Engineering (approved by the Civil Engineering Division Council of the Bureau of Indian Standards)",
+    "ics_code": "23.040.20; 91.140.60",
+    "sectional_committee": {
+      "name": "Plastic Piping Systems Sectional Committee",
+      "number": "CED 50"
+    },
+    "citations": ""
+  },
+  "scope": {
+    "summary": "This standard covers the requirements for plain as well as socket-ended unplasticized polyvinyl chloride (UPVC) pipes, including those designed for use with elastomeric sealing rings, intended for potable water supplies and agricultural use. It explicitly excludes UPVC pipes used in suction and delivery lines of agricultural pumps (which are covered under IS 12231) and screen/casing pipes utilized in tube wells (which are governed by IS 12818).",
+    "clause_number": "Clause 1 (specifically Clauses 1.1, 1.1.1, 1.2, and 1.3)",
+    "page_number": "Page 1",
+    "citations": ""
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Fourth Revision, June 2021",
+    "year_first_published": "1968",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1968" },
+      { "edition": "First Revision", "year": "1981" },
+      { "edition": "Second Revision", "year": "1988" },
+      { "edition": "Third Revision", "year": "2000" },
+      { "edition": "Fourth Revision", "year": "2021" }
+    ],
+    "supersedes": "IS 4985 : 2000",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy).",
+    "citations": ""
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 10151:2019",
+      "title": "Polyvinyl chloride (PVC) and its copolymers for its safe use in contact with foodstuffs, pharmaceuticals and drinking water — Specification",
+      "category": "Normative reference",
+      "location": "Clause 6.1.1, Annex A",
+      "relevance": "Specifies limits for vinyl chloride monomer (VCM) content within the resin to guarantee non-toxicity in contact with potable water.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 4669:1968",
+      "title": "Method of test for polyvinyl chloride resins",
+      "category": "Test method",
+      "location": "Clause 6.1.2, Annex A",
+      "relevance": "Outlines testing procedures to confirm that the base PVC resin possesses a K-value of 64 or greater.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 5382:2018 / ISO 4633:2015",
+      "title": "Rubber seals — Joint rings for water supply, drainage and sewerage pipelines — Specification for materials",
+      "category": "Normative reference",
+      "location": "Clause 8, Annex A",
+      "relevance": "Governs the material specifications, quality requirements, and hardness classes for elastomeric jointing gaskets.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 10148:1982",
+      "title": "Positive list of constituents of polyvinyl chloride (PVC) and its copolymers in contact with foodstuffs, pharmaceuticals and drinking water",
+      "category": "Normative reference",
+      "location": "Clause 6.1, Annex A",
+      "relevance": "Provides a positive list of safe ingredients and additives permitted for compounding UPVC pipes.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 1):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Measurement of dimensions",
+      "category": "Test method",
+      "location": "Clause 7.1.1, Clause 7.1.2, Clause 7.1.3, Clause 7.2.1.1, Annex A",
+      "relevance": "Specifies physical measurement techniques for pipe outside diameters, wall thickness, and socket dimensions.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 2):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Determination of Vicat softening temperature",
+      "category": "Test method",
+      "location": "Clause 10.5, Annex A",
+      "relevance": "Prescribes test parameters to ensure the Vicat softening temperature of the pipe is not less than 80 °C.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 3):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Test for opacity",
+      "category": "Test method",
+      "location": "Clause 10.2, Annex A",
+      "relevance": "Outlines testing methods to ensure the pipe wall limits visible light transmission to a maximum of 0.2 percent.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 4):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Determining the detrimental effect on the composition of water",
+      "category": "Test method",
+      "location": "Clause 10.3, Annex A",
+      "relevance": "Controls heavy metal extraction testing to confirm that toxic chemicals (e.g. Lead, Mercury) are below allowable concentrations.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 5/Sec 1 & 2):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Longitudinal reversion",
+      "category": "Test method",
+      "location": "Clause 10.4, Annex A",
+      "relevance": "Details parameters for evaluating the longitudinal reversion of pipes after thermal immersion treatments.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 8/Sec 1):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Resistance to internal hydrostatic pressure at constant internal water pressure",
+      "category": "Test method",
+      "location": "Clause 11.1, Annex A",
+      "relevance": "Standardizes hydrostatic resistance verification procedures for short-term acceptance and 1,000-hour type tests.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 8/Sec 4):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Leak-tightness of elastomeric sealing ring type socket joints under positive internal pressure without angular deflection",
+      "category": "Test method",
+      "location": "Clause 11.1, Annex A",
+      "relevance": "Establishes joint-tightness verification rules for pipes assembled using elastomeric gaskets.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 10):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Determination of organotin as tin aqueous solution",
+      "category": "Test method",
+      "location": "Clause 10.3, Annex A",
+      "relevance": "Controls extraction measurement procedures for dialkyl tin stabilizers.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12235 (Part 14):2004",
+      "title": "Thermoplastics pipes and fittings — Methods of test: Determination of density/relative density (specific gravity)",
+      "category": "Test method",
+      "location": "Clause 10.6, Annex A",
+      "relevance": "Prescribes standard methods to verify that the raw material density is within 1.40 to 1.46 g/cm³.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12231:1987",
+      "title": "Specification for unplasticized PVC pipes for use in suction and delivery lines of agricultural pump sets",
+      "category": "Related/sister standard",
+      "location": "Clause 1.2, Annex A",
+      "relevance": "Covers suction and delivery line pipes, which are explicitly excluded from the scope of IS 4985.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12818:2010",
+      "title": "Unplasticized polyvinyl chloride (PVC-U) screen and casing pipes for bore/tubewells — Specification",
+      "category": "Related/sister standard",
+      "location": "Clause 1.3, Annex A",
+      "relevance": "Covers deep casing and screen pipes for tube wells, which are excluded from the scope of IS 4985.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 7634 (Part 3):1975",
+      "title": "Code of practice for plastic pipe work for potable water supplies: Part 3 Laying and jointing of UPVC pipes",
+      "category": "Installation/Application",
+      "location": "Foreword (Page 30)",
+      "relevance": "Provides technical recommendations for the storage, handling, laying, and field-jointing of manufactured UPVC pipes.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 2:1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword (Page 30)",
+      "relevance": "Instructs on standard rounding methods applied to analytical test and measurement values.",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "disclaimer": "No mandatory BIS product certification (such as the ISI Mark) is strictly required within the code of practice text itself for purchasing or installing the pipes. However, to guarantee conformity and safe usage, the standard establishes the following voluntary BIS Standard Mark scheme alongside critical material-level, physical, chemical, and test certification requirements:",
+    "requirements": [
+      {
+        "provision": "The product conforming to the requirements of this standard may be certified under the Bureau of Indian Standards Act, 2016, and marked with the Standard Mark.",
+        "reference": "Clause 13.2 (Page 14)"
+      },
+      {
+        "provision": "Base resin K-value (minimum 64) and VCM content limit conformances must be backed by a test report or conformity certificate from the resin manufacturer once every three months.",
+        "reference": "Clause 6.1.1, Clause 6.1.2 & Note (Page 3)"
+      },
+      {
+        "provision": "Rubber joint seals must comply with IS 5382, supported by a conformity certificate from the gasket manufacturer once every three months.",
+        "reference": "Clause 8 & Note (Page 11)"
+      },
+      {
+        "provision": "Pipes must be clearly and indelibly marked with the manufacturer's name/trade-mark, outside diameter, class and pressure rating, batch/lot number, and the word 'plumbing' (for plumbing pipes) at intervals of not more than 3 m. Type A water-supply pipes must also bear a continuous longitudinal blue strip.",
+        "reference": "Clause 13.1, Clause 13.1.1 & Clause 13.1.2 (Pages 13-14)"
+      },
+      {
+        "provision": "Markings or circumferential bands must be colour-coded strictly by pipe class to prevent installation mix-ups: Class 1 (Red), Class 2 (Blue), Class 3 (Green), Class 4 (Brown), Class 5 (Yellow), Class 6 (Black), and Plumbing (Pink).",
+        "reference": "Clause 13.1.1 & Clause 13.1.2 (Page 14)"
+      }
+    ],
+    "citations": ""
+  },
+  "keywords": [
+    "IS 4985:2021",
+    "Unplasticized PVC Pipes",
+    "Potable Water Supplies",
+    "Agricultural Pipes",
+    "Plumbing Pipes",
+    "Pressure Class (Class 1 to 6)",
+    "Solvent Cement Jointing",
+    "Elastomeric Sealing Rings",
+    "Lead Phase-Out",
+    "Toxic Substances Extraction Limit",
+    "Internal Hydrostatic Pressure Test",
+    "True Impact Rate (TIR)",
+    "Vicat Softening Temperature",
+    "Sulphated Ash Content"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 4985:2021 is the national standard specification in India for unplasticized polyvinyl chloride (UPVC) pressure pipes designed for drinking water distribution, plumbing, and agricultural networks. It categorizes pipes into Classes 1 through 6 based on their design working pressure rating (ranging from 0.25 to 1.25 MPa at 27 °C). Crucially, this revision introduces a strict phase-out program for lead-based stabilizers in accordance with the Ministry of Environment, Forest and Climate Change (MoEF & CC) guidelines, differentiating water supply (Type A, blue strip) and agricultural pipes (Type B) to manage lead stabilizer transitions. When sourcing or verifying these pipes, engineers must ensure that physical parameters (density, Vicat softening temperature, sulphated ash), VCM monomer limits, and short-term and long-term hydrostatic testing requirements are rigorously checked against manufacturer certifications.",
+    "citations": ""
+  },
+  "source_information": {
+    "source_pdf_filename": "4985_2021.pdf",
+    "document_version_edition": "Fourth Revision, June 2021",
+    "citations": ""
+  }
+}

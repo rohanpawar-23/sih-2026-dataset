@@ -1,0 +1,246 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17945 : 2022",
+    "full_title": "Food for Special Medical Purpose Intended for Infants — Specification",
+    "sector_category": "Food and Agriculture (approved by the Food and Agriculture Division Council of the Bureau of Indian Standards)",
+    "ics_code": "67.100.99",
+    "sectional_committee": {
+      "name": "Dairy Products and Equipment Sectional Committee",
+      "number": "FAD 19"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard prescribes the types, requirements, methods of test, and sampling for food for special medical purpose intended for infants (specifically preterm infant milk substitutes, lactose free infant milk substitutes, and hypoallergenic infant milk substitutes). These are formulated as substitutes for human milk or infant formula to meet the specialized nutritional requirements of infants from birth to twenty-four months with specific disorders, diseases, or medical conditions under dietary management.",
+    "clause_number": "Clause 1 (specifically Clauses 1.1 and 3.1)",
+    "page_number": "Page 1",
+    "citations": "[2-4]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, September 2022",
+    "year_first_published": "2022",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2022" }
+    ],
+    "supersedes": "IS 3400 (Part 23/Sec 1) : 2018 (partially superseded for relevant rubber testing methods, as annotated on the cover block)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy).",
+    "citations": "[1, 5]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 14433 : 2022",
+      "title": "Infant milk substitutes — Specification",
+      "category": "Normative reference",
+      "location": "Clause 5.3, Clause 5.10, Clause 5.14, Clause 7, Annex A",
+      "relevance": "Provides the baseline energy, nutrient, and heavy metal/melamine limits to which special medical formulas (except for modified components) must conform.",
+      "citations": "[6-10]"
+    },
+    {
+      "is_number": "IS 15757 : 2022",
+      "title": "Follow-up formula — Complementary foods — Specification",
+      "category": "Normative reference",
+      "location": "Clause 5.3, Clause 5.9, Clause 5.10, Annex A",
+      "relevance": "Acts as the baseline standard for modified follow-up formulas intended for older infants with specific medical conditions.",
+      "citations": "[6, 7, 11, 12]"
+    },
+    {
+      "is_number": "IS 1656 : 2022",
+      "title": "Milk-cereal based complementary foods — Specification",
+      "category": "Related/sister standard",
+      "location": "Table 1 (Sl No. vii), Annex A",
+      "relevance": "Referenced for the standard testing method of analyzing carbohydrate content in preterm infant substitutes.",
+      "citations": "[9, 13]"
+    },
+    {
+      "is_number": "IS 2491 : 2013",
+      "title": "Food hygiene — General principles — Code of practice",
+      "category": "Safety",
+      "location": "Clause 5.15, Annex A",
+      "relevance": "Prescribes the strict hygienic manufacturing, processing, storage, and distribution conditions required to ensure food safety.",
+      "citations": "[8, 14]"
+    },
+    {
+      "is_number": "IS 7219 : 1973",
+      "title": "Method for determination of protein in foods and feeds",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. ii), Annex A",
+      "relevance": "Provides the standard analytical test method to verify total protein concentration in preterm infant substitutes.",
+      "citations": "[15, 16]"
+    },
+    {
+      "is_number": "IS 11721 : 2013 / ISO 1736 : 2008",
+      "title": "Dried milk and dried milk products — Determination of fat content — Gravimetric method (reference method)",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. iii), Annex A",
+      "relevance": "Specifies the reference gravimetric test method for measuring total fat concentration.",
+      "citations": "[17, 18]"
+    },
+    {
+      "is_number": "IS 13500 : 1992",
+      "title": "Spray dried milk powders scorched particles Determination",
+      "category": "Test method",
+      "location": "Clause 5.4, Annex A",
+      "relevance": "Outlines testing procedures to ensure scorched particles do not exceed the safe limit of 15 mg (equivalent to Disc B).",
+      "citations": "[6, 10, 19]"
+    },
+    {
+      "is_number": "IS 10171 : 1999",
+      "title": "Guide on suitability of plastics for food packaging",
+      "category": "Normative reference",
+      "location": "Annex A",
+      "relevance": "Regulates the types and food-grade safety of plastic packaging materials contacting the formula.",
+      "citations": "[16]"
+    },
+    {
+      "is_number": "IS 11078 : 2012",
+      "title": "Round open top sanitary cans for milk powder — Specification",
+      "category": "Normative reference",
+      "location": "Annex A",
+      "relevance": "Governs the dimensional and material specifications for open-top sanitary metal packaging cans.",
+      "citations": "[18]"
+    },
+    {
+      "is_number": "IS 16639 : 2018 / ISO 20633 : 2015",
+      "title": "Infant formula and adult nutritionals — Determination of vitamin E and vitamin A by normal phase high performance liquid chromatography",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxxi & xxxiii), Annex A",
+      "relevance": "Specifies normal-phase HPLC testing methods to evaluate exact Vitamin A and E concentrations.",
+      "citations": "[20-22]"
+    },
+    {
+      "is_number": "IS 16640 : 2018 / ISO 20634 : 2015",
+      "title": "Infant formula and adult nutritionals — Determination of vitamin B12 by reversed phase high performance liquid chromatography (RP - HPLC)",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxvii), Annex A",
+      "relevance": "Provides the RP-HPLC test method for calculating Vitamin B12 levels in special medical formulas.",
+      "citations": "[20, 22]"
+    },
+    {
+      "is_number": "IS 16642 : 2018 / ISO 20639 : 2015",
+      "title": "Infant formula and adult nutritionals — Determination of pantothenic acid by ultra high performance liquid chromatography and tandem mass spectrometry method (UHPLC - MS/MS)",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxv), Annex A",
+      "relevance": "Specifies sensitive UHPLC-MS/MS testing methods for verifying pantothenic acid concentrations.",
+      "citations": "[20, 23]"
+    },
+    {
+      "is_number": "IS 16649 : 2018 / ISO 20637 : 2015",
+      "title": "Infant formula and adult nutritionals — Determination of Myo - Inositol by liquid chromatography and pulsed amperometry",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxxvi), Annex A",
+      "relevance": "Regulates the test procedure for calculating free and total Myo-Inositol levels using pulsed amperometry.",
+      "citations": "[21, 23]"
+    },
+    {
+      "is_number": "IS 17176 : 2019 / ISO 20635 : 2018",
+      "title": "Infant formula and adult nutritionals — Determination of vitamin C by (ultra) high performance liquid chromatography with ultraviolet detection ((U) HPLC-UV)",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxix), Annex A",
+      "relevance": "Mandates standard liquid chromatography with UV detection for measuring Vitamin C.",
+      "citations": "[20, 24]"
+    },
+    {
+      "is_number": "IS 17177 : 2019 / ISO 20636 : 2018",
+      "title": "Infant formula and adult nutritionals — Determination of vitamin D by liquid chromatography mass spectrometry",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxxii), Annex A",
+      "relevance": "Regulates LC-MS mass spectrometry analysis used to evaluate active Vitamin D content.",
+      "citations": "[21, 24]"
+    },
+    {
+      "is_number": "IS 17379 : 2020 / ISO 20647 : 2015",
+      "title": "Infant formula and adult nutritionals — Determination of total iodine — Inductively coupled plasma mass spectrometry ( ICP-MS )",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xix), Annex A",
+      "relevance": "Establishes standard ICP-MS testing methods to accurately measure total iodine trace concentrations.",
+      "citations": "[24, 25]"
+    },
+    {
+      "is_number": "IS 17668 : 2021 / ISO 21468 : 2020",
+      "title": "Infant formula and adult nutritionals — Determination of free and total choline and free and total carnitine — Liquid chromatography tandem mass spectrometry (HPLC-MSMS)",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxxv), Annex A",
+      "relevance": "Details the standard HPLC-MSMS analytical testing for verifying Choline and Carnitine levels.",
+      "citations": "[21, 26]"
+    },
+    {
+      "is_number": "IS 17669 : 2021 / ISO 21470 : 2020",
+      "title": "Infant formula and adult nutritionals — Simultaneous determination of total vitamins B1, B2, B3 and B6 Enzymatic digestion and LC-MSMS",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxii to xxiv & xxvi), Annex A",
+      "relevance": "Outlines simultaneous extraction and LC-MSMS testing for active B-vitamins (Thiamin, Riboflavin, Niacin, Pyridoxine).",
+      "citations": "[20, 25, 26]"
+    },
+    {
+      "is_number": "IS 17670 : 2021 / ISO 23305 : 2020",
+      "title": "Fortified milk powders, infant formula and adult nutritionals — Determination of total biotin by liquid chromatography coupled with immunoaffinity column clean-up extraction",
+      "category": "Test method",
+      "location": "Table 1 (Sl No. xxx), Annex A",
+      "relevance": "Provides the immunoaffinity cleanup and liquid chromatography test method for total Biotin.",
+      "citations": "[20, 26, 27]"
+    },
+    {
+      "is_number": "IS 5402 (Part 1) : 2021",
+      "title": "Microbiology of the food chain — Horizontal method for the enumeration of microorganisms: Part 1 Colony count at 30C by the pour plate technique",
+      "category": "Test method",
+      "location": "Table 2 (Sl No. i), Annex A",
+      "relevance": "Governs the standard pour-plate counting technique for verifying the aerobic plate count limits.",
+      "citations": "[14, 28]"
+    }
+  ],
+  "certification_and_marking": {
+    "disclaimer": "The standard text indicates that certification is permissive: conforming products 'may be certified' and 'may be marked' with the BIS Standard Mark under the Bureau of Indian Standards Act, 2016. However, the standard mandates strict nutritional limits, detailed diagnostic warning labels, mandatory medical supervision statements, and sets environmental consent guidelines for obtaining the voluntary ECO-Mark.",
+    "requirements": [
+      {
+        "provision": "The products conforming to the requirements of this standard may be certified under the provisions of the Bureau of Indian Standards Act, 2016, and marked with the Standard Mark.",
+        "reference": "Clause 6.2.2 (Page 9)"
+      },
+      {
+        "provision": "An advisory warning stating 'RECOMMENDED TO BE TAKEN UNDER MEDICAL ADVICE ONLY' must be conspicuously printed in bold and capital letters on the primary container label.",
+        "reference": "Clause 5.16 (specifically 17.2/h) (Page 8)"
+      },
+      {
+        "provision": "Packaging must bear the explicit warnings: 'Infant milk substitute is not the sole source of nourishment of an infant' and clear, detailed instructions for appropriate, hygienic preparations to prevent health hazards.",
+        "reference": "Clause 5.16 (specifically 17.2/j & k) (Page 8)"
+      },
+      {
+        "provision": "Formula-specific designations must be clearly printed in bold and capital letters: 'FOR THE PRETERM BABY (BORN BEFORE 37 WEEKS)' for preterm substitutes; 'LACTOSE-FREE' for lactose intolerant options; and 'CONTAINS NO MILK OR MILK PRODUCTS' if the formula is devoid of milk derivatives.",
+        "reference": "Clause 5.16 (specifically 17.2/m, n & p) (Page 8)"
+      },
+      {
+        "provision": "To carry the optional ECO-Mark, the manufacturer must produce official consent clearances under the Water (Prevention and Control of Pollution) Act, 1974, Water Cess Act, 1977, and Air Act, 1981, and the product must carry the BIS Standard Mark for quality.",
+        "reference": "Foreword & Clause 5.16.1.2 (Page 1, Page 3 & Page 7)"
+      },
+      {
+        "provision": "All manufacturing, raw ingredients, and packaging remain subject to the strict statutory restrictions of the Food Safety and Standards Act, 2006, and the Infant Milk Substitutes (IMS) Act, 1992.",
+        "reference": "Foreword (Page 1)"
+      }
+    ],
+    "citations": "[9, 29-35]"
+  },
+  "keywords": [
+    "IS 17945:2022",
+    "Food for Special Medical Purpose (FSMP)",
+    "Preterm Infant Milk Substitute",
+    "Lactose-Free Formula",
+    "Hypoallergenic Infant Formula",
+    "Nutrient Requirements per 100 kcal",
+    "Whey-Casein Ratio",
+    "Scorched Particles",
+    "Microbiological Sampling Plan",
+    "ECO-Mark",
+    "Infant Milk Substitutes Act 1992",
+    "FSSAI Regulations",
+    "Extensively Hydrolysed Protein"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17945:2022 is the national Indian Standard specification governing Food for Special Medical Purpose (FSMP) intended for infants from birth to twenty-four months with specific diseases, disorders, or medical conditions. It classifies products into three key types: preterm, lactose-free, and hypoallergenic infant milk substitutes. While utilizing IS 14433 and IS 15757 as baseline nutritional reference frames, this code regulates specific compositional deviations required to manage target medical conditions safely. When selecting or auditing these clinical formulas, developers must verify strict compliance with specific micro-nutrient limits (such as DHA, Arachidonic acid, and vitamins), verify low scorched particle thresholds, confirm that microbiological parameters meet the detailed 2-class or 3-class sampling criteria, and ensure that mandatory medical supervision warnings are boldly displayed on all product packaging.",
+    "citations": "[2, 3, 6, 7, 11, 17, 28, 33, 36]"
+  },
+  "source_information": {
+    "source_pdf_filename": "17945_2022.pdf",
+    "document_version_edition": "First Edition, September 2022",
+    "citations": "[1]"
+  }
+}

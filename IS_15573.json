@@ -1,0 +1,152 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15573 : 2018 (First Revision)",
+    "full_title": "Polyaluminium Chloride for Treatment of Water, Sewage and Industrial Effluents — Specification",
+    "sector_category": "Chemical (approved by the Chemical Division Council of the Bureau of Indian Standards)",
+    "ics_code": "71.100.80",
+    "sectional_committee": {
+      "name": "Water Chemicals Sectional Committee",
+      "number": "CHD 24"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements and the methods of sampling and test for polyaluminium chloride used for the treatment of drinking water, sewage, and industrial effluents [1]. It covers both liquid and powder forms of the chemical across medium and high basicity classifications.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, February 2018 [2]",
+    "year_first_published": "2005",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2005" },
+      { "edition": "First Revision", "year": "2018" }
+    ],
+    "supersedes": "IS 15573 : 2005",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification",
+      "category": "Normative reference",
+      "location": "Foreword",
+      "relevance": "Provides baseline purity and safety parameters for potable drinking water treatment."
+    },
+    {
+      "is_number": "IS 3025 (Part 2)",
+      "title": "Methods of sampling and test (physical and chemical) for water and waste water: Part 2 Determination of aluminium",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Referenced test standard for verifying the total concentration of Aluminium as Al2O3 by mass [3]."
+    },
+    {
+      "is_number": "IS 3025 (Part 26) : 2017",
+      "title": "Methods of sampling and test (physical and chemical) for water and waste water: Part 26 Determination of pH",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Referenced for measuring the pH limits of a 5 percent w/v solution of the chemical."
+    },
+    {
+      "is_number": "IS 3025 (Part 80) : 2011",
+      "title": "Methods of sampling and test (physical and chemical) for water and waste water: Part 80 Determination of mercury",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Used to verify that mercury trace levels do not exceed safe limits (0.2 ppm for liquid, 0.6 ppm for powder)."
+    },
+    {
+      "is_number": "IS 3025 (Part 86) : 2018",
+      "title": "Methods of sampling and test (physical and chemical) for water and waste water: Part 86 Determination of cadmium",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Used to confirm that trace cadmium levels do not exceed allowable limits (6 ppm for liquid, 18 ppm for powder)."
+    },
+    {
+      "is_number": "IS 3025 (Part 87) : 2018",
+      "title": "Methods of sampling and test (physical and chemical) for water and waste water: Part 87 Determination of lead",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Used to evaluate total soluble lead concentration limits (30 ppm for liquid, 90 ppm for powder)."
+    },
+    {
+      "is_number": "IS 9316 (Part 2) : 1987",
+      "title": "Method of test for rubber and rubber products: Part 2 Determination of viscosity",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Primary testing standard utilized for measuring the dynamic viscosity of the liquid chemical at 20°C."
+    },
+    {
+      "is_number": "IS 6213 (Part 4) : 1971",
+      "title": "Methods of test for pulp: Part 4 Determination of viscosity of pulp",
+      "category": "Test method",
+      "location": "Table 2",
+      "relevance": "Alternative testing standard referenced for determining dynamic viscosity."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures",
+      "category": "Normative reference",
+      "location": "Clause 12.1",
+      "relevance": "Governs the selection of unbiased random packages or drums from manufacturing batches for quality inspection."
+    },
+    {
+      "is_number": "IS 8157 : 2013",
+      "title": "Sodium Aluminate — Specification",
+      "category": "Related/sister standard",
+      "location": "References",
+      "relevance": "Specifies manufacturing and performance requirements for sodium aluminate water chemicals."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Water Treatment Chemicals)",
+    "certification_status": "Certification under the BIS Standard Mark scheme is permissive (voluntary) according to the text of the specification [4]. While polyaluminium chloride does not carry a mandatory standard marking requirement in the code text, the specification mandates clear container labeling, detailed physical and chemical composition tests, and strict consent clearances for carrying the optional ECO-Mark [5, 6].",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "The polyaluminium chloride conforming to the requirements of this standard may be certified under the Bureau of Indian Standards Act, 2016, and marked with the Standard Mark [4].",
+        "clause_reference": "Clause 14.1.1",
+        "page_reference": "Page 15"
+      },
+      {
+        "requirement_type": "Mandatory Container Labeling",
+        "detail": "Each container or drum must be legibly and indelibly marked with: the product name and type (Liquid/Powder, and Medium/High Basicity), manufacturer name or trade-mark, net quantity, batch/lot number, month and year of manufacture, total Al2O3 percentage by mass, and the clear notice 'For Water Treatment' [4].",
+        "clause_reference": "Clause 14.1",
+        "page_reference": "Page 15"
+      },
+      {
+        "requirement_type": "ECO-Mark Scheme Requirements",
+        "detail": "To carry the combined Standard and ECO-Mark, the manufacturer must produce official consent clearances from the State Pollution Control Board under the Water Act, 1974 and Air Act, 1981 [6]. Furthermore, the product must satisfy strict trace limits for heavy metals (such as Mercury, Cadmium, Arsenic, Lead) and the packaging must use recyclable, biodegradable, or reusable materials [5, 6].",
+        "clause_reference": "Clause 14.2 & Clause 14.3",
+        "page_reference": "Page 15"
+      },
+      {
+        "requirement_type": "Mandatory Chemical Limits (Table 2)",
+        "detail": "Batch evaluation must verify that chemical parameters strictly satisfy specified limits: minimum Aluminium as Al2O3 of 9.5% (liquid) / 28.0% (powder); relative basicity of 35% minimum (medium) / 64% minimum (high); maximum total organic carbon (TOC) of 80 ppm (liquid) / 240 ppm (powder); and maximum pH ranges of 1.8-4.5 (liquid) / 2.5-4.5 (powder) for a 5 percent solution.",
+        "clause_reference": "Clause 5.1 & Table 2",
+        "page_reference": "Page 4 & Page 5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15573:2018",
+    "Polyaluminium Chloride (PAC)",
+    "Water Treatment Chemicals",
+    "Sewage treatment",
+    "Industrial Effluents",
+    "Liquid PAC",
+    "Powder PAC",
+    "Relative Basicity",
+    "Aluminium Oxide Content",
+    "Heavy Metals Limits",
+    "pH limits",
+    "Total Organic Carbon (TOC)",
+    "ECO-Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15573:2018 is the national Indian Standard specification for Polyaluminium Chloride (PAC) used to treat drinking water, sewage, and industrial waste effluents. It categorizes PAC into liquid and powder forms, subdivided into medium and high basicity grades based on relative alkalinity. When sourcing and inspecting this chemical, engineers must verify key physical and chemical characteristics, including minimum Al2O3 concentration (9.5% for liquid, 28% for powder), relative basicity (minimum 35% or 64%), dynamic viscosity limits, and strict maximum limits on toxic heavy metals (such as Lead, Cadmium, Mercury, and Arsenic) to ensure high-performance, non-toxic water purification."
+  },
+  "source_information": {
+    "source_pdf_filename": "15573.pdf",
+    "document_version_edition": "First Revision, February 2018 [2]"
+  }
+}

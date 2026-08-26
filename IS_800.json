@@ -1,0 +1,247 @@
+{
+  "basic_identification": {
+    "is_number": "IS 800:2007 (Third Revision)",
+    "full_title": "General Construction in Steel — Code of Practice",
+    "sector_category": "Civil Engineering (approved by the Civil Engineering Division Council of the Bureau of Indian Standards)",
+    "ics_code": "77.140.01",
+    "sectional_committee": {
+      "name": "Structural Engineering and Structural Sections Sectional Committee",
+      "number": "CED 7"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard applies to general construction using hot rolled steel sections joined using riveting, bolting, and welding. It gives general guidance as regards the various loads, limits of strength, serviceability, durability, and fire resistance to be considered in design. Specific provisions for special structures such as bridges, chimneys, cranes, tanks, transmission line towers, bulk storage structures, tubular structures, and cold-formed light gauge steel sections are explicitly excluded as they are covered in separate standards.",
+    "clause_number": "Clause 1.1 (specifically 1.1.1)",
+    "page_number": "Page 1",
+    "citations": "[2]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, December 2007",
+    "year_first_published": "1956",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1956" },
+      { "edition": "First Revision", "year": "1962" },
+      { "edition": "Second Revision", "year": "1984" },
+      { "edition": "Third Revision", "year": "2007" }
+    ],
+    "supersedes": "IS 800:1984",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy).",
+    "citations": "[1, 3, 4]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2062:2006",
+      "title": "Hot rolled low, medium and high tensile structural steel",
+      "category": "Normative reference",
+      "location": "Clause 2.2.2, Table 1, Annex A",
+      "relevance": "The primary material standard to which all general construction steel must conform prior to fabrication.",
+      "citations": "[5-7]"
+    },
+    {
+      "is_number": "IS 875 (Parts 1 to 5):1987",
+      "title": "Code of practice for design loads (other than earthquake) for buildings and structures",
+      "category": "Normative reference",
+      "location": "Clause 1.1.2, Clause 3.2.1.1, Annex A",
+      "relevance": "Specifies design dead, live, wind, snow, and special load combinations for building structural analysis.",
+      "citations": "[8-11]"
+    },
+    {
+      "is_number": "IS 1893 (Part 1):2002",
+      "title": "Criteria for earthquake resistant design of structures: Part 1 General provisions and buildings",
+      "category": "Normative reference",
+      "location": "Clause 1.1.2, Clause 3.2.1.4, Section 12, Annex A",
+      "relevance": "Dictates calculations for evaluating design seismic forces and compatibility deformations.",
+      "citations": "[8, 10, 12-14]"
+    },
+    {
+      "is_number": "IS 808:1989",
+      "title": "Dimensions for hot-rolled steel beam, column, channel and angle sections",
+      "category": "Normative reference",
+      "location": "Clause 1.6, Annex A",
+      "relevance": "Establishes standard structural dimensional properties, form, and weights for rolled sections.",
+      "citations": "[15, 16]"
+    },
+    {
+      "is_number": "IS 456:2000",
+      "title": "Plain and reinforced concrete — Code of practice",
+      "category": "Normative reference",
+      "location": "Clause 17.15.1, Annex A",
+      "relevance": "Controls fine concrete bedding and strength criteria underneath base plates.",
+      "citations": "[16, 17]"
+    },
+    {
+      "is_number": "IS 1608:2005",
+      "title": "Metallic materials — Tensile testing at ambient temperatures",
+      "category": "Test method",
+      "location": "Clause 2.2.3.1, Clause 14.2.2, Annex A",
+      "relevance": "Governs the standard tensile testing procedures used to verify uncertified steel quality and coupon tests.",
+      "citations": "[18-21]"
+    },
+    {
+      "is_number": "IS 801:1975",
+      "title": "Code of practice for use of coldformed light gauge steel structural members in general building construction",
+      "category": "Related/sister standard",
+      "location": "Clause 3.7.2(d), Clause 3.7.3, Annex A",
+      "relevance": "Utilised for design provisions of slender compression elements (Class 4) beyond elastic local buckling limits.",
+      "citations": "[16, 22, 23]"
+    },
+    {
+      "is_number": "IS 814:2004",
+      "title": "Covered electrodes for manual metal arc welding of carbon and carbon manganese steel — Specification",
+      "category": "Normative reference",
+      "location": "Clause 2.6.1, Clause 10.5.6, Annex A",
+      "relevance": "Specifies manufacturing and performance standards for manual metal arc welding covered electrodes.",
+      "citations": "[11, 24, 25]"
+    },
+    {
+      "is_number": "IS 816:1969",
+      "title": "Code of practice for use of metal arc welding for general construction in mild steel",
+      "category": "Installation/Application",
+      "location": "Clause 10.5.1, Clause 17.6.1, Annex A",
+      "relevance": "Governs metal arc welding calculations, spacing, and application criteria.",
+      "citations": "[11, 26, 27]"
+    },
+    {
+      "is_number": "IS 3757:1985",
+      "title": "Specification for high strength structural bolts",
+      "category": "Normative reference",
+      "location": "Clause 2.4, Clause 10.4.1, Annex A",
+      "relevance": "Regulates manufacturing criteria for high strength friction grip structural bolts.",
+      "citations": "[28-30]"
+    },
+    {
+      "is_number": "IS 4000:1992",
+      "title": "Code of practice for high strength bolts in steel structures",
+      "category": "Installation/Application",
+      "location": "Clause 2.4, Clause 10.4.1, Annex A",
+      "relevance": "Specifies installation, assembly, pretensioning, and checking procedures for HSFG bolted connections.",
+      "citations": "[28-30]"
+    },
+    {
+      "is_number": "IS 1367 (Parts 1 to 20)",
+      "title": "Technical supply conditions for threaded steel fasteners",
+      "category": "Normative reference",
+      "location": "Clause 2.4, Clause 10.4.5, Annex A",
+      "relevance": "Establishes technical supply, testing, and mechanical grading conditions of threaded steel components.",
+      "citations": "[28, 31, 32]"
+    },
+    {
+      "is_number": "IS 7205:1974",
+      "title": "Safety code for erection of structural steelwork",
+      "category": "Safety",
+      "location": "Clause 17.13.4.5, Annex A",
+      "relevance": "Details mandatory field safety precautions, worker protections, and crane lift safety at erection sites.",
+      "citations": "[33, 34]"
+    },
+    {
+      "is_number": "IS 7215:1974",
+      "title": "Specification for tolerances for fabrication of steel structures",
+      "category": "Installation/Application",
+      "location": "Clause 17.1, Annex A",
+      "relevance": "Prescribes standard dimensional and geometric tolerances during workshop fabrication.",
+      "citations": "[34, 35]"
+    },
+    {
+      "is_number": "IS 12843:1989",
+      "title": "Tolerances for erection of steel structures",
+      "category": "Installation/Application",
+      "location": "Clause 17.1, Annex A",
+      "relevance": "Controls permitted horizontal, level, verticality, and alignment deviations during field erection.",
+      "citations": "[35, 36]"
+    },
+    {
+      "is_number": "IS 1641:1988",
+      "title": "Code of practice for fire safety of buildings (general): General principles of fire grading and classification",
+      "category": "Safety",
+      "location": "Clause 16.2, Annex A",
+      "relevance": "Determines building occupancy types and structural fire classifications used to prescribe design fire-resistance levels.",
+      "citations": "[21, 37]"
+    },
+    {
+      "is_number": "IS 1477 (Parts 1 & 2):1971",
+      "title": "Code of practice for painting of ferrous metals in buildings",
+      "category": "Installation/Application",
+      "location": "Clause 17.8.1, Annex A",
+      "relevance": "Regulates surface pre-treatments, priming, and painting requirements for corrosion prevention.",
+      "citations": "[21, 38]"
+    },
+    {
+      "is_number": "IS 9595:1996",
+      "title": "Metal arc welding of carbon and carbon manganese steels — Recommendations",
+      "category": "Installation/Application",
+      "location": "Clause 10.5.1, Clause 17.1, Annex A",
+      "relevance": "Provides technical recommendations for general fusion-based metal arc welding on carbon steels.",
+      "citations": "[26, 35, 39]"
+    },
+    {
+      "is_number": "SP 6 (1):1964",
+      "title": "Handbook for Structural Engineers — Structural Steel Sections",
+      "category": "Related/sister standard",
+      "location": "Clause 3.7.3(c), Annex A",
+      "relevance": "Details geometric and section properties of standard rolled steel shapes.",
+      "citations": "[36, 40]"
+    },
+    {
+      "is_number": "IS 2:1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Prescribes standard rounding methods to decide whether test or analysis results comply with code requirements.",
+      "citations": "[41]"
+    }
+  ],
+  "certification_and_marking": {
+    "disclaimer": "No mandatory BIS product certification (such as the ISI Mark) is strictly required within the code of practice text itself for finished, erected structures. However, material-level marking and quality confirmation rules are explicitly defined as follows:",
+    "requirements": [
+      {
+        "provision": "All structural steel used in general construction must conform to IS 2062 before fabrication begins.",
+        "reference": "Clause 2.2.2 (Page 12)"
+      },
+      {
+        "provision": "Structural steel that is not backed by mill test certificates is restricted only to unimportant members. Alternatively, its quality must be verified by executing tensile tests according to IS 1608.",
+        "reference": "Clause 2.2.3.1 (Page 12)"
+      },
+      {
+        "provision": "A marking diagram allotting distinct identification marks to each separate part of the steelwork must be prepared to facilitate site assembly and erection.",
+        "reference": "Clause 1.7.1.2 (Page 11) & Clause 17.9 (Page 114)"
+      },
+      {
+        "provision": "Welders executing structural work must present satisfactory evidence of completing qualifying tests per IS 817, IS 1393, IS 7307 (Part 1), IS 7310 (Part 1), or IS 7318 (Part 1).",
+        "reference": "Clause 17.6.2 (Page 113)"
+      },
+      {
+        "provision": "The manufacturer must guarantee compliance with the provisions of IS 800 if required to do so by the purchaser.",
+        "reference": "Clause 17.12.3 (Page 114)"
+      }
+    ],
+    "citations": "[5, 18, 27, 42-45]"
+  },
+  "keywords": [
+    "IS 800:2007",
+    "Structural Steel Design",
+    "Limit State Design",
+    "Working Stress Design",
+    "Hot Rolled Sections",
+    "Section Classification",
+    "High Strength Friction Grip (HSFG) Bolts",
+    "Welded Connections",
+    "Column Buckling",
+    "Lateral Torsional Buckling",
+    "Plate Girders",
+    "Earthquake Detailing",
+    "Structural Fire Resistance",
+    "Corrosion Protection",
+    "Durability"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 800:2007 is the foundational Indian Standard code of practice governing the design, fabrication, and erection of structural steelwork, primarily utilizing hot-rolled steel sections. It should be cited and followed for any general steel structures, building frames, or industrial sheds constructed in India. The standard prioritises the modern Limit State Design (LSD) method while keeping Working Stress Design (WSD) as an acceptable alternative. A critical technical detail to double-check when using this standard is the width-to-thickness ratio classification of cross-section elements (Class 1 to 4). This classification determines if the structure will fail prematurely due to local buckling before reaching full plastic yield capacity. Additionally, all structural steel must be verified to conform with IS 2062.",
+    "citations": "[2, 5, 8, 22, 46-48]"
+  },
+  "source_information": {
+    "source_pdf_filename": "800.pdf",
+    "document_version_edition": "Third Revision, December 2007",
+    "citations": "[1]"
+  }
+}

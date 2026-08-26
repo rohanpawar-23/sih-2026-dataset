@@ -1,0 +1,201 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15100 : 2018 (First Revision)",
+    "full_title": "Multi-Function Valve Assembly for Permanently Fixed Liquefied Petroleum Gas (LPG) Containers for Automotive Use — Specification",
+    "sector_category": "Mechanical Engineering (approved by the Mechanical Engineering Divisional Council of the Bureau of Indian Standards)",
+    "ics_code": "23.060; 43.040; 75.160.30",
+    "sectional_committee": {
+      "name": "Gas Cylinders Sectional Committee",
+      "number": "MED 16"
+    },
+    "citations": "[1], [2]"
+  },
+  "scope": {
+    "summary": "This standard specifies the materials, design, construction, and testing requirements for multi-function valve assemblies of both liquid and vapour withdrawal types intended for permanently fixed type liquefied petroleum gas (LPG) containers for automotive use. It is designed to ensure that the safety levels currently existing for other automotive pressure fittings are strictly maintained.",
+    "clause_number": "Clause 1 (specifically Clause 1.1)",
+    "page_number": "Page 1",
+    "citations": "[3], [4]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2018",
+    "year_first_published": "2001",
+    "revision_history": [
+      { "edition": "First Edition", "year": "2001" },
+      { "edition": "First Revision", "year": "2018" }
+    ],
+    "supersedes": "IS 15100 : 2001",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy). Note that the first revision itself incorporates previous amendments No. 1 to 5 issued to the first edition.",
+    "citations": "[2], [5]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1608 : 2005",
+      "title": "Metallic materials — Tensile testing at ambient temperature (third revision)",
+      "category": "Test method",
+      "location": "Clause 4.1.1, Annex A",
+      "relevance": "Used to determine and verify the mandatory minimum tensile strength (392 N/mm²) and elongation (18 percent) of the forged valve body material.",
+      "citations": "[6], [7]"
+    },
+    {
+      "is_number": "IS 1598 : 1977",
+      "title": "Methods for Izod impact test of metals (first revision)",
+      "category": "Test method",
+      "location": "Clause 4.1.2, Annex A",
+      "relevance": "Governs the determination of Izod impact strength for the forged valve body, which must not be less than 21.5 N.m.",
+      "citations": "[6], [7]"
+    },
+    {
+      "is_number": "IS 5903 : 2014",
+      "title": "Recommendation for safety devices for gas cylinder (first revision)",
+      "category": "Normative reference",
+      "location": "Clause 3.1.4.1.2, Clause 3.1.4.2, Annex A",
+      "relevance": "Specifies adequacy, relieving capacity, and alloy parameters for the pressure relief valve (PRV) and the integrated fusible plug.",
+      "citations": "[8], [9], [10]"
+    },
+    {
+      "is_number": "IS 14899 : 2014",
+      "title": "Liquefied petroleum gas (LPG) containers for automotive use — Specification",
+      "category": "Normative reference",
+      "location": "Clause 8.3, Annex A",
+      "relevance": "Prescribes the procedures and setup required to execute the mandatory type-approval bonfire test on the valve assembly.",
+      "citations": "[11], [10]"
+    },
+    {
+      "is_number": "IS 2305 : 1988",
+      "title": "Method for mercurous nitrate test for copper and copper alloys (first revision)",
+      "category": "Test method",
+      "location": "Clause 4.4, Annex A",
+      "relevance": "Used to test the susceptibility of brass components of the multi-function valve to season cracking.",
+      "citations": "[12], [7]"
+    },
+    {
+      "is_number": "IS 10250 : 1982",
+      "title": "Specification for severities for environmental tests for automotive electrical equipment",
+      "category": "Normative reference",
+      "location": "Clause 9.10.1, Annex A",
+      "relevance": "Provides baseline environmental testing parameters, specifically the 144-hour salt spray exposure for verifying corrosion resistance.",
+      "citations": "[13], [10]"
+    },
+    {
+      "is_number": "IS 3400 (Part 4) : 2012",
+      "title": "Methods of test for vulcanized rubbers: Part 4 Accelerated ageing and heat resistance (third revision)",
+      "category": "Test method",
+      "location": "Clause 9.11, Annex A",
+      "relevance": "Specifies physical testing regimes used to verify the dry heat resistance and aging limits of elastomer components.",
+      "citations": "[14], [15]"
+    },
+    {
+      "is_number": "IS 3400 (Part 20) : 1994",
+      "title": "Methods of test for vulcanized rubbers: Part 20 Resistance to ozone cracking — Static strain test (first revision)",
+      "category": "Test method",
+      "location": "Clause 9.12.1, Annex A",
+      "relevance": "Specifies requirements for verifying that rubber parts stressed to 20 percent elongation withstand ozone exposure without cracking.",
+      "citations": "[16], [15]"
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Normative reference",
+      "location": "Clause 4.2.1.2, Annex A",
+      "relevance": "Dictates correct mathematical operations for selecting unbiased random test samples of valve blanks from manufacturing lots.",
+      "citations": "[17], [15]"
+    },
+    {
+      "is_number": "IS 554 : 1999",
+      "title": "Pipe threads where pressure tight joints are made on the threads — Dimensions, tolerances and designation (fourth revision)",
+      "category": "Normative reference",
+      "location": "Clause 5.4, Annex A",
+      "relevance": "Governs screw threads used inside the multi-function valve assembly (excluding end connections) where pressure-tight joints are made.",
+      "citations": "[18], [19]"
+    },
+    {
+      "is_number": "IS 2643 : 2005",
+      "title": "Pipe threads where pressure tight joints are not made on the threads — Dimensions, tolerances and designations (third revision)",
+      "category": "Normative reference",
+      "location": "Clause 5.4, Annex A",
+      "relevance": "Governs non-pressure-tight screw threads used inside the valve assembly.",
+      "citations": "[18], [7]"
+    },
+    {
+      "is_number": "IS 4218 (Parts 1 to 4)",
+      "title": "ISO general purpose metric screw threads",
+      "category": "Normative reference",
+      "location": "Clause 5.4, Annex A",
+      "relevance": "Defines standard metric profiles and dimensions for general fastening screws, studs, and bolts in the assembly.",
+      "citations": "[18], [15]"
+    },
+    {
+      "is_number": "IS 2102 (Part 1) : 1993",
+      "title": "General tolerances: Part 1 General tolerances for linear and angular dimensions without individual tolerance indicators (third revision)",
+      "category": "Normative reference",
+      "location": "Clause 6.2, Annex A",
+      "relevance": "Mandates standard medium-class general machining tolerances for all dimensional components.",
+      "citations": "[20], [7]"
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Instructs on the mathematical rounding rules to be applied to observed and calculated test results to determine compliance.",
+      "citations": "[21]"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Automotive Pressure Fittings / Valves)",
+    "certification_status": "According to the product standard text, certification is permissive: conforming valve assemblies 'may also be marked' with the Standard Mark under the Bureau of Indian Standards Act, 1986. While the mark itself is permissive, the code introduces strict statutory testing requirements, periodic retesting schedules, and mandatory marking/warning criteria.",
+    "requirements": [
+      {
+        "provision": "The multi-function valve may also be marked with the Standard Mark under the provisions of the Bureau of Indian Standards Act, 1986, and the Rules and Regulations made thereunder.",
+        "reference": "Clause 10.2 & Clause 10.2.1 (Page 14)"
+      },
+      {
+        "provision": "It is the responsibility of owners and users to ensure that the multi-function valve assembly is periodically tested as per norms laid down in the Gas Cylinder Rules, 2004, as amended from time-to-time and as enforced by statutory authorities.",
+        "reference": "Foreword (Page 1)"
+      },
+      {
+        "provision": "The valve body and service valve body must be forged from wrought or extruded sections, meeting minimum mechanical criteria (tensile strength of at least 392 N/mm² and Izod impact strength of at least 21.5 N.m) verified by batch testing.",
+        "reference": "Clause 4.1, Clause 4.1.1, Clause 4.1.2 & Clause 4.2 (Pages 4-5)"
+      },
+      {
+        "provision": "Each multi-function valve body and filler connector must be permanently and legibly marked with the manufacturer's identification mark, model number, specification number, maximum working pressure (2 MPa), mounting angle & auto LPG tank diameter/height, quarter & year of manufacture, PRV flow rate, and inspector's mark.",
+        "reference": "Clause 10.1, Clause 10.1.1 & Fig. 5 (Pages 13-14)"
+      },
+      {
+        "provision": "All integrated electrical sub-components must pass strict safety certifications, including an electrical overvoltage test (withstanding 1.5 times the rated voltage for 3 minutes) and an insulation resistance test (withstanding 1,000 V d.c. for at least 2 seconds with minimum resistance of 240 kΩ).",
+        "reference": "Clause 9.8.3.1 & Clause 9.8.3.2 (Page 11)"
+      },
+      {
+        "provision": "Type approval requires a mandatory schedule of performance and durability tests, including withstanding 6,000 opening/closing cycles (for the service valve, excess-flow valve, and PRV), 6,000 complete filling cycles (for the automatic fill limiter), a type-approval bonfire test, and exhaustive 3-axis resonance vibration tests.",
+        "reference": "Clauses 8.2, 8.3, 9.7, 9.8.5, 9.8.6 & Table 34 (Pages 7, 8, 11-12, 39)"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15100:2018",
+    "Multi-Function Valve Assembly",
+    "LPG Containers",
+    "Automotive LPG Systems",
+    "Automatic Fill Limiter",
+    "Excess Flow Check Valve",
+    "Pressure Relief Valve (PRV)",
+    "Fusible Plug",
+    "Contents Gauge",
+    "Gas Cylinder Rules 2004",
+    "Insulation Resistance Test",
+    "Vibration Test",
+    "LPG Compatibility Test",
+    "Season Cracking Test",
+    "Type Approval"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15100:2018 is the national standard specification in India for multi-function valve assemblies mounted on permanently fixed automotive LPG containers (covering both liquid and vapour withdrawal systems). Designed to maintain high safety levels equivalent to other automotive pressure fittings, this standard regulates vital components including the automatic 80 percent fill limiter, remotely controlled service valve, excess flow check valve, pressure relief valve, fusible plug, and indirect contents gauge. When specifying or inspecting these systems, engineers must verify that the forged valve bodies satisfy mandatory tensile and impact tests, that elastomers withstand strict LPG swelling and temperature aging limits, that electrical components meet insulation and overvoltage safety clearances, and that the complete assembly successfully undergoes the 6,000-cycle endurance test, 3-axis vibration test, and bonfire test.",
+    "citations": ""
+  },
+  "source_information": {
+    "source_pdf_filename": "15100.pdf",
+    "document_version_edition": "First Revision, December 2018",
+    "citations": ""
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1391 (Part 2) : 2023 (incorporating Amendment No. 1, May 2026)",
+    "full_title": "Room Air Conditioners — Specification: Part 2 Split Air Conditioners (Fourth Revision)",
+    "sector_category": "Mechanical Engineering (finalised by the Mechanical Engineering Department Sectional Committee)",
+    "ics_code": "N/A",
+    "sectional_committee": {
+      "name": "N/A",
+      "number": "MED 03"
+    },
+    "citations": ""
+  },
+  "scope": {
+    "summary": "This specific document is a one-page amendment sheet that updates the requirements for refrigerant pipes and fittings of split air conditioners. The base standard covers specifications for split-type room air conditioners, but the full scope is not detailed in this amendment sheet [1].",
+    "clause_number": "Clause 5.3.1",
+    "page_number": "Page 1 (amending Page 4 of the base standard)",
+    "citations": ""
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Fourth Revision, 2023 (Amendment No. 1 issued May 2026)",
+    "year_first_published": "N/A",
+    "revision_history": [
+      { "edition": "Fourth Revision", "year": "2023" }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "May 2026",
+        "description": "Substitutes Clause 5.3.1 on Page 4 to mandate that refrigerant pipes and fittings must withstand three times the design pressure of the refrigeration circuit for at least 1 minute (referencing IS 11329) and pass the drift expanding test (referencing IS 10773) [1]."
+      }
+    ],
+    "citations": ""
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 11329",
+      "title": "N/A",
+      "category": "Test method",
+      "location": "Clause 5.3.1 (a)",
+      "relevance": "Provides the baseline pressure test parameters (specifically Clause 7.3.1) to ensure the refrigeration circuit pipes can withstand 3 times the design pressure for at least 1 minute [1].",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 10773",
+      "title": "N/A",
+      "category": "Test method",
+      "location": "Clause 5.3.1 (b)",
+      "relevance": "Specifies the test methods and parameters (specifically Clause 8.3) for performing the mandatory drift expanding test on the refrigerant pipes and fittings [1].",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Appliances / Air Conditioners)",
+    "certification_status": "No explicit BIS product certification, ISI Mark, or CRS Registration requirements are mentioned in this 1-page amendment sheet.",
+    "requirements": [],
+    "citations": ""
+  },
+  "keywords": [
+    "IS 1391 (Part 2)",
+    "Room Air Conditioners",
+    "Split Air Conditioners",
+    "Refrigerant Pipes",
+    "Fittings",
+    "Design Pressure Test",
+    "Drift Expanding Test",
+    "Amendment No. 1",
+    "MED 03"
+  ],
+  "plain_language_summary": {
+    "summary": "This document is Amendment No. 1 (May 2026) to the fourth revision of IS 1391 (Part 2) : 2023 for Split Room Air Conditioners [1]. It substitutes the requirements under Clause 5.3.1 to mandate that all integrated refrigerant pipes and fittings must satisfy two critical mechanical tests: a high-pressure tolerance test (withstanding three times the design pressure for a minimum of one minute per IS 11329) and a drift expanding test per IS 10773 [1]. When designing, testing, or auditing split air conditioning units, engineers must verify that piping systems comply with these revised strength and ductility parameters [1].",
+    "citations": ""
+  },
+  "source_information": {
+    "source_pdf_filename": "1391_2_amd1.pdf",
+    "document_version_edition": "Amendment No. 1, May 2026 to IS 1391 (Part 2) : 2023 (Fourth Revision)",
+    "citations": ""
+  }
+}

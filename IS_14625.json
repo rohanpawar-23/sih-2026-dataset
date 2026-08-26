@@ -1,0 +1,243 @@
+{
+  "IS_14625_2015": {
+    "basic_identification": {
+      "is_number": "IS 14625 : 2015 (First Revision)",
+      "full_title": "Plastics Feeding Bottles — Specification",
+      "sector_category": "Petroleum, Coal and Related Products (approved by the Petroleum, Coal and Related Products Division Council; finalized by the Plastic Containers Sectional Committee) [1]",
+      "ics_code": "83.08; 55.100 [1]",
+      "sectional_committee": {
+        "name": "Plastic Containers Sectional Committee",
+        "number": "PCD 21 [1]"
+      }
+    },
+    "scope": {
+      "summary": "This standard prescribes the requirements, methods of sampling, and test methods for infant plastic feeding bottles and receptacles [2]. It covers bottles and accessories (excluding teats) manufactured from virgin polypropylene, polyethersulfone (PES), olefin-based polymers, or co-polyesters [3, 4]. The standard explicitly bans and excludes the use of polycarbonate (PC) due to safety concerns regarding Bisphenol A (BPA) leaching [5, 6], and prohibits polyvinyl chloride (PVC) and polyethylene terephthalate (PET) [3, 7]. Rubber teats are excluded from direct material specification here and must separately conform to IS 3565 [3, 7].",
+      "clause_number": "Clause 1 [2]",
+      "page_number": "Page 1 [2]"
+    },
+    "version_status_and_amendments": {
+      "edition_year_of_copy": "First Revision, August 2015 [1]",
+      "year_first_published": "1999 [8]",
+      "revision_history": [
+        { "edition": "First Edition", "year": "1999 [8]" },
+        { "edition": "First Revision", "year": "2015 [1]" }
+      ],
+      "supersedes": "IS 14625 : 1999 [8]",
+      "superseded_by": "N/A",
+      "amendment_slips": [
+        {
+          "amendment_number": "Amendment No. 1",
+          "date": "January 2016 [4]",
+          "description": "Deletes drinking accessory and single-use definitions (Clauses 3.2, 3.12); modifies Clause 4 to mandate virgin polypropylene (IS 10910), PES, or other approved safe olefin-based polymers; prohibits PVC, PET, and Bisphenol A (BPA); directs food-grade requirements for silicone teats; removes Figure 1 (drinking accessories); adjusts drop test repetitions to 10 free falls on both base and side; and updates sample prep exclusions for ageing resistance [4, 7, 9, 10]."
+        },
+        {
+          "amendment_number": "Amendment No. 2",
+          "date": "March 2019 [11]",
+          "description": "Inserts IS 3025 (Part 2) : 2004 for element determination using ICP-AES spectroscopy; updates chemical extraction parameters to exclude the bottle's hood from testing; and replaces Table 1 with an updated schedule of maximum heavy metal limits and test methods [11-13]."
+        }
+      ]
+    },
+    "cross_referenced_standards_top_20": [
+      {
+        "is_number": "IS 10910 : 1984",
+        "title": "Specification for Polypropylene and its copolymers for its safe use in contact with foodstuffs, pharmaceuticals and drinking water",
+        "category": "Normative reference",
+        "location": "Clause 4.1, Annex A, Annex A [3, 4, 14]",
+        "relevance": "Specifies quality and compounding constraints for raw polypropylene material to ensure baby safety."
+      },
+      {
+        "is_number": "IS 3565 : 1966",
+        "title": "Specification for rubber teats for feeding bottles",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause 4.2 [3, 7, 15]",
+        "relevance": "Governs quality, physical, and safety specifications for the rubber teats attached to the bottles."
+      },
+      {
+        "is_number": "IS 9845 : 1998",
+        "title": "Determination of overall migration of constituents of plastics materials and articles intended to come in contact with foodstuffs — Method of analysis",
+        "category": "Test method",
+        "location": "Clause 2, Clause 5.3.8, Clause 5.3.8 [9, 15, 16]",
+        "relevance": "Details analytical methods used to verify that global migration values under simulating conditions do not exceed specified limits."
+      },
+      {
+        "is_number": "IS 2798 : 1998",
+        "title": "Methods of test for plastics containers",
+        "category": "Test method",
+        "location": "Clause 2, Clause 5.1.3, Clause 5.3.7 [17-19]",
+        "relevance": "Mandated for verifying nominal wall thickness and evaluating product ink adhesion resistance on printed surfaces."
+      },
+      {
+        "is_number": "IS 8747 : 1977",
+        "title": "Methods of tests for environmental stress-crack resistance of blow moulded polyethylene containers",
+        "category": "Test method",
+        "location": "Clause 2, Clause 5.3.1 [15, 20]",
+        "relevance": "Prescribes the test parameters for demonstrating stress-crack resistance in an oven for 48 hours."
+      },
+      {
+        "is_number": "IS 9833 : 2014",
+        "title": "List of pigments and colourants for use in plastics in contact with foodstuffs, pharmaceuticals and drinking water",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause 5.2.2 [15, 21]",
+        "relevance": "Outlines permissible organic pigments and colorants to prevent chemical hazards in printing/colouring."
+      },
+      {
+        "is_number": "IS 3025 (Part 2) : 2004",
+        "title": "Determination of 33 elements by inductively coupled plasma atomic emission spectroscopy",
+        "category": "Test method",
+        "location": "Clause 2 (Amended), Table 1 [11, 13]",
+        "relevance": "Alternative referee analytical method (ICP-AES) for detecting trace levels of up to eight toxic heavy metals."
+      },
+      {
+        "is_number": "IS 15303 : 2003",
+        "title": "Determination of antimony, iron and selenium in water by electrothermal atomic absorption spectrometric method",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 14, 21]",
+        "relevance": "Used to determine the maximum permitted migration limit of antimony (15 ppm) and selenium (100 ppm)."
+      },
+      {
+        "is_number": "IS 1699 : 1995",
+        "title": "Methods of sampling and test for food colours",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Specifically cross-referenced to evaluate soluble barium levels (maximum 100 ppm)."
+      },
+      {
+        "is_number": "IS 3025 (Part 47) : 1994",
+        "title": "Lead",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Standard test method used to verify that soluble lead extraction does not exceed the limit of 25 ppm."
+      },
+      {
+        "is_number": "IS 3025 (Part 41) : 1992",
+        "title": "Cadmium",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Standard test method used to verify that soluble cadmium extraction does not exceed 20 ppm."
+      },
+      {
+        "is_number": "IS 3025 (Part 48) : 1994",
+        "title": "Mercury",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Standard test method used to verify that soluble mercury extraction does not exceed 10 ppm."
+      },
+      {
+        "is_number": "IS 3025 (Part 37) : 1988",
+        "title": "Arsenic",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Standard test method used to verify that soluble arsenic extraction does not exceed 10 ppm."
+      },
+      {
+        "is_number": "IS 3025 (Part 52) : 2003",
+        "title": "Chromium",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Standard test method used to verify that soluble chromium extraction does not exceed 10 ppm."
+      },
+      {
+        "is_number": "IS 3025 (Part 56) : 2003",
+        "title": "Selenium",
+        "category": "Test method",
+        "location": "Clause 2, Table 1 [13, 17, 21]",
+        "relevance": "Standard test method used to verify that soluble selenium extraction does not exceed 100 ppm."
+      },
+      {
+        "is_number": "IS 4905 : 1968",
+        "title": "Methods for random sampling",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause F-1.3 [15, 22]",
+        "relevance": "Prescribes standard mathematical routines to ensure unbiased selection of test samples from manufacturing lots."
+      },
+      {
+        "is_number": "IS 1070 : 1992",
+        "title": "Reagent grade water — Specification",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause 5.2.1.3 [17, 23]",
+        "relevance": "Standardizes the chemical purity requirements of water used to mix testing reagents."
+      },
+      {
+        "is_number": "IS 249 : 1979",
+        "title": "Specification for sodium bichromate, technical",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause B-2.1 [24, 25]",
+        "relevance": "Chemical reagent used to formulate the acid bath for checking the permanency of printed pigments."
+      },
+      {
+        "is_number": "IS 266 : 1993",
+        "title": "Sulphuric acid — Specification",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause B-2.2 [17, 25]",
+        "relevance": "Chemical reagent used to formulate the highly acidic testing mixture for ink permanency."
+      },
+      {
+        "is_number": "IS 14534 : 1998",
+        "title": "Guidelines for recycling of plastics",
+        "category": "Normative reference",
+        "location": "Clause 2, Clause 7.2.1(f) [14, 26]",
+        "relevance": "Mandates standard material identification symbols printed on cartons to assist post-consumer recycling."
+      }
+    ],
+    "certification_and_marking": {
+      "standard_type": "Product Specification (Containers / Childcare Items)",
+      "certification_status": "Strict Statutory Mandatory Certification. Under Section 11(2) of 'The Infant Milk Substitutes, Feeding Bottle and Infant Foods (Regulation of Production, Supply and Distribution) Act, 1992' (as amended in 2003), it is a criminal offence to sell or otherwise distribute any feeding bottle in India unless it carries the BIS Standard Mark (ISI Mark) affixed directly to its container [27].",
+      "requirements": [
+        {
+          "requirement_type": "Mandatory Standard Mark Scheme",
+          "detail": "The bottles must carry the Standard Mark of the Bureau of Indian Standards (ISI Mark) on their packaging container to legally permit sale and distribution in the Indian market [27, 28].",
+          "clause_reference": "Foreword & Clause 7.3",
+          "page_reference": "Page 1 & Page 7"
+        },
+        {
+          "requirement_type": "BPA-Free Certification",
+          "detail": "The materials used must be entirely Bisphenol A (BPA) free. The standard completely deletes polycarbonate (PC) as an eligible raw material for infant feeding bottles due to dangerous toxic leaching risks [3, 5-7].",
+          "clause_reference": "Foreword & Clause 4.1",
+          "page_reference": "Page 1 & Page 2"
+        },
+        {
+          "requirement_type": "Mandatory Safety Warnings on Packing",
+          "detail": "The product packaging must display the following exact warnings for childcare safety: 'Always use this product with adult supervision', 'Always check food temperature before feeding', and 'Keep all components not in use out of the reach of children' [29, 30].",
+          "clause_reference": "Clause 7.2.2.3",
+          "page_reference": "Page 6"
+        },
+        {
+          "requirement_type": "Mandatory Carton Markings",
+          "detail": "Each carton must be permanently marked with the source of manufacture, nominal capacity, batch and code number, month and year of manufacture, plastic material type (food-contact grade), and recycling product symbol conforming to IS 14534 [26, 31].",
+          "clause_reference": "Clause 7.2.1",
+          "page_reference": "Page 6"
+        },
+        {
+          "requirement_type": "ECO-Mark Scheme Requirements",
+          "detail": "To carry the combined ISI and ECO-Mark, the manufacturer must produce official pollution control clearances under the Water Act of 1974, Air Act of 1981, and Environment Protection Act of 1986. The packaging must be biodegradable or recyclable, and a list of ingredients must be displayed in descending order [10, 32-34].",
+          "clause_reference": "Annex G",
+          "page_reference": "Page 13"
+        }
+      ]
+    },
+    "keywords": [
+      "IS 14625:2015",
+      "Plastics Feeding Bottles",
+      "Infant Care Equipment",
+      "Bisphenol A (BPA) Free",
+      "Polypropylene (PP)",
+      "Polyethersulfone (PES)",
+      "The Infant Milk Substitutes Act 1992",
+      "Heavy Metal Migration Limits",
+      "Overall Migration Test",
+      "Drop Test (1.2m)",
+      "Ageing Resistance",
+      "Permanency of Pigment Test",
+      "Transparency Test",
+      "Compressive Deformation Resistance",
+      "ECO-Mark"
+    ],
+    "plain_language_summary": {
+      "summary": "IS 14625:2015 is the strict national Indian safety standard for the manufacture, quality evaluation, and statutory marking of infant plastic feeding bottles and receptacles. Because infant health is highly vulnerable, Indian law (specifically the IMS Act of 1992) prohibits the sale or distribution of any baby feeding bottle unless it is certified with the BIS Standard Mark. In this revision, polycarbonate materials have been entirely banned due to hazardous Bisphenol A (BPA) leaching risks, limiting acceptable plastic materials to safe food-grade alternatives such as virgin polypropylene or polyethersulfone. When auditing these products, engineers must double-check mechanical and physical integrity parameters, including the 1.2 m free-fall drop test (repeated 10 times on the base and 10 times on the side), maximum overall chemical migration limit compliance, minimum 70% light transmittance, and ensure the mandatory warning statements regarding adult supervision are prominently printed."
+    },
+    "source_information": {
+      "source_pdf_filename": "14625_2015_amd2_reff2020.pdf",
+      "document_version_edition": "First Revision, incorporating Amendments No. 1 (2016) and No. 2 (2019) [1, 4, 11]"
+    }
+  }
+}

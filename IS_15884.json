@@ -1,0 +1,129 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15884 : 2024",
+    "full_title": "Alternating Current Direct Connected Static Prepayment Meters for Active Energy (Class 1 and Class 2) — Specification (First Revision)",
+    "sector_category": "N/A",
+    "ics_code": "91.140.50",
+    "sectional_committee": {
+      "name": "N/A",
+      "number": "N/A"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements, test methods, and standard conditions for direct-connected static prepayment alternating current (AC) meters of accuracy Class 1 and Class 2 for measuring active energy.",
+    "clause_number": "Clause 1 (implied)",
+    "page_number": "Page 1"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, July 2024",
+    "year_first_published": "N/A",
+    "revision_history": [
+      {
+        "edition": "First Revision",
+        "year": "2024"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 11000 (Part 2/Sec 1)",
+      "title": "N/A",
+      "category": "Test method",
+      "location": "Clause 5.2.4",
+      "relevance": "Specified standard under which the mandatory resistance to heat and fire testing of the meter must be carried out."
+    },
+    {
+      "is_number": "IS 6873 (Part 2/Sec 1) : 2019",
+      "title": "Limits and methods of measurement of radio disturbance characteristics: Part 2 Electromagnetic Compatibility (EMC) — Requirements for household appliances, electric tools and similar",
+      "category": "Normative reference",
+      "location": "Clause 5.5.5.1, Annex M",
+      "relevance": "Prescribes measurement limits and methods for evaluating the radio disturbance emission characteristics of the meter."
+    },
+    {
+      "is_number": "IS/CISPR 32",
+      "title": "N/A",
+      "category": "Test method",
+      "location": "Clause 5.5.5.2",
+      "relevance": "Governs radio interference testing for prepayment meters incorporating wireless communication functions."
+    },
+    {
+      "is_number": "IS 1401 : 2008",
+      "title": "Protection of person and equipment by enclosure- probes for verification (second revision)",
+      "category": "Safety",
+      "location": "Annex M",
+      "relevance": "Details standard probe configurations used to verify touch protection and mechanical safety boundaries of the meter casing."
+    },
+    {
+      "is_number": "IS 2071 (Part 1) : 2016",
+      "title": "High voltage test techniques: Part 1 General definitions and test requirements (third revision)",
+      "category": "Test method",
+      "location": "Annex M",
+      "relevance": "Specifies high-voltage testing techniques required to confirm structural dielectric safety."
+    },
+    {
+      "is_number": "IS 13234",
+      "title": "N/A",
+      "category": "Other",
+      "location": "Annex G (G-9/Notes)",
+      "relevance": "Referenced for guidance regarding prospective rms currents and point of wave switch-closure during load switch tests."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Electrical Static Meters)",
+    "certification_status": "No explicit BIS product certification (such as the ISI Mark or CRS Registration) is written in the provided excerpts of the standard text. However, to guarantee accuracy and functional safety, the code mandates strict technical markings, terminal specifications, and electrical verification limits:",
+    "requirements": [
+      {
+        "requirement_type": "Meter Constant Accuracy Verification",
+        "detail": "The meter must possess a correct constant declared by the manufacturer. Allowed errors in the meter constant must not exceed 0.10 percent for Class 1 meters and 0.20 percent for Class 2 meters.",
+        "reference": "Clause 5.7 (Page 10)"
+      },
+      {
+        "requirement_type": "Terminal Hole Sizes",
+        "detail": "Terminal holes must have minimum internal diameters matching the rated current: <= 40 A requires 5.5 mm; 40 A < I <= 60 A requires 8.0 mm; and > 60 A requires 9.5 mm.",
+        "reference": "Table 1 (Clause 4.2.4) (Page 6)"
+      },
+      {
+        "requirement_type": "Insulation Resistance Standards",
+        "detail": "Insulation resistance at 500 V d.c. must be at least 5 MΩ between all current/voltage/auxiliary circuits (> 40 V) connected together and earth, and at least 50 MΩ between individual circuits not intended to be connected in service.",
+        "reference": "Table 17 (Clause 5.4.6.4) (Page 11)"
+      },
+      {
+        "requirement_type": "Temperature & Climatic Ranges",
+        "detail": "Indoor meters must function accurately within a specified operating range of -10 °C to 55 °C, and withstand a storage and transport limit range of -25 °C to 70 °C.",
+        "reference": "Table 5 (Clause 4.3.4) (Page 7)"
+      },
+      {
+        "requirement_type": "Token Carrier Interface and Event Logging",
+        "detail": "Prepayment meter interfaces or token carriers (magnetic cards, keypads, memory keys, etc.) must transfer credit values and reliably log events including credit expired, power limit exceeded, load switch status, and tamper detections.",
+        "reference": "Annex B (Clauses B-3.5 & B-3.11) (Page 13)"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15884:2024",
+    "Prepayment Meters",
+    "Static Meters",
+    "Active Energy",
+    "Class 1 Accuracy",
+    "Class 2 Accuracy",
+    "Token Carrier",
+    "Credit Token",
+    "Available Credit",
+    "Load Switch",
+    "UC1",
+    "UC2",
+    "UC3",
+    "Insulation Resistance",
+    "Glow-Wire Test"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15884:2024 is the national Indian Standard specification establishing technical, structural, and performance criteria for alternating current direct-connected static prepayment electricity meters of accuracy Class 1 and Class 2. This revision governs prepayment-specific features such as credit token interfaces (keypads, magnetic cards, or memory cards), real-time clock timekeeping, and load switching utilization categories (UC1, UC2, UC3). When implementing or testing these prepayment systems, engineers must verify electrical safety parameters—such as impulse voltage, AC voltage, and d.c. insulation resistance—as well as make sure that terminal block hole diameters and operational temperature limits (-10 °C to 55 °C) strictly comply with the standard's requirements."
+  },
+  "source_information": {
+    "source_pdf_filename": "15884_2024.pdf",
+    "document_version_edition": "First Revision, July 2024"
+  }
+}
