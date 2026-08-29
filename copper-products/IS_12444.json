@@ -1,0 +1,173 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12444 : 2020",
+    "full_title": "Copper Wire Rods for Electrical Applications — Specification (First Revision)",
+    "sector_category": "Metallurgical Engineering / Copper and Copper Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Copper and Copper Alloys Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "77.150.30",
+    "sectional_committee": {
+      "name": "Copper and Copper Alloys Sectional Committee",
+      "number": "MTD 08"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, chemical composition, electrical parameters, dimensional tolerances, and testing schedules for copper wire rods used in electrical applications. It covers rods manufactured from continuous casting processes—such as continuous vertical casting or continuous casting and rolling—having a nominal cross-sectional diameter of over 6 mm to 35 mm.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2020 (incorporating Amendment No. 1, December 2025)",
+    "year_first_published": "1988",
+    "revision_history": [
+      {
+        "edition": "First Edition (published under the title 'Continuously cast and rolled electrolytic copper wire rods for electrical conductors')",
+        "year": "1988"
+      },
+      {
+        "edition": "First Revision (reorganized to expand the nominal diameter range, incorporate Oxygen-Free Copper (OFC) grade specifications alongside ETP, update sulphur parameters, revise packaging guidelines, and add a dedicated electrical properties compliance clause)",
+        "year": "2020"
+      }
+    ],
+    "supersedes": "IS 12444 : 1988",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 was established in December 2025, which officially substituted Clause 1 (Scope) to specify that the standard covers nominal cross-sectional diameters over 6 mm up to 35 mm (originally limited to 18 mm in older iterations)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1608 (Part 1) / ISO 6892-1",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Mechanical testing",
+      "location": "Clause 8.1",
+      "relevance": "Prescribes standard tensile testing procedures to determine and verify the tensile strength and elongation of the wire rods."
+    },
+    {
+      "is_number": "IS 1387",
+      "title": "General requirements for the supply of metallurgical materials",
+      "category": "Material standard",
+      "location": "Normative references",
+      "relevance": "Outlines standard administrative, manufacturing, and shipping guidelines for cast or wrought metal supplies."
+    },
+    {
+      "is_number": "IS 2530",
+      "title": "Methods of test for polyethylene moulding materials and polyethylene compounds",
+      "category": "Material testing",
+      "location": "Normative references",
+      "relevance": "Used for verifying the compound properties of insulating or packaging polymer liners if utilized for protective coil winding."
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Methods for random sampling",
+      "category": "Sampling standard",
+      "location": "Sampling guidelines",
+      "relevance": "Governs statistical randomization and lot drawing procedures to extract representative test samples from consignments."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of calculated or observed testing figures to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 613 : 2000",
+      "title": "Copper Rods and Bars for Electrical Purposes — Specification",
+      "category": "Allied electrical copper standard",
+      "location": "Parallel metallurgical category",
+      "relevance": "Regulates finished, drawn, or extruded electrical copper bars, rods, and busbars, present in the notebook."
+    },
+    {
+      "is_number": "IS 1897 : 2008",
+      "title": "Copper Strip for Electrical Purposes — Specification",
+      "category": "Allied electrical copper standard",
+      "location": "Parallel metallurgical category",
+      "relevance": "Specifies highly conductive copper strips utilized for transformer windings, switchgears, and panels."
+    },
+    {
+      "is_number": "IS 12427 : 2001",
+      "title": "Fasteners — Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification",
+      "category": "Allied structural component standard",
+      "location": "Parallel steel construction components",
+      "relevance": "Fellow structural standard co-present in the notebook, specifying hot-dip galvanized fasteners for steel framing."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Metallurgy / Electrical Conductors)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper wire rods for electrical applications must conform to IS 12444:2020 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified copper wire rods is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper conductor feedstocks.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Each coil or packaged bundle of copper wire rods must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard reference to verify compliance.",
+        "clause_reference": "Marking clauses"
+      },
+      {
+        "requirement_type": "Product Sizing weight and Tolerances",
+        "detail": "Under Amendment No. 1, the standard specifies requirements for continuous cast copper wire rods with cross-sectional nominal diameters over 6 mm to 35 mm (originally capped at 18 mm). Tolerances on diameter and unit mass must stay within strictly bounded limits.",
+        "clause_reference": "Clause 1 (Amended)"
+      },
+      {
+        "requirement_type": "Chemical Composition - ETP Grade",
+        "detail": "Electrolytic Tough Pitch (ETP Grade) wire rods must be made of electrolytically refined copper, demonstrating a minimum copper purity of 99.90 percent (Cu >= 99.90% min, including silver) and a nominal oxygen content restricted to a maximum of 400 ppm (O2 <= 400 ppm max). Sulphur limits have been modified under the revision.",
+        "clause_reference": "Chemical Composition Clause"
+      },
+      {
+        "requirement_type": "Chemical Composition - OFC Grade",
+        "detail": "Oxygen-Free Copper (OFC Grade) wire rods must be made of high-purity copper, demonstrating a minimum copper content of 99.95 percent (Cu >= 99.95% min) with Oxygen strictly limited to less than 10 ppm (O2 < 10 ppm max) to prevent cuprous oxide inclusion hazards.",
+        "clause_reference": "Chemical Composition Clause"
+      },
+      {
+        "requirement_type": "Electrical Resistivity and Conductivity",
+        "detail": "Rods must ensure maximum electrical transport efficiency. Minimum electrical conductivity must be at least 100 percent or 101 percent (IACS) depending on grade, with a maximum electrical resistivity strictly capped at 0.01707 micro-ohm-meter at 20°C.",
+        "clause_reference": "Electrical Properties Clause"
+      },
+      {
+        "requirement_type": "Mechanical Tensile Strength & Elongation",
+        "detail": "To guarantee that rods can withstand high-speed drawing down to extremely fine wires without snapping on downstream manufacturing lines, the rods must show high ductility: minimum tensile strength is typically 160 N/mm² or 210 N/mm² depending on the specific hard/annealed state, with a minimum elongation at break of 35 percent.",
+        "clause_reference": "Mechanical Properties Clause"
+      },
+      {
+        "requirement_type": "Freedom from Defects",
+        "detail": "The surface of the continuously cast copper wire rods must be clean, smooth, uniform, and completely free from physical defects such as cracks, severe scratches, oxidation scale, flakes, or foreign inclusions.",
+        "clause_reference": "Freedom from Defects Clause"
+      },
+      {
+        "requirement_type": "Upsetting/Compression Surface Test",
+        "detail": "To verify internal and mechanical soundness of the rod, a compression/upsetting test is conducted. Specimens of the rod are compressed axially to a specified fraction of their original height; the compressed piece must show zero visible cracking, splitting, or material delamination.",
+        "clause_reference": "Surface/Compression Test Clause"
+      },
+      {
+        "requirement_type": "Hydrogen Embrittlement Test (OFC Grade)",
+        "detail": "Specifically for the Oxygen-Free Copper (OFC) grade, a hydrogen embrittlement test must be performed. Specimens conditioned and heated in a hydrogen atmosphere must show zero micro-cracking or physical brittleness under subsequent bending, verifying that the copper is completely free from cuprous oxide inclusions.",
+        "clause_reference": "Hydrogen Embrittlement Clause"
+      },
+      {
+        "requirement_type": "Lot Sampling Guidelines",
+        "detail": "For compliance auditing, standard physical test samples of 6 metres length and chemical drill samples of 100g (or 5 pieces of 5 cm length) must be selected at random from the control lots in accordance with IS 4905 randomization guidelines.",
+        "clause_reference": "Sampling Guidelines & Product Manual"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12444 : 2020",
+    "Copper Wire Rods",
+    "Electrical Applications",
+    "Electrolytic Tough Pitch",
+    "Oxygen Free Copper",
+    "OFC Grade",
+    "ETP Grade",
+    "Electrical Resistivity",
+    "Electrical Conductivity",
+    "Hydrogen Embrittlement",
+    "Upsetting Test",
+    "MTD 08",
+    "Copper QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12444 : 2020 is the mandatory national Indian Standard safety and quality specification regulating continuously cast and rolled copper wire rods utilized throughout the electrical wire, cable, and winding industries. Under India's statutory Copper Products Quality Control Order (QCO), all copper rods supplied to the Indian market must carry the BIS Standard Mark (ISI Mark) to ensure high conductivity and material purity. It classifies rods into Electrolytic Tough Pitch (ETP, >=99.90% purity, <=400 ppm oxygen) and high-purity Oxygen-Free Copper (OFC, >=99.95% purity, <=10 ppm oxygen) grades. Officially expanded by Amendment No. 1 (December 2025) to cover diameters from over 6 mm up to 35 mm, the standard enforces strict limits on dry electrical resistivity (max 0.01707 micro-ohm-meter), tensile strength (min 160 N/mm²), elongation (min 35%), and surface soundness verified through axial compression tests. Additionally, the premium OFC grade must pass standard hydrogen embrittlement testing to certify its resistance to microscopic structural cracking during high-temperature thermal processing."
+  },
+  "source_information": {
+    "source_pdf_filename": "12444_amd1.pdf",
+    "document_version_edition": "First Revision, 2020 (incorporating Amendment No. 1, December 2025)"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17509 : 2021",
+    "full_title": "Disposable Baby Diaper — Specification",
+    "sector_category": "Textiles / Technical Textiles for Medtech Applications (approved by the Textile Division Council and finalized by the Technical Textiles for Medtech Applications Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "59.080.30",
+    "sectional_committee": {
+      "name": "Technical Textiles for Medtech Applications Sectional Committee",
+      "number": "TXD 36"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the physical, chemical, biological, and performance-testing requirements for disposable (non-reusable) baby diapers intended for external use. It establishes guidelines for sizing, absorbency, raw material safety, and hygienic manufacturing to ensure comfort, protection, and skin-friendliness for newborns, infants, and toddlers.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2021 (incorporating Amendment No. 1, Amendment No. 2, and Amendment No. 3, February 2025) [1]",
+    "year_first_published": "2021 [1]",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2021"
+      }
+    ],
+    "supersedes": "N/A (Newly formulated dedicated standard for disposable baby diapers to regulate the expanding personal hygiene sector under medtech regulations)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "Unspecified",
+        "description": "Aligns basic testing and administrative protocols."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "Unspecified",
+        "description": "Updates dimensional references and classification listings."
+      },
+      {
+        "amendment_number": "Amendment No. 3",
+        "date": "February 2025 [1]",
+        "description": "Modifies Page 1, clause 6.1, Sl No. (v), col (3) to substitute the weight variety of '9 kg to 11 kg' with '9 kg to 13 kg' [1]. Inserts notes clarifying that dimensions and tolerances for premature babies and other varieties not covered in Table 1 shall be declared by the manufacturer for reference [1], and that actual physical diaper dimensions may differ based on the product design of the manufacturer [1]."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Sampling standard",
+      "location": "Clause 8.1.3",
+      "relevance": "Governs statistical sampling plans and lot selection criteria to audit consignments of diapers for compliance testing."
+    },
+    {
+      "is_number": "IS 9873 (Part 6)",
+      "title": "Safety of toys — Part 6: Determination of certain phthalate esters in toys and children's products",
+      "category": "Chemical safety standard",
+      "location": "Clause 7.5",
+      "relevance": "Prescribes standard testing routines to limit harmful phthalate plasticizers in infant-contact materials."
+    },
+    {
+      "is_number": "IS 1390",
+      "title": "Textiles — Determination of pH of aqueous extract",
+      "category": "Biological safety standard",
+      "location": "Clause 7.1",
+      "relevance": "Used to determine and verify the pH value of the aqueous extract to ensure the diaper maintains skin-friendly compatibility."
+    },
+    {
+      "is_number": "IS 5887 (Part 2)",
+      "title": "Methods for detection of bacteria responsible for food poisoning: Part 2 Isolation, identification and enumeration of Staphylococcus aureus and faecal Streptococci",
+      "category": "Biological safety standard",
+      "location": "Clause 7.3.2.1",
+      "relevance": "Used to isolate and verify the complete absence of the skin pathogen Staphylococcus aureus."
+    },
+    {
+      "is_number": "IS/ISO 10993 (Part 5)",
+      "title": "Biological evaluation of medical devices — Part 5: Tests for in vitro cytotoxicity",
+      "category": "Biocompatibility standard",
+      "location": "Clause 7.4",
+      "relevance": "Prescribes standard in-vitro laboratory methods to verify that the diaper components are completely non-cytotoxic."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 5405 : 2025",
+      "title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "The fellow national standard regulating disposable hygiene absorbents under the same medtech committee, present in the notebook."
+    },
+    {
+      "is_number": "IS 758 : 2023",
+      "title": "Medical textiles — Absorbent cotton gauze — Specification",
+      "category": "Allied medical textile standard",
+      "location": "Parallel medical dressings standard",
+      "relevance": "Regulates high-purity absorbent cotton structures used in medical and skin-contact dressings."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Disposable Hygiene / Medical Textiles) [1]",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Medical Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all disposable baby diapers must conform to IS 17509:2021 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified baby diapers in India is a punishable criminal offense under the Bureau of Indian Standards Act, 2016. Micro and small units are granted specific delayed implementation phases, and products manufactured by Self-Help Groups (SHGs) are exempt. Precious metal hallmarking is completely inapplicable to disposable baby diapers.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial pack of disposable baby diapers must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to verify conformity.",
+        "clause_reference": "Marking clauses"
+      },
+      {
+        "requirement_type": "Three-Layer Architecture",
+        "detail": "Disposable baby diapers must consist of three primary layers to ensure moisture isolation: a) top cover or top sheet (for skin contact comfort); b) absorbent core (middle layer featuring superabsorbent polymers, cellulose pulp, or tissue to retain liquid); and c) outer protective barrier or back sheet (leak-proof layer to prevent liquid pass-through)."
+      },
+      {
+        "requirement_type": "Standard Sizing Weight Variety (Clause 6.1 - Amended)",
+        "detail": "Under Amendment No. 3, the weight classification range for the corresponding variety in Table 1, Sl No. (v), is substituted as '9 kg to 13 kg' (originally defined as '9 kg to 11 kg' in earlier amendments). Other varieties include New Born (2 to 5 kg), Small (3 to 8 kg), and Medium (6 to 11 kg).",
+        "clause_reference": "Clause 6.1 (Amended) [1]",
+        "page_reference": "Page 1 of Amendment No. 3 [1]"
+      },
+      {
+        "requirement_type": "Premature Baby Sizing (Note 1)",
+        "detail": "For premature babies and other specialized varieties not covered in Table 1, the recommended dimensions and tolerances are declared by the manufacturer for reference only.",
+        "clause_reference": "Clause 6.1 Note 1 [1]",
+        "page_reference": "Page 1 of Amendment No. 3 [1]"
+      },
+      {
+        "requirement_type": "Design Dimensional Tolerances (Note 2)",
+        "detail": "The actual physical dimensions of baby diapers can vary based on the specific product design chosen by the manufacturer.",
+        "clause_reference": "Clause 6.1 Note 2 [1]",
+        "page_reference": "Page 1 of Amendment No. 3 [1]"
+      },
+      {
+        "requirement_type": "Biocompatibility & Skin Friendliness",
+        "detail": "Diaper raw materials must undergo biocompatibility evaluation under Clause 7.4 (including cytotoxicity, skin irritation, and skin sensitization tests) once for existing raw material and whenever there is a change in the supply source. The finished product must maintain a skin-friendly pH value."
+      },
+      {
+        "requirement_type": "Microbial Bioburden Limits",
+        "detail": "To prevent infections on sensitive infant skin, the diaper must satisfy strict limits on total bacterial and fungal count. Common pathogens like Staphylococcus aureus must be completely absent."
+      },
+      {
+        "requirement_type": "Phthalate Level Restrictions",
+        "detail": "To prevent hormonal and toxic hazards to infants, the total individual or combined phthalate plasticizer content in raw materials or finished products must be strictly limited (typically less than 0.1 percent) when tested in accordance with IS 9873 (Part 6)."
+      },
+      {
+        "requirement_type": "Liquid Retention Performance",
+        "detail": "The composite diaper assembly must pass mandatory physical absorbency tests, including Rate of Absorption (speed of liquid draw-in), Rewet under Load (minimal fluid return to the skin under infant body weight to keep the skin dry), and Minimum Total Absorption Capacity."
+      },
+      {
+        "requirement_type": "Fastening & Securing Mechanism",
+        "detail": "The diapers must feature secure, adjustable, and skin-safe adhesive or hook-and-loop fasteners that do not restrict movement or scratch the infant."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17509 : 2021",
+    "Disposable Baby Diapers",
+    "Diaper Specification",
+    "Technical Textiles",
+    "Absorbent Core",
+    "Superabsorbent Polymers",
+    "Rate of Absorption",
+    "Rewet under Load",
+    "Microbial Bioburden",
+    "Staphylococcus aureus absent",
+    "Biocompatibility",
+    "Phthalates Test",
+    "TXD 36",
+    "Medical Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17509 : 2021 is the mandatory national Indian Standard specification regulating disposable (non-reusable) baby diapers sold or imported in India. Under the statutory Medical Textiles Quality Control Order (QCO), all baby diapers supplied to the Indian market must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). It outlines strict raw material checks, including biocompatibility (testing for cytotoxicity, skin irritation, and sensitization) and a maximum phthalate limit of 0.1 percent to protect infants from plasticizer toxicity. It classifies diapers based on weight ranges from New Born up to Extra Large. Amendment No. 3 (February 2025) modifies the weight range for the corresponding variety under Sl No. (v) to '9 kg to 13 kg' (originally 9 to 11 kg) [1]. It also notes that dimensions for premature babies are to be declared by the manufacturer for reference only [1]. This standard ensures that baby diapers provide excellent leak-proof retention, high rate of absorption, and minimal rewet under load, while keeping infants safe from harmful pathogens, extreme pH levels, and industrial chemicals."
+  },
+  "source_information": {
+    "source_pdf_filename": "17509_amd3.pdf",
+    "document_version_edition": "First Edition, 2021 (incorporating Amendment No. 3, February 2025) [1]"
+  }
+}

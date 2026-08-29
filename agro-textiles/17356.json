@@ -1,0 +1,218 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17356 : 2020",
+    "full_title": "Agro Textiles — Windshield Nets for Agriculture and Horticulture Purposes — Specification",
+    "sector_category": "Technical Textiles / Technical Textiles for Agrotech Applications (approved by the Textile Division Council and finalized by the Technical Textiles for Agrotech Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "59.080.70; 65.060.35",
+    "sectional_committee": {
+      "name": "Technical Textiles for Agrotech Applications Sectional Committee",
+      "number": "TXD 35"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes constructional and other performance requirements for windshield nets manufactured from mono filament yarns for agriculture and horticulture purposes to protect the flora from damage caused by high-speed wind by reducing or blocking the amount of wind passing through them.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard",
+    "citations": "[1]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2020 (Reaffirmed 2025)",
+    "year_first_published": "2020",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2020"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this copy."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "ISO 105-B02 : 2014",
+      "title": "Textiles — Tests for colour fastness: Part B02 Colour fastness to artificial light: Xenon arc fading lamp test",
+      "category": "Colourfastness testing",
+      "location": "Table 1, Sl No. iv",
+      "relevance": "Governs xenon arc fading lamp test methods to verify color resistance against intense artificial light.",
+      "citations": "[2, 3]"
+    },
+    {
+      "is_number": "IS 1969 (Part 1)",
+      "title": "Textiles — Tensile properties of fabrics: Part 1 Determination of maximum force and elongation at maximum force using the strip method",
+      "category": "Tensile testing",
+      "location": "Table 1, Sl No. iii",
+      "relevance": "Governs the tensile testing protocols used to measure the breaking strength and elongation of windshield fabric.",
+      "citations": "[2]"
+    },
+    {
+      "is_number": "IS 1966 (Part 1) or (Part 2)",
+      "title": "Textiles — Bursting properties of fabrics — Determination of bursting strength and bursting distension",
+      "category": "Bursting strength testing",
+      "location": "Table 1, Sl No. v",
+      "relevance": "Prescribes standard hydraulic or pneumatic laboratory test configurations to determine net bursting pressure.",
+      "citations": "[2, 3]"
+    },
+    {
+      "is_number": "IS 1964 : 2001",
+      "title": "Methods for determination of mass per unit length and mass per unit area of fabrics (second revision)",
+      "category": "Physical testing",
+      "location": "Normative references",
+      "relevance": "Enforced to determine and verify the mass per unit area (g/m²) of the finished windshield nets.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 1954 : 1990",
+      "title": "Determination of length and width of woven fabrics — Methods (second revision)",
+      "category": "Dimensional standard",
+      "location": "Normative references",
+      "relevance": "Governs dimensional tolerances and measurement methods for finished netting rolls.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Governs the standard mathematical rounding-off routines used on calculated and observed physical testing figures.",
+      "citations": "[4]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16513 : 2016",
+      "title": "Agro Textiles — Insect Nets for Agriculture and Horticulture Purposes — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "Fellow agrotech crop-protection standard co-regulated under statutory Quality Control Orders, present in the notebook."
+    },
+    {
+      "is_number": "IS 16008 (Part 2) : 2016",
+      "title": "Agro Textiles — Shade Nets for Agriculture and Horticulture Purposes — Specification Part 2 Shade Nets Made from Mono Filament Yarns (First Revision)",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "Related agrotech monofilament shade netting standard sharing baseline material compositions and UV stabilization criteria."
+    },
+    {
+      "is_number": "IS 16718 : 2021",
+      "title": "Textiles — Polypropylene Spun Bonded Non-Woven Crop Covers and Fruit Skirting Bags for Agricultural and Horticultural Applications — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A sister agrotech standard regulating spun-bonded crop covers and fruit protection bags, present in the notebook."
+    },
+    {
+      "is_number": "IS 16202 : 2014",
+      "title": "Agro Textiles — Woven Ground Covers for Horticulture Application — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A related agrotech standard covering ground covers for horticulture, focusing on soil moisture retention and weed suppression, present in the notebook."
+    },
+    {
+      "is_number": "IS 17070 : 2019",
+      "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A related technical textile standard for natural-fiber crop and weed control sheets, present in the notebook."
+    },
+    {
+      "is_number": "IS 17357 : 2020",
+      "title": "Agro Textiles — Harvest Nets for Agriculture and Horticulture Purposes — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "Fellow agrotech harvest protection net specification under the same TXD 35 committee."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied design standard",
+      "location": "Parallel structural engineering",
+      "relevance": "The master structural steel design code that regulates external support frames and connection designs, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Agrotech Textiles / Crop Protection Materials)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all Windshield Nets manufactured, imported, distributed, or sold in India must conform to IS 17356:2020 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified agricultural windshield nets in India is a statutory offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition timelines, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to synthetic monofilament windshield nets.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every roll or bundle of certified windshield net must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 17356) printed on a secure label or edge tape."
+      },
+      {
+        "requirement_type": "Raw Material Composition",
+        "detail": "Windshield nets must be manufactured from high-quality HDPE monofilament yarns conforming to Clauses 4.1 and 4.1.1 of IS 17356:2020. The monofilament yarn shall be thoroughly UV-stabilised (for a minimum of 3 years resistance) and contain non-toxic pigments."
+      },
+      {
+        "requirement_type": "Warp-Knitted Construction",
+        "detail": "The fabric used in the manufacture of windshield nets shall be knitted on warp knitting machines and shall have a width as per the agreement between the buyer and the seller."
+      },
+      {
+        "requirement_type": "Product Classifications & Varieties",
+        "detail": "The standard classifies windshield nets into two primary types: Type 1 and Type 2. Separate samples of each type must be tested for scope certification."
+      },
+      {
+        "requirement_type": "Eyelets Positioning and Location",
+        "detail": "Windshield nets must be provided with eyelets (or brass sail type eyelets conforming to IS 4084) along the length and width of the fabric as shown in Fig. 1 to facilitate secure installation. Typical edge-to-edge distances, eyelet-to-eyelet distances, and eyelet lengths must be declared.",
+        "clause_reference": "Clause 4.1.3 & Fig. 1",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Colour Fastness to Artificial Light",
+        "detail": "Applicable for coloured windshield nets only. The colour fastness to artificial light must achieve a rating of 4 or better when evaluated using Xenon arc fading lamp test methods as per ISO 105-B02.",
+        "clause_reference": "Table 1, Sl No. iv",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Bursting Pressure Limits",
+        "detail": "Windshield nets must resist severe localized forces. The bursting pressure of the fabric must be at least 10 kgf/cm² for Type 1 and 14 kgf/cm² for Type 2, evaluated as per hydraulic or pneumatic methods of IS 1966.",
+        "clause_reference": "Table 1, Sl No. v",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Wind Blockage Performance",
+        "detail": "The primary aerodynamic purpose of the net is wind reduction. The wind blockage must be at least 18 percent for Type 1 and 35 percent for Type 2, tested as per the blower and measurement chamber method outlined in Annex C.",
+        "clause_reference": "Table 1, Sl No. vi",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Retention of Breaking Strength after UV weathering",
+        "detail": "To guarantee durability under intense sun, the fabric must undergo accelerated UV weathering. The retained breaking strength (warpway and weftway) must be at least 85 percent of the original actual fabric strength, tested per Annex B and IS 1969 (Part 1).",
+        "clause_reference": "Table 1, Sl No. iii",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Visual Workmanship & Freedom from Defects",
+        "detail": "Finished netting rolls must be clean, flat, uniform, and free from manufacturing defects such as missing yarns, distorted meshes, or scale. Colour or pigment mixture shall conform to sealed client reference samples.",
+        "clause_reference": "Clause 5",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Lot Sampling Requirements",
+        "detail": "For quality audit inspections, random samples must be selected per Table 2 (Scale of Sampling). Lots are defined as monofilament windshield net rolls/bundles of the same construction and type dispatched under one dispatch note.",
+        "clause_reference": "Clause 9.2 & Table 2",
+        "citations": "[2]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17356 : 2020",
+    "Windshield Nets",
+    "Agro Textiles",
+    "HDPE Monofilament",
+    "Warp Knitted Mesh",
+    "Type 1 Type 2",
+    "Bursting Pressure",
+    "Wind Blockage",
+    "UV stability",
+    "ISO 105-B02",
+    "TXD 35",
+    "Agro Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17356 : 2020 is the mandatory national Indian Standard specification governing UV-stabilized high-density polyethylene (HDPE) monofilament windshield nets used in the agriculture and horticulture sectors. These nets act as mesh barriers placed around open fields, orchards, and nurseries to protect crops from mechanical damage, dust, insects, and frost caused by high-speed winds. Under India's statutory Agro Textiles Quality Control Order (QCO), all windshield nets supplied to the Indian market must bear the BIS Standard Mark (ISI Mark). The standard classifies nets into Type 1 and Type 2, enforcing strict mechanical and physical limits—including a minimum wind blockage performance of 18% to 35%, a minimum bursting pressure of 10 to 14 kgf/cm², and a minimum breaking strength retention of 85% after accelerated UV weathering to guarantee long-term outdoor service life."
+  },
+  "source_information": {
+    "source_pdf_filename": "17356 (1).pdf",
+    "document_version_edition": "First Edition, 2020"
+  }
+}

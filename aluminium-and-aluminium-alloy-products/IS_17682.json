@@ -1,0 +1,188 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17682 : 2021",
+    "full_title": "Aluminium Composite Panel — Specification",
+    "sector_category": "Civil Engineering / Flooring, Wall Finishing and Roofing (approved by the Civil Engineering Division Council and finalized by the Flooring, Wall Finishing and Roofing Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "91.060.10",
+    "sectional_committee": {
+      "name": "Flooring, Wall Finishing and Roofing Sectional Committee",
+      "number": "CED 05"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the physical, mechanical, surface-coating, and fire-retardant requirements, along with corresponding test methods, for flat Aluminium Composite Panels (ACP) utilized in building construction. It covers panels intended for external applications (such as cladding façades, curtain walls, soffits, canopies, and high mast monoliths), internal use (such as partitions, ceilings, and column encasements), transportation applications (such as railway coach furnishings), and fire-retardant panels with various properties matching their specific application environments.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2021 (incorporating Amendment No. 1, September 2024 and Amendment No. 2, December 2025) [1]",
+    "year_first_published": "2021",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2021"
+      }
+    ],
+    "supersedes": "N/A (Developed as a new dedicated national standard to govern the quality, durability, and fire performance of ACPs in the Indian construction sector)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "September 2024",
+        "description": "Substitutes 'Annex G' for 'Annex D'. Deletes select testing references under Table 2. Enforces updated detailed test procedures for evaluating T-peel strength, chalk resistance, coatings, and chemical resistance parameters."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "December 2025",
+        "description": "Substitutes the accelerated weathering testing reference in Table 3, Sl No. (v) (b), Col (7) from 'IS 101 (Part 6/Sec 1)' to 'IS 101 (Part 6/Sec 5)' [1]. It deletes standard references 'IS 2046 : 1995', 'IS 13360 (Part 3/Sec 11) : 1999/ISO 1183-2 : 2004', and 'IS 15061 : 2002' from the normative references in Annex A [1]."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 101 (Part 6/Sec 5)",
+      "title": "Methods of test for ready mixed paints and enamels — Part 6: Durability tests — Section 5: Accelerated weathering test",
+      "category": "Test method",
+      "location": "Table 3 (Amended) [1]",
+      "relevance": "Enforced under Amendment No. 2 to perform accelerated weathering, color retention, and gloss degradation testing of the outer panel coatings [1]."
+    },
+    {
+      "is_number": "IS 1608 (Part 1)",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Test method",
+      "location": "Table 2 / Physical testing",
+      "relevance": "Governs the tensile and proof-stress testing of the top and bottom structural aluminium skins."
+    },
+    {
+      "is_number": "IS 733",
+      "title": "Wrought aluminium and aluminium alloy bars, rods and sections — Specification",
+      "category": "Material standard",
+      "location": "Raw materials",
+      "relevance": "Defines the metallurgy, chemical composition, and temper of wrought aluminium alloys compatible with composite structures."
+    },
+    {
+      "is_number": "IS 1285",
+      "title": "Wrought aluminium and aluminium alloy extruded round tubes and hollow sections — Specification",
+      "category": "Material standard",
+      "location": "Raw materials",
+      "relevance": "Specifies quality control parameters for auxiliary extruded framing, sections, and structural members."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword / Compliance clauses",
+      "relevance": "Standardizes the mathematical procedures used to round off calculated or observed test parameters to check compliance boundaries."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10701 : 2012",
+      "title": "Structural Plywood — Specification",
+      "category": "Allied / Building panels standard",
+      "location": "Parallel building materials",
+      "relevance": "Fellow load-bearing building panel standard present in the notebook that is co-regulated under statutory Quality Control Orders (QCO)."
+    },
+    {
+      "is_number": "IS 2202 (Part 2) : 2022",
+      "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification",
+      "category": "Allied / Building panels standard",
+      "location": "Parallel building materials",
+      "relevance": "Related solid composite door shutter standard, sharing similar mechanical durability and edge-weathering concerns."
+    },
+    {
+      "is_number": "IS 2191 (Part 2) : 2022",
+      "title": "Wooden Flush Door Shutters (Cellular and Hollow Core Type) — Specification",
+      "category": "Allied / Building panels standard",
+      "location": "Parallel building materials",
+      "relevance": "Related hollow and cellular composite door panel standard."
+    },
+    {
+      "is_number": "IS 7092 (Part 2) : 1987",
+      "title": "Aluminium Alloy Tube for Irrigation Purposes — Part 2: Extruded Tube",
+      "category": "Allied aluminium standard",
+      "location": "Parallel light metals",
+      "relevance": "Another major wrought aluminium alloy product standard present in the notebook under mandatory certification."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied design standard",
+      "location": "Parallel structures",
+      "relevance": "The master structural code that regulates external cladding support frames, wind-load deflections, and connection designs."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Building Panels / Light Metals & Alloys)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Aluminium and Aluminium Alloy Products (Quality Control) Order' (QCO) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all Aluminium Composite Panels manufactured, imported, distributed, or sold in India must bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or selling non-certified cladding panels in the domestic market is a punishable offense under the Bureau of Indian Standards Act, 2016. Micro and small units are granted specific delayed implementation schedules, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to synthetic building cladding panels.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every panel must carry the BIS Standard Mark (ISI Mark) marked legibly and indelibly on its reverse face or secure label, accompanied by the manufacturer's registered licence number (CM/L) and standard designation (IS 17682)."
+      },
+      {
+        "requirement_type": "Structural Three-Layer Architecture",
+        "detail": "The composite panel must consist of three main structural layers: a top and a bottom coated aluminium sheet, and an in-between core layer made either of low-density polyethylene (LDPE) or mineral-based fire-retardant material, bonded together using high-performance adhesive films."
+      },
+      {
+        "requirement_type": "Product Classifications and Grades",
+        "detail": "Panels are classified into six distinct application grades to match structural and fire demands: Grade 1, Grade 2, Grade 2S, Grade 3, Grade 4, and Grade 5."
+      },
+      {
+        "requirement_type": "Standard Sizing Configurations",
+        "detail": "The standard specifies three nominal size configurations: a) 1 200 mm × 2 400 mm; b) 1 200 mm × 3 050 mm; c) 1 200 mm × 3 660 mm. The nominal sheet thicknesses are 2 mm, 3 mm, 4 mm, 5 mm, and 6 mm. Other dimensions can be mutually agreed between manufacturer and buyer."
+      },
+      {
+        "requirement_type": "Sizing & Dimensional Tolerances (Table 1)",
+        "detail": "Finished panel dimensions must satisfy: Length tolerance of +4 mm, width tolerance of +2 mm. Thickness tolerances: less than 3 mm is ±0.1 mm; 3 mm and above is ±0.2 mm. Edge straightness deviation must not exceed ±0.5 percent (tested per Annex C), and squareness deviation is limited to a maximum of ±5 mm (tested per Annex C)."
+      },
+      {
+        "requirement_type": "Raw Material Conformity Checks",
+        "detail": "Manufacturers must verify raw materials: polymer granules (Clause 5.1), aluminium alloy sheets (Clause 5.2), and surface coating parameters (Clause 5.4)."
+      },
+      {
+        "requirement_type": "Surface Coating Finishes",
+        "detail": "To prevent UV chalking and degradation, surface coatings must conform to specified chemistries based on grade:\na) Polyester (PE): Allowed for Grade 2;\nb) Super Durable Polyester (SDP): Allowed for Grades 2, 3, 4, 5, and 2S;\nc) Polyvinylidene Fluoride (PVDF): Allowed for Grades 1, 2, 2S, 3, 4, and 5;\nd) Fluoroethylene Vinyl Ether (FEVE): Allowed for Grades 1, 2S, 3, 4, and 5."
+      },
+      {
+        "requirement_type": "Physical & Mechanical Properties (Table 2)",
+        "detail": "Finished panels must satisfy physical-mechanical limits: core polymer density, aluminium sheet tensile strength, yield strength, elongation, and joint T-peel strength (testing adhesive bond integrity between the core and aluminium sheets)."
+      },
+      {
+        "requirement_type": "Surface Coating Verification (Table 3 - Amended)",
+        "detail": "Coatings must undergo strict quality audits: dry coating thickness, cross-cut adhesion, pencil hardness, specular gloss, color/gloss retention, and accelerated weathering under the updated weathering test IS 101 (Part 6/Sec 5) [1]."
+      },
+      {
+        "requirement_type": "Mandatory Fire Retardancy (Table 4)",
+        "detail": "For fire-retardant panels (Grade FR), the composite assembly must undergo fire testing to verify: Limiting Oxygen Index (LOI) to check combustion limits, Smoke Density Rating to measure toxic fumes, Ignitability, and Surface Flame Spread behavior."
+      },
+      {
+        "requirement_type": "Optional Acoustic & Thermal Properties (Table 5)",
+        "detail": "When requested by the specifier, panels must pass optional engineering tests to certify Sound Transmission Class (STC) ratings, sound absorption coefficients, and thermal conductivity coefficients."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17682 : 2021",
+    "Aluminium Composite Panel",
+    "ACP Panel",
+    "External Cladding",
+    "Curtain Wall",
+    "Fire Retardant ACP",
+    "T-Peel Strength",
+    "LDPE Core",
+    "PVDF Coating",
+    "Accelerated Weathering",
+    "Limiting Oxygen Index",
+    "CED 05",
+    "Aluminium QCO 2026",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17682 : 2021 is the mandatory national Indian Standard specification establishing the quality, dimensions, coating durability, and fire safety requirements for flat Aluminium Composite Panels (ACP or cladding sheets) used in building exteriors (facades, curtain walls, canopies) and interior partitions. Under the national 'Aluminium and Aluminium Alloy Products Quality Control Order', all ACP panels supplied in India must carry the BIS Standard Mark (ISI Mark). The panels consist of top and bottom coated aluminium skins bonded to a low-density polyethylene (LDPE) or fire-retardant mineral-based core. It regulates dimensional tolerances, coating types (such as weather-resistant PVDF or FEVE), mechanical bonding (peel strength), and critical fire retardancy parameters (such as limiting oxygen index and low smoke density) to protect high-rise structures from fire spread. Amendment No. 2 (December 2025) updates the weathering and durability protocols by aligning them with advanced paint testing standards [1]."
+  },
+  "source_information": {
+    "source_pdf_filename": "17682_amd2.pdf",
+    "document_version_edition": "First Edition, 2021 (incorporating Amendment No. 1 and Amendment No. 2, December 2025)"
+  }
+}

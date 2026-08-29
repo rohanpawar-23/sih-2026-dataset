@@ -1,0 +1,227 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1897 : 2008",
+    "full_title": "Copper Strip for Electrical Purposes — Specification (Third Revision)",
+    "sector_category": "Metallurgical Engineering / Copper and Copper Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Copper and Copper Alloys Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "77.150.30",
+    "sectional_committee": {
+      "name": "Copper and Copper Alloys Sectional Committee",
+      "number": "MTD 08"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements for copper strips used for electrical purposes, featuring drawn or rolled edges (either round or square), supplied in annealed (O), half-hard (HB), and hard (HD) tempers. It applies to flat copper products over 0.15 mm up to and including 6 mm in thickness, of any width, generally supplied in coils or flat/folded lengths. These strips are primarily utilized for electrical connections and windings in transformers, busbars, and related electrical machinery.",
+    "clause_number": "Clauses 1 and 3.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, November 2008 (Reaffirmed 2016, Reaffirmed 2021)",
+    "year_first_published": "1962",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1962"
+      },
+      {
+        "edition": "First Revision",
+        "year": "1971"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "1983"
+      },
+      {
+        "edition": "Third Revision (revised to modify the maximum strip thickness to 6 mm, delete legacy copper cathode references, make edgewise bending optional, adjust mechanical properties, incorporate temperature correction factors, introduce eddy current testing, and establish straightness tolerances)",
+        "year": "2008"
+      }
+    ],
+    "supersedes": "IS 1897 : 1983",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this revision copy."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 191 : 2007",
+      "title": "Copper — Specification (fourth revision)",
+      "category": "Raw material standard",
+      "location": "Clause 6",
+      "relevance": "Prescribes chemical purity and copper composition requirements for Grade Cu-ETP (Electrolytic Tough Pitch) or Grade Cu-FRHC (Fire Refined High Conductivity)."
+    },
+    {
+      "is_number": "IS 440 : 1964",
+      "title": "Methods of chemical analysis of copper",
+      "category": "Chemical testing",
+      "location": "Clause 6",
+      "relevance": "Provides standard wet chemical and instrumental analysis methods to establish grade composition compliance."
+    },
+    {
+      "is_number": "IS 613 : 2000",
+      "title": "Copper rods and bars for electrical purposes — Specification (third revision)",
+      "category": "Related standard",
+      "location": "Table 3 Note 2",
+      "relevance": "Referred for the temperature correction factor (Annex B) applied during electrical resistivity and conductivity measurements."
+    },
+    {
+      "is_number": "IS 1387 : 1993",
+      "title": "General requirements for the supply of metallurgical materials (second revision)",
+      "category": "Supply condition standard",
+      "location": "Clause 4",
+      "relevance": "Governs the general administrative protocols, inspection criteria, and supply conditions of the finished metallic strip."
+    },
+    {
+      "is_number": "IS 1501 : 2002",
+      "title": "Method for Vickers hardness test for metallic materials (third revision)",
+      "category": "Hardness testing",
+      "location": "Clause 8.1",
+      "relevance": "Specifies laboratory test procedures used to verify the Vickers hardness (HV) ranges across different tempers."
+    },
+    {
+      "is_number": "IS 1599 : 1985",
+      "title": "Method for bend test (second revision)",
+      "category": "Bending testing",
+      "location": "Clause 8.2",
+      "relevance": "Prescribes standard testing techniques used for physical transverse and longitudinal bending evaluations."
+    },
+    {
+      "is_number": "IS 1608 : 2005",
+      "title": "Metallic materials — Tensile testing at ambient temperature (third revision)",
+      "category": "Tensile testing",
+      "location": "Clause 8.1",
+      "relevance": "Enforces room-temperature tensile test setups to measure the strip's tensile strength (MPa) and elongation percentage."
+    },
+    {
+      "is_number": "IS 3052 : 1986",
+      "title": "Dimensions and tolerances for wrought copper and copper alloys sheet, strip and foil (for general engineering purposes) (second revision)",
+      "category": "Dimensional standard",
+      "location": "Clause 11.1",
+      "relevance": "Governs standard dimensions, nominal widths, thicknesses, and manufacturing tolerances of the strip."
+    },
+    {
+      "is_number": "IS 3288 (Part 1 & Part 3) : 1986",
+      "title": "Glossary of terms relating to copper and copper alloys",
+      "category": "Terminology standard",
+      "location": "Clause 3",
+      "relevance": "Establishes definitions of metallurgical product forms, distinguishing strip from sheet, plate, and foil."
+    },
+    {
+      "is_number": "IS 3635 : 1966",
+      "title": "Methods of test for electrical resistance of metallic electrical resistance material",
+      "category": "Electrical testing",
+      "location": "Clause 9.1",
+      "relevance": "Outlines standard testing circuits used to measure dry electrical resistance and calculate resistivity at 20°C."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 12444 : 2020",
+      "title": "Copper Wire Rods for Electrical Applications — Specification",
+      "category": "Allied electrical copper standard",
+      "location": "Parallel metallurgical standard",
+      "relevance": "Fellow conductive copper specification co-regulated under India's mandatory Quality Control Order (QCO), present in the notebook."
+    },
+    {
+      "is_number": "IS 613 : 2000",
+      "title": "Copper Rods and Bars for Electrical Purposes — Specification",
+      "category": "Allied electrical copper standard",
+      "location": "Parallel metallurgical standard",
+      "relevance": "Fellow conductive copper specification co-regulated under the same QCO framework."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Metallurgy / Electrical Conductors)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper strips for electrical purposes must conform to IS 1897:2008 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified copper strips in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper strip conductors.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every coil or packaged bundle of copper strip must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard reference to verify compliance.",
+        "clause_reference": "Clause 15.2"
+      },
+      {
+        "requirement_type": "Permitted Materials and Chemical Purity",
+        "detail": "The strips must be manufactured from electrolytically or fire-refined copper, conforming to the chemical composition limits of grade Cu-ETP (Electrolytic Tough Pitch) or Cu-FRHC (Fire Refined High Conductivity) as specified in IS 191. Purity is typically verified at a minimum of 99.90 percent copper content.",
+        "clause_reference": "Clause 6"
+      },
+      {
+        "requirement_type": "Product Physical Dimensions",
+        "detail": "Applies to flat copper products over 0.15 mm up to and including 6.0 mm in thickness. Standard dimensions and tolerances must satisfy the limits laid down in IS 3052.",
+        "clause_reference": "Clauses 3.1 & 11.1"
+      },
+      {
+        "requirement_type": "Condition of Supply",
+        "detail": "Strips are supplied as requested by the purchaser in one of three designated tempers: a) O — Annealed (Soft); b) HB — Half-hard; c) HD — Hard.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Freedom from Defects",
+        "detail": "The strip surface must be clean, bright, smooth, and completely free from harmful defects such as scratches, scale, pitting, or inclusions. Non-coiled strips must be flat and free from twists.",
+        "clause_reference": "Clause 7"
+      },
+      {
+        "requirement_type": "Mechanical Properties (Table 1)",
+        "detail": "The strip must satisfy mechanical limits based on thickness and temper:\n- Annealed (O) [0.15 to 1.8mm]: Tensile Strength = 205-250 MPa, Elongation (Min) = 30%, Hardness (Max) = 60 HV;\n- Annealed (O) [1.8 to 6.0mm]: Tensile Strength = 205-250 MPa, Elongation (Min) = 35%, Hardness (Max) = 60 HV;\n- Half-hard (HB) [0.15 to 1.8mm]: Tensile Strength = 245 MPa Min, Elongation (Min) = 10%, Hardness = 75-90 HV;\n- Half-hard (HB) [1.8 to 6.0mm]: Tensile Strength = 245 MPa Min, Elongation (Min) = 15%, Hardness = 75-90 HV;\n- Hard (HD) [0.15 to 6.0mm]: Tensile Strength = 290 MPa Min, Hardness = 90 HV Min.",
+        "clause_reference": "Clause 8.1 & Table 1"
+      },
+      {
+        "requirement_type": "Transverse & Longitudinal Bending (Table 2)",
+        "detail": "Both transverse and longitudinal specimens must withstand close bending around a specified former without showing cracks or fractures on the outer convex surface:\n- Annealed (O) and Half-hard (HB): 180-degree angle, close-contact (flat) radius;\n- Hard (HD): 90-degree angle, close-contact radius.",
+        "clause_reference": "Clause 8.2 & Table 2"
+      },
+      {
+        "requirement_type": "Optional Edgewise Bending",
+        "detail": "For strips over 12 mm wide in the annealed state, the material must withstand being bent flat on its edge through 180 degrees around a former of radius equal to half the width of the strip without showing cracks. This test is inapplicable to strips 1 mm thick or below.",
+        "clause_reference": "Clause 8.3"
+      },
+      {
+        "requirement_type": "Electrical Resistivity and Conductivity (Table 3)",
+        "detail": "Rods must ensure high electrical transport efficiency at 20°C:\n- Annealed (O): Max resistivity = 0.01737 ohm mm²/m (Min conductivity = 99.25% IACS);\n- Half-hard (HB) and Hard (HD): Max resistivity = 0.01777 ohm mm²/m (Min conductivity = 97.00% IACS).\nResistivity is measured per IS 3635, and eddy current probe testing is permitted by agreement.",
+        "clause_reference": "Clause 9.1 & Table 3"
+      },
+      {
+        "requirement_type": "Optional Controlled Proof Stress (Table 4)",
+        "detail": "If requested, the strip must meet proof stress controls to qualify as hard/half-hard, categorized into designations:\n- CPR1: Thickness 0.80 to 6.0 mm, 0.1% Proof Stress = 140-200 MPa;\n- CPR2: Thickness 0.80 to 1.20 mm, 0.1% Proof Stress = 170-230 MPa;\n- CPR2: Thickness 1.20 to 6.0 mm, 0.1% Proof Stress = 170-220 MPa;\n- CPR3: Thickness 0.80 to 6.0 mm, 0.1% Proof Stress = 220-260 MPa.",
+        "clause_reference": "Clause 10 & Table 4"
+      },
+      {
+        "requirement_type": "Drawn or Rolled Corner Radii (Table 5)",
+        "detail": "Strips must feature either square or radiused corners. If radiused, the nominal corner radius must comply with standard ranges based on strip thickness:\n- Thickness up to 1.0 mm: Semicircular radius (Tolerance: ±0.06 mm);\n- Thickness 1.0 to 1.6 mm: 0.6 mm radius (Tolerance: +0.15 mm, -0.10 mm);\n- Thickness 1.6 to 2.25 mm: 0.8 mm radius (Tolerance: ±0.15 mm);\n- Thickness 2.25 to 3.55 mm: 1.0 mm radius (Tolerance: ±0.20 mm);\n- Thickness 3.55 mm and over: 1.25 mm radius (Tolerance: ±0.25 mm).",
+        "clause_reference": "Clause 11.2 & Table 5"
+      },
+      {
+        "requirement_type": "Straightness and Edgewise Curvature",
+        "detail": "Tolerances on straightness and edgewise curvature must be highly restricted: the strip must not deviate from a straight line by more than 3 mm over any 1,000 mm length.",
+        "clause_reference": "Clause 11.3"
+      },
+      {
+        "requirement_type": "Lot Sampling and Conformity Scale",
+        "detail": "Consignments of identical widths, thicknesses, and tempers are grouped into inspection lots of up to 2,000 kg. Visual and dimensional audits are conducted individually. Chemical analysis requires 1 sample per 2,000 kg lot, mechanical testing requires 1 sample per 500 kg lot, and resistivity is tested at 1 sample per bundle.",
+        "clause_reference": "Clause 12"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1897 : 2008",
+    "Copper Strip",
+    "Electrical Purposes",
+    "ETP Grade",
+    "FRHC Grade",
+    "Annealed O",
+    "Half-hard HB",
+    "Hard HD",
+    "Electrical Resistivity",
+    "Bending Test",
+    "Edgewise Bending",
+    "Controlled Proof Stress",
+    "Edge Radius",
+    "Straightness",
+    "MTD 08",
+    "Copper QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1897 : 2008 is the mandatory national Indian Standard specification governing continuously cast, rolled, or drawn copper strips (over 0.15 mm up to 6.0 mm thick) used for electrical purposes—such as busbars, switchgears, panels, and windings inside transformers and rotating machinery. Under India's statutory Copper Products Quality Control Order (QCO), all copper strips supplied to the Indian market must conform to this standard and carry the mandatory BIS Standard Mark (ISI Mark). It regulates the chemical purity of the copper (conforming to ETP or FRHC grades with at least 99.90% purity) and classifies strips into annealed, half-hard, and hard tempers. The standard enforces strict limits on room-temperature mechanical properties (tensile strength and elongation), close-contact bending behavior (both transverse and longitudinal), straightness (maximum 3 mm deviation over a 1-meter length), nominal corner radii, and dry electrical resistivity (restricted to a maximum of 0.01737 to 0.01777 ohm mm²/m at 20°C to guarantee efficient power transmission)."
+  },
+  "source_information": {
+    "source_pdf_filename": "1897_2008_reff2021.pdf",
+    "document_version_edition": "Third Revision, November 2008"
+  }
+}

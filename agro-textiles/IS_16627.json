@@ -1,0 +1,210 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16627 : 2017",
+    "full_title": "Agro Textiles — High Density Polyethylene (HDPE) Laminated Woven Lay Flat Tube for Use in Mains and Submains of Drip Irrigation System — Specification",
+    "sector_category": "Technical Textiles / Technical Textiles for Agro-tech (approved by the Textile Division Council and finalized by the Technical Textiles for Agro-tech Sectional Committee of the Bureau of Indian Standards) [1, 2]",
+    "ics_code": "59.080.70; 65.060.35",
+    "sectional_committee": {
+      "name": "Technical Textiles for Agro-tech Sectional Committee",
+      "number": "TXD 35"
+    },
+    "citations": "[1, 2]"
+  },
+  "scope": {
+    "summary": "This standard prescribes constructional, performance and other requirements for high density polyethylene (HDPE) laminated woven lay flat tube for use in mains and submains of drip irrigation system. These lay flat tubes are not suitable for use in sprinkler system.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1",
+    "citations": "[1]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2017 (incorporating all preceding systemic and structural review alignments) [1]",
+    "year_first_published": "2017",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2017"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy).",
+    "citations": "[1]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1964 : 2001",
+      "title": "Textiles — Methods for determination of mass per unit length and mass per area of fabrics (second revision)",
+      "category": "Physical testing",
+      "location": "Annex A",
+      "relevance": "Enforced to determine and verify the mass per unit area (g/m²) of the laminated HDPE fabric.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 1969 (Part 1) : 2009",
+      "title": "Textiles —Tensile properties of fabrics — Determination of maximum force and elongation at maximum force : Part 1 Strip method (third revision)",
+      "category": "Tensile testing",
+      "location": "Annex A",
+      "relevance": "Governs the tensile testing protocols used to measure warpway and weftway breaking strength and elongation.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 2454 : 1985",
+      "title": "Methods for determination of colour fastness of textile materials to artificial light (Xenon lamp) (first revision)",
+      "category": "Colourfastness testing",
+      "location": "Annex A",
+      "relevance": "Prescribes standard xenon lamp lightfastness exposure tests to evaluate ultraviolet resistance.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 2530 : 1963",
+      "title": "Methods of test for polyethylene moulding materials and polyethylene compounds",
+      "category": "Chemical/Material testing",
+      "location": "Annex A",
+      "relevance": "Governs the testing of baseline polymer compound properties such as carbon black content and dispersion.",
+      "citations": "[3]"
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 17728 : 2021",
+      "title": "Agro Textiles — HDPE Laminated Woven Lay Flat Tube and Its Fittings for Use in Rain Irrigation System — Specification",
+      "category": "Allied piping standard",
+      "location": "Parallel TXD 35 irrigation standard",
+      "relevance": "Specifies perforated lay flat tubes (rain pipes) that connect directly as branch lines to the main and sub-main tubes governed by IS 16627.",
+      "citations": "[4]"
+    },
+    {
+      "is_number": "IS 16513 : 2016",
+      "title": "Agro Textiles — Insect Nets for Agriculture and Horticulture Purposes — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A sister technical textile standard regulating crop protection mesh panels under the TXD 35 committee, present in the notebook."
+    },
+    {
+      "is_number": "IS 16718 : 2021",
+      "title": "Textiles — Polypropylene Spun Bonded Non-Woven Crop Covers and Fruit Skirting Bags — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A sister agrotech standard regulating spun-bonded crop covers and fruit protective wraps, present in the notebook."
+    },
+    {
+      "is_number": "IS 16202 : 2014",
+      "title": "Agro Textiles — Woven Ground Covers for Horticulture Application — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A sister standard regulating ground covers and weed mats, present in the notebook."
+    },
+    {
+      "is_number": "IS 17070 : 2019",
+      "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A parallel biodegradable agrotech standard regulating soil stabilization and natural mulching rolls, present in the notebook."
+    },
+    {
+      "is_number": "IS 17356 : 2020",
+      "title": "Agro Textiles — Windshield Nets for Agriculture and Horticulture Purposes — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel agrotech group",
+      "relevance": "A related technical textile standard for crop-protecting wind barriers, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Agrotech Textiles / Micro-Irrigation Systems)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (Agrotech QCO) issued by the Ministry of Textiles, Government of India, all HDPE laminated woven lay flat tubes supplied for mains and submains of drip irrigation systems must conform to IS 16627 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or distributing non-certified lay flat tubes for drip mains/submains is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to synthetic agricultural irrigation piping.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every roll of certified drip main or submain lay flat tube may be marked with the Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards.",
+        "clause_reference": "Clause 9.2",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Laminated Web Overlap Sizing",
+        "detail": "The multi-layer laminated HDPE woven fabric is folded and sealed into the lay flat tube using a heat sealing process. To ensure structural seam integrity, the minimum heat-sealed overlap must be strictly maintained at 30 mm.",
+        "clause_reference": "Clause 5.3 & Table 1",
+        "citations": "[6, 7]"
+      },
+      {
+        "requirement_type": "Standard Sizing Bore Diameters",
+        "detail": "The standard specifies four nominal internal diameter bore sizes to match different flow networks:\na) 50 mm (Tolerance: +1.5 mm, -0 mm);\nb) 63 mm (Tolerance: +1.5 mm, -0 mm);\nc) 75 mm (Tolerance: +1.5 mm, -0 mm);\nd) 90 mm (Tolerance: +1.5 mm, -0 mm).",
+        "clause_reference": "Clause 6.1 & Table 1",
+        "citations": "[6, 7]"
+      },
+      {
+        "requirement_type": "Measurement of Bore Diameter",
+        "detail": "The internal diameter of the lay flat tube must be measured using a suitable conical plug gauge.",
+        "clause_reference": "Clause 6.1",
+        "citations": "[6]"
+      },
+      {
+        "requirement_type": "Burst Pressure Classifications",
+        "detail": "Lay flat tubes are classified into two pressure types and must satisfy minimum burst pressures:\na) Nominal Bore 50 mm: Type I = 6.0 kg/cm², Type II = 8.0 kg/cm²;\nb) Nominal Bore 63 mm: Type I = 6.0 kg/cm², Type II = 8.0 kg/cm²;\nc) Nominal Bore 75 mm: Type I = 5.5 kg/cm², Type II = 7.0 kg/cm²;\nd) Nominal Bore 90 mm: Type I = 5.0 kg/cm², Type II = 6.0 kg/cm².",
+        "clause_reference": "Clause 6.3 & Table 3",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Proof Pressure and Leak Inspection",
+        "detail": "The proof pressure must be reached within a tight time window of 15 to 30 seconds. The tube must hold this proof pressure for 5 minutes without showing any signs of leakage, sweating, or joint warping.",
+        "clause_reference": "Clause 6.3",
+        "citations": "[7]"
+      },
+      {
+        "requirement_type": "Index Puncture Resistance Test Method",
+        "detail": "Puncture resistance is evaluated as per Annex C. A specimen of laminated HDPE fabric (minimum 100 mm diameter) is clamped in a circular fixture. A solid steel rod (diameter 8 ± 0.01 mm with a flat end and a 45° × 0.8 mm chamfered edge) is plunged into the fabric to measure the peak puncture resistance in N.",
+        "clause_reference": "Annex C, Clauses C-3.3 and C-4",
+        "citations": "[8]"
+      },
+      {
+        "requirement_type": "Cold-Crack Resistance Test",
+        "detail": "Under Annex E, specimens bowed in the shape of a loop (loop section subjected to folding is 40 mm, secure clamp length is 10 mm on each end, width is 15 mm) are conditioned in a cooling chamber at –5°C. They are subjected to a sudden folding impact from a free-falling metal cylinder mass of 500 g (diameter 18 mm to 29 mm with slightly rounded lower edges). The specimen must not break or show damage.",
+        "clause_reference": "Annex E, Clauses E-1, E-2.1.1, and E-2.1.3",
+        "citations": "[9, 10]"
+      },
+      {
+        "requirement_type": "Pressure Impulse Cycles",
+        "detail": "Under Annex F, test pieces connected in a straight condition with standard fluid and ambient conditioning temperatures must withstand 10,000 pressure impulse cycles under standard test circuits to verify resistance against hydraulic surges.",
+        "clause_reference": "Annex F, Clause F-5",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Mandatory Labeling and Roll Markings",
+        "detail": "Each commercial lay flat tube roll must be legibly marked with: a) Name and address of the manufacturer; b) Nominal bore; c) Type of lay flat tube; d) Length in m; f) Batch No. or Lot No.; and f) Month and year of manufacture.",
+        "clause_reference": "Clause 9.1",
+        "citations": "[5]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16627 : 2017",
+    "HDPE Lay Flat Tube",
+    "Agro Textiles",
+    "Drip Irrigation System",
+    "Mains and Submains",
+    "Internal Diameter",
+    "Overlap Sizing",
+    "Burst Pressure",
+    "Proof Pressure",
+    "Index Puncture Resistance",
+    "Cold-Crack Resistance",
+    "Pressure Impulse Cycles",
+    "TXD 35",
+    "Agro Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16627 : 2017 is the mandatory national Indian Standard specification governing UV-stabilized high-density polyethylene (HDPE) laminated woven lay flat tubes used for mains and submains in agricultural and horticultural drip irrigation networks. Under India's statutory Agro Textiles Quality Control Order (QCO), all such drip lay flat tubes manufactured or distributed in the country must carry the BIS Standard Mark (ISI Mark). The standard classifies tubes by nominal internal diameter (50, 63, 75, and 90 mm, with a strict +1.5 mm, -0 mm tolerance) and regulates structural overlap heat-sealing (minimum 30 mm overlap). It enforces detailed mechanical and physical benchmarks—including minimum burst pressures (ranging from 5.0 to 8.0 kg/cm² depending on size and tube type), strict 5-minute proof pressure checks, a specialized circular-clamp index puncture test using an 8 mm steel rod, a low-temperature cold-crack test under a 500 g free-falling impact mass at –5°C, and 10,000-cycle pressure impulse testing to prevent blowout under field hydraulic surges.",
+    "citations": "[1, 2, 5-10]"
+  },
+  "source_information": {
+    "source_pdf_filename": "16627.pdf",
+    "document_version_edition": "First Edition, 2017"
+  }
+}

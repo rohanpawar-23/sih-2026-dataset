@@ -1,0 +1,183 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17349 : 2020",
+    "full_title": "Medical Textiles — Shoe Covers — Specification",
+    "sector_category": "Textiles / Technical Textiles for Medtech Applications (approved by the Textile Division Council and finalized by the Technical Textiles for Medtech Applications Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "11.140; 59.080.01",
+    "sectional_committee": {
+      "name": "Technical Textiles for Medtech Applications Sectional Committee",
+      "number": "TXD 36"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, design, and testing parameters for disposable and reusable shoe covers intended to be used for medical purposes during various procedures to protect patients and materials from the transfer of microorganisms, particulates, and other contaminants. It explicitly excludes the requirements of legging or boot legging used in operating theatres.",
+    "clause_number": "Clauses 1.1 and 1.2",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, February 2020 (incorporating Amendment No. 1, May 2025)",
+    "year_first_published": "2020",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2020"
+      }
+    ],
+    "supersedes": "N/A (Developed as a new dedicated national standard to regulate the personal protective and medical textile hygiene sector)",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 was established on 22 May 2025 and gazetted under the reference HQ-PUB015/1/2020-PUB-BIS (1247), with full enforcement on 21 November 2025."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "ISO 11737-1 : 2018",
+      "title": "Sterilization of health care products — Microbiological methods — Part 1: Determination of a population of microorganisms on products",
+      "category": "Microbiological testing",
+      "location": "Table 1, Sl No. i",
+      "relevance": "Prescribes the standard microbiological evaluation methods used to verify cleanliness and microbial bioburden levels."
+    },
+    {
+      "is_number": "IS 1969 (Part 1) : 2018",
+      "title": "Textiles — Tensile properties of fabrics: Part 1 Determination of maximum force and elongation at maximum force using the strip method (fourth revision)",
+      "category": "Tensile testing",
+      "location": "Table 1, Sl No. ii",
+      "relevance": "Governs standard tensile testing parameters and maximum force limits for woven shoe cover materials."
+    },
+    {
+      "is_number": "IS 15891 (Part 3) : 2011",
+      "title": "Textiles — Test methods for nonwovens: Part 3 Determination of tensile strength and elongation",
+      "category": "Tensile testing",
+      "location": "Table 1, Sl No. ii",
+      "relevance": "Governs the dry and wet tensile strength testing and elongation parameters for non-woven shoe cover materials."
+    },
+    {
+      "is_number": "IS 1966 (Part 1) : 2009",
+      "title": "Textiles — Bursting properties of fabrics determination of bursting strength and bursting distension: Part 1 Hydraulic method (second revision)",
+      "category": "Bursting strength testing",
+      "location": "Table 1, Sl No. iii",
+      "relevance": "Prescribes standard hydraulic laboratory tests to determine dry and wet bursting strength limits of the composite fabrics."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Sampling standard",
+      "location": "Clause 8.1.3",
+      "relevance": "Governs standard statistical randomization guidelines for selecting representative shoe covers from manufacturing lots."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of calculated or observed testing figures to verify standard compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 17354 : 2020",
+      "title": "Medical textiles — Dental Bib or Napkins — Specification",
+      "category": "Allied medical textile standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "A fellow national medical textile specification co-regulated under the mandatory Quality Control Order (QCO)."
+    },
+    {
+      "is_number": "IS 17630 : 2021",
+      "title": "Medical Textiles — Bed sheet and pillow cover — Specification",
+      "category": "Allied medical textile standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "A fellow hospital-use medical textile specification co-regulated under the same QCO framework."
+    },
+    {
+      "is_number": "IS 5405 : 2025",
+      "title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow personal hygiene absorbent standard co-managed under the medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17509 : 2021",
+      "title": "Disposable Baby Diaper — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow disposable hygiene standard co-regulated under the same medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17514 : 2025",
+      "title": "Reusable Sanitary Pad/Sanitary Napkin/Period Panties — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow reusable personal hygiene standard co-regulated under the same medtech framework, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Medical Textiles / Personal Protective Equipment)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Medical Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all shoe covers manufactured, imported, distributed, or sold in India must conform to IS 17349 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified medical shoe covers is a criminal offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition timelines, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to medical shoe covers.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial pack of shoe covers must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to verify conformity.",
+        "clause_reference": "Clause 7.2"
+      },
+      {
+        "requirement_type": "Design & Fastening",
+        "detail": "Shoe covers must be provided with an elastic strip or other suitable fastening mechanism at the opening to cover the foot and shoe properly. They must be slip-resistant and water-resistant.",
+        "clause_reference": "Clause 4.2 & 4.3"
+      },
+      {
+        "requirement_type": "Sterility Conditions",
+        "detail": "May be supplied in non-sterile or sterilized condition as per the buyer's requirement. If sterile, the packaging must maintain product integrity throughout its shelf life.",
+        "clause_reference": "Clause 4.3 & 6"
+      },
+      {
+        "requirement_type": "Hygienic Manufacturing",
+        "detail": "Manufacture and preparation must be conducted under proper hygienic conditions. The shoe covers must be clean and free from substances liable to cause tendering during storage.",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Cleanliness — Microbial",
+        "detail": "The total viable microbial bioburden must not exceed 300 CFU/100 cm² when tested in accordance with ISO 11737-1.",
+        "clause_reference": "Clause 5.2 & Table 1"
+      },
+      {
+        "requirement_type": "Tensile Strength (Dry and Wet)",
+        "detail": "The tensile strength must exceed 20 N when tested per IS 15891 (Part 3) for non-wovens or IS 1969 (Part 1) for wovens.",
+        "clause_reference": "Clause 5.2 & Table 1"
+      },
+      {
+        "requirement_type": "Bursting Strength (Dry and Wet)",
+        "detail": "The bursting strength must exceed 40 kPa when tested in accordance with hydraulic methods of IS 1966 (Part 1).",
+        "clause_reference": "Clause 5.2 & Table 1"
+      },
+      {
+        "requirement_type": "Lot Definition",
+        "detail": "A lot comprises all shoe covers of the same material and dimensions produced under similar conditions of manufacture and sterilization. Random samples must be selected per IS 4905.",
+        "clause_reference": "Clause 8.1 & 8.1.3"
+      },
+      {
+        "requirement_type": "Scale of Sampling & Auditing (Table 2)",
+        "detail": "Non-destructive (visual/dimensional) and destructive testing are performed on drawn samples:\n- Up to 280: Non-destructive = 13 (Acceptance No = 1), Destructive = 8 (Acceptance No = 0);\n- 281 to 500: Non-destructive = 20 (Acceptance No = 2), Destructive = 8 (Acceptance No = 0);\n- 501 to 1 200: Non-destructive = 32 (Acceptance No = 3), Destructive = 13 (Acceptance No = 0);\n- 1 201 to 3 200: Non-destructive = 50 (Acceptance No = 5), Destructive = 13 (Acceptance No = 0);\n- 3 201 and above: Non-destructive = 80 (Acceptance No = 7), Destructive = 20 (Acceptance No = 1).",
+        "clause_reference": "Clause 8.2 & Table 2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17349 : 2020",
+    "Shoe Covers",
+    "Medical Textiles",
+    "Microbial Cleanliness",
+    "Tensile Strength",
+    "Bursting Strength",
+    "ISO 11737-1",
+    "Water Resistant",
+    "Slip Resistant",
+    "TXD 36",
+    "Medical Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17349 : 2020 is the mandatory national Indian Standard specification governing disposable and reusable shoe covers designed for use in sterile, healthcare, pharmaceutical, and cleanroom environments to prevent the transfer of dirt, dust, and microorganisms from footwear. Under India's statutory Medical Textiles Quality Control Order (QCO), all medical-use shoe covers sold or imported domestically must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). It regulates design features—mandating secure elastic fasteners, water resistance, and slip resistance—and enforces rigorous performance benchmarks. These include a maximum microbial bioburden limit of 300 CFU/100 cm², a minimum dry/wet tensile strength of 20 N, and a minimum dry/wet bursting strength of 40 kPa. Amendment No. 1 (established in May 2025) updates standard administrative and testing alignment, ensuring maximum safety and infection control in sterile medical installations."
+  },
+  "source_information": {
+    "source_pdf_filename": "17349_amd1.pdf",
+    "document_version_edition": "First Edition, February 2020 (incorporating Amendment No. 1, May 2025)"
+  }
+}

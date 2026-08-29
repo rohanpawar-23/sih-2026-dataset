@@ -1,0 +1,188 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16390 : 2015 (Reaffirmed 2019)",
+    "full_title": "Agro Textiles — Nylon Knitted Seamless Gloves for Tobacco Harvesters — Specification",
+    "sector_category": "Technical Textiles / Technical Textiles for Agro-tech (approved by the Textile Division Council and finalized by the Technical Textiles for Agro-tech Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "13.340.40; 59.080.70",
+    "sectional_committee": {
+      "name": "Technical Textiles for Agro-tech Sectional Committee",
+      "number": "TXD 35"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the constructional details, dimensional parameters, mass, and performance-testing requirements (including skin safety, durability, and worker dexterity) for white knitted seamless gloves manufactured from high-quality nylon yarn. These gloves are designed specifically for workers engaged in cultivating and harvesting tobacco plants to protect them from skin contact irritation, mechanical cuts, and Green Tobacco Sickness (GTS) caused by transdermal nicotine absorption.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, October 2015 (Reaffirmed in 2019 and reviewed/reaffirmed in 2024)",
+    "year_first_published": "2015",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2015"
+      }
+    ],
+    "supersedes": "N/A (Developed as a new dedicated national standard to regulate worker protective apparel and personal safety accessories under the agrotech division)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No amendments have been issued on this copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1390 : 1983",
+      "title": "Methods for determination of pH of aqueous extract of textile materials",
+      "category": "Chemical testing / Skin safety",
+      "location": "Annex A",
+      "relevance": "Prescribes the laboratory test method to determine the pH of the cold aqueous extract of the glove to ensure skin safety."
+    },
+    {
+      "is_number": "IS 1969 (Part 1)",
+      "title": "Textiles — Tensile properties of fabrics: Part 1 Determination of maximum force and elongation at maximum force using the strip method",
+      "category": "Tensile testing",
+      "location": "Performance testing",
+      "relevance": "Governs tensile and breaking strength tests of the glove fabric and yarn."
+    },
+    {
+      "is_number": "IS 1954",
+      "title": "Determination of length and width of woven fabrics — Methods",
+      "category": "Dimensional standard",
+      "location": "Annex D / Clause 5.2.2",
+      "relevance": "Provides measurement protocols to evaluate glove length, width, and finger size parameters."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes the mathematical rounding of observed or calculated testing values to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16513 : 2016",
+      "title": "Agro Textiles — Insect Nets for Agriculture and Horticulture Purposes — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel TXD 35 standard",
+      "relevance": "A sister standard regulating synthetic insect barrier nets, co-managed under the Agrotech Sectional Committee, present in the notebook."
+    },
+    {
+      "is_number": "IS 16718 : 2021",
+      "title": "Textiles — Polypropylene Spun Bonded Non-Woven Crop Covers and Fruit Skirting Bags for Agricultural and Horticultural Applications — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel TXD 35 standard",
+      "relevance": "A sister agrotech standard regulating spun-bonded crop covers and fruit protection bags, present in the notebook."
+    },
+    {
+      "is_number": "IS 16202 : 2014",
+      "title": "Agro Textiles — Woven Ground Covers for Horticulture Application — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel TXD 35 standard",
+      "relevance": "A related agrotech standard covering ground covers for horticulture, focusing on soil moisture retention and weed suppression, present in the notebook."
+    },
+    {
+      "is_number": "IS 17070 : 2019",
+      "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel TXD 35 standard",
+      "relevance": "A related technical textile standard for natural-fiber crop and weed control sheets, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Agrotech Textiles / Worker Personal Protective Equipment)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all Nylon Knitted Seamless Gloves for Tobacco Harvesters manufactured, imported, distributed, or sold in India must conform to IS 16390:2015 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified protective gloves in the domestic market is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition timelines, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to protective textile gloves.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every pack or bundle of certified nylon harvester gloves must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 16390) printed on a secure label or packaging."
+      },
+      {
+        "requirement_type": "High-Quality Nylon Composition",
+        "detail": "The gloves must be knitted from high-strength, non-toxic, and skin-friendly nylon yarn conforming to Table 1, ensuring maximum elasticity and resistance to mechanical abrasions.",
+        "clause_reference": "Clause 4.1 & Table 1"
+      },
+      {
+        "requirement_type": "Yarn Quality and Nips per Meter",
+        "detail": "The nylon yarn used for knitting must be evaluated to ensure uniform structural behavior. The number of yarn nips per meter must be verified under twist-meter tension in accordance with the test procedures in Annex C.",
+        "clause_reference": "Annex C"
+      },
+      {
+        "requirement_type": "Knitted Seamless Construction",
+        "detail": "The gloves must be constructed completely seamless without internal seams or ridges. This design prevents friction blisters, chafing, and hand fatigue during extended shifts in tobacco fields.",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Glove Dimensions and Tightness",
+        "detail": "Standard length, width, and cuff parameters are checked correct to the nearest millimeter as per Annex D. The knitting density (measured as number of Wales and Courses per unit length) must be tightly controlled to prevent tobacco sap from penetrating the weave.",
+        "clause_reference": "Clause 5.1 & Table 3"
+      },
+      {
+        "requirement_type": "Individual Glove Mass and Tolerances",
+        "detail": "Finished gloves are weighed to ensure they meet specified nominal weights to guarantee appropriate fabric density. A strict tolerance of minus 5 percent is permissible on the mass of an individual glove pair calculated against standard nominal mass.",
+        "clause_reference": "Clause 5.1 & Clause 5.2 Note"
+      },
+      {
+        "requirement_type": "Dimensional Change due to Relaxation (Table 4)",
+        "detail": "To prevent shrinkage or bagging during exposure to rain or soil moisture, glove specimens are relaxed by soaking flat under a head of 25 mm of water containing a 0.5% wetting agent for 2 hours, then dried at room temperature per Clause D-6.2. The maximum dimensional change (shrinkage or stretch) due to relaxation is strictly limited to 2.5 percent.",
+        "clause_reference": "Clause 5.3 & Table 4 / Clause D-6.2"
+      },
+      {
+        "requirement_type": "Dermatological pH Balance of Aqueous Extract",
+        "detail": "To prevent chemical skin irritation, contact dermatitis, and rashes during prolonged, sweaty wear, the pH of the cold aqueous extract of the glove must lie strictly within the range of 5.0 to 7.5 when tested per IS 1390.",
+        "clause_reference": "Clause 5.3 & Table 4 / Annex A"
+      },
+      {
+        "requirement_type": "Processing Oil and Scouring Loss Limits",
+        "detail": "To eliminate chemical lubricants, spin finishes, or knitting oils that could trigger allergic skin reactions, the finished gloves must satisfy strict minimum scouring loss limits evaluated as per Annex D.",
+        "clause_reference": "Clause 5.3 & Table 4 / Annex D"
+      },
+      {
+        "requirement_type": "Physical Durability and Abrasion Resistance",
+        "detail": "The glove faces must withstand continuous frictional contact with rough tobacco leaves, demonstrating high abrasion resistance and maintaining specified yarn strength after wear cycles.",
+        "clause_reference": "Clause 5.3 & Table 4"
+      },
+      {
+        "requirement_type": "Breathable Water Vapour Permeability",
+        "detail": "To ensure maximum comfort under tropical agricultural climates and prevent excessive sweating, the glove fabric must achieve high moisture vapor transmission rates.",
+        "clause_reference": "Clause 5.3 & Table 4"
+      },
+      {
+        "requirement_type": "Mandatory Glove Finger Dexterity (Table 4 & Clause D-8)",
+        "detail": "To ensure workers maintain necessary tactile sensitivity, a trained operator wearing the gloves must successfully pick up a solid, centreless ground stainless steel test pin (40 mm long, 11 mm diameter) by its circumference between the glove's forefinger and thumb 3 consecutive times without fumbling, within a maximum limit of 30 seconds for all four gloves tested.",
+        "clause_reference": "Clause 5.3 & Table 4 / Clause D-8"
+      },
+      {
+        "requirement_type": "Sealed Sample Reference Evaluation",
+        "detail": "Characteristics that cannot be evaluated mathematically (including general appearance, lustre, tactile feel, and surface finish) must conform to a physical sealed sample agreed upon between the buyer and the seller.",
+        "clause_reference": "Clause 5.4"
+      },
+      {
+        "requirement_type": "Statistical Consignment Sampling Plan (Table 5)",
+        "detail": "Random samples are drawn as per Table 5 for visual/dimensional (non-destructive) and mechanical/chemical (destructive) testing to determine lot compliance. Non-conforming defectives must not exceed the specified Acceptance numbers for each lot size variety.",
+        "clause_reference": "Clause 8 & Table 5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16390 : 2015",
+    "Nylon Gloves",
+    "Seamless Gloves",
+    "Tobacco Harvester Gloves",
+    "Agro Textiles",
+    "Yarn Nips",
+    "Relaxation 2.5%",
+    "pH 5.0 to 7.5",
+    "Scouring Loss",
+    "Glove Dexterity Test Pin",
+    "Green Tobacco Sickness",
+    "TXD 35",
+    "Agro Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16390 : 2015 is the mandatory national Indian Standard specification regulating white, seamless, nylon knitted protective gloves worn by agricultural workers harvesting tobacco. Under the statutory national Agro Textiles Quality Control Order (QCO), all such harvester gloves supplied to the Indian market must bear the BIS Standard Mark (ISI Mark). Tobacco harvesting involves direct exposure to wet leaves covered in nicotine and crop chemicals, which can cause Green Tobacco Sickness (GTS) and skin irritation through dermal absorption. This standard protects workers by enforcing strict physical, chemical, and mechanical requirements—including high-quality non-toxic nylon yarn, seamless construction to prevent blisters, a maximum dimensional relaxation change of 2.5% to prevent loose fit, a skin-neutral pH range of 5.0 to 7.5, and low scouring loss to remove processing oil residues. It also mandates a precise tactile dexterity test (using an 11 mm steel test pin) to ensure workers maintain high finger sensitivity while handling crops."
+  },
+  "source_information": {
+    "source_pdf_filename": "16390_2015_reff2019.pdf",
+    "document_version_edition": "First Edition, October 2015 (Reaffirmed 2019)"
+  }
+}

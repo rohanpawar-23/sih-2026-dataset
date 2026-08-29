@@ -1,0 +1,170 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17070 : 2019",
+    "full_title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
+    "sector_category": "Technical Textiles / Technical Textiles for Agro-tech (approved by the Textile Division Council and finalized by the Technical Textiles for Agro-tech Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "Not specified in the provided source text",
+    "sectional_committee": {
+      "name": "Technical Textiles for Agro-tech Sectional Committee",
+      "number": "TXD 35"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements of nonwoven jute agrotextiles (JAT) used for the growth of plants and the suppression of weeds. The selection of the specific jute agrotextile is decided principally based on the topography of the site, gradient of the slope, annual rainfall, nature of the soil, and the type of weeds and plants.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2019",
+    "year_first_published": "2019",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2019"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": "None listed in the provided copy"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Reference standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
+    },
+    {
+      "is_number": "IS 14706",
+      "title": "Not fully specified in the excerpt",
+      "category": "Sampling standard",
+      "location": "Clause 6",
+      "relevance": "Mandates the statistical sampling plan and guidelines to draw representative test specimens from delivery lots."
+    },
+    {
+      "is_number": "IS 4744",
+      "title": "Not fully specified in the excerpt",
+      "category": "Packing standard",
+      "location": "Clause 7",
+      "relevance": "Governs the standard protective packaging configurations of jute rolls prior to dispatch."
+    },
+    {
+      "is_number": "IS 16635 : 2017",
+      "title": "Geosynthetics — Wide-width tensile test",
+      "category": "Reference standard",
+      "location": "Annex A",
+      "relevance": "Prescribes standard wide-width tensile testing parameters for agrotextiles."
+    },
+    {
+      "is_number": "IS 15891 (Part 15) : 2017",
+      "title": "Determination of air permeability",
+      "category": "Reference standard",
+      "location": "Annex A",
+      "relevance": "Governs testing routines to determine air permeability and breathability of the nonwoven web."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16513 : 2016",
+      "title": "Agro Textiles — Insect Nets for Agriculture and Horticulture Purposes — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel TXD 35 standard",
+      "relevance": "A sister standard regulating synthetic insect barrier nets, co-managed under the Agrotech Sectional Committee, present in the notebook."
+    },
+    {
+      "is_number": "IS 16718 : 2021",
+      "title": "Textiles — Polypropylene Spun Bonded Non-Woven Crop Covers and Fruit Skirting Bags for Agricultural and Horticultural Applications — Specification",
+      "category": "Allied agrotech standard",
+      "location": "Parallel TXD 35 standard",
+      "relevance": "Parallel standard specifying synthetic polypropylene nonwoven crop protections, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Agrotech Textiles / Biodegradable Coir & Jute Fabrics)",
+    "certification_status": "Voluntary Certification Scheme (ISI Mark Scheme). Conforming products may be certified as per the conformity assessment schemes of the Bureau of Indian Standards in accordance with the BIS Act, 2016, and carry the Standard Mark. Precious metal hallmarking is completely inapplicable to agricultural jute fabrics.",
+    "requirements": [
+      {
+        "requirement_type": "Mandatory Material Properties",
+        "detail": "The nonwoven jute agrotextiles must meet all specified physical, chemical, and mechanical requirements given in Table 1.",
+        "clause_reference": "Clause 5",
+        "page_reference": "Page 1"
+      },
+      {
+        "requirement_type": "Lot Sampling Requirements",
+        "detail": "Lot sampling for conformance inspection must be drawn strictly in accordance with IS 14706.",
+        "clause_reference": "Clause 6",
+        "page_reference": "Page 1"
+      },
+      {
+        "requirement_type": "Packing Controls",
+        "detail": "Packing of JAT rolls must conform to IS 4744. The standard explicitly warns that prolonged storage of packed material or its exposure to the open must be avoided to prevent premature environmental degradation.",
+        "clause_reference": "Clause 7",
+        "page_reference": "Page 1"
+      },
+      {
+        "requirement_type": "Standard Roll Marking Requirements",
+        "detail": "Unless otherwise agreed, each roll must be stenciled with an indelible ink of a suitable colour with: a) Product identification; b) Length and width in metres; c) Type of material (Type 1, Type 2, or Type 3); d) Roll Number/Lot number; and e) Other declarations required by the law in force.",
+        "clause_reference": "Clause 8.1",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Index Puncture Resistance Test Method",
+        "detail": "Puncture resistance is evaluated using a tensile testing machine (Annex B). A test specimen is clamped without tension between circular plates of a ring clamp attachment. A solid steel rod attached to the load indicator exerts force against the centre of the unsupported portion until physical rupture occurs. Puncture resistance is recorded as the maximum force achieved.",
+        "clause_reference": "Annex B, Clause B-2",
+        "page_reference": "Page 4"
+      },
+      {
+        "requirement_type": "Index Puncture Resistance Calculation",
+        "detail": "The average puncture resistance must be calculated from 5 tested specimens, alongside the standard deviation read directly from the recording instrument.",
+        "clause_reference": "Annex B, Clause B-7",
+        "page_reference": "Page 6"
+      },
+      {
+        "requirement_type": "Installation Ground Dressing Rules",
+        "detail": "Prior to JAT installation for planting, the ground surface must be dressed, cleared of all foreign materials, and prepared to the required level.",
+        "clause_reference": "Annex C, Clause C-1.1",
+        "page_reference": "Page 6"
+      },
+      {
+        "requirement_type": "Installation Fabric Laying & Overlap Rules",
+        "detail": "Two fabric pieces with proper '+' cut marks must be laid side by side keeping zero gaps between them. The plant is planted directly on the '+' cut mark. The four corners of the cut portion must be tucked/inserted inside the cloth to keep the surroundings of the plant's girth free.",
+        "clause_reference": "Annex C, Clause C-1.2",
+        "page_reference": "Pages 6 & 7"
+      },
+      {
+        "requirement_type": "Installation Planting Guidelines",
+        "detail": "The desired plants (such as vegetables, fruits, or similar) must be planted onto the exposed ground, maintaining a safe distance between individual plants.",
+        "clause_reference": "Annex C, Clause C-1.3",
+        "page_reference": "Page 7"
+      },
+      {
+        "requirement_type": "Installation Watering Guidelines",
+        "detail": "Watering may be conducted occasionally, specifically in cases of an extremely dry climate.",
+        "clause_reference": "Annex C, Clause C-1.4",
+        "page_reference": "Page 7"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17070 : 2019",
+    "Jute Agrotextiles",
+    "Nonwoven JAT",
+    "Plant Growth Sheet",
+    "Weed Suppression",
+    "Type 1 Type 2 Type 3",
+    "Index Puncture Resistance",
+    "Tensile Puncture",
+    "Ground Dressing",
+    "TXD 35",
+    "Agro Textiles",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17070 : 2019 is the national Indian Standard specification establishing physical, mechanical, and installation requirements for nonwoven jute agrotextiles (JAT) used to foster plant growth and naturally suppress weeds in agricultural, horticultural, and forestry projects. Developed under the Technical Textiles for Agro-tech Sectional Committee (TXD 35), it provides guidelines for selecting JAT based on regional topography, soil chemistry, slope, and rainfall. It classifies jute fabrics into Type 1, Type 2, and Type 3 varieties, mandating strict compliance with mass, width, and strength. It outlines standard packaging (to prevent premature rotting during storage), marking requirements, and a specialized hydraulic index puncture test to ensure the natural fibers withstand mechanical loads. Furthermore, the standard includes a step-by-step installation methodology—mandating ground clearing, precise seamless sheet laying with '+' cut openings, and tucking corners to let sapling girths grow unrestricted without pesticide use."
+  },
+  "source_information": {
+    "source_pdf_filename": "17070.pdf",
+    "document_version_edition": "First Edition, 2019"
+  }
+}

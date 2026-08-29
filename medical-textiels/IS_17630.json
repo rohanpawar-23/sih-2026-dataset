@@ -1,0 +1,233 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17630 : 2021",
+    "full_title": "Medical Textiles — Bedsheet and Pillow Cover — Specification",
+    "sector_category": "Textiles / Technical Textiles for Medtech Applications (approved by the Textile Division Council and finalized by the Technical Textiles for Medtech Applications Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "11.140; 59.080.01",
+    "sectional_committee": {
+      "name": "Technical Textiles for Medtech Applications Sectional Committee",
+      "number": "TXD 36"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, construction, material, dimensions, tolerances, performance testing, and packaging schedules for disposable (single-use) and reusable (multiple-use) bedsheets and pillow covers intended for medical and clinical purposes in hospitals, clinics, and other healthcare environments to aid in infection control, hygiene, and patient comfort.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2021 (incorporating Amendment No. 1 and Amendment No. 2, June 2024; Reaffirmed in 2025)",
+    "year_first_published": "2021",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2021"
+      }
+    ],
+    "supersedes": "N/A (Newly developed standard specifically formulated to regulate and standardize clinical beddings and barrier hospital fabrics under medtech regulations)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "Unspecified",
+        "description": "Updates general technical references and testing parameters."
+      },
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "June 2024",
+        "description": "Modifies Page 2, Table 2, Sl No. (viii) to substitute 'Biocompatibility evaluation (see Note 1) (optional)' for 'Biocompatibility Evaluation (see Note 1)', and col (3) to substitute 'non-cytotoxic' for 'none'; inserts Page 3, clause 9.1 items 'n) The information whether the material of the product is biocompatible that is, meets the requirement of the standard for biocompatibility evaluation – cytotoxicity, irritation and skin sensitization (if applicable)' and 'p) The word \"MEDICAL USE\"' to the marking clause."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "ISO 11737-1 : 2018",
+      "title": "Sterilization of health care products — Microbiological methods — Part 1: Determination of a population of microorganisms on products",
+      "category": "Microbiological testing",
+      "location": "Table 2",
+      "relevance": "Prescribes standard microbiological testing and extraction methods to determine total viable microbial count (bacterial and fungal bioburden) on the bedsheets and pillow covers."
+    },
+    {
+      "is_number": "IS 15891 (Part 3)",
+      "title": "Textiles — Test methods for nonwovens: Part 3 Determination of tensile strength and elongation",
+      "category": "Tensile testing",
+      "location": "Table 2 / Testing clauses",
+      "relevance": "Governs tensile strength and elongation parameters under dry and wet states for non-woven fabrics."
+    },
+    {
+      "is_number": "IS 1969 (Part 1)",
+      "title": "Textiles — Tensile properties of fabrics: Part 1 Determination of maximum force and elongation at maximum force using the strip method (fourth revision)",
+      "category": "Tensile testing",
+      "location": "Table 2 / Testing clauses",
+      "relevance": "Governs the dry and wet tensile properties testing for woven fabric variants."
+    },
+    {
+      "is_number": "IS 1966 (Part 1)",
+      "title": "Textiles — Bursting properties of fabrics determination of bursting strength and bursting distension: Part 1 Hydraulic method (second revision)",
+      "category": "Bursting strength testing",
+      "location": "Table 2 / Testing clauses",
+      "relevance": "Specifies standard hydraulic testing methods to verify dry and wet bursting strength limits."
+    },
+    {
+      "is_number": "IS 1390",
+      "title": "Textiles — Determination of pH of aqueous extract (cold method)",
+      "category": "Biological safety testing",
+      "location": "Table 2 / Testing clauses",
+      "relevance": "Used to determine the pH of the cold aqueous extract of the material to ensure skin-compatibility."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Sampling standard",
+      "location": "Clause 8.1.3",
+      "relevance": "Governs random selection and statistical sampling plans used to audit consignment lots."
+    },
+    {
+      "is_number": "IS 2 : 1960 / 2022",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes mathematical procedures used to round off calculated or observed test parameters to check compliance boundaries."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 18739 : 2024",
+      "title": "Textiles — Bedsheets, Pillow Covers and Blanket Covers — Specification",
+      "category": "Allied textile standard",
+      "location": "Parallel textile standard",
+      "relevance": "National standard regulating general-purpose bedsheets and pillow covers (such as those used by Indian Railways) focused on general comfort and durability rather than medtech barrier and infection controls."
+    },
+    {
+      "is_number": "IS 5405 : 2025",
+      "title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow personal hygiene absorbent standard co-managed under the medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17509 : 2021",
+      "title": "Disposable Baby Diaper — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow disposable hygiene standard co-regulated under the same medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17514 : 2025",
+      "title": "Reusable Sanitary Pad/Sanitary Napkin/Period Panties — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow reusable personal hygiene standard co-regulated under the same medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17349 : 2020",
+      "title": "Medical Textiles — Shoe Covers — Specification",
+      "category": "Allied protective standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Related personal protective medical textile standard co-regulated under the same Quality Control Order, present in the notebook."
+    },
+    {
+      "is_number": "IS 17354 : 2020",
+      "title": "Medical Textiles — Dental Bib / Napkins — Specification",
+      "category": "Allied protective standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Related clinical patient-barrier medical textile standard co-regulated under the same QCO framework, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Medical Textiles / Healthcare Linen)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Medical Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all medical bedsheets and pillow covers (disposable or reusable) manufactured, imported, distributed, or sold in India must conform to IS 17630:2021 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified hospital bedding is a criminal offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition timelines, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to healthcare bedsheets and pillow covers.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial pack of bedsheets and pillow covers conforming to this standard must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
+        "clause_reference": "Clause 9.2"
+      },
+      {
+        "requirement_type": "Permitted Materials (Clause 2.a)",
+        "detail": "Bedsheets and pillow covers must be manufactured from spunlace and/or spunbond non-woven fabric, or woven fabric; made of cotton, polyester, or their blends.",
+        "clause_reference": "Clause 2.a (Product Manual)"
+      },
+      {
+        "requirement_type": "Product Classifications and Lifespans",
+        "detail": "Products are classified as: a) Single Use (Disposable); b) Reusable. If reusable, the manufacturer must declare the maximum wash cycles / life cycle of the product.",
+        "clause_reference": "Clause 6 (Product Manual)"
+      },
+      {
+        "requirement_type": "Hygienic Manufacturing Requirements",
+        "detail": "The manufacture and preparation of the bedsheets and pillow covers must be conducted under proper hygienic conditions. The manufacturer must implement and record a systematic factory hygiene maintenance program.",
+        "clause_reference": "Clause 5.1 & Clause 4 (Product Manual)"
+      },
+      {
+        "requirement_type": "Workmanship and Finish",
+        "detail": "The finished products must be clean and free from lumping, holes, tears, or chemicals/substances that can cause tendering or degradation during storage.",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Physical & Mechanical Strength",
+        "detail": "To prevent tearing or splitting during patient handling, the fabric must satisfy strict minimum mechanical limits on: a) Tensile strength (dry and wet) tested per IS 15891 (Part 3) or IS 1969 (Part 1); b) Bursting strength (dry and wet) tested per IS 1966 (Part 1); c) Seam strength (dry and wet) to verify stitch robustness.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Colorfastness Controls",
+        "detail": "Fabric dyes must show high stability against clinical exposure, satisfying specified limits on: colorfastness to rubbing (dry and wet), colorfastness to perspiration (acidic and alkaline), colorfastness to light, and colorfastness to washing.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Dermatological & Skin Friendliness pH (Cold Extract)",
+        "detail": "The pH of the cold aqueous extract of the material must be strictly verified as skin-friendly when tested in accordance with IS 1390.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Microbiological Cleanliness Bioburden",
+        "detail": "To maintain hygiene in sterile environments, the total viable microbial count (bacterial and fungal bioburden) must satisfy strict limits when tested as per the dilution and plating out methods of ISO 11737-1.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Physical Barrier Cleanliness (Particle Release)",
+        "detail": "The fabric must show low linting and low particle release properties under standard dynamic testing to prevent aerosol contamination of sterile clinical spaces.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Amended Biocompatibility Evaluation (Table 2 - Sl No. viii)",
+        "detail": "Under Amendment No. 2, the biocompatibility evaluation is optional. If specified by the purchaser, the raw material must pass in-vitro cytotoxicity testing per IS/ISO 10993 (Part 5) with a result of 'non-cytotoxic', and pass irritation and skin sensitization tests.",
+        "clause_reference": "Table 2, Sl No. (viii) (Amended)",
+        "page_reference": "Page 1 of Amendment No. 2"
+      },
+      {
+        "requirement_type": "Water Soluble Substance Limit",
+        "detail": "The fabric must limit water-soluble chemicals to prevent leaching or chemical contact with patients.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Amended Product Package Markings (Clause 9.1)",
+        "detail": "Under Amendment No. 2, each pack must be legibly and indelibly marked with standard batch details, manufacturer info, sizes, and the newly mandated items:\na) 'n) The information whether the material of the product is biocompatible that is, meets the requirement of the standard for biocompatibility evaluation – cytotoxicity, irritation and skin sensitization (if applicable)';\nb) 'p) The word \"MEDICAL USE\"'.",
+        "clause_reference": "Clause 9.1 (Amended)",
+        "page_reference": "Pages 1 & 2 of Amendment No. 2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17630 : 2021",
+    "Medical Bedsheet",
+    "Pillow Cover",
+    "Medical Textiles",
+    "Spunlace Nonwoven",
+    "Spunbond Nonwoven",
+    "Infection Control",
+    "Microbial Cleanliness",
+    "Tensile Strength",
+    "Bursting Strength",
+    "Biocompatibility Evaluation",
+    "Cytotoxicity Non-Cytotoxic",
+    "TXD 36",
+    "Medical Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17630 : 2021 is the mandatory national Indian Standard safety specification regulating single-use (disposable) and reusable medical bedsheets and pillow covers used in hospitals, clinics, and other healthcare facilities. Formulated under India's statutory Medical Textiles Quality Control Order (QCO), all clinical bedsheets and pillow covers sold or imported in India must bear the BIS Standard Mark (ISI Mark) to ensure infection control, hygiene, and patient safety. It specifies material varieties (woven cotton/polyester blends, or spunlace/spunbond non-woven fabrics) and mandates strict limits on mechanical strength (tensile, bursting, and seam strength), skin-compatibility (pH and water-soluble substances), dye stability (colorfastness), and microbial cleanliness. Amendment No. 2 (June 2024) refines the standard by making biocompatibility testing optional but enforcing strict 'non-cytotoxic' verification if conducted, and mandating that the package be printed with the word 'MEDICAL USE' and biocompatibility details."
+  },
+  "source_information": {
+    "source_pdf_filename": "17630_amd2.pdf",
+    "document_version_edition": "First Edition, 2021 (incorporating Amendment No. 1 and Amendment No. 2, June 2024; Reaffirmed 2025)"
+  }
+}

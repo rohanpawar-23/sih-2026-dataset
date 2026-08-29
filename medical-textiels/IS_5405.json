@@ -1,0 +1,261 @@
+{
+  "basic_identification": {
+    "is_number": "IS 5405 : 2025",
+    "full_title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification (Third Revision)",
+    "sector_category": "Technical Textiles / Technical Textiles for Medtech Applications (approved by the Chemical Division Council and finalized by the Technical Textiles for Medtech Applications Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "59.080",
+    "sectional_committee": {
+      "name": "Technical Textiles for Medtech Applications Sectional Committee",
+      "number": "TXD 36"
+    },
+    "citations": "[1]"
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, sizes, construction, and testing parameters for disposable (non-reusable) sanitary napkins, panty liners, maternity pads, and period panties designed for external use.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard",
+    "citations": "[2]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, February 2025",
+    "year_first_published": "Not explicitly stated in the source text.",
+    "revision_history": [
+      {
+        "edition": "Third Revision",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "Earlier versions of IS 5405",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy.",
+    "citations": "[1]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 758 : 2023",
+      "title": "Medical textiles — Absorbent cotton gauze — Specification (fifth revision)",
+      "category": "Component standard",
+      "location": "Clause 3.1 & Annex A",
+      "relevance": "Specifies the quality parameters of absorbent cotton gauze when utilized in the cover/top sheet of the products.",
+      "citations": "[2, 3]"
+    },
+    {
+      "is_number": "IS 1390 : 2022",
+      "title": "Textiles — Determination of pH of aqueous extract",
+      "category": "Test method",
+      "location": "Clause 7.1 & Annex A",
+      "relevance": "Governs the laboratory procedures used to verify that the pH of the aqueous extract of the product falls within the range of 3.5 to 7.5.",
+      "citations": "[4]"
+    },
+    {
+      "is_number": "IS/ISO 10993 (Part 5)",
+      "title": "Biological evaluation of medical devices — Part 5: Tests for in vitro cytotoxicity",
+      "category": "Biocompatibility test standard",
+      "location": "Clause 7.4 & References",
+      "relevance": "Prescribes standard in-vitro cytotoxicity test methods to verify that the raw materials are non-cytotoxic.",
+      "citations": "[5]"
+    },
+    {
+      "is_number": "IS 17932 (Part 6)",
+      "title": "Biological evaluation of medical devices — Part 6: Tests for skin sensitization",
+      "category": "Biocompatibility test standard",
+      "location": "Clause 7.4 & References",
+      "relevance": "Regulates the testing procedures used to confirm the composite material is a non-sensitizer.",
+      "citations": "[5]"
+    },
+    {
+      "is_number": "IS 17932 (Part 7)",
+      "title": "Biological evaluation of medical devices — Part 7: Tests for irritation",
+      "category": "Biocompatibility test standard",
+      "location": "Clause 7.4 & References",
+      "relevance": "Enforces skin irritation tests to certify that the finished products are non-irritant when in contact with the skin.",
+      "citations": "[5]"
+    },
+    {
+      "is_number": "IS/ISO 10993 (Part 12)",
+      "title": "Biological evaluation of medical devices — Part 12: Sample preparation and reference materials",
+      "category": "Sample preparation standard",
+      "location": "Clause 7.4 & References",
+      "relevance": "Specifies sample extraction and conditioning layouts used for biocompatibility testing.",
+      "citations": "[5]"
+    },
+    {
+      "is_number": "IS 9873 (Part 6)",
+      "title": "Safety of toys — Part 6: Determination of certain phthalate esters",
+      "category": "Chemical testing standard",
+      "location": "Clause 7.5 & References",
+      "relevance": "Governs testing methods used to determine phthalate levels in raw materials and finished products.",
+      "citations": "[6]"
+    },
+    {
+      "is_number": "IS/ISO 17088",
+      "title": "Specifications for compostable plastics",
+      "category": "Environmental standard",
+      "location": "Clause 7.6 & References",
+      "relevance": "Specifies standards and boundaries required to declare finished products as compostable.",
+      "citations": "[6]"
+    },
+    {
+      "is_number": "IS/ISO 20743",
+      "title": "Textiles — Determination of antibacterial activity of textile products",
+      "category": "Biological testing standard",
+      "location": "Clause 7.7 & References",
+      "relevance": "Prescribes standard absorption-based test methods used to verify antibacterial activity values.",
+      "citations": "[6]"
+    },
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Sampling standard",
+      "location": "Clause 8.1.3 & References",
+      "relevance": "Specifies standard statistical randomization guidelines for drawing representative samples from manufacturing lots.",
+      "citations": "[4, 6]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 758 : 2023",
+      "title": "Medical textiles — Absorbent cotton gauze — Specification",
+      "category": "Allied medical textile standard",
+      "location": "Clause 3.1 & Annex A",
+      "relevance": "Regulates the manufacturing and quality of medical-grade absorbent cotton gauze used in sanitary dressings and napkin covers.",
+      "citations": "[2, 3]"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Disposable Hygiene / Medical Textiles)",
+    "certification_status": "Voluntary / Statutory. Conformance with IS 5405 ensures compliance with hygiene, biocompatibility, and absorption standards. Products conforming to this standard are certified under Scheme-I and may be marked with the Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards in accordance with the BIS Act, 2016. Hallmarking is completely inapplicable to technical and medical textile products.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every product complying with this standard may be certified under BIS Scheme-I and bear the Standard Mark (ISI Mark) under a valid licence along with the registered licence number (CM/L).",
+        "clause_reference": "Clause 9.2",
+        "page_reference": "Page 6",
+        "citations": "[7, 8]"
+      },
+      {
+        "requirement_type": "Three-Layer Architecture",
+        "detail": "Disposable sanitary napkins, panty liners, maternity pads, and period panties basically consist of three main layers: a) cover or top sheet; b) absorbent core; and c) barrier or bottom sheet.",
+        "clause_reference": "Clause 3",
+        "page_reference": "Page 1",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Cover/Top Sheet Porosity",
+        "detail": "The cover or top sheet coming into contact with the skin must be of good quality cotton, rayon knitted sleeve, gauze, non-woven fabric, or other porous materials. If cotton gauze is used, it must conform to IS 758.",
+        "clause_reference": "Clause 3.1",
+        "page_reference": "Page 1",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Absorbent Core Composition",
+        "detail": "The absorbent core forming the middle layer must consist of filler materials such as cellulose pulp, cellulose wadding, tissue, cotton, wood pulp, or super absorbent materials. It must be free from unintended lumps, oil spots, dirt, or foreign matter that can cause skin injury or discomfort.",
+        "clause_reference": "Clause 3.2",
+        "page_reference": "Page 1",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Barrier Sheet Leak-Proofness",
+        "detail": "The barrier or bottom sheet must be made of suitable leak-proof material to prevent fluid pass-through, satisfying the pressure-resistance requirements after absorption.",
+        "clause_reference": "Clause 3.3",
+        "page_reference": "Page 1",
+        "citations": "[2]"
+      },
+      {
+        "requirement_type": "Aqueous Extract pH Limits",
+        "detail": "The pH of the aqueous extract of the product must lie within the range of 3.5 to 7.5 when evaluated in accordance with IS 1390.",
+        "clause_reference": "Clause 7.1",
+        "page_reference": "Page 3",
+        "citations": "[4]"
+      },
+      {
+        "requirement_type": "Minimum Absorption and Pressure Resistance",
+        "detail": "The products must absorb colored distilled water (tested per Annex B at 27 ± 2 °C) and withstand a 1 kg standard weight applied for 1 minute on the wet portion without showing any bottom or side leakage. The minimum fluid absorption values are: a) Sanitary Napkin: 30 ml; b) Panty Liner: 1 ml; c) Maternity Pad: 50 ml; d) Period Panty: 30 ml.",
+        "clause_reference": "Clause 7.2 & Table 2",
+        "page_reference": "Page 3",
+        "citations": "[4]"
+      },
+      {
+        "requirement_type": "Hygiene Microbial Bioburden Limits",
+        "detail": "To prevent biological contamination and infection, the total viable microbial count (bacteria and fungi) must not exceed 1 000 cfu/gm. Pathogenic Staphylococcus aureus must be completely absent when evaluated per Clause 7.3.2.1.",
+        "clause_reference": "Clauses 7.3 & 7.3.2",
+        "page_reference": "Page 3",
+        "citations": "[4]"
+      },
+      {
+        "requirement_type": "Hygienic Manufacturing Guidelines",
+        "detail": "The products must be produced under good hygienic conditions in accordance with the Good Manufacturing Practice guidelines outlined in Annex C (including separate demarcated storage, 70% Isopropyl Alcohol hand sanitizers, proper lighting, ventilation, and pest control).",
+        "clause_reference": "Clause 7.3.3 & Annex C",
+        "page_reference": "Pages 4 & 8",
+        "citations": "[3, 4]"
+      },
+      {
+        "requirement_type": "Biocompatibility and Skin Sensitivity (Optional)",
+        "detail": "If specified by the buyer, raw materials must be tested and show reactivity as 'non-cytotoxic' under IS/ISO 10993-5, and be 'Non-irritant and Non-sensitizer' when tested per IS 17932 (Part 7) and IS 17932 (Part 6) respectively.",
+        "clause_reference": "Clause 7.4",
+        "page_reference": "Page 4",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Phthalate Content Restrictions",
+        "detail": "The amount of phthalate present in the product must be less than 0.1 percent (individually or in combination) when tested at raw material stage or in the final product as per IS 9873 (Part 6) at least once a year.",
+        "clause_reference": "Clause 7.5",
+        "page_reference": "Page 5",
+        "citations": "[6]"
+      },
+      {
+        "requirement_type": "Optional Compostability & Anti-bacterial Activity",
+        "detail": "If compostability is claimed, the product must pass IS/ISO 17088. If anti-bacterial activity is claimed, the raw or finished material must demonstrate an antibacterial activity value of 2 or more when evaluated as per the absorption method of IS/ISO 20743.",
+        "clause_reference": "Clauses 7.6 & 7.7",
+        "page_reference": "Page 5",
+        "citations": "[6]"
+      },
+      {
+        "requirement_type": "Scale of Sampling and Acceptance Levels (Table 3)",
+        "detail": "Consignment lots are grouped by identical materials, shapes, and sizes under similar conditions of manufacture. Random samples must be drawn per Table 3 for non-destructive and destructive testing:\n- Up to 280: Non-destructive = 13 (Acceptance No. = 1), Destructive = 5 (Acceptance No. = 0);\n- 501 to 1 200: Non-destructive = 20 (Acceptance No. = 1), Destructive = 5 (Acceptance No. = 0);\n- 10 001 to 35 000: Non-destructive = 50 (Acceptance No. = 3), Destructive = 8 (Acceptance No. = 0);\n- 500 001 and over: Non-destructive = 125 (Acceptance No. = 7), Destructive = 13 (Acceptance No. = 0).",
+        "clause_reference": "Clause 8.1 & Table 3",
+        "page_reference": "Page 5",
+        "citations": "[6, 7]"
+      },
+      {
+        "requirement_type": "Consumer Pack Markings",
+        "detail": "Each consumer pack must be legibly and indelibly marked with: manufacturer's name, size, type, quantity, directions of use, disposability instructions, batch/lot number, date of manufacture, and compostability/biocompatibility certifications (if applicable).",
+        "clause_reference": "Clause 9.1",
+        "page_reference": "Page 6",
+        "citations": "[7]"
+      },
+      {
+        "requirement_type": "Rigid or Flexible Packing Requirements",
+        "detail": "Finished products must be packed in rigid or flexible packages (such as carton board, PE, PP, or polyester) that protect against contaminants during shipment and storage. The packaging must be completely free of tears or damage.",
+        "clause_reference": "Clause 10",
+        "page_reference": "Page 6",
+        "citations": "[3]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 5405 : 2025",
+    "Disposable Sanitary Napkins",
+    "Panty Liners",
+    "Maternity Pads",
+    "Period Panties",
+    "Liquid Absorption",
+    "Pressure Resistance",
+    "Hygiene bioburden",
+    "Aqueous extract pH",
+    "Biocompatibility",
+    "Phthalate limit",
+    "TXD 36",
+    "Medical Textiles",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 5405 : 2025 is the national Indian Standard specification governing disposable (non-reusable) sanitary napkins, panty liners, maternity pads, and period panties designed for external use. It outlines the essential component requirements, including a porous skin-contact cover layer, an absorbent filler core (cellulose pulp, cotton, wood pulp), and a leak-proof back sheet. To ensure product safety and prevent skin irritation or infections, the standard mandates strict physical, chemical, and biological boundaries. These include an aqueous extract pH range of 3.5 to 7.5, minimum liquid absorption limits (e.g., 30 ml for sanitary napkins and 50 ml for maternity pads) tested under 1 kg of pressure, a total viable microbial bioburden limit of 1 000 cfu/gm, complete absence of Staphylococcus aureus, and a maximum phthalate limit of 0.1 percent. The standard also provides optional testing criteria for compostability, biocompatibility, and anti-bacterial claims, alongside precise standard packaging and marking guidelines.",
+    "citations": "[1-7]"
+  },
+  "source_information": {
+    "source_pdf_filename": "5405_2025.pdf",
+    "document_version_edition": "Third Revision, February 2025",
+    "citations": "[1]"
+  }
+}

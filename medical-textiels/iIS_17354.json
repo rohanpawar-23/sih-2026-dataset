@@ -1,0 +1,206 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17354 : 2020",
+    "full_title": "Medical Textiles — Dental Bib / Napkins — Specification",
+    "sector_category": "Textiles / Technical Textiles for Medtech Applications (approved by the Textile Division Council and finalized by the Technical Textiles for Medtech Applications Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "11.140; 59.080.01",
+    "sectional_committee": {
+      "name": "Technical Textiles for Medtech Applications Sectional Committee",
+      "number": "TXD 36"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, dimensions, construction, and performance testing guidelines for disposable (single-use) and reusable (multiple-use) dental bibs or napkins used during clinical and dental procedures to protect the patient, their clothing, and the surrounding medical environment from fluid transfer, water seepage, and microorganism transmission.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, February 2020 (incorporating Amendment No. 1, February 2024; Reaffirmed in 2024)",
+    "year_first_published": "2020",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2020"
+      }
+    ],
+    "supersedes": "N/A (Newly formulated dedicated specification to standardize menstrual, personal, and clinical barrier hygiene accessories under the medtech division)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "February 2024",
+        "description": "Formally replaces the legacy 'Sinking time' parameter with 'Liquid absorbency time' and replaces the 'water holding capacity' parameter with 'Liquid absorptive capacity' in Table 1; introduces the optional use of artificial saliva (conforming to ISO 20701) as the testing fluid by mutual agreement; and mandates printing the declared shelf life of the product on the final consumer package."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "ISO 11737-1 : 2018",
+      "title": "Sterilization of health care products — Microbiological methods — Part 1: Determination of a population of microorganisms on products",
+      "category": "Microbiological testing",
+      "location": "Clause 5.2 / Annex B",
+      "relevance": "Prescribes standard dilution, incubation, and plating out guidelines utilized to check and verify the microbial cleanliness of the finished bibs."
+    },
+    {
+      "is_number": "IS 15891 (Part 3)",
+      "title": "Textiles — Test methods for nonwovens: Part 3 Determination of tensile strength and elongation",
+      "category": "Tensile testing",
+      "location": "Clause 5.2 / Table 1 / Annex B",
+      "relevance": "Prescribes standard laboratory test setups to measure dry and wet tensile strength properties of the non-woven elements."
+    },
+    {
+      "is_number": "IS 15891 (Part 6)",
+      "title": "Textiles — Test methods for nonwovens: Part 6 Absorption",
+      "category": "Absorbency testing",
+      "location": "Table 1 (Amended) / Annex B",
+      "relevance": "Specifies standard cylindrical wire baskets and wire gauze test piece supports utilized to verify fluid absorbency time and absorptive capacity."
+    },
+    {
+      "is_number": "IS 14944",
+      "title": "Apparatus for waterproofness test",
+      "category": "Waterproofness testing",
+      "location": "Clause 5.2 / Table 1 / Annex B",
+      "relevance": "Specifies the specialized laboratory apparatus and conditioning chambers used to verify the leak-proof performance of the backing material."
+    },
+    {
+      "is_number": "ISO 20701",
+      "title": "Leather — Tests for colour fastness — Colour fastness to saliva",
+      "category": "Chemical testing",
+      "location": "Table 1 Note (Amended)",
+      "relevance": "Referenced for the exact chemical formulation of artificial saliva when used as a specialized testing liquid by mutual agreement."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated values to verify standard conformity."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 17349 : 2020",
+      "title": "Medical Textiles — Shoe Covers — Specification",
+      "category": "Allied medical textile standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow protective barrier medical textile specification co-regulated under the mandatory Quality Control Order (QCO), present in the notebook."
+    },
+    {
+      "is_number": "IS 17630 : 2021",
+      "title": "Medical Textiles — Bed sheet and pillow cover — Specification",
+      "category": "Allied medical textile standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow hospital-use medical fabric specification co-regulated under the same QCO framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 5405 : 2025",
+      "title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow personal hygiene absorbent standard co-managed under the medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17509 : 2021",
+      "title": "Disposable Baby Diaper — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow disposable hygiene standard co-regulated under the same medtech framework, present in the notebook."
+    },
+    {
+      "is_number": "IS 17514 : 2025",
+      "title": "Reusable Sanitary Pad/Sanitary Napkin/Period Panties — Specification",
+      "category": "Allied hygiene standard",
+      "location": "Parallel TXD 36 standard",
+      "relevance": "Fellow reusable personal hygiene standard co-regulated under the same medtech framework, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Medical Textiles / Personal Protective Equipment)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Medical Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all dental bibs or napkins manufactured, imported, distributed, or sold in India must conform to IS 17354:2020 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified dental bibs in India is a punishable criminal offense under the Bureau of Indian Standards Act, 2016. Micro and small units are granted specific delayed implementation schedules, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to medical non-woven and cellulose paper bibs.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial pack of dental bibs or napkins must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to verify compliance.",
+        "clause_reference": "Clause 7.2"
+      },
+      {
+        "requirement_type": "Raw Material Sourcing (Clause 2.a)",
+        "detail": "Dental bibs/napkins must be manufactured from suitable materials (typically absorbent cellulose paper or non-woven tops bonded with a leak-proof polyethylene film) that are not prohibited under any applicable laws or regulations. Consignment raw materials must be backed by the supplier's test certificate, and the manufacturer must declare that zero prohibited materials are used.",
+        "clause_reference": "Clause 2.a"
+      },
+      {
+        "requirement_type": "Product Design Variations",
+        "detail": "The standard covers disposable and reusable varieties. Size, shapes, and material compositions must be declared by the manufacturer for the scope of the licence.",
+        "clause_reference": "Clause 6"
+      },
+      {
+        "requirement_type": "Hygienic Manufacturing Requirements",
+        "detail": "The manufacture and preparation of the dental bibs/napkins must be conducted under proper hygienic conditions. The manufacturer must implement and record a systematic factory hygiene maintenance program.",
+        "clause_reference": "Clause 5.1 & Clause 4 (Product Manual)"
+      },
+      {
+        "requirement_type": "Workmanship and Finish",
+        "detail": "Process controls must ensure the finished products are clean, flat, and completely free from lumping, holes, tears, or chemicals/substances that can cause tendering or degradation during storage.",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Mandatory Waterproofness Barrier (Table 1 - i)",
+        "detail": "The back layer must act as an effective barrier to liquid: when tested as per the waterproofness test of IS 14944, the backing must withstand standard water contact with zero seepage to protect the patient's clothing.",
+        "clause_reference": "Clause 5.2 & Table 1 - i"
+      },
+      {
+        "requirement_type": "Mandatory Microbial Cleanliness (Table 1 - ii)",
+        "detail": "To maintain clinical hygiene, the total viable microbial count (bacterial and fungal bioburden) must be strictly controlled when evaluated in accordance with the standard methods of ISO 11737-1.",
+        "clause_reference": "Clause 5.2 & Table 1 - ii"
+      },
+      {
+        "requirement_type": "Mandatory Tensile Strength (Table 1 - iii)",
+        "detail": "The bib must withstand mechanical handling and pulling. Both wet and dry tensile strength must satisfy specified minimum load thresholds (N Min) when tested in accordance with IS 15891 (Part 3) or IS 1969 (Part 1).",
+        "clause_reference": "Clause 5.2 & Table 1 - iii"
+      },
+      {
+        "requirement_type": "Amended Liquid Absorbency Time (Table 1 - iv.a)",
+        "detail": "Under Amendment No. 1, the legacy 'Sinking time' absorption test is replaced with 'Liquid absorbency time'. The top sheet must absorb liquids rapidly when tested as per IS 15891 (Part 6) using the cylindrical wire basket method.",
+        "clause_reference": "Clause 5.2 & Table 1 - iv.a (Amended)"
+      },
+      {
+        "requirement_type": "Amended Liquid Absorptive Capacity (Table 1 - iv.b)",
+        "detail": "Under Amendment No. 1, the legacy 'water holding capacity' absorption test is replaced with 'Liquid absorptive capacity'. The absorbent layers must retain a high volume of fluid when tested per IS 15891 (Part 6) using the wire gauze support method. Note that absorbency tests are applicable to disposable dental bibs/napkins only.",
+        "clause_reference": "Clause 5.2 & Table 1 - iv.b (Amended) & Grouping Guidelines"
+      },
+      {
+        "requirement_type": "Specialized Artificial Saliva Test Liquid",
+        "detail": "Under Amendment No. 1, artificial saliva prepared in accordance with the chemical parameters of ISO 20701 is permitted as the test liquid for absorbency evaluations by mutual agreement between the buyer and the seller.",
+        "clause_reference": "Table 1 Note (Added)"
+      },
+      {
+        "requirement_type": "Mandatory Consumer Pack Markings (Clause 7.1)",
+        "detail": "Each pack must be legibly and indelibly marked with: product name, size/dimensions, type (disposable/reusable), manufacturer details, batch/lot number, date of manufacture, and the newly mandated 'Declared shelf-life of the product' (inserted by Amendment No. 1).",
+        "clause_reference": "Clause 7.1 & Clause 7.1 (f)"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17354 : 2020",
+    "Dental Bib",
+    "Dental Napkins",
+    "Medical Textiles",
+    "Waterproofness Test",
+    "Tensile Strength",
+    "Microbial Cleanliness",
+    "Liquid Absorbency Time",
+    "Liquid Absorptive Capacity",
+    "Artificial Saliva ISO 20701",
+    "Product Shelf-Life",
+    "TXD 36",
+    "Medical Textiles QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17354 : 2020 is the mandatory national Indian Standard specification governing disposable (single-use) and reusable (multiple-use) dental bibs or napkins used to protect patients' clothing and skin from saliva, water, and chemical splatters during dental and oral healthcare procedures. Under India's statutory Medical Textiles Quality Control Order (QCO), all dental bibs sold or imported domestically must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). The standard regulates key features—including a waterproof backing, high wet/dry tensile strength to prevent tearing, and restricted microbial bioburden to maintain clinical sterility. Amendment No. 1 (February 2024) updates the standard by introducing modern 'Liquid absorbency time' and 'Liquid absorptive capacity' parameters, allowing the use of artificial saliva (as per ISO 20701) for testing, and mandating that the product's shelf life be clearly declared on the packaging."
+  },
+  "source_information": {
+    "source_pdf_filename": "17354_amd1.pdf",
+    "document_version_edition": "First Edition, 2020 (incorporating Amendment No. 1, February 2024)"
+  }
+}
