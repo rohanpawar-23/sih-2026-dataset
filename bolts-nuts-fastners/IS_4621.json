@@ -1,0 +1,152 @@
+{
+  "basic_identification": {
+    "is_number": "IS 4621 : 1975",
+    "full_title": "Specification for Indicating Bolts for Use in Public Baths and Lavatories (First Revision)",
+    "sector_category": "Civil Engineering / Builder's Hardware (approved by the Civil Engineering Division Council and finalized by the Builder's Hardware Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "UDC 683.31 : 725.73",
+    "sectional_committee": {
+      "name": "Builder's Hardware Sectional Committee",
+      "number": "BDC 15"
+    },
+    "citations": "[1, 2]"
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements for materials, dimensions, nominal sizes, manufacture, and operational types of indicating bolts fitted to doors in public baths and lavatories for showing whether they are engaged or vacant.",
+    "clause_number": "Foreword (specifically Clause 0.2)",
+    "page_number": "Page 3",
+    "citations": "[2]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, January 1976 (Reaffirmed 2016, with Reprints incorporating older Reaffirmations in 2006)",
+    "year_first_published": "1968",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1968"
+      },
+      {
+        "edition": "First Revision (prepared to specify modern materials of construction in accordance with updated Indian Standards)",
+        "year": "1975"
+      }
+    ],
+    "supersedes": "IS 4621 : 1968",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy.",
+    "citations": "[1, 2]"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "Indian Standards on Materials",
+      "title": "Standards for Aluminium, Brass, and Zinc Alloys",
+      "category": "Material standards",
+      "location": "Foreword (Clause 0.2) & Table 2",
+      "relevance": "Outlines that construction materials for castings and extrusions must align with the latest corresponding Indian Standards.",
+      "citations": "[2, 3]"
+    },
+    {
+      "is_number": "Indian Copyright Act (XIV of 1957)",
+      "title": "Indian Copyright Act",
+      "category": "Statutory / Legal",
+      "location": "Page 2",
+      "relevance": "Protects the publication from unauthorized reproduction in whole or in part.",
+      "citations": "[4]"
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2062 : 2026",
+      "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
+      "category": "Allied material standard",
+      "location": "Parallel electrotechnical/mechanical groups",
+      "relevance": "Governs structural carbon steel; present in the notebook.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 12254 : 2021",
+      "title": "Polyvinylchloride (PVC) Industrial Boots — Specification",
+      "category": "Allied product standard",
+      "location": "Parallel consumer product groups",
+      "relevance": "Specifies injection-molded PVC boots; present in the notebook.",
+      "citations": ""
+    },
+    {
+      "is_number": "IS 10702 : 2023",
+      "title": "Hawai Chappal — Specification",
+      "category": "Allied product standard",
+      "location": "Parallel consumer product groups",
+      "relevance": "Molded consumer footwear specification; present in the notebook.",
+      "citations": ""
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Builder's Hardware / Door & Window Fittings)",
+    "certification_status": "Voluntary / Statutory. While traditionally voluntary, builder's hardware and door fittings are frequently subjected to statutory state government PWD procurement schedules and National Building Code mandates requiring conformity to IS standards. Precious metal hallmarking is completely inapplicable to alloy indicating bolts.",
+    "requirements": [
+      {
+        "requirement_type": "Operational Classification",
+        "detail": "The operation of the indicating bolt must be achieved by one of the following two standard mechanical methods: a) Gear work, or b) Displacement.",
+        "clause_reference": "Clause 2.1",
+        "citations": "[5]"
+      },
+      {
+        "requirement_type": "Standard Nominal Sizes",
+        "detail": "Indicating bolts are classified and manufactured in two standard nominal sizes: Size 1 and Size 2. Other customized dimensions are permissible if mutually agreed between the manufacturer and the buyer.",
+        "clause_reference": "Clause 3.1 & Clause 4.1.1",
+        "citations": "[5, 6]"
+      },
+      {
+        "requirement_type": "Basic Component Architecture",
+        "detail": "As illustrated in the typical design sketch (Fig. 1), the indicating bolt assembly comprises the following components: a) Bolt; b) Indicating Disc; c) Socket for engaging bolt; d) Plate marked 'ENGAGED' and 'VACANT' oriented at 180 degrees.",
+        "clause_reference": "Fig. 1",
+        "citations": "[6]"
+      },
+      {
+        "requirement_type": "Visual Signalling & Background Color Controls",
+        "detail": "The indicating plate must display clear, unambiguous visual signals to represent occupancy status: a) When the bolt is drawn (locked), it must show the word 'ENGAGED' on a solid red background; b) When the bolt is withdrawn (unlocked), it must show the word 'VACANT' on a solid green background.",
+        "clause_reference": "Clause 6.1",
+        "citations": "[3, 6]"
+      },
+      {
+        "requirement_type": "Material Requirements (Body, Knob & Spindle)",
+        "detail": "The body, knob, and indicating spindle must be manufactured from one of the following specified materials: Aluminium alloy casting, Extruded aluminium alloy, Brass casting, Extruded brass, or Zinc base alloy die casting.",
+        "clause_reference": "Clause 5.1 & Table 2 (Sl No. i)",
+        "citations": "[3, 6]"
+      },
+      {
+        "requirement_type": "Material Requirements (Indicating Disc)",
+        "detail": "The indicating disc must be fabricated utilizing: Extruded aluminium alloy, Extruded brass, or Zinc base alloy die casting.",
+        "clause_reference": "Clause 5.1 & Table 2 (Sl No. ii)",
+        "citations": "[3, 6]"
+      },
+      {
+        "requirement_type": "Material Requirements (Gears)",
+        "detail": "For gear-operated indicating bolts, the internal gears must be manufactured from: Brass casting, Extruded brass, or Zinc base alloy die casting.",
+        "clause_reference": "Clause 5.1 & Table 2 (Sl No. iii)",
+        "citations": "[3, 6]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 4621:1975",
+    "Indicating Bolts",
+    "Public Baths",
+    "Lavatory Locks",
+    "Engaged Sign",
+    "Vacant Sign",
+    "Gear Work",
+    "Displacement Bolt",
+    "Aluminium Casting",
+    "Brass Casting",
+    "Zinc Die Casting",
+    "BDC 15",
+    "Builder's Hardware"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 4621 : 1975 is the national Indian Standard specification regulating indicating bolts used on doors in public baths, restrooms, and lavatories to indicate occupancy. It classifies bolts into Size 1 and Size 2 and permits operation via either internal gear work or mechanical sliding displacement. The standard mandates strict visual signaling: when the bolt is engaged, the plate must display the word 'ENGAGED' on a bold red background; when retracted, it must display 'VACANT' on a green background. To ensure mechanical reliability, it restricts materials for internal components, body castings, and indicating discs to highly durable copper-alloys (brass), corrosion-resistant aluminum alloys, or die-cast zinc alloys, preventing premature latch failure in humid environments.",
+    "citations": ""
+  },
+  "source_information": {
+    "source_pdf_filename": "4621_1975_reff2021.pdf",
+    "document_version_edition": "First Revision, September 1975 (Reaffirmed 2016)"
+  }
+}

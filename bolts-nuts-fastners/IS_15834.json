@@ -1,0 +1,188 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15834 : 2020",
+    "full_title": "Stainless Steel Sliding Door Bolts ( Aldrops ) for Use with Padlocks — Specification (First Revision)",
+    "sector_category": "Civil Engineering / Builder's Hardware (approved by the Civil Engineering Division Council and finalized by the Builder's Hardware Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "91.190; 77.140.20",
+    "sectional_committee": {
+      "name": "Builder's Hardware Sectional Committee",
+      "number": "CED 15"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the material, mechanical, manufacturing, dimensional, and finish requirements for clip-type stainless steel sliding door bolts (commonly known as aldrops) used in general building construction for locking doors, gates, and similar assemblies with padlocks.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2020 (Reviewed and Reaffirmed in 2025)",
+    "year_first_published": "2008",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2008"
+      },
+      {
+        "edition": "First Revision (reorganized to incorporate modifications based on industry experience, updating testing parameters and expanding material grade allowances)",
+        "year": "2020"
+      }
+    ],
+    "supersedes": "IS 15834 : 2008",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy (NIL)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1608 (Part 1)",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Test method",
+      "location": "Clause 2 & References",
+      "relevance": "Prescribes the tensile test methods used to evaluate and verify the physical load-bearing and mechanical strength limits of the sliding bolt."
+    },
+    {
+      "is_number": "IS 4905 : 2015",
+      "title": "Random sampling and randomization procedures (first revision)",
+      "category": "Normative reference / Sampling",
+      "location": "Clause 2, Clause 10.2 & References",
+      "relevance": "Governs standard statistical randomization routines utilized to select representative sample boxes from manufactured batches for testing."
+    },
+    {
+      "is_number": "IS 6527 : 1995",
+      "title": "Stainless steel wire rods — Specification (first revision)",
+      "category": "Material standard",
+      "location": "Clause 2 / References",
+      "relevance": "Specifies compatible high-tensile stainless steel wire rod grades (including X04Cr13, X12Cr13, X04Cr18Ni10, or X07Cr18Ni9) required to manufacture the sliding bolt."
+    },
+    {
+      "is_number": "IS 6911 : 1992",
+      "title": "Stainless steel plate, sheet and strip (first revision)",
+      "category": "Material standard",
+      "location": "Clause 2 / References",
+      "relevance": "Prescribes standard chemical and physical grades of stainless steel sheets (such as X07Cr18Ni9 or X10Cr17Mn6Ni4N20) required to fabricate the hasp, clip, and staple components."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Governs the standard mathematical rounding-off routines to evaluate test results and check dimensional conformity."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15833 : 2009",
+      "title": "Stainless Steel Tower Bolts — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Parallel CED 15 standard",
+      "relevance": "The parallel stainless steel tower bolts specification managed under the same CED 15 sectional committee, sharing identical raw material standards (IS 6911 and IS 6527), present in the notebook."
+    },
+    {
+      "is_number": "IS 281 : 2009",
+      "title": "Mild Steel Sliding Door Bolts for Use with Padlocks — Specification",
+      "category": "Allied standard",
+      "location": "Parallel CED 15 standard",
+      "relevance": "Governs the carbon steel equivalent of the aldrop assembly, specifying identical design layouts and padlocking clearances."
+    },
+    {
+      "is_number": "IS 2681 : 1993",
+      "title": "Non-Ferrous Metal Sliding Door Bolts (Aldrops) for Use with Padlocks — Specification",
+      "category": "Allied standard",
+      "location": "Parallel CED 15 standard",
+      "relevance": "Specifies requirements for brass or aluminium-based sliding door bolts (aldrops) used with padlocks."
+    },
+    {
+      "is_number": "IS 17296 : 2020",
+      "title": "Stainless Steel Door Stoppers — Specification",
+      "category": "Allied standard",
+      "location": "Parallel CED 15 standard",
+      "relevance": "Related stainless steel builder's hardware standard developed by the same CED 15 sectional committee."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied structural standard",
+      "location": "Parallel steel standard",
+      "relevance": "The master national structural code that regulates general steel designs and connections, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Builder's Hardware / Fasteners)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Bolts, Nuts and Fasteners (Quality Control) Order' (including subsequent QCO updates) issued by the Ministry of Commerce and Industry, Government of India, all Stainless Steel Sliding Door Bolts (Aldrops) for Use with Padlocks must conform to IS 15834 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or selling uncertified door aldrops is a statutory offense. Micro and small scale units are granted specific delayed implementation schedules, and export shipments are exempt. Precious metal hallmarking is completely inapplicable to industrial alloy door fixtures.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every sliding door bolt conforming to this standard must carry the BIS Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards, along with the registered licence number (CM/L).",
+        "clause_reference": "Clause 8.2",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Basic Component Architecture",
+        "detail": "As illustrated in Fig. 1, the sliding door aldrop assembly comprises: a sliding bolt, hasp (with slot), clip, and staple, constructed dynamically to allow secure padlock locking.",
+        "clause_reference": "Fig. 1"
+      },
+      {
+        "requirement_type": "Permitted Materials and Stainless Steel Grades",
+        "detail": "In the First Revision (2020), raw material specifications have been modified, permitting the use of any standard stainless steel grade of suitable quality (e.g., standard Grades X07Cr18Ni9 sheet or X04Cr13 wire rods) provided the finished aldrop complies with all physical, mechanical, and corrosion resistance requirements.",
+        "clause_reference": "Foreword (Clause a) & Clause 4"
+      },
+      {
+        "requirement_type": "Standard Bolt Diameters (D)",
+        "detail": "The nominal diameter of the sliding bolt ($D$) must be 12 mm, 14 mm, 16 mm, or 19 mm as specified by the purchaser.",
+        "clause_reference": "Fig. 1 (Note 1)"
+      },
+      {
+        "requirement_type": "Standard Sheet and Components Thicknesses (t)",
+        "detail": "The thickness of the constituent steel sheets ($t$) must be: a) minimum 2.20 mm for 12 mm and 14 mm diameter bolts; b) minimum 2.50 mm for 16 mm and 19 mm diameter bolts to prevent mechanical deformation under load.",
+        "clause_reference": "Fig. 1 (Note 2)"
+      },
+      {
+        "requirement_type": "Hasp Sizing and Overlap Limits",
+        "detail": "The hasp must have a width of $40 \pm 1$ mm, length of $110 \pm 2$ mm, and a slot width of minimum 6 mm. The hasp tab length below the bolt center must be at least 65 mm.",
+        "clause_reference": "Fig. 1"
+      },
+      {
+        "requirement_type": "Clip and Staple Geometry",
+        "detail": "The clip must have a width of $20 \pm 1$ mm and height of $60 \pm 2$ mm with a 7 mm square hole for a carriage bolt. The staple must have a width of $35 \pm 0.5$ mm, height of $45 \pm 1$ mm, projection of $30 \pm 2$ mm, and a hole diameter of $13 \pm 0.5$ mm.",
+        "clause_reference": "Fig. 1"
+      },
+      {
+        "requirement_type": "Product Identification Markings",
+        "detail": "Each aldrop must be clearly and legibly marked with the manufacturer's name/trade-mark and the words 'Stainless Steel' permanently imprinted.",
+        "clause_reference": "Clause 8.1",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Consignment Packing Details (Clause 9)",
+        "detail": "The products must be packed in cartons. Each carton must bear a secure label displaying: manufacturer's name, size, grade of materials used, quantity, batch number, and date of manufacture.",
+        "clause_reference": "Clause 9",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Batch Sampling & Conformance Lots",
+        "detail": "All sliding door bolts of the identical type, material, and size manufactured in a single day constitute a lot. Random samples must be selected as per Table 1 for physical-mechanical auditing.",
+        "clause_reference": "Clause 10.1, 10.2 & Table 1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15834 : 2020",
+    "Stainless Steel Aldrops",
+    "Sliding Door Bolts",
+    "Padlock locking",
+    "Bolt diameter",
+    "Hasp dimensions",
+    "Staple and Clip",
+    "Stainless steel grades",
+    "Mechanical design",
+    "CED 15",
+    "Builder's Hardware QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15834 : 2020 is the strict national Indian Standard safety specification regulating stainless steel sliding door bolts (aldrops) designed for use with padlocks in general building construction. Under India's mandatory national Bolts, Nuts and Fasteners Quality Control Order (QCO), all such stainless steel aldrops manufactured, imported, or sold in India must carry the Bureau of Indian Standards Standard Mark (ISI Mark). It outlines exact dimensional and thickness boundaries—including sliding bolt diameters (12 to 19 mm) and hasp/clip clearances—and specifies standard mechanical and testing protocols (tensile strength, dimensional accuracy, and corrosion resistance). The standard ensures that the hardware remains rust-proof, durable, and structurally reliable in high-humidity or coastal environments."
+  },
+  "source_information": {
+    "source_pdf_filename": "15834_2020.pdf",
+    "document_version_edition": "First Revision, 2020"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "basic_identification": {
+    "is_number": "IS 6623 : 2004",
+    "full_title": "High Strength Structural Nuts — Specification (Second Revision)",
+    "sector_category": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories (approved by the Production and General Engineering Division Council and finalized by the Bolts, Nuts and Fasteners Accessories Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "21.060.20",
+    "sectional_committee": {
+      "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee",
+      "number": "PGD 31"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the material composition, mechanical properties, dimensions, tolerances, threads, testing procedures, and finish requirements for large-series hexagon, high-strength structural nuts in property classes 8S and 10S. These nuts are designed for use in high-stress structural joints—such as bridges, high-rise buildings, and heavy machinery—paired with high-strength structural bolts (IS 3757) and hardened washers (IS 6649) to ensure slip-critical/friction-grip connection performance.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, 2004 (incorporating Amendment No. 1, August 2020)",
+    "year_first_published": "1972",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1972"
+      },
+      {
+        "edition": "First Revision",
+        "year": "1985"
+      },
+      {
+        "edition": "Second Revision (updated dimensions, thread tolerances, and testing alignments with ISO standards)",
+        "year": "2004"
+      }
+    ],
+    "supersedes": "IS 6623 : 1985",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "August 2020",
+        "description": "Modifies the dimensional requirements of the nuts under Table 1, specifically substituting the width across flats values for size M22 (Sl No. ix, Col 6) to establish a strict maximum limit of 36.0 mm and a minimum limit of 35.0 mm to ensure absolute compatibility with standard structural wrenching tools [1]."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1367 (Part 6) : 2018",
+      "title": "Technical supply conditions for threaded steel fasteners — Part 6: Mechanical properties and test methods for nuts with specified proof loads",
+      "category": "Mechanical testing",
+      "location": "Clause 6.1 / Raw materials guidelines",
+      "relevance": "Prescribes standard mechanical testing methods, proof loads, and hardness criteria to verify the performance limits of the structural nut grades."
+    },
+    {
+      "is_number": "IS 4218 (series)",
+      "title": "ISO Metric screw threads — Specification",
+      "category": "Thread standard",
+      "location": "Clause 4.1",
+      "relevance": "Specifies the dimensions, profiles, and basic tolerances of the ISO metric screw threads utilized on the nuts."
+    },
+    {
+      "is_number": "IS 2614 : 1969",
+      "title": "Methods for sampling of fasteners (first revision)",
+      "category": "Normative reference / Sampling",
+      "location": "Clause 8.1",
+      "relevance": "Provides statistical sampling plans and criteria for lot acceptance or rejection during third-party or in-process quality audits."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardizes the mathematical procedures used to round off calculated or observed physical or chemical testing values."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 3757 : 1985",
+      "title": "Specification for High Strength Structural Bolts",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "The companion product standard specifying the large series hexagon structural bolts that must be paired as a matched assembly with IS 6623 structural nuts."
+    },
+    {
+      "is_number": "IS 6649 : 1985",
+      "title": "Hardened and Tempered Washers for High Strength Structural Bolts and Nuts",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "The companion standard specifying the through-hardened steel washers required under the bolt head and/or nut to prevent surface crushing and maintain high tension clamping."
+    },
+    {
+      "is_number": "IS 4000 : 1992",
+      "title": "High Strength Bolts in Steel Structures — Code of Practice",
+      "category": "Allied / Application standard",
+      "location": "Foreword",
+      "relevance": "Governs the engineering design, installation methods, and tensioning/tightening control procedures of matched HSFG assemblies in steel joints."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied / Design standard",
+      "location": "Foreword / Connections design sections",
+      "relevance": "The master national structural code that regulates connection designs, shear lag calculations, and slip-critical friction-grip parameters using matched HSFG assemblies."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Industrial Fasteners / Structural Hardware)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all high-strength structural nuts manufactured, imported, distributed, or sold in India must conform to IS 6623 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified structural fasteners is a legal offense. Precious metal hallmarking is completely inapplicable to heavy-duty high-tensile steel fasteners.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every structural nut or its packaging box must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
+        "clause_reference": "Clause 9 (Marking)"
+      },
+      {
+        "requirement_type": "Property Classes and Compatibility",
+        "detail": "Nuts must be supplied in designated property classes 8S or 10S (conforming to IS 1367 Part 6). Class 8S nuts are specified for property class 8.8S structural bolts, and Class 10S nuts are specified for property class 10.9S structural bolts to ensure that thread stripping does not occur during tightening.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Ductile Failure Overload Design",
+        "detail": "The proof load capacity of the nut must be designed to be greater than the ultimate tensile strength of its matching bolt. This ensures that in case of overload, the bolt will fail in tension (a ductile, predictable failure) rather than the nut stripping its threads (which causes sudden, catastrophic joint release).",
+        "clause_reference": "Clause 6.3"
+      },
+      {
+        "requirement_type": "ISO Metric Thread Tolerance Class",
+        "detail": "The nut threads must be ISO Metric coarse pitch conforming to IS 4218, and must be manufactured to a strict tolerance class of 6H to ensure consistent thread engagement and ease of assembly.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Standard Diameter Pitch Series",
+        "detail": "The standard covers a diameter range of M16 to M36. The standard thread pitches are: M16 (2.0 mm), M20 (2.5 mm), M22 (2.5 mm), M24 (3.0 mm), M27 (3.0 mm), M30 (3.5 mm), and M36 (4.0 mm).",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "M22 Width Across Flats Adjustment (Amendment No. 1)",
+        "detail": "Under Table 1, the width across flats dimension for size M22 (Sl No. ix, Col 6) must comply with a maximum value of 36.0 mm and a minimum value of 35.0 mm [1].",
+        "clause_reference": "Table 1 (Sl No. ix) (Amended)",
+        "page_reference": "Page 1 of Amendment No. 1",
+        "citations": "[1]"
+      },
+      {
+        "requirement_type": "Nut Thickness (Height) Tolerances",
+        "detail": "The height of the nut (h) must be controlled to prevent thread failure: M16 (16.40 to 17.10 mm), M20 (19.40 to 20.70 mm), M22 (22.30 to 23.60 mm), M24 (22.90 to 24.20 mm), M27 (26.30 to 27.60 mm), M30 (29.10 to 30.70 mm), and M36 (35.00 to 36.60 mm).",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Proof Load Limits for Finished Assemblies",
+        "detail": "Each nut size must withstand specified proof load testing: \na) Class 8S: M16 (168.9 kN), M20 (263.4 kN), M22 (325.7 kN), M24 (379.5 kN), M27 (403.4 kN), M30 (603.1 kN), M36 (878.3 kN); \nb) Class 10S: M16 (195.5 kN), M20 (305.0 kN), M22 (377.0 kN), M24 (439.0 kN), M27 (467.0 kN), M30 (698.0 kN), M36 (1016.0 kN).",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Surface Finish Options",
+        "detail": "Nuts can be supplied in three standard finishes depending on environmental exposure: dull black (self-colored), electroplated zinc, or hot-dip galvanized. Hot-dip galvanized nuts require overtapped threads to clear the zinc thickness, and must be lubricated with a suitable clean dry lubricant.",
+        "clause_reference": "Clause 6.3.1"
+      },
+      {
+        "requirement_type": "Mandatory Nut Surface Markings",
+        "detail": "High-strength structural nuts must be marked with the property class designation (8S or 10S) and the manufacturer's identification symbol stamped or embossed on the non-bearing face of the nut to allow visual site verification.",
+        "clause_reference": "Clause 9.1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 6623 : 2004",
+    "High Strength Nuts",
+    "Structural Fasteners",
+    "HSFG connections",
+    "Friction Grip Joints",
+    "Property Class 8S",
+    "Property Class 10S",
+    "M22 flats dimension",
+    "Proof Load Test",
+    "6H thread tolerance",
+    "PGD 31",
+    "Steel Quality Control Order",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 6623 : 2004 is the mandatory national Indian Standard safety specification governing high-strength structural hexagon nuts used in High-Strength Friction-Grip (HSFG) steel joints. Under the national Steel Quality Control Order, all structural nuts sold or imported in India must be certified by the Bureau of Indian Standards and carry the Standard Mark (ISI Mark). It covers sizes M16 to M36 in property classes 8S (for 8.8S bolts) and 10S (for 10.9S bolts). The nuts are structurally engineered with coarse threads (tolerance class 6H) and robust heights to ensure the nut's thread stripping resistance exceeds the tensile strength of the matching bolt, protecting connections from sudden failure. Amendment No. 1 (August 2020) specifies high-precision dimensions for the M22 size (width across flats restricted to 35.0–36.0 mm) to prevent tool slippage under heavy field tensioning [1]."
+  },
+  "source_information": {
+    "source_pdf_filename": "6623a1.pdf",
+    "document_version_edition": "Second Revision, 2004 (incorporating Amendment No. 1, August 2020)"
+  }
+}

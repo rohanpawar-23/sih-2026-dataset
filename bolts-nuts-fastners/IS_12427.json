@@ -1,0 +1,194 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12427 : 2001 [1]",
+    "full_title": "Fasteners — Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification (First Revision) [1, 2]",
+    "sector_category": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories (approved by the Basic and Production Engineering Division Council and finalized by the Bolts, Nuts and Fasteners Accessories Sectional Committee of the Bureau of Indian Standards) [1]",
+    "ics_code": "21.060.10 [1, 2]",
+    "sectional_committee": {
+      "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee [1]",
+      "number": "BP 33 [1]"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the dimensions, tolerances, materials, and mechanical requirements for hot-dip galvanized hexagon head transmission tower bolts in the size range M12 to M24 [2]. These bolts are intended for use in the construction of electrical transmission towers, electrical sub-stations, and similar steel structures [2]. It explicitly states that these bolts are not suitable for applications requiring improved low-temperature material characteristics [2].",
+    "clause_number": "Clauses 1.1 and 1.2 [2]",
+    "page_number": "Page 1 [2]"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, December 2001 (Reaffirmed 2021) [1]",
+    "year_first_published": "Not explicitly stated in the source text.",
+    "revision_history": [
+      {
+        "edition": "First Revision [1]",
+        "year": "2001 [1]"
+      }
+    ],
+    "supersedes": "IS 12427 : 1988 [3].",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments are listed in the provided passages [1]."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated values to verify standard conformity [2, 3]."
+    },
+    {
+      "is_number": "IS 4218 (Parts 1 to 4)",
+      "title": "ISO Metric screw threads — Specification",
+      "category": "Thread standard",
+      "location": "Clause 3.3",
+      "relevance": "Governs screw thread profiles, dimensions, and pitches prior to hot-dip galvanizing [4]."
+    },
+    {
+      "is_number": "IS 2334",
+      "title": "Gauges for ISO metric screw threads",
+      "category": "Thread standard",
+      "location": "Clause 3.3",
+      "relevance": "Prescribes standard Go and Not Go threaded ring gauges used to check thread tolerances before zinc coating [4]."
+    },
+    {
+      "is_number": "IS 4759",
+      "title": "Hot-dip zinc coatings on structural steel and other allied products — Specification",
+      "category": "Finish standard",
+      "location": "Clause 7.2",
+      "relevance": "Specifies hot-dip galvanizing zinc coating thickness and uniformity limits for mating plain washers [5]."
+    },
+    {
+      "is_number": "IS 1367 (Part 9/Sec 1)",
+      "title": "Technical supply conditions for threaded steel fasteners: Part 9 Surface discontinuities, Section 1 Bolts, screws and studs for general applications",
+      "category": "Quality control",
+      "location": "Clause 8",
+      "relevance": "Establishes maximum permissible limits for physical surface defects, cracks, and blemishes on bolts [6]."
+    },
+    {
+      "is_number": "IS 1367 (Part 17)",
+      "title": "Technical supply conditions for threaded steel fasteners: Part 17 Inspection, sampling and acceptance procedure",
+      "category": "Sampling",
+      "location": "Clause 10",
+      "relevance": "Controls the consignment lot selections and statistical criteria for quality auditing [7]."
+    },
+    {
+      "is_number": "IS 1367 (Part 3)",
+      "title": "Technical supply conditions for threaded steel fasteners: Part 3 Mechanical properties and test methods for bolts, screws and studs with full load ability",
+      "category": "Mechanical properties",
+      "location": "Clause 11.1",
+      "relevance": "Regulates the mandatory mechanical testing routines and head property-class markings [7]."
+    },
+    {
+      "is_number": "IS 1367 (Part 18)",
+      "title": "Technical supply conditions for threaded steel fasteners: Part 18 Packaging",
+      "category": "Packaging",
+      "location": "Clause 12",
+      "relevance": "Defines standard packaging boxes, labeling information, and storage protection requirements [8]."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10238 : 2001",
+      "title": "Fasteners — Threaded Steel Fasteners — Step Bolts for Steel Structures — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Foreword",
+      "relevance": "The parallel national specification regulating structural step bolts used on transmission tower frames to provide climbing access [3]."
+    },
+    {
+      "is_number": "IS 6639 : 1972",
+      "title": "Hexagon bolts for steel structures",
+      "category": "Allied standard",
+      "location": "Foreword",
+      "relevance": "Specifies hexagon bolts utilized in the fabrication of general structural steel joints [3]."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied design standard",
+      "location": "Foreword / Connections design",
+      "relevance": "The master structural code that governs connection designs, shear lag, and preloaded/turned bolt tensioning design rules in steel construction [9]."
+    },
+    {
+      "is_number": "IS 6623 : 2004",
+      "title": "High Strength Structural Nuts — Specification",
+      "category": "Allied fasteners standard",
+      "location": "Foreword",
+      "relevance": "Specifies heavy-duty structural nuts designed for friction-grip and preloaded steel connections [10]."
+    },
+    {
+      "is_number": "IS 14255 : 1995",
+      "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1100 Volts — Specification",
+      "category": "Allied distribution standard",
+      "location": "Foreword",
+      "relevance": "Governs overhead distribution cable systems carried by transmission towers and steel masts secured with these bolts."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Industrial Fasteners / Transmission Line Hardware) [1, 2]",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the statutory 'Bolts, Nuts and Fasteners (Quality Control) Order' issued by the Ministry of Commerce and Industry, Government of India, all hexagon head transmission tower bolts must carry the mandatory BIS Standard Mark (ISI Mark) to certify chemical, physical, and mechanical compliance. Manufacturing, importing, distributing, or stocking non-certified structural fasteners in India is a statutory offense. Precious metal hallmarking is completely inapplicable to industrial steel fasteners.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every package of transmission tower bolts must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance [5].",
+        "clause_reference": "Clause 11.3.1 [5]"
+      },
+      {
+        "requirement_type": "Hot-Dip Galvanizing & Timing Limits",
+        "detail": "All dimensions specified in Fig. 1 and Table 1 are required to be verified on the bolt prior to the execution of the hot-dip galvanizing process [4].",
+        "clause_reference": "Clause 3.1 [4]"
+      },
+      {
+        "requirement_type": "Thread Gauge Conformity",
+        "detail": "Prior to hot-dip galvanizing, the bolt threads must be tested and conform with Go and Not Go threaded ring gauges in accordance with IS 2334 [4].",
+        "clause_reference": "Clause 3.3 [4]"
+      },
+      {
+        "requirement_type": "Standard Bolt Size Ranges",
+        "detail": "The standard specifies nominal thread sizes range from M12 to M24 [2]. Grip ranges (representing the total thickness of the connected material, excluding washers) and length combinations must strictly conform to Table 2 [4, 8]. Size M22 is designated as non-preferred [8].",
+        "clause_reference": "Clause 3.2, Table 2 [4, 5]"
+      },
+      {
+        "requirement_type": "Mandatory Anti-Rust Passivation",
+        "detail": "To prevent wet storage strain (white rust), galvanized bolts, nuts, and washers must be passivated immediately after galvanizing by dipping in a 0.15 percent solution of sodium dichromate with 0.5 percent concentrated sulphuric acid maintained above 32°C [11].",
+        "clause_reference": "Clause 7.3 [11]"
+      },
+      {
+        "requirement_type": "Shear Strength Verification",
+        "detail": "During load testing, the mechanical shear loading rate must be controlled between 7 to 13 mm per minute [11]. The maximum shear stress coincident with bolt failure represents the shear strength and must comply with standard property thresholds [11].",
+        "clause_reference": "Clauses 6.2.1 and 6.2.4 [11]"
+      },
+      {
+        "requirement_type": "Standard Alphanumeric Designation",
+        "detail": "Bolts are designated by nomenclature, thread size, nominal length, standard number, and property class [6]. Suffix N indicates supply with nut, and W indicates supply with plain washer [6]. Examples include: 'Transmission Tower Bolt M16 x 50 N — 5.6 IS 12427' [6] or 'Transmission Tower Bolt M16 x 50 NW — 5.6 IS 12427' [7].",
+        "clause_reference": "Clause 9 [6, 7]"
+      },
+      {
+        "requirement_type": "Mandatory Structural Markings",
+        "detail": "Each bolt head must carry the property class marking (conforming to IS 1367 Part 3) along with the manufacturer's identification symbol permanently marked on the head [7].",
+        "clause_reference": "Clauses 11.1 and 11.1.1 [7]"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12427:2001",
+    "Transmission Tower Bolts",
+    "Hexagon Head Bolts",
+    "M12 to M24",
+    "Grip Range",
+    "M22 Non-preferred",
+    "Go and Not Go Gauges",
+    "Shear Strength Test",
+    "Hot-dip Galvanizing",
+    "Sodium Bichromate Passivation",
+    "Wet Storage Strain",
+    "BP 33",
+    "Fasteners QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12427 : 2001 is the mandatory national Indian Standard safety specification regulating hot-dip galvanized hexagon head bolts (and their matching nuts and washers) designed specifically for constructing power transmission towers, electrical sub-stations, and similar heavy steel frames [2]. Under India's statutory Fasteners Quality Control Order (QCO), all such transmission tower bolts supplied domestically must be certified by the Bureau of Indian Standards and carry the Standard Mark (ISI Mark) [5]. It covers sizes M12 to M24 (with M22 designated as non-preferred), specifying precise grip ranges to ensure structural stability in connected joints [2, 8]. To survive severe outdoor weather, it mandates hot-dip zinc coatings and an immediate sodium dichromate passivation bath to prevent white rust formation during transport or storage [5, 11]."
+  },
+  "source_information": {
+    "source_pdf_filename": "12427_2001_reff2021.pdf",
+    "document_version_edition": "First Revision, December 2001 (Reaffirmed 2021) [1]"
+  }
+}

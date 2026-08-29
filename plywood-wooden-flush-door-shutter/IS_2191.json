@@ -1,0 +1,174 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2191 (Part 2) : 2022",
+    "full_title": "Wooden Flush Door Shutters (Cellular, Hollow and Tubular Core Type) — Specification, Part 2: Particle Board, High Density Fibre Board, Medium Density Fibre Board and Fibre Hardboard Face Panels (Fourth Revision)",
+    "sector_category": "Civil Engineering / Doors, Windows and Shutters (approved by the Civil Engineering Division Council and finalized by the Doors, Windows and Shutters Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "79.060.10; 91.060.50",
+    "sectional_committee": {
+      "name": "Doors, Windows and Shutters Sectional Committee",
+      "number": "CED 11"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements, construction, dimensions, tolerances, and testing schedules for wooden flush door shutters of the cellular, hollow, and tubular core type, fitted with face panels made of particle board, high density fibre board (HDF), medium density fibre board (MDF), or fibre hardboard. It is applicable for both decorative and non-decorative interior door shutters.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Fourth Revision, 2022 (incorporating Amendment No. 1, August 2024)",
+    "year_first_published": "1966",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1966" },
+      { "edition": "Second Revision", "year": "1973" },
+      { "edition": "Third Revision", "year": "1983" },
+      { "edition": "Fourth Revision", "year": "2022" }
+    ],
+    "supersedes": "IS 2191 (Part 2) : 1983",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "August 2024",
+        "description": "Inserts two critical scope notes establishing that the standard formally covers hollow core flush door shutters fitted with paper and/or metal honeycomb panels in between the stiles and rails, and clarifies that the requirements of this specification are in addition or alternate to those in IS 2191 (Part 1) [1]."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2191 (Part 1)",
+      "title": "Wooden Flush Door Shutters (Cellular, Hollow and Tubular Core Type) — Specification, Part 1: Plywood Face Panels",
+      "category": "Normative reference / Sister standard",
+      "location": "Foreword & Scope (Amended)",
+      "relevance": "Provides the baseline companion specification; general physical and dimensional requirements are cross-referenced to Part 1 [1]."
+    },
+    {
+      "is_number": "IS 4020 (all parts)",
+      "title": "Methods of test for wooden flush door shutters",
+      "category": "Test method",
+      "location": "Testing and validation clauses",
+      "relevance": "Prescribes standard laboratory test setups to measure dimensions, squareness, flatness, local planeness, impact, buckling, and structural behavior of the doors."
+    },
+    {
+      "is_number": "IS 2380 (Part 17)",
+      "title": "Methods of test for wood particle boards and other lignocellulose-based fiber boards: Part 17 Determination of swelling in thickness after immersion in water",
+      "category": "Test method",
+      "location": "Core swelling test",
+      "relevance": "Referenced for the exact test parameters used to evaluate water-swelling resistance of the infill core panels."
+    },
+    {
+      "is_number": "IS 2046 : 1995",
+      "title": "Decorative thermosetting synthetic resin bonded laminated sheets — Specification (second revision)",
+      "category": "Component standard",
+      "location": "Face panels specification",
+      "relevance": "Governs quality and performance requirements for decorative synthetic laminates or continuous pressed laminates (CPL) used on decorative skins."
+    },
+    {
+      "is_number": "IS 17637 : 2021",
+      "title": "Performance requirements of surface finishes for furniture applications",
+      "category": "Component standard",
+      "location": "Face panels specification",
+      "relevance": "Governs the pencil hardness testing limits (minimum 1H) for decorative foil or ABS face panel finishes."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Controls the mathematical rounding routines used on calculated and observed physical testing figures to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2191 (Part 1) : 2022",
+      "title": "Wooden Flush Door Shutters (Cellular, Hollow and Tubular Core Type) — Specification, Part 1: Plywood Face Panels",
+      "category": "Allied / Sister standard",
+      "location": "Parallel door group",
+      "relevance": "The plywood-faced counterpart standard regulating hollow and cellular core doors, sharing identical core and lipping parameters."
+    },
+    {
+      "is_number": "IS 2202 (Part 2) : 2022",
+      "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 2: Particle Board, HDF, MDF and Fibre Hardboard Face Panels",
+      "category": "Allied / Sister standard",
+      "location": "Parallel door group",
+      "relevance": "The solid-core equivalent standard, present in the notebook [1] and sharing matching face panel and edge-lipping specifications."
+    },
+    {
+      "is_number": "IS 2202 (Part 1) : 2023",
+      "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 1: Plywood Face Panels",
+      "category": "Allied standard",
+      "location": "Parallel door group",
+      "relevance": "Parallel standard regulating solid core blockboard door shutters utilizing plywood face panels."
+    },
+    {
+      "is_number": "IS 1003 (Part 1) : 2003",
+      "title": "Timber panelled and glazed shutters: Part 1 Door shutters — Specification",
+      "category": "Allied standard",
+      "location": "Parallel door group",
+      "relevance": "Parallel standard regulating traditional paneled solid timber door shutters."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Building Materials / Wooden Doors)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Plywood and Wooden Flush Door Shutters (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all cellular, hollow, and tubular core wooden flush doors fitted with particle board, MDF, HDF, or fibre hardboard face panels must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or selling uncertified door shutters is a statutory offense. MSMEs are granted phased transition periods, and export shipments are exempt. Precious metal hallmarking is completely inapplicable to wooden doors.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every door shutter must carry the BIS Standard Mark (ISI Mark) marked legibly and indelibly on any of its edges, accompanied by the manufacturer's registered licence number (CM/L) and standard designation (IS 2191 Part 2)."
+      },
+      {
+        "requirement_type": "Grade Classifications",
+        "detail": "The door shutters are classified into two grades based on adhesive bonding and moisture resistance: a) BWP (Boiling Water Proof); b) MR (Moisture Resistant)."
+      },
+      {
+        "requirement_type": "Type and Construction Varieties",
+        "detail": "The doors are categorized into Cellular (Decorative [CD] or Non-decorative [CN]), Hollow (Decorative [HD] or Non-decorative [HN]), and Tubular (Decorative [TD] or Non-decorative [TN]) core types."
+      },
+      {
+        "requirement_type": "Honeycomb Core Alternative (Note 1)",
+        "detail": "Under Amendment No. 1, hollow core door shutters are explicitly permitted to utilize paper and/or metal honeycomb panels positioned in between the stiles and rails [1]."
+      },
+      {
+        "requirement_type": "Swelling in Thickness Limit",
+        "detail": "The particle board, MDF, or HDF core board must show high resistance to moisture absorption: thickness swelling after 2 hours of water immersion must not exceed a maximum of 5 percent."
+      },
+      {
+        "requirement_type": "Decorative Face Panels Pencil Hardness",
+        "detail": "For face panels with decorative finishes of PVC foils, other type of foils, or ABS sheets, they must pass 1H of the pencil hardness test as per Annex C to IS 17637."
+      },
+      {
+        "requirement_type": "Combined Face Panel Thickness",
+        "detail": "The face panel (formed by gluing under press processes) must satisfy minimum thicknesses: a) minimum 3 mm in the case of cellular or tubular core doors; b) minimum 6 mm in the case of hollow core doors."
+      },
+      {
+        "requirement_type": "Mechanical Screw-holding strength",
+        "detail": "The door stiles and rails must resist screw pullout during hinge installation: the load required to completely withdraw a wood screw must be at least 1 000 N, showing zero localized delamination or chipping."
+      },
+      {
+        "requirement_type": "Mandatory Quality Audit Tests",
+        "detail": "To satisfy certification, doors must pass a rigorous multi-stage physical testing sequence under IS 4020, including dimensions, squareness, general flatness, local planeness, slamming resistance, end immersion, glue adhesion, and knife tests."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2191 (Part 2) : 2022",
+    "Wooden Flush Doors",
+    "Cellular Core Shutter",
+    "Hollow Core Shutter",
+    "Tubular Core Shutter",
+    "Particle Board Face Panels",
+    "HDF Face Panels",
+    "MDF Face Panels",
+    "Thickness Swelling",
+    "Honeycomb Core Panel",
+    "Pencil Hardness Test",
+    "Plywood QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2191 (Part 2) : 2022 is the mandatory national Indian Standard specification governing wooden flush door shutters of the cellular, hollow, and tubular core types that utilize particle board, HDF, MDF, or fibre hardboard face panels. Formulated under India's statutory Plywood and Wooden Flush Door Shutters Quality Control Order (QCO), all such lightweight interior door shutters must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). Amendment No. 1 (August 2024) expands the standard's scope to explicitly include paper and metal honeycomb cores in hollow core variants, establishes a strict 5% water-swelling limit for core materials, and mandates a 1H pencil hardness for PVC/ABS-foiled face finishes. It ensures that lightweight doors supplied for residential, commercial, and institutional projects meet high dimensional, moisture-resistant, and structural performance thresholds."
+  },
+  "source_information": {
+    "source_pdf_filename": "2191_2_amd1.pdf",
+    "document_version_edition": "Fourth Revision, 2022 (incorporating Amendment No. 1, August 2024)"
+  }
+}

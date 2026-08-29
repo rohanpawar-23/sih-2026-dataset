@@ -1,0 +1,187 @@
+{
+  "basic_identification": {
+    "is_number": "IS 5509 : 2021",
+    "full_title": "Fire Retardant Plywood — Specification (Third Revision)",
+    "sector_category": "Civil Engineering / Wood and other Lignocellulosic products (approved by the Civil Engineering Division Council and finalized by the Wood and Other Lignocellulosic Products Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "79.060.10",
+    "sectional_committee": {
+      "name": "Wood and Other Lignocellulosic Products Sectional Committee",
+      "number": "CED 20"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the fire retardant chemicals, method of treatment, retentions, and requirements of fire retardant plywood.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, June 2021 (Reviewed and Reaffirmed in 2026)",
+    "year_first_published": "1969",
+    "revision_history": [
+      { "edition": "First Edition", "year": "1969" },
+      { "edition": "First Revision", "year": "1980" },
+      { "edition": "Second Revision", "year": "2000" },
+      { "edition": "Third Revision", "year": "2021" }
+    ],
+    "supersedes": "IS 5509 : 2000",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments issued since publication on this copy."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 303",
+      "title": "Plywood for General Purposes — Specification",
+      "category": "Normative reference",
+      "location": "Clause 5.3",
+      "relevance": "Mandates that base plywood treated at the veneer stage and finished stage must satisfy BWR grade limits of IS 303."
+    },
+    {
+      "is_number": "IS 7638",
+      "title": "Wood/lignocellulosic based panel products — Method of sampling",
+      "category": "Normative reference / Sampling",
+      "location": "Clause 10",
+      "relevance": "Enforces statistical guidelines and randomized selection scales to test and verify lot conformance."
+    },
+    {
+      "is_number": "IS 848",
+      "title": "Specification for synthetic resin adhesives for plywood (phenolic and aminoplastic)",
+      "category": "Component standard",
+      "location": "Adhesives clauses (implied)",
+      "relevance": "Regulates synthetic adhesive formulations used to construct boiling-water-resistant or proof core bonds."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated values to verify standard conformity."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10701 : 2012",
+      "title": "Structural Plywood — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Parallel CED 20 standard",
+      "relevance": "The national standard regulating high-strength plywood optimized for load-bearing configurations, present in the notebook."
+    },
+    {
+      "is_number": "IS 710 : 2010",
+      "title": "Marine Plywood — Specification",
+      "category": "Allied / Sister standard",
+      "location": "Parallel CED 20 standard",
+      "relevance": "The national standard regulating high-density marine-grade plywood bonded with phenolic resin, present in the notebook."
+    },
+    {
+      "is_number": "IS 303 : 1989",
+      "title": "Specification for Plywood for General Purposes",
+      "category": "Allied / Sister standard",
+      "location": "Parallel CED 20 standard",
+      "relevance": "The national baseline plywood specification for general construction, partitioning, and carpentry, present in the notebook."
+    },
+    {
+      "is_number": "IS 2202 (Part 2) : 2022",
+      "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 2: Particle Board, HDF, MDF and Fibre Hardboard Face Panels",
+      "category": "Allied standard",
+      "location": "Parallel wood/doors standard",
+      "relevance": "Regulates solid-core flush door shutters utilizing engineered polymeric or particle board face skins, present in the notebook."
+    },
+    {
+      "is_number": "IS 2191 (Part 2) : 2022",
+      "title": "Wooden Flush Door Shutters (Cellular, Hollow and Tubular Core Type) — Specification, Part 2: Particle Board, HDF, MDF and Fibre Hardboard Face Panels",
+      "category": "Allied standard",
+      "location": "Parallel wood/doors standard",
+      "relevance": "Regulates hollow or cellular-core flush door shutters utilizing engineered face panels, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Wood Panels & Fire Safety Materials)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the statutory 'Plywood and Wooden Flush Door Shutters (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all Fire Retardant Plywood must conform to IS 5509 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified fire-retardant plywood is a criminal offense under the Bureau of Indian Standards Act, 2016. Micro and small units are granted specific delayed implementation schedules, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to processed wood panel products.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every fire-retardant plywood sheet must carry the BIS Standard Mark (ISI Mark) marked legibly, accompanied by the manufacturer's registered licence number (CM/L) and standard designation (IS 5509).",
+        "clause_reference": "Clause 14.2",
+        "page_reference": "Page 3"
+      },
+      {
+        "requirement_type": "Base Plywood BWR Compliance",
+        "detail": "In cases where fire-retardant chemical treatment is applied at the veneer stage and finally after the manufacture of the plywood, the plywood so produced must conform strictly to the BWR (Boiling Water Resistant) grade of IS 303.",
+        "clause_reference": "Clause 5.3",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Permitted Methods of Fire Retardant Treatment",
+        "detail": "Chemical treatment may be executed either by pressure impregnation after manufacture or by soaking of plywood/veneer. If veneer treatment is chosen, it must be performed using the soaking method.",
+        "clause_reference": "Clause 6.1",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Thickness Tolerances",
+        "detail": "Thickness deviations of the finished panels must satisfy strict limits: a) Less than 6 mm allows ±10 percent; b) 6 mm and above allows ±5 percent.",
+        "clause_reference": "Table 1, Sl No. iii",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Edge Straightness Controls",
+        "detail": "The straightness of edges and ends of plywood must be verified against a straight edge of at least the full length of the panel. The maximum gap (convex or concave) must not exceed 2 mm per 1 000 mm (0.2 percent).",
+        "clause_reference": "Table 1, Sl No. iv & Annex A, Clause A-1",
+        "page_reference": "Pages 2 & 4"
+      },
+      {
+        "requirement_type": "Squareness Controls",
+        "detail": "Squareness of the plywood must be checked with a 1 200 mm × 1 200 mm square by applying one arm of the square to the plywood edge and measuring the maximum gap, which must not exceed 2 mm per 1 000 mm (0.2 percent).",
+        "clause_reference": "Table 1, Sl No. v & Annex A, Clause A-2",
+        "page_reference": "Pages 2 & 4"
+      },
+      {
+        "requirement_type": "Mandatory Flammability Test",
+        "detail": "To retard rapid combustion, the panel must undergo standard flammability evaluations. The time taken for the second ignition of the specimen under standard flame exposure must be at least 30 minutes.",
+        "clause_reference": "Technical Specifications"
+      },
+      {
+        "requirement_type": "Mandatory Flame Penetration Test",
+        "detail": "To slow thermal breakthrough, the flame penetration time through the panel thickness must be not less than 15 minutes for every 6 mm of thickness.",
+        "clause_reference": "Technical Specifications"
+      },
+      {
+        "requirement_type": "Mandatory Rate of Burning Test",
+        "detail": "The time taken to lose weight from 30 percent to 70 percent under standard burning exposure must be not less than 20 minutes.",
+        "clause_reference": "Technical Specifications"
+      },
+      {
+        "requirement_type": "Cleanliness and Visual Workmanship",
+        "detail": "The finished plywood must be reasonably clean to handle and completely free of dirt and stains, other than a uniform surface color resulting from the flame-retardant chemical solution.",
+        "clause_reference": "Clause 9",
+        "page_reference": "Page 2"
+      },
+      {
+        "requirement_type": "Lot Sampling & Acceptance Scale",
+        "detail": "Lot grouping and statistical sampling must be drawn randomly in accordance with the specifications of IS 7638.",
+        "clause_reference": "Clause 10",
+        "page_reference": "Page 3"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 5509 : 2021",
+    "Fire Retardant Plywood",
+    "Flame Retardant Chemical",
+    "Flammability Test",
+    "Flame Penetration 15 min",
+    "Rate of Burning 20 min",
+    "Soaking Method",
+    "BWR Plywood",
+    "Veneer Impregnation",
+    "CED 20",
+    "Plywood QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 5509 : 2021 is the mandatory national Indian Standard specification establishing physical, chemical, and fire safety requirements for Fire Retardant Plywood. Under India's statutory Plywood Quality Control Order (QCO), all fire-retardant plywood sheets manufactured, imported, or sold in India must carry the Bureau of Indian Standards Standard Mark (ISI Mark). It outlines strict manufacturing methods (soaking or pressure impregnation of veneers or finished boards with flame-retardant chemicals) and mandates that plywood treated at the veneer stage must meet BWR moisture-proof grades of IS 303. To protect human life in high-risk zones (such as commercial kitchens, high-rise apartments, and public auditoriums), it enforces rigorous fire tests—demanding a minimum flammability ignition resistance of 30 minutes, a flame penetration delay of at least 15 minutes per 6 mm thickness, and a minimum rate of burning of 20 minutes to slow the spread of flames and buy critical evacuation time."
+  },
+  "source_information": {
+    "source_pdf_filename": "5509_2021.pdf",
+    "document_version_edition": "Third Revision, 2021"
+  }
+}
