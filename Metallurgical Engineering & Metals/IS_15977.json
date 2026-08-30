@@ -1,0 +1,170 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15977 : 2013",
+    "full_title": "Classification and Acceptance Tests for Bare Solid Wire Electrodes and Wire Flux Combination for Submerged Arc Welding of Structural Steel — Specification",
+    "sector_category": "Metallurgical Engineering / Welding General (approved by the Metallurgical Engineering Division Council and finalized by the Welding General Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "25.160.10",
+    "sectional_committee": {
+      "name": "Welding General Sectional Committee",
+      "number": "MTD 11"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements for the classification and acceptance testing of bare solid wire electrodes and wire-flux combinations used in submerged arc welding (SAW) of structural steels. It applies specifically to carbon steel and medium tensile steel weldments with tensile strength up to 700 N/mm² and sulfur/phosphorus content limited to a maximum of 0.06 percent each.",
+    "clause_number": "Clause 1.1 & Clause 19.1",
+    "page_number": "Page 1 & Page 5 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 2013 (Reviewed and Reaffirmed in 2024)",
+    "year_first_published": "2013",
+    "revision_history": [
+      {
+        "edition": "First Edition (officially formulated to merge and supersede the legacy specifications of IS 7280 : 1974 and IS 3613 : 1974)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 7280 : 1974 and IS 3613 : 1974",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1387",
+      "title": "General requirements for the supply of metallurgical materials",
+      "category": "Technical delivery standard",
+      "location": "Clause 4",
+      "relevance": "Outlines standard technical delivery conditions, supply terms, and inspection practices for solid filler wires and welding fluxes."
+    },
+    {
+      "is_number": "IS 1757",
+      "title": "Method for Charpy V-notch impact test on metallic materials",
+      "category": "Testing standard",
+      "location": "Clause 13.2.5 & 20.9.1.1",
+      "relevance": "Prescribes standard laboratory testing methods and specimen setups used to evaluate Charpy V-notch impact toughness of the deposited weld metal."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Data evaluation standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values during quality and conformity checks."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design Standard",
+      "location": "Clause 2.6.4 / Section 3",
+      "relevance": "The master structural steel design code in India, present in the notebook, which regulates on-site structural connections and dictates that bare wire electrodes for submerged arc welding must satisfy standard requirements."
+    },
+    {
+      "is_number": "IS 2062",
+      "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
+      "category": "Product Specification",
+      "location": "Allied steel grades",
+      "relevance": "The primary structural carbon steel grade standard, present in the notebook, often used as the parent metal for welding procedures and test plates."
+    },
+    {
+      "is_number": "IS 9595 : 1996",
+      "title": "Recommendation for metal arc welding of carbon and carbon manganese steels",
+      "category": "Recommended practice",
+      "location": "Clause 17.1",
+      "relevance": "Provides general guidelines and technical recommendations on structural welding procedures, referred to by the master steel design code."
+    },
+    {
+      "is_number": "IS 11812 : 1986",
+      "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
+      "category": "Recommended practice",
+      "location": "Parallel corrosion protection",
+      "relevance": "Specifies fabrication precautions and welding slag removal guidelines for galvanized steel structures, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Welding Electrodes / Consumables)",
+    "certification_status": "Voluntary Quality and Performance Specification. Unlike structural steel sections or builders hardware which are subject to mandatory Quality Control Orders (QCOs), welding electrodes and wire-flux combinations under IS 15977 are certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) on wire drums, spools, and flux bags. However, compliance with this standard is universally mandated inside public, railway, and defense structural fabrication tenders.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial tag, coil label, or bag of flux conforming to this standard may be marked with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Composition-based Wire Classification",
+        "detail": "Filler wires must be classified on the basis of their chemical composition. In the standard designation (e.g. S-X), the prefix 'S' represents a solid wire electrode.",
+        "clause_reference": "Clause 5.1 & 5.2"
+      },
+      {
+        "requirement_type": "Dimensional Tolerances on Wire Diameter",
+        "detail": "Specifies standard wire diameters: 1.6, 2.0, 2.4, 3.2, 4.0, 5.0, 6.3, and 8.0 mm. The diameter tolerance is strictly capped at ±0.05 mm.",
+        "clause_reference": "Clause 9.1 & 9.2"
+      },
+      {
+        "requirement_type": "Wire Diameter Measurement Protocol",
+        "detail": "To establish dimensional uniformity, wire diameter must be calculated as the average of six readings: two measurements taken at 90 degrees to each other at one location, repeated at three distinct locations spaced 300 mm apart.",
+        "clause_reference": "Clause 9.2.1"
+      },
+      {
+        "requirement_type": "Flux Chemistry Classification (Table 8)",
+        "detail": "Submerged arc welding fluxes are granular and classified by their chemical constituents (e.g. Symbol 'MS' denotes Manganese-Silicate flux containing MnO + SiO2 >= 50% minimum and CaO <= 15% maximum; 'CS' denotes Calcium-Silicate).",
+        "clause_reference": "Annex B & Table 8"
+      },
+      {
+        "requirement_type": "Four-Part Performance Code and Impact Symbols (Table 5)",
+        "detail": "Establishes a standardized symbol coding system defining mechanical properties. The fourth part indicates the Charpy V-notch impact testing temperature: Symbol 1 (Room temperature, approx 20°C), Symbol 2 (0 ± 1°C), Symbol 3 (-20 ± 1°C), and Symbol 4 (-40 ± 1°C).",
+        "clause_reference": "Clause 13.2.5 & Table 5"
+      },
+      {
+        "requirement_type": "Weld Defect Radiographic Limits",
+        "detail": "Deposited weld metal must undergo radiographic inspection to verify soundness prior to mechanical testing. The weld must show zero cracks, zero incomplete fusion, zero incomplete penetration, and restrict slag inclusions (no slag line longer than 8 mm or groups totaling more than 25 mm in a 300 mm length).",
+        "clause_reference": "Clause 13.4.2, 13.4.3 & 20.9.5.1.7"
+      },
+      {
+        "requirement_type": "All-Weld Metal Test Procedures",
+        "detail": "Test weld assemblies must be welded in the downhand position using a multi-run technique without post-weld heat treatment. Wire-flux combinations suitable for both AC and DC must be tested on AC.",
+        "clause_reference": "Clause 20.9.1.2 & 20.9.5.1"
+      },
+      {
+        "requirement_type": "Transverse Butt-Weld Bend Test Limits",
+        "detail": "Four transverse bend specimens (face and root bends) must be tested. The weldment satisfies the code if bent 120° over a former having a diameter equal to 3 times the specimen thickness, with zero cracks/defects exceeding 3 mm across or 1.5 mm along length.",
+        "clause_reference": "Clause 20.9.7, 20.9.14 & Clause 22.5"
+      },
+      {
+        "requirement_type": "Charpy V-Notch Impact Retest Rule",
+        "detail": "Weldments must meet specified minimum impact energy values (e.g. 47 J for T31–T34). If the average of three specimens falls slightly below the threshold (between 34 J and 40 J), three additional specimens must be tested and added to the average. If the six-specimen average meets the limit, the combination complies.",
+        "clause_reference": "Clause 22.2, 23.2 & 23.2.1"
+      },
+      {
+        "requirement_type": "Mandatory Annual Periodic Check Tests",
+        "detail": "Specified acceptance tests must be repeated at intervals not exceeding 12 months to verify continuous quality and product homogeneity.",
+        "clause_reference": "Clause 20.10"
+      },
+      {
+        "requirement_type": "Batch Traceability",
+        "detail": "The date of manufacture and production control test results of any supplied wire-flux combination must be completely traceable through its unique batch or lot number.",
+        "clause_reference": "Clause 20.12"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15977 : 2013",
+    "Submerged Arc Welding",
+    "Bare Solid Wire Electrodes",
+    "Wire Flux Combination",
+    "Chemical Composition",
+    "Charpy V-Notch",
+    "Manganese Silicate MS",
+    "Acceptance Tests",
+    "Multi Run Technique",
+    "Radiographic Examination",
+    "MTD 11",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15977 : 2013 is the national Indian Standard specification governing the classification and acceptance testing of bare solid wire electrodes and wire-flux combinations used in submerged arc welding (SAW) of structural steels. Certified on a voluntary basis under the BIS Standard Mark (ISI Mark) scheme, this code regulates standard wire dimensions (1.6 to 8.0 mm), wire chemistry, and flux composition categories (such as manganese-silicate or calcium-silicate). To ensure structural safety in heavy infrastructure (such as bridges, boilers, and high-tensile structures), the standard enforces rigorous mechanical and non-destructive quality boundaries—including multi-pass downhand test plate welding (without post-weld heat treatment), radiographic checks for micro-cracks and slag inclusions, and transverse butt-weld bend tests up to 120° alongside low-temperature Charpy V-notch impact toughness evaluations."
+  },
+  "source_information": {
+    "source_pdf_filename": "15977_2013_reaff2024.pdf",
+    "document_version_edition": "First Edition, 2013 (Reaffirmed 2024)"
+  }
+}

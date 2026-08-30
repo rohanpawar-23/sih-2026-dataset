@@ -1,0 +1,155 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15052 : 2002",
+    "full_title": "Shipbuilding — Diesel Propulsion System Responsibility — Requirements",
+    "sector_category": "Transport Engineering / Marine Engineering and Safety Aids (approved by the Transport Engineering Division Council and finalized by the Marine Engineering and Safety Aids Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "47.020.20",
+    "sectional_committee": {
+      "name": "Marine Engineering and Safety Aids Sectional Committee",
+      "number": "TED 19"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies requirements for system responsibility of marine propulsion plants comprising a diesel engine, gear box, stern gear (spelled 'stem gear' in OCR text), and its control system to ensure cohesive matching and performance of all components in diesel engine driven propulsion plants.",
+    "clause_number": "Clause 1.1 & 1.2",
+    "page_number": "Page 1"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, April 2002 (Reviewed and Reaffirmed in 2023)",
+    "year_first_published": "2002",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2002"
+      }
+    ],
+    "supersedes": "None (developed as a new dedicated national standard to regulate engineering interface boundaries in marine propulsion plants)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 3979",
+      "title": "Testing of Marine Diesel Engines for Main Propulsion and Auxiliary Drives",
+      "category": "Testing Standard",
+      "location": "Clause 3.2.1 (b)",
+      "relevance": "Provides the baseline ambient and operating reference conditions for declaring and adjusting engine brake power."
+    },
+    {
+      "is_number": "IS 10000 (Part 4)",
+      "title": "Methods of tests for internal combustion engines: Part 4 Declaration of power, efficiency, fuel consumption and lubricating oil consumption (first revision)",
+      "category": "Testing Standard",
+      "location": "Clause 3.2.1 (b)",
+      "relevance": "Establishes standard reference methods for testing, measuring, and declaring engine brake power and fuel rates."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System Standard",
+      "location": "Parallel Marine Engineering Category",
+      "relevance": "A fellow transport and marine engineering system standard present in the notebook, specifying pneumatic pressure ranges for starting and signaling air systems on-board inland waterways vessels."
+    },
+    {
+      "is_number": "IS 11294 (Part 1) : 1985",
+      "title": "Specification for Side Scuttles for Inland Vessels — Part 1: General Requirements",
+      "category": "Product Specification",
+      "location": "Parallel Marine Outfitting Category",
+      "relevance": "A fellow shipbuilding and outfitting standard present in the notebook, regulating framed portholes on hulls and superstructures."
+    },
+    {
+      "is_number": "IS 14337 : 1996",
+      "title": "Shipbuilding — Mineral Fibre Resin Bonded Slabs — Specification",
+      "category": "Product Specification",
+      "location": "Parallel Marine Thermal Insulation Category",
+      "relevance": "A fellow shipbuilding thermal insulation specification present in the notebook, regulating flat insulation slabs for ships' structures."
+    },
+    {
+      "is_number": "IS 11812 : 1986",
+      "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
+      "category": "Recommended Practice",
+      "location": "Parallel Corrosion Protection",
+      "relevance": "Specifies fabrication precautions and welding details for galvanized steel assemblies, present in the notebook."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Code of Practice",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, weld joints, and connection detailing, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "System and Performance Specification (Marine Engineering / Shipbuilding)",
+    "certification_status": "Voluntary Quality and System Performance Standard. Unlike safety-critical builders hardware or transport tyres under mandatory statutory Quality Control Orders (QCOs), propulsion system responsibility protocols under IS 15052 are certified on a voluntary basis. However, compliance with this standard is universally mandated inside Indian Navy, Coast Guard, port authorities, and commercial maritime shipbuilding and machinery procurement contracts to ensure unified technical responsibility, prevent component mismatch, and guarantee contract speed.",
+    "requirements": [
+      {
+        "requirement_type": "Propulsion System Responsibility Definition",
+        "detail": "When assumed, propulsion system responsibility warrants that the delivered horse power (DHP) sought by the ship designer is successfully delivered to the propeller. If the requisite DHP is not achieved (as noted from torsion meters) or the propeller fails to produce the contractual thrust/speed, the issue must be mutually discussed between the engine manufacturer, gear box builder, stern gear designer, and shipbuilder.",
+        "clause_reference": "Clause 4 & Foreword"
+      },
+      {
+        "requirement_type": "Continuous Brake Power",
+        "detail": "Specifies that the main engine must be capable of delivering its continuous net brake power continuously between the normal maintenance intervals stated by the manufacturer under stated test bed conditions, adjusted to standard reference conditions per IS 3979, and tested per IS 10000 (Part 4).",
+        "clause_reference": "Clause 3.1.1.1 & Clause 3.2.1"
+      },
+      {
+        "requirement_type": "Overload Power Limits",
+        "detail": "Allows the engine to deliver overload power immediately after working at continuous power under standard reference conditions. Overload power is strictly limited to 110 percent of the continuous power at a speed corresponding to engine application, for a maximum period of 1 hour without interruptions within a period of 12 hours of operation.",
+        "clause_reference": "Clause 3.1.1.2"
+      },
+      {
+        "requirement_type": "Fuel Stop Power Setting",
+        "detail": "Determines the maximum power an engine can deliver during a specified period and ambient condition, with the fuel stop adjusted and locked so that this limit cannot be exceeded.",
+        "clause_reference": "Clause 3.1.1.3"
+      },
+      {
+        "requirement_type": "Intermittent and Sprint Ratings",
+        "detail": "Specifies intermittent ratings (increased engine speed for specified durations) and sprint ratings (very short durations at slightly higher speed) for specialized high-speed or tactical marine applications.",
+        "clause_reference": "Clause 3.1.1.4 & Clause 3.1.1.5"
+      },
+      {
+        "requirement_type": "Service Power Determination",
+        "detail": "Defines service power as the actual power determined under the real-world ambient and operating conditions of a specific engine installation.",
+        "clause_reference": "Clause 3.2.2"
+      },
+      {
+        "requirement_type": "Stern Gear (Stem Gear) Component Sizing",
+        "detail": "The stern gear system must comprise the propeller shaft, intermediate shaft, coupling bolts, bushes, seals, propeller cap, and the propeller itself (fully detailing diameter, pitch, blade area, and moment of inertia).",
+        "clause_reference": "Clause 3.5 & Annex A Sl. No. 9"
+      },
+      {
+        "requirement_type": "Annex A Interface Data Exchange",
+        "detail": "Enforces a mandatory, comprehensive interface data sheet exchange across the five key stakeholders (Main Engine, Gear Box, Stern Gear, Remote Control, and Shipbuilder) specifying three-view drawings, CG and weights, torsional/axial/lateral vibration calculations, thermal expansion limits, and shaft alignment calculations.",
+        "clause_reference": "Clause 8 & Annex A Table"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15052 : 2002",
+    "Propulsion System Responsibility",
+    "Marine Diesel Engine",
+    "Delivered Horse Power DHP",
+    "Overload Power",
+    "Stern Gear",
+    "Controllable Pitch Propeller CPP",
+    "Torsional Vibration",
+    "Shaft Alignment",
+    "TED 19"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15052 : 2002 is the national Indian Standard specification governing diesel propulsion system responsibility in shipbuilding. Designed as a system engineering framework, it coordinates the technical interfaces between the main engine, gear box, stern gear, remote control system, and the shipbuilder. Its primary purpose is to ensure that the delivered horse power (DHP) specified by the naval architect is successfully transferred to the propeller to meet the ship's contractual speed. It establishes strict definitions for engine power ratings (continuous, overload, fuel stop, and service power) and enforces a detailed interface data-sheet exchange detailing weights, CG, torsional/lateral vibrations, and shaft alignment calculations to prevent machinery mismatches or structural failures in marine propulsion plants."
+  },
+  "source_information": {
+    "source_pdf_filename": "15052_2002_reaff2023.pdf",
+    "document_version_edition": "First Edition, April 2002 (Reaffirmed 2023)"
+  }
+}

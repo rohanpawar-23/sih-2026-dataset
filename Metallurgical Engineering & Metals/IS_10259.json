@@ -1,0 +1,210 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10259 : 1982",
+    "full_title": "General Conditions for Delivery and Inspection of Aluminium and Aluminium Alloy Products",
+    "sector_category": "Metallurgical Engineering / Light Metals and their Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Light Metals and Their Alloys Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "77.150.10",
+    "sectional_committee": {
+      "name": "Light Metals and Their Alloys Sectional Committee",
+      "number": "MTD 07"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the general requirements, administrative guidelines, sampling scales, mechanical/chemical testing regimes, defect criteria, tolerances, and packaging protocols that govern the supply, delivery, and quality inspection of all wrought and cast aluminium and aluminium alloy products (such as sheets, plates, coils, strips, bars, rods, profiles, tubes, wires, forgings, and castings). It serves as the master technical delivery and compliance framework wrapped around individual product specifications.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1982 (incorporating Amendment No. 1, March 2022; Reviewed and Reaffirmed in 2025)",
+    "year_first_published": "1982",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1982"
+      }
+    ],
+    "supersedes": "N/A (Developed as a new dedicated master delivery and inspection standard to unify testing, sampling, packaging, and retesting protocols for light metals in India)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1",
+        "date": "March 2022",
+        "description": "Amends sampling criteria, aligns technical inspection terms with contemporary international standards, and updates references to standard chemical and mechanical testing codes."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1387",
+      "title": "General requirements for the supply of metallurgical materials",
+      "category": "Technical delivery standard",
+      "location": "Clause 4",
+      "relevance": "Outlines standard administrative, manufacturing, sampling, and shipment conditions for Supplied metallurgical items."
+    },
+    {
+      "is_number": "IS 504 (all parts)",
+      "title": "Methods of chemical analysis of aluminium and its alloys",
+      "category": "Chemical testing standard",
+      "location": "Clause 5.3",
+      "relevance": "Provides wet chemical and instrumental referee methods to determine the exact elemental composition and alloy purity."
+    },
+    {
+      "is_number": "IS 1608 (Part 1)",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Mechanical testing standard",
+      "location": "Clause 6",
+      "relevance": "Specifies standard room-temperature tensile test setups used to evaluate ultimate tensile strength, yield strength, and elongation."
+    },
+    {
+      "is_number": "IS 1500 (Part 1)",
+      "title": "Metallic materials — Brinell hardness test — Part 1: Test method",
+      "category": "Mechanical testing standard",
+      "location": "Clause 6",
+      "relevance": "Provides testing protocols for measuring brinell hardness of finished aluminium and alloy products."
+    },
+    {
+      "is_number": "IS 1599",
+      "title": "Metallic materials — Bend test",
+      "category": "Mechanical testing standard",
+      "location": "Clause 6",
+      "relevance": "Prescribes standard methods for bending wrought plates or sheets to verify ductility and crack resistance."
+    },
+    {
+      "is_number": "IS 2328",
+      "title": "Metallic materials — Tube — Flattening test",
+      "category": "Mechanical testing standard",
+      "location": "Clause 6",
+      "relevance": "Specifies flattening test configurations used to evaluate the ductility and joint-welding security of alloy tubes."
+    },
+    {
+      "is_number": "IS 2479",
+      "title": "Colour code for identification of aluminium and aluminium alloys for general engineering purposes",
+      "category": "Product marking standard",
+      "location": "Clause 13",
+      "relevance": "Standardises colour striping systems painted on sheets, bars, or castings to designate distinct alloy families."
+    },
+    {
+      "is_number": "IS 3658",
+      "title": "Code of practice for liquid penetrant flaw detection",
+      "category": "Non-destructive testing standard",
+      "location": "Clause 7",
+      "relevance": "Outlines liquid dye penetrant inspection methods to detect cracks and porous defects in castings."
+    },
+    {
+      "is_number": "IS 5047 (Part 1)",
+      "title": "Glossary of terms relating to aluminium and aluminium alloys: Part 1 Unwrought and wrought metals",
+      "category": "Terminology standard",
+      "location": "Clause 3",
+      "relevance": "Standardizes structural terminology, distinguishing sheets, strips, coils, bars, and rods."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Data evaluation standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of calculated or observed testing figures to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1254 : 2025",
+      "title": "Corrugated Aluminium Sheet — Specification",
+      "category": "Product Specification",
+      "location": "Clause 9, 11 & 12",
+      "relevance": "The national standard regulating corrugated aluminium structural sheets. It explicitly mandates that rejection, retesting, and packaging clauses shall apply in accordance with IS 10259.",
+      "citations": "[1]"
+    },
+    {
+      "is_number": "IS 737 : 2024",
+      "title": "Wrought Aluminium and Aluminium Alloy Sheet and Strip for General Engineering Purposes — Specification",
+      "category": "Product Specification",
+      "location": "Clause 12 & 13",
+      "relevance": "The master wrought aluminium plate/strip standard, which delegates all retesting protocols and packaging rules directly to IS 10259."
+    },
+    {
+      "is_number": "IS 617 : 2024",
+      "title": "Aluminium and Aluminium Alloy Ingots and Castings for General Engineering Purposes — Specification",
+      "category": "Product Specification",
+      "location": "Clause 4 & 10",
+      "relevance": "The master casting standard, which dictates that general supply, inspection, and batch delivery conditions must satisfy IS 10259."
+    },
+    {
+      "is_number": "IS 1950 : 1997",
+      "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods and Sections for Structural Purposes — Specification",
+      "category": "Product Specification",
+      "location": "Clause 4 & 12",
+      "relevance": "Governs structural aluminium bars, rods, and extruded shapes, specifying that general technical supply and testing conditions shall be wrapped under IS 10259."
+    },
+    {
+      "is_number": "IS 15392 : 2003",
+      "title": "Aluminium and Aluminium Alloy Bare Foil for Food Packaging — Specification",
+      "category": "Product Specification",
+      "location": "Clause 4 & 9",
+      "relevance": "Specifies bare aluminium foil rolls, explicitly relying on IS 10259 for general conditions of inspection, testing, and delivery."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Technical Delivery & Inspection Code (General Metallurgical Guidelines)",
+    "certification_status": "Master Administrative Reference Framework. IS 10259 is not a primary product certification standard (not directly certified under a separate voluntary or mandatory license) but rather serves as the mandatory technical delivery, sampling, and inspection code referenced by downstream product standards. Any manufacturer producing aluminium corrugated sheets, wrought plates, or castings under mandatory or voluntary BIS Standard Mark (ISI Mark) schemes (such as IS 1254, IS 737, or IS 617) must perform routine quality control, sampling, batch selection, defect reviews, retesting, and rust-proof packaging in strict accordance with IS 10259. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Technical Delivery Integration",
+        "detail": "General requirements relating to the supply, inspection, and verification of chemical/mechanical parameters of aluminium products must conform to the master framework of IS 10259.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Freedom from Surface Defects",
+        "detail": "Products must be smooth, clean, and completely free from harmful surface defects such as cracks, severe draw lines, lamination slivers, edge splitting, pitting, corrosion scale, or foreign inclusions that would compromise structural ductility or load capacity.",
+        "clause_reference": "Clause 7"
+      },
+      {
+        "requirement_type": "Robust Double-Retest Protocol",
+        "detail": "If any primary test specimen fails to meet chemical or mechanical properties during quality auditing, a strict retest protocol applies: a) Two additional test samples must be selected at random from the same lot; b) If both retests conform, the entire lot is deemed to have passed; c) If either retest specimen fails, the entire lot represented shall be rejected.",
+        "clause_reference": "Clause 12"
+      },
+      {
+        "requirement_type": "Batch Sampling Scales",
+        "detail": "Materials of the same alloy designation, size, nominal thickness, and temper condition must be grouped together into a single control unit or lot (defined as up to 300 tubes, 1000 kg, or as specified by product codes) for statistical testing, ensuring traceable representation.",
+        "clause_reference": "Clause 10 / Sampling Guidelines"
+      },
+      {
+        "requirement_type": "Chemical Composition Verification",
+        "detail": "Samples must be prepared and analyzed per IS 504 parts or equivalent instrumental techniques (such as Spark Optical Emission Spectroscopy) to verify that heavy metals and alloy concentrations stay within specification boundaries.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Moisture-Proof Corrosion Protective Packaging",
+        "detail": "Packaging methods must ensure full protection of the polished or rolled aluminium surfaces. The packing mode must prevent mechanical bending or denting and completely isolate the metals from moisture ingress to eliminate transit water staining or white rust corrosion.",
+        "clause_reference": "Clause 11"
+      },
+      {
+        "requirement_type": "Suitability of Tempers",
+        "detail": "All mechanical checks must be evaluated in the exact delivery temper or condition requested by the purchaser (such as O - Annealed, H14 - Half-hard, or T6 - Solution Treated and Artificially Aged) per IS 5052 temper designations.",
+        "clause_reference": "Clause 8"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10259 : 1982",
+    "General Conditions of Delivery",
+    "Aluminium Products",
+    "Aluminium Alloys",
+    "Inspection Code",
+    "Retest Protocol",
+    "Double Retest",
+    "Surface Defects",
+    "Moisture Proof Packaging",
+    "Sampling scale",
+    "Chemical Analysis IS 504",
+    "Tensile Testing IS 1608",
+    "MTD 07",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10259 : 1982 (Reaffirmed 2025) is the master administrative and quality control Indian Standard governing the general conditions of delivery and inspection for all aluminium and aluminium alloy products (including sheets, strips, coils, bars, tubes, forgings, and castings). Rather than specifying a single product, it acts as a universal engineering 'wrapper' referenced by almost all downstream aluminium product standards (such as IS 1254 for corrugated sheets and IS 737 for plates). The standard regulates how batches of aluminium products are grouped into lots, how test specimens are sampled for chemical analysis (IS 504) and mechanical testing (such as tensile, bend, or hardness checks), and defines visual surface defect limits. Most importantly, it enforces a strict double-retest rule: if any initial sample fails, two more must be tested from the same batch. If either retest fails, the entire lot is rejected. Additionally, it mandates moisture-proof protective packaging to prevent water staining, white rust, or mechanical denting during transit and warehouse storage."
+  },
+  "source_information": {
+    "source_pdf_filename": "1254_2025.pdf",
+    "document_version_edition": "First Edition, 1982 (Reaffirmed 2025)"
+  }
+}

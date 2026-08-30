@@ -1,0 +1,193 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1884 : 1993",
+    "full_title": "Automotive Vehicles — Electric Horns — Specification (Third Revision)",
+    "sector_category": "Transport Engineering / Automotive Electrical Equipment (approved by the Transport Engineering Division Council and finalized by the Automotive Electrical Equipment Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "43.040.10",
+    "sectional_committee": {
+      "name": "Automotive Electrical Equipment Sectional Committee",
+      "number": "TED 11"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the mechanical, electrical, and acoustical requirements, as well as methods of tests for 6 V, 12 V, 24 V, and 48 V electric horns for use in motor vehicles, including those intended for two and three wheelers.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard / Amendment No. 4"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, 1993 (reaffirmed in 2026, incorporating Amendment No. 1, 2, 3, and Amendment No. 4, February 2026)",
+    "year_first_published": "1961",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1961"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "1981"
+      },
+      {
+        "edition": "Third Revision",
+        "year": "1993"
+      }
+    ],
+    "supersedes": "IS 1884 (Part 1) : 1981 and IS 1884 (Part 2) : 1981",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 4",
+        "date": "February 2026",
+        "description": "Substitutes Clause 1 to expand the scope to cover 48 V electric horns, updates terminal testing voltage limits, restricts maximum connecting leads electrical resistance, and replaces legacy IS 9000 environmental test methods with contemporary IS/IEC 60068 standards."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 15575 (1) and (2)",
+      "title": "Automotive Vehicles — Symbols for Controls, Indicators and Tell-Tales",
+      "category": "Product standard",
+      "location": "Clause 8.6.5",
+      "relevance": "Provides standardized symbols for driver-alerting indicators, substituted for the legacy IS 9779 standard."
+    },
+    {
+      "is_number": "IS/IEC 60068-2-17",
+      "title": "Environmental testing — Part 2-17: Tests — Test Q: Sealing",
+      "category": "Testing standard",
+      "location": "Clause 8.15.1",
+      "relevance": "Specifies sealing and leakage test procedures, substituted for the legacy IS 9000 (Part 15/Sec 7) standard."
+    },
+    {
+      "is_number": "IS/IEC 60068-2-2",
+      "title": "Environmental testing — Part 2-2: Tests — Test B: Dry heat",
+      "category": "Testing standard",
+      "location": "Clause 8.16.1",
+      "relevance": "Prescribes dry heat conditioning test methods, substituted for the legacy IS 9000 (Part 3/Sec 1) standard."
+    },
+    {
+      "is_number": "IS/IEC 60068-2-1",
+      "title": "Environmental testing — Part 2-1: Tests — Test A: Cold",
+      "category": "Testing standard",
+      "location": "Clause 8.16.2",
+      "relevance": "Outlines low-temperature exposure testing configurations, substituted for the legacy IS 9000 (Part 2/Sec 1 to 4) standard."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Foreword",
+      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15796 : 2008",
+      "title": "Automotive Vehicles — Horn Installation Requirements",
+      "category": "Installation Standard",
+      "location": "TED 11 Parallel Category",
+      "relevance": "Direct companion standard regulating on-vehicle installation of horns, requiring that any fitted horn comply with IS 1884."
+    },
+    {
+      "is_number": "IS 3028 (all parts)",
+      "title": "Automotive Vehicles — Noise Emitted by Moving Vehicles — Specification and Method of Measurement",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies pass-by noise limits for moving road vehicles under Central Motor Vehicles Rules (CMVR)."
+    },
+    {
+      "is_number": "IS 12222 : 2011",
+      "title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow CMVR homologation standard present in the notebook, specifying steering pad geometry and turning clearances."
+    },
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport and fluid engineering auxiliary system standard present in the notebook, specifying pneumatic pressure ranges."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in this notebook, regulating steel construction and heavy structural framing, which interface with heavy transport systems."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Performance Specification / Homologation Code (Acoustic Signaling)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under Rule 119 of the Central Motor Vehicles Rules (CMVR), 1989, all electric horns fitted on motor vehicles, agricultural tractors, combine harvesters, and alternate fuel/battery vehicles must conform to IS 1884:1993 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified electric horns in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every certified horn must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) legibly engraved or printed on the shell."
+      },
+      {
+        "requirement_type": "Expanded Voltage Scope",
+        "detail": "Specifies starting, mechanical, electrical, and acoustical limits for electric horns powered by standard direct current electrical systems rated at 6 V, 12 V, 24 V, and 48 V.",
+        "clause_reference": "Clause 1"
+      },
+      {
+        "requirement_type": "Connecting Leads Resistance Limits",
+        "detail": "To prevent excessive voltage drops and maintain stable sound output, the electrical resistance of the connecting leads (excluding any switch contact in the circuit) must not exceed: a) 0.05 ohm for 6 V; b) 0.10 ohm for 12 V; c) 0.20 ohm for 24 V; and d) 0.40 ohm for 48 V.",
+        "clause_reference": "Page 1 / Amendment No. 4"
+      },
+      {
+        "requirement_type": "Acoustical Performance and Sound Pressure Limits",
+        "detail": "When tested on an open site or in an anechoic chamber at a distance of 2 meters, the sound pressure level (A-weighted) must range between 105 dB(A) and 115 dB(A) for passenger/commercial vehicles (Roots Megasonic: 120 ± 5 dB(A), Uno Minda: 105-110 dB(A)), while remaining within legal RTO and CMVR limits."
+      },
+      {
+        "requirement_type": "Rigorous Terminal Test Voltages",
+        "detail": "During electrical and acoustical evaluations, the test voltage measured directly at the horn terminals must be maintained precisely at: a) 6.5 ± 0.2 V for 6 V horns; b) 13.0 ± 0.3 V for 12 V horns; c) 26.0 ± 0.5 V for 24 V horns; and d) 52.0 ± 1.0 V for 48 V horns.",
+        "clause_reference": "Clause 8.8.2 / Amendment No. 4"
+      },
+      {
+        "requirement_type": "Updated Sealing/Leakage Testing (Ingress Protection)",
+        "detail": "Every horn must pass updated ingress protection and sealing tests per IS/IEC 60068-2-17 to verify that the solenoid coils and tungsten contact assemblies are fully waterproof.",
+        "clause_reference": "Clause 8.15.1 / Amendment No. 4"
+      },
+      {
+        "requirement_type": "Updated Dry Heat Conditioning",
+        "detail": "Prior to mechanical testing, horns must undergo dry heat conditioning in accordance with IS/IEC 60068-2-2 to ensure thermal stability and prevent materials (such as bobbin plastic) from melting under engine bay heat.",
+        "clause_reference": "Clause 8.16.1 / Amendment No. 4"
+      },
+      {
+        "requirement_type": "Updated Cold Temperature Exposure",
+        "detail": "Horns must survive extreme sub-zero environment exposures per IS/IEC 60068-2-1 without developing mechanical stiffness, spring fracturing, or sound damping.",
+        "clause_reference": "Clause 8.16.2 / Amendment No. 4"
+      },
+      {
+        "requirement_type": "Acoustic Signaling Symbols",
+        "detail": "The symbols, controls, and indicators associated with the horn must comply with the requirements of IS 15575 (1) and (2).",
+        "clause_reference": "Clause 8.6.5 / Amendment No. 4"
+      },
+      {
+        "requirement_type": "Ultra-Durable Endurance Mission Life",
+        "detail": "Electro-mechanical horns must be designed for a minimum endurance mission life of 100,000 cycles (continuous beep-rest intervals) under Indian standards, with modern high-durability variants tested up to 300,000 cycles without structural fatigue or contact wear."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1884 : 1993",
+    "Electric Horns",
+    "Automotive Horns",
+    "Sound Pressure Level",
+    "Decibel limits",
+    "Endurance Test",
+    "Terminal Voltage",
+    "Leads Resistance",
+    "Tungsten Contacts",
+    "Waterproof Horn",
+    "TED 11",
+    "CMVR Rule 119",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1884 : 1993 (incorporating Amendment No. 4, February 2026) is the mandatory national Indian Standard specification governing the mechanical, electrical, and acoustical requirements of electric horns for motor vehicles, including two-wheelers, three-wheelers, passenger cars, commercial vehicles, and electric carts. Under India's statutory Central Motor Vehicles Rules (CMVR), all such horns must bear the BIS Standard Mark (ISI Mark) to certify their audio warning effectiveness and high-durability design. The standard regulates standard voltages (6 V, 12 V, 24 V, and 48 V), limits terminal-connection wire resistance, defines precise stroboscopic-type acoustic testing voltages, and enforces strict sound-pressure levels (typically between 105 to 115 decibels) and severe environmental resistance tests (dry heat, cold, and sealing per IS/IEC 60068) alongside a mandatory 100,000-cycle endurance mission life to guarantee continuous road-safety alert performance."
+  },
+  "source_information": {
+    "source_pdf_filename": "1884_amd4.pdf",
+    "document_version_edition": "Third Revision, 1993 (incorporating Amendment No. 4, February 2026)"
+  }
+}

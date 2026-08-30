@@ -1,0 +1,166 @@
+{
+  "basic_identification": {
+    "is_number": "IS 14272 : 2011",
+    "full_title": "Automotive Vehicles — Types — Terminology (First Revision)",
+    "sector_category": "Transport Engineering / Automotive Body, Chassis, Accessories and Garage Equipment (approved by the Transport Engineering Division Council and finalized by the Automotive Body, Chassis, Accessories and Garage Equipment Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "01.040.43; 43.020",
+    "sectional_committee": {
+      "name": "Automotive Body, Chassis, Accessories and Garage Equipment Sectional Committee",
+      "number": "TED 06"
+    }
+  },
+  "scope": {
+    "summary": "This standard defines terms, classifications, and nomenclature relating to various types of power-driven road vehicles (including two-wheelers, three-wheelers, passenger cars, commercial vehicles, and quadricycles) and their trailers, establishing a standardized baseline for whole-vehicle type approval, registration, and Central Motor Vehicles Rules (CMVR) compliance across India.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, May 2011 (Reaffirmed in 2025, incorporating Amendment No. 1 and Amendment No. 2, 2016)",
+    "year_first_published": "1995",
+    "revision_history": [
+      {
+        "edition": "First Edition (published as IS 14272 (Part 1) : 1995 covering three and four wheelers)",
+        "year": "1995"
+      },
+      {
+        "edition": "First Revision (reorganized to consolidate definitions for all vehicle categories L, M, N, and T into a single unified standard, replacing AIS-053:2005)",
+        "year": "2011"
+      }
+    ],
+    "supersedes": "IS 14272 (Part 1) : 1995 and AIS-053 : 2005",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "2016",
+        "description": "Aligns the terminology, bodywork types (Annex A), and definitions with updated Central Motor Vehicles Rules (CMVR) and international UNECE vehicle type approval regulations."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 9211 : 2003",
+      "title": "Terms and definitions of weights of road vehicles other than 2 and 3 wheelers",
+      "category": "Terminology standard",
+      "location": "Clause 2",
+      "relevance": "Provides baseline definitions for unladen weight, kerb weight, and gross vehicle weight (GVW)."
+    },
+    {
+      "is_number": "IS 9435 : 1980",
+      "title": "Terms and definitions relating to dimensions of road vehicles",
+      "category": "Terminology standard",
+      "location": "Clause 2",
+      "relevance": "Provides baseline definitions for measuring overall vehicle length, width, height, and wheelbases."
+    },
+    {
+      "is_number": "IS 11422 : 2001",
+      "title": "Terms and definitions of weights of two wheeled motor vehicles",
+      "category": "Terminology standard",
+      "location": "Clause 2",
+      "relevance": "Provides unladen and laden weight definitions specifically for two-wheelers."
+    },
+    {
+      "is_number": "IS 12218 : 1987",
+      "title": "Methods of measurement of approach, departure and ramp angles of automotive vehicles",
+      "category": "Testing standard",
+      "location": "Clause 2",
+      "relevance": "Defines geometric clearance angles critical for the classification of off-road (G category) vehicles."
+    },
+    {
+      "is_number": "ISO 3833 : 1977",
+      "title": "Road Vehicles — Types — Terms and definitions",
+      "category": "International Reference",
+      "location": "Foreword",
+      "relevance": "Identical international reference standard from which considerable assistance was derived during the revision of IS 14272."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15636 : 2022",
+      "title": "Pneumatic Tyres for Commercial Vehicles — Diagonal and Radial Ply — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Governs tyres for M2, M3, N, T3, and T4 vehicles, explicitly relying on the vehicle category definitions established in IS 14272."
+    },
+    {
+      "is_number": "IS 13154 : 2015",
+      "title": "Automotive Vehicles — Tyres for Agricultural Vehicles and Their Trailers — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates agricultural vehicle tyres, explicitly citing IS 14272 for vehicle terminology."
+    },
+    {
+      "is_number": "IS 1884 : 1993",
+      "title": "Automotive Vehicles — Electric Horns — Specification",
+      "category": "Product standard",
+      "location": "Notebook Co-source",
+      "relevance": "Defines the test voltages and decibel limits for horn signaling systems mapped to vehicle categories L, M, and N."
+    },
+    {
+      "is_number": "IS 12222 : 2011",
+      "title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow CMVR homologation standard regulating turning clearances based on IS 14272 vehicle lengths."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in this notebook, regulating steel construction, supporting frames, and connections."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural and Classification Specification (Automotive Homologation / Vehicle Testing)",
+    "certification_status": "Strict Statutory Mandatory Code. Under Rule 2 of the Central Motor Vehicles Rules (CMVR), 1989, all motor vehicles and trailers manufactured or registered in India must be classified and type-approved in accordance with the vehicle categories defined in IS 14272:2011 (which officially replaced the legacy industry code AIS-053:2005). Successful compliance is certified by authorized testing agencies (such as ARAI, GARC, and ICAT) via a Type Approval Certificate. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Category L: Motor Vehicles with Less Than Four Wheels and Quadricycles",
+        "detail": "Classifies all light two-wheelers, three-wheelers, and quadricycles:\n- L1: Two-wheelers with maximum design speed <= 50 km/h (displacement <= 50 cc for thermal or <= 4 kW for electric engines);\n- L2: Three-wheelers with maximum design speed <= 50 km/h (displacement <= 50 cc or <= 4 kW);\n- L3: Two-wheeled motorcycles with speed > 50 km/h (displacement > 50 cc);\n- L4: Motorcycles with an asymmetrical sidecar, speed > 50 km/h;\n- L5: Symmetrically arranged three-wheelers (auto-rickshaws), speed > 50 km/h. Subdivided into L5-M (Passenger Carrier) and L5-N (Goods Carrier);\n- L6: Light quadricycles with unladen mass <= 350 kg, speed <= 45 km/h, max power <= 4 kW;\n- L7: Heavy quadricycles with unladen mass <= 400 kg (or <= 550 kg for goods transport), max speed <= 45 km/h, max continuous power <= 15 kW."
+      },
+      {
+        "requirement_type": "Category M: Passenger Transport Vehicles with At Least Four Wheels",
+        "detail": "Classifies all four-wheeled motor vehicles designed and constructed for carrying passengers:\n- M1: Vehicles comprising not more than 8 seats in addition to the driver's seat (passenger cars);\n- M2: Vehicles comprising 9 or more seats in addition to the driver's seat, with a Gross Vehicle Weight (GVW) not exceeding 5 tonnes;\n- M3: Vehicles comprising 9 or more seats in addition to the driver's seat, with a Gross Vehicle Weight (GVW) exceeding 5 tonnes (commercial buses)."
+      },
+      {
+        "requirement_type": "Category N: Goods Transport Vehicles with At Least Four Wheels",
+        "detail": "Classifies all four-wheeled motor vehicles designed and constructed for carrying goods:\n- N1: Vehicles used for the carriage of goods, having a Gross Vehicle Weight (GVW) not exceeding 3.5 tonnes;\n- N2: Vehicles used for the carriage of goods, having a Gross Vehicle Weight (GVW) exceeding 3.5 tonnes but not exceeding 12 tonnes;\n- N3: Vehicles used for the carriage of goods, having a Gross Vehicle Weight (GVW) exceeding 12 tonnes."
+      },
+      {
+        "requirement_type": "Category T: Towed Trailers and Semi-Trailers (India-Specific CMVR Deviation)",
+        "detail": "Under India-specific CMVR and AIS alignment, towed trailers are designated as Category T (as opposed to Category O internationally):\n- T1: Trailers and semi-trailers having a maximum weight not exceeding 0.75 tonnes;\n- T2: Trailers and semi-trailers having a maximum weight exceeding 0.75 tonnes but not exceeding 3.5 tonnes;\n- T3: Trailers and semi-trailers having a maximum weight exceeding 3.5 tonnes but not exceeding 10 tonnes;\n- T4: Trailers and semi-trailers having a maximum weight exceeding 10 tonnes;\n- T5: Semi-trailers intended to be drawn by a three-wheeled haulage tractor."
+      },
+      {
+        "requirement_type": "Category G: Off-Road Vehicles (Additional Classification)",
+        "detail": "Applies an additional 'G' suffix designation to M or N vehicles that satisfy strict geometric off-road requirements (such as minimum approach, departure, and ramp breakover angles, ground clearances under axles, and all-wheel drive capabilities) per IS 12218."
+      },
+      {
+        "requirement_type": "Annex A Bodywork Classifications (Amendment No. 2)",
+        "detail": "Specifies definitions for the type of bodywork for passenger cars of Category M1 (comprising Saloon, Hatchback, Station Wagon, Coupe, Convertible, and Multi-purpose vehicles) to standardize registration."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 14272 : 2011",
+    "Automotive Vehicles",
+    "Vehicle Classification",
+    "Types Terminology",
+    "Category L",
+    "Category M",
+    "Category N",
+    "Category T",
+    "Quadricycle L7",
+    "Auto-Rickshaw L5",
+    "CMVR Rule 2",
+    "Homologation",
+    "TED 06"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 14272 : 2011 (Reaffirmed 2025) is the mandatory national Indian Standard specification establishing the official classification system, terminology, and nomenclature for all road-going motor vehicles and trailers in India. Developed by the Sectional Committee on Automotive Body and Chassis (TED 06) and officially incorporated into Rule 2 of the Central Motor Vehicles Rules (CMVR), 1989, this first revision consolidated and replaced the previous standard IS 14272 (Part 1) and the industry standard AIS-053. It defines the technical boundaries for four-wheeled passenger transport (M1, M2, M3), goods transport (N1, N2, N3), less-than-four-wheelers/quadricycles (L1 to L7), and towed trailers/semi-trailers (T1 to T5), ensuring a standardized, legally binding framework for whole-vehicle type approval, registration, and emissions compliance."
+  },
+  "source_information": {
+    "source_pdf_filename": "14272a4.pdf (referred to via metadata and related codes)",
+    "document_version_edition": "First Revision, May 2011 (Reaffirmed 2025)"
+  }
+}

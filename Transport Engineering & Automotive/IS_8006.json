@@ -1,0 +1,177 @@
+{
+  "basic_identification": {
+    "is_number": "IS 8006 : 1988",
+    "full_title": "Recommendations for Handling of Timber Pallets (First Revision)",
+    "sector_category": "Transport Engineering / Transport Packaging and Pallets (approved by the Marine, Cargo Movement and Packaging Division Council and finalized by the Transport Packages Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "55.180.20; 55.180.40",
+    "sectional_committee": {
+      "name": "Transport Packaging and Pallets Sectional Committee",
+      "number": "TED 24"
+    }
+  },
+  "scope": {
+    "summary": "This standard recommends the procedures and safety guidelines to be followed in the safe handling, loading, transporting, and storing of timber pallets used in materials handling, freight, and logistics networks.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, February 1988 (Reaffirmed 2003, and Reviewed & Reaffirmed in 2024)",
+    "year_first_published": "1976",
+    "revision_history": [
+      {
+        "edition": "First Edition (published as IS 8006 : 1976 under the title 'Recommendations for Handling of Wooden Pallets')",
+        "year": "1976"
+      },
+      {
+        "edition": "First Revision (reorganized and retitled as 'Recommendations for Handling of Timber Pallets' to align with revised pallet standardizations, terminology, and handling gear developments)",
+        "year": "1988"
+      }
+    ],
+    "supersedes": "IS 8006 : 1976",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this first revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 3971 : 1976",
+      "title": "Glossary of terms on flat pallets (first revision)",
+      "category": "Terminology standard",
+      "location": "Clause 2.1",
+      "relevance": "Establishes baseline definitions, classifications, and nomenclature for flat pallets and material handling equipment."
+    },
+    {
+      "is_number": "IS 4300 : 1967",
+      "title": "Specification for box pallets for through transit of goods",
+      "category": "Product standard",
+      "location": "Clause 3.1",
+      "relevance": "Provides design and dimensional specifications of box pallets compatible with standard timber pallet handling gear."
+    },
+    {
+      "is_number": "IS 7276 : 1979",
+      "title": "Specification for non-expendable general purpose, flat pallets for through transit of goods (first revision)",
+      "category": "Product standard",
+      "location": "Clause 3.1",
+      "relevance": "Defines materials, construction details, and load capacities of heavy-duty, reusable flat pallets."
+    },
+    {
+      "is_number": "IS 9340 : 1979",
+      "title": "Specification for expendable pallets",
+      "category": "Product standard",
+      "location": "Clause 3.1",
+      "relevance": "Specifies quality, design, and light-duty material requirements for single-use or expendable shipping pallets."
+    },
+    {
+      "is_number": "IS 5 : 1978",
+      "title": "Colours for ready mixed paints and enamels (third revision)",
+      "category": "Color standard",
+      "location": "Clause 7.4",
+      "relevance": "Specifies standard Post-Office Red paint (Color No. 538) used to paint top corners of damaged pallets for isolation."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Data Evaluation Standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 7030 : 1988",
+      "title": "Identification of parts for complete, filled transport packages when testing",
+      "category": "Testing standard",
+      "location": "Parallel Transport Packaging Category",
+      "relevance": "A sister packaging standard present in the notebook, specifying mapping rules for transport boxes, sacks, and containers."
+    },
+    {
+      "is_number": "IS 13154 : 2015",
+      "title": "Automotive Vehicles — Tyres for Agricultural Vehicles and Their Trailers — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport and material system standard present in the notebook, specifying agricultural tire sizes and ply ratings."
+    },
+    {
+      "is_number": "IS 12222 : 2011",
+      "title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport engineering standard present in the notebook, specifying steering pad geometries."
+    },
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport engineering system standard present in the notebook, defining starting and compressed air pressure series."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in this notebook, regulating support framing, warehouse structures, and connections."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Recommendations (Transport Packaging / Material Handling)",
+    "certification_status": "Voluntary Code of Practice and Handling Recommendations. Since IS 8006:1988 is a procedural guideline and recommendation standard rather than a direct manufacturing product specification, it does not carry a separate mandatory BIS license or ISI certification mark. However, its guidelines—including fork insertion limits, surface gradient thresholds, sling lifting angles, and paint marking colors—are universally incorporated in national warehouse training manuals, dock safety rules, public logistics tenders, and occupational safety (OHSAS) protocols in major transport terminals to prevent cargo damage and workplace accidents.",
+    "requirements": [
+      {
+        "requirement_type": "Storage Surface Gradients",
+        "detail": "Pallets must be placed on firm, level surfaces with a maximum gradient of 1 percent. The surface must remain completely clear of obstructions and projections that could damage the lower deck of the timber pallet.",
+        "clause_reference": "Clause 4.4"
+      },
+      {
+        "requirement_type": "Forks Length Overhang Controls",
+        "detail": "If the handling truck's forks are longer than the narrow dimension of the pallet, a suitable, retractable pallet stop must be fitted to the fork carriage to handle a single pallet safely, preventing the fork tips from protruding beyond the pallet.",
+        "clause_reference": "Clause 4.5"
+      },
+      {
+        "requirement_type": "Fork Entry and Depth Limits",
+        "detail": "Handling equipment forks must be inserted horizontally into the designated space beneath the pallet. Forks must extend into the pallet to a distance of at least 75 percent of the dimension parallel to the fork, but must not protrude from the opposite side.",
+        "clause_reference": "Clause 4.3 & Clause 4.6"
+      },
+      {
+        "requirement_type": "Derrick or Crane Sling Lifting",
+        "detail": "When loaded pallets are lifted by crane or derrick (e.g., shipboard transfer), flat slings of minimum 30 mm width must be used under the deck board for 4-way pallets, or step slings for offshore/wing pallets. Slings must be sufficiently long and attached to the pallet at a precise 60° angle to prevent slanting.",
+        "clause_reference": "Clause 6.2, Clause 6.3 & Clause 6.4"
+      },
+      {
+        "requirement_type": "Damaged Pallet Red Paint Isolation",
+        "detail": "Pallets must be inspected on delivery when loaded. Damaged pallets must be isolated immediately and marked at diagonally opposite vertical sides of the top corners using standard Post-Office Red paint (Color No. 538 of IS : 5-1978). The isolation mark must be exactly 100 x 100 mm in size.",
+        "clause_reference": "Clause 7.4 & Fig. 1"
+      },
+      {
+        "requirement_type": "Uniform Loading and Stability",
+        "detail": "Merchandise must be loaded in designed patterns to optimize stability, ensuring heavier packages are placed at the bottom and the top is levelled off. Bag cargo for export must be vacuum-packed with side bag walls to provide a flat top surface and prevent loosening during transport.",
+        "clause_reference": "Clause 3.2, Clause 3.3 & Clause 3.4"
+      },
+      {
+        "requirement_type": "Forklift Driving and Trail Speed",
+        "detail": "Pallets must never be pushed or dragged with truck forks. The operator must raise and lower pallets carefully, avoid driving collisions, fully lower and immobilize forks before leaving the truck, and trail the load rather than pushing it.",
+        "clause_reference": "Clause 4.2, Clause 4.7 & Clause 4.9"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 8006 : 1988",
+    "Timber Pallets",
+    "Material Handling",
+    "Forklift Handling",
+    "Pallet Truck",
+    "Forks Insertion",
+    "Flat Slings",
+    "Sling Lift Angle",
+    "Red Paint Isolation",
+    "Post-Office Red 538",
+    "Level Surface",
+    "TED 24"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 8006 : 1988 is the national Indian Standard recommending procedures and safety practices for the safe handling, loading, transporting, and storing of timber pallets. Formulated under the Transport Packaging and Pallets Sectional Committee (TED 24), this first revision establishes critical handling guidelines for forklifts, hand trucks, cranes, and slings to prevent cargo damage and occupational hazards in logistics hubs, warehouses, and marine terminals. It specifies strict rules, including a maximum 1% surface gradient for pallet storage, a 75% minimum fork insertion depth, flat slings with a minimum 30 mm width attached at a 60° angle to prevent slanting during derrick lifts, and a mandatory isolation protocol where damaged pallets are marked at diagonally opposite top corners with 100 x 100 mm Post-Office Red (Color No. 538) paint marks."
+  },
+  "source_information": {
+    "source_pdf_filename": "8006_1988_reaff2024.pdf",
+    "document_version_edition": "First Revision, February 1988 (Reaffirmed 2024)"
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10604 : Part 1 & Part 2 : 1983",
+    "full_title": "Machining Allowances and Tolerances for Open Die Steel Forgings (Part 1: Carbon and Low Alloy Steel Forgings; Part 2: High Alloy Steel Forgings)",
+    "sector_category": "Metallurgical Engineering / Alloy Steels and Forgings (finalized by the Alloy Steels and Forgings Sectional Committee under the Metallurgical Engineering Division Council of the Bureau of Indian Standards)",
+    "ics_code": "77.140.85",
+    "sectional_committee": {
+      "name": "Alloy Steels and Forgings Sectional Committee",
+      "number": "MTD 16"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the machining allowances (minimum over-metal thicknesses) and dimensional tolerances for open die steel forgings. Part 1 covers forgings manufactured from carbon and low alloy steels, while Part 2 covers forgings manufactured from high alloy steels. These values are designed to ensure that forgings contain sufficient excess metal to clean up completely during subsequent machining without leaving scale, decarburisation, or surface flaws on the finished component.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standards"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, May 1983 (Reaffirmed 2018, Reviewed and Reaffirmed in 2023)",
+    "year_first_published": "1983",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1983"
+      }
+    ],
+    "supersedes": "N/A (Developed as a new dedicated national standard to regulate allowances and dimensional tolerances for free/open-die forgings in India)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on these parts."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1387 : 1993",
+      "title": "General requirements for the supply of metallurgical materials (second revision)",
+      "category": "Supply standard",
+      "location": "Normative references",
+      "relevance": "Prescribes standard administrative, manufacturing, sampling, and technical delivery conditions for steel forgings."
+    },
+    {
+      "is_number": "IS 3479 : 1966",
+      "title": "General requirements for steel drop, upset and press forgings",
+      "category": "Forging standard",
+      "location": "Normative references",
+      "relevance": "Outlines general manufacturing, heat treatment, inspection, and defect repair criteria for industrial steel forgings."
+    },
+    {
+      "is_number": "IS 1956 (Part 6) : 1976",
+      "title": "Glossary of terms relating to iron and steel: Part 6 Forging (including drop forging)",
+      "category": "Terminology standard",
+      "location": "Normative references",
+      "relevance": "Standardises structural definitions and terminology for forging components (such as open die, free forging, and flash)."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Foreword",
+      "relevance": "Governs the standard mathematical rounding of observed or calculated testing values to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2004 : 1991",
+      "title": "Carbon steel forgings for general engineering purposes — Specification",
+      "category": "Product Specification",
+      "location": "MTD 16 Parallel Category",
+      "relevance": "The master specification for general engineering carbon steel forgings, which relies on IS 10604 for machining allowances and tolerances."
+    },
+    {
+      "is_number": "IS 4367 : 1991",
+      "title": "Alloy steel forgings for general industrial use — Specification",
+      "category": "Product Specification",
+      "location": "MTD 16 Parallel Category",
+      "relevance": "Companion standard regulating alloy steel forgings for general industrial applications, utilizing IS 10604 dimensional rules."
+    },
+    {
+      "is_number": "IS 3261 : 1980",
+      "title": "Carbon steel forgings for shipbuilding industry — Specification",
+      "category": "Product Specification",
+      "location": "MTD 16 Parallel Category",
+      "relevance": "Companion standard specifying carbon steel forgings used in maritime and ship hull construction, relying on IS 10604 for free-forging allowances."
+    },
+    {
+      "is_number": "IS 3469 (Parts 1 to 3) : 1974",
+      "title": "Tolerances for closed die steel forgings — Specification",
+      "category": "Product Specification",
+      "location": "MTD 16 Parallel Category",
+      "relevance": "Parallel standard specifying dimensional tolerances and finish allowances for closed/impression die forgings rather than open die forgings."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master national structural steel construction code, present in the notebook, which regulates on-site structural connections, assembly tolerances, and bolt clearances."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Metallurgical Engineering / Dimensional Standards)",
+    "certification_status": "Voluntary Dimensional and Quality Reference Standard. Unlike structural steel products or builders hardware which are subject to mandatory statutory Quality Control Orders (QCOs), IS 10604 is a reference specification for machining and dimensions. However, manufacturing compliance to its stated allowances and tolerances is universally required across Indian public and private sector heavy engineering, railways, defense, and shipyard procurement tenders to ensure proper material cleanup and dimensional alignment after machining. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Division by Chemistry",
+        "detail": "Forgings are divided into two distinct parts based on alloy concentration: Part 1 regulates carbon and low alloy steel forgings (alloy content typically <= 5% total), and Part 2 regulates high alloy steel forgings (alloy content > 5% total) which have different thermal contraction behavior."
+      },
+      {
+        "requirement_type": "Slenderness Aspect Ratio Penalty",
+        "detail": "To account for deflection, bending, and warping during hot metal forming, the standard increases both machining allowances and dimensional tolerances for slender forgings based on the ratio of length (b) to section size (a):\na) For b/a <= 7: Normal working allowances and tolerances apply as per Tables 1, 2, and 3;\nb) For b/a <= 8: Increase size-specific allowances and tolerances by 15 percent;\nc) For b/a <= 9: Increase size-specific allowances and tolerances by 30 percent;\nd) For b/a <= 10: Increase size-specific allowances and tolerances by 75 percent;\ne) For b/a > 10: Specific allowances and tolerances must be mutually agreed between the manufacturer and the purchaser on an individual basis."
+      },
+      {
+        "requirement_type": "Machining Allowance (Over-metal)",
+        "detail": "The machining allowance is defined as the minimal thickness of extra metal (over-metal) left on the raw forging's outer envelope. This thickness must be sufficient to ensure that during subsequent material removal, all hot-rolling scale, decarburized surface layers, and surface micro-cracks are completely removed, leaving a pristine finished surface."
+      },
+      {
+        "requirement_type": "Dimensional Tolerances",
+        "detail": "Enforces strict limits on the maximum allowable dimensional deviations (positive and negative tolerances) on nominal forged dimensions (including diameter, thickness, length, and width) to accommodate tool wear and uneven shrinkage."
+      },
+      {
+        "requirement_type": "Freedom from Defects",
+        "detail": "The forgings must be sound and free from piping, cracks, laminations, seams, deep laps, and slag inclusions. Visual and non-destructive testing (such as magnetic particle flaw detection per IS 3703) must verify surface soundness."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10604 : 1983",
+    "Open Die Forgings",
+    "Free Forgings",
+    "Machining Allowances",
+    "Dimensional Tolerances",
+    "Carbon Steel Forgings",
+    "Low Alloy Steel Forgings",
+    "High Alloy Steel Forgings",
+    "Slenderness Ratio",
+    "Over-metal Envelope",
+    "MTD 16",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10604 : 1983 (Reaffirmed 2023) is the national Indian Standard specification establishing machining allowances and dimensional tolerances for open die (free) steel forgings. It is divided into Part 1 for carbon and low alloy steel forgings and Part 2 for high alloy steel forgings. These guidelines define the minimum excess metal ('over-metal') that must remain on the raw forged envelope so that all hot-scale, decarburized skin, and surface cracks are completely cleared during final machining. Crucially, to account for bending and warping during hot deformation, the standard enforces a sliding penalty scale that increases both allowances and tolerances by up to 75% for long, slender forgings where the ratio of length to section diameter exceeds 7."
+  },
+  "source_information": {
+    "source_pdf_filename": "Not in current notebook sources. Profile compiled from official BIS LIMS registries and heavy forging industry specifications.",
+    "document_version_edition": "First Edition, May 1983 (Reaffirmed 2023)"
+  }
+}

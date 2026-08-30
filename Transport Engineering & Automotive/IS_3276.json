@@ -1,0 +1,193 @@
+{
+  "basic_identification": {
+    "is_number": "IS : 3276 - 1966",
+    "full_title": "Dimensions for Mechanical Turning Arrangements for Steel Cowl Ventilators",
+    "sector_category": "Marine Engineering and Shipbuilding (finalized by the Marine Engineering and Shipbuilding Sectional Committee, EDC 56, and approved by the Mechanical Engineering Division Council of the Indian Standards Institution)",
+    "ics_code": "47.020.90",
+    "sectional_committee": {
+      "name": "Marine Engineering and Shipbuilding Sectional Committee",
+      "number": "EDC 56"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the dimensions and structural requirements for two types of mechanical turning arrangements, namely Type A and Type B, used for steel cowl ventilators of nominal sizes 400 mm and above in marine installations.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 4"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1966 (Reaffirmed 2002, Reaffirmed 2012, Reviewed and Reaffirmed in 2022)",
+    "year_first_published": "1966",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1966"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS : 3271 - 1966",
+      "title": "General requirements for steel cowl ventilators with detachable components",
+      "category": "Allied Standard / Adjunct",
+      "location": "Clause 0.4",
+      "relevance": "Serves as a necessary adjunct standard, providing general quality, materials, and testing baselines for cowl ventilators."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Data Evaluation Standard",
+      "location": "Clause 0.5",
+      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
+    },
+    {
+      "is_number": "NF J46-148 : 1951",
+      "title": "Manches a air-commande par roues denteescrapaudine et pivot (Ventilators-toothed wheel turning arrangement, central guide tube and pivot bearings)",
+      "category": "International Reference (Association Francaise de Normalisation)",
+      "location": "Clause 0.3",
+      "relevance": "French standard utilized as an assistance reference for defining toothed wheel turning systems with central guide tubes and pivot bearings."
+    },
+    {
+      "is_number": "NF J46-150 : 1951",
+      "title": "Manches a air-commande par roues denteescollier de fixation due tube de commande (Ventilators-toothed wheel turning arrangement-fixing clamp and central guide tube)",
+      "category": "International Reference (Association Francaise de Normalisation)",
+      "location": "Clause 0.3",
+      "relevance": "French reference standard assisting in detailing toothed wheel layouts and central guide tubes."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS : 3272 - 1966",
+      "title": "Dimensions for oval-head steel cowl ventilators",
+      "category": "Product Standard / Oval Head Series",
+      "location": "Clause 0.2",
+      "relevance": "Specifies sizing and dimensions of the oval-head type ventilators on which turning arrangements may be fitted."
+    },
+    {
+      "is_number": "IS : 3273 - 1966",
+      "title": "Dimensions for circular-head steel cowl ventilators",
+      "category": "Product Standard / Circular Head Series",
+      "location": "Clause 0.2",
+      "relevance": "Specifies sizing and dimensions of circular-head type ventilators that utilize turning arrangements."
+    },
+    {
+      "is_number": "IS : 3275 - 1966",
+      "title": "Dimensions for accessories for steel cowl ventilators",
+      "category": "Accessory Standard",
+      "location": "Clause 0.2",
+      "relevance": "Standardises dimensions for structural components and accessories mating with cowl systems."
+    },
+    {
+      "is_number": "IS : 3277",
+      "title": "Dimensions for coamings for steel cowl ventilators",
+      "category": "Coaming Standard",
+      "location": "Clause 0.2",
+      "relevance": "Specifies dimensions of coamings supporting the ventilator assembly."
+    },
+    {
+      "is_number": "IS : 3278 - 1966",
+      "title": "Dimensions for detachable coaming covers and wire mesh grids for steel cowl ventilators",
+      "category": "Accessory Standard",
+      "location": "Clause 0.2",
+      "relevance": "Specifies covers and security grids fitted to ventilator openings."
+    },
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport and marine engineering system standard present in the notebook, specifying pneumatic pressure ranges for starting and signaling air systems on-board inland waterways vessels."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master national structural steel construction code in this notebook, regulating support framing, steel assemblies, and connection details."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification / Mechanical Dimensions (Marine Outfitting / Ventilator Systems)",
+    "certification_status": "Voluntary Engineering Standard (Marine Outfitting / Shipbuilding). Since IS 3276 is an outfitting design standard rather than a safety-critical consumer product, it does not carry a separate mandatory BIS license or ISI certification mark. However, its dimensional tables, tooth distributions, guide roller quantities, and pivot-bearing configurations are universally incorporated in Indian Navy, commercial shipyard, and marine ventilation contract specifications to ensure seamless component interchangeability and smooth turning of ventilation cowls in marine service.",
+    "requirements": [
+      {
+        "requirement_type": "Voluntary Standard Mark Scheme",
+        "detail": "Materials conforming to this standard and their packages may carry the Standard Mark of the Bureau of Indian Standards (ISI Mark) under the provisions of the BIS Act, indicating structured quality checks by the producer.",
+        "clause_reference": "Foreword Page 4 & IS 12427"
+      },
+      {
+        "requirement_type": "Assembly Operations Differentiation",
+        "detail": "Turning arrangements are specified in two standard configurations: Type A (mechanical turning assembly shown in Fig. 1) and Type B (mechanical turning assembly shown in Fig. 2).",
+        "clause_reference": "Clause 1.1, 2.1 & 3.1"
+      },
+      {
+        "requirement_type": "Type B Spur Gear Ring and Drive Pinion",
+        "detail": "Type B features a ring, made in two or more sections, with a spur gear cut on its periphery, which is fixed to the intermediate trunking. A driving pinion meshes with this ring and is rotated by a control rod fitted with a handle to facilitate easy turning.",
+        "clause_reference": "Clause 3.2"
+      },
+      {
+        "requirement_type": "Wheel and Pinion Gear Assembly",
+        "detail": "The wheel must be bolted onto the angle iron by countersunk screws. The angle iron is riveted to the intermediate trunking using rivets of 6 mm diameter pitched at 48 mm.",
+        "clause_reference": "Clause 3.2.1"
+      },
+      {
+        "requirement_type": "Gear Ring Teeth Configurations (Table 1)",
+        "detail": "Table 1 defines the nominal size ranges (400 mm to 1600 mm) along with the dimensions D1, D2, pitch diameters, number of teeth, and sections of the wheel. Examples:\na) Size 400: D1 = 427 mm, D2 = 510 mm, Pitch Dia = 561.8 mm, No. of Teeth = 42, Wheel Sections = 2;\nb) Size 800: D1 = 828 mm, D2 = 912 mm, Pitch Dia = 963.1 mm, No. of Teeth = 72, Wheel Sections = 4;\nc) Size 1600: D1 = 1630 mm, D2 = 1713 mm, Pitch Dia = 1791.5 mm, No. of Teeth = 134, Wheel Sections = 6.",
+        "clause_reference": "Clause 3.2.1 & Table 1"
+      },
+      {
+        "requirement_type": "Guide Roller Installation & Clearances",
+        "detail": "Guide rollers are fitted to the intermediate trunking so the rollers project inwards through the trunking wall. When in position, the roller must maintain a clearance of exactly 2 mm from the ventilator coaming.",
+        "clause_reference": "Clause 3.2.2 & Fig. 1"
+      },
+      {
+        "requirement_type": "Guide Roller Quantities",
+        "detail": "The number of guide rollers used around the circumference of the coaming varies strictly by ventilator nominal size:\na) Nominal sizes 400 to 700 mm: Requires 3 rollers;\nb) Nominal sizes 800 to 1100 mm: Requires 4 rollers;\nc) Nominal sizes 1250 to 1600 mm: Requires 6 rollers.",
+        "clause_reference": "Clause 3.2.2"
+      },
+      {
+        "requirement_type": "Roller Pin and Bracket Sealing",
+        "detail": "The roller bracket must be welded to the intermediate trunking. The roller is secured on the roller pin, which must be fitted with a split pin to prevent the roller pin from jumping out.",
+        "clause_reference": "Clause 3.2.2.1"
+      },
+      {
+        "requirement_type": "Central Guide Tube and Pivot Bearing",
+        "detail": "For large size ventilators, a central guide tube is fitted internally with bearings attached to the intermediate trunking. A pivot rod is attached to the bottom end of the guide tube and bears on a spherically seated washer placed inside the pivot bearing. The pivot bearing is positioned centrally on cross braces welded to the coaming to achieve smooth rotation.",
+        "clause_reference": "Clause 3.2, 3.2.4 & Fig. 6"
+      },
+      {
+        "requirement_type": "Spherically Seated Washer Sizing",
+        "detail": "The spherically seated washer used inside the pivot bearing must comply with standard sizing codes:\na) For Nominal Sizes 400 to 1250 mm: Use T 80.80.10 washer;\nb) For Nominal Sizes 1400 and 1600 mm: Use T 100.100.10 washer.",
+        "clause_reference": "Fig. 6"
+      },
+      {
+        "requirement_type": "Turning Handle Dimensions",
+        "detail": "The turning handle assembly must comply with dimensions in Fig. 5 (400 mm total length, 16 mm diameter rod, 22 mm locking sleeve, 20 mm shaft, and 40 mm diameter handle).",
+        "clause_reference": "Fig. 5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3276 : 1966",
+    "Steel Cowl Ventilators",
+    "Mechanical Turning Arrangements",
+    "Type A Turning Assembly",
+    "Type B Turning Assembly",
+    "Wheel and Pinion Gear",
+    "Guide Rollers",
+    "Pivot Bearing",
+    "Spherically Seated Washer",
+    "EDC 56",
+    "Marine Outfitting",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS : 3276 - 1966 (Reaffirmed 2022) is the national Indian Standard specifying dimensions and structural layouts for mechanical turning arrangements fitted on steel cowl ventilators used in marine vessels and shipbuilding outfitting. Formulated under the Marine Engineering and Shipbuilding Sectional Committee (EDC 56), this standard defines two distinct turning arrangements—Type A and Type B—for ventilators of nominal sizes 400 mm and above. It establishes precise dimension tables for gear rings (ranging from 42 teeth for 400 mm size up to 134 teeth for 1600 mm size), regulates the quantities of surrounding guide rollers (ranging from 3 to 6 rollers based on size) while enforcing a strict 2 mm operating clearance from the coaming, and outlines detailed internal central guide tubes and pivot-bearings using spherically seated washers to ensure effortless, smooth rotation under harsh sea-going conditions."
+  },
+  "source_information": {
+    "source_pdf_filename": "3276_1966_reff2022.pdf",
+    "document_version_edition": "First Edition, February 1966 (Reaffirmed 2022)"
+  }
+}

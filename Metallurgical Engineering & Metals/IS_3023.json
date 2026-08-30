@@ -1,0 +1,140 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3023 : 2013",
+    "full_title": "Recommended Practice for Building-Up by Thermal Spraying (First Revision)",
+    "sector_category": "Metallurgical Engineering / Welding Applications (approved by the Metallurgical Engineering Division Council and finalized by the Welding Applications Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "25.160.10",
+    "sectional_committee": {
+      "name": "Welding Applications Sectional Committee",
+      "number": "MTD 12"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers recommendations for building-up worn or undersized surfaces using thermal spraying processes, including flame spray, high velocity oxy-fuel (HVOF), wire arc spray, and plasma spray, as well as their related consumables (wire, powder, and gases).",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, October 2013 (Reaffirmed in 2019, reviewed and reaffirmed in 2024)",
+    "year_first_published": "1965",
+    "revision_history": [
+      {
+        "edition": "First Edition (published under the title 'Recommended practice for building up by metal spraying')",
+        "year": "1965"
+      },
+      {
+        "edition": "First Revision (updated to expand the scope to modern thermal spraying technologies, revise mechanical and surface preparation practices, and standardize consumable guidelines)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 3023 : 1965",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Parallel steel design code",
+      "relevance": "The master national structural steel construction code in this notebook, regulating support framing, steel assemblies, and connection details."
+    },
+    {
+      "is_number": "IS 10032 : 2013",
+      "title": "Organic No Bake (Self Setting) Binders for Use in Foundries — Specification",
+      "category": "Product Specification",
+      "location": "Parallel metallurgical category",
+      "relevance": "A fellow metallurgical engineering standard present in the notebook, finalized by the Foundry and Steel Casting Sectional Committee (MTD 14)."
+    },
+    {
+      "is_number": "IS 11266 : 1985",
+      "title": "Specification for Flake Resins for Use in Shell Process in Foundries",
+      "category": "Product Specification",
+      "location": "Parallel metallurgical category",
+      "relevance": "A fellow metallurgical engineering standard present in the notebook, specifying flake resins used to bind sand moulds."
+    },
+    {
+      "is_number": "IS 11812 : 1986",
+      "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
+      "category": "Code of Practice / Recommended Guidelines",
+      "location": "Parallel corrosion protection category",
+      "relevance": "A fellow metallurgical engineering and corrosion protection code present in the notebook, specifying fabrication practices and heating/cooling effects on steel."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Recommended Guidelines (Metallurgical Engineering / Thermal Spraying)",
+    "certification_status": "Voluntary Engineering Code of Practice. Since IS 3023:2013 is an engineering guideline rather than a direct manufacturing product, it does not carry a separate mandatory BIS license or ISI certification mark. However, its design recommendations, process steps, undercutting depths, surface preparation, grit blasting, and finishing protocols are widely specified in public and private sector heavy engineering, thermal power plants, petrochemical facilities, machinery maintenance, and industrial repair procurement contracts to rebuild worn-out shafts and machinery components. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Processes & Consumables",
+        "detail": "Rebuilds worn components utilizing four main thermal spraying processes: flame spray, high velocity oxy-fuel (HVOF), wire arc spray, and plasma spray. Consumables like wire, powder feedstock, and carrier/fuel gases are fully co-regulated.",
+        "clause_reference": "Clause 1"
+      },
+      {
+        "requirement_type": "Surface Undercutting Prep",
+        "detail": "Machining or grinding away some of the good substrate material as well as the damaged surface to provide an adequate and uniform flat surface to accept the new thermal spray deposit. The ends of the undercut zone must be angled at 15° to 45° to the base metal (as shown in Fig. 1) to prevent notch effects or stress concentration.",
+        "clause_reference": "Clause 3.4.2.1 & Fig. 1"
+      },
+      {
+        "requirement_type": "Surface Cleanliness & Roughening",
+        "detail": "Prior to roughening, all traces of oil, grease, paint, or other foreign contaminants must be completely removed from the undercut and adjacent surfaces. The undercut section must be roughened (such as by grit blasting) to ensure robust mechanical interlocking of the sprayed coating with the substrate.",
+        "clause_reference": "Clause 3.4.2.2"
+      },
+      {
+        "requirement_type": "Flame Spray Prep",
+        "detail": "Due to the low heat of combustion and low particle velocities of flame spray (both wire and powder) processes, both grit blasting and the application of an intermediate bond coating are usually required to ensure adequate bond strength.",
+        "clause_reference": "Clause 3.4.3.4.2"
+      },
+      {
+        "requirement_type": "Plasma Spray Requirements",
+        "detail": "For plasma spray processes, both surface roughening (via grit blasting) and the application of an intermediate bond coating are mandatory and essential to secure the coating.",
+        "clause_reference": "Clause 3.4.3.4.3"
+      },
+      {
+        "requirement_type": "Equipment Verification",
+        "detail": "Verification and certification of coating equipment must be performed either through regular calibration of process meters and pressure/flow gauges, or through demonstration of physical coating application, or a combination of both.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Finishing Operations",
+        "detail": "The effectiveness of the thermal spray coating depends heavily on final finishing. Finer grit grinding wheels must be used on dense, hard-to-penetrate coatings. Crucially, the coating must always be kept under compression during machining; grinding/cutting down through the sprayed surface towards the substrate minimizes delamination and particle pull-out.",
+        "clause_reference": "Clause 7.2"
+      },
+      {
+        "requirement_type": "Post-Finishing Inspection",
+        "detail": "Inspection must be performed after all finishing operations are complete. Both destructive (e.g. cross-section evaluation) and non-destructive (e.g. dye penetrant or ultrasonic) methods of evaluation may be utilized to verify bond integrity and thickness.",
+        "clause_reference": "Clause 8"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3023 : 2013",
+    "Thermal Spraying",
+    "Metal Spraying",
+    "Flame Spray",
+    "Plasma Spray",
+    "HVOF",
+    "Undercutting",
+    "Grit Blasting",
+    "Bond Coating",
+    "Substrate Preparation",
+    "MTD 12",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3023 : 2013 is the national Indian Standard recommended practice specifying procedural guidelines and engineering precautions for rebuilding and building-up worn-out machinery parts, shafts, and industrial components using thermal spraying. It covers four major coating processes—flame spray, high velocity oxy-fuel (HVOF), wire arc spray, and plasma spray—along with their consumables (wires, powders, and gases). The standard outlines critical stages of surface preparation: undercutting the damaged metal with sloped ends of 15° to 45° to provide a uniform flat base, completely degreasing the area, and roughening it via grit blasting. It specifies that while flame and plasma processes require intermediate bond coatings to ensure mechanical bonding, the sprayed surfaces must be finished with fine-grit wheels while maintaining compression (cutting down towards the substrate) to avoid delamination, followed by quality verification using destructive and non-destructive inspection."
+  },
+  "source_information": {
+    "source_pdf_filename": "3023_2013_reaff2024.pdf",
+    "document_version_edition": "First Revision, October 2013 (Reaffirmed 2024)"
+  }
+}

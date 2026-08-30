@@ -1,0 +1,190 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3028 : Part 1, Part 2 & Part 3",
+    "full_title": "Automotive Vehicles — Noise Emitted by Moving Vehicles — Specification and Method of Measurement",
+    "sector_category": "Transport Engineering / Automotive Braking Systems, Vehicle Testing, Steering and Performance Evaluation (approved by the Transport Engineering Division Council and finalized by the Automotive Braking Systems, Vehicle Testing and Performance Evaluation Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "17.140.30; 43.020",
+    "sectional_committee": {
+      "name": "Automotive Braking Systems, Vehicle Testing and Performance Evaluation Sectional Committee",
+      "number": "TED 04"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the requirements and test evaluation methods for determining the external noise emitted by road vehicles in moving condition (pass-by noise). It is structured in multiple parts based on vehicle classification: Part 1 specifies limits and measurement methods for L2 category two-wheelers; Part 2 specifies limits and methods for categories other than L2 and L5 (covering M and N passenger and commercial road vehicles); and Part 3 specifies limits and methods for L5 (three-wheelers), L7 (quadricycles), E-rickshaws, and E-carts. It establishes mandatory acoustic limits at the manufacturing stage to control environmental noise pollution.",
+    "clause_number": "Clause 1 (of respective parts)",
+    "page_number": "Page 1 of base parts"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Multi-part standard series (Part 1: 2018, Part 2: 2023, Part 3: 2018)",
+    "year_first_published": "1965",
+    "revision_history": [
+      {
+        "edition": "First Edition (published under the title 'Method of Measurement of Noise Emitted by Moving Road Vehicles')",
+        "year": "1965"
+      },
+      {
+        "edition": "First Revision (IS 3028 : 1980)",
+        "year": "1980"
+      },
+      {
+        "edition": "Second Revision (IS 3028 : 1998 - unified standard under TED 8)",
+        "year": "1998"
+      },
+      {
+        "edition": "Multi-part Restructuring (IS 3028 split into Part 1, Part 2, and Part 3 to align with UN ECE R51/R41 and modern vehicle classifications)",
+        "year": "2018-2023"
+      }
+    ],
+    "supersedes": "IS 3028 : 1998 (which was formally withdrawn upon final establishment of the multi-part standard series)",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Part 1 Amendment No. 1",
+        "date": "2023",
+        "description": "Aligns two-wheeler noise measurement procedures with modern ECE standards."
+      },
+      {
+        "amendment_number": "Part 2 Amendment No. 1",
+        "date": "June 2024",
+        "description": "Refines acceleration and calculation procedures for high-power passenger vehicles."
+      },
+      {
+        "amendment_number": "Part 3 Amendment No. 1",
+        "date": "February 2024",
+        "description": "Overhauls standard title and scope to formally cover L5, L7, E-rickshaw, and E-cart categories under moving conditions; establishes Table 1A and Table 1B to regulate specific decibel thresholds for thermic and battery-operated three-wheelers."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "ISO 10844",
+      "title": "Acoustics — Specification of test tracks for measuring noise emitted by road vehicles and their tyres",
+      "category": "Testing standard",
+      "location": "Annex B / Normative references",
+      "relevance": "Specifies physical and acoustic criteria (such as residual voids and sound absorption coefficient) for standard pass-by test tracks."
+    },
+    {
+      "is_number": "IS 14272 : 2011",
+      "title": "Automotive vehicles — Types — Terminology (first revision)",
+      "category": "Terminology standard",
+      "location": "Clause 1.1 / Scope of parts",
+      "relevance": "Establishes standard Indian classification boundaries for motor vehicles (L1, L2, L5, L7, M, N category types)."
+    },
+    {
+      "is_number": "IS 14599 : 1999",
+      "title": "Automotive vehicles — Performance requirements (measurement of power, SFC, opacity) of positive and compression ignition engines — Method of test",
+      "category": "Testing standard",
+      "location": "Terminology clauses",
+      "relevance": "Provides reference engine power definitions and maximum rated speed levels used to plan throttle and gear positions during tests."
+    },
+    {
+      "is_number": "IS 9211 : 2003",
+      "title": "Terms and definitions of weights of road vehicles other than 2-wheelers",
+      "category": "Terminology standard",
+      "location": "Terminology clauses",
+      "relevance": "Standardises vehicle weight configurations (unladen, laden, GVW) to ensure repeatable test loading."
+    },
+    {
+      "is_number": "IS 2 : 1960 / IS 2 : 2022",
+      "title": "Rules for rounding off numerical values",
+      "category": "Data evaluation standard",
+      "location": "Foreword",
+      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10399 : 1998",
+      "title": "Automotive Vehicles — Noise Emitted by Stationary Vehicles — Method of Measurement",
+      "category": "Testing standard",
+      "location": "Parallel acoustics category",
+      "relevance": "Direct companion standard specifying methods to measure stationary vehicle exhaust noise at close proximity, used for in-use transport audits."
+    },
+    {
+      "is_number": "IS 13154 : 2015",
+      "title": "Automotive Vehicles — Tyres for Agricultural Vehicles and Their Trailers — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A sister transport engineering standard present in the notebook, specifying pneumatic tyre limits under the Transport Engineering Division Council."
+    },
+    {
+      "is_number": "IS 12222 : 2011",
+      "title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow CMVR homologation standard present in the notebook, specifying steering pad geometry and turning clearances."
+    },
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport and fluid engineering auxiliary system standard present in the notebook, specifying pneumatic pressure ranges."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in this notebook, regulating steel construction and heavy structural framing, which interface with heavy transport systems."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Performance Specification / Homologation Code (Acoustic Emissions)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under Rule 120 of the Central Motor Vehicles Rules (CMVR), 1989, all road-going vehicles manufactured or registered in India must undergo mandatory pass-by noise type-approval (homologation) testing. Compliance with IS 3028 noise limits must be certified by designated government testing agencies (such as ARAI, GARC, or ICAT) prior to commercial vehicle release. Non-conforming vehicles cannot be registered or legally operated on Indian public roads. Precious metal hallmarking is completely inapplicable to acoustic emission parameters.",
+    "requirements": [
+      {
+        "requirement_type": "Strict Pass-By Test Zone Configuration",
+        "detail": "Requires a standardized open-air testing pad comprising an acceleration track and a centralized measurement zone. Two microphones must be positioned symmetrically on both sides of the vehicle's driving centerline at a distance of 7.5 m ± 0.05 m from the path axis and at a height of 1.2 m ± 0.02 m above the track surface."
+      },
+      {
+        "requirement_type": "Test Track Surface Acoustics (ISO 10844)",
+        "detail": "The test track pavement must satisfy strict ISO 10844 acoustic criteria. Pavement residual void content is limited to <= 8%, and the surface sound absorption coefficient must not exceed 0.10. Additionally, the macrotexture depth must be greater than or equal to 0.4 mm to prevent tire rolling-noise absorption or scattering."
+      },
+      {
+        "requirement_type": "Low-Noise Meteorological Testing Conditions",
+        "detail": "Acoustic measurements are sensitive to atmospheric parameters. Outdoor wind speed at microphone height must not exceed 5 m/s during test intervals to prevent wind-induced microphone distortion. Background environmental ambient noise must be at least 10 dB(A) lower than the vehicle's peak emitted sound level."
+      },
+      {
+        "requirement_type": "Full-Throttle Acceleration Evaluation",
+        "detail": "The test evaluates sound levels under worst-case acceleration. The vehicle must approach the test line at a specified speed (or engine RPM) in a selected gear, and then accelerate at wide-open-throttle (WOT) until the rear of the vehicle exits the test zone. The peak sound level recorded on the sound level meter (A-weighted, fast response) is taken as the evaluation result."
+      },
+      {
+        "requirement_type": "L5 and E-rickshaw Category Limits (Part 3)",
+        "detail": "Under Part 3 Amendment 1, the maximum sound levels for three-wheelers are:\na) Vehicles with engine capacity <= 175 cc (thermic) or battery-operated vehicles (including E-rickshaws, E-carts): 76 dB(A);\nb) Vehicles with engine capacity > 175 cc (thermic): 80 dB(A)."
+      },
+      {
+        "requirement_type": "Two-Wheeler Limits (Part 1)",
+        "detail": "Maximum sound limits for L2 category motorcycles are:\na) Engine displacement <= 80 cc: 75 dB(A);\nb) 80 cc < Displacement <= 175 cc: 77 dB(A);\nc) Displacement > 175 cc: 80 dB(A)."
+      },
+      {
+        "requirement_type": "Four-Wheeler Limits (Part 2 / Legacy)",
+        "detail": "Under Part 2 modern norms (aligned with ECE R51.03), maximum limits for passenger cars are set between 72 dB(A) to 75 dB(A), while heavy commercial vehicles (N3 category) are restricted based on engine power ranges (varying from 80 dB(A) to 85 dB(A) depending on engine output and GVW limits)."
+      },
+      {
+        "requirement_type": "Rigorous Multiple-Pass Averaging",
+        "detail": "At least four measurements must be conducted on each side of the vehicle for each gear configuration. The test results are considered valid only if the difference between consecutive runs on the same side does not exceed 2 dB(A). The highest mean value calculated from the loudest side constitutes the official sound level."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3028",
+    "Pass-By Noise Test",
+    "Moving Vehicle Noise",
+    "Acoustic Emissions",
+    "ISO 10844 Test Track",
+    "Sound Level Meter",
+    "Decibel Limits",
+    "CMVR Rule 120",
+    "ARAI Homologation",
+    "L5 Category Noise",
+    "TED 04"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3028 is the mandatory national Indian Standard code of practice specifying specification and measurement methods for evaluating external noise emitted by moving road vehicles. Strictly enforced under the statutory Central Motor Vehicles Rules (CMVR), all newly manufactured road vehicles (such as motorcycles, passenger cars, buses, commercial trucks, E-rickshaws, and three-wheelers) must undergo pass-by sound evaluation to obtain type-approval certification. It specifies an open-air acoustic testing layout where vehicles accelerate at wide-open-throttle over a specialized, low-absorption ISO 10844 pavement while microphones record sound levels from 7.5 meters away. It enforces strict decibel limits—such as 76 dB(A) for battery-operated E-rickshaws and small three-wheelers, 77 dB(A) for medium-sized motorcycles, and up to 85 dB(A) for massive commercial transport trucks—to minimize urban environmental noise pollution."
+  },
+  "source_information": {
+    "source_pdf_filename": "3028_3_amd1.pdf",
+    "document_version_edition": "Part 3, First Edition 2018 (incorporating Amendment No. 1, February 2024)"
+  }
+}

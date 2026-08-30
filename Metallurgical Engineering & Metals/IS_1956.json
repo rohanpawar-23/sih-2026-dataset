@@ -1,0 +1,195 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1956 : Parts 1 to 8",
+    "full_title": "Glossary of Terms Relating to Iron and Steel (Part 1 to Part 8)",
+    "sector_category": "Metallurgical Engineering / Wrought Steel Products (approved by the Metallurgical Engineering Division Council and finalized by the Wrought Steel Products Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "01.040.77; 77.140.01",
+    "sectional_committee": {
+      "name": "Wrought Steel Products Sectional Committee",
+      "number": "MTD 04"
+    }
+  },
+  "scope": {
+    "summary": "This standard is a multi-part master national glossary that establishes standardized definitions, processing terms, classification rules, and testing/metallurgical terminology for iron, steel, and associated heavy manufacturing operations in India. By unifying terms across raw material extraction, steelmaking, rolling, forging, heat-treating, and mechanical testing, this standard eliminates ambiguity in commercial contracts, product standards, customs classifications, and quality control audits.",
+    "clause_number": "Clause 1 (of each respective part)",
+    "page_number": "Page 1 of each respective part"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Multi-part standard series with various revision dates (reaffirmed in 2023-2025 across different parts)",
+    "year_first_published": "1962",
+    "revision_history": [
+      {
+        "edition": "First Edition (published as a single comprehensive glossary under the designation IS 1956 : 1962)",
+        "year": "1962"
+      },
+      {
+        "edition": "First Reorganization into Parts (split into separate parts to accommodate the rapid technological expansion of specialized steel manufacturing, testing, and processing industries)",
+        "year": "1975-1976"
+      },
+      {
+        "edition": "Second Revisions (Part 2 revised in 2018, Part 3 in 2019, Part 4 in 2013 to align with modern international EN, ISO, and ASTM terminologies and accommodate newly formulated micro-alloyed and advanced high-strength steel grades)",
+        "year": "2013-2019"
+      }
+    ],
+    "supersedes": "IS 1956 : 1962",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on the latest active revisions of these parts."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1387 : 1993",
+      "title": "General requirements for the supply of metallurgical materials (second revision)",
+      "category": "Technical Delivery Standard",
+      "location": "Normative references",
+      "relevance": "Outlines standard administrative, sampling, and technical delivery conditions for steel and iron products."
+    },
+    {
+      "is_number": "IS 1608 (Part 1)",
+      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
+      "category": "Mechanical Testing Standard",
+      "location": "Part 1 (Testing references)",
+      "relevance": "Specifies standard room-temperature tensile test setups used to evaluate yield, tensile strength, and elongation."
+    },
+    {
+      "is_number": "IS 1500 (Part 1)",
+      "title": "Metallic materials — Brinell hardness test — Part 1: Test method",
+      "category": "Mechanical Testing Standard",
+      "location": "Part 1 (Testing references)",
+      "relevance": "Provides testing protocols for measuring brinell hardness of finished steel shapes."
+    },
+    {
+      "is_number": "IS 1586 (Part 1)",
+      "title": "Metallic materials — Rockwell hardness test — Part 1: Test method",
+      "category": "Mechanical Testing Standard",
+      "location": "Part 1 (Testing references)",
+      "relevance": "Provides standard testing configurations for rockwell hardness testing of steel surfaces."
+    },
+    {
+      "is_number": "IS 228 (all parts)",
+      "title": "Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steel",
+      "category": "Chemical Testing Standard",
+      "location": "Part 1 (Chemical references)",
+      "relevance": "Provides standard wet chemical and instrumental analysis methods to determine alloying elements and impurities in steel."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Data Evaluation Standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values during conformity evaluation."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2062 : 2011 / 2026",
+      "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
+      "category": "Product Specification",
+      "location": "Parallel steel category",
+      "relevance": "The master carbon steel specification for carbon steel plates, sections, and sheets, which explicitly relies on IS 1956 for standard metallurgical terminology, steel designations, and surface defect definitions.",
+      "citations": "179"
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Code of Practice / Design Standard",
+      "location": "Parallel steel design code",
+      "relevance": "The primary structural steel construction and design code in India, referencing IS 1956 to ensure consistent usage of steel terms, weld classifications, and section naming during structural detailing.",
+      "citations": "197"
+    },
+    {
+      "is_number": "IS 2552 : 1989",
+      "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
+      "category": "Product Specification",
+      "location": "Parallel steel packaging",
+      "relevance": "Regulates intermediate-capacity mild steel drums fabricated using steel sheets whose core sheet metal glossary terms (such as uncoiling, cold rolling, deep drawing, and beading) align with the parts of IS 1956."
+    },
+    {
+      "is_number": "IS 3575 : 1993",
+      "title": "Bitumen Drums — Specification",
+      "category": "Product Specification",
+      "location": "Parallel steel packaging",
+      "relevance": "Regulates specialized steel drums made from mild steel sheets whose manufacturing, seaming, and welding terms are standardized under IS 1956."
+    },
+    {
+      "is_number": "IS 10325 : 2000",
+      "title": "Square Tins — 15 kg/litre for Ghee, Vanaspati, Edible Oils and Bakery Shortenings — Specification",
+      "category": "Product Specification",
+      "location": "Parallel food-grade packaging",
+      "relevance": "Specifies food-grade tinplate containers whose core plate definitions (electrolytic tinplate, single-reduced, double-reduced) are governed under IS 1956."
+    },
+    {
+      "is_number": "IS 12427 : 2001",
+      "title": "Transmission Tower Bolts — Specification",
+      "category": "Product Specification",
+      "location": "Parallel structural fasteners",
+      "relevance": "Regulates hot-dip galvanized structural tower fasteners whose zinc-coating terminology, fastener dimensions, and thread boundaries conform to IS 1956."
+    },
+    {
+      "is_number": "IS 11812 : 1986",
+      "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
+      "category": "Code of Practice / Recommended Guidelines",
+      "location": "Parallel corrosion protection",
+      "relevance": "Specifies fabrication guidelines for hot-dip galvanized steel assemblies, relying on IS 1956 for definitions of structural shapes, welding, and heat-treat terms."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Terminology Standard / Glossary (Metallurgical Engineering)",
+    "certification_status": "Master National Reference Glossary. IS 1956 is not a product specification and therefore does not carry a separate mandatory or voluntary BIS license or ISI certification mark. However, its terminology, material definitions, chemical alloying boundaries (such as the definition of stainless steel as containing >= 12% chromium), and defect classifications are legally binding and universally referenced in national sales tax/customs litigation, heavy engineering disputes, procurement contracts, and trade arbitrations to resolve definition ambiguities. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Part 1: General Metallurgy, Heat Treatment, and Testing",
+        "detail": "Establishes definitions for core metallurgical phenomena, heat treatment processes (such as Annealing, Normalizing, Quenching, and Tempering), and mechanical testing methodologies (tension, hardness, impact). This part is frequently used in tax and customs disputes to define raw material boundaries (e.g. defining 'Alloy' vs. 'Alloy Steel' or defining 'Stainless Steel' as an alloy steel containing 12% or more chromium)."
+      },
+      {
+        "requirement_type": "Part 2: Steel Making",
+        "detail": "Covers terms relating to the raw chemistry and liquid-state processing of steel. Defines terms for furnace technologies (such as Basic Oxygen Furnace/LD converter, Electric Arc Furnace, and Induction Furnace), refining, casting (ingot and continuous casting), and deoxidation practices (rimmed, capped, semi-killed, and killed steels)."
+      },
+      {
+        "requirement_type": "Part 3: Long Products",
+        "detail": "Defines physical wrought shapes characterized by linear axes. Standardizes terms for structural sections (beams, channels, angles), merchant bars, wire rods, hot-rolled wires, and reinforcing steel bars."
+      },
+      {
+        "requirement_type": "Part 4: Flat Products",
+        "detail": "Defines hot-rolled and cold-rolled flat-wound products. Establishes definitions for sheets, strips, plates, and wide coils, along with sheet metal defects (such as surface lamination, scaling, edge cracking, and stretcher strain lines)."
+      },
+      {
+        "requirement_type": "Part 5: Bright Steel Bar and Steel Wire",
+        "detail": "Covers cold-finished long products. Defines terms for bright steel bars (produced by cold drawing, turning, or grinding), wire drawing processes, and wire properties."
+      },
+      {
+        "requirement_type": "Part 6: Forging (including drop forging)",
+        "detail": "Defines hot and cold plastic deformation processes using dies. Standardizes terms distinguishing open die forging (free forging), closed die forging (impression die forging), flash, trim, die cavities, and forging defects."
+      },
+      {
+        "requirement_type": "Part 7: Wrought Iron",
+        "detail": "Regulates traditional slag-bearing fibrous wrought iron products. Defines terms for puddling, muck bars, and refined wrought iron shapes."
+      },
+      {
+        "requirement_type": "Part 8: Steel Tubes and Pipes",
+        "detail": "Defines hollow structural and fluid-conveying sections. Standardizes terms distinguishing seamless tubes (produced by hot piercing and cold drawing) and welded pipes (electric resistance welded, spiral welded), along with tube fittings and sizing terms."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1956",
+    "Glossary of Terms",
+    "Metallurgical Terminology",
+    "Alloy Steel",
+    "Stainless Steel",
+    "Heat Treatment",
+    "Forging Glossary",
+    "Flat Products",
+    "Long Products",
+    "Steel Making",
+    "Steel Tubes and Pipes",
+    "MTD 04",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1956 is the national Indian Standard glossary of terms relating to iron and steel, structured in eight distinct parts. Rather than a product specification, it is the master terminology standard that defines all physical, chemical, mechanical, and manufacturing terms used in the steel industry. This includes heat treatment and testing (Part 1), steelmaking (Part 2), long products (Part 3), flat products (Part 4), bright bars and wires (Part 5), forgings (Part 6), wrought iron (Part 7), and steel tubes/pipes (Part 8). It acts as the legal and engineering authority to resolve definition disputes in customs, tax audits, trade arbitrations, and engineering specifications."
+  },
+  "source_information": {
+    "source_pdf_filename": "2062_2_2026.pdf",
+    "document_version_edition": "Multi-part standard series (Part 1 to Part 8, revised/reaffirmed 2023-2025)"
+  }
+}

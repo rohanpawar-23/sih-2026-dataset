@@ -1,0 +1,232 @@
+{
+  "basic_identification": {
+    "is_number": "IS : 6140 - 1971",
+    "full_title": "Specification for Ship's Snatch Blocks",
+    "sector_category": "Marine Engineering and Shipbuilding / Marine, Cargo Movement and Packaging (finalized by the Shipbuilding Sectional Committee and approved by the Marine, Cargo Movement and Packaging Division Council of the Indian Standards Institution)",
+    "ics_code": "47.020.50; 47.020.05",
+    "sectional_committee": {
+      "name": "Shipbuilding Sectional Committee",
+      "number": "MCPD 1 (formerly part of Mechanical Engineering Division Council)"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the material quality, general dimensions, tolerances, and proof test loads for ship's snatch blocks used with wire ropes corresponding to various safe working loads (SWL). Snatch blocks are defined as blocks designed with a hinged strap to enable the insertion of a wire rope onto the sheave at any position along the length of the rope.",
+    "clause_number": "Clause 1.1, Clause 2.1 & Clause 5.1",
+    "page_number": "Page 3 & Page 6 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, May 1971 (Reaffirmed 2002, Reaffirmed 2012, and Reviewed & Reaffirmed in 2022)",
+    "year_first_published": "1971",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1971"
+      }
+    ],
+    "supersedes": "None (first standard established to specify ships' snatch blocks using wire ropes)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS : 210 - 1962",
+      "title": "Specification for grey iron castings",
+      "category": "Material standard",
+      "location": "Clause 3.1 & Page 5",
+      "relevance": "Specifies Grade 25 grey iron castings permitted for fabricating block cheeks."
+    },
+    {
+      "is_number": "IS : 1865 - 1968",
+      "title": "Specification for iron castings with spheroidal or nodular graphite",
+      "category": "Material standard",
+      "location": "Page 5",
+      "relevance": "Specifies Grade SG 38 spheroidal graphite iron permitted as a cheek material."
+    },
+    {
+      "is_number": "IS : 2107 - 1962",
+      "title": "Specification for whiteheart malleable iron castings",
+      "category": "Material standard",
+      "location": "Page 5",
+      "relevance": "Specifies whiteheart malleable iron castings permitted as a cheek material."
+    },
+    {
+      "is_number": "IS : 2108 - 1962",
+      "title": "Specification for blackheart malleable iron castings",
+      "category": "Material standard",
+      "location": "Page 5",
+      "relevance": "Specifies blackheart malleable iron castings permitted as a cheek material."
+    },
+    {
+      "is_number": "IS : 1570 - 1961",
+      "title": "Schedules for wrought steels for general engineering purposes",
+      "category": "Material standard",
+      "location": "Page 5 & Page 6",
+      "relevance": "Specifies structural wrought carbon steel grades (C15, C20, and C30) used for structural components including sheaves, axle pins, locked pieces, straps, and nuts."
+    },
+    {
+      "is_number": "IS : 1030 - 1962",
+      "title": "Specification for steel castings for general engineering purposes",
+      "category": "Material standard",
+      "location": "Page 5 & Page 6",
+      "relevance": "Specifies steel castings permitted for block cheeks and supporting cross-heads."
+    },
+    {
+      "is_number": "IS : 6143 - 1971",
+      "title": "Specification for sheaves used with ship's blocks",
+      "category": "Allied Product Standard",
+      "location": "Clause 5.1 & Page 6",
+      "relevance": "Standardises dimensions of sheaves used within snatch block assemblies."
+    },
+    {
+      "is_number": "IS : 6144 - 1971",
+      "title": "Specification for axle pins used with ship's blocks",
+      "category": "Allied Product Standard",
+      "location": "Clause 5.1 & Page 6",
+      "relevance": "Standardises dimensions of axle pins used within snatch block assemblies."
+    },
+    {
+      "is_number": "IS : 6145 - 1971",
+      "title": "Specification for locking plate for axle pins used with ship's blocks",
+      "category": "Allied Product Standard",
+      "location": "Clause 5.1 & Page 6",
+      "relevance": "Standardises dimensions of locking plates used within snatch block assemblies."
+    },
+    {
+      "is_number": "IS : 6148 - 1971",
+      "title": "Specification for head fittings and round nuts used with ship's blocks",
+      "category": "Allied Product Standard",
+      "location": "Clause 5.1 & Page 6",
+      "relevance": "Standardises head fittings, round nuts, and oval eyes used within snatch block assemblies."
+    },
+    {
+      "is_number": "IS : 2102 - 1969",
+      "title": "Allowable deviations for dimensions without specified tolerances (first revision)",
+      "category": "Dimensional standard",
+      "location": "Clause 6.1 & Page 6",
+      "relevance": "Mandates that all dimensional tolerances without specified limits satisfy coarse deviations."
+    },
+    {
+      "is_number": "IS : 2 - 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Clause 0.4",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "DIN 82220",
+      "title": "Snatch blocks for wire ropes",
+      "category": "International Reference (German Standard)",
+      "location": "Foreword Clause 0.3",
+      "relevance": "German national standard from which considerable assistance was derived in preparing the Indian Standard."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System Standard",
+      "location": "Parallel Marine Engineering Category",
+      "relevance": "A fellow transport and marine engineering system standard present in the notebook, specifying pneumatic pressure ranges for starting and signaling air systems on-board inland waterways vessels."
+    },
+    {
+      "is_number": "IS 11294 (Part 1) : 1985",
+      "title": "Specification for Side Scuttles for Inland Vessels — Part 1: General Requirements",
+      "category": "Product Specification",
+      "location": "Parallel Marine Outfitting Category",
+      "relevance": "A fellow shipbuilding and outfitting standard present in the notebook, regulating framed portholes on hulls and superstructures."
+    },
+    {
+      "is_number": "IS 14337 : 1996",
+      "title": "Shipbuilding — Mineral Fibre Resin Bonded Slabs — Specification",
+      "category": "Product Specification",
+      "location": "Parallel Marine Thermal Insulation Category",
+      "relevance": "A fellow shipbuilding thermal insulation specification present in the notebook, regulating flat insulation slabs for ships' structures."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master national structural steel construction code in this notebook, regulating support framing, mast rigging structures, and connection details."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification / Mechanical Dimensions (Marine Outfitting / Cargo Gear)",
+    "certification_status": "Voluntary Quality and Performance Specification. Since snatch blocks are marine outfitting cargo-handling components rather than consumer products, they are certified on a voluntary basis under the BIS ISI Certification scheme. However, compliance with IS 6140:1971 is universally required by marine surveyors, classification societies (such as IRS, LRS, or DNV-GL), the Indian Navy, and dock safety inspectors under Indian Dock Labour Regulations to approve shipboard cargo gear and rigging systems.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every snatch block satisfying this standard may be legibly marked with the BIS Standard Mark (ISI Mark) as a guarantee of quality and load-bearing safety.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Permitted Operational Applications",
+        "detail": "Snatch blocks using wire ropes are strictly restricted to the following onboard operations: a) Deck lead blocks; b) Span blocks single or double reeved for topping an unloaded derrick; c) Lead blocks for guy tackle runners, provided the runner is turned to an angle of not more than 90°.",
+        "clause_reference": "Clause 0.2.3"
+      },
+      {
+        "requirement_type": "Standard Material Specifications",
+        "detail": "Establishes standard materials for all block components: \na) Cheeks: Grey Cast Iron (IS 210 Gr 25), Spheroidal Graphite Iron (IS 1865 Gr SG 38), Whiteheart (IS 2107) or Blackheart (IS 2108) Malleable Iron, C20 wrought carbon steel (IS 1570), or Cast Steel (IS 1030);\nb) Sheave: Siemens Martin wrought steel C20 or fully killed open-hearth steel C15 (IS 1570);\nc) Axle Pin, Locking Plate, and Hinged Straps (Main & Locking Pieces): fully killed open-hearth steel C15;\nd) Pin for Hinged supporting strap: wrought carbon steel C30;\ne) Supporting Cross-Head: wrought steel C15 or Cast Steel (IS 1030);\nf) Oval Eye, Head Fitting, and Round Nuts: wrought carbon steel C20.",
+        "clause_reference": "Page 5 & Page 6 (Component Table)"
+      },
+      {
+        "requirement_type": "Nominal Size Designations",
+        "detail": "Specifies five standard block nominal sizes corresponding to safe working loads (SWL) and sheave sizes: Size 1 (150 mm cheek), Size 2 (200 mm), Size 3 (240 mm), Size 5 (320 mm), and Size 8 (400 mm).",
+        "clause_reference": "Clause 2.5, Clause 5.1, Table 1 & Table 2"
+      },
+      {
+        "requirement_type": "Cheek Dimensions (Table 2)",
+        "detail": "Specifies detailed cheek dimensions (in mm) for nominal sizes 150 to 400. Examples:\na) Size 150: h1 = 150 mm, h2 = 50 mm, d2 = 25 mm, h3 = 166 mm, h4 = 71 mm, d3 = 35 mm, l5 = 55 mm, s1 = 3 mm, t5 = 26 mm, b2 = 50 mm, b3 = 24 mm;\nb) Size 400: h1 = 400 mm, h2 = 130 mm, d2 = 70 mm, h3 = 445 mm, h4 = 189 mm, d3 = 90 mm, l5 = 145 mm, s1 = 7 mm, t5 = 78 mm, b2 = 130 mm, b3 = 62 mm.",
+        "clause_reference": "Table 2"
+      },
+      {
+        "requirement_type": "Hinged Strap Locking Piece Dimensions (Table 4)",
+        "detail": "Table 4 unifies dimensions of the locking piece for nominal sizes 150 to 400 (Sizes 1 to 8). Examples:\na) Size 1 (150): b4 = 50, b5 = 26, d5 = 16, d6 = 30, e5 = 14, k1 = 16, k2 = 11, l6 = 70, l7 = 94, m1 = 15, n1 = 7, n2 = 31, r5 = 22, r6 = 9.5, r7 = 5.5, d8 = 6;\nb) Size 8 (400): b4 = 130, b5 = 64, d5 = 40, d6 = 80, e5 = 40, k1 = 41, k2 = 25, l6 = 185, l7 = 249, m1 = 40, n1 = 13, n2 = 83, r5 = 70, r6 = 24.5, r7 = 13.0, d8 = 16.",
+        "clause_reference": "Table 4"
+      },
+      {
+        "requirement_type": "Cross-Head for Supporting Straps Dimensions (Table 5)",
+        "detail": "Table 5 unifies dimensions of the cross-head for nominal sizes 150 to 400 (Sizes 1 to 8). Examples:\na) Size 1 (150): b6 = 50, e = 2.5, d9 = 16, d10 = 26, e5 = 14, f = 22, g = 40, m2 = 5.0, p = 7.5, q = 12, r8 = 8.0, r9 = 4, t1 = 6;\nb) Size 8 (400): b6 = 130, e = 4.0, d9 = 45, d10 = 66, e5 = 40, f = 60, g = 100, m2 = 8.0, p = 18.0, q = 28, r8 = 22.5, r9 = 11, t1 = 16.",
+        "clause_reference": "Table 5"
+      },
+      {
+        "requirement_type": "Standard Proof Load Testing",
+        "detail": "The snatch block as a whole must be subjected to a static proof load test. The test load must be exactly four (4) times the declared Safe Working Load (SWL) of the block.",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Proof Test Holding Duration",
+        "detail": "The proof test load must be applied and held continuously for a minimum period of five (5) minutes.",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Post-Testing Deformation Check",
+        "detail": "At the conclusion of the proof test, the snatch block must be disassembled, and all components must be carefully inspected for permanent deformation, cracks, or other structural defects. Blocks shall be approved subject to showing zero permanent deformation.",
+        "clause_reference": "Clause 7.2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS : 6140 - 1971",
+    "Snatch Blocks",
+    "Shipbuilding",
+    "Marine Outfitting",
+    "Hinged Strap",
+    "Locking Piece",
+    "Sheave",
+    "Axle Pin",
+    "Cross-Head",
+    "Safe Working Load SWL",
+    "Proof Load Test",
+    "Deformation",
+    "DIN 82220",
+    "MCPD 1"
+  ],
+  "plain_language_summary": {
+    "summary": "IS : 6140 - 1971 (Reaffirmed 2022) is the national Indian Standard specification governing snatch blocks (hinged-strap wire rope pulleys) utilized for shipboard rigging and cargo gear outfitting. Developed under the technical supervision of the Shipbuilding Sectional Committee (MCPD 1) with considerable design assistance from the German standard DIN 82220, this standard unifies the dimensions, materials, and testing parameters for blocks across five nominal sizes (ranging from 150 mm to 400 mm). To guarantee absolute maritime safety and prevent failure during load handling, it enforces strict operational constraints—limiting wire-rope snatch blocks to deck leads, topping spans, and limited-angle guy tackle runners—and mandates that the assembled block withstand a proof load of four times its Safe Working Load (SWL) for five minutes without exhibiting any permanent deformation or structural cracks upon disassembly."
+  },
+  "source_information": {
+    "source_pdf_filename": "6140_1971_reff2022.pdf",
+    "document_version_edition": "First Edition, May 1971 (Reaffirmed 2022)"
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "basic_identification": {
+    "is_number": "IS 8752 : 1978",
+    "full_title": "Specification for Towing Hook for Use Between Trailers of Up to 5 Tonnes Gross Mass and Transport Tractor",
+    "sector_category": "Transport Engineering / Transport Tractors and Trailers (approved by the Marine, Cargo Movement and Packaging Division Council and finalized by the Transport Tractors and Trailers Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "43.040.10; 43.160",
+    "sectional_committee": {
+      "name": "Transport Tractors and Trailers Sectional Committee",
+      "number": "TED 22"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the material, design, dimensions, and marking requirements for towing hooks utilized for coupling transport tractors and trailers where the gross mass of the towed trailer or laden train of multiple trailers does not exceed 5 tonnes gross mass.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, September 1978 (Reaffirmed 2014, Reviewed and Reaffirmed in 2022)",
+    "year_first_published": "1978",
+    "revision_history": [
+      {
+        "edition": "First Edition (officially adopted to standardise coupling components for light agricultural and transport trailers)",
+        "year": "1978"
+      }
+    ],
+    "supersedes": "None (first standard established to specify towing hooks for up to 5 tonnes hauling capacity)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1875 - 1971",
+      "title": "Specification for carbon steel billets, blooms, slabs and bars for forgings (third revision)",
+      "category": "Material standard",
+      "location": "Clause 2.2",
+      "relevance": "Specifies carbon steel grade requirements, requiring that forged towing hooks be fabricated from Grade C30 steel in a normalized condition."
+    },
+    {
+      "is_number": "IS 2708 - 1973",
+      "title": "Specification for 1.5 percent manganese steel castings (first revision)",
+      "category": "Material standard",
+      "location": "Clause 2.3",
+      "relevance": "Specifies chemical and physical criteria for castings, requiring that cast towing hooks conform to Grade 2 manganese steel castings."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Data Evaluation Standard",
+      "location": "Foreword",
+      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 8298 : 1976",
+      "title": "Specification for towing jaw for use between trailers of up to 5 tonnes gross mass and transport tractor",
+      "category": "Product standard",
+      "location": "Foreword",
+      "relevance": "Parallel coupling standard specifying requirements for towing jaws rather than towing hooks for the same 5-tonne hauling capacity."
+    },
+    {
+      "is_number": "IS 8903 : 1978",
+      "title": "Specification for drawbars for trailers of up to 5 tonnes gross mass",
+      "category": "Product standard",
+      "location": "Foreword",
+      "relevance": "Compatible coupling counterpart standard specifying drawbar eye dimensions that directly lock into the IS 8752 towing hook."
+    },
+    {
+      "is_number": "IS 8299 : 1976",
+      "title": "Specification for towing hook for use between trailers of up to 16 tonnes gross mass and transport tractor",
+      "category": "Product standard",
+      "location": "Foreword",
+      "relevance": "A higher-capacity coupling standard specifying towing hooks for medium-duty haulage (up to 16 tonnes)."
+    },
+    {
+      "is_number": "IS 8300 : 1976",
+      "title": "Specification for towing hook for use between trailers of up to 35 tonnes gross mass and transport tractor",
+      "category": "Product standard",
+      "location": "Foreword",
+      "relevance": "A heavy-duty coupling standard specifying towing hooks for heavy freight and multi-trailer setups (up to 35 tonnes)."
+    },
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport and engineering standard present in the notebook, specifying pneumatic pressure ranges."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel construction code in this notebook, regulating support framing, weld connections, and fastener clearances."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification / Mechanical Coupling Component",
+    "certification_status": "Voluntary Quality and Performance Specification. Certification under the BIS ISI Mark Scheme is voluntary for this standard. However, compliance with IS 8752:1978 is universally mandated by Regional Transport Offices (RTOs), vehicle type-approval laboratories (such as ARAI, GARC, and ICAT) under Rule 120 of the Central Motor Vehicles Rules (CMVR), 1989, and public logistics contracts to guarantee coupling safety, ensure roadworthiness of laden trains, and prevent tractor-trailer decoupling. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every certified towing hook conforming to this standard may be legibly marked with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) on the body.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Permitted Materials & Heat-Treatment",
+        "detail": "Towing hooks must be either forged or cast. Forged hooks must be manufactured from Grade C30 carbon steel per IS 1875-1971 in a normalized heat-treatment condition. Cast hooks must be manufactured from Grade 2 1.5% manganese steel castings per IS 2708-1973.",
+        "clause_reference": "Clause 2.1, 2.2 & 2.3"
+      },
+      {
+        "requirement_type": "Laden Train Capacity Boundaries",
+        "detail": "The towing hook is strictly restricted to light haulage applications. The gross laden train mass (including single or multiple towed trailers) must not exceed 5 tonnes.",
+        "clause_reference": "Clause 1.2"
+      },
+      {
+        "requirement_type": "Mandatory Mechanical Safety Catch",
+        "detail": "An efficient safety catch must be provided as shown in Fig. 1. The safety catch must lock automatically or be manually secured to prevent accidental detachment of the trailer drawbar eye from the hook during dynamic field movements.",
+        "clause_reference": "Clause 4.1 & Fig. 1"
+      },
+      {
+        "requirement_type": "Specific Legible Stamped Markings",
+        "detail": "Each towing hook must be legibly and permanently marked at an appropriate place with: a) 'TO TOW 5 TONNES GROSS' on one side of the body; and b) 'IS : 8752' on the opposite side to designate its maximum capacity and standard conformity.",
+        "clause_reference": "Clause 6.1 & Clause 6.2"
+      },
+      {
+        "requirement_type": "Coupling Sizing Interchangeability",
+        "detail": "All coupling jaw openings, hook curvatures, and shank dimensions must conform strictly to Fig. 1 to ensure standard clearance and seamless matching with drawbar eyes.",
+        "clause_reference": "Clause 3.1 & Fig. 1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 8752 : 1978",
+    "Towing Hook",
+    "Trailer Coupling",
+    "Transport Tractor",
+    "Gross Mass 5 Tonnes",
+    "Grade C30 Steel",
+    "Normalized Condition",
+    "Manganese Steel Castings",
+    "Safety Catch",
+    "Drawbar Eye",
+    "TED 22",
+    "CMVR Rule 120",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 8752 : 1978 is the national Indian Standard specification governing towing hooks utilized to connect agricultural or commercial transport trailers of up to 5 tonnes gross mass to transport tractors. Formulated by the Transport Tractors and Trailers Sectional Committee (TED 22), this standard regulates the material properties, dimensions, and design requirements of the hook assembly. It specifies that forged hooks must be made of Grade C30 normalized carbon steel, whereas cast hooks must conform to Grade 2 1.5% manganese steel castings. It also mandates an efficient, secure safety catch to prevent the trailer drawbar from slipping off during transport and enforces specific on-body stamped markings designating 'TO TOW 5 TONNES GROSS' and 'IS : 8752' to ensure compliance and towing safety."
+  },
+  "source_information": {
+    "source_pdf_filename": "8752_1978_reff2022.pdf",
+    "document_version_edition": "First Edition, September 1978 (Reaffirmed 2022)"
+  }
+}

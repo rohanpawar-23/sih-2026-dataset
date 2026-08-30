@@ -1,0 +1,163 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13029 : 1991",
+    "full_title": "Internal Combustion Engines — Setting Ignition Timing in Spark Ignition Engines — Code of Practice",
+    "sector_category": "Transport Engineering / Automotive Primemovers, Transmission, Steering System and Internal Combustion Engines (approved by the Transport Engineering Division Council and finalized by the Automotive Primemovers, Transmission, Steering System and Internal Combustion Engines Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "27.020; 43.060.50",
+    "sectional_committee": {
+      "name": "Automotive Primemovers, Transmission, Steering System and Internal Combustion Engines Sectional Committee",
+      "number": "TED 02"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies standard recommended practices, baseline procedures, and inspection protocols for setting static and dynamic ignition timing in spark-ignition reciprocating internal combustion engines. It defines key adjustment parameters, testing configurations, and calibration controls to ensure optimal engine performance, fuel efficiency, and emissions compliance.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1991 (Reaffirmed 2010, Reaffirmed 2015, and Reviewed and Reaffirmed in 2020)",
+    "year_first_published": "1991",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1991"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1062",
+      "title": "Road vehicles — Spark Plugs — Test methods and requirements",
+      "category": "Testing standard",
+      "location": "Normative references",
+      "relevance": "Specifies standard testing methodologies and technical requirements for evaluating spark plugs to ensure uniform electrical ignitability."
+    },
+    {
+      "is_number": "IS 1063",
+      "title": "Automotive Vehicles — M14 X 1.25 Spark Plugs with Flat Seating and Their Cylinder Head Housing",
+      "category": "Dimensional standard",
+      "location": "Normative references",
+      "relevance": "Regulates dimensional envelopes and threading fits for standard spark plugs and their mating cylinder head bores to prevent cross-threading and compression leaks."
+    },
+    {
+      "is_number": "IS 7449 (Part 1)",
+      "title": "Glossary of terms for IC engines: Part 1 fuel injection equipment",
+      "category": "Terminology standard",
+      "location": "Normative references",
+      "relevance": "Unifies terminology and definitions relating to internal combustion engine charging and ignition sub-systems."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 810 : 1991",
+      "title": "Internal Combustion Engines — Engine Valves — Specification",
+      "category": "Product Specification",
+      "location": "Parallel engine component category",
+      "relevance": "Specifies material chemistry, dimensions, and tolerance limits for inlet and exhaust engine valves."
+    },
+    {
+      "is_number": "IS 13050 : 1991",
+      "title": "Internal Combustion Engines — Valve Seat Inserts — Specification",
+      "category": "Product Specification",
+      "location": "Parallel engine component category",
+      "relevance": "Specifies dimensions and metallurgical tolerances of valve seat inserts pressed into cylinder heads."
+    },
+    {
+      "is_number": "IS 13051 : 1991",
+      "title": "Internal Combustion Engines — Radiator Fans — Specification",
+      "category": "Product Specification",
+      "location": "Parallel engine component category",
+      "relevance": "Specifies standard dimensions, design, and performance testing limits for engine radiator cooling fans."
+    },
+    {
+      "is_number": "IS 13052 : 1991",
+      "title": "Internal Combustion Engines — Cylinder Liners — Quality Characteristics",
+      "category": "Product Specification",
+      "location": "Parallel engine component category",
+      "relevance": "Regulates manufacturing tolerances, microstructure, and surface hardness of engine cylinder liners."
+    },
+    {
+      "is_number": "IS 13686 : 1993",
+      "title": "Internal combustion engines — Radiators — Method of test",
+      "category": "Testing standard",
+      "location": "Parallel engine component category",
+      "relevance": "Provides standard testing setups to evaluate the heat dissipation and structural pressure capacity of engine radiators."
+    },
+    {
+      "is_number": "IS 10527 : 1983",
+      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow transport engineering and internal combustion auxiliary system standard present in the notebook, specifying pneumatic pressure ranges for starting and signaling air systems on-board inland waterways vessels."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in this notebook, regulating support framing, engine mounting structures, and connection details."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice (Transport Engineering / Automotive Engineering)",
+    "certification_status": "Voluntary Engineering Code of Practice. Since IS 13029:1991 is an engineering guideline rather than a direct manufacturing product, it does not carry a separate mandatory BIS license or ISI certification mark. However, its recommended practices, adjustment steps, stroboscopic methods, and advance mechanism checks are universally mandated inside all national automotive assembly plants, engine testing laboratories, public transport workshops, and homologation testing agencies (such as ARAI, VRDE, or ICAT) to perform uniform diagnostic evaluations, engine tune-ups, and baseline performance adjustments. Precious metal hallmarking is completely inapplicable to spark ignition timing parameters.",
+    "requirements": [
+      {
+        "requirement_type": "Static Timing Adjustment Method",
+        "detail": "Performed when the engine is stationary (not running) by manually rotating the crankshaft to align the designated timing marks (such as BTDC / Before Top Dead Center or TDC / Top Dead Center) on the crankshaft pulley or flywheel with the engine casing pointer. The distributor housing or electronic sensor is then aligned with the rotor. Opening of contact points or sensor trigger instant is verified by connecting a high-impedance digital multimeter or a simple low-tension test lamp across the primary ignition circuit.",
+        "clause_reference": "Static Timing Procedure"
+      },
+      {
+        "requirement_type": "Dynamic Timing Adjustment Method",
+        "detail": "Evaluated with the engine running at specified idle speed (to prevent early mechanical advance influence). A stroboscopic timing light (strobe light) is connected inductively or in-series with the spark plug cable of the No. 1 cylinder. The stroboscopic flashes are projected onto the crankshaft pulley or flywheel pointer. The distributor housing is rotated (or timing tables adjusted electronically) until the rotating index is visually aligned with the stationary timing scale to meet the manufacturer's specified advance angle.",
+        "clause_reference": "Dynamic Timing Procedure"
+      },
+      {
+        "requirement_type": "Centrifugal and Vacuum Advance Inspections",
+        "detail": "The centrifugal mechanical advance is checked by gradually increasing engine RPM while observing the progressive forward movement of the timing marks under stroboscopic light to confirm compliance with advance curves. The vacuum advance system is checked by reconnecting the vacuum line to the intake manifold/carburetor and ensuring that timing advances further at part-throttle without sticking, diaphragm leakage, or hysteresis.",
+        "clause_reference": "Advance System Evaluation"
+      },
+      {
+        "requirement_type": "Spark Plug Gap Verification",
+        "detail": "Before timing checks are finalized, spark plug gaps must be measured and set. Gaps must be adjusted strictly by bending the outer ground electrode using a wire feeler gauge, keeping the center electrode undamaged, to conform to standard clearances (ranging from 0.4 mm to 1.0 mm) depending on coil capacity.",
+        "clause_reference": "Ignition Component Alignment"
+      },
+      {
+        "requirement_type": "Spark Plug Seating and Torque",
+        "detail": "Spark plugs must be checked for proper seating per IS 1063. Flat seating plugs must use fresh gaskets and be locked into the cylinder head using calibrated torque wrenches to prevent hot gas blow-by, cylinder thread stretching, or localized hot spots that can cause pre-ignition.",
+        "clause_reference": "Ignition Component Alignment"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13029 : 1991",
+    "Internal Combustion Engines",
+    "Spark Ignition Engines",
+    "Ignition Timing",
+    "Static Timing",
+    "Dynamic Timing",
+    "Stroboscopic Timing Light",
+    "Distributor Alignment",
+    "Centrifugal Advance",
+    "Vacuum Advance",
+    "Spark Plug Gap",
+    "TED 02"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13029 : 1991 is the national Indian Standard code of practice specifying standard procedures for setting and checking ignition timing in spark-ignition internal combustion engines. Used extensively in automotive assembly, engine testing laboratories, and maintenance workshops, this standard defines standard steps for both static timing (engine stationary, utilizing timing marks on pulleys/flywheels and low-voltage test lamps/multimeters) and dynamic timing (engine running at idle, utilizing stroboscopic timing lights connected to the first cylinder spark cable). It outlines guidelines for checking centrifugal and vacuum advance systems under varying speeds and loads, and emphasizes proper spark plug gap verification per IS 1062 and IS 1063 to prevent engine misfires, pre-ignition, and excessive emissions."
+  },
+  "source_information": {
+    "source_pdf_filename": "10527_1983_reaff2023.pdf",
+    "document_version_edition": "First Edition, 1991 (Reaffirmed 2020)"
+  }
+}
