@@ -1,0 +1,158 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13521 : 1992",
+    "full_title": "MARKING SYSTEM FOR DIAMOND/CUBIC BORON NITRIDE ABRASIVE PRODUCTS",
+    "sector_category": "Production Engineering / Abrasives (approved by the Production Engineering Division Council and finalized by the Abrasive Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "UDC 621.92.025 : 621-921-34",
+    "sectional_committee": {
+      "name": "Abrasive Sectional Committee",
+      "number": "PE 09"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the system for marking of diamond/cubic boron nitride abrasive products. It does not cover the abrasive bonded products made of alumina or silicon carbide grains, which are covered under separate specifications.",
+    "clause_number": "Clauses 1 & 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, September 1992 (Reaffirmed 2002)",
+    "year_first_published": "1992",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1992"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": []
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 551 : 1989",
+      "title": "Marking system for bonded abrasive products (other than diamond/cubic boron nitride) (second revision)",
+      "category": "Normative / General Abrasive Marking",
+      "location": "Clause 1.1 / Clause 2",
+      "relevance": "Provides the marking guidelines for conventional abrasives (alumina and silicon carbide), which are explicitly excluded from the scope of this standard."
+    },
+    {
+      "is_number": "IS 10960 (Part 1) : 1984",
+      "title": "Grain sizes for diamond or cubic boron nitride : Part 1 Designation and grain sizes distribution",
+      "category": "Normative / Grain Size Standard",
+      "location": "Clause 2 / Clause 4.2",
+      "relevance": "Provides the specific technical reference for designating grain sizes (Sequence 2) within the abrasive marking string."
+    },
+    {
+      "is_number": "ANSI B74.13-1982",
+      "title": "Markings for identifying grinding wheels and other bonded abrasives",
+      "category": "Technical Reference / International Abrasive Standard",
+      "location": "Foreword",
+      "relevance": "The international American National Standard from which considerable assistance and layout formulations were derived during the drafting of this Indian Standard."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 551 : 1989",
+      "title": "Marking system for bonded abrasive products (other than diamond/cubic boron nitride) (second revision)",
+      "category": "Normative / General Abrasive Marking",
+      "location": "Clause 1.1 / Clause 2",
+      "relevance": "Provides the marking guidelines for conventional abrasives (alumina and silicon carbide), which are explicitly excluded from the scope of this standard."
+    },
+    {
+      "is_number": "IS 10960 (Part 1) : 1984",
+      "title": "Grain sizes for diamond or cubic boron nitride : Part 1 Designation and grain sizes distribution",
+      "category": "Normative / Grain Size Standard",
+      "location": "Clause 2 / Clause 4.2",
+      "relevance": "Provides the specific technical reference for designating grain sizes (Sequence 2) within the abrasive marking string."
+    },
+    {
+      "is_number": "ANSI B74.13-1982",
+      "title": "Markings for identifying grinding wheels and other bonded abrasives",
+      "category": "Technical Reference / International Abrasive Standard",
+      "location": "Foreword",
+      "relevance": "The international American National Standard from which considerable assistance and layout formulations were derived during the drafting of this Indian Standard."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Marking and Designation System Specification",
+    "certification_status": "Governed by the Bureau of Indian Standards. It is emphasized that this standard applies solely to standard marking symbols and does not certify the dynamic operating performance of the grinding wheel.",
+    "requirements": [
+      {
+        "requirement_type": "Performance and Maker Variance Disclaimer",
+        "detail": "Grinding wheels sharing identical standard symbols but produced by different manufacturers may behave differently in use. The markings guarantee symbolic uniformity rather than identical dynamic operating performance.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Small Wheels Sizing Exception",
+        "detail": "Allows modified marking systems on smaller grinding wheels (diameters less than 76.2 mm) to conform to historical and practical trading practices followed within the country.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Procurement Ordering Protocol",
+        "detail": "To guarantee correct replacement supplies, buyers should include both the name of the previous manufacturer and the exact markings printed on the wheel or its supplied tags in their enquiries.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Core 9-Symbol Sequence Framework",
+        "detail": "Defines a systematic, linear marking sequence comprised of nine distinct characteristics (seven mandatory and two optional) arranged in a strict sequence numbered 0 to 8.",
+        "clause_reference": "Clause 3.1 & Fig. 1"
+      },
+      {
+        "requirement_type": "Sequence 0: Manufacturer's Private Grain Symbol",
+        "detail": "An optional prefix chosen by the manufacturer to indicate the private nature, variation, or origin of the specific abrasive grain. Precedes Sequence 1.",
+        "clause_reference": "Clause 3.1, Clause 4.1.1 & Fig. 1"
+      },
+      {
+        "requirement_type": "Sequence 1: Abrasive Mineral Type",
+        "detail": "Specifies strict letter codes to designate the hard abrasive mineral used: 'B' for Cubic Boron Nitride (CBN) and 'D' for Diamond.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Sequence 2: Abrasive Grain Size",
+        "detail": "Mandates grain size representation via standard numbers in reference to IS 10960 (Part 1). May optionally be followed by a manufacturer-specific symbol indicating a blend of different grain sizes.",
+        "clause_reference": "Clauses 4.2 & 4.2.1"
+      },
+      {
+        "requirement_type": "Sequence 3: Hardness Grade",
+        "detail": "Indicated by an alphabetical letter code from 'A' to 'Z', where 'A' represents the softest bond grade and 'Z' represents the hardest.",
+        "clause_reference": "Clause 4.3"
+      },
+      {
+        "requirement_type": "Sequence 4: Concentration Range",
+        "detail": "An optional symbol defining relative grain spacing. Standardises the preferred concentration parameters at values of 50, 75, 100, 120, and 150.",
+        "clause_reference": "Clause 4.4"
+      },
+      {
+        "requirement_type": "Sequence 5: Bond Matrix Class",
+        "detail": "Specifies mandatory letters to define the structural bond type holding the abrasive grains: 'B' for Resinoid, 'M' for Metal, and 'V' for Vitrified.",
+        "clause_reference": "Clause 4.5"
+      },
+      {
+        "requirement_type": "Sequence 6, 7 & 8: Bond Modification, Depth, and ID",
+        "detail": "Concludes the standard string with Sequence 6 (Bond modification), Sequence 7 (Abrasive depth), and Sequence 8 (Optional manufacturer's private identification mark).",
+        "clause_reference": "Clause 3.1 & Fig. 1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13521 : 1992",
+    "Marking System",
+    "Bonded Abrasives",
+    "Diamond Products",
+    "Cubic Boron Nitride",
+    "CBN Grinding Wheels",
+    "Abrasive Grain Size",
+    "Bond Type",
+    "PE 09",
+    "Resinoid Bond",
+    "Vitrified Bond",
+    "ANSI B74.13"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13521 : 1992 is the national Indian Standard establishing a uniform classification and marking system for synthetic diamond and cubic boron nitride (CBN) bonded abrasive products. Formulated by the Abrasive Sectional Committee (PE 09) and drawing key guidelines from ANSI B74.13-1982, this standard maps a strict nine-symbol alphanumeric designation string. This sequence systematically identifies crucial wheel parameters—including manufacturer grain prefixes, mineral type ('D' or 'B'), standardized grain sizes (per IS 10960 Part 1), bond hardness grades ('A' to 'Z'), preferred grain concentrations (50 to 150), and structural bond categories ('B' for resinoid, 'M' for metal, and 'V' for vitrified). The standard highlights that these markings regulate dimensional/symbolic designations rather than dynamometric cutting performance, and allows simplified marking layouts for smaller wheels."
+  },
+  "source_information": {
+    "source_pdf_filename": "13521_1992_reff2020.pdf",
+    "document_version_edition": "First Edition, 1992 (Reaffirmed 2002)"
+  }
+}

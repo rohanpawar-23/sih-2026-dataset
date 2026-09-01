@@ -1,0 +1,144 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13466 : 1992",
+    "full_title": "Brushes for Electrical Machines — Specification (विद्युत मशीनों के ब्रश — विशिष्टि)",
+    "sector_category": "Electrotechnical / Rotating Machinery (approved by the Electrotechnical Division Council and finalized by the Rotating Machinery Sectional Committee, ET 15 / ETD 15, of the Bureau of Indian Standards)",
+    "ics_code": "29.160.01; 29.035.40",
+    "sectional_committee": {
+      "name": "Rotating Machinery Sectional Committee",
+      "number": "ETD 15"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the quality requirements, physical-mechanical design configurations, preferred dimensional combinations, and testing methods for carbon brushes (such as carbon, carbon-graphite, electrographitic, graphite, and metal-graphite blocks) fitted with flexible copper conductors (shunts/pigtails) used in rotating electrical machines.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, December 1992 (Reaffirmed 2003)",
+    "year_first_published": "1992",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13466 : 1992)",
+        "year": "1992"
+      }
+    ],
+    "supersedes": "IS 3003 (Part 3) : 1978 and IS 3003 (Part 4) : 1978",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 13584 : 1993",
+      "title": "Specification for brush materials for electrical machinery",
+      "category": "Product specification",
+      "relevance": "Provides baseline material characteristics, coefficient of friction, and wear rates for carbon blocks prior to slitting."
+    },
+    {
+      "is_number": "IS 13586 : 1993",
+      "title": "Definitions and nomenclature for carbon brushes, brush holders, commutators and slip rings for rotating electrical machinery",
+      "category": "Terminology standard",
+      "relevance": "Establishes unified definitions and letter designations for electrical brushes."
+    },
+    {
+      "is_number": "IS 13525 : 1992",
+      "title": "Flexible conductors for carbon brushes — Specification",
+      "category": "Conductor standard",
+      "relevance": "Regulates copper wire diameters, purity, and stranding combinations used to build embedded shunt pigtails."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Pumpset motor start/running circuits rely on carbon brushes that must satisfy mechanical clearances and connection drop testing of IS 13466."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Winding ends and housings treated with hot-curing varnishes must maintain chemical compatibility with the brush substrate and shunt connections to avoid contact contamination."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Enforces testing yard safety audits where high-current terminal connections, high-temperature operations, and rotating machinery are verified."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork and machinery bases inside steel fabrication factories."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Material Specification (Electrotechnical Department / Rotating Machinery)",
+    "certification_status": "Voluntary Product Certification. Every manufacturer of carbon brushes is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the product packaging, indicating compliance with IS 13466.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, pigtail dimensions, or joint drop voltages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Dimensional Naming Sequence",
+        "detail": "Brush dimensions must always be stated in millimeters in the sequence t * a * r, representing tangential thickness (t), axial width (a), and radial length (r). Square section brushes are not recommended.",
+        "clause_reference": "Clause 13.3"
+      },
+      {
+        "requirement_type": "g-Value Clearance Limits",
+        "detail": "Defines parameter g (clearance from the top of the brush block or bevel to the entry point of embedded flexibles). For 4 flexibles, Table 6 provides standardized maximum g limits between 13 and 21 mm.",
+        "clause_reference": "Clause 5.7"
+      },
+      {
+        "requirement_type": "Crimped/Soldered Terminals",
+        "detail": "Flexible copper shunts must be securely crimped or crimped and soldered to terminal ends (e.g. open spade, closed spade, flag, or double shoe) as per the purchaser's specifications.",
+        "clause_reference": "Clause 6.2"
+      },
+      {
+        "requirement_type": "10X Visual Workmanship",
+        "detail": "Assembled brushes must be examined under a magnifying glass of minimum 10X magnification factor for structural cracks, edge chipping, surface smoothness, and loose connections.",
+        "clause_reference": "Clause 16.4"
+      },
+      {
+        "requirement_type": "Connection Drop Test",
+        "detail": "Evaluates joint resistance between the carbon block and the flexible shunt using a millivolt drop tester under specified currents.",
+        "clause_reference": "Clause 16.6"
+      },
+      {
+        "requirement_type": "Pigtail Pull-Out Strength",
+        "detail": "Conducted only for brushes with tamped or molded connections. The shunt wire must withstand pull tests using test rigs in Annex E, with pull-out strengths exceeding the specified thresholds in Table 3.",
+        "clause_reference": "Clause 16.7"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13466 : 1992",
+    "Carbon Brushes",
+    "Electrical Rotating Machines",
+    "Pigtail Pull-Out Strength",
+    "g-Value Clearance",
+    "Dimensional sequence t x a x r",
+    "Double sampling lot plan",
+    "Connection Drop Test",
+    "Annex C Table 16",
+    "ETD 15",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13466 : 1992 (Reaffirmed 2003) is the primary national Indian Standard specification prescribing design, dimensional, material, and testing requirements for carbon brushes used in electrical rotating machines. Maintained under the Rotating Machinery Sectional Committee (ET 15), the standard supersedes older parts of the IS 3003 series and aligns with international standards IEC 60136 and IEC 60773. It mandates a strict t x a x r dimensional convention (tangential, axial, radial dimensions), defines preferred size combinations, and prohibits square-section brushes to prevent mechanical instability. The code regulates pigtail flex shunts, standardizes g-value clearances, and enforces a rigorous quality control scheme—including 10X magnifying glass checks, millivolt drop tests, and pigtail pull-out strength tests—supported by standard double-sampling acceptance tables under Annex C to guarantee reliable motor operation across national grids."
+  },
+  "source_information": {
+    "source_pdf_filename": "13466.pdf",
+    "document_version_edition": "First Edition, December 1992"
+  }
+}

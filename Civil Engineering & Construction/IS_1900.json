@@ -1,0 +1,174 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1900 : 1974",
+    "full_title": "Methods of Tests for Wood Poles (First Revision) (लकड़ी के खंभों के परीक्षण की पद्धतियां (पहला पुनरीक्षण))",
+    "sector_category": "Civil Engineering / Timber and Timber Stores (approved by the Civil Engineering Division Council and finalized by the Timber and Timber Stores Sectional Committee, CED 9, of the Bureau of Indian Standards)",
+    "ics_code": "79.080; 29.240.20",
+    "sectional_committee": {
+      "name": "Timber and Timber Stores Sectional Committee",
+      "number": "CED 9"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the methods of tests conducted on full-size wood poles to determine their physical characteristics, structural strength, allowable design stresses, elastic properties, and the influence of preservative treatments and natural defects (such as knots, checks, shakes, and taper) for overhead power and telecommunication lines.",
+    "clause_number": "Clause 1.1 / Section 1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 1974 (Reaffirmed 2022)",
+    "year_first_published": "1961",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 1900 : 1961)",
+        "year": "1961"
+      },
+      {
+        "edition": "First Revision (IS 1900 : 1974)",
+        "year": "1974"
+      }
+    ],
+    "supersedes": "IS 1900 : 1961",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed first revision copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1708 (All Parts)",
+      "title": "Methods of testing small clear specimens of timber",
+      "category": "Testing standard",
+      "relevance": "Specifies physical and mechanical testing procedures, including oven-drying methods, used to calibrate moisture content on small clear wood specimens cut from tested poles."
+    },
+    {
+      "is_number": "IS 2408",
+      "title": "Methods of static tests of timbers in structural sizes",
+      "category": "Testing standard",
+      "relevance": "Establishes unified static bending testing methods for structural-sized timber elements."
+    },
+    {
+      "is_number": "IS 4905 : 1968",
+      "title": "Methods for random sampling",
+      "category": "Sampling standard",
+      "relevance": "Provides randomized mathematical sampling protocols to select representative wood poles from a production lot."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated dimensions, deflection rates, and fiber stresses to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 876",
+      "title": "Wood Poles for Overhead Power and Telecommunication Lines — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee (CED 9)",
+      "relevance": "The master product specification for wood poles in India, mandating species selections, preservative treatments, and grading, whose structural performance is verified via the static bending tests of IS 1900."
+    },
+    {
+      "is_number": "IS 6056",
+      "title": "Specification for jointed wood poles for overhead power and telecommunication lines",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee (CED 9)",
+      "relevance": "Regulates jointed splice poles, which are subjected to cantilever testing under IS 1900 to ensure the splice does not compromise the pole's load capacity."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department / CHD 08",
+      "relevance": "Regulates safety audits on municipal power and utility networks, where wood poles must be physically and structurally inspected to prevent unexpected decay-based collapses."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System (First Revision)",
+      "category": "Management standard",
+      "location": "Chemical Department / CHD 08",
+      "relevance": "Unifies risk mitigation systems, mandating regular structural inspections of utility networks and supporting frames to ensure public and worker safety."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, concrete crib reinforcements, and winch connections utilized to build high-capacity cantilever testing beds in civil laboratories."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Methods of Test / Technical Laboratory Guidelines (Civil Engineering Department / Timber and Timber Stores)",
+    "certification_status": "Voluntary Code of Practice. Since IS 1900 is an analytical testing standard rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its cantilever and machine test configurations is strictly required under utility board supply contracts (such as State Electricity Boards), national forestry tenders, and power-grid infrastructure audits across India.",
+    "requirements": [
+      {
+        "requirement_type": "Concrete Crib Anchor Setup",
+        "detail": "For static cantilever testing, the butt end of the full-size pole must be rigidly clamped from the base up to the ground line inside a standardized concrete crib layout to simulate real-world ground embedment.",
+        "clause_reference": "Foreword & Fig. 2"
+      },
+      {
+        "requirement_type": "Rate of Static Loading Deflection",
+        "detail": "The lateral load must be applied at a constant, continuous rate to cause deflection at the point of load of N cm/min, calculated using the formula: N = 0.00015 * L^2 * Cg.",
+        "clause_reference": "Clause 5.2.3.3"
+      },
+      {
+        "requirement_type": "Deflection Equation Parameters",
+        "detail": "Under the rate of deflection formula, 'N' represents the deflection rate in cm/min, 'L' is the lever arm distance in cm, and 'Cg' is the circumference at the ground line in cm.",
+        "clause_reference": "Clause 5.2.3.3"
+      },
+      {
+        "requirement_type": "Pulling Line Securement",
+        "detail": "The pulling steel cable must be secured tightly around the pole at the designated load point, equipped with inline dynamometers or load cells to record lateral tension during pulling.",
+        "clause_reference": "Clause 5.2.3.4"
+      },
+      {
+        "requirement_type": "Ground Line Stress Calculation",
+        "detail": "The maximum fibre stress at the ground line (F) must be calculated using the equation: F = (P * l) / Z, where P is load at failure in kg, l iscorrected lever arm in cm, and Z is the section modulus (Gg^3 / (32 * pi^2)) using ground-line circumference.",
+        "clause_reference": "Clause 5.2.3.5(a)"
+      },
+      {
+        "requirement_type": "Break Point Stress Calculation",
+        "detail": "If a pole fractures at a point other than the ground line, the fibre stress at break (Fb) is calculated using the equation: Fb = (P * l1) / Zb, where l1 is distance from break to point of load in cm, and Zb is (Gb^3 / (32 * pi^2)) using break circumference.",
+        "clause_reference": "Clause 5.2.3.5(b)"
+      },
+      {
+        "requirement_type": "Defect Influence Recording",
+        "detail": "Requires recording all natural defects (knots, checks, shakes, splits, and taper) before testing to evaluate their structural influence on strength and stress limits.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Detailed Dimensional Log",
+        "detail": "The test report must record the cross-section dimensions at five critical points: ground line, load point, top end, butt end, and break point.",
+        "clause_reference": "Clause 5.2.3.5 & Record List"
+      },
+      {
+        "requirement_type": "Moisture Content Determination",
+        "detail": "Because timber strength varies significantly with moisture, the moisture content of the pole at the time of testing must be determined on small clear specimens cut from the pole using standardized oven drying.",
+        "clause_reference": "Foreword & IS 1708"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "All observed or calculated physical dimensions, deflection values, and stresses must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1900 : 1974",
+    "Wood Poles testing",
+    "Cantilever Bending Test",
+    "Rate of Deflection",
+    "Concrete Crib Layout",
+    "Maximum Fibre Stress",
+    "Ground Line Circumference",
+    "Section Modulus Z",
+    "Timber Defects Knots",
+    "Moisture Content",
+    "CED 9",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1900 : 1974 (First Revision) is the national Indian Standard test specification prescribing methods for testing full-size wood poles used in overhead power and telecommunication lines. Maintained under the Timber and Timber Stores Sectional Committee (CED 9) and reaffirmed in 2022, this standard unifies the static cantilever and machine bending tests required to determine allowable design stresses and mechanical performance. It details concrete crib anchor layouts to simulate real-world ground embedment, establishes constant rate-of-loading formulas based on pole geometry, specifies mathematical equations to calculate maximum fibre stress at both the ground line and the fracture point, and mandates detailed recording of physical dimensions and natural wood defects to ensure infrastructural durability and safety across India's electrical grid networks."
+  },
+  "source_information": {
+    "source_pdf_filename": "1900_1974_reff2022.pdf",
+    "document_version_edition": "First Revision, March 1974"
+  }
+}

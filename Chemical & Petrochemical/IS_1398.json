@@ -1,0 +1,133 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1398 : 1982",
+    "full_title": "Specification for Packing Paper, Water Proof, Bitumen-Laminated (Second Revision)",
+    "sector_category": "Chemical / Paper and its Products (approved by the Chemical Division Council and maintained by the Paper Based Packaging Materials Sectional Committee, CHD 16, of the Bureau of Indian Standards)",
+    "ics_code": "55.040; 85.060",
+    "sectional_committee": {
+      "name": "Paper Based Packaging Materials Sectional Committee",
+      "number": "CHD 16"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements and methods of sampling and test for water-proof, bitumen-laminated packing paper utilized for wrapping, bale-lining, and protective packaging of diverse industrial and consumer goods.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, 1982 (Reaffirmed 2019 / 2024)",
+    "year_first_published": "1959 (originally published as IS 1398 : 1959, updated to first revision in 1968, and second revision in 1982)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 1398 : 1959)",
+        "year": "1959"
+      },
+      {
+        "edition": "First Revision (IS 1398 : 1968)",
+        "year": "1968"
+      },
+      {
+        "edition": "Second Revision (IS 1398 : 1982)",
+        "year": "1982"
+      }
+    ],
+    "supersedes": "IS 1398 : 1968",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 (August 2004) is active on this copy."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1060 (Part 1) : 1966",
+      "title": "Methods of sampling and test for paper and allied products: Part 1 (revised)",
+      "category": "Testing standard",
+      "relevance": "Provides test protocols to evaluate base paper parameters such as substance/grammage and bursting strength."
+    },
+    {
+      "is_number": "IS 1397",
+      "title": "Kraft paper - Specification",
+      "category": "Material standard",
+      "relevance": "Defines quality parameters for the base kraft paper sheets laminated together using bitumen."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and testing values."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 13228 : 2006",
+      "title": "Corrugated fibreboard boxes for packing and transportation - Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee CHD 16",
+      "relevance": "A sister packaging standard present in the notebook, frequently mandating inner water-proof paper linings to shield boxed goods."
+    },
+    {
+      "is_number": "IS 2154 : 2014",
+      "title": "Coconut Oilcake as Livestock Feed Ingredient — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow food and agriculture standard present in the notebook, regulating feed ingredients stored in jute bags lined with waterproof laminate."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, governing support framing, warehouses, and storage sheds holding packaged industrial goods."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Chemical Department / Paper Packaging)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS 'Standard Mark' (ISI Mark) as a certified assurance of waterproof barrier quality. Compliance with IS 1398 is widely integrated into defense packaging, seaworthy textile bales, export shipping specifications, and civil construction (such as under-layment beneath concrete linings to prevent moisture loss).",
+    "requirements": [
+      {
+        "requirement_type": "Type 1 Packaging Sizing",
+        "detail": "Specifies Type 1 packing paper as a water-proof, bitumen-laminated kraft paper combination designed for high barrier performance in general packaging.",
+        "clause_reference": "Clause 2.1"
+      },
+      {
+        "requirement_type": "Kraft Paper Correction",
+        "detail": "Under active Amendment No. 1 (August 2004), the wording on Page 4, clause 2.1, line 5 is amended to substitute 'kraft paper' in place of the typographical error 'draft paper'.",
+        "clause_reference": "Clause 2.1"
+      },
+      {
+        "requirement_type": "Roll Length Minimum Capacity",
+        "detail": "Under active Amendment No. 1 (August 2004), the packaging requirements on Page 5, clause 3.4, line 1 are amended to substitute 'length of minimum 100 metres' in place of 'length of 100 metres'.",
+        "clause_reference": "Clause 3.4"
+      },
+      {
+        "requirement_type": "Adhesive Bitumen Barrier Layer",
+        "detail": "The laminate must utilize a continuous, uniform interlayer of food-grade or packing-grade bitumen to bond the paper plies. It must present no delamination, bare patches, or bleeding under normal storage temperatures."
+      },
+      {
+        "requirement_type": "Water Penetration Resistance",
+        "detail": "The paper must withstand water penetration tests, ensuring that no liquid water seeps through the bitumen barrier when tested under a standard hydrostatic or surface-contact time-exposure head."
+      },
+      {
+        "requirement_type": "Rounding off values",
+        "detail": "Observed or calculated values during testing must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained must match the specified limit."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1398 : 1982",
+    "Packing Paper",
+    "Water Proof",
+    "Bitumen-Laminated",
+    "Kraft Paper",
+    "Type 1 Packaging",
+    "Barrier Paper",
+    "Water Penetration",
+    "CHD 16",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1398 : 1982 is the national Indian Standard specification establishing technical requirements and barrier tests for water-proof, bitumen-laminated packing paper. Formulated by the CHD 16 Sectional Committee, this standard regulates paper comprising multiple plies of kraft paper conjoined by a uniform layer of bitumen to act as an impervious moisture barrier. Active updates, such as Amendment No. 1 (August 2004), correct typographical errors (substituting 'kraft paper' for 'draft paper') and modify packaging rules to mandate a minimum roll length of 100 metres, ensuring durable and secure moisture protection for industrial wrapping, seaworthy bales, and concrete underlays nationwide."
+  },
+  "source_information": {
+    "source_pdf_filename": "1398a1.pdf",
+    "document_version_edition": "Second Revision, 1982 (Amended by Amendment No. 1, August 2004)"
+  }
+}

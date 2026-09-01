@@ -1,0 +1,166 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13705 : 1993",
+    "full_title": "Transition Joints of Cables for Working Voltages from 11 kV Up to and Including 33 kV — Performance Requirements and Type Tests (11 कि. वो. से 33 कि. वो. तक कार्यकारी वोल्टता के केबलों के लिए संक्रमण जोड़ — कार्यकािरता अपेक्षाएं और टाइप परीक्षण)",
+    "sector_category": "Electrotechnical / Power Cables (approved by the Electrotechnical Division Council and finalized by the Power Cables Sectional Committee, ETD 09, formerly ET 09, of the Bureau of Indian Standards)",
+    "ics_code": "29.060.20; 29.120.20",
+    "sectional_committee": {
+      "name": "Power Cables Sectional Committee",
+      "number": "ETD 09"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the performance requirements, testing configurations, and type testing sequences for transition joints between paper-insulated lead-sheathed (PILC) cables and polymeric insulated power cables (such as XLPE, EPR, or PVC) for voltage grades ranging from 11 kV up to and including 33 kV.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1993 (Reaffirmed 2024)",
+    "year_first_published": "1993",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13705 : 1993)",
+        "year": "1993"
+      }
+    ],
+    "supersedes": "None (Developed as a new standalone standard based on the international adoption of IEC 60502-4 principles to govern high-voltage transition joints)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1885 (Part 32) : 1971",
+      "title": "Electrotechnical vocabulary: Part 32 Cables, conductors and accessories for electricity supply",
+      "category": "Terminology standard",
+      "relevance": "Provides standardized definitions and nomenclature for high-voltage cables, conductors, and splice joints."
+    },
+    {
+      "is_number": "IS 10810 (Part 5) : 1984",
+      "title": "Methods of test for cables: Conductor resistance test",
+      "category": "Testing standard",
+      "relevance": "Outlines standard methods to measure conductor joint contact resistance to prevent localized heating."
+    },
+    {
+      "is_number": "IS 10810 (Part 45) : 1984",
+      "title": "Methods of test for cables: High voltages test",
+      "category": "Testing standard",
+      "relevance": "Details standard AC voltage withstand testing methods to verify joint insulation integrity."
+    },
+    {
+      "is_number": "IS 10810 (Part 47) : 1984",
+      "title": "Methods of test for cables: Impulse test",
+      "category": "Testing standard",
+      "relevance": "Prescribes lightning impulse voltage withstand testing procedures."
+    },
+    {
+      "is_number": "IS 10810 (Part 48) : 1984",
+      "title": "Methods of test for cables: Dielectric power factor test",
+      "category": "Testing standard",
+      "relevance": "Regulates the measurement of dielectric loss (tangent delta) across insulated cores under thermal cycling."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters, clearances, and test results to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1554 (Part 1 & Part 2) : 1988",
+      "title": "Specification for PVC Insulated (Heavy Duty) Electric Cables",
+      "category": "Material standard",
+      "relevance": "Transition joints connect paper cables (PILC) to modern heavy-duty polymeric cables (such as PVC or XLPE) of rated voltages up to 11 kV or 33 kV."
+    },
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Submersible monoblock pump motors rely on secure, waterproof joint connections to withstand dynamic vibrations and prevent water-borne short-circuits."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Housings and terminal connections are treated with hot-curing varnishes to prevent moisture tracking across internal joint surfaces."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits in high-voltage testing yards where 33 kV cable accessories, impulse generators, and thermal cycling systems are operated."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, structural cable runways, and platforms carrying heavy medium-voltage cable networks."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Accessory Performance Specification (Electrotechnical Department / Power Cables)",
+    "certification_status": "Voluntary Product Testing Standard. However, under state distribution utility specifications (such as WBSEDCL, BESCOM, and state electricity boards), splicing kits and transition joints supplied for utility network upgrades must carry certified lab test records demonstrating full compliance with the type-testing sequence of IS 13705.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, conductor resistance, test temperatures, and withstand voltages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Sizing Calibration",
+        "detail": "Specifies transition joints connecting PILC cables with cross-sections between 120 and 300 sq mm to polymer insulated cables of one size lower cross section (or to PVC of one size higher cross section).",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Series Jointing Test Run",
+        "detail": "The test specimen may consist of two transition joints in series to allow simultaneous testing and statistical verification of the assembly.",
+        "clause_reference": "Clause 4.3"
+      },
+      {
+        "requirement_type": "Minimum clearances",
+        "detail": "Standardizes clearances: total specimen length >= 5 m, terminal neck spacing >= 2 m, and joint-to-joint spacing (if applicable) >= 3 m.",
+        "clause_reference": "Clause 4.4"
+      },
+      {
+        "requirement_type": "Type Tests Sequence",
+        "detail": "Type tests and their sequence must follow the strict chronological flow specified in Table 1 (initial conductor resistance, impact testing, subsequent load cycles, impulse testing, and final high-voltage withstand checks).",
+        "clause_reference": "Clause 5.1 & Table 1"
+      },
+      {
+        "requirement_type": "Strict Failure Evaluation",
+        "detail": "If a transition joint does not pass any particular test in the sequence, the entire type tests must be repeated on a freshly prepared test specimen.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Conductor Resistance Test",
+        "detail": "Done in accordance with IS 10810 (Part 5) : 1984 to ensure the jointing ferrules and connectors do not generate localized hot-spots under high load currents.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Mechanical Impact Test",
+        "detail": "The joint is placed on concrete, and a wedge-shaped mass of 4 kg (having a 90-degree angle with a 2 mm radius impacting edge) must be dropped freely 6 times from a height of 2 m onto the joint. Visible damage is prohibited.",
+        "clause_reference": "Clause 6.2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13705 : 1993",
+    "Transition Joints of Cables",
+    "PILC to Polymeric Splicing",
+    "Type Tests Sequence",
+    "Mechanical Impact Test",
+    "Lightning Impulse Withstand",
+    "Thermal Load Cycling",
+    "Sizing Clearances",
+    "ETD 09 Power Cables",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13705 : 1993 (Reaffirmed 2024) is the primary national Indian Standard code of practice prescribing the performance requirements and type tests for transition joints between paper-insulated lead-sheathed (PILC) cables and modern polymeric-insulated power cables (such as XLPE, EPR, or PVC) for working voltages ranging from 11 kV up to and including 33 kV. Maintained under the Power Cables Sectional Committee (ETD 09), the standard unifies high-voltage splicing safety across municipal grids and industrial complexes. It mandates strict sizing configurations and spacing rules (not less than 5 m between terminals and 3 m between joints). By enforcing a sequential type-test protocol—including 4 kg wedge impact tests, load cycling, and high-voltage AC/DC and lightning impulse checks—the code guarantees that electrical transition zones maintain optimal reliability, preventing catastrophic grid short-circuits and ensuring public safety."
+  },
+  "source_information": {
+    "source_pdf_filename": "13705_1993_reaff2024.pdf",
+    "document_version_edition": "First Edition, May 1993"
+  }
+}

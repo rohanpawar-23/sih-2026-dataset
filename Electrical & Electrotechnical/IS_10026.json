@@ -1,0 +1,169 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10026 (Part 1, Part 2 & Part 3) : 1998/1999",
+    "full_title": "Insulating Varnishes Containing Solvents — Specification (First Revision) (विद्युतरोधी विलायकयुक्त वार्निश — विशिष्टि (पहला पुनरीक्षण))",
+    "sector_category": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems (finalized by the Solid Electrical Insulating Materials and Insulation Systems Sectional Committee, ETD 02, of the Bureau of Indian Standards)",
+    "ics_code": "29.035.01; 87.040",
+    "sectional_committee": {
+      "name": "Solid Electrical Insulating Materials and Insulation Systems Sectional Committee",
+      "number": "ETD 02"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard series prescribes definitions, general requirements, testing methodologies, and individual material specifications for solvent-containing electrical insulating varnishes used for impregnating, finishing, and coating electrical windings, transformers, coils, and electric motors. Part 3, Section 2 specifically covers physical, mechanical, and electrical requirements for hot curing impregnating varnishes across thermal classes 130 to 220.",
+    "clause_number": "Clause 1.1 of Part 1, Part 2, and Part 3 (Sec 2)",
+    "page_number": "Page 1 of base standards"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 1998/1999 (Reaffirmed 2024) incorporating active Amendment No. 1 (November 2019) for Part 3, Section 2",
+    "year_first_published": "1982",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 10026 : 1982)",
+        "year": "1982"
+      },
+      {
+        "edition": "First Revision (IS 10026 : 1998 / 1999)",
+        "year": "1999"
+      }
+    ],
+    "supersedes": "IS 10026 : 1982",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 (November 2019) to Part 3, Section 2"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 101 (Part 1/Sec 5)",
+      "title": "Methods of test for viscosity of paints and varnishes (by flow cups)",
+      "category": "Testing standard",
+      "relevance": "Provides baseline flow-cup testing limits to determine liquid varnish dipping viscosity."
+    },
+    {
+      "is_number": "IS 101 (Part 1/Sec 7)",
+      "title": "Methods of test for specific gravity of paints and varnishes",
+      "category": "Testing standard",
+      "relevance": "Prescribes standard methods for testing density of liquid varnish and resin systems."
+    },
+    {
+      "is_number": "IS 101 (Part 2/Sec 2)",
+      "title": "Determination of non-volatile and volatile matter",
+      "category": "Testing standard",
+      "relevance": "Regulates dry resin solids content evaluation by thermal evaporation."
+    },
+    {
+      "is_number": "IS 2362",
+      "title": "Determination of water content by Karl Fischer method",
+      "category": "Testing standard",
+      "relevance": "Prescribes standard analytical chemical procedures for moisture detection in solvents."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Submersible motor windings and stators are impregnated with hot curing varnishes (IS 10026-3-2) to ensure high-voltage dielectric insulation, moisture barrier protection, and vibration-damping."
+    },
+    {
+      "is_number": "IS 11731 (Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials When Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
+      "category": "Testing standard",
+      "relevance": "Insulating sheets, coils, and laminates coated with cured varnishes are subjected to vertical flame testing to verify they satisfy self-extinguishing Class FV0 limits."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits in varnish mixing and baking facilities where flammable solvents present explosion risks, checking ventilation hoods and explosion-proof kilns."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel construction code in India, regulating support steelwork, crane gantries, and machinery foundations inside chemical blending plants and electrical motor fabrication yards."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "Shri A. S. Lakshmanan (Chairman)",
+      "organization": "Solid Electrical Insulating Materials Sectional Committee, ETDC 63 / ETD 2, Indian Standards Institution"
+    },
+    {
+      "name": "Shri Y. S. Venkateswaran (Alternate)",
+      "organization": "Solid Electrical Insulating Materials Sectional Committee, ETDC 63 / ETD 2, Indian Standards Institution"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Material Product Specification (Electrotechnical Department / Solid Electrical Insulating Materials)",
+    "certification_status": "Voluntary Product Specification. However, under public utility contracts (such as state electricity boards—JVVNL, KSEB—and central railway specifications), raw insulating varnishes supplied for winding repair and motor manufacture must be certified to comply with IS 10026 and carry corresponding batch test records.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, solid contents, viscosity flow times, or breakdown voltages must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Part 1, Foreword"
+      },
+      {
+        "requirement_type": "Solid Content Volatilization Limit",
+        "detail": "Measured by heating a 1.5 g liquid specimen at 130°C or 150°C for 2 hours to calculate active dry resin percentage, which must typically range between 45% and 55% to prevent excessive solvent loss.",
+        "clause_reference": "Part 2, Methods of Tests"
+      },
+      {
+        "requirement_type": "Ability to Cure in Thick Layer",
+        "detail": "A critical test for impregnating varnishes. Evaluates if the varnish inside a deep winding cavity will cure fully into a solid, bubble-free mass when baked at 120°C for 10 hours.",
+        "clause_reference": "Part 2, Methods of Tests"
+      },
+      {
+        "requirement_type": "Dielectric Breakdown Strength",
+        "detail": "The cured varnish film must exhibit high dielectric strength, withstanding voltages exceeding 100 kV/mm under ambient conditions, and retaining high dielectric protection after wet conditioning or water immersion.",
+        "clause_reference": "Part 2, Methods of Tests"
+      },
+      {
+        "requirement_type": "Volume Resistivity under Water",
+        "detail": "The cured film must maintain a volume resistivity exceeding 10^15 Ohm-cm under standard ambient conditions, and remain above 10^12 Ohm-cm after 168 hours of water immersion.",
+        "clause_reference": "Part 2, Methods of Tests"
+      },
+      {
+        "requirement_type": "Thermal Class Classifications",
+        "detail": "Part 3, Section 2 specifies five hot-curing thermal classes: Class 130 (Class B), Class 155 (Class F), Class 180 (Class H), Class 200, and Class 220 based on long-term thermal endurance index limits.",
+        "clause_reference": "Part 3, Section 2"
+      },
+      {
+        "requirement_type": "Amended Table 1 Curing Row 10",
+        "detail": "Under active Amendment No. 1 (November 2019), Row 10 of Table 1 (regulating liquid properties) is amended to substitute 'Test method is under consideration' for the older numerical value '22'.",
+        "clause_reference": "Part 3, Section 2, Table 1 as amended"
+      },
+      {
+        "requirement_type": "Amended Table 2 Curing Row 4",
+        "detail": "Under active Amendment No. 1 (November 2019), Row 4 of Table 2 (regulating cured film properties) is amended to substitute 'Test method is under consideration' for the older numerical value '23'.",
+        "clause_reference": "Part 3, Section 2, Table 2 as amended"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10026 : 1999",
+    "Insulating Varnishes Containing Solvents",
+    "Amendment No. 1 Nov 2019",
+    "Hot Curing Varnishes IS 10026-3-2",
+    "Curing in Thick Layer",
+    "Dielectric breakdown strength",
+    "Volume resistivity Ohm-cm",
+    "Drying in thin film",
+    "Alkyd Phenolic Polyester resin",
+    "ETD 02",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10026 is the primary national Indian Standard specification governing solvent-containing electrical insulating varnishes used to coat and impregnate motor windings, transformers, and electronic components. Technically aligned with international standards IEC 60464 and IEC 61033, the code is divided into three parts: Part 1 defines vocabulary, Part 2 outlines physical and electrical test methods (such as flow-cup viscosity, closed-cup flash point, dynamic bonding strength, volume resistivity, and thick-layer curing), and Part 3 Section 2 specifies individual material requirements for hot curing impregnating varnishes across thermal classes 130 to 220. Incorporating Amendment No. 1 (November 2019), the standard marks specific properties in Table 1 and Table 2 as 'under consideration' to reflect ongoing technical developments, ensuring high dielectric protection and vibration-damping in national electrical grids."
+  },
+  "source_information": {
+    "source_pdf_filename": "10026_3_2a1.pdf",
+    "document_version_edition": "First Revision, 1999"
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15065 : 2001",
+    "full_title": "CARBIDE TIPS FOR USE IN INTEGRAL STEMS FOR PERCUSSIVE DRILLINGS — SPECIFICATION",
+    "sector_category": "Pneumatic Tools Sectional Committee, BP 08 / Basic and Production Engineering Division Council (Approved and adopted under the Bureau of Indian Standards)",
+    "ics_code": "ICS 25.100.99",
+    "sectional_committee": {
+      "name": "Pneumatic Tools Sectional Committee",
+      "number": "BP 08"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the dimensions and requirements of carbide tips in the diameter range from 30 to 40 mm for integral stems for percussive drilling conforming to IS 7913.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, December 2001 (Reaffirmed 2021)",
+    "year_first_published": "2001",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2001"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": []
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 4005 : 1967",
+      "title": "Tungsten carbide for mining tools",
+      "category": "Normative / Material Metallurgy Standard",
+      "location": "Clause 2 & Clause 4",
+      "relevance": "Specifies metallurgical composition and quality limits for mining tool carbides, governing the required grade T or XT matrix used to manufacture the tips."
+    },
+    {
+      "is_number": "IS 7913 : 1975",
+      "title": "Integral stems for percussive drilling",
+      "category": "Assembly / Companion Equipment Interface",
+      "location": "Clause 1, Clause 2 & Clause 5.1 (Note 1)",
+      "relevance": "Specifies physical sizing for drill rods and percussive stems into which these carbide tips are brazed and assembled."
+    },
+    {
+      "is_number": "IS 3073 : 1967",
+      "title": "Assessment of surface roughness",
+      "category": "Testing / Surface Roughness Standard",
+      "location": "Clause 2 & Clause 6",
+      "relevance": "Establishes surface inspection methodology to ensure ground and sintered surfaces comply with the specified N 12 finish class."
+    },
+    {
+      "is_number": "IS 12849 : 1989",
+      "title": "Pneumatic tools and machines — Vocabulary",
+      "category": "Normative / Terminology Standard",
+      "location": "Clause 2 & Clause 3",
+      "relevance": "Governs engineering definitions, naming structures, and technical terms used throughout the percussive drill assembly specification."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values ( revised )",
+      "category": "Normative / Mathematical Rounding Standard",
+      "location": "Foreword",
+      "relevance": "Defines standard rules for rounding calculated or observed test and analysis values to match specified values."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 4005 : 1967",
+      "title": "Tungsten carbide for mining tools",
+      "category": "Normative / Material Metallurgy Standard",
+      "location": "Clause 2 & Clause 4",
+      "relevance": "Specifies metallurgical composition and quality limits for mining tool carbides, governing the required grade T or XT matrix used to manufacture the tips."
+    },
+    {
+      "is_number": "IS 7913 : 1975",
+      "title": "Integral stems for percussive drilling",
+      "category": "Assembly / Companion Equipment Interface",
+      "location": "Clause 1, Clause 2 & Clause 5.1 (Note 1)",
+      "relevance": "Specifies physical sizing for drill rods and percussive stems into which these carbide tips are brazed and assembled."
+    },
+    {
+      "is_number": "IS 3073 : 1967",
+      "title": "Assessment of surface roughness",
+      "category": "Testing / Surface Roughness Standard",
+      "location": "Clause 2 & Clause 6",
+      "relevance": "Establishes surface inspection methodology to ensure ground and sintered surfaces comply with the specified N 12 finish class."
+    },
+    {
+      "is_number": "IS 12849 : 1989",
+      "title": "Pneumatic tools and machines — Vocabulary",
+      "category": "Normative / Terminology Standard",
+      "location": "Clause 2 & Clause 3",
+      "relevance": "Governs engineering definitions, naming structures, and technical terms used throughout the percussive drill assembly specification."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values ( revised )",
+      "category": "Normative / Mathematical Rounding Standard",
+      "location": "Foreword",
+      "relevance": "Defines standard rules for rounding calculated or observed test and analysis values to match specified values."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Mining & Percussive Tooling Hardware)",
+    "certification_status": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme (ISI Mark), with details administered by BIS.",
+    "requirements": [
+      {
+        "requirement_type": "Tungsten Carbide Material Grade",
+        "detail": "Carbide tips must be manufactured strictly from tungsten carbide conforming to grade T or XT as specified in IS 4005.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Standard Diametrical Sizing Bounds",
+        "detail": "Establishes eleven nominal diameters ranging from 30 mm to 40 mm (30, 31, 32, 33, 34, 35, 36, 37, 38, 39, and 40 mm). High-precision tolerances on nominal values must strictly comply with Table 2 limits (e.g., length L holding +0.5 / -0.1 mm). Non-preferred sizes for drill rod diameters (24, 24.5, 25, 26, 27, 28, 29, 41, and 42 mm) are explicitly excluded.",
+        "clause_reference": "Clauses 5.1 & 5.2.1, Table 1 & Table 2, Note 1"
+      },
+      {
+        "requirement_type": "Head Height Sizing Accommodation",
+        "detail": "To accommodate various engineering applications, height H is standardly supplied in sizes 17 mm or 19 mm as per the customer's specific requirements.",
+        "clause_reference": "Table 1 (Footnote 1)"
+      },
+      {
+        "requirement_type": "N 12 Surface Finish Limits",
+        "detail": "The surface finish for ground and sintered surfaces of the tip must be strictly N 12 in accordance with surface evaluation criteria under IS 3073.",
+        "clause_reference": "Clause 6"
+      },
+      {
+        "requirement_type": "Geometrical Tolerance Bounds",
+        "detail": "Imposes strict geometric constraints, including a maximum permissible runout/flatness limit of 0.05 mm on designated surfaces.",
+        "clause_reference": "Clause 5.3"
+      },
+      {
+        "requirement_type": "Standard Product Designation",
+        "detail": "Establishes a uniform designation system comprising product name, nominal diameter, thickness, and height. Example: 'Carbide tip IS 15065 – 30 x 9.7 x 17'.",
+        "clause_reference": "Clause 7"
+      },
+      {
+        "requirement_type": "Packing Box Marking Parameters",
+        "detail": "Requires each packaging container to be clearly marked with the manufacturer's name or trade-mark, standard designation, and material grade.",
+        "clause_reference": "Clause 8.1"
+      },
+      {
+        "requirement_type": "Compliance Rounding-Off Rule",
+        "detail": "Any final observed or calculated test value expressing the result of a test or analysis must be rounded off to the same number of significant places as specified in the standard, in accordance with IS 2 : 1960.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15065 : 2001",
+    "Carbide Tips",
+    "Integral Stems",
+    "Percussive Drilling",
+    "BP 08",
+    "Tungsten Carbide Grade T",
+    "Grade XT",
+    "N 12 Surface Finish",
+    "IS 4005",
+    "IS 7913",
+    "Pneumatic Tools"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15065 : 2001 is the national Indian Standard specification governing tungsten carbide tips used in integral stems for pneumatic percussive drill rods. Adopted in 2001 and reaffirmed in 2021, the standard is finalized by the Pneumatic Tools Sectional Committee (BP 08) and specifies dimensions, metallurgical qualities, surface finishes, and geometric tolerances for nominal sizes between 30 mm and 40 mm. To survive extreme drilling stress, tips must be made of tungsten carbide grade T or XT (per IS 4005) with ground surfaces meeting N 12 roughness classes (per IS 3073) and carry a standard designation indicating diameter, thickness, and customer-specified height."
+  },
+  "source_information": {
+    "source_pdf_filename": "15065_2001_reff2021.pdf",
+    "document_version_edition": "First Edition, December 2001 (Reaffirmed 2021)"
+  }
+}

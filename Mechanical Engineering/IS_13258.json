@@ -1,0 +1,136 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13258 : 2014",
+    "full_title": "Welded Low Carbon Steel Cylinders Exceeding 5 Litre Water Capacity for Low Pressure Liquefiable Gas — Requirements for Inspection and Reconditioning of Used LPG Cylinders (First Revision)",
+    "sector_category": "Mechanical Engineering / Gas Cylinders (approved by the Mechanical Engineering Division Council and finalized by the Gas Cylinders Sectional Committee, MED 16, of the Bureau of Indian Standards)",
+    "ics_code": "23.020.30; 75.160.30",
+    "sectional_committee": {
+      "name": "Gas Cylinders Sectional Committee",
+      "number": "MED 16"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the mandatory requirements for the inspection, materials, procedures, physical testing, and final marking for the reconditioning of used low-carbon steel LPG cylinders (with a water capacity exceeding 5 litres) originally manufactured in accordance with IS 3196 (Part 1), as well as the criteria to declare used cylinders completely unserviceable.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, January 2014 (Reaffirmed 2024) incorporating Amendment No. 1 (March 2021)",
+    "year_first_published": "1991",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13258 : 1991)",
+        "year": "1991"
+      },
+      {
+        "edition": "First Revision (IS 13258 : 2014)",
+        "year": "2014"
+      }
+    ],
+    "supersedes": "IS 13258 : 1991",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 (March 2021)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 3196 (Part 1) : 2006",
+      "title": "Welded low carbon steel cylinders exceeding 5 litre water capacity for low pressure liquefiable gases: Part 1 Cylinders for Liquefied Petroleum Gases (LPG) — Specification",
+      "category": "Product Specification",
+      "relevance": "The master product standard under which the cylinders are manufactured. All materials, welding procedures, thread profiles, and dispatch protocols refer back to IS 3196 (Part 1)."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated dimensions, tare weights, and test pressures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16054 : 2013",
+      "title": "Gas Cylinders — Periodic Inspection and Testing of LPG Cylinders — Code of Practice",
+      "category": "Testing standard",
+      "relevance": "Provides parallel requirements for routine testing and periodic 5-year and 10-year hydraulic/pneumatic test intervals on active cylinder fleets."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Industrial LPG bottling, valving, and reconditioning plants are high-hazard workplaces. Regular safety audits under IS 14489 physically inspect these facilities to verify compliance with gas-safety rules, ventilation, spark-free electrics, and high-pressure pneumatic test safety barriers."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Unifies risk mitigation, requiring routine safety logs and insulation resistance checks on industrial plant rooms carrying hyperbaric compressor units."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support platforms and concrete anchors used to mount high-vibration industrial compressor assemblies in HVAC plant rooms."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification / Requirements Standard (Mechanical Engineering Department / Gas Cylinders)",
+    "certification_status": "Mandatory Certification under the Gas Cylinder Rules of the Government of India, in coordination with the Petroleum and Explosives Safety Organisation (PESO). Facilities undertaking the reconditioning or hot repair of LPG cylinders must hold a valid BIS license under IS 13258, and all reconditioned cylinders must carry the physical ISI mark and the reconditioner's license number (CM/L) to certify safe return to active commercial rotation.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Any numerical value representing the result of a physical test or chemical analysis must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Loss in Tare Weight Punching",
+        "detail": "If any loss in tare weight is observed under Clause 10.4 during reconditioning, the value of this loss must be permanently punched on the foot ring (e.g., LTW 200 to represent a loss of 200 g).",
+        "clause_reference": "Clause 10.4 & Clause 15(h)"
+      },
+      {
+        "requirement_type": "Conspicuous Letter 'R' Stamping",
+        "detail": "To visually identify the cylinder as a reconditioned unit, the letter 'R' must be conspicuously stamped on the vertical stay of the valve protecting ring as close to the certification mark as practicable.",
+        "clause_reference": "Clause 15"
+      },
+      {
+        "requirement_type": "Original Specifications Calibration",
+        "detail": "Reconditioned cylinders must comply with their original design criteria, verifying physical parameters such as maximum working pressure (MPa), hydrostatic test pressure (MPa), and water capacity (litres).",
+        "clause_reference": "Clause 15 & Formats"
+      },
+      {
+        "requirement_type": "Dispatch Preparation Conformance",
+        "detail": "Under the active Amendment No. 1 (March 2021), the preparation of the reconditioned cylinder for dispatch (including capping, valving, and thread protection) must conform strictly to Clause 23 of IS 3196 (Part 1).",
+        "clause_reference": "Clause 18.1 as amended by Amendment No. 1"
+      },
+      {
+        "requirement_type": "Rejection Criteria",
+        "detail": "Establishes strict visual, physical, and thickness limits during inspection to declare a used LPG cylinder completely unserviceable (e.g., excessive corrosion, cuts, gouges, dents, or bulging).",
+        "clause_reference": "Clause 6 & Table 1"
+      },
+      {
+        "requirement_type": "Testing of Repairs",
+        "detail": "Provides requirements for pneumatic testing, hydrostatic testing, and joint inspections after executing repairs or reconditioning on the cylinder shell.",
+        "clause_reference": "Section 2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13258 : 2014",
+    "Welded LPG Cylinders",
+    "Reconditioning requirements",
+    "Loss in Tare Weight LTW",
+    "Letter R Stamping",
+    "MED 16",
+    "IS 3196-1",
+    "Amendment No. 1 2021",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13258 : 2014 is the national Indian Standard prescribing the mandatory requirements for inspecting, repairing, testing, and certifying used low-carbon steel LPG cylinders (exceeding 5 litres capacity) to return them to active commercial circulation. Developed under Sectional Committee MED 16 and reaffirmed in 2024, the standard divides the reconditioning process into inspection and detailed repair/testing phases, establishing rigorous visual rejection criteria, requiring loss in tare weight (LTW) to be permanently punched on the foot ring, mandating a conspicuous 'R' stamp on the valve protecting ring stay, and enforcing (via Amendment No. 1, 2021) that the final dispatch preparation complies with the strict transport safety standards of brand-new cylinders under IS 3196 (Part 1)."
+  },
+  "source_information": {
+    "source_pdf_filename": "13258_2014_reaff2024_amd1.pdf",
+    "document_version_edition": "First Revision, January 2014"
+  }
+}

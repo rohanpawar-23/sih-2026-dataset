@@ -1,0 +1,229 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13152 (Part 1) : 2013",
+    "full_title": "Portable Solid Bio-Mass Cookstove (Chulha) — Specification (First Revision) (सुवाह्य ठोस बायो-मास कुकस्टोव (चूल्हा) — fof'kf\"V (पहला पुनरीक्षण))",
+    "sector_category": "Mechanical Engineering / Non-Conventional Energy Sources (finalized by the Bio-mass Cookstove Panel, MED 04:2/P-1, and approved by the Non-Conventional Energy Sources Sectional Committee, MED 04, of the Bureau of Indian Standards)",
+    "ics_code": "97.040.20",
+    "sectional_committee": {
+      "name": "Non-Conventional Energy Sources Sectional Committee",
+      "number": "MED 04"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the materials, constructional designs, dimensions, safety profiles, thermal efficiency performance standards, emission limits (CO and CO2), and testing protocols for portable solid bio-mass cookstoves (commonly known as chulhas) designed for domestic, commercial, or institutional cooking.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, August 2013 (Reaffirmed 2024)",
+    "year_first_published": "1991 (originally published as a code of practice / specification in 1991, and revised to this active first revision in 2013)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13152 : 1991)",
+        "year": "1991"
+      },
+      {
+        "edition": "First Revision (IS 13152 (Part 1) : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 13152 : 1991",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated dimensions, thermal efficiencies, and flue-gas emission levels."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14756 : 2022",
+      "title": "Stainless Steel Utensils — Specification",
+      "category": "Product Specification",
+      "location": "Mechanical Engineering Department / MED 33",
+      "relevance": "Regulates stainless steel and cladded vessels, which share testing compatibility with the cookstove vessel supports."
+    },
+    {
+      "is_number": "IS 15960 : 2013",
+      "title": "Composite Bottom for Stainless Steel Cooking Utensils — Specification",
+      "category": "Product Specification",
+      "location": "Mechanical Engineering Department / MED 33",
+      "relevance": "Provides baseline parameters for multi-layered cooking pots. The cookstove thermal efficiency test uses standard aluminium vessels which correspond directly to the heat-conducting characteristics of composite bottoms."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department / CHD 08",
+      "relevance": "Directs safety audits in industrial manufacturing yards where sheet metal pressing, high-temperature cast iron pouring, and battery assembly present mechanical and electrical hazards."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "location": "Chemical Department / CHD 08",
+      "relevance": "Unifies risk mitigation, requiring regular safety check logs of hyperbaric, combustion, and mechanical systems."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, hangers, and structural columns carrying overhead exhaust hoods and chimneys in institutional kitchens."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "Dr. B. Bandyopadhyay (Chairman)",
+      "organization": "Ministry of New and Renewable Energy, New Delhi"
+    },
+    {
+      "name": "Dr. B. C. Jain",
+      "organization": "Ankur Scientific Energy Technologies Pvt Ltd, Vadodara"
+    },
+    {
+      "name": "Shri G. P. Nagori (Alternate)",
+      "organization": "Ankur Scientific Energy Technologies Pvt Ltd, Vadodara"
+    },
+    {
+      "name": "Dr. A. R. Shukla",
+      "organization": "Biogas Forum India, New Delhi"
+    },
+    {
+      "name": "Shri H. S. Revankar",
+      "organization": "Bipin Engineers Pvt Ltd, Pune"
+    },
+    {
+      "name": "Shri A. K. Baikerikar (Alternate)",
+      "organization": "Bipin Engineers Pvt Ltd, Pune"
+    },
+    {
+      "name": "Dr. Ashvini Kumar",
+      "organization": "Ministry of New and Renewable Energy, New Delhi"
+    },
+    {
+      "name": "Dr. A. K. Singhal (Alternate)",
+      "organization": "Ministry of New and Renewable Energy, New Delhi"
+    },
+    {
+      "name": "Shri S. S. Rajshekhar",
+      "organization": "National Bank for Agriculture and Rural Development (NABARD), Mumbai"
+    },
+    {
+      "name": "Shri V. K. Trehan (Alternate)",
+      "organization": "National Bank for Agriculture and Rural Development (NABARD), Mumbai"
+    },
+    {
+      "name": "Dr. V. Panthalookaran",
+      "organization": "Rajagiri School of Engineering and Technology (RSET), Kochi"
+    },
+    {
+      "name": "Shri Joel George (Alternate)",
+      "organization": "Rajagiri School of Engineering and Technology (RSET), Kochi"
+    },
+    {
+      "name": "Shri S. V. Ghaisas",
+      "organization": "Regional Test Centre, Pune"
+    },
+    {
+      "name": "Dr. S. P. Singh",
+      "organization": "Regional Test Centre-cum-Technical Backup Unit for Solar Thermal, Indore"
+    },
+    {
+      "name": "Dr. S. S. Sooch (Alternate)",
+      "organization": "Punjab Agricultural University, Ludhiana"
+    },
+    {
+      "name": "Dr. V. Siva Reddy",
+      "organization": "Sardar Patel Renewable Energy Research Institute, Vallabh Vidyanagar"
+    },
+    {
+      "name": "Shri B. Velmurugan (Alternate)",
+      "organization": "Sardar Patel Renewable Energy Research Institute, Vallabh Vidyanagar"
+    },
+    {
+      "name": "Dr. V. V. Kishore",
+      "organization": "The Energy and Resources Institute (TERI), New Delhi"
+    },
+    {
+      "name": "Shri Sunil Dhingra (Alternate)",
+      "organization": "The Energy and Resources Institute (TERI), New Delhi"
+    },
+    {
+      "name": "Shrimati Svati Bhogle",
+      "organization": "TIDE, Bangalore"
+    },
+    {
+      "name": "Shri S. Rajagopalan (Alternate)",
+      "organization": "TIDE, Bangalore"
+    },
+    {
+      "name": "Shri H. C. Chakrabarti (In Personal Capacity)",
+      "organization": "Salt Lake, Sector-2, A-9/3, Karunamayee Housing Estate, Kolkata"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Mechanical Engineering Department / Non-Conventional Energy Sources)",
+    "certification_status": "Voluntary Product Specification under the Bureau of Indian Standards (BIS). However, portable cookstoves (chulhas) must hold a valid BIS license to print the physical 'ISI Mark' standard mark on the stove outer shell to be eligible for government subsidies, carbon-credit certifications, rural development funding, and public procurement tenders managed by the Ministry of New and Renewable Energy (MNRE), Government of India.",
+    "requirements": [
+      {
+        "requirement_type": "Wrought Metal Structural Grate",
+        "detail": "Portable cookstoves must be structurally fabricated from high-durability metals. Typical designs utilize structured legs, insulated handles, a combustion chamber (minimum 1.6 mm thick), a outer jacket (minimum 1.0 mm thick), and a bottom plate (minimum 2.0 mm thick) to prevent structural sag under load.",
+        "clause_reference": "Fig. 2 & Fig. 3 / Sizing Tables"
+      },
+      {
+        "requirement_type": "Forced-Draft System Layout",
+        "detail": "Forced-draft cookstoves (Design 'C') must incorporate a battery-powered fan blower, a variable-speed potentiometer control, a secondary air manifold with secondary air holes, and a variable height grate to optimize air-to-fuel ratios.",
+        "clause_reference": "Fig. 4 & Legend"
+      },
+      {
+        "requirement_type": "Calibrated Performance Test Vessels",
+        "detail": "Prescribes standard test vessel dimensions and water loads based on the cookstove's rated heat input rate (e.g., Sl No. i: up to 2000 kcal/h utilizes an 180 mm diameter x 100 mm height aluminium vessel carrying 2.0 kg of water; Sl No. xxiii: 15401 to 16400 kcal/h utilizes a 510 mm diameter x 275 mm height vessel carrying 44.00 kg of water).",
+        "clause_reference": "Table 2"
+      },
+      {
+        "requirement_type": "Specific Thermal Calculation",
+        "detail": "The thermal efficiency calculation utilizes specific heat constants for both water (Cw = 4.186 kJ/kg/°C) and the aluminium testing vessel (Cv = 0.896 kJ/kg/°C). Thermal efficiency (η) is calculated using the ratio of heat utilized (Hout) to heat produced (Hin).",
+        "clause_reference": "Clause 9.1 / Annex B"
+      },
+      {
+        "requirement_type": "Emissions Probe Siting Downstream",
+        "detail": "During CO and CO2 emissions testing, the stainless steel sampling probe must be positioned perpendicular to the flue gas flow inside the exhaust duct, placed at a minimum of five pipe diameters downstream of any flow disturbances.",
+        "clause_reference": "Annex B, Clause B-1"
+      },
+      {
+        "requirement_type": "Thermal Shock Quench Testing",
+        "detail": "Verifies the durability of cast iron components. The cookstove is burnt at its rated fuel rate for 45 minutes (feeding fuel at 1/4th of the burning rate every 15 minutes). The cast iron components are immediately de-linked from the hot stove and quenched in cold water, requiring the water to be changed after every immersion. The component must show zero cracking or structural failure.",
+        "clause_reference": "Annex D, Clause D-1"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "All observed or calculated test and performance values (including thermal efficiency, dimensions, and emissions) must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword / Clause 0.6"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13152 (Part 1) : 2013",
+    "Portable Cookstove",
+    "Bio-Mass Chulha",
+    "Thermal Efficiency",
+    "Emissions Probe",
+    "Five Pipe Diameters",
+    "Thermal Shock Quench",
+    "Aluminium Vessel",
+    "MED 04",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13152 (Part 1) : 2013 (First Revision) is the primary national Indian Standard specification establishing technical, structural, thermal, and environmental requirements for portable solid bio-mass cookstoves (commonly known as chulhas). Maintained under the Non-Conventional Energy Sources Sectional Committee (MED 04) and reaffirmed in 2024, the standard unifies requirements for both natural-draft and forced-draft (fan-assisted) cookstove designs. To support public health, clean cooking, and forest conservation in rural areas, the standard enforces strict thermal efficiency calculations (utilizing standard specific heats of water and aluminium vessels), prescribes precise vessel and water quantities for performance testing, regulates exhaust flue gas sampling (requiring probe placement at least five pipe diameters downstream of flow disturbances), and mandates a severe thermal-shock quench test on cast iron components to prevent structural cracking under rapid cooling."
+  },
+  "source_information": {
+    "source_pdf_filename": "13152_1_2013_reaff2024.pdf",
+    "document_version_edition": "First Revision, August 2013"
+  }
+}

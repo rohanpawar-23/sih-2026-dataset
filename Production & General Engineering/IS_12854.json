@@ -1,0 +1,143 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12854 : 1989",
+    "full_title": "SPECIFICATION FOR POWER TRANSMISSION — BELTS, ENDLESS FLAT (USED IN LENIX DRIVE SYSTEM)",
+    "sector_category": "Pulleys and Belts Sectional Committee, LMD 09 (Approved by the Light Mechanical Engineering Division Council of the Bureau of Indian Standards)",
+    "ics_code": "UDC 621.85.052.41",
+    "sectional_committee": {
+      "name": "Pulleys and Belts Sectional Committee",
+      "number": "LMD 09"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the requirements of endless cord lenix flat belts for the use of power transmission in jute machineries like spinning frames, carding machines, drawing frames and softener machines, etc. These belts are also used for machine tools, compressors and pumps. These belts are generally used for fixed centre drives where idler pulleys are utilised for belt tension adjustments, and can also be used for drives where adjustment of centres is available.",
+    "clause_number": "Clauses 1.1 & 1.2",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, May 1990 (Adopted November 1989, Reaffirmed 2005)",
+    "year_first_published": "1989",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1989"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": []
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1370 : 1979",
+      "title": "Specification for Friction Surface Rubber Transmission Belting (Third Revision)",
+      "category": "Normative / Material and Test Method Standard",
+      "location": "Clause 2.1 & Clause 4.4",
+      "relevance": "Acts as a necessary adjunct to this standard. Specifically, its Annex C governs the test method and procedures used to verify that the adhesion between different layers of fabric to cord in the endless flat belts is not less than 22 N per 10 mm width."
+    },
+    {
+      "is_number": "IRS.E 39-75",
+      "title": "Ministry of Railways, Government of India (RDSO) Standard",
+      "category": "Technical Reference / Manufacturing Standard",
+      "location": "Foreword",
+      "relevance": "An industrial manufacturing standard published by the Research Designs and Standards Organisation (RDSO) from which considerable assistance was derived in aligning this specification with manufacturing practices followed in India."
+    },
+    {
+      "is_number": "IS 2-1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Normative / Mathematical Rounding Standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding-off procedures used on physical test and analysis results to verify conformance to the standard's specified limits."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1370 : 1979",
+      "title": "Specification for Friction Surface Rubber Transmission Belting (Third Revision)",
+      "category": "Normative / Material and Test Method Standard",
+      "location": "Clause 2.1 & Clause 4.4",
+      "relevance": "Acts as a necessary adjunct to this standard. Specifically, its Annex C governs the test method and procedures used to verify that the adhesion between different layers of fabric to cord in the endless flat belts is not less than 22 N per 10 mm width."
+    },
+    {
+      "is_number": "IRS.E 39-75",
+      "title": "Ministry of Railways, Government of India (RDSO) Standard",
+      "category": "Technical Reference / Manufacturing Standard",
+      "location": "Foreword",
+      "relevance": "An industrial manufacturing standard published by the Research Designs and Standards Organisation (RDSO) from which considerable assistance was derived in aligning this specification with manufacturing practices followed in India."
+    },
+    {
+      "is_number": "IS 2-1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Normative / Mathematical Rounding Standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding-off procedures used on physical test and analysis results to verify conformance to the standard's specified limits."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Power Transmission / Endless Cord Flat Belts)",
+    "certification_status": "Supported by the Bureau of Indian Standards Certification Marking scheme, providing assurance of quality control and manufacturing compliance under the statutory provisions of the BIS.",
+    "requirements": [
+      {
+        "requirement_type": "General Belt Dimensional Boundaries",
+        "detail": "Specifies flat endless type belts with round edges manufactured in widths ranging from 25 mm to 300 mm and thickness from 3 mm to 9.5 mm. The length of the belt must indicate the inside circumference only.",
+        "clause_reference": "Clause 3.1"
+      },
+      {
+        "requirement_type": "Tension Member Reinforcement",
+        "detail": "The tension member must consist of cable cord or weftless woven cords. Depending upon the required power rating, the number of layers of the tension member varies from 1 to 6 layers.",
+        "clause_reference": "Clause 3.2"
+      },
+      {
+        "requirement_type": "Belt Body and Joining Construction",
+        "detail": "The body consists of two or more layers of rubberised fabric incorporating the cords. The enveloping rubberised fabric is bias cut for joining. The joint must be covered with a thin rubberised fabric breaker strip to strengthen the joint and maintain a uniform belt thickness.",
+        "clause_reference": "Clauses 3.3 and 3.4"
+      },
+      {
+        "requirement_type": "Belt Cover Hardness Level",
+        "detail": "Enforces a strict nominal hardness of 90° ± 5° (Durometer A). Hardness variations beyond ± 5° significantly impair belt flexibility and drive performance.",
+        "clause_reference": "Clause 4.1 & Note"
+      },
+      {
+        "requirement_type": "Maximum Permissible Elongation",
+        "detail": "When tested using a 25 mm wide belt with 180 mm jaw separation and reference marks 100 mm apart under specified load, the maximum permissible elongation is limited to 2.5% across all thicknesses: 120 N for 3 mm; 200 N for 5 mm; 300 N for 6.4 mm; and 400 N for 9.5 mm.",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Minimum Tensile Breaking Strength",
+        "detail": "Each belt thickness must withstand a specified minimum rupture force: 1200 N for 3 mm; 2000 N for 5 mm; 4000 N for 6.4 mm; and 10200 N for 9.5 mm.",
+        "clause_reference": "Clause 4.3"
+      },
+      {
+        "requirement_type": "Inter-Layer Adhesion Strength",
+        "detail": "The adhesion between different layers of fabric to cord must be a minimum of 22 N per 10 mm width when tested in accordance with Annex C of IS : 1370 - 1979.",
+        "clause_reference": "Clause 4.4"
+      },
+      {
+        "requirement_type": "Standard Test Piece Conditioning",
+        "detail": "For mechanical testing (breaking strength and elongation), test pieces of 25 mm width and not less than 300 mm length must be cut containing no joints, cut not less than 5 days from manufacture, and conditioned for 3 days at 27 ± 2°C and 65 ± 5% relative humidity.",
+        "clause_reference": "Annex A (Clauses A-1.1 and A-2.1)"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12854 : 1989",
+    "Endless Flat Belts",
+    "Lenix Drive System",
+    "Power Transmission",
+    "Rayon Cord Reinforced",
+    "Idler Pulley Adjustment",
+    "Tensile Breaking Strength",
+    "Adhesion Test",
+    "Durometer A Hardness",
+    "LMD 09",
+    "IRS.E 39-75",
+    "IS 1370"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12854 : 1989 is the national Indian Standard specification governing endless flat power transmission belts used in Lenix (idler pulley) drive systems. Commonly deployed in high-torque fixed-centre machinery—such as textile spinning, carding, and drawing frames, as well as compressors and pumps—these belts are reinforced with rayon cord tension members of 1 to 6 layers. The standard prescribes stringent mechanical limits across standard thicknesses (3 mm to 9.5 mm) including a nominal hardness of 90° ± 5° (Durometer A), strict minimum tensile breaking strengths (up to 10200 N), and a maximum elongation limit of 2.5% under load. To prevent premature wear, the standard mandates an interlayer adhesion strength of at least 22 N/10mm, with testing aligned with IS 1370."
+  },
+  "source_information": {
+    "source_pdf_filename": "12854_1989_reff2021.pdf",
+    "document_version_edition": "First Edition, May 1990 (Reaffirmed 2005)"
+  }
+}

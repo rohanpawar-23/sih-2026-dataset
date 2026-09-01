@@ -1,0 +1,179 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1709 : 1984",
+    "full_title": "Specification for Capacitors for Electric Fan Motors (First Revision) (बिजली के पंखे के मोटरों के लिए संधारित्रों (कैपेसिटरों) की विशिष्टि (पहला पुनरीक्षण))",
+    "sector_category": "Electrotechnical / Power Capacitors (approved by the Electrotechnical Division Council and finalized by the Power Capacitors Sectional Committee, ETD 29, formerly under ETDC 29/ETD 03, of the Bureau of Indian Standards)",
+    "ics_code": "29.160.01; 31.060.70",
+    "sectional_committee": {
+      "name": "Power Capacitors Sectional Committee",
+      "number": "ETD 29"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the manufacturing requirements, design configurations, electrical ratings, safety features, and performance testing protocols for motor run capacitors (typically dry type, self-healing, metallized polypropylene film - MPP) used with single-phase induction motors of electric fans (including ceiling, table, pedestal, and cabin fans) conforming to IS 374, IS 555, and IS 1169.",
+    "clause_number": "Clause 1.1 / Foreword",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 1984 (incorporating active Amendments No. 1, 2, and 3) (Reaffirmed 2021)",
+    "year_first_published": "1960",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 1709 : 1960)",
+        "year": "1960"
+      },
+      {
+        "edition": "First Revision (IS 1709 : 1984)",
+        "year": "1984"
+      }
+    ],
+    "supersedes": "IS 1709 : 1960",
+    "superseded_by": "IS 2993 (Part 1) : 2024 / IEC 60252-1 : 2010 (Formal withdrawal scheduled for July 18, 2025)",
+    "amendment_slips": "Amendment No. 1, No. 2, and Amendment No. 3 (June 2020)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2993",
+      "title": "A.C. Motor Capacitors — Specification",
+      "category": "Product specification",
+      "relevance": "Provides the broader testing and safety guidelines for general alternating current motor run and start capacitors."
+    },
+    {
+      "is_number": "IS 374",
+      "title": "Specification for electric ceiling type fans and regulators (third revision)",
+      "category": "Apparatus standard",
+      "relevance": " ceiling fan motors are specifically mandated to employ auxiliary starting/running capacitors complying with IS 1709."
+    },
+    {
+      "is_number": "IS 555",
+      "title": "Specification for electric table type fans and regulators (third revision)",
+      "category": "Apparatus standard",
+      "relevance": "Table fan motors are mandated to utilize motor-run capacitors conforming to the parameters of IS 1709."
+    },
+    {
+      "is_number": "IS 1885 (Part 42)",
+      "title": "Electrotechnical Vocabulary — Part 42: Power capacitors",
+      "category": "Terminology standard",
+      "relevance": "Defines core nomenclature, capacitive reactance, losses, and symbols used in capacitor engineering."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Single-phase submersible pump motors utilize starting and running capacitors. Winding-aligned capacitors rely on MPP technology complying with IS 1709/IS 2993 to withstand high humidity and extreme operational heat."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Capacitor terminal slots and stator winding leads treated with hot-curing varnishes operate adjacent to the capacitor housing, requiring high mutual chemical compatibility."
+    },
+    {
+      "is_number": "IS 11731 (Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
+      "category": "Testing standard",
+      "relevance": "Terminal blocks, outer protective plastic casings, and spacer materials used alongside capacitors must satisfy self-extinguishing Class FV0 flammability limits to prevent fire propagation."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Enforces safety audits in electrotechnical testing bays and capacitor winding facilities where high-voltage dielectric tests, oven baking, and flammable organic solvents are used."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, crane structures, and mounting frames carrying heavy industrial capacitor banks."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Material Product Specification (Electrotechnical Department / Power Capacitors, ETD 29)",
+    "certification_status": "Voluntary Product Specification. However, under the mandatory quality control orders (QCO) for electric ceiling, table, and pedestal fans, the auxiliary motor capacitors are legally required to carry the prestigious physical ISI 'Standard Mark' stamped or embossed on their containers to certify safety and quality compliance.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, capacitance percentages, and test voltages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Metallized Polypropylene (MPP) Construction",
+        "detail": "Capacitor elements are built using high-purity, double-sided aluminum-zinc metallized polypropylene film inside a dry plastic or aluminum container, which is manufactured under dust-controlled, air-conditioned conditions to prevent particulate tracking.",
+        "clause_reference": "Constructional Features"
+      },
+      {
+        "requirement_type": "Self-Healing Property",
+        "detail": "When a localized dielectric breakdown occurs at a weak point in the film, the metallized layer evaporates within 5 to 10 microseconds, extinguishing the arc and instantly restoring the insulation level to its full value.",
+        "clause_reference": "Constructional Features"
+      },
+      {
+        "requirement_type": "Standard microfarad Sizes",
+        "detail": "Standardizes preferred microfarad ratings (1.0 to 10.0 \u03bcF), including common domestic sizes: 2.00, 2.25, 2.50, 3.15, and 4.00 \u03bcF with standard tolerances restricted to \u00b1 5%.",
+        "clause_reference": "Ratings & Tolerances"
+      },
+      {
+        "requirement_type": "Rugged Thermal Limits",
+        "detail": "Designed to operate continuously without thermal runaway or accelerated capacitance droppage across a temperature range of -25\u00b0C to +85\u00b0C.",
+        "clause_reference": "Operating Conditions"
+      },
+      {
+        "requirement_type": "Minimal Dielectric Loss",
+        "detail": "The tangent of the loss angle (tan \u03b4) or power factor of the capacitor must not exceed 0.002 (or 0.2%) at rated frequency to prevent localized internal heat generation.",
+        "clause_reference": "Electrical Requirements"
+      },
+      {
+        "requirement_type": "Insulation Resistance between Terminal & Container",
+        "detail": "Insulation resistance evaluated under 500 V DC between the terminals and the outer metal container must exceed specified minimum thresholds (typically 3000 seconds) to guarantee user safety.",
+        "clause_reference": "Clause 7.3.1"
+      },
+      {
+        "requirement_type": "Deleted Insulation Resistance between Terminals",
+        "detail": "Under active Amendment No. 3 (June 2020), Clause 7.3.2 (Insulation Resistance between terminals) is completely deleted to streamline dielectric testing and avoid redundant metrics.",
+        "clause_reference": "Clause 7.3.2 as amended"
+      },
+      {
+        "requirement_type": "Voltage Proof between Terminals",
+        "detail": "Completed capacitors must withstand a sinusoidal AC test potential of 1.5 times the rated voltage between terminals for 10 seconds without dielectric puncture.",
+        "clause_reference": "Clause 7.4.1"
+      },
+      {
+        "requirement_type": "Voltage Proof between Terminal & Case",
+        "detail": "To ensure absolute user protection from electric shock, capacitors must withstand 2000 V AC applied between the shorted terminals and the container for 10 seconds without breakdown.",
+        "clause_reference": "Clause 7.4.2"
+      },
+      {
+        "requirement_type": "Accelerated Life / Endurance Test",
+        "detail": "Capacitors must survive continuous heating at +85\u00b0C under an overvoltage of 1.25 times the rated voltage for a minimum of 500 hours, with a maximum capacitance droppage of less than 3% to 5%.",
+        "clause_reference": "Clause 7.17"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1709 : 1984",
+    "Capacitors for Electric Fan Motors",
+    "Amendment No. 3 June 2020",
+    "Deleted Clause 7.3.2 IR",
+    "Metallized Polypropylene MPP film",
+    "Self-Healing Restorations",
+    "Dielectric Dissipation tan delta",
+    "ETD 29 Power Capacitors",
+    "IS 2993 : 2024 Supersession",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1709 : 1984 (First Revision) is the primary national Indian Standard specification prescribing design, materials, construction, and safety-testing requirements for capacitors used in electric fan motors. Maintained under the Power Capacitors Sectional Committee (ETD 29) and reaffirmed in 2021, the code unifies the manufacturing of ceiling, table, and pedestal fan capacitors. It mandates high-grade metallized polypropylene (MPP) films with self-healing properties that extinguish localized dielectric breakdowns within microseconds, protecting fans from starting failures and electrical short circuits. Incorporating Amendment No. 3 (June 2020), the standard deletes obsolete insulation tests between terminals. To align with modern global standards, IS 1709 is scheduled for formal withdrawal on July 18, 2025, and is transitioning to the consolidated national motor capacitor code IS 2993 (Part 1) : 2024 to support energy-efficient and safe domestic grids."
+  },
+  "source_information": {
+    "source_pdf_filename": "1709a3.pdf",
+    "document_version_edition": "First Revision, 1984 (incorporating Amendment No. 3, June 2020)"
+  }
+}

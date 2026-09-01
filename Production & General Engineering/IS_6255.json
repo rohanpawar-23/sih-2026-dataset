@@ -1,0 +1,157 @@
+{
+  "basic_identification": {
+    "is_number": "IS 6255 : 2013",
+    "full_title": "Inverse Dovetail Cutters and Dovetail Cutters with Cylindrical Shanks (Third Revision) (बेलनाकार शैंक युक्त डोवटेल कटर्स और प्रतिलोम (इन्वर्स) डोवटेल कटर्स (तीसरा पुनरीक्षण))",
+    "sector_category": "Production and General Engineering / Cutting Tools (approved by the Production and General Engineering Division Council and finalized by the Cutting Tools Sectional Committee, PGD 32, of the Bureau of Indian Standards)",
+    "ics_code": "25.100.20",
+    "sectional_committee": {
+      "name": "Cutting Tools Sectional Committee",
+      "number": "PGD 32"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard specifies the dimensions, tolerances, shank configurations, and general requirements of inverse dovetail cutters and dovetail cutters with plain cylindrical shanks, flatted cylindrical shanks, and threaded shanks. It applies strictly to 45° and 60° dovetail cutters and inverse dovetail cutters with major cutting diameters from 16 mm to 31.5 mm.",
+    "clause_number": "Clause 1.1 & 1.2",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, December 2013 (Reaffirmed 2018)",
+    "year_first_published": "1971",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 6255 : 1971)",
+        "year": "1971"
+      },
+      {
+        "edition": "First Revision (IS 6255 : 1995)",
+        "year": "1995"
+      },
+      {
+        "edition": "Third Revision (IS 6255 : 2013 / ISO 3859 : 2000)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 6255 : 1995",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 8692 (Part 1 to 3)",
+      "title": "Tolerances on shank diameters for milling cutters",
+      "category": "Dimensional standard",
+      "relevance": "Outlines standard tolerances for plain, flatted, and threaded cylindrical shanks used with milling tools."
+    },
+    {
+      "is_number": "IS 1830 : 1982",
+      "title": "Technical supply conditions for milling cutters",
+      "category": "Testing standard",
+      "relevance": "Defines general quality, surface finish, hardness testing, runout tolerances, packaging, and marking."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 12427 : 2001",
+      "title": "Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification",
+      "category": "Fastener standard",
+      "relevance": "Dovetail slides on transmission tower erection fixtures and clamping jigs utilize high-tensile fasteners to secure alignments."
+    },
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Machining of dovetail guide ways, key seats, and impeller housings for pumps is performed using standard cutters conforming to IS 6255."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Motors operating continuously in volatile varnish lines depend on dovetail slide keyways for bracket adjustments."
+    },
+    {
+      "is_number": "IS 14353 : 1996",
+      "title": "Guide for Determining Compatibility Between Enamelled Winding Wire and Impregnating Compounds",
+      "category": "Testing standard",
+      "relevance": "Verifies that chemical binders do not degrade under severe frictional or cutting environments."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Toolrooms operating CNC cutter-grinders, hardening furnaces (reaching 1200°C for HSS hardening), and high-tension tensile testing rigs are safety-audited under IS 14489."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork carrying gearboxes and motor drives with dovetail adjusters."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Material and Sizing Specification (Production and General Engineering Department / Cutting Tools, PGD 32)",
+    "certification_status": "Voluntary Product Certification. Every manufacturer of dovetail cutters is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the packaging, indicating compliance with IS 6255.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, thicknesses, angles, and tolerances must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Cutter Angles",
+        "detail": "Applies strictly to 45° and 60° dovetail cutters and inverse dovetail cutters.",
+        "clause_reference": "Clause 1.2"
+      },
+      {
+        "requirement_type": "Cutter Head Diameter (d2)",
+        "detail": "Specifies major cutter head diameter (d2) held to js16 limits to ensure dimensional accuracy in dovetail groove profiles.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Cutter Angle Tolerance (alpha)",
+        "detail": "The nominal angles of 45° and 60° are held to a tight tolerance of ±30'.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Shank Diameter Tolerances (d1)",
+        "detail": "Shank diameters d1 are held to: h8 for plain cylindrical shanks, h6 for flatted cylindrical shanks, and h8 for threaded shanks.",
+        "clause_reference": "Table 1 Footnote 1"
+      },
+      {
+        "requirement_type": "45-Degree Cutter Dimensions",
+        "detail": "Standardizes dimensions for 45° cutters: d2=16 (l1=4, l2=60, d1=12); d2=20 (l1=5, l2=63, d1=12); d2=25 (l1=6.3, l2=67, d1=12); d2=31.5 (l1=8, l2=71, d1=16) in millimetres.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "60-Degree Cutter Dimensions",
+        "detail": "Standardizes dimensions for 60° cutters: d2=16 (l1=6.3, l2=60, d1=12); d2=20 (l1=8, l2=63, d1=12); d2=25 (l1=10, l2=67, d1=12); d2=31.5 (l1=12.5, l2=71, d1=16) in millimetres.",
+        "clause_reference": "Table 1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 6255 : 2013",
+    "Inverse Dovetail Cutters",
+    "Dovetail Cutters",
+    "Cylindrical Shanks",
+    "Plain Flatted Threaded Shanks",
+    "h8 and h6 tolerances",
+    "Angle tolerance 30 minutes",
+    "Major diameter d2 js16",
+    "Cutting Tools PGD 32",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 6255 : 2013 (Third Revision) is the primary national Indian Standard specification prescribing quality requirements, physical dimensions, and tolerances for inverse dovetail cutters and dovetail cutters with cylindrical shanks (plain, flatted, or threaded). Maintained under the Cutting Tools Sectional Committee (PGD 32), the standard unifies tool designs used for machining precise female and male dovetail slide-ways, jigs, and fixtures across industrial toolrooms. It specifies precise geometries for 45° and 60° cutters with cutting head diameters from 16 mm to 31.5 mm, enforcing strict tolerances (such as js16 for head diameter, ±30' for cutter angle, and h8/h6 for shanks) aligned with ISO 3859:2000. This ensures highly rigid, vibration-free tool holding and clean, accurate slide machining to support general engineering and structural inspections."
+  },
+  "source_information": {
+    "source_pdf_filename": "6255.pdf",
+    "document_version_edition": "Third Revision, December 2013"
+  }
+}

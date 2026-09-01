@@ -1,0 +1,167 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2669 : 1971",
+    "full_title": "Specification for Woodruff Keyslot Milling Cutters with Parallel Shank (First Revision) (पैरेलल शंक वाले वुड्रफ की-स्लॉट मिलिंग कटर की विशिष्टि (पहला पुनरीक्षण))",
+    "sector_category": "Production and General Engineering / Cutting Tools (approved by the Production and General Engineering Division Council and finalized by the Cutting Tools Sectional Committee, PGD 32, under the Bureau of Indian Standards)",
+    "ics_code": "25.100.20",
+    "sectional_committee": {
+      "name": "Cutting Tools Sectional Committee",
+      "number": "PGD 32"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the standardized physical dimensions, tolerances, materials, and testing requirements for woodruff keyslot milling cutters integral with parallel shanks (Type A with straight teeth), designed specifically for machining precise semi-circular keyslots or seatings in rotating shafts to accommodate standard Woodruff keys.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 1971 (Reaffirmed 2025)",
+    "year_first_published": "1964",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 2669 : 1964)",
+        "year": "1964"
+      },
+      {
+        "edition": "First Revision (IS 2669 : 1971)",
+        "year": "1971"
+      },
+      {
+        "edition": "Second Revision (IS 2669 : 2013 / ISO 12197:1996)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 2669 : 1964",
+    "superseded_by": "IS 2669 : 2013 (for new procurements, while the 1971 edition remains widely referenced in standard toolrooms)",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2294 : 1980",
+      "title": "Dimensions for Woodruff keys and keyslots",
+      "category": "Keys and keyways standard",
+      "relevance": "Provides the matching geometric envelopes, slot depths, and shaft diameters for standard keys."
+    },
+    {
+      "is_number": "IS 1830 : 1982",
+      "title": "Technical supply conditions for milling cutters",
+      "category": "Testing standard",
+      "relevance": "Defines general quality, surface finish, hardness testing, runout tolerances, packaging, and marking."
+    },
+    {
+      "is_number": "IS 7291 : 1981",
+      "title": "Specification for High Speed Steel",
+      "category": "Material standard",
+      "relevance": "Defines chemical limits and performance classes of premium tool steels (M2, M35, or M42)."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 12427 : 2001",
+      "title": "Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification",
+      "category": "Fastener standard",
+      "location": "Notebook Source [1]",
+      "relevance": "Substation structural steelwork and transmission lines integrate key-operated gears or pulleys. Woodruff keyseats on gear shafts are milled using IS 2669 cutters."
+    },
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Source [2]",
+      "relevance": "Submersible pump impellers are driven by rotating shafts requiring keyways to seat Woodruff keys. Machining is done using standard cutters conforming to IS 2669."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "location": "Notebook Source [3]",
+      "relevance": "Mixing and blending motors operating continuously in volatile varnish lines depend on keyed shaft couplings machined using IS 2669 cutters."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Notebook Source [4]",
+      "relevance": "Toolrooms operating CNC cutter-grinders, hardening furnaces (reaching 1200°C for HSS hardening), and high-tension tensile testing rigs are safety-audited under IS 14489."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork carrying gearboxes and motor drives with keyed shaft couplings."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Material and Sizing Specification (Production and General Engineering Department / Cutting Tools, PGD 32)",
+    "certification_status": "Voluntary Product Certification. Every manufacturer of Woodruff keyslot cutters is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the packaging, indicating compliance with IS 2669.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, dimensional parameters, thicknesses, and tolerances must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Designation and Preferred Sizing",
+        "detail": "Cutters are specified by the nominal diameter (d1) and nominal width (b), such as 10.5 mm diameter (widths 2.0, 2.5, 3.0), 16.5 mm diameter (widths 3.0, 4.0, 5.0), and up to 32.5 mm diameter (widths 8.0, 10.0), matching standard keys to IS 2294.",
+        "clause_reference": "Clause 2.1 & Table 1"
+      },
+      {
+        "requirement_type": "Precision Cutter Diameter Tolerance",
+        "detail": "Tolerances on the nominal cutter diameter (d1) are held to h11 limits to prevent loose keyslots or key wobble in operation.",
+        "clause_reference": "Clause 3 & Figure 1"
+      },
+      {
+        "requirement_type": "Precision Cutter Width Tolerance",
+        "detail": "Tolerances on the cutter width (b) must conform to e8 limits to maintain exact lateral clearance of the Woodruff key inside the machined seat.",
+        "clause_reference": "Clause 3 & Figure 1"
+      },
+      {
+        "requirement_type": "Precision Shank Diameter Tolerance",
+        "detail": "Shank diameter (d2) tolerances are strictly specified as h8 (or h6) to ensure a snug, concentric slip-fit inside the machine spindle chuck, minimizing tool runout.",
+        "clause_reference": "Clause 3 & Figure 1"
+      },
+      {
+        "requirement_type": "Hollow-Ground Side Relief",
+        "detail": "The sides of the cutter must be hollow-ground to a slight concave depth to provide side relief, preventing friction heat and galling against the keyslot walls during deep plunge cutting.",
+        "clause_reference": "Constructional Features"
+      },
+      {
+        "requirement_type": "Tool Hardness Requirements",
+        "detail": "High-Speed Steel cutters must have cutting teeth hardened and tempered to a minimum hardness of 62 to 65 HRC. The parallel shank portion must have a hardness of not less than 30 to 50 HRC to prevent scratching from the chuck.",
+        "clause_reference": "Clause 4 & IS 1830"
+      },
+      {
+        "requirement_type": "Standard Designation Example",
+        "detail": "Woodruff cutters are designated by name, diameter, width, standard number, and material. Example: A woodruff keyslot milling cutter of diameter d1 = 19.5 mm and width b = 5.0 mm, made of HSS and featuring Type A straight teeth: 'Woodruff Keyslot Cutter 19.5 x 5.0 IS : 2669 HSS'.",
+        "clause_reference": "Clause 6"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2669 : 1971",
+    "Woodruff Keyslot Milling Cutters",
+    "Parallel Shank Splicing",
+    "Type A Straight Teeth",
+    "Diameter h11 and Width e8",
+    "Shank Diameter h8",
+    "Hollow-Ground Side Relief",
+    "HSS Material Grade M2",
+    "Hardness 62 to 65 HRC",
+    "PGD 32 Cutting Tools",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2669 : 1971 (First Revision) is the primary national Indian Standard specification prescribing quality requirements, material specifications, tolerances, and nominal dimensions for Woodruff keyslot milling cutters with parallel shanks. Maintained under the Cutting Tools Sectional Committee (PGD 32), the standard unifies tool designs used for machining precise semi-circular keyways in rotating shafts to accommodate Woodruff keys conforming to IS 2294. It standardizes preferred cutter sizes—with diameters from 10.5 mm to 32.5 mm—and specifies strict ISO tolerances (such as h11 for diameter, e8 for width, and h8 for the shank) to ensure precise, vibration-free tool holding and clean, accurate key seat geometry. By requiring high-speed steel (HSS) material hardened to 62–65 HRC on the teeth and a hollow-ground side relief, the code guarantees maximum tool life and cutting efficiency, preventing localized shaft galling and supporting standardized on-site industrial inspections."
+  },
+  "source_information": {
+    "source_pdf_filename": "2669.pdf",
+    "document_version_edition": "First Revision, 1971 (Reaffirmed 2025)"
+  }
+}

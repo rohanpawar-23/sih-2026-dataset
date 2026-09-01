@@ -1,0 +1,187 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13065 : 1991",
+    "full_title": "Bulk Handling Equipment — Wagon Marshalling Equipment — Endless Rope Type — General Requirements (राशि प्रहस्तन उपस्कर — रेल डिब्बा (वैगन) विन्यास उपस्कर — सिरा विहीन रस्सानुमा टाइप — सामान्य अपेक्षाएँ)",
+    "sector_category": "Heavy Mechanical Engineering / Bulk Handling Equipment (approved by the Heavy Mechanical Engineering Division Council and finalized by the Bulk Handling Equipment Sectional Committee, HMD 07, of the Bureau of Indian Standards)",
+    "ics_code": "53.020.30; 53.080",
+    "sectional_committee": {
+      "name": "Bulk Handling Equipment Sectional Committee",
+      "number": "HMD 07"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the general construction, material, safety, control, performance, and testing requirements for transportable or fixed endless or open rope type wagon marshalling equipment used for the vertical, horizontal, or side-hitching transport of railway wagons on tracks during bulk loading and unloading operations.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, July 1991 (Reaffirmed 2022)",
+    "year_first_published": "1991",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13065 : 1991)",
+        "year": "1991"
+      }
+    ],
+    "supersedes": "None (New Standard formulated to unify mechanical parameters for automated and non-automated endless rope traction systems in Indian industry)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL (No amendments issued on this active reaffirmed copy)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 808",
+      "title": "Dimensions for hot rolled steel beam, column, channel and angle sections",
+      "category": "Material standard",
+      "relevance": "Governs dimensions of steel channels and beams used to fabricate the heavy-duty machined winch base frames."
+    },
+    {
+      "is_number": "IS 3937 : 1967",
+      "title": "Recommendations for socketing of wire ropes",
+      "category": "Design standard",
+      "relevance": "Prescribes standard groove profiles, pitch limits, and diameters for rope drums to ensure maximum wire rope service life."
+    },
+    {
+      "is_number": "IS 7403 : 1974",
+      "title": "Code of practice for selection of standard worm and helical gear boxes",
+      "category": "Design standard",
+      "relevance": "Regulates service factor ratings and torque capacities for drive gear boxes based on operational hours per day."
+    },
+    {
+      "is_number": "IS 4218",
+      "title": "ISO metric screw threads (in various parts)",
+      "category": "Dimensional standard",
+      "relevance": "Standardises screw threads, bolts, and fasteners used in the assembly of structural frames and couplings."
+    },
+    {
+      "is_number": "IS 13113 : 1991",
+      "title": "Bulk handling equipment — Wagon Marshalling equipment — Endless rope type — Data sheet",
+      "category": "Data Sheet standard",
+      "relevance": "Serves as a critical engineering companion, defining the exact parameters and layout details to be exchanged between manufacturers and buyers during design selection."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated dimensional tolerances, rope ratios, and radial pressures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, platforms, overhead frames, and heavy-duty concrete foundation anchors used to secure friction winches, sheaves, and gravity take-up towers against high tension forces."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Directs OHS safety audits of high-hazard industrial railway sidings where high-tension endless ropes, moving wagons, and active winch drums present physical crushing, trapping, and snapping hazards."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Unifies operational risk mitigation, requiring daily safety interlock logging, rope wear tracking, and validation of winch operators' certifications."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification / System Design and Performance Code (Heavy Mechanical Engineering Department / Bulk Material Handling)",
+    "certification_status": "Voluntary Certification under the Bureau of Indian Standards (BIS). However, compliance with IS 13065 is highly critical and routinely mandated in public sector mining (Coal India, SCCL), thermal power plants (NTPC), port authorities, steel mills, and railway sidings across India to prevent derailments or high-tension cable snaps.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Any numerical value representing the result of a physical dimension, ratio, or calculated pressure must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Hot Rolled Steel Base Frame",
+        "detail": "The structural base frame carrying the haulage winch, motor, and gearboxes must be fabricated from hot-rolled steel sections conforming to IS 808, machined flat on mating surfaces, heavily gusseted at corners, and securely bolted in sections to facilitate transport and handling.",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "The Sizing Tread Diameter Ratio",
+        "detail": "To prevent premature wire fatigue, the ratio of the rope drum tread diameter (D) to the nominal wire rope diameter (d) must conform to strict minimum limits based on rope construction: (a) Round strand 6x7 construction = 42, (b) Round strand 6x19 construction = 24, (c) Round strand 6x37 construction = 19.",
+        "clause_reference": "Clause 5.2.2"
+      },
+      {
+        "requirement_type": "The Groove profile conformance",
+        "detail": "The pitch and diameter of rope drum grooves must be machined strictly in accordance with IS 3937 : 1967 to ensure smooth cable spooling.",
+        "clause_reference": "Clause 5.2.3"
+      },
+      {
+        "requirement_type": "Specific Radial Pressure Calculation",
+        "detail": "The radial pressure (P, in MPa) exerted by the tensioned wire rope on the drum or sheave is calculated using the formula: P = (20 * T) / (D * d), where T is rope tension in kg, D is drum tread diameter in mm, and d is rope diameter in mm.",
+        "clause_reference": "Clause 5.2.4"
+      },
+      {
+        "requirement_type": "The Radial Pressure Limits",
+        "detail": "The calculated radial pressure (P) must not exceed standard limits: (a) for 6x7 ropes: 2.1 MPa (Cast Iron) or 3.85 MPa (Cast Steel); (b) for 6x19 ropes: 3.5 MPa (Cast Iron) or 6.30 MPa (Cast Steel); (c) for 6x37 ropes: 4.2 MPa (Cast Iron) or 7.50 MPa (Cast Steel).",
+        "clause_reference": "Clause 5.2.4 & Table 1"
+      },
+      {
+        "requirement_type": "The Surge Pad segment Option",
+        "detail": "If agreed between the manufacturer and buyer, the rope drum shell can be fitted with renewable segments of chilled cast iron surge pads to simplify maintenance and protect the core drum.",
+        "clause_reference": "Clause 5.2.5"
+      },
+      {
+        "requirement_type": "Thruster-Driven Brakes & Indicators",
+        "detail": "An automatic, remote-controlled thruster-operated brake acting directly on the wheel or shaft is required for service and emergency braking. The brake assembly must be fitted with dedicated switches to indicate 'On', 'Off', and 'Wear' positions.",
+        "clause_reference": "Clause 5.3 & 5.3.1"
+      },
+      {
+        "requirement_type": "Drive Power Reduction Sizing",
+        "detail": "Reduction is achieved in two stages (enclosed gearbox running in an oil bath, plus open spur gear reduction with guards). For drives up to 30 kW, a worm reduction gearbox is permitted; above 30 kW, helical or spiral bevel-helical reduction gearboxes are preferred.",
+        "clause_reference": "Clause 5.4.1 – 5.4.4"
+      },
+      {
+        "requirement_type": "The Gearbox Service Factor",
+        "detail": "The reduction gearbox must be rated in accordance with IS 7403, using minimum service factors based on daily duty hours: 1.1 for up to 8 hours/day, 1.25 for up to 12 hours/day, and 1.50 for continuous 24-hour daily service.",
+        "clause_reference": "Clause 5.4.5"
+      },
+      {
+        "requirement_type": "Fluid Coupling Drive limits",
+        "detail": "Winch assemblies must utilize flexible couplings between the motor and gearbox. For high-capacity drives exceeding 40 kW, fluid couplings must be integrated to absorb high starting torque shocks and prevent rope snapping.",
+        "clause_reference": "Clause 5.8"
+      },
+      {
+        "requirement_type": "The Drum Shaft Bearings",
+        "detail": "Winch drum shafts must be supported by split gun metal bearings, phosphor bronze bushes, or self-aligning spherical roller bearings mounted in cast iron plummer blocks with grease nipples.",
+        "clause_reference": "Clause 5.9"
+      },
+      {
+        "requirement_type": "Automatic Gravity Take-Up Device",
+        "detail": "To maintain a constant snubbing tension on the friction drive winch in both directions, the system must incorporate an automatic, counter-weighted gravity take-up device.",
+        "clause_reference": "Clause 5.11"
+      },
+      {
+        "requirement_type": "Dual-Flanged Track Rollers",
+        "detail": "Track and vertical guide rollers must be dual-flanged at both ends, featuring parallel barrels fitted with sealed, grease-filled, single-row deep groove ball bearings designed to withstand dust, water, and debris on railway siding floors.",
+        "clause_reference": "Clause 5.12"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13065 : 1991",
+    "Bulk Handling Equipment",
+    "Wagon Marshalling",
+    "Endless Rope Type",
+    "Haulage Winch",
+    "Rope Drum Ratio",
+    "Radial Pressure",
+    "Thruster Brakes",
+    "Fluid Coupling 40 kW",
+    "HMD 07",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13065 : 1991 (Reaffirmed 2022) is the national Indian Standard prescribing the general technical, material, design, and performance requirements for endless or open rope type wagon marshalling equipment. Developed under the Bulk Handling Equipment Sectional Committee (HMD 07), the standard regulates traction systems used to haul railway wagons on tracks during bulk loading and unloading. It enforces precise drum-to-rope sizing ratios based on rope construction, defines a strict radial pressure formula to limit groove corrugation, mandates automatic thruster-operated brakes with wear indicators, requires helical gearboxes for motor power above 30 kW, enforces fluid couplings above 40 kW, and specifies automatic gravity take-up units to maintain uniform traction tension in both directions, ensuring rugged, high-safety operations in mines, power plants, and industrial siding yards."
+  },
+  "source_information": {
+    "source_pdf_filename": "13065_1991_reff2022.pdf",
+    "document_version_edition": "First Edition, 1991"
+  }
+}

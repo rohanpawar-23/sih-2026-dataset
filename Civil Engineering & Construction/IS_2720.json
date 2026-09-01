@@ -1,0 +1,177 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2720 (Part 13) : 1986",
+    "full_title": "Methods of Test for Soils — Part 13: Direct Shear Test (Second Revision) (मिट्टियों के परीक्षण की पद्धतियां — भाग 13: प्रत्यक्ष कर्तन परीक्षण (दूसरा पुनरीक्षण))",
+    "sector_category": "Civil Engineering / Soil and Foundation Engineering (approved by the Civil Engineering Division Council and finalized by the Soil Engineering Sectional Committee, BDC 23, later maintained under the Soil and Foundation Engineering Sectional Committee, CED 43, of the Bureau of Indian Standards)",
+    "ics_code": "13.080.20; 93.020",
+    "sectional_committee": {
+      "name": "Soil and Foundation Engineering Sectional Committee",
+      "number": "CED 43"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the laboratory testing method for determining the shear strength parameters of soil—specifically cohesion (c) and the angle of internal friction (φ)—under a known normal stress, using a direct shear apparatus under unconsolidated-undrained, consolidated-undrained, and consolidated-drained conditions.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, May 1987 (Reaffirmed 2021)",
+    "year_first_published": "1965",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 2720 : Part XIII : 1965)",
+        "year": "1965"
+      },
+      {
+        "edition": "First Revision (IS 2720 : Part XIII : 1972)",
+        "year": "1972"
+      },
+      {
+        "edition": "Second Revision (IS 2720 : Part 13 : 1986)",
+        "year": "1986"
+      }
+    ],
+    "supersedes": "IS 2720 (Part XIII) : 1972",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1, October 2009 (substitutes the corrected area equation in Clause 6.1.2)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 11229 : 1985",
+      "title": "Specification for shear box for testing of soils",
+      "category": "Product Specification",
+      "relevance": "Specifies structural dimensions, gunmetal/brass materials, and engineering tolerances of split shear box assemblies used to perform the test."
+    },
+    {
+      "is_number": "IS 2720 (Part 1) : 1983",
+      "title": "Methods of test for soils: Part 1 Preparation of soil samples for various tests",
+      "category": "Testing standard",
+      "relevance": "Specifies on-site sampling, processing, and laboratory preparation of representative, air-dried, or undisturbed soil specimens."
+    },
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Rounding standard",
+      "relevance": "Standardizes the mathematical rounding of evaluated parameters, displacement rates, and shear stresses to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 6403 : 1981",
+      "title": "Code of practice for determination of bearing capacity of shallow foundations (first revision)",
+      "category": "Design standard",
+      "location": "Same Sectional Committee (CED 43)",
+      "relevance": "Directly utilizes the cohesion (c) and friction angle (φ) values derived from IS 2720 (Part 13) to calculate the net ultimate bearing capacity of soil foundations."
+    },
+    {
+      "is_number": "IS 1904 : 1986",
+      "title": "Code of practice for design and construction of foundations in soils: General requirements (third revision)",
+      "category": "Design standard",
+      "location": "Same Sectional Committee (CED 43)",
+      "relevance": "Integrates soil shear parameters to calculate safe settlement tolerances (e.g., restricting differential settlement to 75 mm for multi-storey steel/RCC structures)."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Directs safety audits of construction excavations and foundation trenches, ensuring that shoring systems are designed based on verified soil shear strengths to prevent catastrophic wall collapses."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System (First Revision)",
+      "category": "Management standard",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Unifies operational risk mitigation, requiring regular structural evaluations of earthen slopes, excavations, and retaining systems based on direct shear testing parameters."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, foundation bolt anchoring, and structural steel shoring sheets whose capacities are governed by the lateral soil pressures computed using cohesion and friction angles."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Methods of Test / Technical Laboratory Guidelines (Civil Engineering Department / Soil Mechanics)",
+    "certification_status": "Voluntary Code of Practice. Since IS 2720 (Part 13) is an analytical testing standard rather than a direct consumer product, it does not carry an individual physical 'ISI Mark' standard label. However, compliance with its sampling, consolidation, shearing, and mathematical area correction protocols is strictly required for lab accreditations (under NABL ISO/IEC 17025:2017) and public infrastructure contracts managed by the PWD, NHAI, Indian Railways, and Central Public Works Department (CPWD).",
+    "requirements": [
+      {
+        "requirement_type": "Split Shear Box Dimensions",
+        "detail": "The direct shear test must utilize a standard square brass or gunmetal shear box (conforming to IS 11229) with nominal dimensions of 60 mm x 60 mm x 50 mm, split horizontally at mid-height.",
+        "clause_reference": "Clause 4 & Apparatus"
+      },
+      {
+        "requirement_type": "Specific Grid-Plate Curing Selection",
+        "detail": "For undrained tests, solid or plain toothed grid plates must be positioned over the specimen to prevent drainage. For drained tests, perforated grid plates and porous stones must be placed at the top and bottom of the specimen.",
+        "clause_reference": "Procedure"
+      },
+      {
+        "requirement_type": "Soil Preparation Sieving",
+        "detail": "Testing requires an air-dried soil sample (nominally 1 kg) passing through a 4.75 mm IS sieve, compacted into the shear box in three equal layers using a standardized hand tamper.",
+        "clause_reference": "Procedure"
+      },
+      {
+        "requirement_type": "Vertical Normal Stress Application",
+        "detail": " Predetermined normal vertical stress is applied to the specimen via a top pressure pad and loading yoke. For drained tests, the specimen must be allowed to consolidate fully under this vertical load before shearing.",
+        "clause_reference": "Clause 5.4"
+      },
+      {
+        "requirement_type": "Gap Separation Adjustment",
+        "detail": "Before commencing horizontal shear, the vertical clamping pins holding the box halves together must be removed, and the separation screws adjusted to create a slight gap to prevent metal-on-metal friction during sliding.",
+        "clause_reference": "Procedure"
+      },
+      {
+        "requirement_type": "Constant Shear Strain Rate CD Test",
+        "detail": "During a consolidated drained (CD) test, the horizontal shear displacement must be applied at an extremely slow, constant rate of strain (derived from consolidation curves) to guarantee that at least 95% of excess pore water pressures are dissipated.",
+        "clause_reference": "Clause 5.3 & Appendix A"
+      },
+      {
+        "requirement_type": "Dynamic Shear Force Calibration",
+        "detail": "The horizontal shear force is applied continuously and recorded using a calibrated proving ring, with readings taken until the shear stress peaks and declines, or horizontal displacement exceeds 20% of the specimen length.",
+        "clause_reference": "Clause 5.1 / 6.1"
+      },
+      {
+        "requirement_type": "The Area Correction Equation",
+        "detail": "To determine the true shear stress at failure, the shear force must be divided by the corrected contact area, as the horizontal overlapping area of the split box halves decreases continuously during shear.",
+        "clause_reference": "Clause 6.1.2"
+      },
+      {
+        "requirement_type": "Amendment No. 1 Correction",
+        "detail": "Under the October 2009 amendment, the corrected area calculation is updated to the geometrically correct formula: Ac = Ao * ((6 - δ) / 6), replacing a historical printing typo in the original code.",
+        "clause_reference": "Clause 6.1.2"
+      },
+      {
+        "requirement_type": "Mohr-Coulomb Failure Envelope",
+        "detail": "The test must be repeated on separate specimens at a minimum of three (preferably four) different vertical normal stresses. The peak shear stress values are plotted against normal stresses to draw the Mohr-Coulomb failure envelope, where the intercept is cohesion (c) and the slope is the angle of internal friction (φ).",
+        "clause_reference": "Clause 5.3 & calculations"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Final observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match those of the specified limits.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2720 (Part 13) : 1986",
+    "Methods of Test for Soils",
+    "Direct Shear Test",
+    "Shear Strength Parameters",
+    "Cohesion",
+    "Internal Friction Angle",
+    "Split Shear Box",
+    "Amendment No. 1 2009",
+    "Area Correction Formula",
+    "Consolidated Drained Test",
+    "CED 43",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2720 (Part 13) : 1986 (Second Revision) is the primary national Indian Standard test specification prescribing the laboratory method for determining the shear strength parameters of soil—cohesion (c) and the angle of internal friction (φ)—using a direct shear split box apparatus. Prepared under Sectional Committee CED 43 and reaffirmed in 2021, the standard unifies critical geotechnical testing required to compute the bearing capacity of foundations, assess slope stability, and calculate lateral earth pressures behind retaining walls. The standard details sample preparation, vertical normal stress application, gap separation, and controlled-strain rates for undrained or drained tests. It also incorporates Amendment No. 1 (issued in October 2009) to establish the geometrically correct area correction formula (Ac = Ao * (1 - δ / 6)) to account for the shrinking overlap of the sliding shear box halves, ensuring high mathematical accuracy and safety across India's civil construction and engineering sectors."
+  },
+  "source_information": {
+    "source_pdf_filename": "2720_13a1.pdf",
+    "document_version_edition": "Second Revision, May 1987"
+  }
+}

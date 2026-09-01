@@ -1,0 +1,161 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1554 (Part 1 & Part 2) : 1988",
+    "full_title": "Specification for PVC Insulated (Heavy Duty) Electric Cables (विद्युत केबलों के लिए पीवीसी इंसुलेटेड (भारी काम) विशिष्टि)",
+    "sector_category": "Electrotechnical / Power Cables (approved by the Electrotechnical Division Council and finalized by the Power Cables Sectional Committee, ETD 09, of the Bureau of Indian Standards)",
+    "ics_code": "29.060.20; 83.140.40",
+    "sectional_committee": {
+      "name": "Power Cables Sectional Committee",
+      "number": "ETD 09"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard series prescribes the manufacturing requirements, material specifications, design configurations, dimensions, safety requirements, and performance testing protocols for PVC-insulated (heavy-duty) electric power and control cables used in fixed installations. Part 1 covers cables with rated voltages up to and including 1100 V (Uo/U = 650/1100 V), and Part 2 covers cables with working voltages from 3.3 kV up to and including 11 kV.",
+    "clause_number": "Clause 1.1 of Part 1 & Part 2",
+    "page_number": "Page 1 of base standards"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision for Part 1 (1988), Second Revision for Part 2 (1988), Reaffirmed 2020",
+    "year_first_published": "1959 / 1961",
+    "revision_history": [
+      { "edition": "First Edition (IS 1554 : 1959)", "year": "1959" },
+      { "edition": "Second Edition (IS 1554 : 1964)", "year": "1964" },
+      { "edition": "Third Edition (IS 1554 : 1976)", "year": "1976" },
+      { "edition": "Fourth Edition / Major Separated Revision (IS 1554 Part 1 & Part 2 : 1988)", "year": "1988" }
+    ],
+    "supersedes": "IS 1554 (Part 1 & Part 2) : 1976",
+    "superseded_by": "N/A (Standard remains active and is continuously updated through amendments)",
+    "amendment_slips": "Amendment No. 1 to 5 for Part 1, Amendment No. 1 to 4 for Part 2"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 8130 : 2013",
+      "title": "Specification for conductors in insulated cables and cords",
+      "category": "Conductor standard",
+      "relevance": "Provides baseline parameters for annealing, tensile properties, and maximum resistance limits of copper and aluminum conductor wires."
+    },
+    {
+      "is_number": "IS 5831 : 1984",
+      "title": "Specification for PVC insulation and sheath of electric cables",
+      "category": "Material standard",
+      "relevance": "Defines physical properties, tensile limits, thermal aging, and classifications for PVC compounds (Type A, Type C, ST1, ST2)."
+    },
+    {
+      "is_number": "IS 3975 : 1999",
+      "title": "Specification for low carbon galvanized steel wires, formed wires and tapes for armouring of cables",
+      "category": "Armour standard",
+      "relevance": "Regulates dimensions, zinc coating mass, and physical strength of protective steel armour wires and strips."
+    },
+    {
+      "is_number": "IS 10810 series",
+      "title": "Methods of test for cables",
+      "category": "Testing series",
+      "relevance": "The master testing code series detailing physical, mechanical, electrical, and flame-retardant test procedures."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Submersible pump motor circuits operating submerged in water rely on heavy-duty, tarnish-resistant, armoured/unarmoured PVC cables complying with IS 1554 (Part 1) to transmit 1100 V power safely."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Winding ends and transformer terminations treated with hot-curing varnishes operate in close proximity to power and control cables, requiring chemical compatibility to prevent sheathing degradation."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits in high-voltage testing yards and water immersion cable-test laboratories where high voltages present electrical and physical safety hazards."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel construction code in India, regulating support steelwork, cable trays, conduits, and gantry frames supporting heavy power cable networks."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "Shri A. K. Saini (Scientist 'F' & Head)",
+      "organization": "Electrotechnical Department (Power Cables Sectional Committee, ETD 09), Bureau of Indian Standards, New Delhi"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Material and Quality Specification (Electrotechnical Department / Power Cables)",
+    "certification_status": "Mandatory Certification under the national Cables (Quality Control) Order. Stamping or embossing of the physical ISI Standard Mark logo on the outer sheath is a statutory requirement to legally manufacture, sell, or distribute heavy-duty cables in India.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, conductor resistance, insulation thickness, test voltages, and temperatures must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Conductor Material Selection",
+        "detail": "Conductors must consist of high-purity, plain or tinned annealed copper (solid/stranded) or aluminum wire as per IS 8130, ensuring low electrical resistance and high current-carrying capacity.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Insulation Grade Classification",
+        "detail": "Cables are insulated with PVC compound Type A (for normal operation up to 70°C) or Type C (for heat-resistant operations up to 85°C) conforming to IS 5831.",
+        "clause_reference": "Clause 9"
+      },
+      {
+        "requirement_type": "90 Percent Armour Coverage Mandate",
+        "detail": "Under active Amendments (Amendment 5 for Part 1, Amendment 4 for Part 2), the armour wires or formed flat strips must be applied closely with a minimum coverage of 90 percent, calculated as per the spiral projection formulas in Appendix C.",
+        "clause_reference": "Clause 13.1.2 as amended"
+      },
+      {
+        "requirement_type": "Armour Coverage Formula (Appendix C)",
+        "detail": "Armour percentage is calculated as: Percent coverage = (N * d / W) * 100, where N is wire count, d is wire diameter/width, W = π * D * cos(a), D is diameter under armour, and a is laying pitch angle (tan a = π * D / C, where C is lay length).",
+        "clause_reference": "Appendix/Annex C"
+      },
+      {
+        "requirement_type": "Type Approval note 2 Validation",
+        "detail": "Under active Amendments, successful type testing of a cable with a specific conductor cross-sectional area and rated voltage grants valid type approval for other sizes and/or voltages of the same design family, provided insulation material/process match and the area is not larger than the tested cable.",
+        "clause_reference": "Clause 2.2 as amended"
+      },
+      {
+        "requirement_type": "High Voltage Room Temperature Test",
+        "detail": "For low-voltage heavy duty cables (Part 1), the completed cable must withstand a power-frequency AC test voltage of 3 kV for 5 minutes without insulation puncture.",
+        "clause_reference": "Performance Testing"
+      },
+      {
+        "requirement_type": "FR & FRLS Sheath Quality Limits",
+        "detail": "Optional fire-resistant or FRLS sheathing must satisfy a minimum oxygen index of 29 percent, temperature index of 250°C under standard air, maximum acid gas generation of 20% by weight, and smoke density light transmission limits.",
+        "clause_reference": "Appendix/Annex A"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1554 (Part 1 & Part 2)",
+    "PVC Insulated Electric Cables",
+    "Heavy Duty Power Cables",
+    "Amendment No. 5 April 2012",
+    "90 percent Armour Coverage",
+    "Armour Formula Appendix C",
+    "Type Approval Note 2",
+    "Oxygen Index 29 percent",
+    "Conductor Resistance IS 8130",
+    "ETD 09",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1554 (Part 1 & Part 2) : 1988 (Reaffirmed 2020) is the primary national Indian Standard specification prescribing design, materials, dimensions, and testing requirements for PVC-insulated (heavy-duty) electric power and control cables. Part 1 covers low-voltage systems up to 1100 V, while Part 2 covers medium-voltage systems from 3.3 kV to 11 kV. Operating in close parallel with conductor code IS 8130 and PVC code IS 5831, the standard unifies the manufacturing of armoured and unarmoured cables. Incorporating active amendments (Amendment 5 for Part 1 and Amendment 4 for Part 2), the standard enforces a critical minimum 90 percent armour coverage calculated using trigonometric spiral formulas, and establishes a streamlined Type Approval Note 2 validation protocol—allowing successful test results of larger cable cross-sections to approve smaller sizes of the same design family, ensuring absolute energy efficiency and electrical safety across national grids."
+  },
+  "source_information": {
+    "source_pdf_filename": "1554_2a4.pdf",
+    "document_version_edition": "Second Revision for Part 2, Third Revision for Part 1 (incorporating April 2012 Amendments)"
+  }
+}    

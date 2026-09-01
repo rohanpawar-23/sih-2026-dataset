@@ -1,0 +1,189 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12402 (Part 2) : 1988",
+    "full_title": "Specification for Mobile Containers for Solid Waste — Part 2: Methods of Test (ठोस अपशिष्ट के लिए गतिशील डिब्बे — भाग 2: परीक्षण पद्धतियाँ)",
+    "sector_category": "Mechanical Engineering / Material Handling Systems and Equipment (approved by the Mechanical Engineering Division Council and finalized by the Material Handling Systems and Equipment Sectional Committee, MED 07, of the Bureau of Indian Standards)",
+    "ics_code": "13.030.40; 53.080",
+    "sectional_committee": {
+      "name": "Material Handling Systems and Equipment Sectional Committee",
+      "number": "MED 07"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the methods of tests applicable to mobile containers (waste bins) used for solid waste collection, as described in IS 12402 (Part 1) : 1988, to verify their mechanical strength, structural clearances, impact resistances, thermal durability, and safety under peak load conditions.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1988 (Reaffirmed 2022)",
+    "year_first_published": "1988",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 12402 (Part 2) : 1988)",
+        "year": "1988"
+      }
+    ],
+    "supersedes": "None (New Standard formulated to support municipal waste collection specifications in Indian towns)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL (No amendments issued on this active reaffirmed copy)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 12402 (Part 1) : 1988",
+      "title": "Specification for mobile containers for solid waste — Part 1: General characteristics",
+      "category": "Product Specification",
+      "relevance": "Provides baseline dimensions, capacities, and lifting/gripping interface geometries against which testing procedures and deflections are conducted."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters, capacities, water temperatures, and dimensional deflections."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10506 : 1996",
+      "title": "Trolley for Carrying Jute Bales — Specification",
+      "category": "Product Specification",
+      "relevance": "Provides parallel structural tubing, steel plate, and rubber-tyred wheel standards for non-powered wheeled logistics gear."
+    },
+    {
+      "is_number": "IS 13228 : 2006",
+      "title": "Corrugated Fibreboard Boxes for Packing and Transportation — Specification",
+      "category": "Packaging standard",
+      "relevance": "Regulates drop and moisture conditioning tests which technically overlap with the weathering and protection testing parameters of municipal waste bins."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits of high-hazard industrial testing shops where high-impact vertical drop towers, high-temperature conditioning kilns, and acoustic sound meters present operational safety hazards."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "relevance": "Unifies operational risk mitigation, requiring daily safety checklists, test tower shielding, and validation of operator certifications."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel construction code in India, regulating support steelwork, drop-test derrick frames, and foundation anchors used in mechanical testing facilities."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Testing Specification / Mechanical Quality Code (Mechanical Engineering Department / Material Handling Systems)",
+    "certification_status": "Mandatory Testing Compliance. Under Municipal Corporation bylaws, state public works department (PWD) guidelines, and solid waste management rules across Indian cities, suppliers of waste management gear must provide test certificates from a NABL-accredited laboratory verifying that their mobile containers successfully withstand the 18-test sequence of IS 12402 (Part 2) before bidding on public tenders.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Any numerical value representing the final observed or calculated result of a physical dimension, water temperature, deflection percentage, or drop height must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Pre-Test Visual Baseline",
+        "detail": "Before executing any physical tests, a detailed visual inspection of the container must be performed to check that it is completely undamaged, has no manufacturing defects, and to establish a comparison log to measure structural changes.",
+        "clause_reference": "Clause 2.1"
+      },
+      {
+        "requirement_type": "The Part 1 Conformity Gate",
+        "detail": "It must be verified that all structural sizing, nominal volumes, gripping/lifting interfaces, and wheel configurations conform to the specifications of IS 12402 (Part 1).",
+        "clause_reference": "Clause 2.1.1"
+      },
+      {
+        "requirement_type": "Plastic-Component Thermal Conditioning",
+        "detail": "Containers made of plastic material (entirely or in part) must be conditioned in a temperature chamber prior to physical testing: (a) at -18 ± 3°C for a minimum of 12 hours, and (b) at +60 ± 5°C for a minimum of 12 hours.",
+        "clause_reference": "Clauses 2.2 & 2.2.1"
+      },
+      {
+        "requirement_type": "Metal-Component Temperature Exemption",
+        "detail": "Waste containers manufactured entirely of metal are explicitly exempted from undergoing extreme hot or cold thermal chamber conditioning.",
+        "clause_reference": "Clause 2.2.1"
+      },
+      {
+        "requirement_type": "The Normal Type Ballast No. 1",
+        "detail": "For testing normal 'N' type containers, the test ballast density must equal 0.4 kg/dm³ (representing average refuse density of 0.2 kg/dm³ multiplied by a safety factor of 2).",
+        "clause_reference": "Clauses 2.3 & 2.3.1"
+      },
+      {
+        "requirement_type": "The Reinforced Type Ballast No. 2",
+        "detail": "For testing reinforced 'R' type containers, the test ballast density must equal 1.0 kg/dm³ (representing average refuse density of 0.5 kg/dm³ multiplied by a safety factor of 2).",
+        "clause_reference": "Clause 2.3.2"
+      },
+      {
+        "requirement_type": "Ballast Composition & Volume Fill",
+        "detail": "The test ballast must consist of a uniform mix of metal parts (such as long bolts) and rubber balls. The ballast must occupy exactly 90 percent of the total capacity of the container.",
+        "clause_reference": "Clauses 2.3.3 & 2.3.3.2"
+      },
+      {
+        "requirement_type": "Sized Test Load Sizing",
+        "detail": "Test loads (including container and ballast weight) are strictly calibrated based on volume and type (e.g., 120-litre Type N = 0.48 kN, Type R = 1.20 kN; 240-litre Type N = 0.96 kN, Type R = 2.40 kN; 1000-litre Type N = 4.00 kN, Type R = 10.00 kN).",
+        "clause_reference": "Clause 2.4 & Table 1"
+      },
+      {
+        "requirement_type": "The 18-Test Operational Sequence",
+        "detail": "The standard specifies a strict, progressive sequence of 18 tests (starting with Test 1 check on deflection, Test 2 brim capacity, Test 7 free fall drop, Test 8 inclined impact, up to Test 18 final deflection check) to evaluate progressive structural fatigue.",
+        "clause_reference": "Clause 3.0"
+      },
+      {
+        "requirement_type": "Maximum Allowable Deflection Limit",
+        "detail": "Under Test 1 and Test 18, the empty container is measured at the gripping plane, and the maximum permissible deflection must not exceed 10/1000 (1.0% of nominal overall width).",
+        "clause_reference": "Clauses 3.1 & 3.1.1.1"
+      },
+      {
+        "requirement_type": "Water Brim Capacity check",
+        "detail": "Under Test 2, capacity is verified by placing the container level in a receipt tank and filling simultaneously with water at 15 ± 5°C to measure the exact volume of water held at the brim.",
+        "clause_reference": "Clauses 3.2 & 3.2.1.3"
+      },
+      {
+        "requirement_type": "Free Fall (Drop Test) Quantity",
+        "detail": "Under Test 7, the loaded container is subjected to a vertical drop test consisting of exactly 50 falls (25 falls with the lid closed, 25 falls with the lid open).",
+        "clause_reference": "Clauses 3.7 & 3.7.2.1.3"
+      },
+      {
+        "requirement_type": "Class A Drop Height Limit",
+        "detail": "Under Test 7, Class A containers (120, 240, 330 litres) must be dropped from a vertical height of 160 mm to simulate rolling off steps and curbs.",
+        "clause_reference": "Table 2 & Note 3"
+      },
+      {
+        "requirement_type": "Class B Drop Height Limit",
+        "detail": "Under Test 7, Class B containers (500, 750, 1000 litres) must be dropped from a vertical height of 140 mm (which corresponds to the average height of a standard pavement edge).",
+        "clause_reference": "Table 2 & Note 1"
+      },
+      {
+        "requirement_type": "Free Fall Failure gates",
+        "detail": "After the 50-drop test, the container must show zero permanent deformation, zero weld cracks, and zero damage making it unfit for use. Castors and pivots must remain completely free to rotate.",
+        "clause_reference": "Clause 3.7.3"
+      },
+      {
+        "requirement_type": "The 10° Inclined Impact Count",
+        "detail": "Under Test 8, the loaded container is mounted on a test truck on a 10° incline and released to strike a rigid wall. It must withstand a total of 80 impacts (across faces 1-4 and edges 1-2, 2-3, 3-4, 4-1) with a truck travel of 1.0 m (faces) or 0.5 m (edges).",
+        "clause_reference": "Clauses 3.8 & 3.8.2.1 - 3.8.2.5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12402 (Part 2) : 1988",
+    "Mobile Waste Containers",
+    "Solid Waste Testing",
+    "Class A and B Bins",
+    "Test Load Table 1",
+    "Drop Test 50 Falls",
+    "Pavement Edge Drop",
+    "Inclined Impact 80 Blows",
+    "Standard Ballast",
+    "Thermal Conditioning",
+    "MED 07",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12402 (Part 2) : 1988 (Reaffirmed 2022) is the primary national Indian Standard prescribing the mechanical, physical, thermal, and durability testing procedures for mobile waste containers (commonly known as wheelie bins or street waste bins). Maintained under the Material Handling Systems Sectional Committee (MED 07), the code serves to ensure municipal sanitation equipment can withstand the rough handling, dynamic impact shocks, and severe weather conditions found on Indian streets. It mandates an exhaustive sequence of 18 tests—including capacity verification, a 50-drop free-fall test from curb heights (up to 160 mm), and an 80-blow inclined plane impact test—conducted under peak load weights (ranging from 0.48 kN to 10.00 kN) using specialized rubber-and-metal ballasts. The standard also requires plastic-component bins to survive extreme temperature conditioning (-18°C to +60°C) and limits allowable post-test structural deflection to a rigid 1%, ensuring maximum long-term mechanical reliability in municipal services."
+  },
+  "source_information": {
+    "source_pdf_filename": "12402_2_1988_reff2022.pdf",
+    "document_version_edition": "First Edition, 1988"
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16054 : 2013",
+    "full_title": "Periodic Inspection and Testing — Welded Low Carbon Steel Cylinders Exceeding 5-Litre Water Capacity for Liquefied Petroleum Gas (LPG) — Code of Practice (आवधिक निरीक्षण एवं परीक्षण — द्रवित पेट्रोलियम गैस (एलपीजी) के लिए 5-लीटर से अधिक जल क्षमता वाले वेल्डित अल्प कार्बन इस्पात के सिलिंडर — रीति संहिता)",
+    "sector_category": "Mechanical Engineering / Gas Cylinders (approved by the Mechanical Engineering Division Council and finalized by the Gas Cylinders Sectional Committee, MED 16, of the Bureau of Indian Standards)",
+    "ics_code": "23.060.40; 75.160.30",
+    "sectional_committee": {
+      "name": "Gas Cylinders Sectional Committee",
+      "number": "MED 16"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard specifies the mandatory periodic inspection, quality evaluation, physical testing, safety re-qualification, and record-keeping procedures for transportable, refillable welded low-carbon steel LPG cylinders of water capacity exceeding 5 litres up to and including 250 litres.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, December 2013 (Reaffirmed 2024)",
+    "year_first_published": "2013",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 16054 : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "None (Formulated as an independent periodic code of practice to separate operational maintenance from manufacturing specifications)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL (No active amendments issued on this copy)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 13258",
+      "title": "Welded low carbon steel cylinders exceeding 5 litre water capacity for low pressure liquefiable gas — Requirements for inspection and reconditioning of used LPG cylinders",
+      "category": "Product Specification",
+      "relevance": "Governs the authorized hot/cold repair, paint stripping, foot ring replacement, and reconditioning of cylinders segregated during periodic visual inspection."
+    },
+    {
+      "is_number": "IS 9121",
+      "title": "Specification for valve fittings for liquefied petroleum gas cylinders",
+      "category": "Product Specification",
+      "relevance": "Specifies bung thread dimensions and inspection gauges for the cylinder valve collar connection."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated wall thicknesses, defect depths, tare weights, and test pressures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 3196 (Part 1)",
+      "title": "Welded low carbon steel cylinders exceeding 5 litre water capacity for low pressure liquefiable gases: Part 1 Cylinders for Liquefied Petroleum Gases (LPG) — Specification",
+      "category": "Product Specification",
+      "relevance": "The parent manufacturing standard. Dictates baseline nominal wall thicknesses and markings against which periodic visual and physical test results are compared."
+    },
+    {
+      "is_number": "IS 15966 : 2013",
+      "title": "Refillable Welded Steel Cylinder for Liquefied Petroleum Gas (LPG) — Procedure for Checking Before, During and After Filling",
+      "category": "Procedural standard",
+      "relevance": "The active bottling-plant safety filter, ensuring cylinders overdue for periodic testing under IS 16054 are intercepted and routed to testing stations."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Directs safety audits of high-hazard LPG cylinder testing stations, ensuring water-bath safety barriers, hydrostatic pumps, pneumatic lines, and electrical systems comply with national workplace rules."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Unifies operational risk mitigation, requiring routine safety logs, gas detector calibrations, and validation of testing operators' competencies."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, storage sheds, overhead conveyor tracks, and high-pressure manifold supports used in cylinder testing yards."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "Shri P. B. Yedla (Chairman)",
+      "organization": "Petroleum and Explosive Safety Organization (PESO), Nagpur"
+    },
+    {
+      "name": "Shri K. K. Gandhi",
+      "organization": "Society of Indian Automobile Manufacturers (SIAM), New Delhi"
+    },
+    {
+      "name": "Shri Pankaj Kumar Karn (Alternate)",
+      "organization": "Society of Indian Automobile Manufacturers (SIAM), New Delhi"
+    },
+    {
+      "name": "Shri Debashis Karmakar",
+      "organization": "Steel Authority of India Ltd, Ranchi"
+    },
+    {
+      "name": "Dr B. K. Jha (Alternate)",
+      "organization": "Steel Authority of India Ltd, Ranchi"
+    },
+    {
+      "name": "Shri T. Kalyanasundaram",
+      "organization": "Steel Authority of India Ltd, Salem"
+    },
+    {
+      "name": "Shri N. K. Vijayavargia (Alternate)",
+      "organization": "Steel Authority of India Ltd, Salem"
+    },
+    {
+      "name": "Shri M. L. Fathepuria",
+      "organization": "Supreme Cylinders Ltd, Delhi"
+    },
+    {
+      "name": "Shri P. K. Banerjee",
+      "organization": "Tata Motors Ltd, Pune"
+    },
+    {
+      "name": "Shri Amul Verma (Alternate)",
+      "organization": "Tata Motors Ltd, Pune"
+    },
+    {
+      "name": "Shri Y. K. Behani",
+      "organization": "Tekno Valves, Kolkata"
+    },
+    {
+      "name": "Shri R. Behani (Alternate)",
+      "organization": "Tekno Valves, Kolkata"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Code of Practice / Safety and Testing Guidelines (Mechanical Engineering Department / Gas Cylinders)",
+    "certification_status": "Mandatory Certification and Procedural Compliance under the Gas Cylinder Rules of the Government of India, in direct coordination with the Petroleum and Explosives Safety Organisation (PESO). Cylinder testing stations must be officially approved by PESO and certified by the Bureau of Indian Standards (BIS) to execute periodic inspections. Cylinders passing all tests must be stamped with the testing station's unique identification mark and the new test date on the stay plate/collar stay before returning to commercial filling rotation.",
+    "requirements": [
+      {
+        "requirement_type": "Tare Weight Checking Rejection Gate",
+        "detail": "Following external and internal cleaning of the cylinder body, the cylinder must be weighed on a calibrated scale. If the cylinder has lost more than 5 percent of its original stamped tare weight, it must be rejected.",
+        "clause_reference": "Clause 5.5"
+      },
+      {
+        "requirement_type": "Bung thread Cleanliness & Gauging",
+        "detail": "Valve pad threads must be thoroughly cleaned of paint and residue using a soft wire brush and checked in accordance with IS 9121 using a standard 3/4\" 14 NGT thread plug gauge.",
+        "clause_reference": "Clause 5.6"
+      },
+      {
+        "requirement_type": "Hydrostatic Sized Test Pressure",
+        "detail": "Every cylinder that passes the visual inspections must be subjected to a hydrostatic proof pressure test at a test pressure of 2.45 MPa (25.00 kgf/cm²). The test pressure must be held with zero drop or leakage.",
+        "clause_reference": "Route Card / Annex C"
+      },
+      {
+        "requirement_type": "Air Removal After Testing",
+        "detail": "Following successful completion of the hydrostatic test, all residual testing water must be drained, and air must be removed by press-opening the valve using a suitable adaptor. Storing any cylinder with internal air pressure is strictly prohibited.",
+        "clause_reference": "Clause 5.12"
+      },
+      {
+        "requirement_type": "The Physical Rejection Tables",
+        "detail": "Establishes a strict visual rejection framework for physical defects on the cylinder wall under Table 1, including bulges, dents, cuts, digs, cracks, laminations, and foot ring bottom clearance limits.",
+        "clause_reference": "Clause 5.4.1(a) & Table 1"
+      },
+      {
+        "requirement_type": "Visual Rejection - Bulge & Crack",
+        "detail": "A bulge (visible swelling) or a crack (split or rift in the shell) compromises structural safety. Rejection is mandatory in all cases.",
+        "clause_reference": "Table 1, Sl No. i & vi"
+      },
+      {
+        "requirement_type": "Visual Rejection - Dent limits",
+        "detail": "A dent (localized depression) requires rejection if its depth exceeds 1/10th of its mean diameter, its mean diameter exceeds 1/4th of the cylinder diameter, or if it lies on or adjacent to a weld joint.",
+        "clause_reference": "Table 1, Sl No. ii"
+      },
+      {
+        "requirement_type": "Visual Rejection - Cut or Gouge",
+        "detail": "A cut or gouge requires rejection if its length is 75 mm or more, or if the remaining wall thickness in the affected portion is less than the minimum calculated wall thickness.",
+        "clause_reference": "Table 1, Sl No. iii"
+      },
+      {
+        "requirement_type": "Visual Rejection - Dig limits",
+        "detail": "A dig (surface penetration) requires rejection if its length is 75 mm or more and its width is 4 mm or more.",
+        "clause_reference": "Table 1, Sl No. viii"
+      },
+      {
+        "requirement_type": "Visual Rejection - Footring Clearance",
+        "detail": "Footring bottom clearance (distance of body bottom from the ground) must not be less than 8 mm for cylinders up to 34 litres water capacity, 15 mm for cylinders between 34 to 50 litres, and 25 mm for cylinders exceeding 50 litres.",
+        "clause_reference": "Table 1, Sl No. x"
+      },
+      {
+        "requirement_type": "Severe Corrosion Sized Pit Gate",
+        "detail": "Establishes maximum depth limits for corrosion. Isolated pits, area corrosion (not exceeding 20% surface), line corrosion, and crevice corrosion require rejection if the depth of penetration exceeds 0.4 mm.",
+        "clause_reference": "Table 1 (Corrosion defects)"
+      },
+      {
+        "requirement_type": "Periodic Stamped Marking format",
+        "detail": "Cylinders passing inspection must be stamped on the valve collar stay plate in the format '09 A - XX', where '09' represents the year of testing, 'A' indicates the month (A=Jan, B=Feb, etc.), and 'XX' represents the monthly control number.",
+        "clause_reference": "Clause 5.14.1 & Annex B"
+      },
+      {
+        "requirement_type": "Active Computerized Record Retention",
+        "detail": "All inspection, visual, hydrostatic, and pneumatic testing logs must be digitally recorded and maintained in a computerized database for the entire operational life of the cylinder.",
+        "clause_reference": "Clause 5.14.2 & Certifications"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Observed or calculated dimensions, defect depths, weights, and test pressures must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
+        "clause_reference": "Foreword & Clause 1.2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16054 : 2013",
+    "LPG Cylinder periodic testing",
+    "Gas Cylinder Rules",
+    "Hydrostatic Test 2.45 MPa",
+    "Tare Weight Rejection",
+    "Table 1 Visual Rejection",
+    "Footring clearance",
+    "Bung thread gauge NGT",
+    "Date Code 09 A - XX",
+    "Computerized records",
+    "MED 16",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16054 : 2013 is the primary national Indian Standard code of practice prescribing the mandatory procedures for the periodic inspection, testing, and safety re-certification of welded low-carbon steel LPG cylinders (exceeding 5-litre water capacity up to 250 litres). Developed under Sectional Committee MED 16 and reaffirmed in 2024, the standard unifies safety re-qualification in India. It mandates executing a hydrostatic proof pressure test at 2.45 MPa, enforces a strict visual inspection table (Table 1) to reject cylinders carrying structural defects (such as bulges, cracks, deep dents, or corrosion pits deeper than 0.4 mm), rejects cylinders with tare weight losses exceeding 5%, requires stamping the stay plate with a standardized year-month date code (e.g., 09 A - XX), and requires all testing stations to record and maintain active test certificates digitally on computers for the entire service life of each cylinder."
+  },
+  "source_information": {
+    "source_pdf_filename": "16054_2013_reaff2024.pdf",
+    "document_version_edition": "First Edition, December 2013"
+  }
+}

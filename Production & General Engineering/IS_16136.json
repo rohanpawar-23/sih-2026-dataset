@@ -1,0 +1,143 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16136 : 2013",
+    "full_title": "SOLID CARBIDE END MILLS WITH CONTINUOUS PARALLEL SHANK — SPECIFICATION",
+    "sector_category": "Cutting Tools Sectional Committee, PGD 32 (Approved and adopted under the Bureau of Indian Standards)",
+    "ics_code": "ICS 25.100.20",
+    "sectional_committee": {
+      "name": "Cutting Tools Sectional Committee",
+      "number": "PGD 32"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the dimensions of solid carbide end mills with continuous parallel shank.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, December 2013",
+    "year_first_published": "2013",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": []
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2428",
+      "title": "Classification of Carbides for Chip Removal",
+      "category": "Normative / Material Metallurgy Standard",
+      "location": "Clause 4",
+      "relevance": "Governs the application groups (P or K chip removal classes) and properties required for the raw solid carbide material."
+    },
+    {
+      "is_number": "IS 919 (Part 2)",
+      "title": "ISO system of limits and fits: Part 2 Tables of standard tolerance grades and limit deviations for holes and shafts",
+      "category": "Normative / Shaft Tolerance Standard",
+      "location": "Clause 6(a)",
+      "relevance": "Specifies the high-precision dimensional tolerances and limit deviations applied directly to the tool cutting and shank diameters."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Normative / Mathematical Rounding Standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding-off procedures used on physical test and analysis results to verify conformance to the standard's specified limits."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2428",
+      "title": "Classification of Carbides for Chip Removal",
+      "category": "Normative / Material Metallurgy Standard",
+      "location": "Clause 4",
+      "relevance": "Governs the application groups (P or K chip removal classes) and properties required for the raw solid carbide material."
+    },
+    {
+      "is_number": "IS 919 (Part 2)",
+      "title": "ISO system of limits and fits: Part 2 Tables of standard tolerance grades and limit deviations for holes and shafts",
+      "category": "Normative / Shaft Tolerance Standard",
+      "location": "Clause 6(a)",
+      "relevance": "Specifies the high-precision dimensional tolerances and limit deviations applied directly to the tool cutting and shank diameters."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Normative / Mathematical Rounding Standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding-off procedures used on physical test and analysis results to verify conformance to the standard's specified limits."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Cutting Tools / End Mills)",
+    "certification_status": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with details administered directly by BIS under the BIS Act, 1986.",
+    "requirements": [
+      {
+        "requirement_type": "Standard Sizing (Table 1 Dimensions)",
+        "detail": "Establishes a precise dimensions schedule for solid carbide end mills up to 20.00 mm. For each cutting diameter range (d1), continuous parallel shanks require identical shank diameters (d2) paired with short or long flute lengths (L2), overall length (L1), and gripping length (L3): \na) Diameter 16.0 mm: Short series flute L2 = 26 mm / Long series flute L2 = 32 mm, L1 = 92 mm, L3 = 48 mm; \nb) Diameter 18.0 mm: Short series flute L2 = 26 mm / Long series flute L2 = 32 mm, L1 = 92 mm, L3 = 48 mm; \nc) Diameter 20.0 mm: Short series flute L2 = 32 mm / Long series flute L2 = 38 mm, L1 = 104 mm, L3 = 50 mm.",
+        "clause_reference": "Table 1 (Entries xviii to xx)"
+      },
+      {
+        "requirement_type": "Raw Material Metallurgical Grade",
+        "detail": "The raw solid carbide material must belong to chip removal group P or K in accordance with IS 2428. The specific application group and grade class (such as K40) are chosen at the manufacturer's discretion or subject to agreement.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Standard Product Designation",
+        "detail": "End mills are designated by name, nominal cutting diameter, number of flutes (Z), carbide grade class, and the standard number. Example: 'End Mill 6.00 Z4 K40 IS 16136'.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Cylindrical Fitting Tolerances",
+        "detail": "Tolerances on both cutting diameters (d1) and shank diameters (d2) must conform strictly to standard ISO limits specified in IS 919 (Part 2).",
+        "clause_reference": "Clause 6(a)"
+      },
+      {
+        "requirement_type": "Flute Length Sizing Tolerances (L2)",
+        "detail": "Imposes strict upper limits on flute lengths (L2) to prevent excessive overhang: \na) Up to and including 10 mm: +1.0 / 0 mm; \nb) Over 10 mm up to and including 22 mm: +1.5 / 0 mm; \nc) Over 22 mm: +2.0 / 0 mm.",
+        "clause_reference": "Clause 6(b)"
+      },
+      {
+        "requirement_type": "Default Cutting Geometry",
+        "detail": "Unless otherwise specified, end mills must be supplied with a right-hand helix combined with a right-hand cutting direction.",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Intermediate Cutting Diameters",
+        "detail": "End mills with non-standard intermediate cutting diameters may be supplied subject to prior agreement between the manufacturer and the purchaser.",
+        "clause_reference": "Clause 7.2"
+      },
+      {
+        "requirement_type": "Precision Surface Finish Roughness Grades",
+        "detail": "Specifies standard surface finish values across the different functional zones of the end mill as illustrated in the technical drawings: \na) N6 roughness grade for the active outer cutting teeth/flutes (d1) and the parallel shank (d2); \nb) N9 roughness grade (with alternative N6 finish) inside the neck or clearance recess region between the helical flutes and the shank.",
+        "clause_reference": "Fig. 1 (Technical Schematics)"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16136 : 2013",
+    "Solid Carbide End Mills",
+    "Continuous Parallel Shank",
+    "Cutting Tools",
+    "PGD 32",
+    "Grade K40 Carbide",
+    "Chip Removal Group P",
+    "Chip Removal Group K",
+    "IS 2428",
+    "IS 919",
+    "N6 Surface Finish",
+    "Bureau of Indian Standards"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16136 : 2013 is the national Indian Standard specification governing solid carbide end mills manufactured with a continuous parallel shank. Finalized by the Cutting Tools Sectional Committee (PGD 32), this standard defines precise dimensional sizing boundaries (for diameters up to 20.00 mm), overall lengths, and shank gripping parameters for both short and long flute series. To ensure optimal chip flow and tool performance in high-speed milling machines, the standard mandates raw carbide grade categories (Group P or K conforming to IS 2428), enforces strict diameter tolerances per IS 919 (Part 2), regulates flute length tolerances up to +2.0 mm, and prescribes N6 grinding finishes for active cutting surfaces and shank diameters."
+  },
+  "source_information": {
+    "source_pdf_filename": "16136.pdf",
+    "document_version_edition": "First Edition, December 2013"
+  }
+}

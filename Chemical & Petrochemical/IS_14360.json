@@ -1,0 +1,151 @@
+{
+  "basic_identification": {
+    "is_number": "IS 14360 : 2012",
+    "full_title": "Semichrome Suede Upper Leather — Specification (First Revision)",
+    "sector_category": "Chemical / Leather and Leather Products (finalised by the Leather, Tanning Materials and Allied Products Sectional Committee, CHD 17, under the Chemical Division Council of the Bureau of Indian Standards)",
+    "ics_code": "59.140.30; 61.060",
+    "sectional_committee": {
+      "name": "Leather, Tanning Materials and Allied Products Sectional Committee",
+      "number": "CHD 17"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes requirements, chemical and physical testing methods, and sampling protocols for semichrome suede upper leather used in the manufacture of shoe uppers and allied leather goods.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, August 2012 (Reaffirmed 2022)",
+    "year_first_published": "1996",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 14360 : 1996)",
+        "year": "1996"
+      },
+      {
+        "edition": "First Revision (IS 14360 : 2012)",
+        "year": "2012"
+      }
+    ],
+    "supersedes": "IS 14360 : 1996",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardizes the mathematical rounding of physical test values (strength, thickness, elongation) to determine code compliance."
+    },
+    {
+      "is_number": "IS 1640 : 2007",
+      "title": "Glossary of terms relating to hides, skins and leather (first revision)",
+      "category": "Terminology standard",
+      "relevance": "Establishes definitions of terms and nomenclature used in the leather industry."
+    },
+    {
+      "is_number": "IS 5868 : 1983",
+      "title": "Method of sampling for leather (first revision)",
+      "category": "Sampling standard",
+      "relevance": "Prescribes standard methods for drawing representative samples from leather lots to evaluate standard conformity."
+    },
+    {
+      "is_number": "IS 5914 : 1970",
+      "title": "Methods of physical testing of leather",
+      "category": "Testing standard",
+      "relevance": "Outlines laboratory testing methods for measuring physical characteristics like thickness (LP:2), tensile strength (LP:6), and elongation."
+    },
+    {
+      "is_number": "IS 6191 : 1971",
+      "title": "Methods of micro-biological colour fastness and microscopical tests for leather",
+      "category": "Testing standard",
+      "relevance": "Specifies microbiological resistance and colour fastness evaluation procedures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14575 : 1999",
+      "title": "Determination of pentachlorophenol (PCP) in leather — Method of test",
+      "category": "ECO Testing standard",
+      "location": "Same Sectional Committee CHD 17",
+      "relevance": "Determines toxic pentachlorophenol content to verify compliance with national environmental criteria."
+    },
+    {
+      "is_number": "IS 14898 : 2001",
+      "title": "ECO criteria for finished leather",
+      "category": "Product Guidelines",
+      "location": "Same Sectional Committee CHD 17",
+      "relevance": "Establishes environmental criteria and chemical restrictions for finishing processing chemicals."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Notebook Co-source",
+      "relevance": "Water potability limit coordinates to ensure that leather tanning, rechroming washings, and conditioning are free from damaging impurities."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for leather processing tanneries, shoe factories, and raw-hide warehouses."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Chemical Department / Leather and Leather Products)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the prestigious BIS 'Standard Mark' (ISI Mark) on leather bundles as a certified guarantee of material, physical strength, and ECO conformity. Compliance with IS 14360 is heavily specified in footwear supply contracts, defense equipment tenders, and leather exports.",
+    "requirements": [
+      {
+        "requirement_type": "Tanning Process",
+        "detail": "The leather shall be vegetable tanned and subsequently rechromed (semichrome), featuring a good suede nap on the flesh side with the option of a snuffed grain side.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Thickness Tolerance",
+        "detail": "Thickness of the suede upper leather shall not vary by more than 0.1 mm on either side of the nominal thickness declared by the manufacturer, measured per LP:2 of IS 5914.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Minimum Tensile Strength",
+        "detail": "The semichrome suede leather must have a minimum tensile strength of 16 MPa, evaluated per LP:6 of IS 5914.",
+        "clause_reference": "Clause 4.2 & Table 1"
+      },
+      {
+        "requirement_type": "Maximum Elongation at Break",
+        "detail": "Elongation at break is capped at a maximum of 80 percent, evaluated per LP:6 of IS 5914 to prevent excessive shoe shape distortion under wear.",
+        "clause_reference": "Clause 4.2 & Table 1"
+      },
+      {
+        "requirement_type": "Representative Sampling Plans",
+        "detail": "Sampling of the finished leather for quality-conformance tests must follow the exact methods outlined in IS 5868.",
+        "clause_reference": "Clause 7"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Final observed or calculated test values (strength, thickness, elongation) must be mathematically rounded off in accordance with IS 2:1960. The significant places must match the specified limits.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 14360 : 2012",
+    "Semichrome Suede Upper Leather",
+    "Tensile Strength 16 MPa",
+    "Elongation 80 Percent",
+    "Thickness Tolerance 0.1 mm",
+    "Vegetable Tanned",
+    "Rechromed",
+    "IS 5914",
+    "CHD 17",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 14360 : 2012 (First Revision) is the national Indian Standard specification establishing technical, physical, and testing requirements for semichrome suede upper leather. Maintained under the FAD/CHD 17 committee and reaffirmed in 2022, this standard regulates leather that is vegetable tanned and subsequently rechromed for shoe uppers. It mandates a strict thickness tolerance of ±0.1 mm, specifies a minimum tensile strength of 16 MPa, caps elongation at break at 80% to ensure durability, and outlines sampling procedures per IS 5868 and testing under IS 5914, verifying standard compliance and durability across India."
+  },
+  "source_information": {
+    "source_pdf_filename": "14360_2012_reff2022.pdf",
+    "document_version_edition": "First Revision, August 2012"
+  }
+}

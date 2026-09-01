@@ -1,0 +1,138 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10314 : 1982",
+    "full_title": "Dimensions for Ceramic Bushings for Terminals (टर्मिनलों के लिए सिरेमिक बुशिंग के आयाम)",
+    "sector_category": "Electrotechnical / Electrical Insulators and Accessories (finalized by the Electrical Insulators and Accessories Sectional Committee, ETD 06 / ETD 11, of the Bureau of Indian Standards)",
+    "ics_code": "29.035.50; 29.080.20",
+    "sectional_committee": {
+      "name": "Electrical Insulators and Accessories Sectional Committee",
+      "number": "ETD 11"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the standardized physical dimensions, tolerances, shapes, and general requirements for ceramic (porcelain or steatite) bushings (tubes) used as terminal insulators. These bushings prevent flashovers and ground faults where current-carrying conductors pass through the earthed metal casings or enclosures of rotating electrical machines, capacitors, transformers, and other electrical apparatus.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1982 (Reaffirmed 2021)",
+    "year_first_published": "1982",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 10314 : 1982)",
+        "year": "1982"
+      }
+    ],
+    "supersedes": "None (Developed as a dedicated, standardized dimensional specification to govern terminal-type ceramic bushings)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL (No active amendments have been issued on this copy)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 8765 : 1978",
+      "title": "Specification for ceramic insulating materials for electrical purposes",
+      "category": "Material standard",
+      "relevance": "Defines material classes, mechanical strength, and dielectric properties."
+    },
+    {
+      "is_number": "IS 7421 : 1988",
+      "title": "Specification for porcelain bushings for alternating voltages up to and including 1000 V",
+      "category": "Product specification",
+      "relevance": "Outlines parallel testing, creepage distances, and visual inspection criteria."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and dimensional limits to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Submersible motors require robust terminal box insulation; ceramic bushings complying with IS 10314 are utilized in electrical terminal glands to maintain insulation and resist high moisture conditions."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Terminal bushing junctions and winding ends are coated or impregnated with hot-curing varnishes to enhance moisture barriers and prevent surface tracking."
+    },
+    {
+      "is_number": "IS 11731 (Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
+      "category": "Testing standard",
+      "relevance": "Auxiliary terminal box plastics, insulation sheets, and spacers used alongside ceramic bushings must pass vertical flammability tests to ensure they are fully self-extinguishing (Class FV0)."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits of high-voltage testing yards and ceramic kiln firing setups, verifying that high-voltage insulation tests are shielded and conducted under safe working rules."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support structural columns and machinery bases inside chemical compounding and electrical testing laboratories."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Dimensional Specification (Electrotechnical Department / Electrical Insulators)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the physical ISI 'Standard Mark' directly on the packaging of ceramic bushings or the component itself to certify dimensional and material conformity.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Material Composition",
+        "detail": "Bushings must be manufactured from high-grade ceramic insulating materials (porcelain, steatite, or alumina) conforming to the physical and chemical requirements of IS 8765 : 1978.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Glazing Finish",
+        "detail": "The exposed surfaces of the ceramic bushing must be smoothly and uniformly glazed (typically in standard dark brown or white/off-white finishes) to prevent moisture absorption, resist chemical attack, and minimize creepage tracking.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Defect Limits",
+        "detail": "Permissible limits of visual surface defects (cracks, structural chips, or pinholes) must comply with IS 13305 : 1992 to guarantee structural and dielectric integrity.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Sized Dimensions and Tolerances",
+        "detail": "Standardizes inside diameter (d1), outside diameter (d2), total length (L), and collar thickness (t) of the bushing. Tolerances are calibrated based on the kiln shrinking characteristic of clay/ceramics during firing.",
+        "clause_reference": "Clauses 5 & 6"
+      },
+      {
+        "requirement_type": "Mounting Geometry",
+        "detail": "Standardizes the collar design and groove depth for optional sealing gaskets or O-rings used to prevent water ingress into the rotating electrical machine or capacitor terminal.",
+        "clause_reference": "Clauses 5 & 6"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10314 : 1982",
+    "Ceramic Bushings",
+    "Porcelain Tubes",
+    "Terminal Insulators",
+    "Steatite Insulating",
+    "IS 8765 Glazing",
+    "Rotating Electrical Machines",
+    "Capacitors",
+    "ETD 11",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10314 : 1982 (Reaffirmed 2021) is the primary national Indian Standard specification prescribing standardized dimensions and tolerances for ceramic bushings (tubes) used as terminal insulators. Developed under the Electrical Insulators and Accessories Sectional Committee (ETD 11), the standard unifies dimensional ranges for terminals of rotating electrical machines, capacitors, and electrical apparatus where current-carrying conductors pass through earthed metal casings. It mandates high-grade glazed finishes (conforming to IS 8765 material specifications) to prevent moisture ingress, limits visual defects to protect dielectric strength, and coordinates with motor insulation (IS 10026) and safety auditing standards (IS 14489)."
+  },
+  "source_information": {
+    "source_pdf_filename": "10314_1982_reff2021.pdf",
+    "document_version_edition": "First Edition, 1982"
+  }
+}

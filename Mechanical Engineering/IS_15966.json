@@ -1,0 +1,222 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15966 : 2013",
+    "full_title": "Refillable Welded Steel Cylinder for Liquefied Petroleum Gas (LPG) — Procedure for Checking Before, During and After Filling (द्रवित पेट्रोलियम गैस (एल.पी.जी.) के लिए पुनर्भरणीय वेल्डित इस्पात के सिलिंडर — भरणी प्रक्रिया: भरने से पहले, भरने के दौरान तथा भरने के बाद)",
+    "sector_category": "Mechanical Engineering / Gas Cylinders (approved by the Mechanical Engineering Division Council and finalized by the Gas Cylinders Sectional Committee, MED 16, of the Bureau of Indian Standards)",
+    "ics_code": "23.020.30",
+    "sectional_committee": {
+      "name": "Gas Cylinders Sectional Committee",
+      "number": "MED 16"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard specifies the mandatory inspection, quality check, safety verification, and leak testing procedures to be adopted in LPG bottling plants and filling stations before, during, and after the filling of refillable welded steel LPG cylinders to ensure maximum transport and operational safety.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, March 2013 (Reaffirmed 2022)",
+    "year_first_published": "2013",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 15966 : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "None (New Standard developed to formalise the procedural safety checklists in LPG filling plants)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 3196 (Part 1)",
+      "title": "Welded low carbon steel cylinders exceeding 5 litre water capacity for low pressure liquefiable gases: Part 1 Cylinders for Liquefied Petroleum Gases (LPG) — Specification",
+      "category": "Product Specification",
+      "relevance": "Provides the baseline manufacturing specifications, steel chemical compositions, tare-weight details, and marking baselines for the cylinders."
+    },
+    {
+      "is_number": "IS 16054",
+      "title": "Gas Cylinders — Periodic Inspection and Testing of LPG Cylinders — Code of Practice",
+      "category": "Testing standard",
+      "relevance": "Prescribes the mandatory 5-year and subsequent hydrostatic test limits (at 2.45 MPa) used to determine if a cylinder is due for periodic recertification."
+    },
+    {
+      "is_number": "IS 13258",
+      "title": "Welded low carbon steel cylinders exceeding 5 litre water capacity for low pressure liquefiable gas — Requirements for inspection and reconditioning of used LPG cylinders",
+      "category": "Product Specification",
+      "relevance": "Regulates the repair, hot/cold servicing, tare-weight punching, and reconditioning of worn cylinder bodies."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated weights, dimension clearances, and gas leakage pressures to match specified code limits."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Directs safety audits of high-hazard LPG bottling yards, ensuring that mechanical conveyors, automated filling lines, leak-testing water baths, and electrical earthing systems comply with gas-safety regulations."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Unifies risk mitigation, requiring regular testing of gas sensors, emergency shut-off valves, and logging of daily pre/post-filling compliance audits."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, storage sheds, overhead conveyor gantries, and pipe manifolds carrying high-pressure gas to filling carousels."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "Shri Rabindra N. Ghosh",
+      "organization": "Indian Oil Corporation Ltd, Mumbai"
+    },
+    {
+      "name": "Shri S. M. Rambhal (Alternate)",
+      "organization": "Indian Oil Corporation Ltd, Mumbai"
+    },
+    {
+      "name": "Shri Ashwin H. Mehta",
+      "organization": "J. R. Fabricators Ltd, Halol"
+    },
+    {
+      "name": "Shri L. C. Jain",
+      "organization": "Jindal Stainless Ltd, Hisar"
+    },
+    {
+      "name": "Shri Pravain Goel (Alternate)",
+      "organization": "Jindal Stainless Ltd, Hisar"
+    },
+    {
+      "name": "Shri G. P. Gupta",
+      "organization": "LPG Equipment Research Centre, Bangalore"
+    },
+    {
+      "name": "Shrimati Karobi Mukherjee (Alternate)",
+      "organization": "LPG Equipment Research Centre, Bangalore"
+    },
+    {
+      "name": "Shri J. P. Tiwari",
+      "organization": "Ministry of Defence (DGQA), Pune"
+    },
+    {
+      "name": "Lt-Col B. V. Ravi Kumar (Alternate)",
+      "organization": "Ministry of Defence (DGQA), Pune"
+    },
+    {
+      "name": "Shri S. R. Sarvate",
+      "organization": "Vanaz Engineers Ltd, Pune"
+    },
+    {
+      "name": "Shri Deepak Kabra (Alternate)",
+      "organization": "In Personal Capacity"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Code of Practice / Requirements Standard (Mechanical Engineering Department / Gas Cylinders)",
+    "certification_status": "Mandatory Certification and Procedural Compliance under the Gas Cylinder Rules of the Government of India, in coordination with the Petroleum and Explosives Safety Organisation (PESO). All active LPG bottling plants must maintain strict audit logs verifying that 100% of filled cylinders pass the visual inspection, gross-weight verification, and soapy water leak checks mandated by IS 15966.",
+    "requirements": [
+      {
+        "requirement_type": "Ownership and Brand Check",
+        "detail": "Before filling, operators must visually check that the cylinder belongs to the authorized marketing company or distributor network to prevent illegal cross-filling.",
+        "clause_reference": "Pre-Filling Procedures"
+      },
+      {
+        "requirement_type": "Periodic Test Due Date Verification",
+        "detail": "Inspectors must verify that the cylinder's periodic hydrostatic test date (marked on the stay plate/collar) has not expired. Cylinders due or overdue for testing must be segregated immediately for periodic testing under IS 16054.",
+        "clause_reference": "Pre-Filling Procedures"
+      },
+      {
+        "requirement_type": "Body Wall Defect Visual Audit",
+        "detail": "Mandates inspecting the cylinder shell for physical integrity prior to filling using strict rejection thresholds (bulges, cuts, dents, cracks, lamination, and digs).",
+        "clause_reference": "Clause 5 & Table 2"
+      },
+      {
+        "requirement_type": "The Bulge Rejection Limit",
+        "detail": "A bulge is defined as a visible swelling of the cylinder wall, which alters the original calculated cylindrical geometry, representing a severe localized yielding under pressure. Rejection is mandatory in all cases.",
+        "clause_reference": "Table 2, Sl No. i"
+      },
+      {
+        "requirement_type": "The Dent Tolerance Bounds",
+        "detail": "A dent represents a localized depression. If the width of the dent is greater than 2 percent of the external cylinder diameter, the unit must be rejected if: a) its depth is greater than 1/10th of the mean dent diameter, b) its depth exceeds 25 percent of its width, or c) the dent lies on or adjacent to a weld joint.",
+        "clause_reference": "Table 2, Sl No. ii"
+      },
+      {
+        "requirement_type": "The Cut and Intersection Limit",
+        "detail": "A cut represents a sharp impression where metal has been removed or redistributed. It must be rejected if it is 75 mm or more in length, or if the undamaged remaining wall thickness is less than the minimum calculated wall thickness.",
+        "clause_reference": "Table 2, Sl No. iii"
+      },
+      {
+        "requirement_type": "The Intersecting Cuts Rejection",
+        "detail": "Intersecting cuts (the point of intersection of two or more cuts) represent a high-stress concentration zone susceptible to rapid crack propagation. Rejection is mandatory in all cases.",
+        "clause_reference": "Table 2, Sl No. iv"
+      },
+      {
+        "requirement_type": "The Crack and Lamination Rejection",
+        "detail": "Cracks (splits or rifts in the shell) and laminations (layering of materials appearing as discontinuities) compromise the pressure-bearing capacity of low-carbon steel. Rejection is mandatory in all cases.",
+        "clause_reference": "Table 2, Sl No. vi & vii"
+      },
+      {
+        "requirement_type": "The Dig Sizing Threshold",
+        "detail": "A dig represents a sharp depression where the surface metal has been physically penetrated. It must be rejected if its length is 75 mm or more and its width is 4 mm or more.",
+        "clause_reference": "Table 2, Sl No. viii"
+      },
+      {
+        "requirement_type": "Tare Weight Checking Gate",
+        "detail": "The actual weight of the clean, empty cylinder must be compared with the stamped tare weight. Abnormal tare weight variances indicate internal scaling or structural steel loss, requiring segregation.",
+        "clause_reference": "Pre-Filling Procedures"
+      },
+      {
+        "requirement_type": "Active Residual Pressure Check",
+        "detail": "Every cylinder must be checked for positive residual gas pressure. A completely depressurized cylinder indicates a potential open valve that may have allowed moisture, water, or air to enter, requiring internal washing and inspection.",
+        "clause_reference": "Pre-Filling Procedures"
+      },
+      {
+        "requirement_type": "Post-Filling Gross Weight Audit",
+        "detail": "Filled cylinders must be weighed to verify that the net LPG weight matches the rated filling capacity within narrow legal tolerances. Overfilled units represent an extreme thermal expansion hazard and must be safely degassed.",
+        "clause_reference": "Post-Filling Procedures"
+      },
+      {
+        "requirement_type": "Post-Filling Leakage Bath (Zero Bubble)",
+        "detail": "The valve, valve spindle, and bung-joint interface must be tested for leak tightness (using a soap-water solution or a dedicated testing bath). The presence of any bubbles indicating a leak requires immediate evacuation of the LPG.",
+        "clause_reference": "Post-Filling Procedures"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Observed or calculated weights, test pressures, and dimension limits must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword & Clause 0.5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15966 : 2013",
+    "Refillable Steel Cylinders",
+    "LPG Bottling Plant",
+    "Pre-Filling Checks",
+    "Visual Defect Table 2",
+    "Bulge Rejection",
+    "Dent limits",
+    "Intersecting cuts",
+    "Bung thread leak",
+    "Soapy Water Test",
+    "MED 16",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15966 : 2013 is the national Indian Standard prescribing procedural requirements and safety checking checklists to be adopted before, during, and after filling refillable welded steel LPG cylinders. Formulated under Sectional Committee MED 16, the standard serves as a critical safety buffer in LPG bottling plants. It mandates verifying cylinder ownership and periodic test due dates (re-testing at 2.45 MPa per IS 16054) before filling, and establishes strict visual rejection tables for cylinder wall defects (mandating rejection for any bulges, cracks, laminations, intersecting cuts, or deep dents). Post-filling, the standard enforces gross weight audits to prevent overfilling and requires a soap-water bubble test on all valves and bung joints to guarantee complete gas-tightness before the cylinder is sealed and dispatched to domestic or commercial kitchens."
+  },
+  "source_information": {
+    "source_pdf_filename": "15966_2013_reff2022.pdf",
+    "document_version_edition": "First Edition, March 2013"
+  }
+}

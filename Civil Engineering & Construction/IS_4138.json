@@ -1,0 +1,161 @@
+{
+  "basic_identification": {
+    "is_number": "IS 4138 : 1977",
+    "full_title": "Safety Code for Working in Compressed Air (First Revision) (संपीड़ित वायु में कार्य करने के लिए सुरक्षा विशिष्टियां (पहला पुनरीक्षण))",
+    "sector_category": "Civil Engineering / Safety in Construction (approved by the Civil Engineering Division Council and finalized by the Safety in Construction Sectional Committee, BDC 45, of the Bureau of Indian Standards)",
+    "ics_code": "13.100; 93.020",
+    "sectional_committee": {
+      "name": "Safety in Construction Sectional Committee",
+      "number": "BDC 45"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the safety requirements, operational controls, equipment specifications, and decompression stage timetables for executing construction works under compressed air, such as foundations of bridges, docks, and tunnels.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 1977 (Reaffirmed 2022)",
+    "year_first_published": "1967 (originally adopted by the Indian Standards Institution in 1967, and revised to this active first revision in 1977)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 4138 : 1967)",
+        "year": "1967"
+      },
+      {
+        "edition": "First Revision (IS 4138 : 1977)",
+        "year": "1977"
+      }
+    ],
+    "supersedes": "IS 4138 : 1967",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters, displacement rates, and test pressures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 4756 : 1978",
+      "title": "Safety code for tunneling work (first revision)",
+      "category": "Safety standard",
+      "location": "Same Division Council",
+      "relevance": "Provides parallel tunneling safety protocols, where excavations under water headings or pressure shields rely directly on IS 4138 for all man-locks and decompression calculations."
+    },
+    {
+      "is_number": "IS 4081 : 2013",
+      "title": "Blasting and related drilling operations — Code of safety (second revision)",
+      "category": "Safety standard",
+      "location": "Same Division Council",
+      "relevance": "Coordinates safety rules for handling explosives and drilling under hyperbaric pressure, where gaseous risks are multiplied."
+    },
+    {
+      "is_number": "IS 10291 : 1982",
+      "title": "Safety code for dress divers in civil engineering",
+      "category": "Safety standard",
+      "location": "Same Division Council",
+      "relevance": "Provides code for underwater deep-diving operations in civil works, directly referencing IS 4138 for air purity and compression/decompression safety limits."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Directs safety audits in industrial and civil works, where compressed air man-locks and medical facilities must be audited."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System (First Revision)",
+      "category": "Management standard",
+      "location": "Chemical Department (CHD 8)",
+      "relevance": "Unifies safety systems, mandating regular testing of hyperbaric locks and medical surveillance log tracking."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating steel plate design, welds, and connection bolts for caissons and pressurized bulkheads."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Safety Code / Code of Practice (Civil Engineering Department / Safety in Construction)",
+    "certification_status": "Voluntary Code of Practice. Since IS 4138 is an operational construction safety standard rather than a manufactured retail product, it does not carry an individual physical 'ISI Mark' product stamp. However, compliance with its structural locks, standby air capacities, and stage-decompression protocols is legally mandatory under municipal corporation building bylaws, State Public Works Department (PWD) specifications, Ministry of Road Transport and Highways (MoRTH Clause 1208.8) specifications for bridges, and national infrastructure tenders across India.",
+    "requirements": [
+      {
+        "requirement_type": "Man-Lock Specific Purpose",
+        "detail": "A Man-lock shall be used solely for the compression or decompression of persons, and not for the passage of plant or construction materials, and must be maintained in a clean, hygienic state.",
+        "clause_reference": "Good Practice Guidelines"
+      },
+      {
+        "requirement_type": "Man-Lock Vertical Clearance",
+        "detail": "The man-lock structure must have a minimum internal vertical clearance height of 1.8 meters to allow workers to sit or stand comfortably without physical strain.",
+        "clause_reference": "Clause 4.7 & Figure 1"
+      },
+      {
+        "requirement_type": "Standby Air Receiver Capacity",
+        "detail": "Where a standby compressor cannot be installed, the air receiver must have sufficient volumetric capacity to maintain the working hyperbaric pressure for at least four hours.",
+        "clause_reference": "Clause 4.8"
+      },
+      {
+        "requirement_type": "Bulkhead Emergency Access",
+        "detail": "Adequate access and sufficient steel ladders must be provided through bulkheads. Emergency escape routes in descending tunnel bulkheads should be positioned in the corners to ensure they remain inside residual air pockets during accidental flooding.",
+        "clause_reference": "Clause 4.9"
+      },
+      {
+        "requirement_type": "Maximum Decompression Rate",
+        "detail": "Decompression both to the first stage and between intermediate stages must proceed at rates not faster than 0.4 bar/min (40 kPa/min) to prevent nitrogen bubble formation.",
+        "clause_reference": "Annex C, Note 1"
+      },
+      {
+        "requirement_type": "Stage Decompression Time calculation",
+        "detail": "The decompression duration spends separate holding times at calculated intermediate pressure stages, excluding the transient transit times between stages.",
+        "clause_reference": "Annex C, Note 2"
+      },
+      {
+        "requirement_type": "Borderline Pressure Scheduling",
+        "detail": "For borderline values of the maximum working pressure, the longer and more conservative decompression schedule in the tables must be adopted.",
+        "clause_reference": "Annex C, Note 3"
+      },
+      {
+        "requirement_type": "Exposure Period Table Calibrations",
+        "detail": "Mandates highly detailed pressure-holding stage timetables based on exposure duration (e.g., Table 3 for exposure over 1h to 1.5h) to guarantee safe nitrogen release.",
+        "clause_reference": "Annex C, Table 3"
+      },
+      {
+        "requirement_type": "Medical Lock Therapeutic Recompression",
+        "detail": "A fully equipped medical lock must be installed on-site for therapeutic recompression if any worker exhibits decompression sickness ('bends'), mandated at a scale of one medical lock per 100 workers.",
+        "clause_reference": "Good Practice Guidelines"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "All observed or calculated test pressures, exposure times, and volumes must be rounded off mathematically in accordance with IS 2:1960 to match the significant places of specified limits.",
+        "clause_reference": "Clause 0.6"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 4138 : 1977",
+    "Working in Compressed Air",
+    "Decompression Sickness",
+    "Man-Lock Height 1.8 m",
+    "Medical Lock",
+    "Standby Compressor 4 Hours",
+    "Stage Decompression Table",
+    "Decompression Rate 0.4 bar/min",
+    "BDC 45",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 4138 : 1977 (First Revision) is the primary national Indian Standard safety code establishing operational, equipment, and medical requirements for engineering works conducted under compressed air (such as bridge well-sinking, dry docks, and tunnels). Developed under Sectional Committee BDC 45 and reaffirmed in 2022, the code regulates hyperbaric construction environments to eliminate the severe risks of decompression sickness ('bends') and dysbaric osteonecrosis. It mandates specific man-lock designs (minimum 1.8 m internal clearance, solely for persons), requires air receivers to maintain working pressure for at least 4 hours in emergencies, details corner-positioned escape routes to ensure air pocket retention during flooding, enforces a maximum decompression rate of 0.4 bar/min, and outlines strict stage-decompression timetables to guarantee public health and municipal construction safety across India."
+  },
+  "source_information": {
+    "source_pdf_filename": "4138_1977_reff2022.pdf",
+    "document_version_edition": "First Revision, March 1977"
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2362 : 1993",
+    "full_title": "Determination of Water by Karl Fischer Method — Test Method (Second Revision) (कार्ल फिशर पद्धति द्वारा जल ज्ञात करने की परीक्षण पद्धति (दूसरा पुनरीक्षण))",
+    "sector_category": "Chemical / Inorganic Chemicals (approved by the Chemical Division Council and finalized by the Chemical Standards Sectional Committee, currently administered under the Inorganic Chemicals Sectional Committee, CHD 1, of the Bureau of Indian Standards)",
+    "ics_code": "71.040.50 (Chemical Analysis)",
+    "sectional_committee": {
+      "name": "Chemical Standards Sectional Committee / Inorganic Chemicals",
+      "number": "CHD 1"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard describes the Karl Fischer volumetric test methodology to determine free water, water of crystallization, or trace moisture in both organic and inorganic solid or liquid chemical products.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, July 1993 (Reaffirmed 2024)",
+    "year_first_published": "1963",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 2362 : 1963)",
+        "year": "1963"
+      },
+      {
+        "edition": "First Revision (IS 2362 : 1973)",
+        "year": "1973"
+      },
+      {
+        "edition": "Second Revision (IS 2362 : 1993)",
+        "year": "1993"
+      }
+    ],
+    "supersedes": "IS 2362 : 1973",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1070 : 1992",
+      "title": "Reagent grade water (third revision)",
+      "category": "Material standard",
+      "relevance": "Specifies purity parameters for reagent water utilized for preparing laboratory blanks, standardizations, and titrant mixtures."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated analytical titration values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15072 : 2002",
+      "title": "Sodium Alpha Olefin Sulphonate — Specification",
+      "category": "Product Specification",
+      "location": "Chemical Department",
+      "relevance": "Surfactant specification that requires moisture content of Type 1 AOS powders (max 3.0 percent) to be audited using IS 2362 to prevent physical caking."
+    },
+    {
+      "is_number": "IS 1612 : 1976",
+      "title": "Specification for Iron Powder (Reduction Grade)",
+      "category": "Product Specification",
+      "location": "Chemical Department",
+      "relevance": "Fine reduction iron powder standard restricting volatile matter to a maximum of 0.50 percent, where moisture must be audited using IS 2362 to prevent rust-degradation in storage."
+    },
+    {
+      "is_number": "IS 2075 : 2017",
+      "title": "Ready Mixed Paint, Stoving, Red Oxide Zinc Chrome, Priming — Specification",
+      "category": "Product Specification",
+      "location": "Chemical Department",
+      "relevance": "Industrial stoving primers that must be free of moisture; excess water vaporizes inside curing ovens, causing pinholing and blistering defects."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department",
+      "relevance": "Directs laboratory safety audits. Because Karl Fischer reagents involve toxic, flammable, and highly irritating chemicals (sulfur dioxide, pyridine, methanol), testing procedures must be handled inside fume hoods with proper PPE."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System (First Revision)",
+      "category": "Management standard",
+      "location": "Chemical Department",
+      "relevance": "Unifies safety management systems, mandating operational controls for hazard mitigation, which include maintaining laboratory exhaust ventilation and monitoring chemical waste disposal."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, walkway platforms, ladders, and protective enclosures for chemical warehouses, reactors, and testing laboratories."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Methods of Test / Analytical Laboratory Guidelines (Chemical Department / Inorganic Chemicals)",
+    "certification_status": "Voluntary Code of Practice. Since IS 2362 is an analytical testing standard rather than a direct consumer product, it does not carry an individual physical 'ISI Mark' product stamp on its own. However, compliance with its sampling, reagent drying, and titration calculation protocols is strictly required in laboratory accreditation audits (under NABL ISO/IEC 17025:2017) and public sector raw material procurement audits.",
+    "requirements": [
+      {
+        "requirement_type": "Electrometric End-Point Modernization",
+        "detail": "Under this second revision, the method involving visual detection of the end-point is completely deleted due to color change detection difficulties in dark or colored chemical solutions, shifting entirely to direct electrometric titration and electrometric back-titration.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "The Chemical Reagent Ratio",
+        "detail": "The volumetric determination of water is based on the reaction of water while oxidizing mono-alkyl sulphite to mono-alkyl sulphate using iodine in a 1:1 stoichiometric water-to-iodine ratio.",
+        "clause_reference": "Clause 3"
+      },
+      {
+        "requirement_type": "Guidance on Non-Pyridine Reagents",
+        "detail": "Incorporates guidelines and reference options for using commercially available, non-pyridine-based Karl Fischer reagents to resolve occupational safety, health, and odor concerns associated with toxic pyridine vapor.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Methanol Pre-Treatment drying",
+        "detail": "Methanol solvent must be highly anhydrous (max 0.05 percent water by mass). If necessary, it must be dried by distillation from magnesium turnings activated with iodine, and protected from atmospheric moisture using a guard tube filled with anhydrous aluminium sodium silicate or activated silica gel.",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Active Carbonyl Solvent Option",
+        "detail": "For chemical products containing active carbonyl groups (such as aldehydes and ketones), the standard recommends replacing methanol with 2-methoxyethanol (ethylene glycol monomethyl ether) to stabilize titration volumes and prevent acetal/ketal-forming side reactions that generate false water.",
+        "clause_reference": "Clause 3 & 5.2"
+      },
+      {
+        "requirement_type": "Direct Electrometric Titration",
+        "detail": "Direct titration detects the end point by depolarization of the cathode. While water is present, polarization opposes current. At the exact moment water is completely consumed, the first trace of excess iodine depolarizes the platinum electrodes, causing a sudden, permanent increase in current intensity.",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Electrometric Back-Titration",
+        "detail": "In back-titration, an excess of Karl Fischer reagent is added to the sample and titrated back with standard water-methanol solution until the galvanometer pointer moves suddenly to zero.",
+        "clause_reference": "Clause 8.2 & Fig. 2"
+      },
+      {
+        "requirement_type": "Reagent Water Equivalent (T)",
+        "detail": "The water equivalent (T) of the Karl Fischer reagent (in mg H2O/mL) is calibrated by dividing the mass of liquid water or sodium tartrate dihydrate by the net volume of Karl Fischer reagent consumed, taking into account water-methanol back-titration values.",
+        "clause_reference": "Clause 8.2.4"
+      },
+      {
+        "requirement_type": "Standardization water Factor",
+        "detail": "Sodium tartrate dihydrate is specified as the primary crystalline standard for calibrating water equivalents, applying a precise mathematical factor of 0.1566 to its mass.",
+        "clause_reference": "Clause 6 & 8.2.4"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "All observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960 to match the significant places of the specified limits.",
+        "clause_reference": "Foreword & Clause 0.5 / 1.2"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2362 : 1993",
+    "Determination of Water",
+    "Karl Fischer Method",
+    "Electrometric Titration",
+    "Direct Titration",
+    "Electrometric Back-Titration",
+    "Depolarization End-point",
+    "Sodium Tartrate Dihydrate",
+    "Methanol Solvent",
+    "2-Methoxyethanol",
+    "Inorganic Chemicals",
+    "CHD 1",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2362 : 1993 (Second Revision) is the primary national Indian Standard test code prescribing the volumetric determination of free water, water of crystallization, or trace moisture in organic and inorganic chemical products using the Karl Fischer method. Formulated by the chemical standards committee and reaffirmed in 2024, the standard unifies high-precision laboratory testing across India. Key modernisations in this second revision completely eliminate manual visual end-point color changes in favour of direct electrometric titration (detecting dead-stop cathode depolarization) and back-titration, and provide guidelines for non-pyridine-based reagents to protect laboratory chemists from toxic pyridine vapors."
+  },
+  "source_information": {
+    "source_pdf_filename": "2362_1993_reaff2024.pdf",
+    "document_version_edition": "Second Revision, July 1993"
+  }
+}

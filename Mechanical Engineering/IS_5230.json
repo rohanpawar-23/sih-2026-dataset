@@ -1,0 +1,186 @@
+{
+  "basic_identification": {
+    "is_number": "IS 5230 : 2017",
+    "full_title": "To and Fro (Jig Back) Movement Bi-Cable Ropeways — Code of Practice (Second Revision) (टू एंड फ्रो (जिग बैक) संचलन द्वि-केबल रज्जूमार्ग — रीति संहिता (दूसरा पुनरीक्षण))",
+    "sector_category": "Mechanical Engineering / Aerial Ropeways (approved by the Mechanical Engineering Division Council and finalized by the Aerial Ropeways Sectional Committee, MED 10 / MED 26, of the Bureau of Indian Standards)",
+    "ics_code": "45.100",
+    "sectional_committee": {
+      "name": "Aerial Ropeways Sectional Committee",
+      "number": "MED 10"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard covers the design, engineering, construction, safety installations, clearances, and operational maintenance of to and fro (jig back) movement bi-cable aerial ropeways used for the separate transportation of passengers and goods in cabins.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, June 2017 (Reaffirmed 2022)",
+    "year_first_published": "1969",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 5230 : 1969)",
+        "year": "1969"
+      },
+      {
+        "edition": "First Revision (IS 5230 : 1982)",
+        "year": "1982"
+      },
+      {
+        "edition": "Second Revision (IS 5230 : 2017)",
+        "year": "2017"
+      }
+    ],
+    "supersedes": "IS 5230 : 1982",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 802 (Part 1) : 2015",
+      "title": "Code of practice for use of structural steel in overhead transmission line towers: Part 1 Materials, loads and permissible stresses, Section 1 Materials and loads",
+      "category": "Structural standard",
+      "relevance": "Used to calculate load capacities, structural wind loads, and design stresses for steel trestle towers supporting the ropeway lines."
+    },
+    {
+      "is_number": "IS 875 (Part 3) : 2015",
+      "title": "Code of practice for design loads (other than earthquake) for buildings and structures: Part 3 Wind loads",
+      "category": "Load standard",
+      "relevance": "Directs wind pressure calculations on dynamic rope spans and suspended cabins under extreme weather."
+    },
+    {
+      "is_number": "IS 875 (Part 4) : 1987",
+      "title": "Code of practice for design loads (other than earthquake) for buildings and structures: Part 4 Snow loads",
+      "category": "Load standard",
+      "relevance": "Prescribes structural snow load limits for high-altitude mountain passenger ropeway terminal stations."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of clearances, friction coefficients, and tensile strengths to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel construction code in India, regulating support steelwork, column bases, and welding quality on terminal frames and tower structures."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits of ropeway stations, terminal buildings, and maintenance platforms, verifying emergency stop interlocks and safety rescue equipment comply with national laws."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "relevance": "Unifies operational risk mitigation, requiring daily safety checklists, braking system validation, and operator safety certificates."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Safety Specification (Mechanical Engineering Department / Aerial Ropeways)",
+    "certification_status": "Voluntary National Code. However, state government ropeway safety acts, municipal municipal-corporation clearances, and forest/environmental department permits across India make strict compliance with IS 5230 mandatory for ropeway licensing, safety certification, and commercial operation.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Final observed or calculated test and analytical values (such as clearances, specific speeds, friction limits, or dimensions) must be mathematically rounded off in accordance with IS 2:1960 (or IS 2:2022). The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Avoidance of Route Crossings",
+        "detail": "The crossing of routes, roads, railways, waterways, or other ropeways shall be avoided as far as possible to prevent mechanical collisions or clearance hazards.",
+        "clause_reference": "Clause 4.7.1"
+      },
+      {
+        "requirement_type": "Crossing Clearance Limits",
+        "detail": "Where crossings are unavoidable, vertical and horizontal clearances must be determined in such a manner that there is no danger for any vehicle using the various ways.",
+        "clause_reference": "Clause 4.7.1"
+      },
+      {
+        "requirement_type": "Mutual Comfort & Rescue Protection",
+        "detail": "Crossings and paralleling with railways, highways, cableways, or overhead electric lines must be designed so that no mutual discomfort or hazard results during normal operation, rescue operations, or installation works.",
+        "clause_reference": "Clause 4.7.2"
+      },
+      {
+        "requirement_type": "Underground Power Line Mandate",
+        "detail": "Wherever local conditions are favorable and the characteristics of the electric lines permit it, overhead electric lines crossing the ropeway corridor shall be replaced by underground cables.",
+        "clause_reference": "Clause 4.7.2"
+      },
+      {
+        "requirement_type": "Tensioning Rope Safety Factor",
+        "detail": "The minimum breaking strength of tensioning or regulating ropes shall be at least 5.5 times the maximum axial load in the rope during operation.",
+        "clause_reference": "Clause 5.4.2"
+      },
+      {
+        "requirement_type": "Communication/Signal Ropes Corrosion Protection",
+        "detail": "Telephonic and signal wire ropes must be of the stranded type and protected against corrosion (such as hot-dip galvanizing or polymer sheathing) to ensure clear communication.",
+        "clause_reference": "Clause 5.5.1"
+      },
+      {
+        "requirement_type": "Experienced Rope-Socketing",
+        "detail": "Rope-socketing (splicing or socket-pouring) must be performed with utmost care. Only specialized organizations with proven experience in making rope sockets shall be entrusted with this operation.",
+        "clause_reference": "Clause 5.8.2"
+      },
+      {
+        "requirement_type": "Rope Discarding Strength Loss Limit",
+        "detail": "A rope must be immediately withdrawn from service when the loss of strength in the rope due to wear, corrosion, broken wires, or a combination thereof is approaching one-sixth (16.67%) of the original strength.",
+        "clause_reference": "Clause 5.10(a)"
+      },
+      {
+        "requirement_type": "Drive Sheave Friction Coefficients (Unlined)",
+        "detail": "The coefficient of friction (µ) for drive sheave grooves without lining (cast iron or steel) must equal 0.07.",
+        "clause_reference": "Clause 6.2.4.1(a)"
+      },
+      {
+        "requirement_type": "Drive Sheave Friction Coefficients (Leather-Lined)",
+        "detail": "The coefficient of friction (µ) for drive sheave grooves with leather lining must equal 0.15.",
+        "clause_reference": "Clause 6.2.4.1(b)"
+      },
+      {
+        "requirement_type": "Drive Sheave Friction Coefficients (Rubber-Lined)",
+        "detail": "The coefficient of friction (µ) for drive sheave grooves with rubber or similar lining must equal 0.25 to prevent slippage.",
+        "clause_reference": "Clause 6.2.4.1(c)"
+      },
+      {
+        "requirement_type": "Drive Sheave Friction Coefficients (Aluminum-Lined)",
+        "detail": "Drive sheave grooves with aluminum lining may also be used, for which the value of µ must be agreed upon between the ropeway promoter and the Inspecting Authority.",
+        "clause_reference": "Clause 6.2.4.1(d)"
+      },
+      {
+        "requirement_type": "Power Transmission Contact Angle",
+        "detail": "The contact angle of the traction/haulage rope on the driving sheave must ensure that in the most unfavorable combination of circumstances, the required drive power is safely transmitted to the rope.",
+        "clause_reference": "Clause 6.2.4.2"
+      },
+      {
+        "requirement_type": "Emergency Stop Braking Interlock",
+        "detail": "An automatic mechanical and electrical braking interlock must be triggered instantly if the normal stop or emergency stop push button is pressed by the operator.",
+        "clause_reference": "Clause 6.13"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 5230 : 2017",
+    "Bi-Cable Ropeway",
+    "Jig Back Aerial Ropeway",
+    "Tensioning Rope Safety Factor",
+    "Rope Discarding 1/6 Strength Loss",
+    "Drive Sheave Friction",
+    "Rubber lining µ = 0.25",
+    "Route Crossing Clearance",
+    "Underground Power Cables",
+    "Aerial Ropeways MED 10",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 5230 : 2017 (Second Revision, Reaffirmed 2022) is the primary national Indian Standard code of practice regulating the design, construction, and safety of to and fro (jig back) movement bi-cable aerial ropeways used to transport passengers and goods. Maintained under the Aerial Ropeways Sectional Committee (MED 10) and reaffirmed in 2022, the standard unifies safety clearances and engineering parameters across India's public and industrial transit systems. It mandates a safety factor of 5.5 for tensioning ropes, defines a strict discarding boundary when rope strength falls by one-sixth (16.67%) due to wear or corrosion, and specifies standard sheave friction coefficients (ranging from 0.07 for unlined steel to 0.25 for rubber linings) to ensure skid-free power transmission. Operating alongside structural steel (IS 800) and wind load (IS 875) standards, the code protects public safety by restricting overhead power-line crossings and mandating automated emergency braking circuits."
+  },
+  "source_information": {
+    "source_pdf_filename": "5230_2017_reff2022.pdf",
+    "document_version_edition": "Second Revision, 2017"
+  }
+}

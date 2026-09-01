@@ -1,0 +1,156 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10617 : 2018",
+    "full_title": "Hermetic Compressors — Specification (Second Revision) (वायुरुद्ध संपीडक — विशिष्टि (दूसरा पुनरीक्षण))",
+    "sector_category": "Mechanical Engineering / Refrigeration and Air Conditioning (approved by the Mechanical Engineering Division Council and finalized by the Refrigeration and Air Conditioning Sectional Committee, MED 03, of the Bureau of Indian Standards)",
+    "ics_code": "23.140; 97.040.30",
+    "sectional_committee": {
+      "name": "Refrigeration and Air Conditioning Sectional Committee",
+      "number": "MED 03"
+    }
+  },
+  "scope": {
+    "summary": "This standard deals with the safety and performance requirements of hermetic sealed type standalone motor-compressors operating on a vapor compression cycle, suitable for low, medium, and high temperature applications based on reciprocating (including linear), rotary, and scroll pump mechanisms, including their internal protection systems, intended for household, commercial, and industrial equipment.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, December 2018 (Reaffirmed 2022) incorporating Amendment No. 1 (November 2020)",
+    "year_first_published": "1983",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 10617 (Parts 1 to 3) : 1983)",
+        "year": "1983"
+      },
+      {
+        "edition": "First Revision (IS 10617 : 2013)",
+        "year": "2013"
+      },
+      {
+        "edition": "Second Revision (IS 10617 : 2018)",
+        "year": "2018"
+      }
+    ],
+    "supersedes": "IS 10617 : 2013",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 (November 2020)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated specific surfaces, electrical resistances, and test temperatures to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Occupational Health and Safety Audit — Code of Practice",
+      "category": "Safety standard",
+      "location": "Chemical Department",
+      "relevance": "Directs safety audits in manufacturing environments where high-vibration, high-voltage industrial HVAC compressors require structural insulation resistance audits and noise control."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "location": "Chemical Department",
+      "relevance": "Unifies risk mitigation, requiring routine safety logs and insulation resistance checks on industrial plant rooms carrying hyperbaric compressor units."
+    },
+    {
+      "is_number": "IS 3196 (Part 1)",
+      "title": "Welded low carbon steel cylinders exceeding 5 litres water capacity for low pressure liquefiable gases: Part 1 Cylinders for Liquefied Petroleum Gases (LPG) — Specification",
+      "category": "Product Specification",
+      "location": "Mechanical Engineering Department",
+      "relevance": "Regulates welded pressure-retaining cylinders, sharing similar non-destructive examination (NDE), pneumatic leakage, and valve protection requirements with hermetic steel compressor shells."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support platforms and concrete anchors used to mount high-vibration industrial compressor assemblies in HVAC plant rooms."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Mechanical Engineering Department / HVAC and Refrigeration)",
+    "certification_status": "Voluntary Product Specification under the Bureau of Indian Standards (BIS). However, manufacturers are highly encouraged to apply for a BIS license to print the physical ISI 'Standard Mark' on compressor housings and packaging. Under Quality Control Orders (QCO) issued by the Ministry of Commerce and Industry, Government of India, many categories of hermetic compressors are under mandatory BIS certification to ensure safety, reliability, and energy efficiency across the country.",
+    "requirements": [
+      {
+        "requirement_type": "Pump Mechanism Scope",
+        "detail": "Hermetic standalone motor-compressor units must utilize either reciprocating (including linear reciprocating designs), rotary, or scroll pump mechanisms, suitable for low, medium, and high temperature applications.",
+        "clause_reference": "Foreword & Clause 1.1"
+      },
+      {
+        "requirement_type": "Temperature Range Classification",
+        "detail": "Classifies compressors into three service envelopes based on evaporating temperature: LBP (-35°C to -10°C), MBP (-20°C to +10°C), and HBP (comfort AC at -5°C to +13.9°C, commercial heat pumps at -23.3°C to +12.8°C).",
+        "clause_reference": "Clause 3.1"
+      },
+      {
+        "requirement_type": "Voltage Calibration Mean Test",
+        "detail": "If a compressor is rated for a voltage range (e.g., 220–240 V), type and performance testing must be executed at the calculated mathematical mean voltage (e.g., 230 V).",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Saturated Start Test Sizing",
+        "detail": "To verify motor starting torque under equalized pressure conditions, the compressor is subjected to a Saturated Start Test with saturated evaporating/condensing temperatures set based on back-pressure grade: LBP at 15.0°C, MBP at 32.2°C, and HBP at 32.2°C.",
+        "clause_reference": "Clause 6.1.2 & Table 6"
+      },
+      {
+        "requirement_type": "Start Test Procedure Duration",
+        "detail": "The start test must be conducted for a duration of 3 hours or until the steel shell temperature stabilizes within ±5°C, using the higher rated voltage in dual-rated systems, while maintaining a minimum COP of 90.0% of its rated baseline.",
+        "clause_reference": "Clause 6.1.2 & Table 5"
+      },
+      {
+        "requirement_type": "Winding Insulation Resistance",
+        "detail": "The electrical insulation resistance measured between the motor windings and the compressor's steel housing must not be less than 2 MΩ.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Pneumatic Housing Test",
+        "detail": "The fully assembled steel housing must be tested pneumatically using dry air, nitrogen, or helium at a test pressure of 1.0 MPa (gauge) and must show zero leakage.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "High Side Structural Test Pressure",
+        "detail": "Calibrates housing test pressure to non-subcritical refrigerants: R-134a (CF3CH2F) at 6.5 MPa (65 Bar), R-22 (CHClF2) at 10.5 MPa (105 Bar), and R-600a (CH(CH3)3) at 3.5 MPa (35 Bar).",
+        "clause_reference": "Clause 6.1.7 & Table 7"
+      },
+      {
+        "requirement_type": "Out-of-Envelope Testing Protocol",
+        "detail": "If a specialized compressor's design operating envelope lies outside standard parameters, testing must be carried out at the worst-case condition within the manufacturer's defined operating envelope.",
+        "clause_reference": "Table 9 Note"
+      },
+      {
+        "requirement_type": "Amendment No. 1 Calibration",
+        "detail": "Under the November 2020 amendment, starting tests are restricted to single-phase induction motor compressors only, and units must start and run at the minimum of the voltage range defined by the compressor specification.",
+        "clause_reference": "Amendment No. 1"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Final observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10617 : 2018",
+    "Hermetic Compressors",
+    "Vapor Compression Cycle",
+    "R-134a",
+    "R-22",
+    "R-600a",
+    "Pneumatic Test 1 MPa",
+    "Start Test Conditions",
+    "MED 03",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10617 : 2018 (Second Revision) is the primary national Indian Standard specification establishing safety and performance requirements for hermetically sealed standalone motor-compressors operating on a vapor compression cycle. Formulated under the Refrigeration and Air Conditioning Sectional Committee (MED 03) and reaffirmed in 2022, the standard unifies reciprocating, linear, rotary, and scroll pump mechanisms used in household, commercial, and industrial refrigeration and HVAC systems. It classifies compressors into low, medium, and high back pressure (LBP, MBP, HBP) service envelopes, prescribes strict testing conditions—including normal load parameters, a 3-hour saturated start test, a minimum 2 MΩ insulation resistance, and a 1 MPa dry-gas pneumatic leakage test—and defines minimum high-side structural test pressures for standard non-subcritical refrigerants like R-134a, R-22, and R-600a to ensure public health, mechanical durability, and electrical safety across India."
+  },
+  "source_information": {
+    "source_pdf_filename": "10617_2018_amd1_reff2022.pdf",
+    "document_version_edition": "Second Revision, December 2018"
+  }
+}

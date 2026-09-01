@@ -1,0 +1,150 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13067 : 1991",
+    "full_title": "Impregnants for Power Capacitors — Specification (बिजली संधारित्रों (कैपेसिटरों) के लिए संसेचकों की विशिष्टि)",
+    "sector_category": "Electrotechnical / Fluids for Electrotechnical Applications (approved by the Electrotechnical Division Council and finalized by the Fluids for Electrotechnical Applications Sectional Committee, ETD 03, formerly ET 03 / ETD 3, of the Bureau of Indian Standards)",
+    "ics_code": "29.040.10; 31.060.70",
+    "sectional_committee": {
+      "name": "Fluids for Electrotechnical Applications Sectional Committee",
+      "number": "ETD 03"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the quality baselines, physical-chemical characteristics, and testing methods for liquids used as impregnating agents in power capacitors conforming to IS 2834 : 1986.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1991 (Reaffirmed 2025) incorporating active Amendment No. 1",
+    "year_first_published": "1991",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13067 : 1991)",
+        "year": "1991"
+      }
+    ],
+    "supersedes": "None (Developed as a new standalone standard to govern quality specifications for modern paper and film power capacitor impregnants)",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2834 : 1986",
+      "title": "Specification for shunt capacitors for power systems",
+      "category": "Apparatus standard",
+      "relevance": "The master power capacitor standard which the liquid impregnants are designed to conform with."
+    },
+    {
+      "is_number": "IS 1448 (Part 2) : 2007",
+      "title": "Methods of test for petroleum and its products [P:2] neutralization number",
+      "category": "Testing standard",
+      "relevance": "Used to determine the neutralization value (acid number) of the insulating liquids to prevent dielectric degradation."
+    },
+    {
+      "is_number": "IS 335 : 1993",
+      "title": "New insulating oils - Specification",
+      "category": "Fluid standard",
+      "relevance": "Provides companion liquid dielectric specifications and baseline testing requirements."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Submersible pump single-phase motor circuits utilize starting/running capacitors. Winding-aligned capacitors are filled with fluids conforming to IS 13067 to withstand humidity, resist extreme heat, and prevent dielectric ground shorts."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Terminal slots and connections coated in hot-curing varnishes operate completely immersed in or adjacent to the capacitor impregnating fluid, requiring high mutual chemical compatibility."
+    },
+    {
+      "is_number": "IS 11731 (Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
+      "category": "Testing standard",
+      "relevance": "Capacitor terminal housings and plastic spacer materials used alongside impregnating liquids must satisfy self-extinguishing Class FV0 vertical flammability limits to prevent fire propagation."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Enforces safety audits in electrotechnical testing bays and chemical compounding facilities where high-voltage dielectric tests, nitrogen-saturated lines, and organic solvents are used."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, transformer tank steel frames, and mounting frames for high-voltage capacitor banks."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Material Product Specification (Electrotechnical Department / Fluids for Electrotechnical Applications)",
+    "certification_status": "Voluntary Product Specification. However, under public utility and industrial power factor correction (PFC) installation guidelines, power capacitors and their raw impregnants must carry test certificates verifying compliance with IS 13067 to ensure safety and grid stability.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, specific gravity decimals, or dissipation factors must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Specific Gravity",
+        "detail": "Defined as the ratio of the weight in air of a given volume of the fluid at 29.5°C to the weight in air of an equal volume of water at 29.5°C.",
+        "clause_reference": "Clause 3.1"
+      },
+      {
+        "requirement_type": "Chemical Classification",
+        "detail": "Restricted to safe, non-toxic organic compounds, specifically covering Ester Compounds and Synthesised Hydrocarbon Compounds, while strictly excluding hazardous polychlorinated biphenyls (PCBs/Askarels).",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Neutralization Value",
+        "detail": "Determines the presence of acidic compounds by measuring the milligrams of KOH required to neutralize one gram of fluid. Acid limits are restricted to very low levels (typically <= 0.01 or 0.03 mg KOH/g) to prevent paper insulation breakdown.",
+        "clause_reference": "Clause 3.6"
+      },
+      {
+        "requirement_type": "Permittivity (Dielectric Constant)",
+        "detail": "Defined as the ratio of capacitance Cp of a given configuration of electrodes with the material as dielectric to capacitance Cv of the same electrode with air as dielectric, establishing standard dielectric spacing.",
+        "clause_reference": "Clause 3.9"
+      },
+      {
+        "requirement_type": "Resistivity (Specific Resistance)",
+        "detail": "Evaluates specific insulation performance in ohm-centimeters (Ohm-cm), representing the ratio of potential gradient in volts/cm to current density in amperes/cm².",
+        "clause_reference": "Clause 3.10"
+      },
+      {
+        "requirement_type": "Dielectric Dissipation Factor (Tangent Delta)",
+        "detail": "Measures the tangent of the angle (delta) by which the phase difference between applied voltage and resulting current deviates from pi/2 radian to control internal thermal dielectric losses.",
+        "clause_reference": "Clause 3.11"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13067 : 1991",
+    "Impregnants for Power Capacitors",
+    "Ester Compounds",
+    "Synthesised Hydrocarbon",
+    "Specific Gravity 29.5C",
+    "Neutralization Value",
+    "Dielectric constant Permittivity",
+    "Resistivity Ohm-cm",
+    "Dissipation Factor Tangent Delta",
+    "ETD 03 Fluids",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13067 : 1991 (Reaffirmed 2025) is the primary national Indian Standard specification prescribing quality requirements and testing methods for liquid impregnants used in power capacitors. Maintained under the Fluids for Electrotechnical Applications Sectional Committee (ETD 03), the standard unifies safety, thermal conduction, and electrical insulation properties for Ester and Synthesised Hydrocarbon compounds. By regulating specific gravity, flash point, low neutralization values, high resistivity, and minimal dielectric dissipation factor (tan delta), the code ensures that air and moisture are thoroughly flushed from capacitor elements, preventing localized tracking, thermal breakdown, and explosive flashovers in industrial power grids."
+  },
+  "source_information": {
+    "source_pdf_filename": "13067_1991_reff2021.pdf",
+    "document_version_edition": "First Edition, 1991"
+  }
+}

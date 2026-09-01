@@ -1,0 +1,210 @@
+{
+  "basic_identification": {
+    "is_number": "IS 18001 : 2007",
+    "full_title": "Occupational Health and Safety Management System — Requirements with Guidance for Use (First Revision) (व्यवसायिक स्वास्थ्य और सुरक्षा प्रबंधन प्रणाली — उपयोग के लिए मार्गदर्शन के साथ अपेक्षाएं (पहला पुनरीक्षण))",
+    "sector_category": "Chemical / Occupational Safety and Health (approved by the Chemical Division Council and finalized by the Occupational Safety and Health and Chemical Hazards Sectional Committee, CHD 8, of the Bureau of Indian Standards)",
+    "ics_code": "13.100",
+    "sectional_committee": {
+      "name": "Occupational Safety and Health and Chemical Hazards Sectional Committee",
+      "number": "CHD 8"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements for an Occupational Health and Safety (OH&S) management system to enable an organization to control its OH&S risks, formulate a safety policy, and continually improve its overall performance.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, September 2007 (Reaffirmed 2023)",
+    "year_first_published": "2000 (adopted on 22 February 2000, taking considerable guidance from BS 8800 : 1996)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 18001 : 2000)",
+        "year": "2000"
+      },
+      {
+        "edition": "First Revision (IS 18001 : 2007)",
+        "year": "2007"
+      }
+    ],
+    "supersedes": "IS 18001 : 2000",
+    "superseded_by": "Modern systems have transitioned to IS/ISO 45001 : 2018 (Occupational health and safety management systems — Requirements with guidance for use)",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS/ISO 9001 : 2000",
+      "title": "Quality management systems — Requirements",
+      "category": "Management systems standard",
+      "relevance": "Used to map elements for integration across quality and safety frameworks."
+    },
+    {
+      "is_number": "IS/ISO 14001 : 2004",
+      "title": "Environmental management systems — Requirements with guidance for use",
+      "category": "Management systems standard",
+      "relevance": "Used to align OHSMS with environmental management systems to prevent overlapping efforts."
+    },
+    {
+      "is_number": "IS 15656 : 2006",
+      "title": "Hazard identification and risk analysis — Code of practice",
+      "category": "Safety standard",
+      "relevance": "A sister Indian Standard providing a detailed methodology for conducting hazard identification and risk assessment."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters, noise levels, and chemical exposure limits during audits."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Occupational Health and Safety Audit — Code of Practice (First Revision)",
+      "category": "Auditing standard",
+      "location": "Same Sectional Committee (CHD 8)",
+      "relevance": "Provides a comprehensive auditing framework, questionnaires, and record check-lists to audit conformance with OHSMS standards."
+    },
+    {
+      "is_number": "IS 14164 : 2008",
+      "title": "Industrial application and finishings of thermal insulation materials - Code of practice",
+      "category": "Engineering standard",
+      "location": "Chemical Department",
+      "relevance": "Defines physical barriers and insulation thickness to prevent contact burns on high-temperature plant pipelines, directly supporting the physical hazard operational controls of IS 18001."
+    },
+    {
+      "is_number": "IS 13228 : 2006",
+      "title": "Corrugated fibreboard boxes for packing and transportation - Specification",
+      "category": "Product Specification",
+      "location": "Chemical Department",
+      "relevance": "Regulates shipping packaging, where materials handling stack heights and box durability are audited under warehouse safety guidelines."
+    },
+    {
+      "is_number": "IS 13565 : 1992",
+      "title": "Method for spectrophotometric determination of nitrite",
+      "category": "Testing standard",
+      "location": "Chemical Department",
+      "relevance": "Specifies determination of hazardous nitrite chemicals, which requires industrial hygiene exposure limits and material safety data sheet (MSDS) verification under the OHSMS."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Regulates chemical fumigation and pesticide usage in storage facilities, requiring strict work permits and respirator safety controls under the OHSMS."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Regulates rodent loss assessments, which are integrated with pest inspection and general hygiene records examined during safety audits."
+    },
+    {
+      "is_number": "IS 16066 : 2017",
+      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
+      "category": "Food Safety standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Unifies hygiene and safe handling standards, which coordinate with occupational health first aid and canteen sanitation audits."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Ensures potability of water, which is audited under occupational welfare, sanitation, and eye-wash station requirements."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, walkway railings, ladders, and scaffolding structural integrity, which are examined for mechanical safety during OHS audits."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Management Systems Standard / Occupational Guidelines (Chemical Department / Occupational Safety and Health)",
+    "certification_status": "Voluntary System Certification. Since IS 18001 is a management system standard rather than a physical consumer product, it does not carry an individual physical 'ISI Mark' standard mark on a consumer label. Instead, organizations apply to accredited third-party registrars (such as the BIS Management Systems Certification Department) to undergo a rigorous multi-stage audit and obtain an official 'OHSMS Certificate of Registration' [1]. This certification enhances public image, minimizes liability risks, and demonstrates strict compliance with India's central and state Factories Acts [2, 3].",
+    "requirements": [
+      {
+        "requirement_type": "OH&S Policy (Clause 4.2)",
+        "detail": "Top management must define, document, and endorse an OH&S policy that is appropriate to the nature and scale of the organization's risks, includes a commitment to continual improvement and legal compliance, is made known to all employees, and is reviewed periodically [4, 5].",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Legal Tracking (Clause 4.3.3)",
+        "detail": "Requires identifying, accessing, and tracking central, state, and local legal requirements (and changes thereto) attributable to the organization's activities and hazards, ensuring relevant information is communicated to employees [6, 7].",
+        "clause_reference": "Clause 4.3.3"
+      },
+      {
+        "requirement_type": "Responsibility Allocation (Clause 4.4.1)",
+        "detail": "Top management must designate, document, and communicate OH&S responsibilities, authorities, and reporting lines for all levels—including sub-contractors and visitors. A senior management representative must be assigned to oversee the OHSMS [4, 8].",
+        "clause_reference": "Clause 4.4.1"
+      },
+      {
+        "requirement_type": "High-Integrity Operational Control",
+        "detail": "Requires identifying operations associated with significant risks and executing them under specified conditions. This mandates implementing procedures for personal protective equipment (PPE) control, access segregation, and high-integrity testing of operator protection, physical guarding, and automatic shutdown systems [9-11].",
+        "clause_reference": "Clause 4.4.6"
+      },
+      {
+        "requirement_type": "Emergency Preparedness (Clause 4.4.7)",
+        "detail": "Mandates establishing and periodically testing procedures to identify and respond to emergency situations. For large installations, plans must be prepared in consultation with municipal or state disaster planning teams. Appropriate first-aid facilities must be matched to site hazards, including stabilization protocols for remote sites [12, 13].",
+        "clause_reference": "Clause 4.4.7"
+      },
+      {
+        "requirement_type": "Critical Incident Recovery Plan",
+        "detail": "A mandatory post-incident recovery plan (CIRP) must be established, covering: clear responsibilities, confidential post-trauma 'defusing' immediately after the event, emotional 'de-briefing' for employees, and counseling for victims' families [14, 15].",
+        "clause_reference": "Clause 4.4.8"
+      },
+      {
+        "requirement_type": "Control of Records (Clause 4.5.4)",
+        "detail": "Requires establishing and maintaining procedures for the identification, storage, protection, retrieval, retention, and disposal of records to demonstrate system conformity and trace performance outcomes [16].",
+        "clause_reference": "Clause 4.5.4"
+      },
+      {
+        "requirement_type": "Internal Audit Intervals (Clause 4.5.5)",
+        "detail": "Requires conducting internal audits of the OH&S management system at planned intervals to verify that the system conforms to planned arrangements, has been properly implemented and maintained, and to identify areas for continual improvement [16].",
+        "clause_reference": "Clause 4.5.5"
+      },
+      {
+        "requirement_type": "Risk Estimation Matrix (Annex C)",
+        "detail": "Establishes a three-dimensional matrix to evaluate risk levels (Trivial, Tolerable, Moderate, Substantial, or Intolerable) based on the probability of occurrence (Highly Unlikely, Unlikely, Likely) and the severity of harm (Slightly Harmful, Harmful, Extremely Harmful) [17].",
+        "clause_reference": "Clause C-4.1 & Table 1"
+      },
+      {
+        "requirement_type": "Risk Control Action Plan Review",
+        "detail": "Requires reviewing any proposed risk control action plan before implementation, checking if revised controls achieve tolerable levels, if new hazards are created, and if the solution is cost-effective and accepted by employees [18].",
+        "clause_reference": "Clause C-6.2"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "To determine compliance with the specifications of this standard, the final observed or calculated value of any physical measurement, noise level, or air monitoring result must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value [19].",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 18001 : 2007",
+    "Occupational Health and Safety",
+    "OHSMS Requirements",
+    "continual improvement",
+    "legal requirements",
+    "operational control",
+    "emergency preparedness",
+    "critical incident recovery",
+    "CIRP defusing",
+    "risk estimator matrix",
+    "CHD 8",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 18001 : 2007 (First Revision) is the primary national Indian Standard specification establishing requirements and guidance for implementing an Occupational Health and Safety Management System (OHSMS). Maintained under the Occupational Safety and Health and Chemical Hazards Sectional Committee (CHD 8) and reaffirmed in 2023, this standard unifies safety management practices into a cohesive Plan-Do-Check-Act framework. It mandates developing a comprehensive safety policy, identifying and tracking legal obligations, allocating senior management representatives, and enforcing operational controls (such as PPE maintenance and emergency shutdown systems). It also unifies advanced field protocols—including detailed hazard identification questions, a multi-tier risk estimator matrix, and a critical incident recovery plan (providing post-trauma defusing and de-briefing)—ensuring maximum worker safety, risk mitigation, and regulatory compliance across Indian industries."
+  },
+  "plain_language_image_annotations": {
+    "summary": "The user has provided three images. Image 1 represents a horizontal page divider or separator layout. Image 2 is Page 6 of standard IS 11657 : 2025, which specifies the laboratory test procedures for measuring trace concentrations of Arsenic (utilizing hydrazine sulphate and sodium bromide) and Iron (utilizing hydroxyl ammonium chloride and 2,2'-bipyridyl solution) via spectrophotometric calibration curves. Image 3 represents the official Bureau of Indian Standards (BIS) Standard Mark logo, displaying the iconic triangular emblem above the Sanskrit text 'मानक: पथप्रदर्शक:' ('Standards: The Guide')."
+  },
+  "source_information": {
+    "source_pdf_filename": "18001_2007_reaff2023.pdf",
+    "document_version_edition": "First Revision, September 2007"
+  }
+}

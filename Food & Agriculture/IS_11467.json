@@ -1,0 +1,177 @@
+{
+  "basic_identification": {
+    "is_number": "IS 11467 : 1985",
+    "full_title": "Test Code for Cereal Harvesting Machines (अनाज कटाई मशीनों की परीक्षण नियमावली)",
+    "sector_category": "Food and Agriculture / Agricultural Machinery and Equipment (originally formulated under the Harvesting and Threshing Equipment Sectional Committee, AFDC 51, and currently maintained by the Agricultural Machinery and Equipment Sectional Committee, FAD 11, of the Bureau of Indian Standards)",
+    "ics_code": "65.060.50",
+    "sectional_committee": {
+      "name": "Agricultural Machinery and Equipment Sectional Committee",
+      "number": "FAD 11"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the methods of testing cereal harvesting machines to evaluate their operational performance, field capacity, work quality, and constructional durability.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, October 1986 (Reaffirmed 2022)",
+    "year_first_published": "1985 (adopted by the Indian Standards Institution on 22 July 1985)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 11467 : 1985)",
+        "year": "1985"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and field performance metrics to determine code compliance."
+    },
+    {
+      "is_number": "IS 4905 : 1968",
+      "title": "Methods for random sampling",
+      "category": "Sampling standard",
+      "relevance": "Provides the statistical protocols and random number tables required to draw an unbiased testing machine from a commercial production lot."
+    },
+    {
+      "is_number": "IS 9826 : 1981",
+      "title": "Glossary of terms relating to harvesting and threshing equipment",
+      "category": "Nomenclature standard",
+      "relevance": "Establishes the base technical definitions, component nomenclature, and crop-cutting terms used throughout the test code."
+    },
+    {
+      "is_number": "IS 6025 : 1982",
+      "title": "Specification for knife sections for harvesting machines (first revision)",
+      "category": "Product Specification",
+      "relevance": "Specifies dimensional, material, and hardness requirements for the triangular knife sections attached to the cutter bar."
+    },
+    {
+      "is_number": "IS 10378 : 2024",
+      "title": "Knife Back for Harvesting Machines — Specification (First Revision)",
+      "category": "Product Specification",
+      "relevance": "Regulates the dimensions, straightness tolerances, and steel grades of knife backs supporting the cutter bar assembly."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 5994 : 2022",
+      "title": "Test Code for Agricultural Tractors (Third Revision)",
+      "category": "Test Code",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "Regulates testing protocols for tractors, which are frequently used as the primary towing or power-take-off (PTO) drive units for tractor-mounted cereal reapers and windrowers."
+    },
+    {
+      "is_number": "IS 10743 : 1983",
+      "title": "Method for Determination of Centre of Gravity of Agricultural Tractors",
+      "category": "Testing standard",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "locates tractor center-of-gravity coordinates, affecting the dynamic stability and safe operations of tractor-mounted harvesting implements."
+    },
+    {
+      "is_number": "IS 11313 : 2007",
+      "title": "Hydraulic Power Sprayers — Specification (First Revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "A fellow FAD 11 agricultural machinery standard present in the notebook, regulating power sprayers used in crop protection."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "Regulates storage pest-control practices, ensuring that cereal grains harvested by machines evaluated under IS 11467 are safely protected from post-harvest storage pests."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "Provides quantitative post-harvest rodent damage assessment procedures to audit storage facilities holding harvested cereals."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "Defines agricultural irrigation intensities that dictate regional cropping schedules and yield potentials for cereal harvesting operations."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "Regulates agricultural damage audits to assess crop loss, which must be distinguished from mechanical pre-harvest or harvest losses."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, panel thicknesses, weldments, and protective shielding for agricultural implements, harvesting machinery workshops, and silos."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Test Procedure (Food and Agriculture / Agricultural Implements)",
+    "certification_status": "Voluntary/Mandatory under Central Government agricultural testing directives. While IS 11467 is a procedural test code rather than a direct consumer product, compliance with its testing protocols is legally required for commercial harvesting machinery homologation. Testing must be completed at national FMTTIs (Farm Machinery Training and Testing Institutes) to qualify for central agricultural subsidy schemes (such as SMAM) and to be included on approved government procurement lists.",
+    "requirements": [
+      {
+        "requirement_type": "Machine Sizing and Categories",
+        "detail": "Applies to multiple categories of cereal harvesting machinery, explicitly covering reapers (including walk-behind and tractor-mounted conveyor reapers), reaper-binders, and windrowers.",
+        "clause_reference": "Clause 1.1 (Note)"
+      },
+      {
+        "requirement_type": "Terminology Base",
+        "detail": "All harvesting terms, crop parameters, component descriptions, and machine parameters must strictly adhere to the definitions specified in IS 9826-1981.",
+        "clause_reference": "Clause 2.1"
+      },
+      {
+        "requirement_type": "Unbiased Commercial Sampling",
+        "detail": "For the purpose of official commercial testing, the sample harvesting machine must be selected completely at random from a production lot using random-sampling procedures outlined in IS 4905-1968.",
+        "clause_reference": "Clause 3.1"
+      },
+      {
+        "requirement_type": "Critical Quality of Work Tests",
+        "detail": "Field evaluations must determine the rate of work (field capacity in ha/h and field efficiency in percent), cutter bar losses, shattering losses, conveying/windrowing losses, fuel consumption (L/ha), and the uniformity of the windrow.",
+        "clause_reference": "Clause 1.1 & Annex/Field Data Sheet"
+      },
+      {
+        "requirement_type": "Operator Safety Inspections",
+        "detail": "Mandates checking and inspecting the adequacy of safety protective devices, including belt and pulley guards, gear covers, and safety warnings to protect the operator.",
+        "clause_reference": "Annex/Field Data Sheet"
+      },
+      {
+        "requirement_type": "Rounding off evaluated parameters",
+        "detail": "To determine standard conformity during official commercial testing, the final observed or calculated value of any laboratory measurement or field performance metric must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained must be identical to that of the specified limit.",
+        "clause_reference": "Clause 0.4"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 11467 : 1985",
+    "Cereal Harvesting Machines",
+    "Test Code",
+    "Reaper",
+    "Reaper-Binder",
+    "Windrower",
+    "Shattering Loss",
+    "Field Capacity",
+    "Field Efficiency",
+    "Knife Sections",
+    "FAD 11",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 11467 : 1985 is the national Indian Standard prescribing the testing code for cereal harvesting machines. Maintained under the FAD 11 technical committee, this test code outlines standardized laboratory and field testing procedures for reapers, reaper-binders, and windrowers across India. It mandates unbiased random sampling of machines from commercial lots using IS 4905, establishes terminology in coordination with IS 9826, and evaluates critical field parameters—such as cutting width, forward speed, crop moisture content, shattering and conveying losses, fuel efficiency, and structural durability—ensuring uniform machine performance and user safety."
+  },
+  "source_information": {
+    "source_pdf_filename": "11467_1985_reff2022.pdf",
+    "document_version_edition": "First Edition, October 1986"
+  }
+}

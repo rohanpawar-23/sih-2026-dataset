@@ -1,0 +1,184 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3196 (Part 1) : 2013",
+    "full_title": "Welded Low Carbon Steel Cylinders Exceeding 5 Litres Water Capacity for Low Pressure Liquefiable Gases — Part 1: Cylinders for Liquefied Petroleum Gases (LPG) — Specification (Sixth Revision) (वेल्डित अल्प कार्बन इस्पात के सिलिंडर 5 लीटर से अधिक जल क्षमता वाले निम्न दाब पर द्रवित होने वाली गैसों के लिए — भाग 1: द्रवित पेट्रोलियम गैस (एलपीजी) के सिलिंडर — विशिष्टि (छठा पुनरीक्षण))",
+    "sector_category": "Mechanical Engineering / Gas Cylinders (approved by the Mechanical Engineering Division Council and finalized by the Gas Cylinders Sectional Committee, MED 16, of the Bureau of Indian Standards)",
+    "ics_code": "23.020.30; 75.160.30",
+    "sectional_committee": {
+      "name": "Gas Cylinders Sectional Committee",
+      "number": "MED 16"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the minimum requirements for materials, design, manufacture, construction, mechanical and physical testing, and marking of welded low carbon steel gas cylinders exceeding 5 litres up to and including 250 litres water capacity, intended for the storage and transport of Liquefied Petroleum Gases (LPG) conforming to IS 4576.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Sixth Revision, 2013 (Reaffirmed 2024) incorporating Amendment No. 5 (June 2026)",
+    "year_first_published": "1965",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 3196 : 1965)",
+        "year": "1965"
+      },
+      {
+        "edition": "Second Edition (IS 3196 : 1968)",
+        "year": "1968"
+      },
+      {
+        "edition": "Third Edition (IS 3196 : 1974)",
+        "year": "1974"
+      },
+      {
+        "edition": "Fourth Edition (IS 3196 : 1982)",
+        "year": "1982"
+      },
+      {
+        "edition": "Fifth Edition (IS 3196 (Part 1) : 2006)",
+        "year": "2006"
+      },
+      {
+        "edition": "Sixth Edition (IS 3196 (Part 1) : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 3196 (Part 1) : 2006",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 (2015), Amendment No. 2 (2017), Amendment No. 3 (2019), Amendment No. 4 (2020), and Amendment No. 5 (June 2026)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 6240",
+      "title": "Hot-rolled steel plate, sheet and strip for liquefied petroleum gas cylinders — Specification",
+      "category": "Material standard",
+      "relevance": "Defines the precise low-carbon steel chemical composition, high ductility, and weldability required to draw cylinder halves without tearing."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of dimensions, mechanical test strengths, and volumetric expansions to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16054 : 2013",
+      "title": "Periodic Inspection and Testing — Welded Low Carbon Steel Cylinders Exceeding 5-Litre Water Capacity for Liquefied Petroleum Gas (LPG) — Code of Practice",
+      "category": "Testing standard",
+      "relevance": "Regulates the 5-year periodic re-testing process, relying on the nominal wall thicknesses and capacities defined in IS 3196 (Part 1) to evaluate corrosion, dents, or tare weight losses."
+    },
+    {
+      "is_number": "IS 15966 : 2013",
+      "title": "Refillable Welded Steel Cylinder for Liquefied Petroleum Gas (LPG) — Procedure for Checking Before, During and After Filling",
+      "category": "Procedural standard",
+      "relevance": "Acts as the first-line bottling-plant safety filter, checking stamped stay-plate markings and wall defects against the manufacturing baselines of IS 3196 (Part 1)."
+    },
+    {
+      "is_number": "IS 13258 : 2014",
+      "title": "Requirements for Inspection and Reconditioning of Used LPG Cylinders",
+      "category": "Requirements standard",
+      "relevance": "Governs the reconditioning, repair, and valving of damaged cylinders, specifying that repaired valves and stays must conform strictly to Clause 23 of IS 3196 (Part 1)."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits of high-hazard LPG cylinder manufacturing and deep metal drawing shops, ensuring press guards, welding ventilation, and material conveyors comply with national rules."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, raw-billet presses, and automated assembly conveyors used in cylinder manufacturing plants."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Mechanical Engineering Department / Gas Cylinders)",
+    "certification_status": "Mandatory Certification under the Gas Cylinder Rules of the Government of India, in direct coordination with the Petroleum and Explosives Safety Organisation (PESO). All LPG cylinders manufactured, imported, or sold in India must carry the prestigious physical ISI 'Standard Mark' stamped on the stay plate, alongside a unique manufacturer license number (CM/L), to legally enter commercial or domestic distribution.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Final observed or calculated test and analytical values (such as wall thickness, burst pressure, and expansion) must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Shell Thickness Calculation",
+        "detail": "Calculates nominal wall thickness (t) using the formula t = (P * D_o) / (2 * f * J + P), where J is the joint efficiency factor, P is test pressure (normally 2.44 MPa), and f is the allowable design stress (based on the minimum yield strength of the low-carbon steel).",
+        "clause_reference": "Design Equation"
+      },
+      {
+        "requirement_type": "Absolute Shell Thickness Limit",
+        "detail": "The absolute minimum wall thickness for cylinders of nominal water capacity exceeding 5 litres must not be less than 1.5 mm, regardless of calculation results.",
+        "clause_reference": "Clause 6.3"
+      },
+      {
+        "requirement_type": "Hydrostatic Sized Proof Test",
+        "detail": "Every finished cylinder must withstand a hydrostatic proof pressure test at a test pressure of 2.44 MPa / 25 bar (or as designed up to 2.50 MPa) for a minimum of 30 seconds showing zero leakage, sweating, or permanent deformation.",
+        "clause_reference": "Clause 17"
+      },
+      {
+        "requirement_type": "Pneumatic Leakage Zero-Bubble",
+        "detail": "Finished cylinders must undergo pneumatic leak testing at a pressure of at least 1.2 MPa (12 bar) using dry compressed air while submerged in a water bath, showing zero bubbles.",
+        "clause_reference": "Leakage Test"
+      },
+      {
+        "requirement_type": "Burst and Nominal Hoop Stress",
+        "detail": "One cylinder from every manufactured lot of 403 or less must be burst hydraulically, requiring a minimum burst pressure of 4.90 MPa / 50 bar and nominal hoop stress at burst of at least 332.5 MPa.",
+        "clause_reference": "Clause 17.2"
+      },
+      {
+        "requirement_type": "Volumetric Expansion at Burst",
+        "detail": "Under Amendment No. 5 (June 2026), the volumetric expansion ratio at burst must be >=20% (or >=14% if length is <= diameter) when the steel's tensile strength is <410 N/mm²; and >=15% (or >=10% if length is <= diameter) when tensile strength is >=410 N/mm².",
+        "clause_reference": "Clause 17.2.3(e) as amended"
+      },
+      {
+        "requirement_type": "Fatigue Cycling Test Option A",
+        "detail": "Cylinders must withstand 80,000 cycles without failure at an upper cyclic pressure equal to two-thirds of the hydrostatic test pressure (UCP = 2/3 * Ph), with the lower cyclic pressure <= 10% of the upper pressure and frequency <= 0.25 Hz (15 cycles/min).",
+        "clause_reference": "Clause 17.3"
+      },
+      {
+        "requirement_type": "Fatigue Cycling Test Option B",
+        "detail": "Alternatively, cylinders must withstand 12,000 cycles without failure at an upper cyclic pressure equal to the full hydrostatic test pressure (UCP = Ph) under identical lower-pressure and frequency limits.",
+        "clause_reference": "Clause 17.3"
+      },
+      {
+        "requirement_type": "Foot Ring Distance Clearance",
+        "detail": "Under Amendment No. 5 (June 2026), the foot ring must be welded at least 20 mm away from the circumferential weld of the cylinder body. Sheet thickness of the foot ring must be >= the calculated wall thickness of the cylinder shell.",
+        "clause_reference": "Clause 10.2 as amended"
+      },
+      {
+        "requirement_type": "Foot Ring Ground Sized Clearance",
+        "detail": "Under Amendment No. 5 (June 2026), minimum ground clearance of the bottom shell must be >= 8 mm for cylinders up to 34 litres water capacity, >= 15 mm for cylinders between 34 to 50 litres capacity, and >= 25 mm for cylinders exceeding 50 litres capacity.",
+        "clause_reference": "Clause 10.2 as amended"
+      },
+      {
+        "requirement_type": "Tamper-Proof Barcode Tracking",
+        "detail": "Under Amendment No. 5 (June 2026), cylinders must carry a permanent, tamper-proof barcode, QR code, or RFID tag as approved by statutory authorities, to enable machine-readable digital tracking.",
+        "clause_reference": "Clause 20.2 as amended"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3196 (Part 1) : 2013",
+    "LPG Cylinders Specification",
+    "PESO GCR 2016",
+    "Hydrostatic test 2.44 MPa",
+    "Pneumatic test 1.2 MPa",
+    "Burst test 4.90 MPa",
+    "Volumetric expansion ratio",
+    "80000 fatigue cycles",
+    "Tamper-proof barcode",
+    "Foot ring ground clearance",
+    "MED 16",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3196 (Part 1) : 2013 (Sixth Revision) is the primary national Indian Standard specification establishing design, materials, construction, and high-stress testing requirements for refillable welded low-carbon steel gas cylinders (exceeding 5-litre up to 250-litre water capacity) used for Liquefied Petroleum Gases (LPG). Developed under Sectional Committee MED 16 and reaffirmed in 2024, the standard operates in strict coordination with the Petroleum and Explosives Safety Organisation (PESO) under the Gas Cylinders Rules. It prescribes nominal wall thickness formulas, mandates a 2.44 MPa hydrostatic test and a 1.2 MPa dry-air pneumatic leak test, and requires rigorous batch burst and prototype pressure fatigue cycling (up to 80,000 cycles). Incorporating the active Amendment No. 5 (June 2026), the code enforces strict foot ring geometry and clearances, and requires permanent, machine-readable barcodes or RFID tags for digital traceability across India."
+  },
+  "source_information": {
+    "source_pdf_filename": "3196_1_amd5.pdf",
+    "document_version_edition": "Sixth Revision, 2013 (incorporating Amendment No. 5, June 2026)"
+  }
+}

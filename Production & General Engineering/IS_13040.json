@@ -1,0 +1,142 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13040 : 1991",
+    "full_title": "Dolly Blocks for Use in Steel Body Repairs — General Requirements",
+    "sector_category": "Production and General Engineering / Hand Tools (approved by the Production Engineering Division Council and finalized by the Hand Tools Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "ICS 25.140.30",
+    "sectional_committee": {
+      "name": "Hand Tools Sectional Committee",
+      "number": "PE 05"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the general requirements for the dolly blocks which are used while working with sheet metal body repairs [1].",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1991 (Reaffirmed 2021)",
+    "year_first_published": "1991",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1991"
+      }
+    ],
+    "supersedes": "N/A",
+    "superseded_by": "N/A",
+    "amendment_slips": []
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1875 : 1978",
+      "title": "Specification for carbon steel billets, blooms, slabs and bars for forging (fourth revision)",
+      "category": "Normative / Raw Material Standard",
+      "location": "Clause 4 / Clause 2",
+      "relevance": "Specifies the technical requirements for forging-grade steels (such as the recommended steel grade 45C8) used to hot-forge dolly blocks to achieve optimal wear and shock resistance."
+    },
+    {
+      "is_number": "IS 13093 : 1991",
+      "title": "General requirements for sheet metal body repair steel hammers",
+      "category": "Assembly / Companion Tool Standard",
+      "location": "Clause 2 / Clause 6.1",
+      "relevance": "Governs the companion body repair hammers designed to be paired and used alongside these dolly blocks during sheet metal straightening operations."
+    },
+    {
+      "is_number": "ANSI B 173.5-1979",
+      "title": "Safety requirements for body repair hammer and dolly blocks",
+      "category": "Technical Reference / International Safety Standard",
+      "location": "Foreword",
+      "relevance": "The international American National Standard from which technical assistance and safety guidelines were derived during the preparation of this Indian Standard [1]."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1875 : 1978",
+      "title": "Specification for carbon steel billets, blooms, slabs and bars for forging (fourth revision)",
+      "category": "Normative / Raw Material Standard",
+      "location": "Clause 4 / Clause 2",
+      "relevance": "Specifies the technical requirements for forging-grade steels (such as the recommended steel grade 45C8) used to hot-forge dolly blocks to achieve optimal wear and shock resistance."
+    },
+    {
+      "is_number": "IS 13093 : 1991",
+      "title": "General requirements for sheet metal body repair steel hammers",
+      "category": "Assembly / Companion Tool Standard",
+      "location": "Clause 2 / Clause 6.1",
+      "relevance": "Governs the companion body repair hammers designed to be paired and used alongside these dolly blocks during sheet metal straightening operations."
+    },
+    {
+      "is_number": "ANSI B 173.5-1979",
+      "title": "Safety requirements for body repair hammer and dolly blocks",
+      "category": "Technical Reference / International Safety Standard",
+      "location": "Foreword",
+      "relevance": "The international American National Standard from which technical assistance and safety guidelines were derived during the preparation of this Indian Standard [1]."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Hand Tools / Body Repair Tools)",
+    "certification_status": "Conformity marking is governed by the Bureau of Indian Standards Act, providing third-party assurance of production quality, inspection, and safety testing.",
+    "requirements": [
+      {
+        "requirement_type": "Raw Material & Hot Forged Manufacture",
+        "detail": "Dolly blocks must be hot forged from special quality, fine-grain, hot-rolled carbon steel or alloy steels having good wear and shock-resisting qualities. A recommended suitable example of steel is grade 45C8 of IS 1875 : 1978.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Hardness Limits",
+        "detail": "The finished dolly block must be through-hardened to maintain a strict hardness range between 40 HRC and 52 HRC to prevent surface deformation under impact.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Design Purpose & Hammer Striking Restriction",
+        "detail": "Dolly blocks are designed for straightening, bumping, shrinking, and finishing sheet metal panels on motor vehicle bodies and fenders. They must never be struck directly with a body repair hammer or any other striking tool.",
+        "clause_reference": "Clause 6.1 & Clause 8.2"
+      },
+      {
+        "requirement_type": "Critical Geometry Nomenclature",
+        "detail": "Defines and illustrates three primary functional surfaces: the Crown (broad, convex working surface), the Beading Edge (rounded apex used to raise a bead), and the Flanging Edge (approximately right-angle rounded surface used to form a flange).",
+        "clause_reference": "Clauses 3.1 to 3.3 & Fig. 1"
+      },
+      {
+        "requirement_type": "Standard Typified Styles",
+        "detail": "Establishes nine standard typical styles: General Purpose Crowned (2A), General Purpose Anvil (2B), General Purpose Rail (2C), Bead Dolly Block (2D), Heel Dolly Block (2E), Toe Dolly Block (2F), Wedge Dolly Block (2G), Shrinking Dolly Block (2H), and Angle Dolly Block (2J) [2].",
+        "clause_reference": "Clause 6.2 & Fig. 2"
+      },
+      {
+        "requirement_type": "Hardness Testing Specimen Preparation",
+        "detail": "Hardness testing must be performed on a fixtured tool or a suitable mounted/unmounted specimen that has been cut using a wet-abrasive or equivalent method to prevent heat-induced annealing or alteration [2].",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Safety Restrictions",
+        "detail": "To avoid structural fragmentation or physical injury, dolly blocks must not be used to strike hard, hardened, or masonry objects (such as concrete, bricks, chisels, axes, or other steel tools). Safety goggles must be worn by the operator and anyone in the immediate vicinity.",
+        "clause_reference": "Clauses 8.3 & 8.4"
+      },
+      {
+        "requirement_type": "Maintenance, Inspection, and Redressing",
+        "detail": "Dolly blocks must never be ground, welded, or re-heat-treated. They must be inspected regularly, and their use discontinued at the first sign of cracking. Any surface mushrooming caused by tool usage must be promptly redressed to its original contour using a whetstone or file.",
+        "clause_reference": "Clauses 8.5 & 8.5.1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13040 : 1991",
+    "Dolly Blocks",
+    "Body Repair Tools",
+    "Sheet Metal Repairs",
+    "45C8 Carbon Steel",
+    "Hardness 40-52 HRC",
+    "Beading Edge",
+    "Flanging Edge",
+    "ANSI B 173.5",
+    "IS 13093",
+    "PE 05"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13040 : 1991 is the national Indian Standard specification governing steel dolly blocks utilized for automotive and industrial sheet metal panel body repairs—such as straightening, bumping, shrinking, and finishing [1]. Drawing technical design and safety requirements from ANSI B 173.5-1979, the standard standardises nine typical functional styles, including crowned, anvil, rail, toe, and heel variants [2]. To prevent catastrophic fracturing or metal chipping under impact, it mandates that dolly blocks be hot-forged from high-quality carbon or alloy steel (such as 45C8) and strictly tempered to a hardness of 40 to 52 HRC. The specification also defines rigorous safety instructions—including mandatory eye protection, a ban on striking hardened masonry or tools, and strict instructions for redressing surface mushrooming using files or whetstones."
+  },
+  "source_information": {
+    "source_pdf_filename": "13040_1991_reff2021.pdf",
+    "document_version_edition": "First Edition, 1991 (Reaffirmed 2021)"
+  }
+}

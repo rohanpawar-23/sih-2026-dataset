@@ -1,0 +1,111 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3201 : 1988",
+    "full_title": "Criteria for Design and Construction of Precast Concrete Trusses and Purlins (First Revision)",
+    "sector_category": "Civil Engineering / Planning, Housing and Prefabricated Construction (CED 51)",
+    "ics_code": "91.080.40; 91.060.20",
+    "sectional_committee": {
+      "name": "Planning, Housing and Prefabricated Construction Sectional Committee",
+      "number": "CED 51"
+    }
+  },
+  "scope": {
+    "summary": "This standard provides the structural design, manufacturing, handling, assembly, and erection criteria for precast reinforced and prestressed concrete trusses and purlins primarily used in industrial and warehouse roofing.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 1988 (Reaffirmed 2024)",
+    "year_first_published": "1965",
+    "revision_history": [
+      {"edition": "First Edition (IS 3201 : 1965)", "year": "1965"},
+      {"edition": "First Revision (IS 3201 : 1988)", "year": "1988"}
+    ],
+    "supersedes": "IS 3201 : 1965",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 456",
+      "title": "Code of practice for plain and reinforced concrete",
+      "category": "Design standard",
+      "relevance": "Provides fundamental design stresses, grade specifications, and detailing rules for reinforced concrete elements."
+    },
+    {
+      "is_number": "IS 1343",
+      "title": "Code of practice for prestressed concrete",
+      "category": "Design standard",
+      "relevance": "Specifies design limits, loss calculations, and end-block details for prestressed concrete members."
+    },
+    {
+      "is_number": "IS 875 (Parts 1 to 5)",
+      "title": "Code of practice for design loads (other than earthquake) for buildings and structures",
+      "category": "Loading standard",
+      "relevance": "Provides dead, imposed, wind, and snow loads for evaluating roof systems."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "relevance": "Governs the design of steel tie-rods, gusset connections, and structural steel anchors frequently integrated into precast concrete joints."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety standard",
+      "relevance": "Audits on-site safety, particularly rigging, lifting gear, and fall protection during high-elevation precast erection."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Design Criteria",
+    "certification_status": "Voluntary Code of Practice. Compliance is strictly required under Public Works Department (PWD) specifications and industrial building tenders across India.",
+    "requirements": [
+      {
+        "requirement_type": "Handling and Erection Stress Design",
+        "detail": "Structural analysis must explicitly account for additional dynamic loads and reversals of stresses occurring during demoulding, transport, lifting, and final positioning, which often govern design.",
+        "clause_reference": "Clause 4 & 7"
+      },
+      {
+        "requirement_type": "Truss Spacing and Geometry",
+        "detail": "Recommended spacing for precast trusses is typically 6.0 m. Bowstring trusses utilizing curved top chords are preferred for material optimization and cost efficiency.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Minimum Transverse Reinforcement",
+        "detail": "To prevent handling cracks and withstand shear forces, a minimum transverse reinforcement of 4 mm diameter steel bars must be detailed in all precast elements.",
+        "clause_reference": "Clause 5 & 6"
+      },
+      {
+        "requirement_type": "Purlin Spacing and Design",
+        "detail": "Precast purlins are typically spaced between 1.35 m and 1.40 m. Purlins must be analyzed for biaxial bending under gravity and wind loads acting perpendicular to sloping roof surfaces.",
+        "clause_reference": "Clause 6"
+      },
+      {
+        "requirement_type": "Lifting Loop Positioning",
+        "detail": "The locations of lifting inserts or loops must be mathematically calculated, clearly detailed in shop drawings, and marked on the physical cast elements to prevent structural failure during erection.",
+        "clause_reference": "Clause 7"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3201 : 1988",
+    "Precast Concrete",
+    "Concrete Trusses",
+    "Precast Purlins",
+    "Handling Stresses",
+    "Erection Stresses",
+    "Lifting Points",
+    "Biaxial Bending",
+    "CED 51"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3201 : 1988 is the national Indian Standard code of practice specifying design and construction criteria for precast reinforced and prestressed concrete trusses and purlins used in large-span industrial buildings. It mandates that handling, lifting, and transport stresses be explicitly analyzed to prevent cracking, establishes typical truss spacing (6m) and purlin spacing (1.35–1.40m), details reinforcement requirements (including minimum 4mm transverse bars), and regulates the structural integrity of joint connections to withstand wind uplift and dead loads."
+  },
+  "source_information": {
+    "source_pdf_filename": "3201_1988_reaff2024.pdf",
+    "document_version_edition": "First Revision, 1988"
+  }
+}

@@ -1,0 +1,126 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13525 : 1992",
+    "full_title": "Flexible Conductors for Carbon Brushes — Specification (कार्बन ब्रशों के लिए सन्मय चालकों की विशिष्टि)",
+    "sector_category": "Electrotechnical / Rotating Machinery (finalized by the Rotating Machinery Sectional Committee, ET 15, of the Bureau of Indian Standards)",
+    "ics_code": "29.160; 29.035.40",
+    "sectional_committee": {
+      "name": "Rotating Machinery Sectional Committee",
+      "number": "ET 15"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the material specifications, design configurations, stranding patterns, wire diameters, and performance criteria for flexible copper conductors (shunts/pigtails) embedded in or attached to carbon brushes of rotating electrical machines.",
+    "clause_number": "Foreword",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, December 1992 (Reaffirmed 2003)",
+    "year_first_published": "1992",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13525 : 1992)",
+        "year": "1992"
+      }
+    ],
+    "supersedes": "None (Previously covered under older parts of the IS 3003 series, now established as a standalone specification)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 13466 : 1992",
+      "title": "Brushes for electrical machinery — Specification",
+      "category": "Product specification",
+      "relevance": "Outlines standard dimensions, tolerances, terminals, and mechanical interfaces for carbon brushes."
+    },
+    {
+      "is_number": "IS 8130 : 1984",
+      "title": "Specification for conductors in insulated cables and cords",
+      "category": "Conductor standard",
+      "relevance": "Used to establish baseline electrical resistivity and testing metrics for annealed copper wire."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Pump motors must utilize robust carbon brushes with flexible copper shunts that withstand constant high-speed vibration without wire breakage."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Brush-holder terminals and slot winding junctions are often coated or impregnated with insulating varnishes to protect them from environmental humidity."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Enforces testing yard safety audits where high-current terminal connections, high-temperature operations, and rotating machinery are verified."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork and machinery bases inside steel fabrication factories."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Material Specification (Electrotechnical Department / Rotating Machinery)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or etch the physical ISI 'Standard Mark' directly on the product packaging to demonstrate mechanical and metallurgical conformity in electrical rotating machines.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, individual wire diameters, and bundle counts must be rounded off mathematically in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "High-Purity Copper Material",
+        "detail": "Conductors must be fabricated from high-purity, high-conductivity annealed copper wires (plain or tinned) to minimize electrical resistance and avoid heat buildup.",
+        "clause_reference": "Material Requirements"
+      },
+      {
+        "requirement_type": "Microscopic Wire Diameters",
+        "detail": "Individual wires utilized to build flexible bunches must have standardized micro-diameters of either 0.05 mm, 0.07 mm, 0.10 mm, or 0.12 mm.",
+        "clause_reference": "Dimensional Requirements"
+      },
+      {
+        "requirement_type": "Stranding & Bunching Math",
+        "detail": "Establishes a precise, flexibility-driven strand system defined by B (wire bunches per strand) and W (wires per bunch) to resist mechanical fatigue.",
+        "clause_reference": "Constructional Features"
+      },
+      {
+        "requirement_type": "Tension Pull Resistance",
+        "detail": "The joint between the flexible conductor and the carbon brush must withstand strict tension pull tests to ensure it does not detach under severe dynamic vibration during motor operation.",
+        "clause_reference": "Mechanical Testing"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13525 : 1992",
+    "Flexible Conductors",
+    "Carbon Brushes",
+    "Pigtail Shunts",
+    "Stranded Copper Wire",
+    "Wire bunches per strand",
+    "Annealed Copper Plain Tinned",
+    "ET 15 Rotating Machinery",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13525 : 1992 (Reaffirmed 2003) is the primary national Indian Standard specification prescribing construction, material, and dimensional requirements for flexible copper conductors (shunts/pigtails) used with carbon brushes in rotating electrical machines. Maintained under the Rotating Machinery Sectional Committee (ET 15), the code unifies the manufacturing of flexible brush shunts. It mandates high-purity annealed copper wire with standardized micro-diameters (0.05 to 0.12 mm) and specifies precise bunching configurations (combining wire bunches per strand) to ensure maximum flexibility and resistance to vibration-induced wire fatigue."
+  },
+  "source_information": {
+    "source_pdf_filename": "13525.pdf",
+    "document_version_edition": "First Edition, December 1992"
+  }
+}

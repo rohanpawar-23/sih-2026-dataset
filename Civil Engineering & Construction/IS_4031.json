@@ -1,0 +1,131 @@
+{
+  "basic_identification": {
+    "is_number": "IS 4031 (Part 2) : 1999",
+    "full_title": "Methods of Physical Tests for Hydraulic Cement — Part 2: Determination of Fineness by Blaine Air Permeability Method (Second Revision)",
+    "sector_category": "Civil Engineering / Cement and Concrete (approved by the Civil Engineering Division Council and finalized by the Cement and Concrete Sectional Committee, CED 2, of the Bureau of Indian Standards)",
+    "ics_code": "91.100.10",
+    "sectional_committee": {
+      "name": "Cement and Concrete Sectional Committee",
+      "number": "CED 2"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard (Part 2) covers the laboratory testing procedure for determining the fineness of hydraulic cement using the Blaine air permeability apparatus, measuring the specific surface area of cement particles per unit mass.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, 1999 (Reaffirmed 2021) incorporating Amendment No. 2 (March 2017)",
+    "year_first_published": "1968 (first published as a consolidated standard in 1968, split into parts in 1988, and revised to this second revision in 1999)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 4031 : 1968)",
+        "year": "1968"
+      },
+      {
+        "edition": "First Revision of Part 2 (IS 4031 : Part 2 : 1988)",
+        "year": "1988"
+      },
+      {
+        "edition": "Second Revision of Part 2 (IS 4031 (Part 2) : 1999)",
+        "year": "1999"
+      }
+    ],
+    "supersedes": "IS 4031 (Part 2) : 1988",
+    "superseded_by": "N/A",
+    "amendment_slips": "Amendment No. 1 (August 2004) and Amendment No. 2 (March 2017)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 5516",
+      "title": "Specification for Blaine air permeability apparatus",
+      "category": "Product Specification",
+      "relevance": "Specifies manufacturing tolerances, material properties, and cell geometries of the air permeability testing device."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated specific surfaces to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 4031 (Part 1)",
+      "title": "Methods of physical tests for hydraulic cement: Part 1 Determination of fineness by dry sieving",
+      "category": "Testing standard",
+      "location": "CED 2",
+      "relevance": "Provides the parallel sieve test used for coarse checks of cement particle size."
+    },
+    {
+      "is_number": "IS 269 : 2015",
+      "title": "Ordinary Portland Cement — Specification",
+      "category": "Product Specification",
+      "location": "CED 2",
+      "relevance": "The product specification for OPC, which mandates a minimum specific surface area (e.g., min 225 m²/kg) verified per IS 4031 (Part 2)."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating high-integrity supports and foundations utilizing cements tested under the IS 4031 series."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Methods of Test / Technical Laboratory Guidelines (Civil Engineering Department / Cement Matrix)",
+    "certification_status": "Voluntary Code of Practice. Since IS 4031 (Part 2) is an analytical testing standard rather than a direct consumer product, it does not carry an individual physical 'ISI Mark' product stamp on its own. However, compliance with its testing and calibration protocols is legally mandatory for NABL laboratory accreditation audits (under ISO/IEC 17025) and for declaring compliance of finished cement bags carrying the physical ISI Mark under product codes like IS 269.",
+    "requirements": [
+      {
+        "requirement_type": "Certified Calibration Standard",
+        "detail": "Under the active Amendment No. 2 (March 2017), National Council for Cement and Building Materials certified reference material NCB CRM-1001A must be used as the mandatory reference cement to calibrate and determine the apparatus constant.",
+        "clause_reference": "Clause 4.8 as amended by Amendment No. 2"
+      },
+      {
+        "requirement_type": "The Calibration Sourcing",
+        "detail": "Specifies that the mandatory calibration reference cement, NCB CRM-1001A, is officially obtained from the Centre for Quality Management, Standards & Calibration Services, National Council for Cement and Building Materials located at Ballabgarh (Haryana).",
+        "clause_reference": "Clause 4.8 Note as amended by Amendment No. 2"
+      },
+      {
+        "requirement_type": "The Air Permeability Principle",
+        "detail": "Fineness is measured by observing the time taken for a fixed quantity of air to flow through a compacted cement bed of specified density, porosity, and volume.",
+        "clause_reference": "Testing Principles"
+      },
+      {
+        "requirement_type": "Permeability Proportionality",
+        "detail": "Under standard testing conditions, the specific surface area (S) of cement is directly proportional to the square root of the air flow time (√t), calculated as: S = K * √t, where K represents the calibrated apparatus constant.",
+        "clause_reference": "Calculations"
+      },
+      {
+        "requirement_type": "Fineness Units of Measurement",
+        "detail": "The resulting fineness value must be expressed as specific surface in square centimeters per gram (cm²/g) or square meters per kilogram (m²/kg).",
+        "clause_reference": "Reporting"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Final observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 4031 (Part 2) : 1999",
+    "Methods of Physical Tests",
+    "Hydraulic Cement",
+    "Fineness test",
+    "Blaine Air Permeability",
+    "NCB CRM-1001A",
+    "Apparatus Constant",
+    "Specific Surface Area",
+    "National Council for Cement",
+    "CED 2",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 4031 (Part 2) : 1999 (Second Revision) is the primary national Indian Standard test code prescribing the laboratory procedure for determining the fineness of hydraulic cement using the Blaine air permeability apparatus. Developed under the Cement and Concrete Sectional Committee (CED 2) and reaffirmed periodically, the standard measures the specific surface area (expressed in cm²/g or m²/kg) of cement particles, which directly dictates the hydration rate, heat of hydration, and strength-gain profile of concrete. Subsequent updates—specifically Amendment No. 2 (March 2017)—mandate that testing laboratories utilize the official National Council for Cement and Building Materials (NCB) certified reference material CRM-1001A to calibrate the testing cell and determine the apparatus constant, ensuring high precision and consistency across India's construction and manufacturing sectors."
+  },
+  "source_information": {
+    "source_pdf_filename": "4031_2a2.pdf",
+    "document_version_edition": "Second Revision, 1999 (incorporating Amendment No. 2, March 2017)"
+  }
+}

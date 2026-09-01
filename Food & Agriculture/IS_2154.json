@@ -1,0 +1,218 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2154 : 2014",
+    "full_title": "Coconut Oilcake as Livestock Feed Ingredient — Specification (पशु आहार घटक के रूप में नारियल की खली — विशिष्टि) (Third Revision)",
+    "sector_category": "Food and Agriculture / Animal Feeds and Nutrition (approved by the Food and Agriculture Divisional Council and finalized by the Animal Feeds and Nutrition Sectional Committee, FAD 05, of the Bureau of Indian Standards)",
+    "ics_code": "65.120",
+    "sectional_committee": {
+      "name": "Animal Feeds and Nutrition Sectional Committee",
+      "number": "FAD 05"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the technical specifications, chemical and nutritional requirements, packaging guidelines, and methods of sampling and test for coconut oilcake utilized as an ingredient in animal and livestock feeds across India.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, 2014 (Reaffirmed 2024)",
+    "year_first_published": "1962 (originally published as IS 2154 : 1962, updated to first revision in 1972, second revision in 1986, and third revision in 2014)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 2154 : 1962)",
+        "year": "1962"
+      },
+      {
+        "edition": "First Revision (IS 2154 : 1972)",
+        "year": "1972"
+      },
+      {
+        "edition": "Second Revision (IS 2154 : 1986)",
+        "year": "1986"
+      },
+      {
+        "edition": "Third Revision (IS 2154 : 2014)",
+        "year": "2014"
+      }
+    ],
+    "supersedes": "IS 2154 : 1986",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated chemical and physical analytical values."
+    },
+    {
+      "is_number": "IS 7874 (Part 1) : 1975",
+      "title": "Methods of tests for animal feeds and feeding stuffs: Part 1 general methods",
+      "category": "Testing standard",
+      "relevance": "Prescribes standard laboratory procedures for determining moisture, total ash, crude protein, crude fat, and crude fibre in animal feeds."
+    },
+    {
+      "is_number": "IS 1070 : 1992",
+      "title": "Reagent grade water (third revision)",
+      "category": "Material standard",
+      "relevance": "Specifies purity parameters for water utilized in preparing laboratory chemical reagents and testing feed samples."
+    },
+    {
+      "is_number": "IS 13427 : 1992",
+      "title": "Animal feeds and feeding stuffs — Methods of sampling for aflatoxin B-1 content",
+      "category": "Testing standard",
+      "relevance": "Provides standardized sampling and extraction methodologies to detect and quantify toxic aflatoxins in feed ingredients."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 3591 : 1985",
+      "title": "Specification for solvent-extracted coconut oilcake (meal) as livestock feed ingredient",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 05",
+      "relevance": "A companion standard regulating solvent-extracted coconut meals, which are characterized by significantly lower residual fat limits."
+    },
+    {
+      "is_number": "IS 2052 : 2023",
+      "title": "Compounded feeds for cattle — Specification",
+      "category": "Formulation Specification",
+      "location": "Same Sectional Committee FAD 05",
+      "relevance": "Regulates the physical and chemical requirements of compounded cattle feeds, explicitly listing coconut oilcake satisfying IS 2154 as an approved raw feed ingredient."
+    },
+    {
+      "is_number": "IS 1712 : 1982",
+      "title": "Specification for cottonseed oilcake as livestock feed ingredient (second revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 05",
+      "relevance": "A sister feed-ingredient standard regulating expeller and rotary cottonseed cakes."
+    },
+    {
+      "is_number": "IS 1713 : 1986",
+      "title": "Specification for decorticated groundnut oilcake as livestock feed ingredient (second revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 05",
+      "relevance": "A sister feed-ingredient standard regulating expeller decorticated groundnut cakes."
+    },
+    {
+      "is_number": "IS 1932 : 1986",
+      "title": "Specification for mustard and rape seed oilcake as livestock feed ingredient (second revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 05",
+      "relevance": "A sister feed-ingredient standard regulating expeller mustard and rapeseed cakes."
+    },
+    {
+      "is_number": "IS 14325 : 2013",
+      "title": "Bypass protein feed for cattle — Specification (First Revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 05",
+      "relevance": "Regulates feedstuffs protected from rumen microbial degradation to increase bypass protein absorption."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "A companion food and agriculture storage standard present in the notebook, regulating pest control, fumigation safety, and pesticide residues."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 16066 : 2017",
+      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
+      "category": "Food Safety standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Regulates on-site food safety, explicitly mandating that animal-feeding inputs and commercial feed ingredients are kept strictly separated from human-consumption raw materials."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Mandates water potability parameters, ensuring that the water utilized in feed milling, livestock watering, and wet laboratory assays is free of impurities."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for feed processing plants, agricultural mills, and silos."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Food and Agriculture / Animal Feeds and Nutrition)",
+    "certification_status": "Voluntary Product Specification. Manufacturers and mills are highly encouraged to apply for a license to use the prestigious BIS 'Standard Mark' (ISI Mark) to print on product bags as a certified assurance of quality, safety, and nutritional conformity. Additionally, all packaging, net weight declarations, and labeling must satisfy statutory food and animal feed regulations, making IS 2154 the technical reference for feed raw-material quality audits.",
+    "requirements": [
+      {
+        "requirement_type": "Sampling Standards Integration",
+        "detail": "Mandates that representative samples of the material for assessing conformity to this standard shall be drawn according to the method prescribed in IS 7874 (Part 1).",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Feed Sizing and Grades",
+        "detail": "Establishes a two-tier quality classification based on processing efficiency, designating the feed ingredients as either Grade I (typically modern expeller pressed) or Grade II (typically traditional rotary/ghani pressed)."
+      },
+      {
+        "requirement_type": "Maximum Moisture Content",
+        "detail": "Moisture content shall not exceed 10.0 percent by mass for both Grade I and Grade II oilcakes, ensuring dryness to prevent hydrolytic rancidity and mould growth."
+      },
+      {
+        "requirement_type": "Crude Protein Requirements (Dry Basis)",
+        "detail": "Crude protein (N × 6.25) must be a minimum of 22.0 percent by mass for Grade I and a minimum of 18.0 percent by mass for Grade II, ensuring high nitrogen content for animal growth."
+      },
+      {
+        "requirement_type": "Crude Fat / Ether Extract Requirements (Dry Basis)",
+        "detail": "Ether extract (crude fat) must be a minimum of 6.5 percent by mass for Grade I and a minimum of 10.0 percent by mass for Grade II. The higher fat limit in Grade II reflects traditional rotary/ghani extraction, which leaves more oil in the cake."
+      },
+      {
+        "requirement_type": "Maximum Crude Fibre Requirements (Dry Basis)",
+        "detail": "Crude fibre is capped at a maximum of 12.0 percent by mass for Grade I and a maximum of 11.0 percent by mass for Grade II to ensure digestibility."
+      },
+      {
+        "requirement_type": "Maximum Acid Insoluble Ash (Dry Basis)",
+        "detail": "Restricts acid insoluble ash to a maximum of 1.5 percent by mass for both Grade I and Grade II oilcakes, controlling contamination from soil, sand, and silicates."
+      },
+      {
+        "requirement_type": "Freedom from Harmful Contaminants",
+        "detail": "The material must be free from harmful constituents, castor cake, castor husk, mahua cake, musty odors, rancidity, and active insect or fungus infestation."
+      },
+      {
+        "requirement_type": "Aflatoxin Screening",
+        "detail": "Requires periodic screening to verify that aflatoxin B1 levels are strictly within safe regulatory limits using sampling methods outlined in IS 13427."
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "To determine compliance with the moisture, protein, or fibre limits of this standard, the final observed or calculated value of any test or analysis must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded value must match the specified limit in this standard.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2154 : 2014",
+    "Coconut Oilcake",
+    "Livestock Feed",
+    "Feed Ingredient",
+    "Crude Protein",
+    "Crude Fat",
+    "Ether Extract",
+    "Crude Fibre",
+    "Acid Insoluble Ash",
+    "Aflatoxin B1",
+    "Expeller Pressed",
+    "Ghani Pressed",
+    "FAD 05",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2154 : 2014 (Third Revision) is the national Indian Standard specification establishing technical requirements, chemical compositions, and quality-control testing methods for coconut oilcake used as a livestock feed ingredient. Formulated by the FAD 05 Sectional Committee and reaffirmed in 2024, this standard regulates expeller and traditional rotary/ghani oilcakes. It classifies the material into Grade I (min 22% protein, min 6.5% fat, max 12% fibre) and Grade II (min 18% protein, min 10% fat, max 11% fibre) with a strict 10% moisture limit. By mandating sand-free purity (max 1.5% acid insoluble ash), outlawing toxic adulterants like castor or mahua cake, and directing standard testing under IS 7874 Part 1, the standard ensures safe and high-quality livestock feed production nationwide."
+  },
+  "source_information": {
+    "source_pdf_filename": "2154_2014_reaff2024.pdf",
+    "document_version_edition": "Third Revision, 2014"
+  }
+}

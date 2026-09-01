@@ -1,0 +1,202 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1989 (Part 1) : 2026",
+    "full_title": "Leather Safety Boots and Shoes — Specification: Part 1 For Miners (Fifth Revision) (चमड़े क़े सुरक्षा बूट और जूत़े — विशिष्टि: भाग 1 खनिकों क़े लिए (पाँचवां पुनरीक्षण))",
+    "sector_category": "Chemical / Footwear (approved by the Chemical Division Council and finalized by the Footwear Sectional Committee, CHD 19, of the Bureau of Indian Standards)",
+    "ics_code": "13.340.50",
+    "sectional_committee": {
+      "name": "Footwear Sectional Committee",
+      "number": "CHD 19"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements, design, construction, material parameters, and testing methods for leather safety boots and shoes designed specifically for miners to ensure protection against mechanical impacts, crushing, dust, and moisture in opencast and underground mining environments.",
+    "clause_number": "Clause 1.1 / Section 1 and Section 2",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Fifth Revision, July 2026",
+    "year_first_published": "Originally adopted by the Bureau of Indian Standards in earlier decades, undergoing progressive technical updates to its fourth revision, and finalized as this fifth revision in 2026",
+    "revision_history": [
+      {
+        "edition": "First to Fourth Revisions",
+        "year": "Prior years"
+      },
+      {
+        "edition": "Fifth Revision (IS 1989 (Part 1) : 2026)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "IS 1989 (Part 1) previous editions",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly published 2026 copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 578 : 2023",
+      "title": "Leather full chrome upper leather specification and test method (fourth revision)",
+      "category": "Material standard",
+      "relevance": "Specifies physical and chemical quality standards for full-chrome upper leather used in fabricating safety footwear."
+    },
+    {
+      "is_number": "IS 579 : 2017",
+      "title": "Vegetable tanned sole leather — Specification (fourth revision)",
+      "category": "Material standard",
+      "relevance": "Specifies quality parameters, tanning content, and abrasion limits for leather soles."
+    },
+    {
+      "is_number": "IS 1720 : 2024",
+      "title": "Textiles — Cotton sewing thread — Specification (third revision)",
+      "category": "Material standard",
+      "relevance": "Specifies mechanical strength, count, and twist for cotton sewing threads utilized in boot assembly."
+    },
+    {
+      "is_number": "IS 2050 : 1991",
+      "title": "Glossary of terms relating to footwear (first revision)",
+      "category": "Terminology standard",
+      "relevance": "Establishes unified definitions and anatomical nomenclature for components of safety boots."
+    },
+    {
+      "is_number": "IS 2051 : 1976",
+      "title": "Method for sampling of leather",
+      "category": "Sampling standard",
+      "relevance": "Defines randomized sampling scales and location criteria to cut representative leather test specimens."
+    },
+    {
+      "is_number": "IS 5520",
+      "title": "Lasts for safety footwear",
+      "category": "Dimensional standard",
+      "relevance": "Specifies wood or plastic foot-last geometries to ensure anatomically correct shoe sizing."
+    },
+    {
+      "is_number": "IS 8606",
+      "title": "Specification for brass screw wire",
+      "category": "Material standard",
+      "relevance": "Regulates material composition and thread profiles of brass wires used to screw shoe soles."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardizes the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14360 : 2012",
+      "title": "Semichrome Suede Upper Leather — Specification (First Revision)",
+      "category": "Product Specification",
+      "location": "Same Divisional Council",
+      "relevance": "A sister chemical department standard present in the notebook, regulating leather quality and physical testing limits."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Occupational Health and Safety Audit — Code of Practice (First Revision)",
+      "category": "Safety Code",
+      "location": "Same Division Council (CHD)",
+      "relevance": "A fellow chemical department standard. Compliance with IS 1989 safety footwear is physically audited under OHS inspections to verify the provision and durability of personal protective equipment (PPE) for workers."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System (First Revision)",
+      "category": "Management standard",
+      "location": "Same Division Council (CHD)",
+      "relevance": "Unifies safety management systems, mandating operational controls for hazard mitigation, which include tracking the issue and maintenance of safety boots."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Specifies water purity limits, ensuring that water used in tanneries during leather hydration and processing remains free of staining mineral contaminants."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, walkway railings, safety cages, and ladders for mine headframes, processing mills, and storage warehouses."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Chemical Department / Footwear)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the prestigious BIS 'Standard Mark' (ISI Mark) directly on the footwear as a certified guarantee of safety and impact resistance. Compliance with IS 1989 (Part 1) is strictly required under DGMS regulations, public sector mining tenders (such as Coal India Limited), and industrial safety audits across India to protect workers' feet.",
+    "requirements": [
+      {
+        "requirement_type": "Back Seam Protection",
+        "detail": "The back seam of the miners' safety boot must be reinforced by stitching a specialized protective tape over the seams to prevent splitting under physical load.",
+        "clause_reference": "Clause 9.3"
+      },
+      {
+        "requirement_type": "Counter Loop Construction",
+        "detail": "The counter must be turned over to within 15 mm at the top of the leg so as to form a robust jug loop to facilitate pulling on the boot.",
+        "clause_reference": "Clause 9.4"
+      },
+      {
+        "requirement_type": "Vamp & Tongue Comfort lining",
+        "detail": "The full vamp must be lined with leather and the tongue with raised woolen/flannel cloth. The tongue must be constructed of a full-bellows design to block water, mud, and mine dust from entering the boot.",
+        "clause_reference": "Clause 9.6"
+      },
+      {
+        "requirement_type": "Derby Design for Shoes",
+        "detail": "Miners safety shoes must be of a derby design, featuring 4 eyelets or less as specified by the purchaser, built on lasts conforming to IS 5520 (corresponding to last Model No. 10883 or 9150).",
+        "clause_reference": "Section 2, Clause 13"
+      },
+      {
+        "requirement_type": "Steel Toe Cap Reinforcement",
+        "detail": "The toe must be reinforced with a high-strength steel toe cap, and the tongue must be padded. The sole and heel may be fitted with metal toe/heel tips and reinforced with rustproof hobnails.",
+        "clause_reference": "Section 2, Clause 13"
+      },
+      {
+        "requirement_type": "Stitching Thread Strengths",
+        "detail": "Machine stitching must use linen thread grade 8 (minimum tensile strength 23 kgf) or grade 10 (minimum tensile strength 30 kgf), or equivalent high-quality silk or synthetic thread.",
+        "clause_reference": "Clause 14.1 & Table"
+      },
+      {
+        "requirement_type": "Screw Wire Metal Quality",
+        "detail": "The standard mandates using high-quality brass screw wire conforming to IS 8606 for securing sole structures.",
+        "clause_reference": "Clause 14.11"
+      },
+      {
+        "requirement_type": "Precise Heel Pin Sizing",
+        "detail": "Heel pins must be exactly 29 mm ± 1 mm long for leather soles and 25 mm ± 1 mm long for rubber heels.",
+        "clause_reference": "Clause 14.12"
+      },
+      {
+        "requirement_type": "Drop-Weight Impact Test",
+        "detail": "The steel toe cap must withstand a drop-weight impact test where a mass is dropped from a height of exactly 508 mm ± 5 mm onto a vertical plunger, transferring a mandatory impact energy of 14 kgf.m (approx. 137 Joules) onto the toe cap.",
+        "clause_reference": "Annex C, Clause C-4.3"
+      },
+      {
+        "requirement_type": "Moment of Maximum Depression Clearance",
+        "detail": "During maximum impact depression, the internal clearance must be measured using a specialized capsule placed at point A (found by drilling through the sole with the last inside, exactly 23 mm from the toe along the MXY line) to ensure that the depressed steel cap does not contact the miner's toes.",
+        "clause_reference": "Annex C, Clauses C-3.1 & C-3.2"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated physical parameter, clearance dimension, or thread strength must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should be identical to the specified limits.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1989 (Part 1) : 2026",
+    "Leather Safety Boots",
+    "Miners Footwear",
+    "Steel Toe Cap",
+    "Drop Impact Test",
+    "Derby Design",
+    "Bellows Tongue",
+    "Internal Clearance Capsule",
+    "Brass Screw Wire",
+    "CHD 19",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1989 (Part 1) : 2026 is the national Indian Standard specification establishing technical requirements, design criteria, and testing methods for leather safety boots and shoes for miners. Formulated by the Footwear Sectional Committee (CHD 19) and published as the fifth revision in July 2026, the standard regulates miners' protective footwear to ensure structural durability and impact resistance under severe underground mining conditions. It mandates the use of high-strength steel toe caps that must withstand a 14 kgf.m drop impact, requires full-bellows tongues lined with raised woolen/flannel cloth to block water and dust, specifies brass screw wires and precise heel pins, and details strict internal clearance measurements via specialized capsules to prevent foot injuries from sudden crushing or physical impact."
+  },
+  "source_information": {
+    "source_pdf_filename": "1989_1_2026.pdf",
+    "document_version_edition": "Fifth Revision, July 2026"
+  }
+}

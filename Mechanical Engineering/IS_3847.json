@@ -1,0 +1,157 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3847 : 1992",
+    "full_title": "Specification for Mortice Night Latches (First Revision) (मोर्टिस नाइट लैच — विशिष्टि (पहला पुनरीक्षण))",
+    "sector_category": "Mechanical Engineering / Utensils, Cutlery and Domestic Hardware (finalized by the Utensils, Cutlery and Domestic Hardware Sectional Committee, MED 33, of the Bureau of Indian Standards)",
+    "ics_code": "91.190; 97.180",
+    "sectional_committee": {
+      "name": "Utensils, Cutlery and Domestic Hardware Sectional Committee",
+      "number": "MED 33"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the material specifications, design configurations, nominal sizes, mechanical clearances, performance tests, and criteria for conformity for mortice night latches used for general domestic and commercial building security applications [1].",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 1992 (Reaffirmed 2021) [2]",
+    "year_first_published": "1966",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 3847 : 1966)",
+        "year": "1966"
+      },
+      {
+        "edition": "First Revision (IS 3847 : 1992)",
+        "year": "1992"
+      }
+    ],
+    "supersedes": "IS 3847 : 1966",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1003 (Part 1)",
+      "title": "Specification for timber half-panelled and panelled door shutters — Part 1: Door shutters",
+      "category": "Dimensional standard",
+      "relevance": "Provides timber thickness ranges and stile framing layouts to ensure perfect fitment of mortice routing joints."
+    },
+    {
+      "is_number": "IS 1365",
+      "title": "Slotted countersunk head machine screws — Specification",
+      "category": "Dimensional standard",
+      "relevance": "Standardises dimensions for flat countersunk head screws securing the latch fore-end and decorative faceplate."
+    },
+    {
+      "is_number": "IS 210",
+      "title": "Grey iron castings — Specification",
+      "category": "Material standard",
+      "relevance": "Regulates metallurgical specifications for standard grey cast-iron cases."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated clearances, physical dimensions, and test thresholds [3]."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 5930",
+      "title": "Specification for mortice latch (vertical type)",
+      "category": "Product Specification",
+      "relevance": "Shares parallel mechanical clearances and standard materials under the same technical committee."
+    },
+    {
+      "is_number": "IS 1019",
+      "title": "Specification for rim latches",
+      "category": "Product Specification",
+      "relevance": "Provides comparative parameters for surface-mounted spring latches rather than routed mortice housings."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits in high-hazard electroplating and metal foundry shops where molten zinc/brass and acidic pickling baths present hazards."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, column bases, and framing posts for high-security heavy commercial steel doors."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Mechanical Engineering Department / Utensils, Cutlery and Domestic Hardware)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or etch the physical ISI 'Standard Mark' directly on the latch body, cover, or packaging to demonstrate metallurgical and non-interchangeability compliance in the building materials sector.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Final observed or calculated test and analytical values (such as clearances, sizes, and specific test limits) must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard [3].",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Two Lever Non-Interchangeability Limit",
+        "detail": "Mortice night latches fitted with two levers must be manufactured with non-interchangeable keys in standard production batches of at least 12 latches [1].",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Two Lever Sampling test",
+        "detail": "To verify key uniqueness, exactly 3 latches are selected from each batch of 12 (with slightly differing key wards). If any key opens another lock, the entire batch lot must be rejected [1].",
+        "clause_reference": "Clause 7.1.1"
+      },
+      {
+        "requirement_type": "Multi-Lever Non-Interchangeability Limit",
+        "detail": "Mortice night latches fitted with more than two levers must be manufactured with non-interchangeable keys in standard production batches of at least 60 latches [1].",
+        "clause_reference": "Clause 7.2"
+      },
+      {
+        "requirement_type": "Multi-Lever Sampling test",
+        "detail": "For key verification on multi-lever batches, exactly 5 latches are selected from each batch of 60. The entire lot is rejected if any key cross-opens another lock [1].",
+        "clause_reference": "Clause 7.2.1"
+      },
+      {
+        "requirement_type": "Bolt Section Thickness",
+        "detail": "The rectangular locking bolt (spring bolt) must be fabricated from robust metals (such as cast or extruded brass) and feature a section of not less than 8 mm x 25 mm to prevent structural warping and break-ins.",
+        "clause_reference": "Clause 8.3"
+      },
+      {
+        "requirement_type": "Case Depth restriction",
+        "detail": "The total depth of the lock body case must not exceed 15 mm to ensure it can be morticed into standard timber door stiles without compromising shutter strength.",
+        "clause_reference": "Clause 8.2"
+      },
+      {
+        "requirement_type": "Workmanship Defective Latch Gate",
+        "detail": "Any latch failing to satisfy material, dimensional, key operation, handle retraction, or corrosion-plating requirements is defined as a defective unit [2].",
+        "clause_reference": "Clauses 9, 10 & 13.1"
+      },
+      {
+        "requirement_type": "Lot Criterion for Conformity",
+        "detail": "The entire manufacturing batch is declared conforming to IS 3847 if the number of defective units found during sample inspections does not exceed the allowable limit specified in Column 3 of Table 2 [2].",
+        "clause_reference": "Clause 13.4"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3847 : 1992",
+    "Mortice Night Latches",
+    "Spring Bolt Latch",
+    "Two Lever Locks",
+    "Multi-Lever Locks",
+    "Key Non-Interchangeability",
+    "Case Depth 15 mm",
+    "Locking Bolt 8x25 mm",
+    "Utensils Cutlery MED 33",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3847 : 1992 (First Revision, Reaffirmed 2021) is the primary national Indian Standard specification prescribing construction, dimensional, material, and safety requirements for mechanically operated mortice night latches. Maintained under MED 33, the code unifies residential and commercial door security hardware in India. It defines night latches as spring-bolt locks operated by key outside, handle inside, and fitted with an internal key-lockout snib [1]. It restricts lock case depth to 15 mm to prevent weakening timber doors, specifies a minimum 8 mm x 25 mm bolt section, and enforces strict key non-interchangeability batches (at least 12 for two-lever and 60 for multi-lever locks) [1]. The standard mandates regular sampling and testing to eliminate defective units and coordinate directly with door framing (IS 1003) and paint/safety codes [2]."
+  },
+  "source_information": {
+    "source_pdf_filename": "3847_1992_reff2021.pdf",
+    "document_version_edition": "First Revision, 1992"
+  }
+}

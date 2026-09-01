@@ -1,0 +1,136 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1434 : 2026",
+    "full_title": "Counter Weighing Machines — Specification (First Revision) (काउंटर वजन मशीनें — विशिष्टि (पहला पुनरीक्षण))",
+    "sector_category": "Mechanical Engineering / Weights and Measures (approved by the Mechanical Engineering Division Council and finalized by the Weights and Measures Sectional Committee, PGD 26, of the Bureau of Indian Standards)",
+    "ics_code": "17.100",
+    "sectional_committee": {
+      "name": "Weights and Measures Sectional Committee",
+      "number": "PGD 26"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the quality, material, design, construction, accuracy classes, performance limits, and testing specifications for counter weighing machines (historically referred to as counter machines) of capacities up to and including 50 kg. These are equal-arm weighing balances with pans supported above the beam, used extensively in commercial trade transactions to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+    "clause_number": "Clause 1.1 / Foreword",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 2026 (superseding the classic first edition, IS 1434 : 1959)",
+    "year_first_published": "1959",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 1434 : 1959)",
+        "year": "1959"
+      },
+      {
+        "edition": "First Revision (IS 1434 : 2026)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "IS 1434 : 1959",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1432 : 1959",
+      "title": "General requirements for weighing instruments",
+      "category": "General metrology standard",
+      "relevance": "Establishes baseline definitions, safety factors, environmental protections, and verification procedures for weighing hardware."
+    },
+    {
+      "is_number": "IS 1056 : 2004",
+      "title": "Commercial weights — Specification (third revision)",
+      "category": "Weight standard",
+      "relevance": "Prescribes standard requirements for mass standards and weights utilized alongside mechanical counter balances."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1058 : 1993",
+      "title": "Legal metrology — Commercial capacity measures — Specification (second revision)",
+      "category": "Metrology standard",
+      "relevance": "Commercial transactions combine volumetric and gravimetric measurements. Verification of retail scales and capacity measures is coordinated under the same regional Legal Metrology enforcement divisions."
+    },
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Calibration and volumetric test rigs for pumpsets utilize high-accuracy Class III weighing systems (such as counter scales or platform scales) to verify mass flow rates and discharge calculations under test conditions."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Manufacturing facilities producing mechanical weighing scales, casting grey iron levers, or heat-treating steel knife-edges operate foundries, requiring occupational safety audits under IS 14489."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, crane structures, and machine mounting plates."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Material and Legal Metrology Specification (Mechanical Engineering Department / Commercial Weights and Measures)",
+    "certification_status": "Mandatory model approval and verification sealing under State Legal Metrology Acts and Rules. Manufacturers must possess a valid model approval license, and each individual machine must be physically verified, tested, and lead-stamped by a State Legal Metrology Inspector to be legally used or sold for trade in India.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, dimensional parameters, wall thicknesses, and capacities must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Equal-Arm Stay Design",
+        "detail": "A counter machine is defined as an equal-arm weighing instrument, of capacity not exceeding 50 kg, the pans of which are supported above the beam on vertical stays to maintain lateral stability.",
+        "clause_reference": "Constructional Features"
+      },
+      {
+        "requirement_type": "Hardened Knife-Edges",
+        "detail": "Knife-edges and bearings must be manufactured from high-carbon steel, alloy steel, or agate. Hardened steel knife-edges must have a minimum hardness of 60 HRC (700 HV) to prevent blunting under heavy wear.",
+        "clause_reference": "Constructional Features"
+      },
+      {
+        "requirement_type": "Scoop-Type Shift Test",
+        "detail": "When the goods pan is in the form of a scoop, the counter machine must remain within the prescribed limits of error if half the full capacity load is placed against the middle of the back of the scoop and the remaining half is placed at any other position on the scoop.",
+        "clause_reference": "Eccentric Load Testing"
+      },
+      {
+        "requirement_type": "Flat-Pan Shift Test",
+        "detail": "When the goods pan is not a scoop, the scale must indicate the same weight within half the prescribed limits of maximum permissible error when a load equal to half the capacity is placed on the goods pan and moved anywhere within a distance from the center equal to one-third of the length of the pan.",
+        "clause_reference": "Eccentric Load Testing"
+      },
+      {
+        "requirement_type": "Lead Verification Sealing",
+        "detail": "To prevent unauthorized adjustments, each counter machine must carry a conspicuous plug or stud of soft lead. The plug or stud must be undercut or recessed to be irremovable, allowing the State Legal Metrology Inspector to emboss the official year and authority seal.",
+        "clause_reference": "Marking & Sealing"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1434 : 2026",
+    "Counter Weighing Machines",
+    "Legal Metrology",
+    "Equal-Arm Balances",
+    "Hardened Knife-Edges 60 HRC",
+    "Shift Test Eccentric Loads",
+    "Lead Verification Plug",
+    "Class III Medium Accuracy",
+    "PGD 26 Weights and Measures",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1434 : 2026 is the primary national Indian Standard specification prescribing quality requirements, material properties, structural designs, and accuracy tolerances for counter weighing machines (historically referred to as counter machines) up to 50 kg capacity. Finalized under the Weights and Measures Sectional Committee (PGD 26), this first revision supersedes the old IS 1434:1959 standard. It mandates highly robust equal-arm construction where the weighing pans are supported above the beam on vertical stays, specifies ultra-hard knife-edges (minimum 60 HRC) to preserve sensitiveness, and enforces strict eccentric 'shift tests' (goods pan offset tests) to guarantee measurement accuracy. In close coordination with the Legal Metrology Act, 2009, the code requires an irremovable soft-lead sealing plug to receive official verification stamps, preventing fraudulent consumer trade."
+  },
+  "source_information": {
+    "source_pdf_filename": "1434_2026.pdf",
+    "document_version_edition": "First Revision, March 2026"
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10882 : 1984",
+    "full_title": "Specification for Cam Levers (कैम लीवर की विशिष्टि)",
+    "sector_category": "Production and General Engineering / Machine Tools, Machine Tool Elements, and Holding Devices (approved by the Production and General Engineering Division Council and finalized by the Machine Tools, Machine Tool Elements, and Holding Devices Sectional Committee, PGD 35, under the Bureau of Indian Standards)",
+    "ics_code": "21.060.10; 25.060.20",
+    "sectional_committee": {
+      "name": "Machine Tools, Machine Tool Elements, and Holding Devices Sectional Committee",
+      "number": "PGD 35"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard specifies the physical dimensions, mechanical tolerances, materials, surface finish, and hardness thresholds for cam levers (eccentric clamping levers) used in combination with cam-operated clamps conforming to IS 6090 : 1984.",
+    "clause_number": "Clause 1 & 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1984 (Reaffirmed 2022)",
+    "year_first_published": "1984",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 10882 : 1984)",
+        "year": "1984"
+      }
+    ],
+    "supersedes": "None (Developed as a new dedicated specification for standard cam levers)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 6090 : 1984",
+      "title": "Specification for cam operated clamps (first revision)",
+      "category": "Fixture standard",
+      "relevance": "Cam levers are specifically designed and dimensioned to operate in series with the clamping assemblies, pivot shafts, and clamp bars defined under IS 6090."
+    },
+    {
+      "is_number": "IS 2102 (Part 1) : 1993",
+      "title": "General tolerances: Part 1 tolerances for linear and angular dimensions without individual tolerance indications (third revision)",
+      "category": "Dimensional tolerance",
+      "relevance": "Prescribes standard 'Medium Class' dimensional tolerances for all untoleranced physical features on the cam lever."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 12427 : 2001",
+      "title": "Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification",
+      "category": "Fastener standard",
+      "relevance": "Transmission tower erection fixtures and clamping jigs utilize high-tensile bolted fasteners adjacent to quick-release cam-operated clamps."
+    },
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Industrial jigs and CNC machining fixtures utilized to mill impeller keyseats and bore pump stator housings employ cam levers conforming to IS 10882 for rapid workpiece clamping."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Stator-baking fixtures and holding plates operating continuously inside hot-curing varnish ovens utilize cam levers to maintain constant structural clamping pressure under high thermal loads."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits in manufacturing foundries, forging lines, and heat-treating bays where cam levers are case-hardened to minimum 680 HV."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, structural columns, and frames carrying heavy industrial machinery."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Sizing and Performance Specification (Production and General Engineering Department / Machine Tools, PGD 35)",
+    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' directly on the product packaging to certify metallurgical, structural, and dimensional conformity.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, dimensional parameters, and hardness readings must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Clamping Association",
+        "detail": "Specifies dimensions and other requirements for cam levers to be used with cam operated clamps conforming to IS : 6090 - 1984.",
+        "clause_reference": "Clause 1"
+      },
+      {
+        "requirement_type": "Ductile Case-Hardened Steel",
+        "detail": "The lever body must be manufactured from high-grade case-hardened steel featuring a core tensile strength of 600 to 750 N/mm² to prevent shear fractures under rapid manual load cycles.",
+        "clause_reference": "Clause 3"
+      },
+      {
+        "requirement_type": "Cam Face Hardness Threshold",
+        "detail": "The eccentric cam contact face is subjected to intense sliding friction; therefore, the cam portion must be hardened to a minimum surface hardness of 680 HV (Vickers Hardness) to prevent flat-spots or surface pitting.",
+        "clause_reference": "Clause 3"
+      },
+      {
+        "requirement_type": "Dimensions of Standard Cam Levers",
+        "detail": "Standardizes physical proportions: Eccentricity e = 1.50 mm (clamping range finished to N6); Handle Length l = 63 mm; Pin Hole Diameter d = 6 mm (F7 fit); Width h = 16 mm; Cam Major Radius r = 16 mm; Radius r1 = 7.5 mm; Radius r2 = 8 mm; Head Height h1 = 31 mm (approx); and Thickness t = 6 mm.",
+        "clause_reference": "Clause 2.1 & Table 1"
+      },
+      {
+        "requirement_type": "Ergonomic Corner Finish",
+        "detail": "The lever handle must be entirely free from sharp corners, burrs, forge scale, cracks, or parting-line offsets to protect the machine operator from hand cuts.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Nomenclature and Sizing Code",
+        "detail": "Levers must be designated by the name, eccentricity (e), handle length (l), standard number, and material. Example: 'CAM LEVER 3 x 125 IS : 10882 Steel' represents a lever of eccentricity e = 3 mm and handle length l = 125 mm.",
+        "clause_reference": "Clause 4"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10882 : 1984",
+    "Cam Levers Specification",
+    "Cam Operated Clamps IS 6090",
+    "Hardness 680 HV",
+    "Case Hardened Steel",
+    "Eccentricity 1.50 mm",
+    "Pin Hole Diameter 6 mm F7",
+    "Medium Class Tolerances",
+    "PGD 35 Machine Tools",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10882 : 1984 (Reaffirmed 2022) is the primary national Indian Standard specification prescribing quality requirements, material compositions, hardness limits, and nominal dimensions for cam levers used alongside cam-operated clamps (conforming to IS 6090). Maintained under the Machine Tools, Machine Tool Elements, and Holding Devices Sectional Committee (PGD 35), the standard unifies manual rapid-clamping tooling accessories across national machine shops and toolrooms. It specifies strict dimensional parameters—such as eccentricity (1.50 mm for the standard size), handle length (63 mm), and pin-hole dimensions (6 mm diameter under a precise F7 fit)—and mandates case-hardened steel (600 to 750 N/mm² tensile strength) with a minimum cam-surface hardness of 680 HV to prevent localized deformation. By enforcing smooth, burr-free ergonomic handle finishes and standard designation codes, the standard ensures maximum operator safety and tool durability."
+  },
+  "source_information": {
+    "source_pdf_filename": "10882_1984_reff2022.pdf",
+    "document_version_edition": "First Edition, 1984"
+  }
+}

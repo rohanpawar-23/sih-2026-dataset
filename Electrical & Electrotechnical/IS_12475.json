@@ -1,0 +1,153 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12475 (Part 2) : 1988",
+    "full_title": "Gassing of Insulating Liquids Under Electric Stress and Ionization — Part 2: Method of Determination of Gassing Rate Under Nitrogen Atmosphere (विद्युत तनाव और आयनीकरण के तहत विद्युतरोधी तरल पदार्थों का गैसिंग — भाग 2: नाइट्रोजन वातावरण के तहत गैसिंग दर के निर्धारण की विधि)",
+    "sector_category": "Electrotechnical / Fluids for Electrotechnical Applications (finalized by the Fluids for Electrotechnical Applications Sectional Committee, ETD 03, of the Bureau of Indian Standards)",
+    "ics_code": "29.035.40; 29.040.10",
+    "sectional_committee": {
+      "name": "Fluids for Electrotechnical Applications Sectional Committee",
+      "number": "ETD 03"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard (Part 2) prescribes the test method, apparatus setup, gas saturation conditions, and reporting procedures for determining the gassing rate (the tendency to evolve or absorb gas) of liquid dielectrics when subjected to high electrical stress and ionization at a gas-liquid interface under a nitrogen atmosphere over long durations.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1988 (Reaffirmed 2018)",
+    "year_first_published": "1988",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 12475 (Part 2) : 1988)",
+        "year": "1988"
+      }
+    ],
+    "supersedes": "None (Developed as a new standalone standard based on the adoption of international IEC Pub 60628)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL (No active amendments have been issued on this reaffirmed copy)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 12475 (Part 1) : 1988",
+      "title": "Gassing of insulating liquid under electric stress and ionization — Part 1: Method of determination of gassing rate under hydrogen atmosphere",
+      "category": "Testing standard",
+      "relevance": "Provides the complementary short-duration Pirelli Method A under a hydrogen atmosphere."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Submersible pump motor housings are filled with wet-type windings or insulating liquids whose gas evolution resistance under electrical stress represents a critical safety parameter."
+    },
+    {
+      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification",
+      "category": "Material standard",
+      "relevance": "Varnished windings in transformers operate completely immersed in insulating liquids, and the gassing properties of the liquid directly influence varnish degradation and thermal class indexes."
+    },
+    {
+      "is_number": "IS 11731 (Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
+      "category": "Testing standard",
+      "relevance": "Insulating sheets, barriers, and polymers are tested for flammability to prevent short-circuit fire propagation."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Enforces safety audits in electrotechnical testing laboratories where high voltage, nitrogen cylinders, and volatile organic cleaning solvents present physical hazards."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, transformer tank steel frames, and heavy machinery bases inside high-voltage testing yards."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product testing & material evaluation specification (Electrotechnical Department / Fluids for Electrotechnical Applications)",
+    "certification_status": "Voluntary Product Testing Standard. However, under national transformer procurement specifications (such as state electricity boards, Power Grid Corporation of India, and major utility specifications), insulating mineral oils and synthetic esters must carry test certificates verifying their gassing tendency per IS 12475 to prevent operational gas buildup, gas bubbling, and dielectric tracking.",
+    "requirements": [
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated final test values, gassing rates (in mm³/min), or gas volumes must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "High-Voltage Level",
+        "detail": "The gassing cell must be subjected to a stable, sinusoidal high-voltage potential of 12 kV at power frequency (50 Hz or 60 Hz) to initiate localized ionization at the gas-liquid interface.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Controlled Test Temperature",
+        "detail": "The entire gassing cell assembly must be immersed in a thermostatically controlled oil/liquid bath maintained at a stable temperature of 80 ± 0.5°C throughout the test duration.",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "High-Purity Nitrogen Atmosphere",
+        "detail": "The gas phase inside the cell must consist of high-purity nitrogen gas, which is bubbled through the liquid sample prior to the test to achieve complete gas saturation.",
+        "clause_reference": "Clause 5.1"
+      },
+      {
+        "requirement_type": "Long-Duration Test Run",
+        "detail": "Due to the slow kinetics of gas evolution/absorption under nitrogen, the test must be maintained continuously for 18 hours (for 50 Hz systems) or 15 hours (for 60 Hz systems) to obtain a representative cumulative gassing rate.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Gassing Rate Evaluation",
+        "detail": "Results are reported as the net change in gas volume (in mm³) or as a normalized gassing rate (in mm³/min) calculated from pressure changes or burette liquid level movement.",
+        "clause_reference": "Clause 8.1"
+      },
+      {
+        "requirement_type": "Duplicate Testing Requirement",
+        "detail": "To ensure statistical validity, the gassing test must be performed on at least duplicate specimens, and their results must satisfy standard repeatability criteria.",
+        "clause_reference": "Clause 8.3"
+      },
+      {
+        "requirement_type": "Repeatability Precision Threshold",
+        "detail": "Duplicate test runs are considered suspect and must be repeated if their calculated gassing tendencies differ by more than a specified repeatability threshold (typically 0.3 + 0.26·|G| mm³/min, where G is the mean gassing value).",
+        "clause_reference": "Clause 8.4"
+      },
+      {
+        "requirement_type": "Cell Cleaning Procedure",
+        "detail": "To prevent cross-contamination and solvent residue staining, the borosilicate glass cell and electrodes must be thoroughly cleaned with n-heptane, petroleum ether, or 1,1,1-trichloroethane and dried completely before refilling.",
+        "clause_reference": "Clause 9.1"
+      },
+      {
+        "requirement_type": "Safety Shield Mandate",
+        "detail": "Because the test involves a combination of high-voltage ionization (12 kV), heated flammable oils (80°C), and pressurized gases, a secure, transparent safety shield must be installed around the gassing cell to protect laboratory operators.",
+        "clause_reference": "Clause 11.1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12475 (Part 2) : 1988",
+    "Gassing of Insulating Liquids",
+    "Gassing Tendency",
+    "Method B IEC 60628",
+    "Pirelli Gassing Cell",
+    "High-Purity Nitrogen Atmosphere",
+    "Electrical Stress Ionization",
+    "Dielectric Breakdown Prevention",
+    "Transformer Oil Aging",
+    "ETD 03",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12475 (Part 2) : 1988 (Reaffirmed 2018) is the primary national Indian Standard specification prescribing the laboratory test method to determine the gassing rate of electrical insulating liquids under a nitrogen atmosphere. Technically equivalent to Method B (long-duration test) of international standard IEC 60628:1985, the code serves to evaluate the electrical and thermal stability of liquid dielectrics used in power transformers and cables. It subjects a nitrogen-saturated liquid sample in a borosilicate glass cell to high electrical stress (12 kV) and temperature (80°C) over a long period (15 to 18 hours) to measure the net change in gas volume. This determines whether the oil evolves gases (which could form dangerous bubbles) or absorbs them, protecting equipment from dielectric breakdown."
+  },
+  "source_information": {
+    "source_pdf_filename": "12475_2.pdf",
+    "document_version_edition": "First Edition, 1988 (reaffirmed in 2018)"
+  }
+}

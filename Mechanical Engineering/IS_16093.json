@@ -1,0 +1,206 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16093 : 2013",
+    "full_title": "Installation of Gas Based Instantaneous Water Heater — Code of Practice (गैस आधारित तात्कालिक जल तापक का संस्थापन — रीति संहिता)",
+    "sector_category": "Mechanical Engineering / Domestic and Commercial Gas Burning Appliances (Pressure Type) (finalized by the Domestic and Commercial Gas Burning Appliances (Pressure Type) Sectional Committee, MED 23, under the Mechanical Engineering Division Council of the Bureau of Indian Standards)",
+    "ics_code": "91.140.65; 97.100.20",
+    "sectional_committee": {
+      "name": "Domestic and Commercial Gas Burning Appliances (Pressure Type) Sectional Committee",
+      "number": "MED 23"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the safe installation requirements, structural and ventilation guidelines, and mechanical limits for gas-based instantaneous water heaters (gas geysers) and associated components—including gas piping, regulators, hoses, and venting systems—to prevent toxic combustion product accumulation (carbon monoxide) and fire hazards in residential, commercial, or institutional properties.",
+    "clause_number": "Clauses 1.1 & 1.2",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, December 2013 (Reaffirmed 2023)",
+    "year_first_published": "2013",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 16093 : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "None (New Standard developed to formalise safety and installation codes for gas-powered domestic appliances)",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL (No amendments issued on this active reaffirmed copy)"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 6044 (Part 1)",
+      "title": "Liquefied petroleum gas storage installations — Code of practice: Part 1 Commercial, industrial and residential cylinder installations",
+      "category": "Installation code",
+      "relevance": "Regulates high-integrity LPG multi-cylinder manifolds, storage locations, and gas-tight copper header lines feeding water geysers."
+    },
+    {
+      "is_number": "IS 9573",
+      "title": "Rubber hose for liquefied petroleum gas (LPG) — Specification",
+      "category": "Product Specification",
+      "relevance": "Specifies material properties, aging resistances, and testing pressures for rubber hoses connecting gas pipelines to geyser inlets."
+    },
+    {
+      "is_number": "IS 10908",
+      "title": "Flexible rubber tubing for liquefied petroleum gas — Specification",
+      "category": "Product Specification",
+      "relevance": "Regulates light-duty flexible tubings used in domestic household connections."
+    },
+    {
+      "is_number": "IS 9798",
+      "title": "Low pressure regulators for use with liquefied petroleum gas (LPG) — Specification",
+      "category": "Product Specification",
+      "relevance": "Specifies flow rates and diaphragm pressure tolerances for regulators delivering constant outlet pressure to water heaters."
+    },
+    {
+      "is_number": "IS 2379 : 1990",
+      "title": "Pipelines — Identification — Colour Code",
+      "category": "Identification standard",
+      "relevance": "Mandates yellow color bands and identification marks to distinguish pressurized gas lines from hot water piping."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of dimensions, gas pressures, and room clearances to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15558 : 2005",
+      "title": "Mini domestic water heater for use with LPG — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee (MED 23)",
+      "relevance": "The product manufacturing specification. Under IS 16093, all gas water heaters installed on domestic or commercial premises must carry a valid BIS license under IS 15558."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Directs safety audits in commercial hotel kitchens, hostels, and plant rooms where gas supply headers and combustion units must undergo periodic leak audits."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System",
+      "category": "Management standard",
+      "relevance": "Unifies risk mitigation, requiring daily safety checklists, leak audits, and regular maintenance records of building gas-fired utility grids."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, structural brackets, and welding criteria used to secure high-mass gas appliances to wall frames."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "Shri J. A. Siddiqui (Scientist 'F' and Head)",
+      "organization": "Mechanical Engineering Department (MED), BIS Directorate General, New Delhi"
+    },
+    {
+      "name": "Shri Vikram Verma",
+      "organization": "Superflame Appliances Private Limited, Faridabad"
+    },
+    {
+      "name": "Shri Victor Macmull",
+      "organization": "United Works Pvt Ltd, Mumbai"
+    },
+    {
+      "name": "Shri S. Bhorgharkar (Alternate)",
+      "organization": "United Works Pvt Ltd, Mumbai"
+    },
+    {
+      "name": "Shri S. R. Sarvate",
+      "organization": "Vanaz Engineers Ltd, Pune"
+    },
+    {
+      "name": "Shri S. J. Vispute (Alternate)",
+      "organization": "Vanaz Engineers Ltd, Pune"
+    },
+    {
+      "name": "Shri M. K. Gupta (In Personal Capacity)",
+      "organization": "S-139, Greater Kailash-I, New Delhi"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Code of Practice / Safety and Installation Guidelines (Mechanical Engineering Department / Domestic Gas Appliances)",
+    "certification_status": "Mandatory Procedural Compliance. Under the Gas Cylinder Rules of the Government of India and local public utility regulations (including IGL, MNGL, and state gas distribution agencies), domestic and commercial piping installations must hold a valid certificate of compliance (CoC) issued by an authorized contractor, verifying strict adherence to the safety, ventilation, and zoning codes of IS 16093.",
+    "requirements": [
+      {
+        "requirement_type": "The Scope Constraints",
+        "detail": "Prescribes requirements for installing gas-based instantaneous water heaters, as well as the associated components like piping and mechanical fittings.",
+        "clause_reference": "Clauses 1.1 & 1.2"
+      },
+      {
+        "requirement_type": "The Bathroom Installation Ban",
+        "detail": "Installing flue-less gas instantaneous water heaters inside closed bathrooms or shower stalls is strictly prohibited due to the critical risk of rapid oxygen depletion, incomplete combustion, and fatal carbon monoxide (CO) accumulation.",
+        "clause_reference": "Safety Codes / General Guidelines"
+      },
+      {
+        "requirement_type": "Concealed Unit Prohibition",
+        "detail": "Gas geysers must not be concealed inside solid wood cabinetry, cupboards, or closets without non-closable ventilation openings, to prevent dangerous accumulations of unburnt fuel gas or exhaust fumes.",
+        "clause_reference": "Safety Codes / General Guidelines"
+      },
+      {
+        "requirement_type": "Balanced Flue Air Intake",
+        "detail": "Highly recommends utilizing balanced-flue (room-sealed) gas geysers, where combustion air is drawn exclusively from outside the building envelope and exhaust gases are vented directly back to the outside.",
+        "clause_reference": "Flue Classifications"
+      },
+      {
+        "requirement_type": "Open Vent Sizing Limits",
+        "detail": "Where a non-balanced flue heater is installed in semi-enclosed spaces or kitchens, a permanent, non-closable fresh air ventilation opening of at least 45 cm x 45 cm (2025 sq. cm) leading to the outside must be provided.",
+        "clause_reference": "Ventilation Requirements"
+      },
+      {
+        "requirement_type": "Conformity to Heaters Specification",
+        "detail": "All installed domestic gas geysers must hold valid BIS licenses conforming to the manufacturing specifications and safety features of IS 15558.",
+        "clause_reference": "Zoning & Technical Codes"
+      },
+      {
+        "requirement_type": "Nominal LPG Gas Pressure",
+        "detail": "LPG geysers must operate under a nominal regulated water/gas stabilizer working pressure of 21 mbar (g) or 30 gf/cm² (2.942 kN/m²).",
+        "clause_reference": "Operating Parameters"
+      },
+      {
+        "requirement_type": "Piping Materials Controls",
+        "detail": "All intermediate copper tubing connecting the low-pressure regulator manifold to the geyser gas inlet must utilize high-conductivity seamless pipes conforming to IS 2501.",
+        "clause_reference": "Associated Components"
+      },
+      {
+        "requirement_type": "Flexible Tube Protection",
+        "detail": "Flexible connections must utilize synthetic rubber hoses conforming strictly to IS 9573 (Type I/II) or IS 10908, showing zero kinks, weathering, or cracks.",
+        "clause_reference": "Associated Components"
+      },
+      {
+        "requirement_type": "Weekly Leak Inspection",
+        "detail": "Site operators must check all flexible rubber hose ends, copper fittings, and regulator bungs weekly using a soap-water solution, prohibiting the use of open flames or running the appliance if gas smell is detected.",
+        "clause_reference": "Associated Components"
+      },
+      {
+        "requirement_type": "The Rounding Off Protocol",
+        "detail": "Observed or calculated dimensions, clearances, test pressures, and gas concentrations must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
+        "clause_reference": "Foreword / Clause 0.4"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16093 : 2013",
+    "Gas Based Water Heaters",
+    "Gas Geyser Installation",
+    "Zoning Bathroom Prohibition",
+    "Carbon Monoxide CO Danger",
+    "Balanced Flue",
+    "Ventilation 45 x 45 cm",
+    "IS 15558 geysers",
+    "MED 23",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16093 : 2013 is the primary national Indian Standard code of practice establishing the mandatory safety, architectural, and mechanical requirements for the installation of gas-based instantaneous water heaters (gas geysers). Formulated under the Domestic and Commercial Gas Burning Appliances Sectional Committee (MED 23) and reaffirmed in 2023, the standard addresses critical safety challenges in residential and commercial buildings. It strictly prohibits installing flue-less gas water heaters inside closed bathrooms or unventilated cupboards to prevent fatal carbon monoxide poisoning (known as gas geyser syndrome). It mandates the use of highly secure, balanced-flue systems or the provision of large (min. 45 x 45 cm) permanent fresh-air ventilation openings leading directly to the outer atmosphere, while regulating all gas-carrying copper tubes, regulators, and synthetic rubber hoses to ensure gas-tightness and prevent explosions."
+  },
+  "source_information": {
+    "source_pdf_filename": "16093_2013_reaff2023.pdf",
+    "document_version_edition": "First Edition, December 2013"
+  }
+}

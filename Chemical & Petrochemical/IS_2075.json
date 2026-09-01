@@ -1,0 +1,194 @@
+{
+  "basic_identification": {
+    "is_number": "IS 2075 : 2017",
+    "full_title": "Ready Mixed Paint, Stoving, Red Oxide Zinc Chrome, Priming — Specification (Third Revision) (तैयार मिश्रित पेंट, स्टोविंग, रेड ऑक्साइड जिंक क्रोम, प्राइमिंग — विशिष्टि (तीसरा पुनरीक्षण))",
+    "sector_category": "Chemical / Paints, Varnishes and Related Products (approved by the Chemical Division Council and finalized by the Paints, Varnishes and Related Products Sectional Committee, CHD 20, of the Bureau of Indian Standards)",
+    "ics_code": "87.040",
+    "sectional_committee": {
+      "name": "Paints, Varnishes and Related Products Sectional Committee",
+      "number": "CHD 20"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements, chemical formulation parameters, application methods, physical-mechanical testing limits, and sampling protocols for the material commercially known as ready mixed paint, stoving, red oxide zinc chrome, priming, used as a high-integrity anti-corrosive primer in paint systems for protecting steelwork, sheet metal, and industrial machinery under inland, marine, or industrial outdoor/indoor conditions.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, May 2017 (Reaffirmed 2022)",
+    "year_first_published": "1962 (originally adopted by the Indian Standards Institution in 1962, updated to the first revision in 1979, the second revision in 2000, and the third revision in 2017)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 2075 : 1962)",
+        "year": "1962"
+      },
+      {
+        "edition": "First Revision (IS 2075 : 1979)",
+        "year": "1979"
+      },
+      {
+        "edition": "Second Revision (IS 2075 : 2000)",
+        "year": "2000"
+      },
+      {
+        "edition": "Third Revision (IS 2075 : 2017)",
+        "year": "2017"
+      }
+    ],
+    "supersedes": "IS 2075 : 2000",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this third revision copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 101 (All Parts)",
+      "title": "Methods of sampling and test for ready mixed paints and enamels",
+      "category": "Testing standard",
+      "relevance": "Provides standard testing protocols for drying/stoving time, adhesion, scratch hardness, flexibility, and salt spray resistance [1]."
+    },
+    {
+      "is_number": "IS 1303",
+      "title": "Paints — Glossary of terms",
+      "category": "Terminology standard",
+      "relevance": "Establishes unified definitions, chemical terminology, and defect classifications for the paint and varnish industries."
+    },
+    {
+      "is_number": "IS 33",
+      "title": "Methods of sampling and test for inorganic pigments and extenders for paints",
+      "category": "Testing standard",
+      "relevance": "Provides methods for evaluating the purity, particle shape, and water-soluble matter of red iron oxide and zinc chrome raw pigments."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated analytical values, viscosity times, and film thicknesses."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2074 : 2023",
+      "title": "Ready Mixed Paint, Air Drying, Red Oxide Zinc Chrome, Priming — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee (CHD 20)",
+      "relevance": "The air-drying sister specification of the red oxide zinc chrome primer, utilized for on-site structural maintenance where stoving ovens are unavailable."
+    },
+    {
+      "is_number": "IS 5666 : 2024",
+      "title": "Etch (Pretreatment) Primer — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee (CHD 20)",
+      "relevance": "Regulates wash primers used to pre-treat metal surfaces to ensure optimal mechanical bonding for the subsequent IS 2075 stoving coat."
+    },
+    {
+      "is_number": "IS 15556 : 2005",
+      "title": "Volumetric and spectrophotometric estimation of iron",
+      "category": "Testing standard",
+      "location": "Chemical Department (CHD 1)",
+      "relevance": "Provides volumetric and spectrophotometric methods to calibrate total iron oxide pigments in primer samples."
+    },
+    {
+      "is_number": "IS 1612 : 1976",
+      "title": "Specification for Iron Powder (Reduction Grade)",
+      "category": "Product Specification",
+      "location": "Chemical Department",
+      "relevance": "A sister chemical standard in the notebook, regulating fine iron powders that carry safety concerns similar to high-pigment-load paint mixtures."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Chemical Department",
+      "relevance": "Directs safety audits in industrial paint workshops, chemical spray booths, and high-temperature baking ovens, which represent fire, explosion, and toxic vapor inhalation hazards."
+    },
+    {
+      "is_number": "IS 18001 : 2007",
+      "title": "Occupational Health and Safety Management System (First Revision)",
+      "category": "Management standard",
+      "location": "Chemical Department",
+      "relevance": "Unifies safety management systems, mandating operational controls for hazard mitigation, which include tracking personal protective equipment (PPE) and maintaining paint-spraying exhaust ventilation."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Ensures that industrial water used in wet testing, salt-spray chamber conditioning, and laboratory rinses remains free of mineral impurities that could cause blistering."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and walkway railings for industrial paint warehouses, curing kilns, and spray booth frames."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Chemical Department / Paints and Varnishes)",
+    "certification_status": "Voluntary Product Specification under the Bureau of Indian Standards (BIS). However, paint manufacturers are highly encouraged to apply for a BIS license to print the prestigious BIS 'Standard Mark' (ISI Mark) directly on the paint drums and containers. This serves as a certified guarantee of anti-corrosive performance, stoving kinetics, and weather-exposure durability. Compliance with IS 2075 is strictly demanded in major engineering supply contracts, automotive and machinery fabrication tenders, railway coach paint specifications, and defense logistics across India.",
+    "requirements": [
+      {
+        "requirement_type": "Baking Curing Curing Profile",
+        "detail": "The paint film is formulated to be baked (stoved) to form an incredibly tough, highly cross-linked, and impervious polymer barrier. The baking schedule must be performed at temperatures ranging from 100°C to 150°C (typically 120°C) [2] for approximately 30 minutes [2, 3].",
+        "clause_reference": "Clause 4 & Annex B"
+      },
+      {
+        "requirement_type": "Drying Time Curing Speed",
+        "detail": "The primer must cure rapidly under heat, showing no soft, tacky, or wet films at the completion of the designated stoving period [2, 4].",
+        "clause_reference": "Clause 4 & Table 1"
+      },
+      {
+        "requirement_type": "Overcoating Compatibility",
+        "detail": "The stoved primer film must show exceptional compatibility when overcoated with finishes, including synthetic stoving enamels, showing no signs of lifting, wrinkling, or blistering under subsequent baking [5-8].",
+        "clause_reference": "Clause 4 & Table 1"
+      },
+      {
+        "requirement_type": "Finish Film Texture",
+        "detail": "After baking, the paint film must dry to a smooth, uniform, and eggshell-flat or semi-gloss finish [5-7, 9] that provides an excellent mechanical key for finishing topcoats.",
+        "clause_reference": "Clause 4 & Table 1"
+      },
+      {
+        "requirement_type": "Active Pigment Composition",
+        "detail": "The pigment must comprise a balanced mixture of high-purity red oxide (iron oxide) for physical barrier protection and zinc chrome pigment to provide active galvanic and passivating corrosion inhibition on metal substrates [4, 10, 11].",
+        "clause_reference": "Clause 4 & Table 1"
+      },
+      {
+        "requirement_type": "Volatile Matter",
+        "detail": "Restricts volatile solvent content to limit atmospheric VOC emissions and ensure a high solid-content density of the wet paint [9, 11, 12].",
+        "clause_reference": "Clause 4 & Table 1"
+      },
+      {
+        "requirement_type": "Marking Requirements",
+        "detail": "Each container must be legibly and indelibly marked with the manufacturer's name, brand, date of manufacture, batch number, shelf life, and the stoving schedule parameters [13, 14].",
+        "clause_reference": "Clause 12.1"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "All observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded value must match the specified limit.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 2075 : 2017",
+    "Ready Mixed Paint",
+    "Stoving Primer",
+    "Red Oxide Zinc Chrome",
+    "Anti-Corrosive Coating",
+    "Baking Schedule 120 C",
+    "30 Minutes Curing",
+    "Overcoating Enamels",
+    "CHD 20",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 2075 : 2017 (Third Revision) is the national Indian Standard specification establishing technical, chemical, and testing requirements for stoving red oxide zinc chrome priming paint. Maintained under the paints and varnishes sectional committee (CHD 20) and reaffirmed in 2022, this standard regulates high-performance industrial primers applied to steelwork and sheet metal. Unlike air-drying primers, stoving primers are heat-cured (baked) in industrial ovens at temperatures ranging from 100°C to 150°C (commonly 120°C) for 30 minutes, forming an exceptionally tough, chemically resistant, and impervious protective layer. The standard specifies pigment compositions (combining barrier iron oxide and passivating zinc chromate), restricts volatile organic solvent content, and details performance tests—including finish texture, rapid curing speeds, and overcoat compatibility—to ensure maximum corrosion protection and durability across India's industrial, automotive, and manufacturing sectors."
+  },
+  "plain_language_image_annotations": {
+    "summary": "The user has provided three images. Images 1 and 2 display a close-up and full view of a digital 'TEMPERATURE' and 'DISPLAY' panel, which corresponds to the heat-monitoring controllers used in laboratory muffle furnaces and industrial stoving ovens to maintain precise thermal curing schedules (e.g., baking paint films at 120°C to 150°C for 30 minutes) [2, 3]. Image 3 shows a detailed technical schematic layout of a sterilizer/autoclave boiler containing labeled components (Main Chamber, Boiler, Steam Release Valve, Safety Valve, Dial Vacuum Pressure Indicator, Pedal Lifting Arrangement, Stop Valve, Water Inlet, Steam Pressure Indicator, Glass Water Level Indicator, Vacuum Pump, and Vacuum Release Valve) utilized in chemical and engineering testing laboratories to perform accelerated moisture-condensation, high-pressure steam, and durability testing on coated metal substrates."
+  },
+  "source_information": {
+    "source_pdf_filename": "2075_2017_reff2022.pdf",
+    "document_version_edition": "Third Revision, May 2017"
+  }
+}

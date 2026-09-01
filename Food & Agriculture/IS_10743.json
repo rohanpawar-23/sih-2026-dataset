@@ -1,0 +1,174 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10743 : 1983",
+    "full_title": "Method for Determination of Centre of Gravity of Agricultural Tractors (कृषि ट्रैक्टरों के गुरुत्व केंद्र के निर्धारण की पद्धति)",
+    "sector_category": "Food and Agriculture / Agricultural Tractors and Power Tillers (approved by the Food and Agriculture Divisional Council and finalized by the Agricultural Tractors and Power Tillers Sectional Committee, FAD 11, of the Bureau of Indian Standards)",
+    "ics_code": "65.060.10",
+    "sectional_committee": {
+      "name": "Agricultural Tractors and Power Tillers Sectional Committee",
+      "number": "FAD 11"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the testing methods, apparatus, and calculation formulas to determine the three-dimensional position (longitudinal, transverse, and vertical/height) of the centre of gravity of agricultural wheeled tractors.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, 1983 (Reaffirmed 2004, 2014, and periodically verified up to the current active status)",
+    "year_first_published": "1983 (technically equivalent to the international standard ISO 789-6:1982)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 10743 : 1983)",
+        "year": "1983"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active Indian amendments have been issued on this reaffirmed copy (NIL on this copy). It incorporates the technical parameters of ISO 789-6:1982 / Amendment 1:1996."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "ISO 789-6",
+      "title": "Agricultural tractors — Test procedures — Part 6: Centre of gravity",
+      "category": "International equivalent",
+      "relevance": "Provides identical test procedures and calculation methods for locating tractor centers of gravity."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 5994 : 2022",
+      "title": "Test Code for Agricultural Tractors (Third Revision)",
+      "category": "Test Code",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "Lays down the comprehensive test schedule for tractors, explicitly listing the determination of the centre of gravity under IS 10743 as a mandatory safety test."
+    },
+    {
+      "is_number": "IS 12061 : 1994",
+      "title": "Agricultural Tractors — Braking Performance — Method of Test (First Revision)",
+      "category": "Testing standard",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "Governs braking efficiency and deceleration, which depend directly on the dynamic load transfer computed from the CG height."
+    },
+    {
+      "is_number": "IS 11859 : 2023",
+      "title": "Agricultural Tractors — Test Procedures — Turning and Clearance Diameters (Second Revision)",
+      "category": "Testing standard",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "A sister FAD 11 tractor testing standard present in the draft list, evaluating turning clearances."
+    },
+    {
+      "is_number": "IS 11442 : 1996",
+      "title": "Agricultural Tractors — Driver’s Field of Vision — Test Procedures",
+      "category": "Testing standard",
+      "location": "Same Sectional Committee FAD 11",
+      "relevance": "A sister FAD 11 tractor standard regulating cabin field-of-vision clearances."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "A fellow food and agriculture standard present in the notebook, regulating pest control and chemical safety limits."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "An associated agricultural planning standard, defining cropping intensities and water budgets."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "Regulates post-flood agricultural damage audits, supporting agricultural cost-benefit analyses."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "Specifies geomembrane linings to prevent water and pest seepage in containment structures."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural processing plants, factories, and safety cabs/protective roll-over structures (ROPS) on tractors."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Test Procedure (Food and Agriculture / Tractors)",
+    "certification_status": "Voluntary/Mandatory under Central Government agricultural testing directives. While IS 10743 is a procedural test code rather than a consumer product, compliance with its testing protocols is legally required for commercial tractor homologation, central and state tractor testing stations (including the Central Farm Machinery Training and Testing Institute - CFMTTI), and is mandatory to obtain national subsidy approvals and roadworthiness certifications.",
+    "requirements": [
+      {
+        "requirement_type": "Tractor State Preparation",
+        "detail": "The tractor must be unladen, in normal running order, with tanks for fuel, coolant, and lubricants fully filled. Tyre inflation pressures must be adjusted to the manufacturer's recommended specifications for normal road work."
+      },
+      {
+        "requirement_type": "Longitudinal Coordinate Calculation",
+        "detail": "Determines the horizontal distance (x) of the center of gravity from the rear axle center line using the horizontal weighing method:\nx = (R_f * L) / W\nwhere R_f = front axle reaction weight on the weighbridge (horizontal), L = tractor wheelbase, and W = total tractor unladen weight."
+      },
+      {
+        "requirement_type": "Transverse Coordinate Calculation",
+        "detail": "Determines the lateral distance (y) of the center of gravity from the longitudinal median plane of the tractor:\ny = [(W_l - W_r) * t] / (2 * W)\nwhere W_l = left-wheel reaction weight, W_r = right-wheel reaction weight, and t = track width of the measured axle."
+      },
+      {
+        "requirement_type": "Vertical Coordinate (CG Height) Method",
+        "detail": "Determines the height of the center of gravity above the ground (h) using the suspension and ground reaction method. This requires tilting the tractor by lifting one axle (typically the front axle) and measuring the change in wheel reaction weights on the weighbridge."
+      },
+      {
+        "requirement_type": "Axle Lift Tilting Angle",
+        "detail": "Mandates that during the axle-lift tilting procedure, the tractor must be raised to an angle (theta) between 20° and 25° to the horizontal. If a 20° lift is impractical or unsafe, a smaller angle is permitted, but it must not be less than 15°."
+      },
+      {
+        "requirement_type": "Static Rear Tire Radius Correction",
+        "detail": "The calculation of center of gravity height from the ground must incorporate and correct for the static loaded radius of the rear tires (the height of the rear axle center line from the horizontal ground surface, r_stat)."
+      },
+      {
+        "requirement_type": "Stability Speed Limit Rule",
+        "detail": "For specialized agricultural machinery (such as straddle tractors with raised chassis), when the ratio of the center of gravity height to the average minimum track width of the axles exceeds 0.90, the maximum design speed is restricted to 30 km/h."
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Observed or calculated values of weights, lengths, angles, and coordinates must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained must match the specified values."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10743 : 1983",
+    "ISO 789-6",
+    "Agricultural Tractors",
+    "Centre of Gravity",
+    "CG Height",
+    "Longitudinal Coordinate",
+    "Transverse Coordinate",
+    "Axle Lift Method",
+    "Weighbridge",
+    "FAD 11",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10743 : 1983 is the national Indian Standard prescribing the methods for determining the centre of gravity of agricultural wheeled tractors. Technically equivalent to the international standard ISO 789-6, it is maintained by the FAD 11 sectional committee. The standard establishes precise, three-dimensional measurement techniques: a horizontal weighing method to calculate the longitudinal (distance from rear axle) and transverse (lateral offset) coordinates of the center of gravity, and an axle-lift tilting method (lifting one end of the tractor by 15° to 25°) to determine its vertical height from the ground, ensuring vehicle stability, safety, and homologation compliance."
+  },
+  "source_information": {
+    "source_pdf_filename": "10743.pdf",
+    "document_version_edition": "First Edition, 1983 (Reaffirmed 2004/2014)"
+  }
+}

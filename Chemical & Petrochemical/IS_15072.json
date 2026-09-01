@@ -1,0 +1,239 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15072 : 2002",
+    "full_title": "Sodium Alpha Olefin Sulphonate for Cosmetic, Detergent and Other Industrial Use — Specification (प्रसाधन सामग्री, अपमार्जक द्रव्य और अन्य औद्योगिक प्रयोजन के लिये सोडियम अल्फा ओलिफिन सल्फोनेट — विशिष्टि)",
+    "sector_category": "Chemical / Soaps and Other Surface Active Agents (approved by the Chemical Division Council and finalized by the Soaps and Other Surface Active Agents Sectional Committee, CHD 25, of the Bureau of Indian Standards)",
+    "ics_code": "71.080.99; 71.100.40; 71.100.70",
+    "sectional_committee": {
+      "name": "Soaps and Other Surface Active Agents Sectional Committee",
+      "number": "CHD 25"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the technical requirements, chemical parameters, active-matter thresholds, analytical testing procedures, and toxicological limits for sodium alpha olefin sulphonate (AOS) used as a high-performance surfactant in cosmetics, household synthetic detergents (liquid, paste, or powder), and other industrial surface-active formulations.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, June 2002 (Reaffirmed 2013 / 2019 / 2024)",
+    "year_first_published": "2002 (originally adopted on 22 February 2002 by the Bureau of Indian Standards)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 15072 : 2002)",
+        "year": "2002"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "This copy incorporates four active Amendment Slips: Amendment No. 1 (October 2007), Amendment No. 2 (September 2008), Amendment No. 3 (March 2015), and Amendment No. 4 (May 2020), which implement critical toxicological corrections and testing method updates."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 286 : 1978",
+      "title": "Methods of sampling and test for soaps (second revision)",
+      "category": "Testing standard",
+      "relevance": "Establishes general precautions, sampling scales, and sample-draw guidelines for surface-active materials."
+    },
+    {
+      "is_number": "IS 321 : 1964",
+      "title": "Specification for absolute alcohol (revised)",
+      "category": "Material standard",
+      "relevance": "Provides chemical specifications for high-purity ethanol utilized in extracting active matters and free olefins."
+    },
+    {
+      "is_number": "IS 1070 : 1992",
+      "title": "Reagent grade water (third revision)",
+      "category": "Material standard",
+      "relevance": "Specifies purity thresholds for distilled water used as an analytical solvent in chromatographic runs and titrations."
+    },
+    {
+      "is_number": "IS 2263 : 1979",
+      "title": "Methods of preparation of indicator solutions (first revision)",
+      "category": "Testing standard",
+      "relevance": "Outlines standard laboratory procedures for preparing phenolphthalein and other pH-sensitive indicator solutions."
+    },
+    {
+      "is_number": "IS 4956 : 1977",
+      "title": "Specification for synthetic detergents for industrial purposes (first revision)",
+      "category": "Product Specification",
+      "relevance": "Provides comparative parameters and testing techniques for evaluating industrial-grade surfactants."
+    },
+    {
+      "is_number": "IS 11601 : 2002",
+      "title": "Methods of safety evaluation of synthetic detergents — Tests for skin irritation and sensitization potential of synthetic detergents",
+      "category": "Safety standard",
+      "relevance": "Prescribes standard in-vivo testing procedures to verify the biological safety and dermal compatibility of synthetic detergent ingredients."
+    },
+    {
+      "is_number": "IS 12795 : 1989",
+      "title": "Specification for linear alkyl benzene",
+      "category": "Product Specification",
+      "relevance": "Defines quality parameters for rival petroleum-derived alkylate feedstocks used in surfactant manufacture."
+    },
+    {
+      "is_number": "IS 13933 : 1995",
+      "title": "Method of test for ready biodegradability of surface active agents (Modified sturm test)",
+      "category": "Testing standard",
+      "relevance": "Prescribes a standard carbon dioxide evolution assay to certify the environmental compatibility and rapid biological breakdown of surfactants."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 13228 : 2006",
+      "title": "Corrugated fibreboard boxes for packing and transportation - Specification",
+      "category": "Product Specification",
+      "location": "Chemical Department / CHD 16",
+      "relevance": "A sister packaging standard present in the notebook, which regulates the shipping cases used to transport consumer-packaged detergents and soaps."
+    },
+    {
+      "is_number": "IS 13565 : 1992",
+      "title": "Method for spectrophotometric determination of nitrite",
+      "category": "Testing standard",
+      "location": "Chemical Department / CHD 01",
+      "relevance": "A fellow chemical analysis standard present in the notebook, utilizing spectrophotometric techniques similar to those outlined for disulphonate and colour testing in IS 15072."
+    },
+    {
+      "is_number": "IS 14164 : 2008",
+      "title": "Industrial application and finishings of thermal insulation materials - Code of practice",
+      "category": "Engineering standard",
+      "location": "Chemical Department / CHD 27",
+      "relevance": "The thermal insulation code used to design and wrap chemical reactor vessels, falling-film sulfonation towers, and piping networks in soap and detergent plants."
+    },
+    {
+      "is_number": "IS 16066 : 2017",
+      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
+      "category": "Food Safety standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Mandates hygiene protocols for food-vending counters, where commercial detergents satisfying IS 15072 must be utilized to sanitarily scrub food-contact utensils."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Food and Agriculture Department (FAD)",
+      "relevance": "Establishes national drinking water standards, ensuring that water used in municipal supplies is free of surfactant runoff contaminants."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design code in India, regulating support framing, reaction vessels, and process piping for chemical plants, surfactant sulfonation towers, and soap mills."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Chemical Department / Soaps and Detergents)",
+    "certification_status": "Voluntary Certification under the Bureau of Indian Standards (BIS). However, manufacturers are highly encouraged to apply for a license to print the prestigious BIS 'Standard Mark' (ISI Mark) on product drums and shipping containers as a certified guarantee of chemical purity and low-sultone safety. This is governed by the Bureau of Indian Standards Act, 1986 and the rules and regulations framed thereunder.",
+    "requirements": [
+      {
+        "requirement_type": "AOS Sizing and Physical Forms",
+        "detail": "Sodium Alpha Olefin Sulphonate (AOS) is classified into three distinct physical forms: Type 1 (Powder or flakes), Type 2 (Paste), and Type 3 (Liquid), each characterized by unique active matter and moisture limits.",
+        "clause_reference": "Clause 3"
+      },
+      {
+        "requirement_type": "Active Ingredient Content",
+        "detail": "Mandates that the active ingredient (percent by mass, minimum) shall be: Type 1 (90 percent), Type 2 (64 percent), and Type 3 (37 percent), quantitatively determined by standard titration.",
+        "clause_reference": "Table 1, Sl No. (i)"
+      },
+      {
+        "requirement_type": "Maximum Moisture Content",
+        "detail": "Moisture content is restricted to a maximum of 3.0 percent by mass for Type 1 (powder or flakes) to maintain physical free-flowing stability and prevent caking.",
+        "clause_reference": "Table 1, Sl No. (ii)"
+      },
+      {
+        "requirement_type": "Free Alpha Olefin Limits",
+        "detail": "Limits unreacted free alpha olefins (percent by mass, maximum) to: Type 1 (3.0 percent), Type 2 (3.0 percent), and Type 3 (1.5 percent), extracted using petroleum ether (boiling range 40°C to 60°C).",
+        "clause_reference": "Table 1, Sl No. (iii)"
+      },
+      {
+        "requirement_type": "Free Alkali Limits (as NaOH)",
+        "detail": "Restricts free alkalinity to: Type 1 (0.5 percent), Type 2 (0.5 percent), and Type 3 (0.2 percent) by mass maximum, to prevent skin irritation.",
+        "clause_reference": "Table 1, Sl No. (iv)"
+      },
+      {
+        "requirement_type": "Colour Sizing - Option A (Klett Colorimeter)",
+        "detail": "Specifies that the colour of a 5 percent active matter solution, matched in a 4-cm cell using a No. 42 filter in a Klett colorimeter, shall not exceed 100 matched slides.",
+        "clause_reference": "Table 1, Sl No. (v)(a) & Annex C"
+      },
+      {
+        "requirement_type": "Colour Sizing - Option B (Lovibond Tintometer)",
+        "detail": "Specifies that the colour of a 5 percent active matter solution, matched in a 5.25 inch cell in a Lovibond tintometer, shall not exceed 12 Lovibond units (expressed as the sum of yellow + five times red slides, Y+5R).",
+        "clause_reference": "Table 1, Sl No. (v)(b) & Annex C"
+      },
+      {
+        "requirement_type": "Amendment No. 4 Color Conjunction",
+        "detail": "Under active Amendment No. 4 (May 2020), Table 1, Sl No. (v), col 2 is updated to insert 'Or' between 'a)' and 'b)' to clarify that either the Klett or Lovibond colour matching method may be utilized.",
+        "clause_reference": "Amendment No. 4"
+      },
+      {
+        "requirement_type": "Maximum Inorganic Salts",
+        "detail": "Restricts total inorganic salts (such as sodium sulphate, determined via alcohol-insoluble residues dried at 105°C) to: Type 1 (6.0 percent), Type 2 (3.0 percent), and Type 3 (3.0 percent) by mass maximum.",
+        "clause_reference": "Table 1, Sl No. (vi) & Annex D"
+      },
+      {
+        "requirement_type": "Maximum Disulphonate Content",
+        "detail": "Restricts disulphonates to a maximum of 6.0 percent (on 100 percent active basis) for all three types, determined by High Performance Liquid Chromatography (HPLC) with a Refractive Index Detector (RID).",
+        "clause_reference": "Table 1, Sl No. (vii) & Annex E"
+      },
+      {
+        "requirement_type": "Gamma Sultone Skin-Sensitizer Limit",
+        "detail": "Under active Amendment No. 1 (October 2007), because gamma sultone is an extremely potent skin sensitizer, its maximum concentration is strictly restricted to 70 ppb (parts per billion) on a 100 percent active basis (substituting 'ppb' in place of the erroneous 'ppm' in Table 1).",
+        "clause_reference": "Table 1, Sl No. (viii) & Amendment No. 1"
+      },
+      {
+        "requirement_type": "Total and Internal Sultones",
+        "detail": "Restricts total sultones to a maximum of 200 ppm and internal (delta) sultones to a maximum of 50 ppm on a 100 percent active basis.",
+        "clause_reference": "Table 1, Sl No. (ix) & (x)"
+      },
+      {
+        "requirement_type": "Biodegradability Conformance",
+        "detail": "Surfactants must achieve rapid biodegradation, passing the standard Modified Sturm Test in accordance with IS 13933.",
+        "clause_reference": "Table 1, Sl No. (xi)"
+      },
+      {
+        "requirement_type": "Skin Sensitization potential Safety Test",
+        "detail": "Under active Amendment No. 3 (March 2015), the material must pass skin irritation and sensitization safety evaluations conducted in accordance with IS 11601 : 2002.",
+        "clause_reference": "Clause 4.2 & Amendment No. 3"
+      },
+      {
+        "requirement_type": "Mandatory 'Caution' Labeling",
+        "detail": "Each package must be legibly and indelibly marked with: name, brand, source of manufacture, net mass, batch number, month/year of manufacture, and the mandatory warning: '(CAUTION: DO NOT USE CHLORINE BLEACH ALONG WITH THIS PRODUCT)' to prevent the formation of highly toxic chlorinated sultones.",
+        "clause_reference": "Clause 5.2"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Observed or calculated test or analytical values must be rounded off mathematically in accordance with IS 2 : 1960 to match the significant places of the specified limits.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15072 : 2002",
+    "Sodium Alpha Olefin Sulphonate",
+    "AOS Surfactant",
+    "Active Matter",
+    "Free Alpha Olefin",
+    "Klett Colorimeter",
+    "Lovibond Tintometer",
+    "Disulphonate",
+    "Gamma Sultone",
+    "Skin Sensitization",
+    "IS 11601 : 2002",
+    "Chlorine Bleach Caution",
+    "CHD 25",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15072 : 2002 is the national Indian Standard specification establishing technical requirements, chemical compositions, and toxicological safety limits for sodium alpha olefin sulphonate (AOS) utilized in cosmetics, synthetic detergents, and industrial surfactant formulations. Maintained under Sectional Committee CHD 25, the standard regulates AOS in powder, paste, and liquid forms, mandating active matter minimums of 90%, 64%, and 37% respectively. Crucial safety updates, including Amendment No. 1, restrict highly toxic skin-sensitizing gamma sultones to a maximum of 70 ppb (parts per billion) and enforce safety evaluations under IS 11601 : 2002. It also mandates a prominent packaging warning against mixing with chlorine bleach to prevent toxic chlorosultone formation."
+  },
+  "source_information": {
+    "source_pdf_filename": "15072_2002_reaff2024_amd4.pdf",
+    "document_version_edition": "First Edition, June 2002 (Amended by Amendments No. 1, 2, 3, and 4)"
+  }
+}

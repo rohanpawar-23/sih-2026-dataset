@@ -1,0 +1,148 @@
+{
+  "basic_identification": {
+    "is_number": "IS 14164 : 2008",
+    "full_title": "Industrial Application and Finishings of Thermal Insulation Materials at Temperatures Above – 80°C and Up to 750°C — Code of Practice (First Revision) (तापमान पर थर्मल इन्सुलेशन सामग्री के औद्योगिक अनुप्रयोग और फिनिशिंग - 80 डिग्री सेल्सियस से ऊपर और 750 डिग्री सेल्सियस तक - अभ्यास संहिता (पहला पुनरीक्षण))",
+    "sector_category": "Chemical / Thermal Insulation (approved by the Chemical Division Council and finalized by the Thermal Insulation Sectional Committee, CHD 27, of the Bureau of Indian Standards)",
+    "ics_code": "27.220",
+    "sectional_committee": {
+      "name": "Thermal Insulation Sectional Committee",
+      "number": "CHD 27"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the methods, application techniques, design guidelines, and finishing requirements for thermal insulation materials applied externally on plant machinery, industrial boilers, vessels, and piping containing fluids at temperatures above -80°C and up to 750°C. It specifically excludes building insulation, land/marine cold storages, and surfaces protected internally by refractory brickwork.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, May 2008 (Reaffirmed 2019 / 2024)",
+    "year_first_published": "1994 (originally published under designator IS 14164 : 1994, which amalgamated and superseded two older standards: IS 7240 : 1981 and IS 7413 : 1981)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 14164 : 1994)",
+        "year": "1994"
+      },
+      {
+        "edition": "First Revision (IS 14164 : 2008)",
+        "year": "2008"
+      }
+    ],
+    "supersedes": "IS 14164 : 1994, IS 7240 : 1981, and IS 7413 : 1981",
+    "superseded_by": "N/A",
+    "amendment_slips": "This copy incorporates active Amendment No. 1 (2011) and Amendment No. 2 (May 2020)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated thermal conductivity, thickness, and area values."
+    },
+    {
+      "is_number": "IS 1070 : 1992",
+      "title": "Reagent grade water (third revision)",
+      "category": "Material standard",
+      "relevance": "Specifies purity criteria for water utilized in mixing analytical chemical primers and slurry solutions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Same Divisional Council",
+      "relevance": "Mandates potability parameters, ensuring that the water utilized in preparing cement finishes, anti-corrosive primers, and wet slurries remains free of impurities."
+    },
+    {
+      "is_number": "IS 4985 : 2021",
+      "title": "Unplasticized PVC Pipes for Potable Water Supplies — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A sister water distribution standard present in the notebook, specifying dimensional limits for potable-water pipelines."
+    },
+    {
+      "is_number": "IS 12254 : 1993",
+      "title": "Polyethylene Water Storage Tanks — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates construction and durability requirements for water tanks holding treated, potable water."
+    },
+    {
+      "is_number": "IS 14360 : 2012",
+      "title": "Semichrome Suede Upper Leather — Specification (First Revision)",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A sister FAD standard present in the notebook, regulating leather thickness and material testing."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates safety audits in chemical, power, and manufacturing plants, explicitly auditing high-temperature pipeline shielding to prevent operator burns."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel construction code in India, regulating support framing, connections, and weldments for boilers, furnaces, and machinery enclosures requiring thermal insulation."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice (Chemical Department / Thermal Insulation)",
+    "certification_status": "Voluntary Code of Practice. Since IS 14164 : 2008 is a code of practice defining construction and application methods rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its design methodologies, material selections, and area measurement formulas is strictly mandated under national energy-efficiency codes (such as BEE), state pollution control board audit guidelines, and commercial plant engineering specifications across India.",
+    "requirements": [
+      {
+        "requirement_type": "Finishing Cement Specifications",
+        "detail": "Under active Amendment No. 2 (May 2020), a new Clause 6.2.5 is inserted: the finishing cement applied over insulation must have a minimum thickness of 10 mm (or as specified) and must be reinforced with wire netting of maximum 20 mm mesh and minimum 0.56 mm wire diameter, or equivalent metal lath to prevent thermal cracking.",
+        "clause_reference": "Page 16, Clause 6.2.5"
+      },
+      {
+        "requirement_type": "Surface Area Measurement Principles",
+        "detail": "Under Clause 9.2.1, a set of diagrammatic and mathematical presentations are defined to calculate the exact surface area of insulated equipment for commercial and work measurement purposes.",
+        "clause_reference": "Page 21-25, Clause 9.2.1"
+      },
+      {
+        "requirement_type": "Dished Head Multiplier Adjustment",
+        "detail": "Under active Amendment No. 2 (May 2020), the work measurement formulas integrate a dynamic multiplier (Y) for spherical, ellipsoidal, or dished heads. The factor Y is defined as Y = 1.27 where the head depth Z is less than D/3, and Y = 1.75 where Z is equal to or greater than D/3, where D represents the outside diameter.",
+        "clause_reference": "Page 21-25, Clause 9.2.1"
+      },
+      {
+        "requirement_type": "Flat and Curved Multipliers",
+        "detail": "Specifies detailed area equations for various configurations: Fig. 13 (CL), Fig. 14 (CL D Y + pi^2 / 4), Fig. 15 and 16 (CL D Y + pi^2 / 2), and Fig. 20 (CL C C L Y + 1/2 m, where Y = 1.2) to map the exact three-dimensional profiles of industrial vessels.",
+        "clause_reference": "Page 21-25, Clause 9.2.1"
+      },
+      {
+        "requirement_type": "Nominal Bore (NB) Caption Correction",
+        "detail": "Under active Amendment No. 2 (May 2020), the caption for Fig. 28 on Page 28 is amended to substitute 'NB >= 50 mm' in place of the erroneous 'NB < 50 mm' to properly categorize pipe size insulation cladding limits.",
+        "clause_reference": "Page 28, Fig. 28"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "To determine compliance with the specifications of this standard, the final observed or calculated value of any physical measurement, thickness, or surface area must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 14164 : 2008",
+    "Thermal Insulation",
+    "Finishing Cement",
+    "Wire Netting",
+    "Work Measurement",
+    "Dished Head",
+    "Y Factor Multiplier",
+    "Nominal Bore",
+    "Pipes and Vessels",
+    "CHD 27",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 14164 : 2008 is the primary national Indian Standard code of practice for the industrial application and finishing of thermal insulation materials on piping and plant equipment. Maintained under the FAD/CHD 27 sectional committee and reaffirmed in 2024, this standard regulates external insulation systems operating from -80°C up to 750°C. Active updates, such as Amendment No. 2 (May 2020), specify protective cladding details—including requiring finishing cements to have a minimum thickness of 10 mm reinforced with 20 mm wire netting to prevent cracking—and incorporate precise geometric formulas and Y-factor multipliers (scaling from 1.27 to 1.75 based on depth ratio Z/D) to calculate insulated surface areas on storage tanks, boilers, and high-pressure steam lines across India."
+  },
+  "source_information": {
+    "source_pdf_filename": "14164a2.pdf",
+    "document_version_edition": "First Revision, May 2008 (Amended by Amendment No. 2, May 2020)"
+  }
+}

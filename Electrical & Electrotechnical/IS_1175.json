@@ -1,0 +1,143 @@
+{
+  "basic_identification": {
+    "is_number": "IS : 1175 - 1981",
+    "full_title": "Methods for Grading and Classification of Muscovite Mica Blocks, Thins and Films (First Revision) (मस्कोवाइट अभ्रक ब्लॉकों, थिन और फिल्मों के ग्रेडिंग और वर्गीकरण के लिए तरीके (पहला पुनरीक्षण))",
+    "sector_category": "Electrotechnical / Mica (finalized by the Mica Sectional Committee, ETDC 9, of the Indian Standards Institution)",
+    "ics_code": "29.035.50; 31.060.70",
+    "udc_code": "621.315.613.1 : 620.168",
+    "sectional_committee": {
+      "name": "Mica Sectional Committee",
+      "number": "ETDC 9"
+    }
+  },
+  "scope": {
+    "summary": "This Indian Standard prescribes the methods for grading and visual classification of muscovite mica blocks, thins, and films based on their size, thickness, and visual quality traits to govern commercial grading, electrical component sorting, and industrial trade.",
+    "clause_number": "Foreword / Clause 1.1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, October 1981 (Reaffirmed 2001, Reaffirmed 2011, Reaffirmed 2016)",
+    "year_first_published": "1957 (adopted by the Indian Standards Institution in 1957 as IS : 1175 - 1957)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS : 1175 - 1957)",
+        "year": "1957"
+      },
+      {
+        "edition": "First Revision (IS : 1175 - 1981)",
+        "year": "1981"
+      }
+    ],
+    "supersedes": "IS : 1175 - 1957",
+    "superseded_by": "N/A",
+    "amendment_slips": "NIL"
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14220 : 2018",
+      "title": "Openwell Submersible Pumpsets — Specification",
+      "category": "Product Specification",
+      "relevance": "Mica-based insulating sheets and thins are widely used in high-temperature slot windings and stator insulations of electric motors to provide dielectric protection."
+    },
+    {
+      "is_number": "IS 11731 (Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
+      "category": "Testing standard",
+      "relevance": "Mica composite parts and barriers used in high-voltage terminals are tested for fire resistance and self-extinguishing behavior under vertical flame tests."
+    },
+    {
+      "is_number": "IS 14489 : 2018",
+      "title": "Code of Practice on Occupational Safety and Health Audit",
+      "category": "Safety Code",
+      "relevance": "Mica splitting, sorting, and grading generate fine respirable mica and silica dust, posing silicosis hazards. Safety audits under IS 14489 monitor dust control, exhaust systems, and respiratory PPE compliance in processing yards."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support steelwork, machine bases, and platforms inside industrial mica-processing and mechanical splitting yards."
+    }
+  ],
+  "allied_subcommittee_representatives": [
+    {
+      "name": "SHRI S. N. PURI (Chairman)",
+      "organization": "Geological Survey of India, Calcutta"
+    },
+    {
+      "name": "SHRI S. P. BHADANI (Member)",
+      "organization": "Chatturam Horilram Pvt Ltd, Jhumri-Telaiya"
+    },
+    {
+      "name": "SHRI D. P. BHADANI (Alternate Member)",
+      "organization": "Chatturam Horilram Pvt Ltd, Jhumri-Telaiya"
+    },
+    {
+      "name": "SHRI BASUDEV BHARATIA (Member)",
+      "organization": "Bihar Mica Exporters Association, Giridih"
+    },
+    {
+      "name": "SHRI N. S. CHAKRABORTY (Alternate Member)",
+      "organization": "Bihar Mica Exporters Association, Giridih"
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Material Grading & Visual Classification Standard (Electrotechnical Department / Mica)",
+    "certification_status": "Voluntary Quality Grading Standard. Muscovite mica blocks, thins, and films are visually graded and sorted in processing yards prior to electrical fabrication or export based on these criteria.",
+    "requirements": [
+      {
+        "requirement_type": "Visual Classification Subjectivity",
+        "detail": "Quality classification is highly subjective, carried out manually by individual workers, and heavily influenced by circumstantial factors such as lighting conditions and the inspector's mood. Thus, the standard can give at best an approximate idea of a particular quality's relative position.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "End-Use Disconnection",
+        "detail": "Visual classification guidelines specified in this standard may or may not have any direct bearings on the actual functional end use of the mica.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Permissibility Legend Symbols",
+        "detail": "Establishes unified symbols to evaluate permissible defect levels: x = Not Permissible, v = Very Slight, p = Permissible, s = Slight, l = Limited Extent, h = Heavy, and Blank Indication = Not Applicable.",
+        "clause_reference": "Grading Tables"
+      },
+      {
+        "requirement_type": "Special Size Grade",
+        "detail": "Classifies the highest-tier commercial block size using the designation '250 / (SPECIAL)'.",
+        "clause_reference": "Size Grading Charts"
+      },
+      {
+        "requirement_type": "Numerical Size Designations",
+        "detail": "Establishes numerical size and thickness grading benchmarks: No. 1 (160 - 10), No. 2 (100), 63, No. 3 (40), No. 4 (5), 5 V, and No. 5 (0.6) to classify structural area and thickness boundaries.",
+        "clause_reference": "Size Grading Charts"
+      }
+    ]
+  },
+  "keywords": [
+    "IS : 1175 - 1981",
+    "Muscovite Mica",
+    "Mica blocks thins films",
+    "Mica Visual Grading",
+    "Mica Sectional Committee",
+    "ETDC 9",
+    "Mica Sorting Subjectivity",
+    "Special Grade 250",
+    "Permissibility Legend Symbols",
+    "Mica Defect Codes",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS : 1175 - 1981 (First Revision) is the primary national Indian Standard specification prescribing methods for the grading and visual classification of Muscovite Mica blocks, thins, and films. Maintained under the Mica Sectional Committee (ETDC 9) and reaffirmed up to 2016, the code unifies size designations (ranging from No. 5 up to the special '250 / (SPECIAL)' grade) and establishes a standard defect permissibility coding system (using symbols like 'x' for not permissible and 'p' for permissible). Due to the natural complexity of mica minerals, the standard acknowledges that quality sorting remains highly subjective—conducted manually by individual workers and influenced by lighting and human factors—offering an approximate, industry-accepted framework for visual commercial grading."
+  },
+  "source_information": {
+    "source_pdf_filename": "1175.pdf",
+    "document_version_edition": "First Revision, October 1981"
+  }
+}
