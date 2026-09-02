@@ -1,5 +1,6 @@
 from pathlib import Path
 import shutil
+import json
 
 base_dir = Path(__file__).resolve().parent
 
@@ -164,3 +165,27 @@ for category, names in category_map.items():
 remaining_old_dirs = sorted(p.name for p in base_dir.iterdir() if p.is_dir() and p.name in old_dirs)
 print(f"Remaining old directories: {remaining_old_dirs}")
 print(f"Expected mapped files: {len(all_mapped_files)}")
+
+# Create one array-based aggregate JSON file inside each category folder.
+for category_dir in sorted(
+    p for p in base_dir.iterdir()
+    if p.is_dir() and not p.name.startswith(".") and p.name not in old_dirs
+):
+    aggregate_path = category_dir / f"{category_dir.name}.json"
+    records = []
+    for file_path in sorted(category_dir.glob("*.json")):
+        if file_path == aggregate_path:
+            continue
+        with file_path.open("r", encoding="utf-8") as file:
+            records.append(json.load(file))
+    if not records:
+        continue
+    with aggregate_path.open("w", encoding="utf-8") as file:
+        json.dump(records, file, ensure_ascii=False, indent=2)
+        file.write("\n")
+    print(f"Created aggregate: {aggregate_path} ({len(records)} records)")
+
+    for file_path in category_dir.glob("*.json"):
+        if file_path != aggregate_path:
+            file_path.unlink()
+    print(f"Removed individual IS files from: {category_dir}")

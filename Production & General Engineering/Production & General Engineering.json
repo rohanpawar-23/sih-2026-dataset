@@ -1,0 +1,3318 @@
+[
+  {
+    "standard": {
+      "is_code": "IS 10238:2001",
+      "title": "Fasteners — Threaded Steel Fasteners — Step Bolts for Steel Structures — Specification (First Revision)",
+      "sector": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories",
+      "ics_code": [
+        "21.060.01"
+      ],
+      "sectional_committee": {
+        "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee",
+        "number": "BP 33"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the material, mechanical, dimensional, manufacture, and test requirements for step bolts used in steel structures, including electrical transmission towers, to gain physical access to the top of the structures.",
+      "scope": "This standard specifies the material, mechanical, dimensional, manufacture, and test requirements for step bolts used in steel structures, including electrical transmission towers, to gain physical access to the top of the structures.",
+      "keywords": [
+        "IS 10238:2001",
+        "Step Bolts",
+        "Transmission Towers",
+        "Product Grade C",
+        "Property Class 4.6",
+        "Cantilever Test Setup",
+        "No Permanent Set",
+        "5 mm Punched Washer",
+        "M16-6g Thread",
+        "Hot-dip Galvanizing",
+        "Sodium Dichromate Passivation",
+        "NN Two Nuts suffix",
+        "Fasteners QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, 2001 (Reaffirmed 2021)",
+      "first_publication_year": 1982,
+      "publication_year": 2001,
+      "revision": "First Revision (prepared to incorporate three older amendments and align specifications with actual field products utilized in transmission line construction)",
+      "revision_history": [
+        "First Edition, 1982",
+        "First Revision (prepared to incorporate three older amendments and align specifications with actual field products utilized in transmission line construction), 2001"
+      ],
+      "supersedes": [
+        "IS 10238 : 1982"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "No active amendments issued since publication on this copy."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1367 (Part 2)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 2) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 3)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1367 (Part 3) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 9/Sec 2)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 9/Sec 2) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 13)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 13) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 17)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 17) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 14394",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 14394 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2016",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2016 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4218",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4218 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4759",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4759 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 6623 : 2004",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 6623 : 2004 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14255 : 1995",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14255 : 1995 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2062 : 2026",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2062 : 2026 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Bolts, Nuts and Fasteners (Quality Control) Order' issued by the Government of India, all step bolts utilized on structural steel masts and transmission towers must conform to IS 10238 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling uncertified step bolts in the Indian market is a statutory offense. Precious metal hallmarking is completely inapplicable to heavy industrial steel fasteners.",
+      "requirements": [
+        "Every step bolt package or batch must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+        "For climbing safety reasons, the maximum total weight of a person—including their personal climbing tools, nuts, tackles, and gear—using these step bolts to ascend must not exceed 150 kg (or 120 kg in early standard drafts).",
+        "Each individual step bolt must be packaged and supplied complete with exactly two matching hexagon nuts.",
+        "The step bolt must belong to Product Grade C as specified in IS 1367 (Part 2), and satisfy property class 4.6 as specified in IS 1367 (Part 3).",
+        "The hexagon nuts supplied with the step bolts must belong to property class 5 and comply with IS 14394.",
+        "The accompanying plain washers must be Type A punched washers conforming to IS 2016, but feature a modified heavy-duty thickness of 5 ± 1 mm.",
+        "The step bolt must feature M16-6g screw threads complying with IS 4218. The thread pitch must be P = 2 mm, with a 2x45° end chamfer, and all edges must be smooth with zero sharp corners to prevent worker injury.",
+        "Permissible surface discontinuities of the step bolts must comply with the strict quality limits of IS 1367 (Part 9/Sec 2).",
+        "The finished step bolts must be hot-dip galvanized in accordance with IS 1367 (Part 13), and the washers galvanized per IS 4759. All dimensional limits specified in the standard apply to the product before galvanizing is executed.",
+        "Immediately after galvanizing, the hot-dip galvanized bolts, nuts, and washers must be passivated by dipping in a 0.15 percent solution of sodium dichromate with 0.5 percent concentrated sulphuric acid maintained at a temperature above 32°C to prevent wet storage strain (white rust).",
+        "To verify climbing safety, the step bolt must be tightly fixed to a structural member via a 16 mm drilled hole with the nuts tightened to the end of the threads, as illustrated in Fig. 2. The assembly must be subjected to a cantilever proof load of 150 kg (specified as 120 kg in some earlier prints) applied for 10 seconds. After unloading and re-applying the load for another 10 seconds, there must be no permanent set observed at the designated measurement point, subject to a measurement error tolerance of 30 µm.",
+        "Sampling, inspection, and acceptance criteria must conform to the standard procedures of IS 1367 (Part 17).",
+        "The step bolts must be designated by size, length, standard number, and the suffix 'NN' indicating two nuts (e.g., 'Step Bolt M16 x 175 NN IS 10238').",
+        "Each step bolt must carry the manufacturer's identification mark and the property class (4.6) marked on the bolt head in accordance with IS 1367 (Part 3)."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "10238_2001_reff2021.pdf",
+      "document_version_edition": "First Revision, 2001 (Reaffirmed 2021)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 10325:2000",
+      "title": "Square Tins — 15 kg/litre for Ghee, Vanaspati, Edible Oils and Bakery Shortenings — Specification (Second Revision)",
+      "sector": "Production and General Engineering / Metal Containers",
+      "ics_code": [
+        "55.140"
+      ],
+      "sectional_committee": {
+        "name": "Metal Containers Sectional Committee",
+        "number": "PGD 38"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies requirements for manufacture, dimensions, capacity, construction, and performance testing of new, plain, internally uncoated square tins of nominal capacity 15 kg or 15 litres. These tins are designed specifically for the hygienic packaging, storage, distribution, and transport of ghee, vanaspati, edible oils, bakery fats, and bakery shortenings.",
+      "scope": "This standard specifies requirements for manufacture, dimensions, capacity, construction, and performance testing of new, plain, internally uncoated square tins of nominal capacity 15 kg or 15 litres. These tins are designed specifically for the hygienic packaging, storage, distribution, and transport of ghee, vanaspati, edible oils, bakery fats, and bakery shortenings.",
+      "keywords": [
+        "IS 10325 : 2000",
+        "Square Tins 15 kg",
+        "Edible Oil Packaging",
+        "Ghee Tins",
+        "Vanaspati Tins",
+        "Bakery Shortenings",
+        "Electrolytic Tinplate",
+        "Double Reduced Tinplate",
+        "Tin Coating E 2.8/2.8",
+        "Double Seam",
+        "Hydraulic Pressure Test",
+        "PGD 38",
+        "Drums and Tins QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "Second Revision, May 2000 (Reaffirmed in 2017, Reaffirmed 2022)",
+      "first_publication_year": 1982,
+      "publication_year": 2000,
+      "revision": "Second Revision (revised to optimize constructional details, establish tinplate and tin coating thickness rules, specify lead-free pure tin solder, and update the hydraulic pressure leak test thresholds to align with the Vegetable Oil Products Control Order)",
+      "revision_history": [
+        "First Edition, 1982",
+        "First Revision, 1989",
+        "Second Revision (revised to optimize constructional details, establish tinplate and tin coating thickness rules, specify lead-free pure tin solder, and update the hydraulic pressure leak test thresholds to align with the Vegetable Oil Products Control Order), 2000"
+      ],
+      "supersedes": [
+        "IS 10325 : 1989"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "No active amendments have been issued on this copy (NIL on this copy)."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1993",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1993 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 13954",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 13954 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 1327",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1327 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 1394",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1394 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3259",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3259 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 10339 : 2000",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10339 : 2000 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 916 : 2000",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 916 : 2000 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 1783 (Part 1)",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1783 (Part 1) as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 13997 : 2014",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 13997 : 2014 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2552 : 1989",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2552 : 1989 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 3575 : 1993",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 3575 : 1993 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": true,
+        "name": "Drums and Tins (Quality Control) Order",
+        "year": 2000
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all 15 kg/litre Square Tins manufactured, imported, distributed, or sold in India for packaging ghee, vanaspati, edible oils, and bakery shortenings must conform to IS 10325:2000 and bear the mandatory BIS Standard Mark (ISI Mark). Enforcement transitioned for medium and large-scale enterprises on April 17, 2024, small enterprises on July 17, 2024, and micro enterprises on October 17, 2024. Manufacturing, importing, or distributing non-certified tins in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial steel/tin packaging.",
+      "requirements": [
+        "Every certified square tin must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 10325) stenciled, printed, or embossed on the tin body or lid.",
+        "Governs square tin containers of nominal capacity 15 kg or 15 litres. Dimensions must satisfy strict tolerances to ensure proper stacking and volumetric accuracy:\na) Length: 235 ± 3 mm;\nb) Width: 235 ± 3 mm;\nc) Height: 325 ± 5 mm (conforms to Fig. 1 of the standard).",
+        "Tins must be fabricated using high-quality prime electrolytic tinplate of specified grades and thicknesses to resist chemical interaction and maintain physical strength:\na) Single cold-reduced electrolytic tinplate: Nominal thickness of 0.28 mm conforming to IS 1993;\nb) Double cold-reduced electrolytic tinplate: Nominal thickness of 0.21 mm conforming to IS 13954.",
+        "The tin coating must conform to Grade E 2.8/2.8 as evaluated by the chemical stripping method of IS 1327, ensuring a uniform protective barrier against corrosion.",
+        "The top and bottom end plates must be attached to the body using leak-proof double-seamed joints along with a food-grade seaming compound resistant to fats and oils. The side body seam must be securely welded (welded side seam) or folded and locked.",
+        "A carry handle manufactured from steel wire (diameter as specified) must be securely spot-welded or attached to the top end to withstand normal lifting and handling stresses without tearing free.",
+        "When intended for packing ghee specifically, the interior of the square tins must be coated with a compatible, non-toxic food-grade lacquer to prevent any off-flavors, rancidity, or chemical reaction.",
+        "To guarantee that the tins are completely leak-proof and can withstand handling pressures, representative sample tins must be subjected to an internal hydraulic pressure test of 30 kPa (0.30 kgf/cm²) for a period of not less than 3 minutes. The tins must show zero signs of leakage, sweating, or joint warping.",
+        "The interior of each finished square tin must be completely clean, dry, bright, and free from any traces of rust, solder flux, scale, or foreign contaminants before filling."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "Not in current notebook sources. Profile compiled from official BIS LIMS and DPIIT QCO publications.",
+      "document_version_edition": "Second Revision, May 2000"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 1058:1993",
+      "title": "Legal Metrology — Commercial Capacity Measures — Specification (Second Revision) (विधिक मापविज्ञान — व्यावसायिक क्षमता माप — विशिष्टि (दूसरा पुनरीक्षण))",
+      "sector": "Light Mechanical Engineering / Commercial Weights and Measures",
+      "ics_code": [
+        "17.060"
+      ],
+      "sectional_committee": {
+        "name": "Commercial Weights and Measures Sectional Committee",
+        "number": "LM 06"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for commercial capacity measures of both cylindrical and conical types used in daily trade transaction to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+      "scope": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for commercial capacity measures of both cylindrical and conical types used in daily trade transaction to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+      "keywords": [
+        "IS 1058 : 1993",
+        "Legal Metrology",
+        "Commercial Capacity Measures",
+        "Cylindrical Dipping Measures",
+        "Cylindrical Pouring Measures",
+        "Conical Capacity Measures",
+        "Nominal dimensions D and H",
+        "Seamless Aluminium Body",
+        "LM 06 Weights and Measures",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "Second Revision, November 1993 (Reaffirmed 2024)",
+      "first_publication_year": 1957,
+      "publication_year": 1993,
+      "revision": "Second Revision (IS 1058 : 1993)",
+      "revision_history": [
+        "First Edition (IS 1058 : 1957), 1957",
+        "First Revision (IS 1058 : 1962), 1962",
+        "Second Revision (IS 1058 : 1993), 1993"
+      ],
+      "supersedes": [
+        "IS 1058 : 1962"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Mandatory Certification under State Legal Metrology Acts and Rules. Manufacturers must possess a valid license to manufacture, and each commercial measure must be physically verified, stamped, or lead-sealed by a State Legal Metrology Inspector to be legally sold or used for trade in India.",
+      "requirements": [
+        "Observed or calculated final test values, dimensional parameters, wall thicknesses, and volumetric capacities must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Standardizes standard dipping cylindrical sizes: 1 litre, 500 ml, 200 ml, 100 ml, 50 ml, and 20 ml.",
+        "Standardizes standard pouring cylindrical sizes: 2 litres, 1 litre, 500 ml, 200 ml, 100 ml, 50 ml, and 20 ml.",
+        "Standardizes standard conical sizes: 20 litres, 10 litres, 5 litres, 2 litres, 1 litre, 500 ml, 200 ml, and 100 ml.",
+        "The body of the cylindrical measures must be manufactured as a single, seamless unit from aluminium sheet of specified wall thickness to eliminate leakage paths.",
+        "Inside Diameter (D) = 120 mm, Height (H) = 180 mm, Handle Length (B) = Max 360 mm / Min 250 mm, Wall Thickness (G) = Min 1.60 mm.",
+        "Inside Diameter (D) = 95 mm, Height (H) = 142 mm, Handle Length (B) = Max 254 mm / Min 210 mm, Wall Thickness (G) = Min 1.60 mm.",
+        "Inside Diameter (D) = 75 mm, Height (H) = 114 mm, Handle Length (B) = Max 224 mm / Min 160 mm, Wall Thickness (G) = Min 1.60 mm.",
+        "Inside Diameter (D) = 55 mm, Height (H) = 83 mm, Handle Length (B) = Max 166 mm / Min 120 mm, Wall Thickness (G) = Min 1.25 mm.",
+        "Inside Diameter (D) = 44 mm, Height (H) = 66 mm, Handle Length (B) = Max 132 mm / Min 100 mm, Wall Thickness (G) = Min 1.25 mm.",
+        "Inside Diameter (D) = 35 mm, Height (H) = 52 mm, Handle Length (B) = Max 104 mm / Min 80 mm, Wall Thickness (G) = Min 1.25 mm.",
+        "Inside Diameter (D) = 26 mm, Height (H) = 38 mm, Handle Length (B) = Max 76 mm / Min 60 mm, Wall Thickness (G) = Min 1.00 mm."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "1058_1993_reaff2024.pdf",
+      "document_version_edition": "Second Revision, November 1993"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 10882:1984",
+      "title": "Specification for Cam Levers (कैम लीवर की विशिष्टि)",
+      "sector": "Production and General Engineering / Machine Tools, Machine Tool Elements, and Holding Devices",
+      "ics_code": [
+        "21.060.10",
+        "25.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Machine Tools, Machine Tool Elements, and Holding Devices Sectional Committee",
+        "number": "PGD 35"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard specifies the physical dimensions, mechanical tolerances, materials, surface finish, and hardness thresholds for cam levers (eccentric clamping levers) used in combination with cam-operated clamps conforming to IS 6090 : 1984.",
+      "scope": "This Indian Standard specifies the physical dimensions, mechanical tolerances, materials, surface finish, and hardness thresholds for cam levers (eccentric clamping levers) used in combination with cam-operated clamps conforming to IS 6090 : 1984.",
+      "keywords": [
+        "IS 10882 : 1984",
+        "Cam Levers Specification",
+        "Cam Operated Clamps IS 6090",
+        "Hardness 680 HV",
+        "Case Hardened Steel",
+        "Eccentricity 1.50 mm",
+        "Pin Hole Diameter 6 mm F7",
+        "Medium Class Tolerances",
+        "PGD 35 Machine Tools",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1984 (Reaffirmed 2022)",
+      "first_publication_year": 1984,
+      "publication_year": 1984,
+      "revision": "First Edition (IS 10882 : 1984)",
+      "revision_history": [
+        "First Edition (IS 10882 : 1984), 1984"
+      ],
+      "supersedes": [
+        "None (Developed as a new dedicated specification for standard cam levers)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 6090 : 1984",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 6090 : 1984 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2102 (Part 1) : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2102 (Part 1) : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 12427 : 2001",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12427 : 2001 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' directly on the product packaging to certify metallurgical, structural, and dimensional conformity.",
+      "requirements": [
+        "Observed or calculated final test values, dimensional parameters, and hardness readings must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Specifies dimensions and other requirements for cam levers to be used with cam operated clamps conforming to IS : 6090 - 1984.",
+        "The lever body must be manufactured from high-grade case-hardened steel featuring a core tensile strength of 600 to 750 N/mm² to prevent shear fractures under rapid manual load cycles.",
+        "The eccentric cam contact face is subjected to intense sliding friction; therefore, the cam portion must be hardened to a minimum surface hardness of 680 HV (Vickers Hardness) to prevent flat-spots or surface pitting.",
+        "Standardizes physical proportions: Eccentricity e = 1.50 mm (clamping range finished to N6); Handle Length l = 63 mm; Pin Hole Diameter d = 6 mm (F7 fit); Width h = 16 mm; Cam Major Radius r = 16 mm; Radius r1 = 7.5 mm; Radius r2 = 8 mm; Head Height h1 = 31 mm (approx); and Thickness t = 6 mm.",
+        "The lever handle must be entirely free from sharp corners, burrs, forge scale, cracks, or parting-line offsets to protect the machine operator from hand cuts.",
+        "Levers must be designated by the name, eccentricity (e), handle length (l), standard number, and material. Example: 'CAM LEVER 3 x 125 IS : 10882 Steel' represents a lever of eccentricity e = 3 mm and handle length l = 125 mm."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "10882_1984_reff2022.pdf",
+      "document_version_edition": "First Edition, 1984"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 1120:1975",
+      "title": "Specification for Coach Screws (First Revision) (कोच स्क्रू (लकड़ी के पेंच) की विशिष्टि)",
+      "sector": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories",
+      "ics_code": [
+        "21.060.10"
+      ],
+      "sectional_committee": {
+        "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee",
+        "number": "PGD 31"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for hexagon head coach screws (also referred to as hexagon head wood screws or lag screws) used in structural timber frameworks, general wood construction, electrical cross-arms, and other civil or railway engineering structures.",
+      "scope": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for hexagon head coach screws (also referred to as hexagon head wood screws or lag screws) used in structural timber frameworks, general wood construction, electrical cross-arms, and other civil or railway engineering structures.",
+      "keywords": [
+        "IS 1120 : 1975",
+        "Coach Screws",
+        "Hexagon Head Wood Screws",
+        "Lag Screws",
+        "IS 451 : 1972 Wood Screws",
+        "Unthreaded Shank Diameter",
+        "Tolerance js16 and js17",
+        "Screw sizes 10 14 18 24 28 32",
+        "PGD 31 Bolts",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, 1975 (Reaffirmed 2025)",
+      "first_publication_year": 1957,
+      "publication_year": 1975,
+      "revision": "First Revision (IS 1120 : 1975)",
+      "revision_history": [
+        "First Edition (IS 1120 : 1957), 1957",
+        "First Revision (IS 1120 : 1975), 1975"
+      ],
+      "supersedes": [
+        "IS 1120 : 1957"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 451 : 1972",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 451 : 1972 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 12427 : 2001",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12427 : 2001 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Certification. Every manufacturer of coach screws is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the packaging, indicating compliance with IS 1120.",
+      "requirements": [
+        "Observed or calculated final test values, dimensional parameters, shank diameters, and head dimensions must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Hexagon head coach screws are designated by the screw number (diameter sizing) and nominal length. Standard sizes covered in the code are Screw No. 10, 14, 18, 24, 28, and 32.",
+        "Specifies nominal, maximum, and minimum diameters for unthreaded shanks: Size 10 (Nom 4.88, Max 5.00, Min 4.72 mm); Size 14 (Nom 6.30, Max 6.43, Min 6.05 mm); Size 18 (Nom 7.72, Max 7.85, Min 7.47 mm); Size 24 (Nom 9.86, Max 9.98, Min 9.00 mm); Size 28 (Nom 11.20, Max 11.40, Min 11.02 mm); Size 32 (Nom 12.70, Max 12.83, Min 12.45 mm).",
+        "Tolerances are strictly specified as: js16 tolerance for head height k when the height is less than 4 mm (k < 4 mm); and js17 tolerance when the height is 10 mm or more (k >= 10 mm).",
+        "Steel coach screws must be manufactured from mild steel or low-carbon steel wire having physical and mechanical properties conforming to IS 451 : 1972.",
+        "Hexagon head coach screws shall be designated by name, screw number, length, standard number, and material. Example: A hexagon head coach screw of Screw No. 10, length 30 mm, made of steel: 'Coach Screw No. 10 x 30 IS : 1120 Steel'.",
+        "In regard to finish, inspection, acceptance, packaging, and marking, the coach screws must conform to the comprehensive requirements laid down in IS 451 : 1972."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "1120_1975_reff2021.pdf",
+      "document_version_edition": "First Revision, 1975"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 11831:1986",
+      "title": "Specification for Jig Foot Bolts (जिग फुट बोल्ट की विशिष्टि)",
+      "sector": "Production and General Engineering / Machine Tools, Machine Tool Elements, and Holding Devices",
+      "ics_code": [
+        "21.060.10",
+        "25.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Machine Tools, Machine Tool Elements, and Holding Devices Sectional Committee",
+        "number": "PGD 35"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the standardized physical dimensions, thread parameters, materials, hardness, and general requirements for jig foot bolts (clamping support and leveling bolts) used in workholding assemblies, jigs, and fixtures. These bolts act as stable legs or feet on the base of drilling jigs or milling fixtures to provide a robust, elevated, and leveled seating surface on machine tool tables, compensating for uneven castings or surface variations.",
+      "scope": "This Indian Standard prescribes the standardized physical dimensions, thread parameters, materials, hardness, and general requirements for jig foot bolts (clamping support and leveling bolts) used in workholding assemblies, jigs, and fixtures. These bolts act as stable legs or feet on the base of drilling jigs or milling fixtures to provide a robust, elevated, and leveled seating surface on machine tool tables, compensating for uneven castings or surface variations.",
+      "keywords": [
+        "IS 11831 : 1986",
+        "Jig Foot Bolts",
+        "Jig Foot Nuts IS 11843",
+        "Medium Carbon Steel",
+        "Property Class 8.8",
+        "ISO Metric Threads 6g",
+        "Leveling Support Bolts",
+        "Black Oxide Finish",
+        "PGD 35 Machine Tools",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1986 (Reaffirmed 2022)",
+      "first_publication_year": 1986,
+      "publication_year": 1986,
+      "revision": "First Edition (IS 11831 : 1986)",
+      "revision_history": [
+        "First Edition (IS 11831 : 1986), 1986"
+      ],
+      "supersedes": [
+        "None (Developed as a dedicated",
+        "standardized dimensional specification to govern jig-type leveling and support bolts)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL (No active amendments have been issued on this copy)"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1367 (Relevant Parts)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Relevant Parts) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2102 (Part 1) : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2102 (Part 1) : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 12427 : 2001",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12427 : 2001 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' directly on the product packaging to certify metallurgical, structural, and dimensional conformity.",
+      "requirements": [
+        "Observed or calculated final test values, thicknesses, angles, and tolerances must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Specifies dimensions and other requirements for jig foot bolts to be used with jigs and fixtures conforming to standard tooling practices.",
+        "The bolt body must be manufactured from high-grade medium carbon steel or low-alloy steel wire featuring mechanical properties conforming to Property Class 8.8 (tensile strength of 800 N/mm² and yield strength of 640 N/mm²) to prevent structural shear.",
+        "The bolt must feature a smooth, uniform black oxide chemical finish (or zinc plating) to resist corrosion from cutting coolants, humidity, and active industrial environments.",
+        "Specifies metric thread sizes (M8, M10, M12, M16, and M20) held to a 6g tolerance class fit to prevent loose play or thread jamming inside tapped holes or matching jig foot nuts (conforming to IS 11843). Lengths typically range from 30 mm to 100 mm.",
+        "Features a radius-head (or flat-head) contact surface with a hexagonal socket drive (allen-drive) or integrated hex collar, allowing toolmakers to adjust heights easily on-site."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "11831_1986_reff2022.pdf",
+      "document_version_edition": "First Edition, 1986"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS : 11943 (Part 9) - 1987",
+      "title": "SPECIFICATION FOR HARD METAL BURRS — PART 9 : 60° AND 90° CONE BURRS (TYPE J AND K)",
+      "sector": "Small Tools Sectional Committee, EDC 45",
+      "ics_code": [
+        "UDC 621.914.28-025.7 [ 669.018.25 ]"
+      ],
+      "sectional_committee": {
+        "name": "Small Tools Sectional Committee",
+        "number": "EDC 45"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard prescribes the dimensions and other requirements of hard metal burrs of 60° cone, Type J and 90° cone, Type K.",
+      "scope": "This standard prescribes the dimensions and other requirements of hard metal burrs of 60° cone, Type J and 90° cone, Type K.",
+      "keywords": [
+        "IS 11943 (Part 9) : 1987",
+        "Hard Metal Burrs",
+        "Type J Burrs",
+        "Type K Burrs",
+        "60 Degree Cone Burrs",
+        "90 Degree Cone Burrs",
+        "EDC 45",
+        "ISO 7755/9",
+        "IS 11943 Part 1",
+        "Technical Supply Conditions",
+        "Calculated Cutting Lengths"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, June 1987 (Adopted March 1987, Reaffirmed 2003)",
+      "first_publication_year": 1987,
+      "publication_year": 1987,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1987"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS : 11943 (Part 1) - 1987",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS : 11943 (Part 1) - 1987 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "ISO 7755/9 - 1984",
+        "relationship_type": "DESIGN_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References ISO 7755/9 - 1984 for design criteria, calculations, or structural details relevant to this standard."
+      },
+      {
+        "target_is_code": "IS : 11943 (Part 1) - 1987",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS : 11943 (Part 1) - 1987 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "ISO 7755/9 - 1984",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to ISO 7755/9 - 1984 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Certification marking details and licensing rules are available directly with the Bureau of Indian Standards.",
+      "requirements": [
+        "Defines two conical profiles based on angular shape (α): Type J representing 60° cone burrs, and Type K representing 90° cone burrs.",
+        "Prescribes standard nominal head diameters (d) as: 3 mm, 6 mm, 10 mm, 12 mm, and 15 mm.",
+        "Establishes calculated cutting length limits (l) in millimetres per nominal diameter (d): \na) For 60° Cone (Type J): d=3 (2.6 mm), d=6 (5.2 mm), d=10 (8.7 mm), d=12 (10.4 mm), d=15 (13.6 mm). \nb) For 90° Cone (Type K): d=3 (1.5 mm), d=6 (1 mm), d=10 (5 mm), d=12 (6 mm), d=15 (8 mm).",
+        "For any mechanical, material, or testing requirements not explicitly covered by this part, the burrs must comply with Part 1 of the standard (typographically printed in Clause 3 as S : 11948 (Part 1) - 1987).",
+        "Requires each burr to be legibly and durably marked with its specific designation code and the manufacturer's name or registered trade-mark."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "11943_9.pdf",
+      "document_version_edition": "First Edition, June 1987 (Reaffirmed 2003)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS : 11961 - 1986",
+      "title": "SPECIFICATION FOR 4-METRE LEVELLING STAFF (TELESCOPIC)",
+      "sector": "Optical and Mathematical Instruments Sectional Committee, EDC 36 / Surveying Instruments Subcommittee, EDC 36 : 3",
+      "ics_code": [
+        "UDC 681.2 : 528.541.1"
+      ],
+      "sectional_committee": {
+        "name": "Optical and Mathematical Instruments Sectional Committee",
+        "number": "EDC 36"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard prescribes the requirements for the 4-m telescopic levelling staff, which is a mechanical device used in tertiary levelling to provide height control for topographical or engineering surveys [1, 2].",
+      "scope": "This standard prescribes the requirements for the 4-m telescopic levelling staff, which is a mechanical device used in tertiary levelling to provide height control for topographical or engineering surveys [1, 2].",
+      "keywords": [
+        "IS 11961 : 1986",
+        "Levelling Staff",
+        "Telescopic Staff",
+        "Surveying Instruments",
+        "Tertiary Levelling",
+        "Timber Seasoning",
+        "Moisture Content",
+        "EDC 36",
+        "Teak Wood",
+        "Bureau of Indian Standards"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, October 1986 (Reaffirmed 2021)",
+      "first_publication_year": 1986,
+      "publication_year": 1986,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1986"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS : 2-1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS : 2-1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS : 7047-1973",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS : 7047-1973 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS : 287-1973",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS : 287-1973 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS : 2-1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS : 2-1960 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS : 7047-1973",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS : 7047-1973 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS : 287-1973",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS : 287-1973 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS [1].",
+      "requirements": [
+        "The staff must consist of three distinct sliding sections. Design tolerances must ensure the top section slides smoothly into the middle section, and the middle section slides into the bottom section [1].",
+        "The staff must be manufactured from one of the following approved seasoned timbers: Teak (Tectona grandis Linn. f.), Cypress (Cupressus torulosa Don.), Kail (Pinus wallichiana A.B. Jacks.), Deodar (Cedrus deodara Loudon), Aini (Artocarpus hirsuta Lamk.), Champ (Michelia sp.), or Hollock (Terminalia myriocarpa) [3].",
+        "The selected timber must be thoroughly seasoned, radially sawn, and completely free from physical defects like knots, cracks, shakes, insect attack, and decay. The moisture content must be strictly maintained within the range of 8 to 12 percent [3].",
+        "The nomenclature, dimensions, and profiles of different assembly parts (including the shoe, bottom cap, middle cap, and top) must conform precisely to Figures 1 to 9 of the standard [2].",
+        "Any observed or calculated test value expressing the result of a test must be rounded off to the same number of significant places as the specified value, in accordance with IS 2 : 1960 [2]."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "11961_1986_reff2021.pdf",
+      "document_version_edition": "First Edition, 1986 (Reaffirmed 2021)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 12427:2001",
+      "title": "Fasteners — Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification (First Revision) [1, 2]",
+      "sector": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories",
+      "ics_code": [
+        "21.060.10 [1",
+        "2]"
+      ],
+      "sectional_committee": {
+        "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee [1]",
+        "number": "BP 33 [1]"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the dimensions, tolerances, materials, and mechanical requirements for hot-dip galvanized hexagon head transmission tower bolts in the size range M12 to M24 [2]. These bolts are intended for use in the construction of electrical transmission towers, electrical sub-stations, and similar steel structures [2]. It explicitly states that these bolts are not suitable for applications requiring improved low-temperature material characteristics [2].",
+      "scope": "This standard specifies the dimensions, tolerances, materials, and mechanical requirements for hot-dip galvanized hexagon head transmission tower bolts in the size range M12 to M24 [2]. These bolts are intended for use in the construction of electrical transmission towers, electrical sub-stations, and similar steel structures [2]. It explicitly states that these bolts are not suitable for applications requiring improved low-temperature material characteristics [2].",
+      "keywords": [
+        "IS 12427:2001",
+        "Transmission Tower Bolts",
+        "Hexagon Head Bolts",
+        "M12 to M24",
+        "Grip Range",
+        "M22 Non-preferred",
+        "Go and Not Go Gauges",
+        "Shear Strength Test",
+        "Hot-dip Galvanizing",
+        "Sodium Bichromate Passivation",
+        "Wet Storage Strain",
+        "BP 33",
+        "Fasteners QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, December 2001 (Reaffirmed 2021) [1]",
+      "first_publication_year": 2001,
+      "publication_year": 2001,
+      "revision": "First Revision [1]",
+      "revision_history": [
+        "First Revision [1], 2001 [1]"
+      ],
+      "supersedes": [
+        "IS 12427 : 1988 [3]."
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "No active amendments are listed in the provided passages [1]."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 4218 (Parts 1 to 4)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4218 (Parts 1 to 4) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2334",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2334 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4759",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4759 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 9/Sec 1)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 9/Sec 1) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 17)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 17) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 3)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 3) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1367 (Part 18)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1367 (Part 18) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10238 : 2001",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10238 : 2001 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 6639 : 1972",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 6639 : 1972 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 6623 : 2004",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 6623 : 2004 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14255 : 1995",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14255 : 1995 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the statutory 'Bolts, Nuts and Fasteners (Quality Control) Order' issued by the Ministry of Commerce and Industry, Government of India, all hexagon head transmission tower bolts must carry the mandatory BIS Standard Mark (ISI Mark) to certify chemical, physical, and mechanical compliance. Manufacturing, importing, distributing, or stocking non-certified structural fasteners in India is a statutory offense. Precious metal hallmarking is completely inapplicable to industrial steel fasteners.",
+      "requirements": [
+        "Every package of transmission tower bolts must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance [5].",
+        "All dimensions specified in Fig. 1 and Table 1 are required to be verified on the bolt prior to the execution of the hot-dip galvanizing process [4].",
+        "Prior to hot-dip galvanizing, the bolt threads must be tested and conform with Go and Not Go threaded ring gauges in accordance with IS 2334 [4].",
+        "The standard specifies nominal thread sizes range from M12 to M24 [2]. Grip ranges (representing the total thickness of the connected material, excluding washers) and length combinations must strictly conform to Table 2 [4, 8]. Size M22 is designated as non-preferred [8].",
+        "To prevent wet storage strain (white rust), galvanized bolts, nuts, and washers must be passivated immediately after galvanizing by dipping in a 0.15 percent solution of sodium dichromate with 0.5 percent concentrated sulphuric acid maintained above 32°C [11].",
+        "During load testing, the mechanical shear loading rate must be controlled between 7 to 13 mm per minute [11]. The maximum shear stress coincident with bolt failure represents the shear strength and must comply with standard property thresholds [11].",
+        "Bolts are designated by nomenclature, thread size, nominal length, standard number, and property class [6]. Suffix N indicates supply with nut, and W indicates supply with plain washer [6]. Examples include: 'Transmission Tower Bolt M16 x 50 N — 5.6 IS 12427' [6] or 'Transmission Tower Bolt M16 x 50 NW — 5.6 IS 12427' [7].",
+        "Each bolt head must carry the property class marking (conforming to IS 1367 Part 3) along with the manufacturer's identification symbol permanently marked on the head [7]."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "12427_2001_reff2021.pdf",
+      "document_version_edition": "First Revision, December 2001 (Reaffirmed 2021) [1]"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 12854:1989",
+      "title": "SPECIFICATION FOR POWER TRANSMISSION — BELTS, ENDLESS FLAT (USED IN LENIX DRIVE SYSTEM)",
+      "sector": "Pulleys and Belts Sectional Committee, LMD 09",
+      "ics_code": [
+        "UDC 621.85.052.41"
+      ],
+      "sectional_committee": {
+        "name": "Pulleys and Belts Sectional Committee",
+        "number": "LMD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard covers the requirements of endless cord lenix flat belts for the use of power transmission in jute machineries like spinning frames, carding machines, drawing frames and softener machines, etc. These belts are also used for machine tools, compressors and pumps. These belts are generally used for fixed centre drives where idler pulleys are utilised for belt tension adjustments, and can also be used for drives where adjustment of centres is available.",
+      "scope": "This standard covers the requirements of endless cord lenix flat belts for the use of power transmission in jute machineries like spinning frames, carding machines, drawing frames and softener machines, etc. These belts are also used for machine tools, compressors and pumps. These belts are generally used for fixed centre drives where idler pulleys are utilised for belt tension adjustments, and can also be used for drives where adjustment of centres is available.",
+      "keywords": [
+        "IS 12854 : 1989",
+        "Endless Flat Belts",
+        "Lenix Drive System",
+        "Power Transmission",
+        "Rayon Cord Reinforced",
+        "Idler Pulley Adjustment",
+        "Tensile Breaking Strength",
+        "Adhesion Test",
+        "Durometer A Hardness",
+        "LMD 09",
+        "IRS.E 39-75",
+        "IS 1370"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, May 1990 (Adopted November 1989, Reaffirmed 2005)",
+      "first_publication_year": 1989,
+      "publication_year": 1989,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1989"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1370 : 1979",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1370 : 1979 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IRS.E 39-75",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IRS.E 39-75 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2-1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2-1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1370 : 1979",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1370 : 1979 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IRS.E 39-75",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IRS.E 39-75 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2-1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2-1960 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Supported by the Bureau of Indian Standards Certification Marking scheme, providing assurance of quality control and manufacturing compliance under the statutory provisions of the BIS.",
+      "requirements": [
+        "Specifies flat endless type belts with round edges manufactured in widths ranging from 25 mm to 300 mm and thickness from 3 mm to 9.5 mm. The length of the belt must indicate the inside circumference only.",
+        "The tension member must consist of cable cord or weftless woven cords. Depending upon the required power rating, the number of layers of the tension member varies from 1 to 6 layers.",
+        "The body consists of two or more layers of rubberised fabric incorporating the cords. The enveloping rubberised fabric is bias cut for joining. The joint must be covered with a thin rubberised fabric breaker strip to strengthen the joint and maintain a uniform belt thickness.",
+        "Enforces a strict nominal hardness of 90° ± 5° (Durometer A). Hardness variations beyond ± 5° significantly impair belt flexibility and drive performance.",
+        "When tested using a 25 mm wide belt with 180 mm jaw separation and reference marks 100 mm apart under specified load, the maximum permissible elongation is limited to 2.5% across all thicknesses: 120 N for 3 mm; 200 N for 5 mm; 300 N for 6.4 mm; and 400 N for 9.5 mm.",
+        "Each belt thickness must withstand a specified minimum rupture force: 1200 N for 3 mm; 2000 N for 5 mm; 4000 N for 6.4 mm; and 10200 N for 9.5 mm.",
+        "The adhesion between different layers of fabric to cord must be a minimum of 22 N per 10 mm width when tested in accordance with Annex C of IS : 1370 - 1979.",
+        "For mechanical testing (breaking strength and elongation), test pieces of 25 mm width and not less than 300 mm length must be cut containing no joints, cut not less than 5 days from manufacture, and conditioned for 3 days at 27 ± 2°C and 65 ± 5% relative humidity."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "12854_1989_reff2021.pdf",
+      "document_version_edition": "First Edition, May 1990 (Reaffirmed 2005)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 12984:1990",
+      "title": "Indian Standard — Proforma for Purchase Specification for Plate Bending Machines",
+      "sector": "Production Engineering / Metal Forming Machines and Tools",
+      "ics_code": [
+        "UDC 621.981.2.004.12"
+      ],
+      "sectional_committee": {
+        "name": "Metal Forming Machines and Tools Sectional Committee",
+        "number": "PE 04"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard lays down the proforma for the preparation of purchase specifications for plate bending machines. It also gives essential information about plate bending machines and their accessories which will enable the user to assess their usefulness and applicability.",
+      "scope": "This standard lays down the proforma for the preparation of purchase specifications for plate bending machines. It also gives essential information about plate bending machines and their accessories which will enable the user to assess their usefulness and applicability.",
+      "keywords": [
+        "IS 12984 : 1990",
+        "Plate Bending Machines",
+        "Purchase Specification Proforma",
+        "Metal Forming Machines",
+        "PE 04",
+        "Geometrical Roll Dimensions",
+        "Sheet Metal Bending Rolls",
+        "DIN 55805",
+        "Accessories Details",
+        "Capacity Chart",
+        "Bidding Comparison"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, March 1990 (Reaffirmed 2011)",
+      "first_publication_year": 1990,
+      "publication_year": 1990,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1990"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 9474 : 1980",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 9474 : 1980 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10988 : 1984",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10988 : 1984 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2062 : 1984",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2062 : 1984 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 4691 : 1985",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4691 : 1985 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 325 : 1978",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 325 : 1978 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "DIN 55805 : 1979",
+        "relationship_type": "DESIGN_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References DIN 55805 : 1979 for design criteria, calculations, or structural details relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 9474 : 1980",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 9474 : 1980 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10988 : 1984",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10988 : 1984 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2062 : 1984",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2062 : 1984 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4691 : 1985",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4691 : 1985 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 325 : 1978",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 325 : 1978 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "DIN 55805 : 1979",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to DIN 55805 : 1979 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Since this document is a purchase proforma designed to collect standard data from machine tool manufacturers, a standard product stamp is not applicable on the form itself. However, sub-components of the machine (such as electrical motors, cables, and structural steels) must conform to their respective standard marking schemes governed by the Bureau of Indian Standards.",
+      "requirements": [
+        "The proforma is structurally formatted to enable buyers to easily collect, organize, and compile uniform engineering data from different manufacturers and suppliers for side-by-side comparison.",
+        "Mandates explicit manufacturer data on geometrical boundaries: top roll diameter, bottom roll diameter, bottom roll centre distance, maximum adjusting range of the top/bottom rolls, and counterbalance method of the top roll (Manual, Mechanical, or Hydraulic).",
+        "Requires declaration of rolling limits: minimum internal diameter of the rolled cylinder, the number of sequential passes required to form a complete cylinder, and standard flat end dimensions.",
+        "Requires suppliers to itemize the supplied standard accessories in detail, as well as define special tooling and structural accessories offered.",
+        "When submitting commercial bids and quotations, the manufacturer/supplier is structurally required to furnish full technical catalogs and the official capacity chart of the machine.",
+        "Requires dimensions of floor space occupied (length and breadth in millimetres) along with the complete net shipping weight of the machine including electrical gear and standard accessories."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "12984_1990_reff2021.pdf",
+      "document_version_edition": "First Edition, 1990 (Reaffirmed 2011)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13040:1991",
+      "title": "Dolly Blocks for Use in Steel Body Repairs — General Requirements",
+      "sector": "Production and General Engineering / Hand Tools",
+      "ics_code": [
+        "ICS 25.140.30"
+      ],
+      "sectional_committee": {
+        "name": "Hand Tools Sectional Committee",
+        "number": "PE 05"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard covers the general requirements for the dolly blocks which are used while working with sheet metal body repairs [1].",
+      "scope": "This standard covers the general requirements for the dolly blocks which are used while working with sheet metal body repairs [1].",
+      "keywords": [
+        "IS 13040 : 1991",
+        "Dolly Blocks",
+        "Body Repair Tools",
+        "Sheet Metal Repairs",
+        "45C8 Carbon Steel",
+        "Hardness 40-52 HRC",
+        "Beading Edge",
+        "Flanging Edge",
+        "ANSI B 173.5",
+        "IS 13093",
+        "PE 05"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1991 (Reaffirmed 2021)",
+      "first_publication_year": 1991,
+      "publication_year": 1991,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1991"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1875 : 1978",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1875 : 1978 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 13093 : 1991",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13093 : 1991 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "ANSI B 173.5-1979",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses ANSI B 173.5-1979 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1875 : 1978",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1875 : 1978 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 13093 : 1991",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 13093 : 1991 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "ANSI B 173.5-1979",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to ANSI B 173.5-1979 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity marking is governed by the Bureau of Indian Standards Act, providing third-party assurance of production quality, inspection, and safety testing.",
+      "requirements": [
+        "Dolly blocks must be hot forged from special quality, fine-grain, hot-rolled carbon steel or alloy steels having good wear and shock-resisting qualities. A recommended suitable example of steel is grade 45C8 of IS 1875 : 1978.",
+        "The finished dolly block must be through-hardened to maintain a strict hardness range between 40 HRC and 52 HRC to prevent surface deformation under impact.",
+        "Dolly blocks are designed for straightening, bumping, shrinking, and finishing sheet metal panels on motor vehicle bodies and fenders. They must never be struck directly with a body repair hammer or any other striking tool.",
+        "Defines and illustrates three primary functional surfaces: the Crown (broad, convex working surface), the Beading Edge (rounded apex used to raise a bead), and the Flanging Edge (approximately right-angle rounded surface used to form a flange).",
+        "Establishes nine standard typical styles: General Purpose Crowned (2A), General Purpose Anvil (2B), General Purpose Rail (2C), Bead Dolly Block (2D), Heel Dolly Block (2E), Toe Dolly Block (2F), Wedge Dolly Block (2G), Shrinking Dolly Block (2H), and Angle Dolly Block (2J) [2].",
+        "Hardness testing must be performed on a fixtured tool or a suitable mounted/unmounted specimen that has been cut using a wet-abrasive or equivalent method to prevent heat-induced annealing or alteration [2].",
+        "To avoid structural fragmentation or physical injury, dolly blocks must not be used to strike hard, hardened, or masonry objects (such as concrete, bricks, chisels, axes, or other steel tools). Safety goggles must be worn by the operator and anyone in the immediate vicinity.",
+        "Dolly blocks must never be ground, welded, or re-heat-treated. They must be inspected regularly, and their use discontinued at the first sign of cracking. Any surface mushrooming caused by tool usage must be promptly redressed to its original contour using a whetstone or file."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13040_1991_reff2021.pdf",
+      "document_version_edition": "First Edition, 1991 (Reaffirmed 2021)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13521:1992",
+      "title": "MARKING SYSTEM FOR DIAMOND/CUBIC BORON NITRIDE ABRASIVE PRODUCTS",
+      "sector": "Production Engineering / Abrasives",
+      "ics_code": [
+        "UDC 621.92.025 : 621-921-34"
+      ],
+      "sectional_committee": {
+        "name": "Abrasive Sectional Committee",
+        "number": "PE 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard covers the system for marking of diamond/cubic boron nitride abrasive products. It does not cover the abrasive bonded products made of alumina or silicon carbide grains, which are covered under separate specifications.",
+      "scope": "This standard covers the system for marking of diamond/cubic boron nitride abrasive products. It does not cover the abrasive bonded products made of alumina or silicon carbide grains, which are covered under separate specifications.",
+      "keywords": [
+        "IS 13521 : 1992",
+        "Marking System",
+        "Bonded Abrasives",
+        "Diamond Products",
+        "Cubic Boron Nitride",
+        "CBN Grinding Wheels",
+        "Abrasive Grain Size",
+        "Bond Type",
+        "PE 09",
+        "Resinoid Bond",
+        "Vitrified Bond",
+        "ANSI B74.13"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, September 1992 (Reaffirmed 2002)",
+      "first_publication_year": 1992,
+      "publication_year": 1992,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1992"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 551 : 1989",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 551 : 1989 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10960 (Part 1) : 1984",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 10960 (Part 1) : 1984 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "ANSI B74.13-1982",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses ANSI B74.13-1982 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 551 : 1989",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 551 : 1989 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10960 (Part 1) : 1984",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10960 (Part 1) : 1984 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "ANSI B74.13-1982",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to ANSI B74.13-1982 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Governed by the Bureau of Indian Standards. It is emphasized that this standard applies solely to standard marking symbols and does not certify the dynamic operating performance of the grinding wheel.",
+      "requirements": [
+        "Grinding wheels sharing identical standard symbols but produced by different manufacturers may behave differently in use. The markings guarantee symbolic uniformity rather than identical dynamic operating performance.",
+        "Allows modified marking systems on smaller grinding wheels (diameters less than 76.2 mm) to conform to historical and practical trading practices followed within the country.",
+        "To guarantee correct replacement supplies, buyers should include both the name of the previous manufacturer and the exact markings printed on the wheel or its supplied tags in their enquiries.",
+        "Defines a systematic, linear marking sequence comprised of nine distinct characteristics (seven mandatory and two optional) arranged in a strict sequence numbered 0 to 8.",
+        "An optional prefix chosen by the manufacturer to indicate the private nature, variation, or origin of the specific abrasive grain. Precedes Sequence 1.",
+        "Specifies strict letter codes to designate the hard abrasive mineral used: 'B' for Cubic Boron Nitride (CBN) and 'D' for Diamond.",
+        "Mandates grain size representation via standard numbers in reference to IS 10960 (Part 1). May optionally be followed by a manufacturer-specific symbol indicating a blend of different grain sizes.",
+        "Indicated by an alphabetical letter code from 'A' to 'Z', where 'A' represents the softest bond grade and 'Z' represents the hardest.",
+        "An optional symbol defining relative grain spacing. Standardises the preferred concentration parameters at values of 50, 75, 100, 120, and 150.",
+        "Specifies mandatory letters to define the structural bond type holding the abrasive grains: 'B' for Resinoid, 'M' for Metal, and 'V' for Vitrified.",
+        "Concludes the standard string with Sequence 6 (Bond modification), Sequence 7 (Abrasive depth), and Sequence 8 (Optional manufacturer's private identification mark)."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13521_1992_reff2020.pdf",
+      "document_version_edition": "First Edition, 1992 (Reaffirmed 2002)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13636:1993",
+      "title": "Pliers and Nippers for Electronics — Technical Supply Conditions",
+      "sector": "Production Engineering / Assembly Hand Tools",
+      "ics_code": [
+        "UDC 621-881-4 [ 621.38 ] : 066.87 [1]"
+      ],
+      "sectional_committee": {
+        "name": "Assembly Hand Tools Sectional Committee",
+        "number": "PE 05 [1]"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the technical supply conditions for pliers and nippers for electronics used manually for gripping and cutting while working on electronic gadgets [2]. It explicitly excludes tools intended for working on live electrical circuits and antistatic applications [2].",
+      "scope": "This standard specifies the technical supply conditions for pliers and nippers for electronics used manually for gripping and cutting while working on electronic gadgets [2]. It explicitly excludes tools intended for working on live electrical circuits and antistatic applications [2].",
+      "keywords": [
+        "IS 13636 : 1993",
+        "Electronic Pliers",
+        "Electronic Nippers",
+        "Assembly Hand Tools",
+        "PE 05",
+        "Tool Steel 65T6",
+        "Hardness 700 HV",
+        "Insulated Handle",
+        "Load Test F8",
+        "Rivet Fit",
+        "IS 13610",
+        "ISO 9656"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, February 1993 (Reaffirmed 2003) [1]",
+      "first_publication_year": 1993,
+      "publication_year": 1993,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1993 [1]"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2155 : 1982",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2155 : 1982 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2500 (Part 1) : 1992",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2500 (Part 1) : 1992 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2615 : 1989",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2615 : 1989 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3749 : 1978",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3749 : 1978 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4412 : 1981",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 4412 : 1981 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 13610 : 1992",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13610 : 1992 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "ISO 9656 : 1989",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses ISO 9656 : 1989 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "ISO 9657 : 1989",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References ISO 9657 : 1989 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2155 : 1982",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2155 : 1982 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2500 (Part 1) : 1992",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2500 (Part 1) : 1992 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2615 : 1989",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2615 : 1989 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 3749 : 1978",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 3749 : 1978 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4412 : 1981",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4412 : 1981 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 13610 : 1992",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 13610 : 1992 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "ISO 9656 : 1989",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to ISO 9656 : 1989 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "ISO 9657 : 1989",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to ISO 9657 : 1989 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing assurance of third-party certified mechanical and testing parameters.",
+      "requirements": [
+        "Tools must be made from high-quality carbon or alloy steels [4]. Suitable tool steel examples conforming to IS 3749 : 1978 include grades 65T6, 70T3, and 75T6 [4]. Rivets must conform to IS 2155 : 1982 [4].",
+        "For insulated variants, sleeves or insulating materials must cover the entire handle including the outer shoulder [4]. Materials must withstand high-voltage insulation tests per Clause 8.5, but the test voltage must not be printed on the tool or insulation [4]. Completed insulation is not a absolute guarantee of safety against subsequent mechanical damage, liquids, or perspiration [4].",
+        "Tools must carry differential heat treatment hardness. The main tool body must hold a hardness of 350 to 510 HV (~35 to 50 HRC) [4]. The wear-intensive cutting edges must be separately hardened to a range of 510 to 700 HV (~50 to 60 HRC) [4].",
+        "Pliers and nippers must be solid forged to shape [4]. Joint rivets must carry an interference fit in one of the tool arms and a free fit in the other, finished completely flush with the surrounding surfaces [4]. Gripping jaws and cutting blades must be hardened and tempered cleanly, and any serrations must be neatly cut to ensure firm gripping [4].",
+        "Requires applying test load F8, calculated per formulae in Tables 2 and 3 [7]. Jaws must grip a 3 mm thick test piece over a length of 2 mm from the tip [7]. The test piece hardness must be between 40 HRC and 40 HRC [7]. Upon load release, the tool must show zero damage affecting its mechanical operation [7].",
+        "Pliers are designated per IS 13610 : 1992 in the following order: shape of nose (end view), shape of nose (longitudinal), presence of serrations, and presence of grooves [6].",
+        "Nippers are designated per IS 13610 : 1992 in the following order: direction and position of cutting edges, type and shape of cutting edges, and the specific field of application [6]."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13636_1993_reff2020.pdf",
+      "document_version_edition": "First Edition, 1993 (Reaffirmed 2003)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13997:2014",
+      "title": "Drums, Large Open Top — Specification",
+      "sector": "Metallurgical Engineering / Metal Containers",
+      "ics_code": [
+        "55.140"
+      ],
+      "sectional_committee": {
+        "name": "Metal Containers Sectional Committee",
+        "number": "MTD 32"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the material, dimensional, constructional, and performance requirements for steel open-top drums of 200 litre (180 kg) nominal capacity featuring a fixed bottom end. It covers drums designed for secure packaging, storage, and transport of bulk chemicals, oils, foodstuffs, and industrial raw materials.",
+      "scope": "This standard specifies the material, dimensional, constructional, and performance requirements for steel open-top drums of 200 litre (180 kg) nominal capacity featuring a fixed bottom end. It covers drums designed for secure packaging, storage, and transport of bulk chemicals, oils, foodstuffs, and industrial raw materials.",
+      "keywords": [
+        "IS 13997 : 2014",
+        "Large Open Top Drums",
+        "Steel Drums 200L",
+        "Grade A Drums",
+        "Grade B Drums",
+        "Sheet Thickness 1.25mm",
+        "Sheet Thickness 1.00mm",
+        "Double Seam",
+        "Spiral Seam",
+        "Closing Ring",
+        "Locking Ring",
+        "Epoxy Lining",
+        "Pneumatic Leakage Test",
+        "MTD 32",
+        "Drums and Tins QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, March 2014 (Reaffirmed 2019, Reaffirmed 2024)",
+      "first_publication_year": 1994,
+      "publication_year": 2014,
+      "revision": "First Revision (reorganized to specify updated sheet thickness tolerances, separate the product into Grade A and Grade B classifications, and refine the geometric tolerances of the closures and rolling hoops)",
+      "revision_history": [
+        "First Edition, 1994",
+        "First Revision (reorganized to specify updated sheet thickness tolerances, separate the product into Grade A and Grade B classifications, and refine the geometric tolerances of the closures and rolling hoops), 2014"
+      ],
+      "supersedes": [
+        "IS 13997 : 1994"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "No active amendments have been issued on this revision copy."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1783 (Part 1) : 2014",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1783 (Part 1) : 2014 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1783 (Part 2) : 2014",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1783 (Part 2) : 2014 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2062 : 2011",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2062 : 2011 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 2062 : 2011",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2062 : 2011 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2002 : 2009",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2002 : 2009 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": true,
+        "name": "Drums and Tins (Quality Control) Order",
+        "year": 2014
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all Large Open Top Drums supplied, sold, or distributed in the Indian market must conform to IS 13997:2014 and carry the mandatory BIS Standard Mark (ISI Mark). Enforcement transitioned for medium/large enterprises on April 17, 2024, small enterprises on July 17, 2024, and micro enterprises on October 17, 2024. Manufacturing, importing, distributing, or selling non-certified drums is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial steel storage drums.",
+      "requirements": [
+        "Every commercial tag or label attached to bundles/coils of copper rods and bars, along with the accompanying test certificate, must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+        "The steel open top drums must satisfy requirements for 200 litre (180 kg) nominal capacity, with a flat bottom end fixed to the cylindrical body.",
+        "Grade A drums must be manufactured from steel sheets of nominal thickness 1.25 mm for both the body and the end plates, with a bottom end seam constructed as either a double seam or a spiral/triple seam, and a full-size removable top lid.",
+        "Grade B drums must be manufactured from thinner steel sheets of nominal thickness 1.00 mm for both the body and the end plates, featuring a bottom end seam constructed as a spiral/triple seam, and a full-size removable top lid.",
+        "If the steel sheet, ends, or closures are not in themselves chemically compatible with the cargo to be filled, a suitable protective lining, lacquer, or epoxy coating must be applied to prevent material degradation and contents contamination.",
+        "The drum body features rolling hoops to facilitate mechanical handling and structural stiffness, with the distance between hoops specified as 280 ± 3 mm.",
+        "The full open top is secured with a closing ring (locking ring) typically fitted with a nut/bolt or fastener lever. The centre-to-centre distance of closures is specified as p1 = 451 ± 1 mm, and the outside diameter over the closing ring is limited to a maximum of 585 mm (except slightly larger over the lever/bolt section).",
+        "Prior to sealing or dispatch, the interior must be completely clean and free from rust, scaling, dust, or any traces of foreign matter.",
+        "To ensure leak-proof performance during storage and transit of chemicals or hazardous liquids, each drum must undergo mandatory pressure leakage testing (such as a pneumatic air leakage test at 0.5 kg/cm² or 0.3 kg/cm² air pressure), ensuring zero bubbles or leakage."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13997.pdf",
+      "document_version_edition": "First Revision, March 2014"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14232:1995",
+      "title": "SHAVING SYSTEMS — CASES FOR BARBERS TOOLS — SPECIFICATION [1]",
+      "sector": "Fasteners for Consumer Goods and Hair Cutting, Shaving, Shearing and Allied Equipments Sectional Committee, LM 15 / Light Mechanical Engineering Division Council [1]",
+      "ics_code": [
+        "UDC 687.53.058.71 : 621-798-12 ( 675.18 ) [1]"
+      ],
+      "sectional_committee": {
+        "name": "Fasteners for Consumer Goods and Hair Cutting, Shaving, Shearing and Allied Equipments Sectional Committee [1]",
+        "number": "LM 15 [1]"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This specification covers the requirements of cases for barbers tools [2].",
+      "scope": "This specification covers the requirements of cases for barbers tools [2].",
+      "keywords": [
+        "IS 14232 : 1995",
+        "Barbers Tools Cases",
+        "Harness Leather Case",
+        "Buckles IS 4274",
+        "Solid Rivets IS 2907",
+        "Random Sampling IS 4905",
+        "AQL 5 Percent",
+        "JSS 7105-18",
+        "LM 15"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, February 1995 (reaffirmed 2000) [1]",
+      "first_publication_year": 1995,
+      "publication_year": 1995,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1995 [1]"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 580 : 1973",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 580 : 1973 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 2907 : 1964",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2907 : 1964 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4274 : 1981",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4274 : 1981 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4905 : 1968",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 4905 : 1968 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 9543 : 1980",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 9543 : 1980 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "JSS 7105-18",
+        "relationship_type": "DESIGN_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References JSS 7105-18 for design criteria, calculations, or structural details relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 580 : 1973",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 580 : 1973 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2907 : 1964",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2907 : 1964 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4274 : 1981",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4274 : 1981 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4905 : 1968",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4905 : 1968 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 9543 : 1980",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 9543 : 1980 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "JSS 7105-18",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to JSS 7105-18 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Governed by the provisions of the Bureau of Indian Standards Act, 1986 and the Rules and Regulations made thereunder [3]. Standard-marked products carry third-party quality assurance [3].",
+      "requirements": [
+        "All components must be made of specified materials: cow/buffalo curried leather (IS 580 : 1973), brass single roller buckles in 16 mm and 25 mm sizes (IS 4274 : 1981), flax-undyed sewing thread (IS 9543 : 1980), tinned copper hose rivets of 3 mm with washers (IS 2907 : 1964), and shoe maker/saddlers wax with softening point 75°C Min, neutral pH, and penetration of 8-15 units [2, 3].",
+        "Cases must conform to the shape and design shown in Figures 1 and 2 [3]. Metallic fasteners must be firmly attached to the leather so that each fastener fits the matching strap cleanly without causing tension or sagging [3].",
+        "Stitching must be uniform, neat, and sound, regulated strictly at 28 to 30 stitches per decimetre [3]. Thread must be 4-cord well-twisted and waxed, with sewing by hook awl method strictly prohibited [3]. Stitching must have even tension, be securely finished off, and have loose ends removed [3].",
+        "The case dimensions must match Figures 1 and 2, with dimensional tolerances specified in the drawings and leather thickness tolerances conforming strictly to IS 580 : 1973 [3].",
+        "Metallic fittings must be free from cracks, seams, scales, burrs, and other defects, with buckle rollers moving freely [3]. Leather edges must be cleanly cut, neatly rubbed, and creased [3]. General workmanship and finish must be good [3].",
+        "Each case must be legibly and indelibly marked with the manufacturer's name or recognized trade-mark, number, and year of manufacture [3]. Standard Mark compliance is governed by BIS licence rules under the BIS Act, 1986 [3].",
+        "Unless otherwise agreed, lots are evaluated based on AQL 5 percent visual plans [3]. Sample size depends on lot size (e.g., up to 50: sample size 28, Ac=0; 501-1200: sample size 80, Ac=1; 1201-3200: sample size 125, Ac=3) [3]. Lots conform only when they meet the acceptance numbers for both Table 1 and Table 2 [3].",
+        "Detailed laboratory testing is governed by Table 2 attribute sampling plans indexed by lot size (e.g., for lot sizes 2-150: major sample size 5, Ac=0; minor sample size 5, Ac=1; for lot sizes 151-500: major sample size 5, Ac=0; minor sample size 8, Ac=2; for lot sizes 1001-3000: major sample size 20, Ac=2; minor sample size 13, Ac=3) [3]."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14232_1995_reaff2023.pdf",
+      "document_version_edition": "First Edition, February 1995 (Reaffirmed 2000) [1]"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14339:1996",
+      "title": "HOROLOGY — WATCH BEZEL AND BACK COVER GAUGES — TECHNICAL SUPPLY CONDITIONS — GENERAL",
+      "sector": "Horology Sectional Committee, LM 23 / Light Mechanical Engineering Division Council [1]",
+      "ics_code": [
+        "ICS 39.040.10",
+        "17.040.30 [1]"
+      ],
+      "sectional_committee": {
+        "name": "Horology Sectional Committee [1]",
+        "number": "LM 23 [1]"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Standard mainly covers the general technical supply conditions of plain and thread gauges to be used in manufacturing of watch bezels and back covers. It also recommends the material to be used in manufacturing and the markings to be provided on the gauges [2].",
+      "scope": "This Standard mainly covers the general technical supply conditions of plain and thread gauges to be used in manufacturing of watch bezels and back covers. It also recommends the material to be used in manufacturing and the markings to be provided on the gauges [2].",
+      "keywords": [
+        "IS 14339 : 1996",
+        "Watch Bezel Gauges",
+        "Back Cover Gauges",
+        "Horology",
+        "LM 23",
+        "XT 215 Cr 12",
+        "700 HV Hardness",
+        "GO and NOT GO Gauges",
+        "IS 14365",
+        "Demagnetisation"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, March 1996 (Reaffirmed 2012) [1]",
+      "first_publication_year": 1996,
+      "publication_year": 1996,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1996"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 14365 : 1996",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 14365 : 1996 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3748 : 1990",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3748 : 1990 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4432 : 1988",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4432 : 1988 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 14365 : 1996",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14365 : 1996 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 3748 : 1990",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 3748 : 1990 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4432 : 1988",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4432 : 1988 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing third-party certified material and testing parameter compliance.",
+      "requirements": [
+        "Requires the material of gauges to be of suitable quality gauge steel capable of retaining dimensions during ageing and heat treatment while remaining wear resistant [3]. Standard steel designations recommended from IS 3748 : 1990 include: \na) XT 215 Cr 12 for plain plug gauges; \nb) T 105 Cr 5 Mn 2 for ring gauges; \nb) T 105 Cr 5 (typographically printed as T1OSCr5) for thread plug gauges; \nc) T 90 V 2 (typographically printed as T9OV2) for thread ring gauges [3, 4].",
+        "Requires materials from IS 4432 : 1988 for manufacturing snap gauges, recommending chemical steel designations: 16 Mn 5 Cr 4 and 20 Mn 5 Cr 5 (typographically printed as 20Mn5CrS) [4].",
+        "The measuring surfaces of all manufactured gauges must carry a minimum hardness of 700 HV (equivalent to approximately 60 HRC) to prevent measurement face wear [4].",
+        "All completed gauges and gauge members must be thoroughly demagnetised after heat treatment to prevent magnetic attraction of debris [4].",
+        "Gauges and gauge members must be well-finished. All sharp corners and edges of measuring surfaces must be broken and free from burrs and defects. In thread gauges, incomplete starting threads must be removed and a blunt start provided [4].",
+        "Whenever grooves or recesses are provided on the gauges for colour coding, they must hold a minimum depth of 0.3 mm and a minimum width of 2 mm, with their bottom corners suitably rounded [4].",
+        "Gauges must be legibly marked or tagged (using an aluminium plate for miniature plug gauges) indicating: \na) Nominal size (per IS 14365); \nb) Class of tolerance with type of deviation and amount of tolerance (plain gauges) or tolerance class (thread gauges only - check plug gauges append 'Tcp' after tolerance class); \nc) The word 'GO' and 'NOT GO' on respective gauges; \nd) Manufacturer's name or trade mark; \ne) Red paint on 'NOT GO' gauges; \nf) 'Check' or 'Wear Check' marked on check plug and wear check plug gauges respectively [4].",
+        "A suitable anti-corrosive coating must be applied on the finished gauges. They must then be wrapped in wax paper and packed inside cardboard, wooden, or plastic boxes [4].",
+        "Any final observed or calculated test or analysis value must be rounded off per IS 2 : 1960 to the same number of significant places as specified in the standard [5]."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14339.pdf",
+      "document_version_edition": "First Edition, March 1996 (Reaffirmed 2012) [1]"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 1434:2026",
+      "title": "Counter Weighing Machines — Specification (First Revision) (काउंटर वजन मशीनें — विशिष्टि (पहला पुनरीक्षण))",
+      "sector": "Mechanical Engineering / Weights and Measures",
+      "ics_code": [
+        "17.100"
+      ],
+      "sectional_committee": {
+        "name": "Weights and Measures Sectional Committee",
+        "number": "PGD 26"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the quality, material, design, construction, accuracy classes, performance limits, and testing specifications for counter weighing machines (historically referred to as counter machines) of capacities up to and including 50 kg. These are equal-arm weighing balances with pans supported above the beam, used extensively in commercial trade transactions to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+      "scope": "This Indian Standard prescribes the quality, material, design, construction, accuracy classes, performance limits, and testing specifications for counter weighing machines (historically referred to as counter machines) of capacities up to and including 50 kg. These are equal-arm weighing balances with pans supported above the beam, used extensively in commercial trade transactions to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+      "keywords": [
+        "IS 1434 : 2026",
+        "Counter Weighing Machines",
+        "Legal Metrology",
+        "Equal-Arm Balances",
+        "Hardened Knife-Edges 60 HRC",
+        "Shift Test Eccentric Loads",
+        "Lead Verification Plug",
+        "Class III Medium Accuracy",
+        "PGD 26 Weights and Measures",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, March 2026 (superseding the classic first edition, IS 1434 : 1959)",
+      "first_publication_year": 1959,
+      "publication_year": 2026,
+      "revision": "First Revision (IS 1434 : 2026)",
+      "revision_history": [
+        "First Edition (IS 1434 : 1959), 1959",
+        "First Revision (IS 1434 : 2026), 2026"
+      ],
+      "supersedes": [
+        "IS 1434 : 1959"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1432 : 1959",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1432 : 1959 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1056 : 2004",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1056 : 2004 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 1058 : 1993",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1058 : 1993 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Mandatory model approval and verification sealing under State Legal Metrology Acts and Rules. Manufacturers must possess a valid model approval license, and each individual machine must be physically verified, tested, and lead-stamped by a State Legal Metrology Inspector to be legally used or sold for trade in India.",
+      "requirements": [
+        "Observed or calculated final test values, dimensional parameters, wall thicknesses, and capacities must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "A counter machine is defined as an equal-arm weighing instrument, of capacity not exceeding 50 kg, the pans of which are supported above the beam on vertical stays to maintain lateral stability.",
+        "Knife-edges and bearings must be manufactured from high-carbon steel, alloy steel, or agate. Hardened steel knife-edges must have a minimum hardness of 60 HRC (700 HV) to prevent blunting under heavy wear.",
+        "When the goods pan is in the form of a scoop, the counter machine must remain within the prescribed limits of error if half the full capacity load is placed against the middle of the back of the scoop and the remaining half is placed at any other position on the scoop.",
+        "When the goods pan is not a scoop, the scale must indicate the same weight within half the prescribed limits of maximum permissible error when a load equal to half the capacity is placed on the goods pan and moved anywhere within a distance from the center equal to one-third of the length of the pan.",
+        "To prevent unauthorized adjustments, each counter machine must carry a conspicuous plug or stud of soft lead. The plug or stud must be undercut or recessed to be irremovable, allowing the State Legal Metrology Inspector to emboss the official year and authority seal."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "1434_2026.pdf",
+      "document_version_edition": "First Revision, March 2026"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14368:1996",
+      "title": "PORTABLE PNEUMATIC WELDFLUX SCALERS — SPECIFICATION",
+      "sector": "Production Engineering / Pneumatic Tools",
+      "ics_code": [
+        "ICS 25.140.10",
+        "25.160.30"
+      ],
+      "sectional_committee": {
+        "name": "Pneumatic Tools Sectional Committee",
+        "number": "PE 08"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard specifies requirements for portable pneumatic weldflux scalers or weld flux chippers used for scaling applications such as removal of weld flux scales, excess metal after welding, and spatter. They are also intended for removing paint, soot, and rust from metal surfaces before welding.",
+      "scope": "This Indian Standard specifies requirements for portable pneumatic weldflux scalers or weld flux chippers used for scaling applications such as removal of weld flux scales, excess metal after welding, and spatter. They are also intended for removing paint, soot, and rust from metal surfaces before welding.",
+      "keywords": [
+        "IS 14368 : 1996",
+        "Pneumatic Weldflux Scalers",
+        "Weld Flux Chipper",
+        "Pneumatic Tools",
+        "PE 08",
+        "Blowing Device",
+        "Air Inlet Strainer",
+        "Rc 1/2 Thread",
+        "IS 554",
+        "IS 12531",
+        "IS 11609"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1996 (Reaffirmed 2001)",
+      "first_publication_year": 1996,
+      "publication_year": 1996,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1996"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 196 : 1966",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 196 : 1966 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 554 : 1985",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 554 : 1985 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1570 (Part 2/Sec 1) : 1979",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1570 (Part 2/Sec 1) : 1979 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 11609 : 1986",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 11609 : 1986 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 12531 : 1988",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 12531 : 1988 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 196 : 1966",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 196 : 1966 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 554 : 1985",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 554 : 1985 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 1570 (Part 2/Sec 1) : 1979",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1570 (Part 2/Sec 1) : 1979 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11609 : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11609 : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 12531 : 1988",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12531 : 1988 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing third-party certified mechanical and testing parameter compliance.",
+      "requirements": [
+        "Defines the tool as a percussive piston mechanism. The potential energy of compressed air acting on a free piston is converted into kinetic energy, driving the piston to strike a scaling chisel to chip off weldflux scales, stone, concrete, bricks, or wood.",
+        "Requires the provision of an air-blowing feature designed to clean up and clear chipped slag, scales, and dust from the active working surface.",
+        "The material must be of uniform quality and completely free of physical defects, scale, seams, or structural imperfections that degrade the tool's functional service life.",
+        "Limits the overall length of the weldflux scaler to a maximum of 300 mm. The recommended nominal mass is 2 kg, holding a strict tolerance of +10% / -0%.",
+        "Enforces that all components requiring lubrication must be securely enclosed within the tool housing to prevent the ingress of abrasive scaling dust and leakage of lubricant.",
+        "Working parts directly exposed to reciprocating wear must hold a sufficient hardness level to withstand heavy, continuous industrial percussive cycles.",
+        "The air inlet nipple must incorporate an integrated mesh air strainer or screen to filter solid particles from the compressed air line. The assembly must be designed to be easily cleanable.",
+        "The air inlet connection must carry precision pipe threads of nominal size Rc 1/2 conforming to the engineering dimensions of IS 554.",
+        "Handles must be manufactured according to the standard ergonomic layouts, grips, and dimensions illustrated in Figure 1 and Figure 2 of the specification."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14368_1996_reff2021.pdf",
+      "document_version_edition": "First Edition, 1996 (Reaffirmed 2001)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 15065:2001",
+      "title": "CARBIDE TIPS FOR USE IN INTEGRAL STEMS FOR PERCUSSIVE DRILLINGS — SPECIFICATION",
+      "sector": "Pneumatic Tools Sectional Committee, BP 08 / Basic and Production Engineering Division Council",
+      "ics_code": [
+        "ICS 25.100.99"
+      ],
+      "sectional_committee": {
+        "name": "Pneumatic Tools Sectional Committee",
+        "number": "BP 08"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the dimensions and requirements of carbide tips in the diameter range from 30 to 40 mm for integral stems for percussive drilling conforming to IS 7913.",
+      "scope": "This standard specifies the dimensions and requirements of carbide tips in the diameter range from 30 to 40 mm for integral stems for percussive drilling conforming to IS 7913.",
+      "keywords": [
+        "IS 15065 : 2001",
+        "Carbide Tips",
+        "Integral Stems",
+        "Percussive Drilling",
+        "BP 08",
+        "Tungsten Carbide Grade T",
+        "Grade XT",
+        "N 12 Surface Finish",
+        "IS 4005",
+        "IS 7913",
+        "Pneumatic Tools"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, December 2001 (Reaffirmed 2021)",
+      "first_publication_year": 2001,
+      "publication_year": 2001,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 2001"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 4005 : 1967",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4005 : 1967 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 7913 : 1975",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 7913 : 1975 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3073 : 1967",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 3073 : 1967 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 12849 : 1989",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 12849 : 1989 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4005 : 1967",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4005 : 1967 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 7913 : 1975",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 7913 : 1975 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 3073 : 1967",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 3073 : 1967 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 12849 : 1989",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12849 : 1989 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme (ISI Mark), with details administered by BIS.",
+      "requirements": [
+        "Carbide tips must be manufactured strictly from tungsten carbide conforming to grade T or XT as specified in IS 4005.",
+        "Establishes eleven nominal diameters ranging from 30 mm to 40 mm (30, 31, 32, 33, 34, 35, 36, 37, 38, 39, and 40 mm). High-precision tolerances on nominal values must strictly comply with Table 2 limits (e.g., length L holding +0.5 / -0.1 mm). Non-preferred sizes for drill rod diameters (24, 24.5, 25, 26, 27, 28, 29, 41, and 42 mm) are explicitly excluded.",
+        "To accommodate various engineering applications, height H is standardly supplied in sizes 17 mm or 19 mm as per the customer's specific requirements.",
+        "The surface finish for ground and sintered surfaces of the tip must be strictly N 12 in accordance with surface evaluation criteria under IS 3073.",
+        "Imposes strict geometric constraints, including a maximum permissible runout/flatness limit of 0.05 mm on designated surfaces.",
+        "Establishes a uniform designation system comprising product name, nominal diameter, thickness, and height. Example: 'Carbide tip IS 15065 – 30 x 9.7 x 17'.",
+        "Requires each packaging container to be clearly marked with the manufacturer's name or trade-mark, standard designation, and material grade.",
+        "Any final observed or calculated test value expressing the result of a test or analysis must be rounded off to the same number of significant places as specified in the standard, in accordance with IS 2 : 1960."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "15065_2001_reff2021.pdf",
+      "document_version_edition": "First Edition, December 2001 (Reaffirmed 2021)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 15243:2002",
+      "title": "VELOCITY SCALE SET FOR METEOROLOGICAL PURPOSES",
+      "sector": "Meteorological Instruments Sectional Committee, BP 21 / Basic and Production Engineering Division Council",
+      "ics_code": [
+        "ICS 07.060"
+      ],
+      "sectional_committee": {
+        "name": "Meteorological Instruments Sectional Committee",
+        "number": "BP 21"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard covers the general and functional requirements of rigid velocity scale sets used for determining the wind speed from the plotted hodograph of the pilot balloon ascents for meteorological purposes.",
+      "scope": "This standard covers the general and functional requirements of rigid velocity scale sets used for determining the wind speed from the plotted hodograph of the pilot balloon ascents for meteorological purposes.",
+      "keywords": [
+        "IS 15243 : 2002",
+        "Velocity Scale Set",
+        "Meteorological Instruments",
+        "Wind Speed Determination",
+        "Pilot Balloon Ascents",
+        "Hodograph Plotting",
+        "Plastic Scale Square",
+        "BP 21",
+        "Bureau of Indian Standards",
+        "Scale Factors",
+        "Graduation Tolerances"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, December 2002 (Reaffirmed 2019)",
+      "first_publication_year": 2002,
+      "publication_year": 2002,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 2002"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4905 : 1968",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 4905 : 1968 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4905 : 1968",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4905 : 1968 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS.",
+      "requirements": [
+        "The velocity set scale shall consist of either 3-scales or a square with its four edges suitably graduated. For 3-scale sets, each individual scale is utilized for different portions of the plotted balloon ascent hodograph based on specific scale factors.",
+        "The first velocity interval of 10 m/s must be marked such that the 10 m/s mark is positioned on the left and the 0 (zero) m/s mark is on the right. Subsequent graduations are provided at every 5 m/s interval.",
+        "Successive graduation marks at 1 m/s and 5 m/s intervals on each scale must have the following precise distances based on the scale factors: \na) Scale Factor 1 cm = 1 km (2 min time interval): 1.2 mm distance for 1 m/s and 6.0 mm distance for 5 m/s; \nb) Scale Factor 2 cm = 1 km (printed as 12cm=lkm / 2 min time interval): 2.4 mm distance for 1 m/s and 12.0 mm distance for 5 m/s; \nc) Scale Factor 4 cm = 1 km (2 min time interval): 4.8 mm distance for 1 m/s and 24.0 mm distance for 5 m/s.",
+        "Prescribes the exact vertical lengths of the engraved graduation lines to ensure clear readability: \na) 1 m/s marks: 5 mm length; \nb) 5 m/s marks: 8 mm length; \nc) 10 m/s marks: 10 mm length.",
+        "Plastic scales must have smooth, even sides and be completely free from blisters, porosity, and structural defects. They must exhibit uniform width and thickness throughout their entire length.",
+        "Metal scales must be manufactured completely free from seams, flaws, scales, burrs, and other physical defects, maintaining a uniform thickness and width throughout.",
+        "The edges of both plastic and metal scales must not deviate from a straight line by more than 0.5 mm at any point. Similarly, their plane surfaces must not vary from a flat plane by more than 0.5 mm."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "15243.pdf",
+      "document_version_edition": "First Edition, December 2002 (Reaffirmed 2019)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 16060:2013",
+      "title": "SOLID CARBIDE PARALLEL SHANK TWIST DRILLS STUB SERIES — SPECIFICATION",
+      "sector": "Cutting Tools Sectional Committee, PGD 32",
+      "ics_code": [
+        "ICS 25.100.30"
+      ],
+      "sectional_committee": {
+        "name": "Cutting Tools Sectional Committee",
+        "number": "PGD 32"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the dimensions, tolerances, and general requirements of solid carbide parallel shank twist drills in the stub series, designed primarily for right-hand cutting applications.",
+      "scope": "This standard specifies the dimensions, tolerances, and general requirements of solid carbide parallel shank twist drills in the stub series, designed primarily for right-hand cutting applications.",
+      "keywords": [
+        "IS 16060 : 2013",
+        "Solid Carbide Drills",
+        "Parallel Shank Twist Drills",
+        "Stub Series",
+        "PGD 32",
+        "Grade K40 Carbide",
+        "Radial Runout 0.02 mm",
+        "Helical Flute",
+        "N6 Surface Finish",
+        "N7 Point Angle",
+        "Bureau of Indian Standards"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, September 2013",
+      "first_publication_year": 2013,
+      "publication_year": 2013,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 2013"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2102 (Part 1) : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2102 (Part 1) : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2102 (Part 1) : 1993",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2102 (Part 1) : 1993 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment and standard licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS under the BIS Act, 1986.",
+      "requirements": [
+        "Twist drills conforming to this standard must be manufactured specifically for right-hand cutting applications.",
+        "Establishes a precise dimensions schedule for twist drill sizes up to 20.00 mm. Sizing parameters dictate exact overall length (l1) and cutting flute length (l2) pairings for each nominal diameter range (d1), including: \na) Diameter 6.70 to 7.50 mm (l1 = 74 mm, l2 = 34 mm); \nb) Diameter 8.50 to 9.50 mm (l1 = 84 mm, l2 = 40 mm); \nc) Diameter 14.00 to 15.00 mm (l1 = 111 mm, l2 = 56 mm); \nd) Diameter 19.00 to 20.00 mm (l1 = 131 mm, l2 = 66 mm).",
+        "Solid carbide twist drills must be designated by the product name, stub series designation, nominal drill diameter, and carbide grade class conforming to this standard. Example: 'Twist Drill 6.00 K40 IS 16060'.",
+        "The dimensional tolerance applied to the overall length (l1) of the finished twist drill must belong to the 'very coarse' grade defined in IS 2102 (Part 1).",
+        "To prevent wobbling and uneven hole sizing during high-speed machining, the tolerance on the radial runout of the twist drill must be held strictly within 0.02 mm.",
+        "Enforces strict limits on the relative lip height tolerance to ensure even cutting force distribution on both lips.",
+        "Specifies standard surface finish values across the different functional zones of the twist drill as illustrated in the technical drawings: \na) N6 roughness grade for the parallel shank diameter (d2) and cutting diameter (d1); \nb) N7 roughness grade for the point angle cutting lips; \nc) N9 roughness grade (with alternative N7 or N6 finishes) inside the helical flutes.",
+        "The product may carry the BIS Standard Mark (ISI Mark). Use is strictly regulated under the statutory provisions of the Bureau of Indian Standards Act, 1986."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "16060.pdf",
+      "document_version_edition": "First Edition, September 2013"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 16136:2013",
+      "title": "SOLID CARBIDE END MILLS WITH CONTINUOUS PARALLEL SHANK — SPECIFICATION",
+      "sector": "Cutting Tools Sectional Committee, PGD 32",
+      "ics_code": [
+        "ICS 25.100.20"
+      ],
+      "sectional_committee": {
+        "name": "Cutting Tools Sectional Committee",
+        "number": "PGD 32"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the dimensions of solid carbide end mills with continuous parallel shank.",
+      "scope": "This standard specifies the dimensions of solid carbide end mills with continuous parallel shank.",
+      "keywords": [
+        "IS 16136 : 2013",
+        "Solid Carbide End Mills",
+        "Continuous Parallel Shank",
+        "Cutting Tools",
+        "PGD 32",
+        "Grade K40 Carbide",
+        "Chip Removal Group P",
+        "Chip Removal Group K",
+        "IS 2428",
+        "IS 919",
+        "N6 Surface Finish",
+        "Bureau of Indian Standards"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, December 2013",
+      "first_publication_year": 2013,
+      "publication_year": 2013,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 2013"
+      ],
+      "supersedes": [],
+      "amendments": []
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2428",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2428 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 919 (Part 2)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 919 (Part 2) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2428",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2428 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 919 (Part 2)",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 919 (Part 2) as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with details administered directly by BIS under the BIS Act, 1986.",
+      "requirements": [
+        "Establishes a precise dimensions schedule for solid carbide end mills up to 20.00 mm. For each cutting diameter range (d1), continuous parallel shanks require identical shank diameters (d2) paired with short or long flute lengths (L2), overall length (L1), and gripping length (L3): \na) Diameter 16.0 mm: Short series flute L2 = 26 mm / Long series flute L2 = 32 mm, L1 = 92 mm, L3 = 48 mm; \nb) Diameter 18.0 mm: Short series flute L2 = 26 mm / Long series flute L2 = 32 mm, L1 = 92 mm, L3 = 48 mm; \nc) Diameter 20.0 mm: Short series flute L2 = 32 mm / Long series flute L2 = 38 mm, L1 = 104 mm, L3 = 50 mm.",
+        "The raw solid carbide material must belong to chip removal group P or K in accordance with IS 2428. The specific application group and grade class (such as K40) are chosen at the manufacturer's discretion or subject to agreement.",
+        "End mills are designated by name, nominal cutting diameter, number of flutes (Z), carbide grade class, and the standard number. Example: 'End Mill 6.00 Z4 K40 IS 16136'.",
+        "Tolerances on both cutting diameters (d1) and shank diameters (d2) must conform strictly to standard ISO limits specified in IS 919 (Part 2).",
+        "Imposes strict upper limits on flute lengths (L2) to prevent excessive overhang: \na) Up to and including 10 mm: +1.0 / 0 mm; \nb) Over 10 mm up to and including 22 mm: +1.5 / 0 mm; \nc) Over 22 mm: +2.0 / 0 mm.",
+        "Unless otherwise specified, end mills must be supplied with a right-hand helix combined with a right-hand cutting direction.",
+        "End mills with non-standard intermediate cutting diameters may be supplied subject to prior agreement between the manufacturer and the purchaser.",
+        "Specifies standard surface finish values across the different functional zones of the end mill as illustrated in the technical drawings: \na) N6 roughness grade for the active outer cutting teeth/flutes (d1) and the parallel shank (d2); \nb) N9 roughness grade (with alternative N6 finish) inside the neck or clearance recess region between the helical flutes and the shank."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "16136.pdf",
+      "document_version_edition": "First Edition, December 2013"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 2164:1961",
+      "title": "Method for Calculation of Bulk Quantities of Petroleum and Liquid Petroleum Products (पेट्रोलियम और तरल पेट्रोलियम उत्पादों की थोक मात्रा की गणना की विधि)",
+      "sector": "Chemical / Petroleum Measurements",
+      "ics_code": [
+        "17.060",
+        "75.180.30"
+      ],
+      "sectional_committee": {
+        "name": "Weights and Measures Sectional Committee",
+        "number": "PGD 26"
+      },
+      "standard_type": "CODE_OF_PRACTICE",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the standardized procedures, mathematical equations, temperature correction factors, and density-conversion coefficients used to calculate the bulk quantities (volumes and weights) of petroleum and liquid petroleum products stored in large bulk carrier tanks, stationary vertical storage tanks, or ship holds. It unifies calculation methods to provide the maximum possible accuracy in final calculated quantities compatible with the precision of physical measurements.",
+      "scope": "This Indian Standard prescribes the standardized procedures, mathematical equations, temperature correction factors, and density-conversion coefficients used to calculate the bulk quantities (volumes and weights) of petroleum and liquid petroleum products stored in large bulk carrier tanks, stationary vertical storage tanks, or ship holds. It unifies calculation methods to provide the maximum possible accuracy in final calculated quantities compatible with the precision of physical measurements.",
+      "keywords": [
+        "IS 2164 : 1961",
+        "Calculation of Bulk Quantities",
+        "Petroleum Products Volumes",
+        "Non-Petroleum Correction Coefficients",
+        "Density at 15 deg C",
+        "IS 1519 Temperature Measurements",
+        "IS 1448 Density P-16",
+        "Appendix E Petroleum Blends",
+        "Appendix F Organic Solvents",
+        "PGD 26 Weights and Measures",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, June 1961 (Reaffirmed 2024, previous reaffirmations in 2002, 2013, 2018)",
+      "first_publication_year": 1961,
+      "publication_year": 1961,
+      "revision": "First Edition (IS 2164 : 1961)",
+      "revision_history": [
+        "First Edition (IS 2164 : 1961), 1961"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone code to standardize bulk liquid petroleum calculations across the Indian oil and chemical sector)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1519 (Part I) : 1961",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1519 (Part I) : 1961 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1448 (Part I) : 1960 (P:16)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1448 (Part I) : 1960 (P:16) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960 (or IS 2 : 2022)",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 (or IS 2 : 2022) for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 1058 : 1993",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1058 : 1993 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 1434 : 2026",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1434 : 2026 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Code of Practice. However, under state distribution and legal metrology rules, central university petroleum research labs, oil public sector undertakings (PSUs), and customs calibration systems, newly designed fuel terminal systems are audited and verified to comply with the bulk density and temperature correction coefficients specified under IS 2164.",
+      "requirements": [
+        "Observed or calculated final test values, densities, temperatures, and volumes must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "The calculation method is explicitly optimized to ensure maximum possible accuracy in the final calculated quantities compatible with the precision of the physical measurements, utilizing standard calibration tables.",
+        "Accepted oil temperature must be substantially correct and obtained in accordance with the standard guidelines and precautions laid down in IS 1519 (Part I) : 1961.",
+        "All product densities must be determined strictly in accordance with standard hydrometer or pycnometer test methods laid down in P:16 of IS 1448 (Part I) : 1960.",
+        "Appendix E prescribes the volume correction coefficients per °C of petroleum products, to be used only for blends of petroleum with non-petroleum products based on standard density at 15°C (kg/l) (e.g. 0.5994 to 0.6022 kg/l uses 0.00173; 0.7416 to 0.7468 kg/l uses 0.00110; 1.0753 to 1.1249 kg/l uses 0.00058).",
+        "Appendix F defines standard coefficients for organic chemicals and solvents per °C (e.g. Benzene: 0.00124; Toluole: 0.00104; Xylole: 0.00100; Creosote oil: 0.00073; Coal tar: 0.00054; Methyl alcohol: 0.00118; Ethyl alcohol: 0.00108)."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "2164_1961_reaff2024.pdf",
+      "document_version_edition": "First Edition, 1961"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 2669:1971",
+      "title": "Specification for Woodruff Keyslot Milling Cutters with Parallel Shank (First Revision) (पैरेलल शंक वाले वुड्रफ की-स्लॉट मिलिंग कटर की विशिष्टि (पहला पुनरीक्षण))",
+      "sector": "Production and General Engineering / Cutting Tools",
+      "ics_code": [
+        "25.100.20"
+      ],
+      "sectional_committee": {
+        "name": "Cutting Tools Sectional Committee",
+        "number": "PGD 32"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "SUPERSEDED",
+      "description": "This Indian Standard prescribes the standardized physical dimensions, tolerances, materials, and testing requirements for woodruff keyslot milling cutters integral with parallel shanks (Type A with straight teeth), designed specifically for machining precise semi-circular keyslots or seatings in rotating shafts to accommodate standard Woodruff keys.",
+      "scope": "This Indian Standard prescribes the standardized physical dimensions, tolerances, materials, and testing requirements for woodruff keyslot milling cutters integral with parallel shanks (Type A with straight teeth), designed specifically for machining precise semi-circular keyslots or seatings in rotating shafts to accommodate standard Woodruff keys.",
+      "keywords": [
+        "IS 2669 : 1971",
+        "Woodruff Keyslot Milling Cutters",
+        "Parallel Shank Splicing",
+        "Type A Straight Teeth",
+        "Diameter h11 and Width e8",
+        "Shank Diameter h8",
+        "Hollow-Ground Side Relief",
+        "HSS Material Grade M2",
+        "Hardness 62 to 65 HRC",
+        "PGD 32 Cutting Tools",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, 1971 (Reaffirmed 2025)",
+      "first_publication_year": 1964,
+      "publication_year": 2013,
+      "revision": "Second Revision (IS 2669 : 2013 / ISO 12197:1996)",
+      "revision_history": [
+        "First Edition (IS 2669 : 1964), 1964",
+        "First Revision (IS 2669 : 1971), 1971",
+        "Second Revision (IS 2669 : 2013 / ISO 12197:1996), 2013"
+      ],
+      "supersedes": [
+        "IS 2669 : 1964"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2294 : 1980",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2294 : 1980 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1830 : 1982",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1830 : 1982 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 7291 : 1981",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 7291 : 1981 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 12427 : 2001",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12427 : 2001 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Certification. Every manufacturer of Woodruff keyslot cutters is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the packaging, indicating compliance with IS 2669.",
+      "requirements": [
+        "Observed or calculated final test values, dimensional parameters, thicknesses, and tolerances must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Cutters are specified by the nominal diameter (d1) and nominal width (b), such as 10.5 mm diameter (widths 2.0, 2.5, 3.0), 16.5 mm diameter (widths 3.0, 4.0, 5.0), and up to 32.5 mm diameter (widths 8.0, 10.0), matching standard keys to IS 2294.",
+        "Tolerances on the nominal cutter diameter (d1) are held to h11 limits to prevent loose keyslots or key wobble in operation.",
+        "Tolerances on the cutter width (b) must conform to e8 limits to maintain exact lateral clearance of the Woodruff key inside the machined seat.",
+        "Shank diameter (d2) tolerances are strictly specified as h8 (or h6) to ensure a snug, concentric slip-fit inside the machine spindle chuck, minimizing tool runout.",
+        "The sides of the cutter must be hollow-ground to a slight concave depth to provide side relief, preventing friction heat and galling against the keyslot walls during deep plunge cutting.",
+        "High-Speed Steel cutters must have cutting teeth hardened and tempered to a minimum hardness of 62 to 65 HRC. The parallel shank portion must have a hardness of not less than 30 to 50 HRC to prevent scratching from the chuck.",
+        "Woodruff cutters are designated by name, diameter, width, standard number, and material. Example: A woodruff keyslot milling cutter of diameter d1 = 19.5 mm and width b = 5.0 mm, made of HSS and featuring Type A straight teeth: 'Woodruff Keyslot Cutter 19.5 x 5.0 IS : 2669 HSS'."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "2669.pdf",
+      "document_version_edition": "First Revision, 1971 (Reaffirmed 2025)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 6255:2013",
+      "title": "Inverse Dovetail Cutters and Dovetail Cutters with Cylindrical Shanks (Third Revision) (बेलनाकार शैंक युक्त डोवटेल कटर्स और प्रतिलोम (इन्वर्स) डोवटेल कटर्स (तीसरा पुनरीक्षण))",
+      "sector": "Production and General Engineering / Cutting Tools",
+      "ics_code": [
+        "25.100.20"
+      ],
+      "sectional_committee": {
+        "name": "Cutting Tools Sectional Committee",
+        "number": "PGD 32"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard specifies the dimensions, tolerances, shank configurations, and general requirements of inverse dovetail cutters and dovetail cutters with plain cylindrical shanks, flatted cylindrical shanks, and threaded shanks. It applies strictly to 45° and 60° dovetail cutters and inverse dovetail cutters with major cutting diameters from 16 mm to 31.5 mm.",
+      "scope": "This Indian Standard specifies the dimensions, tolerances, shank configurations, and general requirements of inverse dovetail cutters and dovetail cutters with plain cylindrical shanks, flatted cylindrical shanks, and threaded shanks. It applies strictly to 45° and 60° dovetail cutters and inverse dovetail cutters with major cutting diameters from 16 mm to 31.5 mm.",
+      "keywords": [
+        "IS 6255 : 2013",
+        "Inverse Dovetail Cutters",
+        "Dovetail Cutters",
+        "Cylindrical Shanks",
+        "Plain Flatted Threaded Shanks",
+        "h8 and h6 tolerances",
+        "Angle tolerance 30 minutes",
+        "Major diameter d2 js16",
+        "Cutting Tools PGD 32",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "Third Revision, December 2013 (Reaffirmed 2018)",
+      "first_publication_year": 1971,
+      "publication_year": 2013,
+      "revision": "Third Revision (IS 6255 : 2013 / ISO 3859 : 2000)",
+      "revision_history": [
+        "First Edition (IS 6255 : 1971), 1971",
+        "First Revision (IS 6255 : 1995), 1995",
+        "Third Revision (IS 6255 : 2013 / ISO 3859 : 2000), 2013"
+      ],
+      "supersedes": [
+        "IS 6255 : 1995"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8692 (Part 1 to 3)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8692 (Part 1 to 3) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1830 : 1982",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1830 : 1982 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 12427 : 2001",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 12427 : 2001 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14353 : 1996",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14353 : 1996 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Certification. Every manufacturer of dovetail cutters is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the packaging, indicating compliance with IS 6255.",
+      "requirements": [
+        "Observed or calculated final test values, thicknesses, angles, and tolerances must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Applies strictly to 45° and 60° dovetail cutters and inverse dovetail cutters.",
+        "Specifies major cutter head diameter (d2) held to js16 limits to ensure dimensional accuracy in dovetail groove profiles.",
+        "The nominal angles of 45° and 60° are held to a tight tolerance of ±30'.",
+        "Shank diameters d1 are held to: h8 for plain cylindrical shanks, h6 for flatted cylindrical shanks, and h8 for threaded shanks.",
+        "Standardizes dimensions for 45° cutters: d2=16 (l1=4, l2=60, d1=12); d2=20 (l1=5, l2=63, d1=12); d2=25 (l1=6.3, l2=67, d1=12); d2=31.5 (l1=8, l2=71, d1=16) in millimetres.",
+        "Standardizes dimensions for 60° cutters: d2=16 (l1=6.3, l2=60, d1=12); d2=20 (l1=8, l2=63, d1=12); d2=25 (l1=10, l2=67, d1=12); d2=31.5 (l1=12.5, l2=71, d1=16) in millimetres."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "6255.pdf",
+      "document_version_edition": "Third Revision, December 2013"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 6623:2004",
+      "title": "High Strength Structural Nuts — Specification (Second Revision)",
+      "sector": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories",
+      "ics_code": [
+        "21.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee",
+        "number": "PGD 31"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the material composition, mechanical properties, dimensions, tolerances, threads, testing procedures, and finish requirements for large-series hexagon, high-strength structural nuts in property classes 8S and 10S. These nuts are designed for use in high-stress structural joints—such as bridges, high-rise buildings, and heavy machinery—paired with high-strength structural bolts (IS 3757) and hardened washers (IS 6649) to ensure slip-critical/friction-grip connection performance.",
+      "scope": "This standard specifies the material composition, mechanical properties, dimensions, tolerances, threads, testing procedures, and finish requirements for large-series hexagon, high-strength structural nuts in property classes 8S and 10S. These nuts are designed for use in high-stress structural joints—such as bridges, high-rise buildings, and heavy machinery—paired with high-strength structural bolts (IS 3757) and hardened washers (IS 6649) to ensure slip-critical/friction-grip connection performance.",
+      "keywords": [
+        "IS 6623 : 2004",
+        "High Strength Nuts",
+        "Structural Fasteners",
+        "HSFG connections",
+        "Friction Grip Joints",
+        "Property Class 8S",
+        "Property Class 10S",
+        "M22 flats dimension",
+        "Proof Load Test",
+        "6H thread tolerance",
+        "PGD 31",
+        "Steel Quality Control Order",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "Second Revision, 2004 (incorporating Amendment No. 1, August 2020)",
+      "first_publication_year": 1972,
+      "publication_year": 2004,
+      "revision": "Second Revision (updated dimensions, thread tolerances, and testing alignments with ISO standards)",
+      "revision_history": [
+        "First Edition, 1972",
+        "First Revision, 1985",
+        "Second Revision (updated dimensions, thread tolerances, and testing alignments with ISO standards), 2004"
+      ],
+      "supersedes": [
+        "IS 6623 : 1985"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": "2020-08",
+          "summary": "Modifies the dimensional requirements of the nuts under Table 1, specifically substituting the width across flats values for size M22 (Sl No. ix, Col 6) to establish a strict maximum limit of 36.0 mm and a minimum limit of 35.0 mm to ensure absolute compatibility with standard structural wrenching tools [1]."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1367 (Part 6) : 2018",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1367 (Part 6) : 2018 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 4218 (series)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4218 (series) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2614 : 1969",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2614 : 1969 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 2022",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 3757 : 1985",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 3757 : 1985 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 6649 : 1985",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 6649 : 1985 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 4000 : 1992",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 4000 : 1992 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all high-strength structural nuts manufactured, imported, distributed, or sold in India must conform to IS 6623 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified structural fasteners is a legal offense. Precious metal hallmarking is completely inapplicable to heavy-duty high-tensile steel fasteners.",
+      "requirements": [
+        "Every structural nut or its packaging box must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
+        "Nuts must be supplied in designated property classes 8S or 10S (conforming to IS 1367 Part 6). Class 8S nuts are specified for property class 8.8S structural bolts, and Class 10S nuts are specified for property class 10.9S structural bolts to ensure that thread stripping does not occur during tightening.",
+        "The proof load capacity of the nut must be designed to be greater than the ultimate tensile strength of its matching bolt. This ensures that in case of overload, the bolt will fail in tension (a ductile, predictable failure) rather than the nut stripping its threads (which causes sudden, catastrophic joint release).",
+        "The nut threads must be ISO Metric coarse pitch conforming to IS 4218, and must be manufactured to a strict tolerance class of 6H to ensure consistent thread engagement and ease of assembly.",
+        "The standard covers a diameter range of M16 to M36. The standard thread pitches are: M16 (2.0 mm), M20 (2.5 mm), M22 (2.5 mm), M24 (3.0 mm), M27 (3.0 mm), M30 (3.5 mm), and M36 (4.0 mm).",
+        "Under Table 1, the width across flats dimension for size M22 (Sl No. ix, Col 6) must comply with a maximum value of 36.0 mm and a minimum value of 35.0 mm [1].",
+        "The height of the nut (h) must be controlled to prevent thread failure: M16 (16.40 to 17.10 mm), M20 (19.40 to 20.70 mm), M22 (22.30 to 23.60 mm), M24 (22.90 to 24.20 mm), M27 (26.30 to 27.60 mm), M30 (29.10 to 30.70 mm), and M36 (35.00 to 36.60 mm).",
+        "Each nut size must withstand specified proof load testing: \na) Class 8S: M16 (168.9 kN), M20 (263.4 kN), M22 (325.7 kN), M24 (379.5 kN), M27 (403.4 kN), M30 (603.1 kN), M36 (878.3 kN); \nb) Class 10S: M16 (195.5 kN), M20 (305.0 kN), M22 (377.0 kN), M24 (439.0 kN), M27 (467.0 kN), M30 (698.0 kN), M36 (1016.0 kN).",
+        "Nuts can be supplied in three standard finishes depending on environmental exposure: dull black (self-colored), electroplated zinc, or hot-dip galvanized. Hot-dip galvanized nuts require overtapped threads to clear the zinc thickness, and must be lubricated with a suitable clean dry lubricant.",
+        "High-strength structural nuts must be marked with the property class designation (8S or 10S) and the manufacturer's identification symbol stamped or embossed on the non-bearing face of the nut to allow visual site verification."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "6623a1.pdf",
+      "document_version_edition": "Second Revision, 2004 (incorporating Amendment No. 1, August 2020)"
+    }
+  }
+]

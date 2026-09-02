@@ -1,0 +1,2712 @@
+[
+  {
+    "standard": {
+      "is_code": "IS 10026 (Part 1, Part 2 & Part 3) : 1998/1999",
+      "title": "Insulating Varnishes Containing Solvents — Specification (First Revision) (विद्युतरोधी विलायकयुक्त वार्निश — विशिष्टि (पहला पुनरीक्षण))",
+      "sector": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems",
+      "ics_code": [
+        "29.035.01",
+        "87.040"
+      ],
+      "sectional_committee": {
+        "name": "Solid Electrical Insulating Materials and Insulation Systems Sectional Committee",
+        "number": "ETD 02"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard series prescribes definitions, general requirements, testing methodologies, and individual material specifications for solvent-containing electrical insulating varnishes used for impregnating, finishing, and coating electrical windings, transformers, coils, and electric motors. Part 3, Section 2 specifically covers physical, mechanical, and electrical requirements for hot curing impregnating varnishes across thermal classes 130 to 220.",
+      "scope": "This Indian Standard series prescribes definitions, general requirements, testing methodologies, and individual material specifications for solvent-containing electrical insulating varnishes used for impregnating, finishing, and coating electrical windings, transformers, coils, and electric motors. Part 3, Section 2 specifically covers physical, mechanical, and electrical requirements for hot curing impregnating varnishes across thermal classes 130 to 220.",
+      "keywords": [
+        "IS 10026 : 1999",
+        "Insulating Varnishes Containing Solvents",
+        "Amendment No. 1 Nov 2019",
+        "Hot Curing Varnishes IS 10026-3-2",
+        "Curing in Thick Layer",
+        "Dielectric breakdown strength",
+        "Volume resistivity Ohm-cm",
+        "Drying in thin film",
+        "Alkyd Phenolic Polyester resin",
+        "ETD 02",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, 1998/1999 (Reaffirmed 2024) incorporating active Amendment No. 1 (November 2019) for Part 3, Section 2",
+      "first_publication_year": 1982,
+      "publication_year": 1999,
+      "revision": "First Revision (IS 10026 : 1998 / 1999)",
+      "revision_history": [
+        "First Edition (IS 10026 : 1982), 1982",
+        "First Revision (IS 10026 : 1998 / 1999), 1999"
+      ],
+      "supersedes": [
+        "IS 10026 : 1982"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": "2019-11",
+          "summary": "Amendment No. 1 (November 2019) to Part 3, Section 2"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 101 (Part 1/Sec 5)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 101 (Part 1/Sec 5) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 101 (Part 1/Sec 7)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 101 (Part 1/Sec 7) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 101 (Part 2/Sec 2)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 101 (Part 2/Sec 2) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2362",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2362 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. However, under public utility contracts (such as state electricity boards—JVVNL, KSEB—and central railway specifications), raw insulating varnishes supplied for winding repair and motor manufacture must be certified to comply with IS 10026 and carry corresponding batch test records.",
+      "requirements": [
+        "Observed or calculated final test values, solid contents, viscosity flow times, or breakdown voltages must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "Measured by heating a 1.5 g liquid specimen at 130°C or 150°C for 2 hours to calculate active dry resin percentage, which must typically range between 45% and 55% to prevent excessive solvent loss.",
+        "A critical test for impregnating varnishes. Evaluates if the varnish inside a deep winding cavity will cure fully into a solid, bubble-free mass when baked at 120°C for 10 hours.",
+        "The cured varnish film must exhibit high dielectric strength, withstanding voltages exceeding 100 kV/mm under ambient conditions, and retaining high dielectric protection after wet conditioning or water immersion.",
+        "The cured film must maintain a volume resistivity exceeding 10^15 Ohm-cm under standard ambient conditions, and remain above 10^12 Ohm-cm after 168 hours of water immersion.",
+        "Part 3, Section 2 specifies five hot-curing thermal classes: Class 130 (Class B), Class 155 (Class F), Class 180 (Class H), Class 200, and Class 220 based on long-term thermal endurance index limits.",
+        "Under active Amendment No. 1 (November 2019), Row 10 of Table 1 (regulating liquid properties) is amended to substitute 'Test method is under consideration' for the older numerical value '22'.",
+        "Under active Amendment No. 1 (November 2019), Row 4 of Table 2 (regulating cured film properties) is amended to substitute 'Test method is under consideration' for the older numerical value '23'."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "10026_3_2a1.pdf",
+      "document_version_edition": "First Revision, 1999"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 10314:1982",
+      "title": "Dimensions for Ceramic Bushings for Terminals (टर्मिनलों के लिए सिरेमिक बुशिंग के आयाम)",
+      "sector": "Electrotechnical / Electrical Insulators and Accessories",
+      "ics_code": [
+        "29.035.50",
+        "29.080.20"
+      ],
+      "sectional_committee": {
+        "name": "Electrical Insulators and Accessories Sectional Committee",
+        "number": "ETD 11"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the standardized physical dimensions, tolerances, shapes, and general requirements for ceramic (porcelain or steatite) bushings (tubes) used as terminal insulators. These bushings prevent flashovers and ground faults where current-carrying conductors pass through the earthed metal casings or enclosures of rotating electrical machines, capacitors, transformers, and other electrical apparatus.",
+      "scope": "This Indian Standard prescribes the standardized physical dimensions, tolerances, shapes, and general requirements for ceramic (porcelain or steatite) bushings (tubes) used as terminal insulators. These bushings prevent flashovers and ground faults where current-carrying conductors pass through the earthed metal casings or enclosures of rotating electrical machines, capacitors, transformers, and other electrical apparatus.",
+      "keywords": [
+        "IS 10314 : 1982",
+        "Ceramic Bushings",
+        "Porcelain Tubes",
+        "Terminal Insulators",
+        "Steatite Insulating",
+        "IS 8765 Glazing",
+        "Rotating Electrical Machines",
+        "Capacitors",
+        "ETD 11",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1982 (Reaffirmed 2021)",
+      "first_publication_year": 1982,
+      "publication_year": 1982,
+      "revision": "First Edition (IS 10314 : 1982)",
+      "revision_history": [
+        "First Edition (IS 10314 : 1982), 1982"
+      ],
+      "supersedes": [
+        "None (Developed as a dedicated",
+        "standardized dimensional specification to govern terminal-type ceramic bushings)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL (No active amendments have been issued on this copy)"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8765 : 1978",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 8765 : 1978 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 7421 : 1988",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 7421 : 1988 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the physical ISI 'Standard Mark' directly on the packaging of ceramic bushings or the component itself to certify dimensional and material conformity.",
+      "requirements": [
+        "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "Bushings must be manufactured from high-grade ceramic insulating materials (porcelain, steatite, or alumina) conforming to the physical and chemical requirements of IS 8765 : 1978.",
+        "The exposed surfaces of the ceramic bushing must be smoothly and uniformly glazed (typically in standard dark brown or white/off-white finishes) to prevent moisture absorption, resist chemical attack, and minimize creepage tracking.",
+        "Permissible limits of visual surface defects (cracks, structural chips, or pinholes) must comply with IS 13305 : 1992 to guarantee structural and dielectric integrity.",
+        "Standardizes inside diameter (d1), outside diameter (d2), total length (L), and collar thickness (t) of the bushing. Tolerances are calibrated based on the kiln shrinking characteristic of clay/ceramics during firing.",
+        "Standardizes the collar design and groove depth for optional sealing gaskets or O-rings used to prevent water ingress into the rotating electrical machine or capacitor terminal."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "10314_1982_reff2021.pdf",
+      "document_version_edition": "First Edition, 1982"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 10810 (Part 27):1984",
+      "title": "Methods of Test for Cables — Part 27: Ash Content Test of Insulating Paper (केबलों के लिए परीक्षण विधियाँ — भाग 27: विद्युतरोधी कागज का राख अंश परीक्षण)",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.035.01",
+        "29.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "TEST_METHOD",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the standardized test methodology, apparatus specifications, conditioning, and evaluation protocols for determining the ash content (residual inorganic impurity level) in paper insulation used in electric power and communication cables.",
+      "scope": "This Indian Standard prescribes the standardized test methodology, apparatus specifications, conditioning, and evaluation protocols for determining the ash content (residual inorganic impurity level) in paper insulation used in electric power and communication cables.",
+      "keywords": [
+        "IS 10810 (Part 27) : 1984",
+        "Cable Testing Methods",
+        "Ash Content Test",
+        "Insulating Paper",
+        "Inorganic Impurities",
+        "Dielectric Degradation",
+        "Muffle Furnace 900C",
+        "Platinum Silica Crucible",
+        "Desiccator Cooling",
+        "ETD 09 Power Cables",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1984 (Reaffirmed 2021)",
+      "first_publication_year": 1984,
+      "publication_year": 1984,
+      "revision": "First Edition (IS 10810-27 : 1984)",
+      "revision_history": [
+        "First Edition (IS 10810-27 : 1984), 1984"
+      ],
+      "supersedes": [
+        "None (Formulated as a dedicated test procedure under the comprehensive cable-testing master series IS 10810)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 10810 (Part 0) : 1984",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (Part 0) : 1984 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 1175 : 1981",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1175 : 1981 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Mandatory Quality Control Test. Under public utility contracts (such as central power grids, railway signaling specifications, and state electricity boards), paper-insulated copper or aluminum cables must carry certified lab records showing that the ash content of the paper does not exceed specified limits to legally enter commercial distribution.",
+      "requirements": [
+        "Observed or calculated final ash content percentages must be mathematically rounded off in accordance with IS 2:1960 to match the significant places of the specified values.",
+        "Any inorganic impurity in insulating paper tends to reduce its dielectric property, which can lead to localized electrical tracking and cable breakdown under high voltages.",
+        "The test specimen must consist of a raw insulating paper sample weighing at least 1 g.",
+        "Before ignition, the paper specimen must be dried to constant mass at a temperature of 100°C to 105°C to eliminate environmental humidity, reweighed to an accuracy of 0.1 mg inside the ignited crucible.",
+        "The reweighed conditioned sample is placed inside a platinum, fused aluminum, silica, or porcelain crucible and ignited in a muffle furnace or by a gas burner, raising the temperature to 900 ± 25°C.",
+        "To avoid the loss of lightweight ash particles during initial heating, the crucible lid must be fully in place during the initial charring stage.",
+        "When peak ignition temperature is attained, the lid must be slid slightly to one side to admit oxygen for complete carbon combustion, ensuring draft protection.",
+        "When the paper is completely burnt (indicated by the absolute absence of black carbon particles), the crucible with its lid on is cooled to ambient room temperature in a desiccator.",
+        "The crucible is weighed to the nearest 0.1 mg, and the ignition, cooling, and weighing cycle is repeated sequentially until the mass remains constant.",
+        "The percentage of inorganic ash content is calculated dry-on-dry using the formula: Ash Content, % = [(W3 - W2) / W1] * 100, where W1 is sample weight, W2 is empty crucible weight, and W3 is crucible plus ash weight."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "10810_27_1984_reff2021.pdf",
+      "document_version_edition": "First Edition, 1984"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 11182 (Part 7 / Sec 1):1986",
+      "title": "Guide for the Evaluation of Insulation Systems of Electrical Equipment — Part 7: Multi-factor Functional Testing — Section 1: Test Procedures (विद्युत उपकरणों की इन्सुलेशन प्रणालियों के मूल्यांकन के लिए गाइड — भाग 7: बहु-कारक कार्यात्मक परीक्षण — धारा 1: परीक्षण प्रक्रियाएं)",
+      "sector": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems",
+      "ics_code": [
+        "29.080.30"
+      ],
+      "sectional_committee": {
+        "name": "Solid Electrical Insulating Materials and Insulation Systems Sectional Committee",
+        "number": "ETD 02"
+      },
+      "standard_type": "GUIDE",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes technical guidelines and methodology to develop functional testing procedures for evaluating electrical insulation systems (EIS) exposed to multiple co-existing aging factors (stresses) during their service life.",
+      "scope": "This Indian Standard prescribes technical guidelines and methodology to develop functional testing procedures for evaluating electrical insulation systems (EIS) exposed to multiple co-existing aging factors (stresses) during their service life.",
+      "keywords": [
+        "IS 11182 (Part 7/Sec 1) : 1986",
+        "Insulation Systems of Electrical Equipment",
+        "Multi-factor Functional Testing",
+        "Aging Interaction",
+        "Direct and Indirect Interaction",
+        "Sequential Multi-factor Tests",
+        "Simultaneous Multi-factor Tests",
+        "Single-factor testing",
+        "Diagnostic testing",
+        "ETD 02 Solid Insulating Materials",
+        "IS 2 : 2022"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1986 (Reaffirmed 2021)",
+      "first_publication_year": 1986,
+      "publication_year": 1986,
+      "revision": "First Edition (IS 11182 (Part 7/Sec 1) : 1986)",
+      "revision_history": [
+        "First Edition (IS 11182 (Part 7/Sec 1) : 1986), 1986"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone guide to govern modern multi-factor evaluation methodologies)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 11182 (Part 1) : 1984",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 11182 (Part 1) : 1984 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 11182 (Part 3/Sec 1) : 1986",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 11182 (Part 3/Sec 1) : 1986 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 11182 (Part 5) : 1993",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 11182 (Part 5) : 1993 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary National Code. However, state electricity boards, public works departments, and military equipment procurement agencies require high-voltage equipment, traction motors, and distribution transformers to carry test certificates demonstrating functional compliance with the multi-factor testing criteria of the IS 11182 series.",
+      "requirements": [
+        "Final observed or calculated test times, aging rates, specific stress limits, and statistical failure probabilities must be mathematically rounded off in accordance with IS 2:2022 (second revision). The number of significant places retained should match that of the specified value in this standard.",
+        "Establishes definitions for aging interaction: the modification of the aging effect of one factor by the combination of two or more factors such that the combined effect differs significantly from the sum of their individual aging effects when acting independently.",
+        "Defines direct interaction as the interaction between simultaneously applied factors of influence that differs fundamentally from that occurring when those same factors are applied sequentially.",
+        "Defines indirect interaction as the interaction between simultaneously applied factors of influence that remains essentially unchanged when those same factors are applied sequentially.",
+        "Single-factor testing is technically valid and preferred only when interactions between service stress factors are absent or unknown.",
+        "Conducted on the same specimen batch in a repetitive loop of sequential steps. This approach is technically valid and highly practical when indirect interaction is present.",
+        "Simultaneous multi-factor testing is mandated when direct interaction is present. Stresses (e.g., heat, voltage, and vibration) must be applied to the specimen at the same physical instant.",
+        "Sequential procedures may be developed in which alternative consequential actions are listed to cover each possible outcome of a preceding action.",
+        "Where service relationships and aging interactions are not confidently known, technical committees or manufacturers must instigate research to identify specific aging factors, their relative importance, and their physical interactions.",
+        "During testing, if there are no failures, or an insufficient number of failures within the planned number of test cycles, engineers must either continue testing cycles until a sufficient number of failures occur or carry out additional diagnostic tests to reveal the extent of deterioration."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "11182_7_1_1986_reff2021.pdf",
+      "document_version_edition": "First Edition, 1986"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 11731 (Part 1 & Part 2) : 1986",
+      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials When Exposed to an Igniting Source (ठोस विद्युत रोधी सामग्रियों के ज्वलनशीलता निर्धारण के लिए परीक्षण विधियाँ जब एक प्रज्वलन स्रोत के संपर्क में लाया जाए)",
+      "sector": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems",
+      "ics_code": [
+        "13.220.40",
+        "29.020",
+        "29.035.01"
+      ],
+      "sectional_committee": {
+        "name": "Solid Electrical Insulating Materials and Insulation Systems Sectional Committee",
+        "number": "ETD 2"
+      },
+      "standard_type": "TEST_METHOD",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes two testing orientations (horizontal and vertical) to evaluate and classify the ignitability, flame propagation speed, and self-extinguishing characteristics of solid polymer and resin-based electrical insulating materials when exposed to a standardized open flame igniting source.",
+      "scope": "This Indian Standard prescribes two testing orientations (horizontal and vertical) to evaluate and classify the ignitability, flame propagation speed, and self-extinguishing characteristics of solid polymer and resin-based electrical insulating materials when exposed to a standardized open flame igniting source.",
+      "keywords": [
+        "IS 11731 : 1986",
+        "Flammability of Solids",
+        "Horizontal specimen FH",
+        "Vertical specimen FV",
+        "Class FV0 V-0",
+        "Cotton indicator pad",
+        "Afterflame burn time",
+        "Bunsen burner 20 mm",
+        "Solid Electrical Insulating",
+        "ETD 2",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1986 (Reaffirmed 2021)",
+      "first_publication_year": 1986,
+      "publication_year": 1986,
+      "revision": "First Edition (IS 11731-1 & IS 11731-2 : 1986)",
+      "revision_history": [
+        "First Edition (IS 11731-1 & IS 11731-2 : 1986), 1986"
+      ],
+      "supersedes": [
+        "None (Developed as the primary Indian Standard methods for testing non-metallic solid electrical flammability)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 4249 : 1967",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 4249 : 1967 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 11000 (Part 2)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 11000 (Part 2) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Mandatory Testing Compliance. Under municipal utilities, public works specifications, and smart meter box mandates, raw polymers and terminal moldings must be certified to comply with IS 11731 (Part 2) Class FV0.",
+      "requirements": [
+        "Observed or calculated final test values, burning times, or specimen dimensions must be rounded off mathematically in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Specimens must be rectangular bars measuring 125 ± 5 mm in length, 13.0 ± 0.3 mm in width, and 3.0 ± 0.2 mm in thickness.",
+        "Two lines are scribed across the specimen at 25 mm and 100 mm from the free end to calculate exact linear burning rates.",
+        "The standardized 20 mm blue Bunsen flame is applied horizontally to the free end of the specimen for exactly 30 seconds or until the flame front reaches the first mark.",
+        "FH1 indicates a burn rate of <= 40 mm/min for specimens >= 3 mm thick. FH2 indicates a burn rate of <= 75 mm/min for thin specimens (< 3 mm) or self-extinguishing behavior.",
+        "Specimens are identical rectangular bars clamped vertically. A cotton indicator pad is placed horizontally exactly 300 mm below the specimen lower end.",
+        "A 20 mm flame is applied directly underneath the vertically clamped bar for 10 seconds. Afterflame is recorded. The flame is applied for another 10 seconds immediately after self-extinguishing.",
+        "Afterflame time per burn <= 10 seconds; total afterflame time of 5 specimens (10 burns) <= 50 seconds; zero flaming drips (no cotton pad ignition).",
+        "Afterflame time per burn <= 30 seconds; total afterflame time of 5 specimens <= 250 seconds; zero flaming drips; glowing ceases within 60 seconds.",
+        "Afterflame time per burn <= 30 seconds; total afterflame time of 5 specimens <= 250 seconds; flaming drips are permitted to ignite the cotton indicator pad."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "11731_2_1986_reff2021.pdf",
+      "document_version_edition": "First Edition, 1986"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS : 1175 - 1981",
+      "title": "Methods for Grading and Classification of Muscovite Mica Blocks, Thins and Films (First Revision) (मस्कोवाइट अभ्रक ब्लॉकों, थिन और फिल्मों के ग्रेडिंग और वर्गीकरण के लिए तरीके (पहला पुनरीक्षण))",
+      "sector": "Electrotechnical / Mica",
+      "ics_code": [
+        "29.035.50",
+        "31.060.70"
+      ],
+      "sectional_committee": {
+        "name": "Mica Sectional Committee",
+        "number": "ETDC 9"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the methods for grading and visual classification of muscovite mica blocks, thins, and films based on their size, thickness, and visual quality traits to govern commercial grading, electrical component sorting, and industrial trade.",
+      "scope": "This Indian Standard prescribes the methods for grading and visual classification of muscovite mica blocks, thins, and films based on their size, thickness, and visual quality traits to govern commercial grading, electrical component sorting, and industrial trade.",
+      "keywords": [
+        "IS : 1175 - 1981",
+        "Muscovite Mica",
+        "Mica blocks thins films",
+        "Mica Visual Grading",
+        "Mica Sectional Committee",
+        "ETDC 9",
+        "Mica Sorting Subjectivity",
+        "Special Grade 250",
+        "Permissibility Legend Symbols",
+        "Mica Defect Codes",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, October 1981 (Reaffirmed 2001, Reaffirmed 2011, Reaffirmed 2016)",
+      "first_publication_year": 1957,
+      "publication_year": 1981,
+      "revision": "First Revision (IS : 1175 - 1981)",
+      "revision_history": [
+        "First Edition (IS : 1175 - 1957), 1957",
+        "First Revision (IS : 1175 - 1981), 1981"
+      ],
+      "supersedes": [
+        "IS : 1175 - 1957"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Quality Grading Standard. Muscovite mica blocks, thins, and films are visually graded and sorted in processing yards prior to electrical fabrication or export based on these criteria.",
+      "requirements": [
+        "Quality classification is highly subjective, carried out manually by individual workers, and heavily influenced by circumstantial factors such as lighting conditions and the inspector's mood. Thus, the standard can give at best an approximate idea of a particular quality's relative position.",
+        "Visual classification guidelines specified in this standard may or may not have any direct bearings on the actual functional end use of the mica.",
+        "Establishes unified symbols to evaluate permissible defect levels: x = Not Permissible, v = Very Slight, p = Permissible, s = Slight, l = Limited Extent, h = Heavy, and Blank Indication = Not Applicable.",
+        "Classifies the highest-tier commercial block size using the designation '250 / (SPECIAL)'.",
+        "Establishes numerical size and thickness grading benchmarks: No. 1 (160 - 10), No. 2 (100), 63, No. 3 (40), No. 4 (5), 5 V, and No. 5 (0.6) to classify structural area and thickness boundaries."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "1175.pdf",
+      "document_version_edition": "First Revision, October 1981"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 12475 (Part 2):1988",
+      "title": "Gassing of Insulating Liquids Under Electric Stress and Ionization — Part 2: Method of Determination of Gassing Rate Under Nitrogen Atmosphere (विद्युत तनाव और आयनीकरण के तहत विद्युतरोधी तरल पदार्थों का गैसिंग — भाग 2: नाइट्रोजन वातावरण के तहत गैसिंग दर के निर्धारण की विधि)",
+      "sector": "Electrotechnical / Fluids for Electrotechnical Applications",
+      "ics_code": [
+        "29.035.40",
+        "29.040.10"
+      ],
+      "sectional_committee": {
+        "name": "Fluids for Electrotechnical Applications Sectional Committee",
+        "number": "ETD 03"
+      },
+      "standard_type": "TEST_METHOD",
+      "status": "ACTIVE",
+      "description": "This Indian Standard (Part 2) prescribes the test method, apparatus setup, gas saturation conditions, and reporting procedures for determining the gassing rate (the tendency to evolve or absorb gas) of liquid dielectrics when subjected to high electrical stress and ionization at a gas-liquid interface under a nitrogen atmosphere over long durations.",
+      "scope": "This Indian Standard (Part 2) prescribes the test method, apparatus setup, gas saturation conditions, and reporting procedures for determining the gassing rate (the tendency to evolve or absorb gas) of liquid dielectrics when subjected to high electrical stress and ionization at a gas-liquid interface under a nitrogen atmosphere over long durations.",
+      "keywords": [
+        "IS 12475 (Part 2) : 1988",
+        "Gassing of Insulating Liquids",
+        "Gassing Tendency",
+        "Method B IEC 60628",
+        "Pirelli Gassing Cell",
+        "High-Purity Nitrogen Atmosphere",
+        "Electrical Stress Ionization",
+        "Dielectric Breakdown Prevention",
+        "Transformer Oil Aging",
+        "ETD 03",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1988 (Reaffirmed 2018)",
+      "first_publication_year": 1988,
+      "publication_year": 1988,
+      "revision": "First Edition (IS 12475 (Part 2) : 1988)",
+      "revision_history": [
+        "First Edition (IS 12475 (Part 2) : 1988), 1988"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone standard based on the adoption of international IEC Pub 60628)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL (No active amendments have been issued on this reaffirmed copy)"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 12475 (Part 1) : 1988",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 12475 (Part 1) : 1988 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Testing Standard. However, under national transformer procurement specifications (such as state electricity boards, Power Grid Corporation of India, and major utility specifications), insulating mineral oils and synthetic esters must carry test certificates verifying their gassing tendency per IS 12475 to prevent operational gas buildup, gas bubbling, and dielectric tracking.",
+      "requirements": [
+        "Observed or calculated final test values, gassing rates (in mm³/min), or gas volumes must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "The gassing cell must be subjected to a stable, sinusoidal high-voltage potential of 12 kV at power frequency (50 Hz or 60 Hz) to initiate localized ionization at the gas-liquid interface.",
+        "The entire gassing cell assembly must be immersed in a thermostatically controlled oil/liquid bath maintained at a stable temperature of 80 ± 0.5°C throughout the test duration.",
+        "The gas phase inside the cell must consist of high-purity nitrogen gas, which is bubbled through the liquid sample prior to the test to achieve complete gas saturation.",
+        "Due to the slow kinetics of gas evolution/absorption under nitrogen, the test must be maintained continuously for 18 hours (for 50 Hz systems) or 15 hours (for 60 Hz systems) to obtain a representative cumulative gassing rate.",
+        "Results are reported as the net change in gas volume (in mm³) or as a normalized gassing rate (in mm³/min) calculated from pressure changes or burette liquid level movement.",
+        "To ensure statistical validity, the gassing test must be performed on at least duplicate specimens, and their results must satisfy standard repeatability criteria.",
+        "Duplicate test runs are considered suspect and must be repeated if their calculated gassing tendencies differ by more than a specified repeatability threshold (typically 0.3 + 0.26·|G| mm³/min, where G is the mean gassing value).",
+        "To prevent cross-contamination and solvent residue staining, the borosilicate glass cell and electrodes must be thoroughly cleaned with n-heptane, petroleum ether, or 1,1,1-trichloroethane and dried completely before refilling.",
+        "Because the test involves a combination of high-voltage ionization (12 kV), heated flammable oils (80°C), and pressurized gases, a secure, transparent safety shield must be installed around the gassing cell to protect laboratory operators."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "12475_2.pdf",
+      "document_version_edition": "First Edition, 1988 (reaffirmed in 2018)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13067:1991",
+      "title": "Impregnants for Power Capacitors — Specification (बिजली संधारित्रों (कैपेसिटरों) के लिए संसेचकों की विशिष्टि)",
+      "sector": "Electrotechnical / Fluids for Electrotechnical Applications",
+      "ics_code": [
+        "29.040.10",
+        "31.060.70"
+      ],
+      "sectional_committee": {
+        "name": "Fluids for Electrotechnical Applications Sectional Committee",
+        "number": "ETD 03"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the quality baselines, physical-chemical characteristics, and testing methods for liquids used as impregnating agents in power capacitors conforming to IS 2834 : 1986.",
+      "scope": "This Indian Standard prescribes the quality baselines, physical-chemical characteristics, and testing methods for liquids used as impregnating agents in power capacitors conforming to IS 2834 : 1986.",
+      "keywords": [
+        "IS 13067 : 1991",
+        "Impregnants for Power Capacitors",
+        "Ester Compounds",
+        "Synthesised Hydrocarbon",
+        "Specific Gravity 29.5C",
+        "Neutralization Value",
+        "Dielectric constant Permittivity",
+        "Resistivity Ohm-cm",
+        "Dissipation Factor Tangent Delta",
+        "ETD 03 Fluids",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1991 (Reaffirmed 2025) incorporating active Amendment No. 1",
+      "first_publication_year": 1991,
+      "publication_year": 1991,
+      "revision": "First Edition (IS 13067 : 1991)",
+      "revision_history": [
+        "First Edition (IS 13067 : 1991), 1991"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone standard to govern quality specifications for modern paper and film power capacitor impregnants)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "Amendment No. 1"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2834 : 1986",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2834 : 1986 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1448 (Part 2) : 2007",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 1448 (Part 2) : 2007 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 335 : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 335 : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. However, under public utility and industrial power factor correction (PFC) installation guidelines, power capacitors and their raw impregnants must carry test certificates verifying compliance with IS 13067 to ensure safety and grid stability.",
+      "requirements": [
+        "Observed or calculated final test values, specific gravity decimals, or dissipation factors must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+        "Defined as the ratio of the weight in air of a given volume of the fluid at 29.5°C to the weight in air of an equal volume of water at 29.5°C.",
+        "Restricted to safe, non-toxic organic compounds, specifically covering Ester Compounds and Synthesised Hydrocarbon Compounds, while strictly excluding hazardous polychlorinated biphenyls (PCBs/Askarels).",
+        "Determines the presence of acidic compounds by measuring the milligrams of KOH required to neutralize one gram of fluid. Acid limits are restricted to very low levels (typically <= 0.01 or 0.03 mg KOH/g) to prevent paper insulation breakdown.",
+        "Defined as the ratio of capacitance Cp of a given configuration of electrodes with the material as dielectric to capacitance Cv of the same electrode with air as dielectric, establishing standard dielectric spacing.",
+        "Evaluates specific insulation performance in ohm-centimeters (Ohm-cm), representing the ratio of potential gradient in volts/cm to current density in amperes/cm².",
+        "Measures the tangent of the angle (delta) by which the phase difference between applied voltage and resulting current deviates from pi/2 radian to control internal thermal dielectric losses."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13067_1991_reff2021.pdf",
+      "document_version_edition": "First Edition, 1991"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13466:1992",
+      "title": "Brushes for Electrical Machines — Specification (विद्युत मशीनों के ब्रश — विशिष्टि)",
+      "sector": "Electrotechnical / Rotating Machinery",
+      "ics_code": [
+        "29.160.01",
+        "29.035.40"
+      ],
+      "sectional_committee": {
+        "name": "Rotating Machinery Sectional Committee",
+        "number": "ETD 15"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the quality requirements, physical-mechanical design configurations, preferred dimensional combinations, and testing methods for carbon brushes (such as carbon, carbon-graphite, electrographitic, graphite, and metal-graphite blocks) fitted with flexible copper conductors (shunts/pigtails) used in rotating electrical machines.",
+      "scope": "This Indian Standard prescribes the quality requirements, physical-mechanical design configurations, preferred dimensional combinations, and testing methods for carbon brushes (such as carbon, carbon-graphite, electrographitic, graphite, and metal-graphite blocks) fitted with flexible copper conductors (shunts/pigtails) used in rotating electrical machines.",
+      "keywords": [
+        "IS 13466 : 1992",
+        "Carbon Brushes",
+        "Electrical Rotating Machines",
+        "Pigtail Pull-Out Strength",
+        "g-Value Clearance",
+        "Dimensional sequence t x a x r",
+        "Double sampling lot plan",
+        "Connection Drop Test",
+        "Annex C Table 16",
+        "ETD 15",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, December 1992 (Reaffirmed 2003)",
+      "first_publication_year": 1992,
+      "publication_year": 1992,
+      "revision": "First Edition (IS 13466 : 1992)",
+      "revision_history": [
+        "First Edition (IS 13466 : 1992), 1992"
+      ],
+      "supersedes": [
+        "IS 3003 (Part 3) : 1978 and IS 3003 (Part 4) : 1978"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 13584 : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13584 : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 13586 : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13586 : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 13525 : 1992",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13525 : 1992 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Certification. Every manufacturer of carbon brushes is highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' on the product packaging, indicating compliance with IS 13466.",
+      "requirements": [
+        "Observed or calculated final test values, pigtail dimensions, or joint drop voltages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Brush dimensions must always be stated in millimeters in the sequence t * a * r, representing tangential thickness (t), axial width (a), and radial length (r). Square section brushes are not recommended.",
+        "Defines parameter g (clearance from the top of the brush block or bevel to the entry point of embedded flexibles). For 4 flexibles, Table 6 provides standardized maximum g limits between 13 and 21 mm.",
+        "Flexible copper shunts must be securely crimped or crimped and soldered to terminal ends (e.g. open spade, closed spade, flag, or double shoe) as per the purchaser's specifications.",
+        "Assembled brushes must be examined under a magnifying glass of minimum 10X magnification factor for structural cracks, edge chipping, surface smoothness, and loose connections.",
+        "Evaluates joint resistance between the carbon block and the flexible shunt using a millivolt drop tester under specified currents.",
+        "Conducted only for brushes with tamped or molded connections. The shunt wire must withstand pull tests using test rigs in Annex E, with pull-out strengths exceeding the specified thresholds in Table 3."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13466.pdf",
+      "document_version_edition": "First Edition, December 1992"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13525:1992",
+      "title": "Flexible Conductors for Carbon Brushes — Specification (कार्बन ब्रशों के लिए सन्मय चालकों की विशिष्टि)",
+      "sector": "Electrotechnical / Rotating Machinery",
+      "ics_code": [
+        "29.160",
+        "29.035.40"
+      ],
+      "sectional_committee": {
+        "name": "Rotating Machinery Sectional Committee",
+        "number": "ET 15"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the material specifications, design configurations, stranding patterns, wire diameters, and performance criteria for flexible copper conductors (shunts/pigtails) embedded in or attached to carbon brushes of rotating electrical machines.",
+      "scope": "This Indian Standard prescribes the material specifications, design configurations, stranding patterns, wire diameters, and performance criteria for flexible copper conductors (shunts/pigtails) embedded in or attached to carbon brushes of rotating electrical machines.",
+      "keywords": [
+        "IS 13525 : 1992",
+        "Flexible Conductors",
+        "Carbon Brushes",
+        "Pigtail Shunts",
+        "Stranded Copper Wire",
+        "Wire bunches per strand",
+        "Annealed Copper Plain Tinned",
+        "ET 15 Rotating Machinery",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, December 1992 (Reaffirmed 2003)",
+      "first_publication_year": 1992,
+      "publication_year": 1992,
+      "revision": "First Edition (IS 13525 : 1992)",
+      "revision_history": [
+        "First Edition (IS 13525 : 1992), 1992"
+      ],
+      "supersedes": [
+        "None (Previously covered under older parts of the IS 3003 series",
+        "now established as a standalone specification)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 13466 : 1992",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13466 : 1992 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 8130 : 1984",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8130 : 1984 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or etch the physical ISI 'Standard Mark' directly on the product packaging to demonstrate mechanical and metallurgical conformity in electrical rotating machines.",
+      "requirements": [
+        "Observed or calculated final test values, individual wire diameters, and bundle counts must be rounded off mathematically in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Conductors must be fabricated from high-purity, high-conductivity annealed copper wires (plain or tinned) to minimize electrical resistance and avoid heat buildup.",
+        "Individual wires utilized to build flexible bunches must have standardized micro-diameters of either 0.05 mm, 0.07 mm, 0.10 mm, or 0.12 mm.",
+        "Establishes a precise, flexibility-driven strand system defined by B (wire bunches per strand) and W (wires per bunch) to resist mechanical fatigue.",
+        "The joint between the flexible conductor and the carbon brush must withstand strict tension pull tests to ensure it does not detach under severe dynamic vibration during motor operation."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13525.pdf",
+      "document_version_edition": "First Edition, December 1992"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 13705:1993",
+      "title": "Transition Joints of Cables for Working Voltages from 11 kV Up to and Including 33 kV — Performance Requirements and Type Tests (11 कि. वो. से 33 कि. वो. तक कार्यकारी वोल्टता के केबलों के लिए संक्रमण जोड़ — कार्यकािरता अपेक्षाएं और टाइप परीक्षण)",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.060.20",
+        "29.120.20"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the performance requirements, testing configurations, and type testing sequences for transition joints between paper-insulated lead-sheathed (PILC) cables and polymeric insulated power cables (such as XLPE, EPR, or PVC) for voltage grades ranging from 11 kV up to and including 33 kV.",
+      "scope": "This Indian Standard prescribes the performance requirements, testing configurations, and type testing sequences for transition joints between paper-insulated lead-sheathed (PILC) cables and polymeric insulated power cables (such as XLPE, EPR, or PVC) for voltage grades ranging from 11 kV up to and including 33 kV.",
+      "keywords": [
+        "IS 13705 : 1993",
+        "Transition Joints of Cables",
+        "PILC to Polymeric Splicing",
+        "Type Tests Sequence",
+        "Mechanical Impact Test",
+        "Lightning Impulse Withstand",
+        "Thermal Load Cycling",
+        "Sizing Clearances",
+        "ETD 09 Power Cables",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1993 (Reaffirmed 2024)",
+      "first_publication_year": 1993,
+      "publication_year": 1993,
+      "revision": "First Edition (IS 13705 : 1993)",
+      "revision_history": [
+        "First Edition (IS 13705 : 1993), 1993"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone standard based on the international adoption of IEC 60502-4 principles to govern high-voltage transition joints)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 1885 (Part 32) : 1971",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1885 (Part 32) : 1971 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (Part 5) : 1984",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (Part 5) : 1984 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (Part 45) : 1984",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (Part 45) : 1984 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (Part 47) : 1984",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (Part 47) : 1984 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (Part 48) : 1984",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (Part 48) : 1984 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 1554 (Part 1 & Part 2) : 1988",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 1554 (Part 1 & Part 2) : 1988 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Testing Standard. However, under state distribution utility specifications (such as WBSEDCL, BESCOM, and state electricity boards), splicing kits and transition joints supplied for utility network upgrades must carry certified lab test records demonstrating full compliance with the type-testing sequence of IS 13705.",
+      "requirements": [
+        "Observed or calculated final test values, conductor resistance, test temperatures, and withstand voltages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Specifies transition joints connecting PILC cables with cross-sections between 120 and 300 sq mm to polymer insulated cables of one size lower cross section (or to PVC of one size higher cross section).",
+        "The test specimen may consist of two transition joints in series to allow simultaneous testing and statistical verification of the assembly.",
+        "Standardizes clearances: total specimen length >= 5 m, terminal neck spacing >= 2 m, and joint-to-joint spacing (if applicable) >= 3 m.",
+        "Type tests and their sequence must follow the strict chronological flow specified in Table 1 (initial conductor resistance, impact testing, subsequent load cycles, impulse testing, and final high-voltage withstand checks).",
+        "If a transition joint does not pass any particular test in the sequence, the entire type tests must be repeated on a freshly prepared test specimen.",
+        "Done in accordance with IS 10810 (Part 5) : 1984 to ensure the jointing ferrules and connectors do not generate localized hot-spots under high load currents.",
+        "The joint is placed on concrete, and a wedge-shaped mass of 4 kg (having a 90-degree angle with a 2 mm radius impacting edge) must be dropped freely 6 times from a height of 2 m onto the joint. Visible damage is prohibited."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "13705_1993_reaff2024.pdf",
+      "document_version_edition": "First Edition, May 1993"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14255:1995",
+      "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1 100 Volts — Specification",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.060.20",
+        "29.240.20"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the physical, dimensional, constructional, and performance requirements for single-phase and three-phase polyethylene (PE) or crosslinked polyethylene (XLPE) insulated cables with stranded aluminium conductors twisted over a central bare or insulated high-strength aluminium alloy messenger wire. These cables are designed for use as overhead distribution feeders (commonly known as the Aerial Bunched Cable or ABC system) operating on a.c. electrical distribution networks at working voltages up to and including 1 100 V.",
+      "scope": "This standard specifies the physical, dimensional, constructional, and performance requirements for single-phase and three-phase polyethylene (PE) or crosslinked polyethylene (XLPE) insulated cables with stranded aluminium conductors twisted over a central bare or insulated high-strength aluminium alloy messenger wire. These cables are designed for use as overhead distribution feeders (commonly known as the Aerial Bunched Cable or ABC system) operating on a.c. electrical distribution networks at working voltages up to and including 1 100 V.",
+      "keywords": [
+        "IS 14255 : 1995",
+        "Aerial Bunched Cables",
+        "ABC system",
+        "Overhead distribution",
+        "Aluminium Conductor",
+        "Messenger Wire",
+        "Al-Mg-Si Alloy",
+        "XLPE Insulation",
+        "PE Insulation",
+        "Conductor Resistance",
+        "Minimum Breaking Load",
+        "Volume Resistivity",
+        "Hot Set Test",
+        "Cables QCO 2020",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1995 (Reaffirmed in 2020)",
+      "first_publication_year": 1995,
+      "publication_year": 1995,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 1995"
+      ],
+      "supersedes": [
+        "N/A (Developed as a new dedicated Indian Standard to establish uniform parameters for low-voltage overhead bunched cable systems)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "Formally expands the scope of the standard to explicitly cover single-phase systems in addition to three-phase a.c. systems. It also substitutes page 3, Clause 6.5 to establish that the size of the messenger conductor for single-phase and three-phase cables, its breaking load, and its maximum d.c. resistance must strictly comply with Table 3."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8130 : 1984",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8130 : 1984 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 398 (Part 4) : 1979",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 398 (Part 4) : 1979 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10418 : 1982",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 10418 : 1982 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1885 (Part 32) : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1885 (Part 32) : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (series)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (series) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 4905 : 1968",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4905 : 1968 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 7098 (Part 1) : 2025",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 7098 (Part 1) : 2025 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14268 : 2022",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14268 : 2022 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Electrical Cables (Quality Control) Order' issued by the Government of India, all Aerial Bunched Cables (ABC) for working voltages up to and including 1100 V must conform to IS 14255:1995 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or selling uncertified overhead bunched cables is a statutory offense. Precious metal hallmarking is completely inapplicable to industrial electrical cables.",
+      "requirements": [
+        "Every cable drum or its attached identification label must be marked with the BIS Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards, alongside the manufacturer's licence number (CM/L).",
+        "Phase and street lighting conductors must consist of H2 or H4 grade stranded aluminium complying with IS 8130, conforming to flexibility Class 2. The size of the street lighting conductor must be 16 mm².",
+        "The central messenger (neutral) conductor must be made of heat-treated aluminium-magnesium-silicon alloy wires (containing approximately 0.5% magnesium and 0.5% silicon) conforming to IS 398 (Part 4). The conductor must be circular (stranded or compacted) and have a minimum of 7 strands. The direction of lay of the outer wire layer must be right-hand, and joints are strictly prohibited except those made in the base rod before final drawing.",
+        "The extruded crosslinked polyethylene (XLPE) insulation must possess: a) Tensile strength of min 12.5 N/mm²; b) Elongation at break of min 200%; c) After air oven aging (135 ± 3 °C for 7 days), maximum variation in tensile strength and elongation must not exceed ±25%; d) Hot set elongation under load (at 200 ± 3 °C, 15 min under 20 N/cm² load) must be a maximum of 175%, and permanent elongation after cooling must be a maximum of 15%; e) Thermal shrinkage (130 ± 3 °C for 1 h) of max 4%; f) Gravimetric water absorption (85 ± 2 °C for 14 days) of max 1 mg/cm²; g) Volume resistivity of min 1 x 10^14 ohm-cm at 27 °C and min 1 x 10^12 ohm-cm at 70 °C.",
+        "The thermoplastic polyethylene (PE) insulation must possess: a) Volume resistivity of min 1 x 10^14 ohm-cm at 27 °C and min 1 x 10^12 ohm-cm at 70 °C; b) Tensile strength of min 10 N/mm²; c) Elongation at break of min 300%; d) Melt flow index (MFI) of max 3; e) Vicat softening point of min 85 °C; f) Environmental stress cracking resistance showing zero cracks visible to the naked eye.",
+        "To support the physical weight of the spans without active phase tension, messenger conductor ratings must strictly correlate to phase size as per Table 3: \na) For phase sizes 16, 25, or 35 mm²: messenger nominal area of 25 mm², max d.c. resistance at 20 °C of 1.38 ohm/km, and minimum breaking load of 7.0 kN; \nb) For phase size 50 mm²: messenger nominal area of 35 mm², max d.c. resistance of 0.986 ohm/km, and minimum breaking load of 9.8 kN; \nc) For phase size 70 mm²: messenger nominal area of 50 mm², max d.c. resistance of 0.689 ohm/km, and minimum breaking load of 14.0 kN; \nd) For phase size 95 mm²: messenger nominal area of 70 mm², max d.c. resistance of 0.492 ohm/km, and minimum breaking load of 19.7 kN.",
+        "The phase and messenger conductors (with a compatible protective barrier tape applied if required) must be insulated with XLPE or PE applied uniformly by extrusion.",
+        "Drums must be grouped into lots (same size and manufacturing conditions) and drawn randomly using random number tables in accordance with IS 4905. The sampling scale and allowed defectives must conform to Table 5: a) Lot size up to 50 drums (select 2, permissible defectives = 0); b) 51 to 100 (select 5, permissible defectives = 0); c) 101 to 300 (select 13, permissible defectives = 0); d) 301 to 500 (select 20, permissible defectives = 1); e) 501 and above (select 32, permissible defectives = 2). Failure of any acceptance test on a drum sample designates it as 'defective'.",
+        "Each drum must be clearly and indelibly stencilled or labeled with: standard reference (IS 14255), manufacturer's trademark, type of cable and voltage grade, nominal phase area, length of cable on the drum, direction of rotation of drum, gross mass, country of origin, and year of manufacture."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14255_1995_reff2020.pdf",
+      "document_version_edition": "First Edition, 1995 (Reaffirmed in 2020; incorporating Amendment No. 1)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14353:1996",
+      "title": "Guide for Determining Compatibility Between Enamelled Winding Wire and Impregnating Compounds (इनेमल्ड वाइंडिंग वायर और संसेचन यौगिकों के बीच संगतता निर्धारण हेतु मार्गदर्शिका)",
+      "sector": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems",
+      "ics_code": [
+        "29.060.10",
+        "29.080"
+      ],
+      "sectional_committee": {
+        "name": "Electrical Insulation System Sectional Committee",
+        "number": "ETD 04"
+      },
+      "standard_type": "GUIDE",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes technical guidelines and pre-selection test methodologies to determine the relative chemical compatibility between enamelled round winding wires and impregnating compounds (such as solventless resins and impregnating varnishes) used in the insulation systems of electrical rotating and static machines.",
+      "scope": "This Indian Standard prescribes technical guidelines and pre-selection test methodologies to determine the relative chemical compatibility between enamelled round winding wires and impregnating compounds (such as solventless resins and impregnating varnishes) used in the insulation systems of electrical rotating and static machines.",
+      "keywords": [
+        "IS 14353 : 1996",
+        "Enamelled Winding Wire",
+        "Impregnating Compounds",
+        "Chemical Compatibility",
+        "Twisted Pair Ageing",
+        "Dielectric Breakdown Voltage",
+        "Thermal Ageing Temperature",
+        "Winding Wires IS 13730",
+        "ETD 04 Insulation",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, May 1996 (Reaffirmed 2021)",
+      "first_publication_year": 1996,
+      "publication_year": 1996,
+      "revision": "First Edition (IS 14353 : 1996)",
+      "revision_history": [
+        "First Edition (IS 14353 : 1996), 1996"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone guide to govern pre-selection evaluations of wire-varnish insulation interfaces)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 13730 (Part 0 / Section 1 to 4)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 13730 (Part 0 / Section 1 to 4) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 13778 (Part 5) : 1993",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 13778 (Part 5) : 1993 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 5825 : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 5825 : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary National Code. However, under public works specifications, defense procurement, railway traction motor guidelines, and heavy industrial machinery tenders, motor manufacturers must supply type-approval certificates certifying that the wire enamel and impregnating varnish combination has successfully completed compatibility testing per IS 14353.",
+      "requirements": [
+        "Observed or calculated final test values, temperature values, and dielectric breakdown voltages must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in this standard.",
+        "The majority of electrical winding difficulties arise when an enamelled wire is used in combination with an impregnating compound that causes a chemical reaction between the cured enamelled film and the compound, which is accelerated by high temperatures and degrades wire electrical/mechanical properties.",
+        "Twisted pair ageing is confirmed by extensive experience in India and globally. It evaluates changes in dielectric breakdown voltage (BDV) of impregnated enamelled twisted-pair specimens after exposure to accelerated thermal ageing.",
+        "Twisted-pair specimens (prepared per IS 13778 Part 5) are pre-heated for 10 minutes at 130°C, cooled for 1 hour, immersed in the impregnant for 10 minutes, and withdrawn at 10 cm/min prior to standard curing.",
+        "Ageing is conducted inside an air-circulated electric oven for 168 hours (Set G1) or 336 hours (Set G2) at an ageing temperature T selected according to the temperature class of the wire and varnish, raised by 40°C (e.g. for Class 155, T = 195°C). Set G0 serves as the unaged control.",
+        "Twisted pair cyclic ageing is less established, with insufficient technical experience available. Due to this, the standard does not include end-point evaluation criteria for Method B.",
+        "The guide does not cover rectangular wires or fibrous-covered conductors. It is by no means a method to test the complete insulation system of an electrical machine, as environmental factors (humidity, chemical contamination, mechanical vibration, etc.) are excluded and must be verified separately (e.g. via motorette testing)."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14353_1996_reff2021.pdf",
+      "document_version_edition": "First Edition, 1996"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14494:2019",
+      "title": "Elastomer Insulated Flexible Cables for Use in Mines — Specification (First Revision)",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the requirements, construction types, testing schedules, and sampling criteria for flexible elastomer-insulated cables designed for power transmission, control, lighting, and auxiliary systems in coal mines, quarries, and other underground or surface mining operations [1, 2]. It covers cables operating at rated voltage grades of 1.1 kV, 3.3 kV, 3.8/6.6 kV, and 6.35/11 kV [1].",
+      "scope": "This standard specifies the requirements, construction types, testing schedules, and sampling criteria for flexible elastomer-insulated cables designed for power transmission, control, lighting, and auxiliary systems in coal mines, quarries, and other underground or surface mining operations [1, 2]. It covers cables operating at rated voltage grades of 1.1 kV, 3.3 kV, 3.8/6.6 kV, and 6.35/11 kV [1].",
+      "keywords": [
+        "IS 14494 : 2019",
+        "Mining Cables",
+        "Elastomer Insulated",
+        "Flexible Power Cables",
+        "Intrinsically Safe",
+        "Cradle Separator",
+        "Conductor Screening",
+        "Pliable Wire Armour",
+        "Fictitious Calculation",
+        "Partial Discharge Test",
+        "Core Identification Colors",
+        "ETD 09",
+        "Cables QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, 2019 (Reaffirmed 2024)",
+      "first_publication_year": 1998,
+      "publication_year": 2019,
+      "revision": "First Revision (reorganized into modern voltage grades and testing scopes)",
+      "revision_history": [
+        "First Edition, 1998",
+        "First Revision (reorganized into modern voltage grades and testing scopes), 2019"
+      ],
+      "supersedes": [
+        "IS 14494 : 1998"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "No active amendments issued since publication on this copy."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8130 : 2013",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8130 : 2013 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 6380 : 1984",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 6380 : 1984 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (series)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (series) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 1885 (Part 32) : 1993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1885 (Part 32) : 1993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3975 : 1999",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3975 : 1999 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4826 : 1979",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4826 : 1979 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 4905 : 1968",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4905 : 1968 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10418 : 1982",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 10418 : 1982 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 7098 (Part 1) : 2025",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 7098 (Part 1) : 2025 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14255 : 1995",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14255 : 1995 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": true,
+        "name": "Quality Control Order",
+        "year": null
+      },
+      "description": "Strict Statutory Mandatory Certification. Under Quality Control Orders (QCO) issued by the Ministry of Chemicals and Fertilizers and the Electrotechnical Department of the Government of India, all mining cables manufactured, imported, distributed, or sold in India must conform to IS 14494 and carry the mandatory BIS Standard Mark (ISI Mark). Precious metal hallmarking is completely inapplicable to industrial electrotechnical cables, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+      "requirements": [
+        "Every cable drum or attached label must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+        "Cables rated at 1.1 kV and 3.3 kV grades are suitable for both earthed and unearthed electrical networks, whereas 3.8/6.6 kV cables are specifically suitable for earthed 6.6 kV systems.",
+        "It is permissible to split the earth conductor into equal parts and lay them in the outer interstices. Split-up earth conductors must have the same colour or number code to maintain traceability and core identification.",
+        "For rated voltages above 6.6 kV (E), power cores must feature a conductor screen consisting of extruded semi-conducting compound applied over a semi-conducting tape. Conductor screening is not required for pilot and earth cores.",
+        "Multi-core cables must be easily identified using a distinct colour scheme: a) 2 Cores: Power core is Red, Earth core is Green; b) 3 Cores: Power core is Red, Pilot core is Black.",
+        "Cables are classified into functional types to ensure safety under specialized mining conditions: a) FT1: 3-phase intrinsically safe cables for U/G production systems requiring infrequent movement; b) P3: Power feeders for transport and ventilation systems; c) FT3: Power cables for heavy mobile production machinery; d) PLC2 to PLC5: Cables for lighting and auxiliary control circuits.",
+        "To prevent mechanical crushing and shear forces during mobile mining, core layouts such as Cable Type P3 or PA1 must feature insulated power, pilot, and earth cores laid around an elastomeric cradle separator.",
+        "Cables with rated voltages above 3.3 kV must undergo partial discharge testing. The discharge magnitude at a test voltage of 1.73 Uo must not exceed 10 pC for routine/acceptance testing and must not exceed 5 pC for type testing.",
+        "To ensure uniform sheath and armour thicknesses across all manufacturers, dimensions are calculated using a fictitious diameter formula (e.g. Dc = dL + 2ti + 3.0 mm for screened cores) that ignores the shape and compaction of conductors.",
+        "The size and structure of steel strands in pliable armour must comply with Table 38 based on fictitious diameter under the armour: a) Up to 25 mm: 7/0.45 mm strand size; b) 25 to 40 mm: 7/0.70 mm; c) 40 to 60 mm: 7/0.90 mm; d) Above 60 mm: 7/1.25 mm.",
+        "The nominal outer sheath thickness must correlate with calculated fictitious diameters as per Table 37: a) Up to 10 mm: 2.5 mm; b) 10 to 15 mm: 2.8 mm; c) 25 to 30 mm: 4.0 mm; d) 40 to 50 mm: 5.0 mm; e) 50 to 60 mm: 5.7 mm; f) Above 100 mm: 9.0 mm.",
+        "Each consignment lot (consisting of same-sized cables produced under identical conditions) must be randomly sampled and tested per Annex F to verify conformity before delivery."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14494_2019_reaff2024.pdf",
+      "document_version_edition": "First Revision, 2019"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 14665 (Part 3 / Sec 1):2000",
+      "title": "Electric Traction Lifts — Part 3: Safety Rules — Section 1: Passenger and Goods Lifts (विद्युत कर्षी लिफ्ट — भाग 3: सुरक्षा नियम — अनुभाग 1: यात्री और माल लिफ्ट)",
+      "sector": "Electrotechnical / Lifts, Escalators and Moving Walks",
+      "ics_code": [
+        "91.140.90"
+      ],
+      "sectional_committee": {
+        "name": "Lifts, Escalators and Moving Walks Sectional Committee",
+        "number": "ETD 25"
+      },
+      "standard_type": "CODE_OF_PRACTICE",
+      "status": "SUPERSEDED",
+      "description": "This Indian Standard prescribes the essential safety rules, mechanical and structural parameters, electrical protection, clearances, and testing procedures for the design and construction of electric traction passenger and goods lifts to safeguard users, maintenance mechanics, and emergency rescue teams.",
+      "scope": "This Indian Standard prescribes the essential safety rules, mechanical and structural parameters, electrical protection, clearances, and testing procedures for the design and construction of electric traction passenger and goods lifts to safeguard users, maintenance mechanics, and emergency rescue teams.",
+      "keywords": [
+        "IS 14665 (Part 3/Sec 1)",
+        "Electric Traction Lifts",
+        "Automatic Rescue Device ARD",
+        "Overload Device 110 percent",
+        "Electro-mechanical door interlock",
+        "Rated load vs net car area",
+        "State Lift Acts",
+        "IS 17900:2025 Supersession",
+        "ETD 25 Lifts",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, December 2000 (Reaffirmed 2020)",
+      "first_publication_year": 2000,
+      "publication_year": 2000,
+      "revision": "First Edition (IS 14665 (Part 3/Sec 1) : 2000)",
+      "revision_history": [
+        "First Edition (IS 14665 (Part 3/Sec 1) : 2000), 2000"
+      ],
+      "supersedes": [
+        "IS 4666 : 1980 (Specification for electric passenger and goods lifts)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": "Feb 2011",
+          "summary": "Amendment No. 1 (Feb 2011), Amendment No. 2 (2012), Amendment No. 3 (Nov 2020), and Amendment No. 4 (July 2022)"
+        },
+        {
+          "amendment_number": "Amendment 2",
+          "date": "2012",
+          "summary": "Amendment No. 1 (Feb 2011), Amendment No. 2 (2012), Amendment No. 3 (Nov 2020), and Amendment No. 4 (July 2022)"
+        },
+        {
+          "amendment_number": "Amendment 3",
+          "date": "Nov 2020",
+          "summary": "Amendment No. 1 (Feb 2011), Amendment No. 2 (2012), Amendment No. 3 (Nov 2020), and Amendment No. 4 (July 2022)"
+        },
+        {
+          "amendment_number": "Amendment 4",
+          "date": "2022-07",
+          "summary": "Amendment No. 1 (Feb 2011), Amendment No. 2 (2012), Amendment No. 3 (Nov 2020), and Amendment No. 4 (July 2022)"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 14665 (Part 1) : 2000",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 14665 (Part 1) : 2000 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 14665 (Part 2 / Sec 1 & 2) : 2000",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 14665 (Part 2 / Sec 1 & 2) : 2000 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 14665 (Part 4 / Sec 1 to 9) : 2001",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 14665 (Part 4 / Sec 1 to 9) : 2001 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 732 : 1989",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 732 : 1989 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3043 : 1987",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3043 : 1987 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Mandatory Certification under various State Lift Acts & Rules (e.g., Delhi Lift Rules, Maharashtra Lift Act). Licences to operate elevators are granted by State Lift Inspectors only upon verifying compliance with the safety rules of IS 14665, with key certified components carrying the physical ISI mark.",
+      "requirements": [
+        "Observed or calculated final test values, maximum net car areas, clearances, and emergency battery back-up capacities must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Strict limits are set on the inside car area relative to rated loads to prevent hazardous overcrowding. Car dimensions are measured panel-to-panel at a height of 1 m from the finished floor (e.g. 4 passengers / 272 kg requires a net area of 0.68 to 0.77 sq m).",
+        "Under Amendment No. 1, every passenger lift must carry an automatic overload sensor. If loaded to 110% of capacity or more, the car must remain stationary with doors fully open, and activate an audio-visual alarm.",
+        "Under Amendment No. 1, all passenger lifts must have a battery-operated ARD to automatically move the car to the nearest landing during power cuts. It must open doors and activate an audio-visual trapped passenger indicator. Capacity must sustain at least 3 rescue cycles.",
+        "No lift can start or run unless all landing doors are closed and mechanically locked. Positive electromechanical interlocks must physically confirm lock engagement before the safety circuit is completed.",
+        "The lift car must be equipped with natural ventilation openings or fans and emergency battery back-up lighting to operate during power failures to prevent occupant panic."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "14665_3_1a3.pdf",
+      "document_version_edition": "First Edition, 2000 (incorporating active amendments through July 2022)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 15208:2002",
+      "title": "Unidirectional Non-Woven Semi-Cured Glass Fibre Tape — Specification (एकदिशीय गैर-बुना अर्ध-पका हुआ ग्लास फाइबर टेप — विशिष्टि)",
+      "sector": "Electrotechnical / Solid Electrical Insulating Materials",
+      "ics_code": [
+        "29.035.20"
+      ],
+      "sectional_committee": {
+        "name": "Solid Electrical Insulating Materials Sectional Committee",
+        "number": "ET 02"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This Indian Standard prescribes the quality, material, constructional, and performance-testing specifications for unidirectional non-woven glass fabric tape consisting of parallel twisted glass yarns designed to bandage armatures of rotating machines and transformer coils to hold assembly windings securely in position.",
+      "scope": "This Indian Standard prescribes the quality, material, constructional, and performance-testing specifications for unidirectional non-woven glass fabric tape consisting of parallel twisted glass yarns designed to bandage armatures of rotating machines and transformer coils to hold assembly windings securely in position.",
+      "keywords": [
+        "IS 15208 : 2002",
+        "Unidirectional Non-Woven Tape",
+        "Glass Fibre Tape",
+        "Semi-Cured Resins",
+        "Continuous E-Glass Fibres",
+        "Alkali content limit 1 percent",
+        "Shelf Life Table 2",
+        "Thickness measurement micrometer",
+        "Thermal weight loss Annex F",
+        "Solid Insulating Materials ETD 02",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, September 2002 (Reaffirmed 2022)",
+      "first_publication_year": 2002,
+      "publication_year": 2002,
+      "revision": "First Edition (IS 15208 : 2002)",
+      "revision_history": [
+        "First Edition (IS 15208 : 2002), 2002"
+      ],
+      "supersedes": [
+        "None (Developed as a new dedicated specification for resin-impregnated glass banding tapes)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 196 : 1966",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 196 : 1966 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 1271 : 1985",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1271 : 1985 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14353 : 1996",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14353 : 1996 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or emboss the physical ISI 'Standard Mark' directly on the product rolls or boxes to certify dimensional, thermal, and metallurgical conformity.",
+      "requirements": [
+        "Observed or calculated final test values, thickness tolerances, storage temperatures, and weight loss percentages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "The tape must consist of parallel twisted glass yarns aligned in a unidirectional non-woven pattern to provide maximum longitudinal tensile strength.",
+        "The glass yarns must be constructed of continuous E-glass fibers containing not more than one percent of alkali calculated as sodium oxide.",
+        "The fiber tape must be impregnated with catalyzed thermosetting synthetic resins (such as acrylic, polyester, or epoxy compounds) and semi-cured to a suitable B-stage to ensure optimal flow and tack-free handling during winding.",
+        "Because the tape is semi-cured, storage temperature governs shelf life: 10°C storage provides 18 months of shelf life; 15°C storage provides 12 months; and 20°C storage provides 8 months. Normally, the manufacturing date must not be earlier than one month from dispatch.",
+        "Preferred nominal thicknesses are 0.3 or 0.33 mm. The measured thickness must not deviate from the nominal value by more than ± 0.05 mm.",
+        "Thickness is measured using a micrometer with 0.01 mm accuracy under 10 N/cm² pressure, on 5 rolls selected at random conditioned as per IS 196 (65 ± 2% RH and 27 ± 2 °C). Ten measurements are taken every 300 mm.",
+        "Three 1 m specimens are cut, weighed, and heated in an oven at a temperature 20°C higher than the designated thermal class of the tape for 400 hours ± 30 minutes, cooled in a desiccator, and reweighed. Weight loss must satisfy low, specified limits to ensure resin stability."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "15208_2002_reaff2022.pdf",
+      "document_version_edition": "First Edition, 2002 (reaffirmed in 2022)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 1554 (Part 1 & Part 2) : 1988",
+      "title": "Specification for PVC Insulated (Heavy Duty) Electric Cables (विद्युत केबलों के लिए पीवीसी इंसुलेटेड (भारी काम) विशिष्टि)",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.060.20",
+        "83.140.40"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "SUPERSEDED",
+      "description": "This Indian Standard series prescribes the manufacturing requirements, material specifications, design configurations, dimensions, safety requirements, and performance testing protocols for PVC-insulated (heavy-duty) electric power and control cables used in fixed installations. Part 1 covers cables with rated voltages up to and including 1100 V (Uo/U = 650/1100 V), and Part 2 covers cables with working voltages from 3.3 kV up to and including 11 kV.",
+      "scope": "This Indian Standard series prescribes the manufacturing requirements, material specifications, design configurations, dimensions, safety requirements, and performance testing protocols for PVC-insulated (heavy-duty) electric power and control cables used in fixed installations. Part 1 covers cables with rated voltages up to and including 1100 V (Uo/U = 650/1100 V), and Part 2 covers cables with working voltages from 3.3 kV up to and including 11 kV.",
+      "keywords": [
+        "IS 1554 (Part 1 & Part 2)",
+        "PVC Insulated Electric Cables",
+        "Heavy Duty Power Cables",
+        "Amendment No. 5 April 2012",
+        "90 percent Armour Coverage",
+        "Armour Formula Appendix C",
+        "Type Approval Note 2",
+        "Oxygen Index 29 percent",
+        "Conductor Resistance IS 8130",
+        "ETD 09",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "Third Revision for Part 1 (1988), Second Revision for Part 2 (1988), Reaffirmed 2020",
+      "first_publication_year": 1959,
+      "publication_year": 1988,
+      "revision": "Fourth Edition / Major Separated Revision (IS 1554 Part 1 & Part 2 : 1988)",
+      "revision_history": [
+        "First Edition (IS 1554 : 1959), 1959",
+        "Second Edition (IS 1554 : 1964), 1964",
+        "Third Edition (IS 1554 : 1976), 1976",
+        "Fourth Edition / Major Separated Revision (IS 1554 Part 1 & Part 2 : 1988), 1988"
+      ],
+      "supersedes": [
+        "IS 1554 (Part 1 & Part 2) : 1976"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "Amendment No. 1 to 5 for Part 1, Amendment No. 1 to 4 for Part 2"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8130 : 2013",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8130 : 2013 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 5831 : 1984",
+        "relationship_type": "MATERIAL_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 5831 : 1984 for material specifications or material-related requirements."
+      },
+      {
+        "target_is_code": "IS 3975 : 1999",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3975 : 1999 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10810 series",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 series for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Mandatory Certification under the national Cables (Quality Control) Order. Stamping or embossing of the physical ISI Standard Mark logo on the outer sheath is a statutory requirement to legally manufacture, sell, or distribute heavy-duty cables in India.",
+      "requirements": [
+        "Observed or calculated final test values, conductor resistance, insulation thickness, test voltages, and temperatures must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Conductors must consist of high-purity, plain or tinned annealed copper (solid/stranded) or aluminum wire as per IS 8130, ensuring low electrical resistance and high current-carrying capacity.",
+        "Cables are insulated with PVC compound Type A (for normal operation up to 70°C) or Type C (for heat-resistant operations up to 85°C) conforming to IS 5831.",
+        "Under active Amendments (Amendment 5 for Part 1, Amendment 4 for Part 2), the armour wires or formed flat strips must be applied closely with a minimum coverage of 90 percent, calculated as per the spiral projection formulas in Appendix C.",
+        "Armour percentage is calculated as: Percent coverage = (N * d / W) * 100, where N is wire count, d is wire diameter/width, W = π * D * cos(a), D is diameter under armour, and a is laying pitch angle (tan a = π * D / C, where C is lay length).",
+        "Under active Amendments, successful type testing of a cable with a specific conductor cross-sectional area and rated voltage grants valid type approval for other sizes and/or voltages of the same design family, provided insulation material/process match and the area is not larger than the tested cable.",
+        "For low-voltage heavy duty cables (Part 1), the completed cable must withstand a power-frequency AC test voltage of 3 kV for 5 minutes without insulation puncture.",
+        "Optional fire-resistant or FRLS sheathing must satisfy a minimum oxygen index of 29 percent, temperature index of 250°C under standard air, maximum acid gas generation of 20% by weight, and smoke density light transmission limits."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "1554_2a4.pdf",
+      "document_version_edition": "Second Revision for Part 2, Third Revision for Part 1 (incorporating April 2012 Amendments)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 17048:2018",
+      "title": "Halogen Free Flame Retardant (HFFR) Cables for Working Voltages up to and including 1 100 Volts — Specification",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies requirements for single-core and multicore halogen-free, flame-retardant, low-smoke (HFFR) insulated and sheathed (if any) electrical cables/cords with rigid or flexible conductors. These cables are designed for use in power and lighting installations in AC single-phase or three-phase systems operating at rated voltages up to and including 1 100 V (1.1 kV) a.c. (50 Hz) or DC systems up to and including 1 500 V to earth.",
+      "scope": "This standard specifies requirements for single-core and multicore halogen-free, flame-retardant, low-smoke (HFFR) insulated and sheathed (if any) electrical cables/cords with rigid or flexible conductors. These cables are designed for use in power and lighting installations in AC single-phase or three-phase systems operating at rated voltages up to and including 1 100 V (1.1 kV) a.c. (50 Hz) or DC systems up to and including 1 500 V to earth.",
+      "keywords": [
+        "IS 17048:2018",
+        "Halogen Free Flame Retardant",
+        "HFFR Cables",
+        "LSZH Cables",
+        "Low Smoke Zero Halogen",
+        "HFI-TP 70",
+        "HFI-XL 90",
+        "HFS-TP 90",
+        "Halogen Gas Evolution",
+        "HCl limit 0.5%",
+        "Light Transmittance 70%",
+        "Flame Retardance Part 61",
+        "Cables QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 2018 (incorporating Amendment No. 1, September 2021) [1]",
+      "first_publication_year": 2018,
+      "publication_year": 2018,
+      "revision": "First Edition",
+      "revision_history": [
+        "First Edition, 2018"
+      ],
+      "supersedes": [],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1 [1]",
+          "date": "September 2021 [1]",
+          "summary": "Substitutes references on Page 4 (Clause 5.7) and Page 18 (Annex A, Sl No. 9) to replace 'Annex 4' with 'Annex D' [1]. It completely replaces Annex B, Sl No. 2.2 to update the properties after ageing in an air oven for HFFR sheathing compounds (HFS-TP 70, HFS-TP 90, HFS-XL70, HFS-XL90), specifying aging temperatures and durations (e.g., 80°C for HFS-TP 70, and 100°C for others) [1]."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8130",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8130 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (series)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (series) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 1070 : 2023",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1070 : 2023 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 2022",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 7098 (Part 1) : 2025",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 7098 (Part 1) : 2025 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14255 : 1995",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14255 : 1995 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14494 : 2019",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14494 : 2019 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 17505 (Part 1) : 2021",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 17505 (Part 1) : 2021 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 694 : 2010",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 694 : 2010 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": true,
+        "name": "Electrical Cables (Quality Control) Order",
+        "year": 2020
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Electrical Cables (Quality Control) Order' (Cables QCO 2020) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all Halogen-Free Flame Retardant (HFFR) cables manufactured, imported, distributed, or sold in India must conform to IS 17048 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or selling uncertified HFFR cables is a criminal offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial electrotechnical cables, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+      "requirements": [
+        "Every cable reel or attached label must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+        "Conductors must be composed of high-purity annealed bare or tinned copper or aluminium complying with Class 2 (stranded) or Class 5 (flexible) of IS 8130.",
+        "Cables are insulated with halogen-free flame-retardant (HFFR) compounds, designated based on material type and rated conductor temperature: a) HFI-TP 70: Thermoplastic HFFR, 70°C maximum; b) HFI-TP 90: Thermoplastic HFFR, 90°C maximum; c) HFI-XL 70: Crosslinked (thermosetting) HFFR, 70°C; d) HFI-XL 90: Crosslinked (thermosetting) HFFR, 90°C.",
+        "Sheathing (if any) must be composed of HFFR compounds designated as: a) HFS-TP 70: Thermoplastic HFFR sheathing, 70°C [1]; b) HFS-TP 90: Thermoplastic HFFR sheathing, 90°C [1]; c) HFS-XL 70: Crosslinked HFFR sheathing, 70°C [1]; d) HFS-XL 90: Crosslinked HFFR sheathing, 90°C [1]. Properties after air oven aging are tested as per Amendment No. 1 (80°C for HFS-TP 70 and 100°C for others) [1].",
+        "To ensure safety of life and prevent equipment corrosion in fires, cables must meet strict low-smoke and non-toxic emission boundaries: a) Halogen acid gas evolution (measured as HCl) must not exceed a maximum of 0.5 percent by weight; b) Smoke emission must have a minimum of 70 percent light transmittance (negligible smoke opacity); c) Evolved gases must have a pH of minimum 4.3 and a maximum electrical conductivity of 10 µS/mm.",
+        "Finished cables must be self-extinguishing and pass mandatory flame tests under IS 10810: a) Flame retardance on single cable (Part 61); b) Flame retardance on bunched cables (Part 62) to prevent rapid fire spread in vertical cable trays.",
+        "Insulation and sheathing must undergo tensile strength, elongation at break, hot set, cold bend, and air oven aging tests to ensure long-term physical durability."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "17048a1.pdf",
+      "document_version_edition": "First Edition, 2018 (incorporating Amendment No. 1, September 2021) [1]"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 1709:1984",
+      "title": "Specification for Capacitors for Electric Fan Motors (First Revision) (बिजली के पंखे के मोटरों के लिए संधारित्रों (कैपेसिटरों) की विशिष्टि (पहला पुनरीक्षण))",
+      "sector": "Electrotechnical / Power Capacitors",
+      "ics_code": [
+        "29.160.01",
+        "31.060.70"
+      ],
+      "sectional_committee": {
+        "name": "Power Capacitors Sectional Committee",
+        "number": "ETD 29"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "SUPERSEDED",
+      "description": "This Indian Standard prescribes the manufacturing requirements, design configurations, electrical ratings, safety features, and performance testing protocols for motor run capacitors (typically dry type, self-healing, metallized polypropylene film - MPP) used with single-phase induction motors of electric fans (including ceiling, table, pedestal, and cabin fans) conforming to IS 374, IS 555, and IS 1169.",
+      "scope": "This Indian Standard prescribes the manufacturing requirements, design configurations, electrical ratings, safety features, and performance testing protocols for motor run capacitors (typically dry type, self-healing, metallized polypropylene film - MPP) used with single-phase induction motors of electric fans (including ceiling, table, pedestal, and cabin fans) conforming to IS 374, IS 555, and IS 1169.",
+      "keywords": [
+        "IS 1709 : 1984",
+        "Capacitors for Electric Fan Motors",
+        "Amendment No. 3 June 2020",
+        "Deleted Clause 7.3.2 IR",
+        "Metallized Polypropylene MPP film",
+        "Self-Healing Restorations",
+        "Dielectric Dissipation tan delta",
+        "ETD 29 Power Capacitors",
+        "IS 2993 : 2024 Supersession",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Revision, 1984 (incorporating active Amendments No. 1, 2, and 3) (Reaffirmed 2021)",
+      "first_publication_year": 1960,
+      "publication_year": 1984,
+      "revision": "First Revision (IS 1709 : 1984)",
+      "revision_history": [
+        "First Edition (IS 1709 : 1960), 1960",
+        "First Revision (IS 1709 : 1984), 1984"
+      ],
+      "supersedes": [
+        "IS 1709 : 1960"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 3",
+          "date": "2020-06",
+          "summary": "Amendment No. 1, No. 2, and Amendment No. 3 (June 2020)"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 2993",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 2993 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 374",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 374 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 555",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 555 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 1885 (Part 42)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 1885 (Part 42) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14220 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14220 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": true,
+        "name": "Standard Mark",
+        "year": null
+      },
+      "description": "Voluntary Product Specification. However, under the mandatory quality control orders (QCO) for electric ceiling, table, and pedestal fans, the auxiliary motor capacitors are legally required to carry the prestigious physical ISI 'Standard Mark' stamped or embossed on their containers to certify safety and quality compliance.",
+      "requirements": [
+        "Observed or calculated final test values, capacitance percentages, and test voltages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "Capacitor elements are built using high-purity, double-sided aluminum-zinc metallized polypropylene film inside a dry plastic or aluminum container, which is manufactured under dust-controlled, air-conditioned conditions to prevent particulate tracking.",
+        "When a localized dielectric breakdown occurs at a weak point in the film, the metallized layer evaporates within 5 to 10 microseconds, extinguishing the arc and instantly restoring the insulation level to its full value.",
+        "Standardizes preferred microfarad ratings (1.0 to 10.0 μF), including common domestic sizes: 2.00, 2.25, 2.50, 3.15, and 4.00 μF with standard tolerances restricted to ± 5%.",
+        "Designed to operate continuously without thermal runaway or accelerated capacitance droppage across a temperature range of -25°C to +85°C.",
+        "The tangent of the loss angle (tan δ) or power factor of the capacitor must not exceed 0.002 (or 0.2%) at rated frequency to prevent localized internal heat generation.",
+        "Insulation resistance evaluated under 500 V DC between the terminals and the outer metal container must exceed specified minimum thresholds (typically 3000 seconds) to guarantee user safety.",
+        "Under active Amendment No. 3 (June 2020), Clause 7.3.2 (Insulation Resistance between terminals) is completely deleted to streamline dielectric testing and avoid redundant metrics.",
+        "Completed capacitors must withstand a sinusoidal AC test potential of 1.5 times the rated voltage between terminals for 10 seconds without dielectric puncture.",
+        "To ensure absolute user protection from electric shock, capacitors must withstand 2000 V AC applied between the shorted terminals and the container for 10 seconds without breakdown.",
+        "Capacitors must survive continuous heating at +85°C under an overvoltage of 1.25 times the rated voltage for a minimum of 500 hours, with a maximum capacitance droppage of less than 3% to 5%."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "1709a3.pdf",
+      "document_version_edition": "First Revision, 1984 (incorporating Amendment No. 3, June 2020)"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 2672:1966",
+      "title": "Code of Practice for Library Lighting (पुस्तकालय प्रकाश व्यवस्था के लिए अभ्यास संहिता)",
+      "sector": "Electrotechnical / Illumination Engineering and Luminaries",
+      "ics_code": [
+        "91.160.10"
+      ],
+      "sectional_committee": {
+        "name": "Illumination Engineering and Luminaries Sectional Committee",
+        "number": "ETD 24"
+      },
+      "standard_type": "CODE_OF_PRACTICE",
+      "status": "ACTIVE",
+      "description": "This Indian Standard unifies the technical recommendations, design criteria, constructional guides, and performance requirements for the planning, design, and maintenance of lighting installations in library buildings. It covers both artificial lighting and natural daylighting to ensure sufficient illumination quantity and quality for diverse reading and archiving tasks, minimizing eyestrain during long periods of work.",
+      "scope": "This Indian Standard unifies the technical recommendations, design criteria, constructional guides, and performance requirements for the planning, design, and maintenance of lighting installations in library buildings. It covers both artificial lighting and natural daylighting to ensure sufficient illumination quantity and quality for diverse reading and archiving tasks, minimizing eyestrain during long periods of work.",
+      "keywords": [
+        "IS 2672 : 1966",
+        "Library Lighting",
+        "Daylight Factor 1.5 percent",
+        "Glare Index 19",
+        "Levels of Illumination",
+        "Book stack vertical face lux",
+        "Reading tables 150 to 300 lux",
+        "Reflection factors ceiling",
+        "Luminous flux lumen",
+        "Candela platinum black body",
+        "ETD 24",
+        "IS 2 : 1960"
+      ]
+    },
+    "version": {
+      "current_version": "First Edition, 1966 (Reaffirmed 2020)",
+      "first_publication_year": 1966,
+      "publication_year": 1966,
+      "revision": "First Edition (IS 2672 : 1966)",
+      "revision_history": [
+        "First Edition (IS 2672 : 1966), 1966"
+      ],
+      "supersedes": [
+        "None (Developed as a new standalone code specifically addressing the visual comfort of library environments)"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "NIL (No active amendments have been issued on this copy)"
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 3646 (Part 1) : 1966",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3646 (Part 1) : 1966 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3646 (Part 2) : 1966",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3646 (Part 2) : 1966 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS SP 41 : 1987",
+        "relationship_type": "DESIGN_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS SP 41 : 1987 for design criteria, calculations, or structural details relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 1960",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 800 : 2007",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 10026 (Part 3/Sec 2) : 1999 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 11731 (Part 2) : 1986",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 11731 (Part 2) : 1986 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 14489 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": false,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "VOLUNTARY_BIS",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Voluntary Code of Practice. However, under state public library guidelines, central university library layouts, and central public works department (CPWD) technical specifications, newly built library systems are legally audited and designed to conform with the illumination and glare levels specified under IS 2672.",
+      "requirements": [
+        "Observed or calculated final test values, lux measurements, daylight factors, and reflection percentages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+        "The light given by a source, or received by a surface, or transmitted by a medium, irrespective of the way in which it is distributed spatially as regards direction. Measured in lumens (lm).",
+        "The luminous flux emitted within unit solid angle (one steradian) by a point source having a uniform intensity of one candela.",
+        "The unit of luminous intensity. Magnitude is defined as one-sixtieth of the luminous intensity of one square centimetre of a black-body radiator operated at the temperature of solidification of platinum.",
+        "The reading desks and study areas must maintain a stable horizontal illumination level of 150 to 300 lux to allow continuous reading without eyestrain.",
+        "To ensure book titles are clearly legible, a vertical illumination level of 50 to 100 lux must be maintained across the vertical spines of books stored on stacks and shelves.",
+        "The ceiling surface must have a reflection factor of 70% to 80% (using matte white or off-white paint) to maximize indirect diffuse reflection.",
+        "The walls must maintain a reflection factor of 50% to 60% with light-coloured, matte finishes.",
+        "Reading tables and desks must have a reflection factor of 30% to 40% to reduce contrast between white paper pages and table surfaces, minimizing eyestrain.",
+        "Study and reading rooms are highly encouraged to utilize natural daylighting, maintaining a minimum Daylight Factor of 1.5% across study zones.",
+        "To maintain visual comfort and prevent veiling reflections on glossy paper pages, the direct Glare Index inside reading rooms must be restricted to a maximum of 19."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "2672_1966_reff2020.pdf",
+      "document_version_edition": "First Edition, 1966"
+    }
+  },
+  {
+    "standard": {
+      "is_code": "IS 7098 (Part 1):2025",
+      "title": "Crosslinked Polyethylene Insulated Thermoplastic Sheathed Cables — Specification, Part 1: For Working Voltages up to and including 1 100 Volts (Second Revision)",
+      "sector": "Electrotechnical / Power Cables",
+      "ics_code": [
+        "29.060.20"
+      ],
+      "sectional_committee": {
+        "name": "Power Cables Sectional Committee",
+        "number": "ETD 09"
+      },
+      "standard_type": "PRODUCT_SPECIFICATION",
+      "status": "ACTIVE",
+      "description": "This standard specifies the physical, dimensional, and performance requirements for crosslinked polyethylene (XLPE) insulated thermoplastic sheathed cables. These cables are designed for electric power transmission and distribution under working voltages up to and including 1 100 V a.c. or 1 500 V d.c. It covers single-core and multi-core configurations, including cables with improved fire performance (such as low halogen or halogen-free compounds).",
+      "scope": "This standard specifies the physical, dimensional, and performance requirements for crosslinked polyethylene (XLPE) insulated thermoplastic sheathed cables. These cables are designed for electric power transmission and distribution under working voltages up to and including 1 100 V a.c. or 1 500 V d.c. It covers single-core and multi-core configurations, including cables with improved fire performance (such as low halogen or halogen-free compounds).",
+      "keywords": [
+        "IS 7098 (Part 1) : 2025",
+        "XLPE Power Cables",
+        "Thermoplastic Sheathed",
+        "Low Voltage Cables",
+        "1 100 Volts",
+        "Copper Conductor",
+        "Aluminium Conductor",
+        "Hot Set Test",
+        "Volume Resistivity",
+        "Carbon Black Content",
+        "Steel Wire Armour",
+        "LSHF Sheathing",
+        "Halogen Acid Evolution",
+        "Smoke Density",
+        "Cable Coding",
+        "Power Cables QCO",
+        "ISI Mark"
+      ]
+    },
+    "version": {
+      "current_version": "Second Revision, 2025",
+      "first_publication_year": 1988,
+      "publication_year": 2025,
+      "revision": "Second Revision",
+      "revision_history": [
+        "First Edition, 1988",
+        "First Revision, 2011",
+        "Second Revision, 2025"
+      ],
+      "supersedes": [
+        "IS 7098 (Part 1) : 2011"
+      ],
+      "amendments": [
+        {
+          "amendment_number": "Amendment 1",
+          "date": null,
+          "summary": "No active amendments issued since publication on this copy."
+        }
+      ]
+    },
+    "relationships": [
+      {
+        "target_is_code": "IS 8130",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 8130 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10810 (various parts)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 10810 (various parts) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 5831",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 5831 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 3975",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 3975 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10418",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 10418 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 10462 (Part 1)",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 10462 (Part 1) as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 17505 (Part 1) : 2021",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 17505 (Part 1) : 2021 for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 13360 (Part 6/Sec 9)",
+        "relationship_type": "TEST_METHOD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 13360 (Part 6/Sec 9) for methods used to test the products or properties covered by this standard."
+      },
+      {
+        "target_is_code": "IS 4905 : 2015",
+        "relationship_type": "NORMATIVE_REFERENCE",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "Uses IS 4905 : 2015 as a normative reference for requirements relevant to this standard."
+      },
+      {
+        "target_is_code": "IS 2 : 2022",
+        "relationship_type": "ROUNDING_STANDARD",
+        "relationship_category": "CROSS_REFERENCED_STANDARD",
+        "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
+      },
+      {
+        "target_is_code": "IS 14255 : 1995",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 14255 : 1995 as an allied product standard covering a similar or complementary product."
+      },
+      {
+        "target_is_code": "IS 16269 : 2018",
+        "relationship_type": "RELATED_PRODUCT_STANDARD",
+        "relationship_category": "ALLIED_STANDARD",
+        "description": "Relates to IS 16269 : 2018 as an allied product standard covering a similar or complementary product."
+      }
+    ],
+    "certification": {
+      "mandatory": true,
+      "certification_scheme": "ISI_MARK",
+      "certification_type": "BIS_PRODUCT_CERTIFICATION",
+      "qco": {
+        "applicable": false
+      },
+      "description": "Strict Statutory Mandatory Certification. Under the 'Electrical Cables (Quality Control) Order' issued by the Government of India, all Crosslinked Polyethylene Insulated Thermoplastic Sheathed Cables for working voltages up to 1 100 Volts must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). Manufacturing, stocking, selling, or importing uncertified cables is a criminal offense. Precious metal hallmarking is completely inapplicable to industrial electrotechnical cables, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+      "requirements": [
+        "Every cable drum or attached label must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+        "Conductors must be composed of plain copper or aluminium wires complying with IS 8130. For gassy mines, mining cables must feature copper conductors exclusively (tinned copper allowed on agreement).",
+        "The extruded cross-linked polyethylene (XLPE) insulation must comply with strict physical-chemical limits: a) Tensile strength must be minimum 12.5 N/mm²; b) Elongation at break must be minimum 200 percent; c) After air oven aging (135 ± 3 °C for 7 days), maximum variation in tensile strength and elongation must not exceed ±25 percent; d) Hot set test (200 ± 3 °C, 15 min under 20 N/cm² load) must yield maximum elongation under load of 175% and maximum permanent elongation after cooling of 15%; e) Shrinkage test (130 ± 3 °C for 1 h) must not exceed 4.0%; f) Gravimetric water absorption (85 ± 2 °C for 14 days) must be maximum 1 mg/cm²; g) Volume resistivity must be minimum 1 x 10^14 ohm-cm at 27 °C and 1 x 10^12 ohm-cm at 90 °C.",
+        "The polyethylene (PE) sheathing compound must satisfy: a) Tensile strength min 12.5 N/mm² and elongation min 300% before aging; b) Air oven aging (110 ± 2 °C for 7 days) must yield minimum elongation of 300%; c) Hot deformation test (110 ± 2 °C for 6 h) must have a maximum indentation depth of 50 percent; d) Carbon black content for black sheaths must be 2.5 ± 0.5 percent.",
+        "Low Smoke Halogen Free (LSHF) sheathing (Type ST8 and ST12) must satisfy: a) Type ST8 tensile strength min 9.0 N/mm² and elongation min 125%; Type ST12 tensile strength min 12.5 N/mm² and elongation min 300%; b) Oven aging (ST8: 100 ± 2 °C for 7 days, max variation ±40%; ST12: 110 ± 2 °C for 10 days, max variation ±30%); c) Hot deformation (ST8: 80 ± 2 °C for 4 h, max indentation 50%; ST12: 110 ± 2 °C for 4 h, max indentation 50%); d) Cold elongation and cold impact test must show zero cracks and min 20% elongation at -15 ± 2 °C for 3 h; e) Shrinkage test (80 ± 2 °C for 5 h) must be maximum 3 percent.",
+        "Armour must consist of galvanized round steel wires, formed steel wires (strips), or non-magnetic elements applied with a minimum coverage of 90 percent, calculated using the formula: Percent coverage = (N * d / W) * 100, where W = π * D * Cos α. The direction of lay of the armour must be left-hand.",
+        "Cables must be designated using standard letters: Aluminium conductor = A (no code letter for copper); XLPE insulation = 2X; Steel round wire armour = W; Non-magnetic round wire armour = Wa; Steel strip armour = F; Non-magnetic strip armour = Fa; Double steel strip armour = FF; Double steel round wire armour = WW; PVC outer sheath = Y; PE outer sheath = 2Y; LSHF outer sheath = Z.",
+        "Cables designed for fire-retardancy (Categories C1, C2, and C3) must satisfy: a) Flammability burning period must not exceed 60 s; b) Oxygen Index must be minimum 29; c) Temperature Index must be minimum 250 °C; d) Smoke density rating must be maximum 60 (FR-LSH) or 20 (LSHF); e) Halogen acid gas evolution (HCl) must be maximum 20% (FR-LSH) or 0.5% (LSHF); f) Light transmission for LSHF must be minimum 70 percent; g) Evolved gases must have a pH of minimum 4.3 and conductivity of maximum 10 µS/mm.",
+        "Drums must be selected randomly based on lot size: up to 25 drums (select 3, permissible defectives = 0); 26-50 (select 5, permissible defectives = 0); 51-100 (select 8, permissible defectives = 0); 101-300 (select 13, permissible defectives = 1); 301-500 (select 20, permissible defectives = 1); 501 and above (select 32, permissible defectives = 2). A drum sample is marked 'defective' if it fails any acceptance test."
+      ]
+    },
+    "source": {
+      "source_pdf_filename": "7098_1_2025.pdf",
+      "document_version_edition": "Second Revision, 2025"
+    }
+  }
+]
