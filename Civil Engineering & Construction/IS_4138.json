@@ -52,37 +52,44 @@
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 4756 : 1978",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 4756 : 1978 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 4081 : 2013",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 4081 : 2013 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 10291 : 1982",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 10291 : 1982 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 14489 : 2018",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 18001 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 18001 : 2007 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 800 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

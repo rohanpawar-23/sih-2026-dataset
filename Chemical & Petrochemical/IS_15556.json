@@ -53,52 +53,62 @@
     {
       "target_is_code": "IS 1070 : 1992",
       "relationship_type": "MATERIAL_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1070 : 1992 for material specifications or material-related requirements."
     },
     {
       "target_is_code": "IS 2316 : 1990",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2316 : 1990 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 11657 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 11657 : 2025 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 1514 : 1990",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 1514 : 1990 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 1612 : 1976",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 1612 : 1976 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 2075 : 2017",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 2075 : 2017 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 10500 : 2012",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 10500 : 2012 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 12084 : 1987",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 12084 : 1987 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 800 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

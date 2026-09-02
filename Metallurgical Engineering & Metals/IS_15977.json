@@ -52,37 +52,44 @@
     {
       "target_is_code": "IS 1387",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 1387 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 1757",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1757 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 800 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 2062",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 2062 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 9595 : 1996",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 9595 : 1996 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 11812 : 1986",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 11812 : 1986 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

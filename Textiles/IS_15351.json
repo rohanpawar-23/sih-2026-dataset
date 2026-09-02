@@ -58,62 +58,74 @@
     {
       "target_is_code": "IS 16635 : 2017 / ISO 10319 : 2015",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 16635 : 2017 / ISO 10319 : 2015 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 7016 (Part 1/Sec 2) : 2019 / ISO 2286-2 : 2016",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 7016 (Part 1/Sec 2) : 2019 / ISO 2286-2 : 2016 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 7016 (Part 1/Sec 3) : 2019 / ISO 2286-3 : 2016",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 7016 (Part 1/Sec 3) : 2019 / ISO 2286-3 : 2016 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 7016 (Part 3/Sec 1) : 2022 / ISO 4674-1 : 2016",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 7016 (Part 3/Sec 1) : 2022 / ISO 4674-1 : 2016 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 7016 (Part 6/Sec 1) : 2022 / ISO 3303-1 : 2020",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 7016 (Part 6/Sec 1) : 2022 / ISO 3303-1 : 2020 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 15060",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 15060 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2530",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2530 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 11652 : 2017",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 11652 : 2017 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 4905 : 2015",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4905 : 2015 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2 : 2022",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 10146",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 10146 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 7903 : 2011",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 7903 : 2011 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

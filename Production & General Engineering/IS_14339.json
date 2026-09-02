@@ -43,42 +43,50 @@
     {
       "target_is_code": "IS 14365 : 1996",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 14365 : 1996 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 3748 : 1990",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 3748 : 1990 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 4432 : 1988",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4432 : 1988 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 14365 : 1996",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 14365 : 1996 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 3748 : 1990",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 3748 : 1990 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 4432 : 1988",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 4432 : 1988 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 2 : 1960 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

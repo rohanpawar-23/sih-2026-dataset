@@ -71,77 +71,92 @@
     {
       "target_is_code": "IS 286 : 1978",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 286 : 1978 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 321 : 1964",
       "relationship_type": "MATERIAL_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 321 : 1964 for material specifications or material-related requirements."
     },
     {
       "target_is_code": "IS 1070 : 1992",
       "relationship_type": "MATERIAL_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1070 : 1992 for material specifications or material-related requirements."
     },
     {
       "target_is_code": "IS 2263 : 1979",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2263 : 1979 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 4956 : 1977",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4956 : 1977 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 11601 : 2002",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 11601 : 2002 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 12795 : 1989",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 12795 : 1989 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 13933 : 1995",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 13933 : 1995 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 13228 : 2006",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 13228 : 2006 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 13565 : 1992",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 13565 : 1992 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 14164 : 2008",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 14164 : 2008 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16066 : 2017",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16066 : 2017 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 10500 : 2012",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 10500 : 2012 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 800 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

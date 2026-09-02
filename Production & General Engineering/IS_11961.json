@@ -42,32 +42,38 @@
     {
       "target_is_code": "IS : 2-1960",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS : 2-1960 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS : 7047-1973",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS : 7047-1973 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS : 287-1973",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS : 287-1973 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS : 2-1960",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS : 2-1960 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS : 7047-1973",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS : 7047-1973 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS : 287-1973",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS : 287-1973 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

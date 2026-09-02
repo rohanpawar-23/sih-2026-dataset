@@ -61,52 +61,62 @@
     {
       "target_is_code": "IS 15298 (Part 1)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 15298 (Part 1) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "ISO 4643",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses ISO 4643 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 12240 (Part 4)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 12240 (Part 4) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 4905",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4905 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2 : 2022",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 15298 (Part 2) : 2011 / ISO 20345 : 2004",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15298 (Part 2) : 2011 / ISO 20345 : 2004 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 5557 (Part 1) : 2004",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 5557 (Part 1) : 2004 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 5557 (Part 2) : 2018",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 5557 (Part 2) : 2018 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 13893 : 1994",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 13893 : 1994 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16994 : 2018",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16994 : 2018 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

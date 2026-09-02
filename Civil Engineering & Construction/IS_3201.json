@@ -51,27 +51,32 @@
     {
       "target_is_code": "IS 456",
       "relationship_type": "DESIGN_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 456 for design criteria, calculations, or structural details relevant to this standard."
     },
     {
       "target_is_code": "IS 1343",
       "relationship_type": "DESIGN_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1343 for design criteria, calculations, or structural details relevant to this standard."
     },
     {
       "target_is_code": "IS 875 (Parts 1 to 5)",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 875 (Parts 1 to 5) as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 800 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 14489 : 2018",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 14489 : 2018 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

@@ -52,42 +52,50 @@
     {
       "target_is_code": "IS 12467 (Part 1)",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 12467 (Part 1) as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 12467 (Part 2)",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 12467 (Part 2) as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 15612 (Part 2) / ISO 6941",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 15612 (Part 2) / ISO 6941 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 4905",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4905 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 15768 : 2008",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15768 : 2008 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 15742 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15742 : 2007 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16890 : 2018",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16890 : 2018 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

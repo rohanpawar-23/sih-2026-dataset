@@ -57,77 +57,92 @@
     {
       "target_is_code": "IS 1387",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 1387 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 504 (all parts)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 504 (all parts) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 1608 (Part 1)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1608 (Part 1) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 1500 (Part 1)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1500 (Part 1) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 1599",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 1599 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2328",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2328 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2479",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 2479 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 3658",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 3658 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 5047 (Part 1)",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 5047 (Part 1) as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 2 : 1960 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 1254 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 1254 : 2025 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 737 : 2024",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 737 : 2024 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 617 : 2024",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 617 : 2024 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 1950 : 1997",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 1950 : 1997 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 15392 : 2003",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15392 : 2003 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

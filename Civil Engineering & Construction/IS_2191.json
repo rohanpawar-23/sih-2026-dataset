@@ -57,52 +57,62 @@
     {
       "target_is_code": "IS 2191 (Part 1)",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 2191 (Part 1) as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 4020 (all parts)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 4020 (all parts) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2380 (Part 17)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2380 (Part 17) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2046 : 1995",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 2046 : 1995 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 17637 : 2021",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 17637 : 2021 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 2191 (Part 1) : 2022",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 2191 (Part 1) : 2022 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 2202 (Part 2) : 2022",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 2202 (Part 2) : 2022 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 2202 (Part 1) : 2023",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 2202 (Part 1) : 2023 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 1003 (Part 1) : 2003",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 1003 (Part 1) : 2003 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

@@ -55,57 +55,68 @@
     {
       "target_is_code": "IS 667",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 667 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 4084",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4084 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 4741",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4741 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 14181 (Part 1)",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 14181 (Part 1) as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 4229",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4229 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 8156",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 8156 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 105-B02 : 2014",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 105-B02 : 2014 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 105-C10 : 2006",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 105-C10 : 2006 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 15741 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15741 : 2007 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 15742 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15742 : 2007 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16890 : 2024",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16890 : 2024 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

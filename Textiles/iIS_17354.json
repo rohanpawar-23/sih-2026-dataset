@@ -57,57 +57,68 @@
     {
       "target_is_code": "ISO 11737-1 : 2018",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References ISO 11737-1 : 2018 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 15891 (Part 3)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 15891 (Part 3) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 15891 (Part 6)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 15891 (Part 6) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 14944",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 14944 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "ISO 20701",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References ISO 20701 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 2 : 1960",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 1960 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 17349 : 2020",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 17349 : 2020 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 17630 : 2021",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 17630 : 2021 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 5405 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 5405 : 2025 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 17509 : 2021",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 17509 : 2021 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 17514 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 17514 : 2025 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

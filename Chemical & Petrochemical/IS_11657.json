@@ -56,57 +56,68 @@
     {
       "target_is_code": "IS 1070 : 2023",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 1070 : 2023 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 1260 (Part 1) : 1973",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 1260 (Part 1) : 1973 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2088 : 2023",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2088 : 2023 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 3025 (Part 2) : 2019 / ISO 11885 : 2007",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 3025 (Part 2) : 2019 / ISO 11885 : 2007 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 3025 (Part 65) : 2025 / ISO 17294-2 : 2023",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 3025 (Part 65) : 2025 / ISO 17294-2 : 2023 for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 4905 : 2015 / ISO 24153 : 2009",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses IS 4905 : 2015 / ISO 24153 : 2009 as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 2 : 2022",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS 10116 : 2015",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 10116 : 2015 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 15573 : 2018",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15573 : 2018 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16113 : 2013",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16113 : 2013 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 5158 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 5158 : 2025 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

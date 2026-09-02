@@ -53,22 +53,26 @@
     {
       "target_is_code": "IS 2",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "IS/ISO 3008 (Part 1)",
       "relationship_type": "TEST_METHOD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS/ISO 3008 (Part 1) for methods used to test the products or properties covered by this standard."
     },
     {
       "target_is_code": "IS 208 : 2020",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 208 : 2020 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 3564 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 3564 : 2025 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {

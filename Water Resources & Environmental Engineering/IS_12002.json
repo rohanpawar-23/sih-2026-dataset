@@ -54,47 +54,56 @@
     {
       "target_is_code": "IS 2 : 2022",
       "relationship_type": "ROUNDING_STANDARD",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "References IS 2 : 2022 for rules on rounding numerical values and reported measurements."
     },
     {
       "target_is_code": "G.S.R. 496 (E) [MOEF&CC]",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses G.S.R. 496 (E) [MOEF&CC] as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "G.S.R. 497 (E) [MOEF&CC]",
       "relationship_type": "NORMATIVE_REFERENCE",
-      "relationship_category": "CROSS_REFERENCED_STANDARD"
+      "relationship_category": "CROSS_REFERENCED_STANDARD",
+      "description": "Uses G.S.R. 497 (E) [MOEF&CC] as a normative reference for requirements relevant to this standard."
     },
     {
       "target_is_code": "IS 10044 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 10044 : 2025 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 9427 : 2025",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 9427 : 2025 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16091 : 2013",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16091 : 2013 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 15909 : 2020",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 15909 : 2020 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 16654 : 2017",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 16654 : 2017 as an allied product standard covering a similar or complementary product."
     },
     {
       "target_is_code": "IS 800 : 2007",
       "relationship_type": "RELATED_PRODUCT_STANDARD",
-      "relationship_category": "ALLIED_STANDARD"
+      "relationship_category": "ALLIED_STANDARD",
+      "description": "Relates to IS 800 : 2007 as an allied product standard covering a similar or complementary product."
     }
   ],
   "certification": {
