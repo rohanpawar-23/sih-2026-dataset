@@ -1,136 +1,106 @@
 {
-  "basic_identification": {
-    "is_number": "IS 12222 : 2011",
-    "full_title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements (First Revision)",
-    "sector_category": "Transport Engineering / Automotive Braking Systems, Vehicle Testing, Steering and Performance Evaluation (approved by the Transport Engineering Division Council and finalized by the Automotive Braking Systems, Vehicle Testing and Performance Evaluation Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "43.020",
+  "standard": {
+    "is_code": "IS 12222:2011",
+    "title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements (First Revision)",
+    "sector": "Transport Engineering / Automotive Braking Systems, Vehicle Testing, Steering and Performance Evaluation",
+    "ics_code": [
+      "43.020"
+    ],
     "sectional_committee": {
       "name": "Automotive Braking Systems, Vehicle Testing and Performance Evaluation Sectional Committee",
       "number": "TED 04"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements and test evaluation methods for determining the turning circle, turning clearance circles, and maneuverability envelopes of all categories of automotive vehicles (excluding two-wheelers) to ensure safe navigation, steering control, and compatibility with standard road widths and clearances.",
+    "scope": "This standard specifies the requirements and test evaluation methods for determining the turning circle, turning clearance circles, and maneuverability envelopes of all categories of automotive vehicles (excluding two-wheelers) to ensure safe navigation, steering control, and compatibility with standard road widths and clearances.",
+    "keywords": [
+      "IS 12222 : 2011",
+      "Turning Circle",
+      "Maneuverability Requirements",
+      "Turning Clearance Circle",
+      "Circular Track Width",
+      "Wheel Lock Angle",
+      "Steering Pad",
+      "ARAI Homologation",
+      "CMVR Rule 98",
+      "TED 04",
+      "AIS-113"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements and test evaluation methods for determining the turning circle, turning clearance circles, and maneuverability envelopes of all categories of automotive vehicles (excluding two-wheelers) to ensure safe navigation, steering control, and compatibility with standard road widths and clearances.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, March 2011 (incorporating Amendment No. 1, July 2016 and Amendment No. 2, October 2018)",
-    "year_first_published": "1987",
+  "version": {
+    "current_version": "First Revision, March 2011 (incorporating Amendment No. 1, July 2016 and Amendment No. 2, October 2018)",
+    "first_publication_year": 1987,
+    "publication_year": 2011,
+    "revision": "First Revision (reorganized to define mandatory maneuverability requirements and establish standard clearance envelopes for commercial and articulated vehicles)",
     "revision_history": [
-      {
-        "edition": "First Edition (published under the title 'Methods of Measurement of Turning Circle of Automotive Vehicles')",
-        "year": "1987"
-      },
-      {
-        "edition": "First Revision (reorganized to define mandatory maneuverability requirements and establish standard clearance envelopes for commercial and articulated vehicles)",
-        "year": "2011"
-      }
+      "First Edition (published under the title 'Methods of Measurement of Turning Circle of Automotive Vehicles'), 1987",
+      "First Revision (reorganized to define mandatory maneuverability requirements and establish standard clearance envelopes for commercial and articulated vehicles), 2011"
     ],
-    "supersedes": "IS 12222 : 1987",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 12222 : 1987"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "July 2016",
-        "description": "Refines testing equipment specifications and updates references to equivalent international regulations."
+        "amendment_number": "Amendment 1",
+        "date": "2016-07",
+        "summary": "Refines testing equipment specifications and updates references to equivalent international regulations."
       },
       {
-        "amendment_number": "Amendment No. 2",
-        "date": "October 2018",
-        "description": "Overhauls turning circle and track width clauses: substitutes Clause 5.1 to define exact boundary maneuvering requirements within a circle of radius R, and substitutes Clause 5.2 to regulate maximum circular track width (R-r) limits during steering lock."
+        "amendment_number": "Amendment 2",
+        "date": "2018-10",
+        "summary": "Overhauls turning circle and track width clauses: substitutes Clause 5.1 to define exact boundary maneuvering requirements within a circle of radius R, and substitutes Clause 5.2 to regulate maximum circular track width (R-r) limits during steering lock."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 9485 / IS 9435",
-      "title": "Terms and definitions relating to dimensions of road vehicles",
-      "category": "Terminology standard",
-      "location": "Clause 3.1 & 3.2",
-      "relevance": "Standardises dimensions of turning circles, vehicle overhangs, and track widths to ensure consistent homologation measurements."
+      "target_is_code": "IS 9485 / IS 9435",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 1960 / IS 2 : 2022",
-      "title": "Rules for rounding off numerical values",
-      "category": "Rounding standard",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+      "target_is_code": "IS 2 : 1960 / IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11948 : 1999",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11859",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10527 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 11948 : 1999",
-      "title": "Automotive Vehicles — Steering Effort — Method of Evaluation",
-      "category": "Testing standard",
-      "location": "Parallel steering category",
-      "relevance": "Direct companion standard regulating the manual force required to operate the steering system during identical maneuverability checks."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
     },
-    {
-      "is_number": "IS 11859",
-      "title": "Methods of measurement of turning circle of agricultural tractors",
-      "category": "Testing standard",
-      "location": "Parallel steering category",
-      "relevance": "Companion standard regulating turning circle limits and testing layouts specifically for off-road agricultural tractors."
-    },
-    {
-      "is_number": "IS 10527 : 1983",
-      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "A sister transport engineering standard present in the notebook, specifying pneumatic pressure series, finalized under the Transport Engineering Division."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in this notebook, regulating support framing, steel assemblies, and connection details."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Performance Specification (Transport Engineering / Vehicle Homologation)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under Rule 98 of the Central Motor Vehicles Rules (CMVR), 1989, all commercial vehicles, passenger cars, trailers, and multi-axle transport combinations manufactured, imported, or registered in India must undergo mandatory type-approval (homologation) testing. Conformance to IS 12222:2011 turning circle and track limitations must be certified by accredited national testing agencies (such as ARAI, GARC, or ICAT). Non-conforming vehicles cannot be sold or legally registered in India. Precious metal hallmarking is completely inapplicable to automotive steering parameters.",
+    "description": "Strict Statutory Mandatory Certification. Under Rule 98 of the Central Motor Vehicles Rules (CMVR), 1989, all commercial vehicles, passenger cars, trailers, and multi-axle transport combinations manufactured, imported, or registered in India must undergo mandatory type-approval (homologation) testing. Conformance to IS 12222:2011 turning circle and track limitations must be certified by accredited national testing agencies (such as ARAI, GARC, or ICAT). Non-conforming vehicles cannot be sold or legally registered in India. Precious metal hallmarking is completely inapplicable to automotive steering parameters.",
     "requirements": [
-      {
-        "requirement_type": "Maneuvering Envelope Limitation (Amended)",
-        "detail": "Under Amendment No. 2, the vehicle must be able to maneuver on either side (extreme left and right wheel lock) inside a circle of radius R (where R is standardly specified as 12.5 m under national transport rules) without any of its outermost points projecting outside the circumference of the circle.",
-        "clause_reference": "Clause 5.1"
-      },
-      {
-        "requirement_type": "Circular Track Width (Amended)",
-        "detail": "Under Amendment No. 2, when the outermost points of the vehicle are moving on either side on a circle of radius R, the vehicle must be able to move entirely within the limits of a circular track of width (R-r) wide (where r is the inner radius, typically restricting the track width to 7.2 m wide to ensure narrow road compatibility).",
-        "clause_reference": "Clause 5.2"
-      },
-      {
-        "requirement_type": "Tractor-Trailer Maneuverability Integration",
-        "detail": "For tractor-semi-trailer or truck-trailer combinations, the maneuverability requirements under Clause 5.0 of IS 12222:2011 are integrated with trailer standards (such as AIS-113), enforcing a maximum outswing (U) of 1.2 m and a minimum inner radius (Rb) of 5.3 m.",
-        "clause_reference": "Clause 5.0 & Fig. 1/Fig. 2"
-      },
-      {
-        "requirement_type": "Adjustable Wheel Lock Calibration",
-        "detail": "Prior to turning circle evaluations, the wheel lock angles of the steered axle must be adjusted strictly in accordance with the vehicle manufacturer's design specifications to prevent artificial steering limits.",
-        "clause_reference": "Clause 4.1"
-      }
+      "Under Amendment No. 2, the vehicle must be able to maneuver on either side (extreme left and right wheel lock) inside a circle of radius R (where R is standardly specified as 12.5 m under national transport rules) without any of its outermost points projecting outside the circumference of the circle.",
+      "Under Amendment No. 2, when the outermost points of the vehicle are moving on either side on a circle of radius R, the vehicle must be able to move entirely within the limits of a circular track of width (R-r) wide (where r is the inner radius, typically restricting the track width to 7.2 m wide to ensure narrow road compatibility).",
+      "For tractor-semi-trailer or truck-trailer combinations, the maneuverability requirements under Clause 5.0 of IS 12222:2011 are integrated with trailer standards (such as AIS-113), enforcing a maximum outswing (U) of 1.2 m and a minimum inner radius (Rb) of 5.3 m.",
+      "Prior to turning circle evaluations, the wheel lock angles of the steered axle must be adjusted strictly in accordance with the vehicle manufacturer's design specifications to prevent artificial steering limits."
     ]
   },
-  "keywords": [
-    "IS 12222 : 2011",
-    "Turning Circle",
-    "Maneuverability Requirements",
-    "Turning Clearance Circle",
-    "Circular Track Width",
-    "Wheel Lock Angle",
-    "Steering Pad",
-    "ARAI Homologation",
-    "CMVR Rule 98",
-    "TED 04",
-    "AIS-113"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 12222 : 2011 is the mandatory national Indian Standard specification governing the turning circle and maneuverability limits of automotive vehicles. Under India's statutory Central Motor Vehicles Rules (CMVR), all passenger cars, buses, commercial trucks, and trailers must undergo official homologation to certify that they can safely steer and turn without blocking traffic or colliding with roadside structures. Under the latest Amendment No. 2, the standard mandates that vehicles successfully turn 360 degrees on either lock within a standard circle of 12.5-meter radius (R) without any outer body points projecting outside, whilst restricting their inner sweep to move completely within a 7.2-meter wide circular track (R-r) to verify road-width compatibility."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "12222a2.pdf",
     "document_version_edition": "First Revision, March 2011 (incorporating Amendment No. 2, October 2018)"
   }

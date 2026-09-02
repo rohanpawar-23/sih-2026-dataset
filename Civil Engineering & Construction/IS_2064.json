@@ -1,178 +1,125 @@
 {
-  "basic_identification": {
-    "is_number": "IS 2064 : 1993",
-    "full_title": "Selection, Installation and Maintenance of Sanitary Appliances — Code of Practice (Second Revision)",
-    "sector_category": "Civil Engineering / Sanitary Appliances and Water Fittings (approved by the Civil Engineering Division Council and finalized by the Sanitary Appliances and Water Fittings Sectional Committee, CED 3, of the Bureau of Indian Standards)",
-    "ics_code": "91.140.70; 696.14",
+  "standard": {
+    "is_code": "IS 2064:1993",
+    "title": "Selection, Installation and Maintenance of Sanitary Appliances — Code of Practice (Second Revision)",
+    "sector": "Civil Engineering / Sanitary Appliances and Water Fittings",
+    "ics_code": [
+      "91.140.70",
+      "696.14"
+    ],
     "sectional_committee": {
       "name": "Sanitary Appliances and Water Fittings Sectional Committee",
       "number": "CED 3"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the code of practice for the selection, on-site installation, and maintenance of sanitary appliances in residential, commercial, and public buildings, including water closets, washbasins, urinals, bidets, flushing cisterns, and kitchen sinks to ensure leak-free and hygienic plumbing operations.",
+    "scope": "This standard prescribes the code of practice for the selection, on-site installation, and maintenance of sanitary appliances in residential, commercial, and public buildings, including water closets, washbasins, urinals, bidets, flushing cisterns, and kitchen sinks to ensure leak-free and hygienic plumbing operations.",
+    "keywords": [
+      "IS 2064 : 1993",
+      "Sanitary Appliances",
+      "Code of Practice",
+      "Mounting Heights",
+      "Water Seal Trap",
+      "Wash Basin Brackets",
+      "European Water Closet",
+      "Urinal Spacing",
+      "Jointing Watertight",
+      "IS 2556 Vitreous",
+      "CED 3",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the code of practice for the selection, on-site installation, and maintenance of sanitary appliances in residential, commercial, and public buildings, including water closets, washbasins, urinals, bidets, flushing cisterns, and kitchen sinks to ensure leak-free and hygienic plumbing operations.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, March 1993 (Reaffirmed 2022)",
-    "year_first_published": "1962",
+  "version": {
+    "current_version": "Second Revision, March 1993 (Reaffirmed 2022)",
+    "first_publication_year": 1962,
+    "publication_year": 1993,
+    "revision": "Second Revision (IS 2064 : 1993)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 2064 : 1962)",
-        "year": "1962"
-      },
-      {
-        "edition": "First Revision (IS 2064 : 1973)",
-        "year": "1973"
-      },
-      {
-        "edition": "Second Revision (IS 2064 : 1993)",
-        "year": "1993"
-      }
+      "First Edition (IS 2064 : 1962), 1962",
+      "First Revision (IS 2064 : 1973), 1973",
+      "Second Revision (IS 2064 : 1993), 1993"
     ],
-    "supersedes": "IS 2064 : 1973",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2556 (Parts 1 to 15)",
-      "title": "Vitreous sanitary appliances (vitreous china) — Specification",
-      "category": "Product Specification",
-      "relevance": "Provides dimensional, material, and chemical requirements for water closets, washbasins, urinals, and sinks installed under IS 2064."
-    },
-    {
-      "is_number": "IS 774 : 1984",
-      "title": "Flushing cisterns for water closets and urinals (other than plastic cisterns)",
-      "category": "Product Specification",
-      "relevance": "Specifies flushing cistern parameters which are systematically connected to the water closet bowls."
-    },
-    {
-      "is_number": "IS 781 : 1984",
-      "title": "Cast copper alloy screw down taps and stop valves for water services",
-      "category": "Product Specification",
-      "relevance": "Specifies quality parameters for water-supply bib taps and stop valves supplying wash basins and sinks."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates water quality, where potable water supplied to the installed washbasins and kitchen sinks must satisfy standard health safety limits."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "location": "Notebook Co-source",
-      "relevance": "Directs safety audits in industrial and commercial rest facilities, auditing the stability of handrails, floor slip hazards, and mechanical sanitation."
-    },
-    {
-      "is_number": "IS 18001 : 2007",
-      "title": "Occupational Health and Safety Management System (First Revision)",
-      "category": "Management standard",
-      "location": "Notebook Co-source",
-      "relevance": "Unifies risk mitigation, mandating regular cleaning schedules and mechanical hazard evaluations for toilet and shower installations."
-    },
-    {
-      "is_number": "IS 1726 : 1991",
-      "title": "Cast Iron Manhole Covers and Frames — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates sewer connection ports where wastewater from sanitary fixtures is discharged into public underground networks."
-    },
-    {
-      "is_number": "IS 4985 : 2021",
-      "title": "Unplasticized PVC pipes for potable water supplies — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies the water distribution pipelines that feed flushing cisterns and taps of the installed sanitaryware."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, walkway platforms, and vertical shafts in steel-framed buildings."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Technical Guidelines (Civil Engineering Department / Sanitary Appliances)",
-    "certification_status": "Voluntary Code of Practice. Since IS 2064 is an installation code rather than a manufactured physical commodity, it does not carry an individual physical 'ISI Mark' on its own. However, compliance with its dimensional, spacing, and jointing requirements is legally mandatory under municipal corporation building bylaws, State Public Works Department (PWD) specifications, the National Building Code (NBC 2016), and public works tenders across India.",
-    "requirements": [
+    "supersedes": [
+      "IS 2064 : 1973"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Water Seal Depth",
-        "detail": "Every sanitary appliance must discharge through an effective trap (such as P-trap, S-trap, or bottle trap) that maintains a continuous water seal depth of not less than 50 mm to prevent the backflow of toxic sewer gases into habitable spaces.",
-        "clause_reference": "Good Practice Guidelines"
-      },
-      {
-        "requirement_type": "Wash Basin Mounting Height",
-        "detail": "The standard height for mounting wash basins is 750 mm to 800 mm from the finished floor level to the top rim of the basin, ensuring optimal ergonomic access and minimal water splashing.",
-        "clause_reference": "Standard Installation Dimensions"
-      },
-      {
-        "requirement_type": "Shower Rose Mounting Height",
-        "detail": "Wall-mounted shower heads must be positioned at exactly 2000 mm (2.0 m / 6.5 ft) from the finished floor level, designed to accommodate average adult heights.",
-        "clause_reference": "Standard Installation Dimensions"
-      },
-      {
-        "requirement_type": "Urinal Lip Mounting Height",
-        "detail": "Urinal lips of bowl/basin types must be installed at a height of 610 mm from the finished floor level for adults, and lowered to 510 mm for schools and nurseries.",
-        "clause_reference": "Standard Installation Dimensions"
-      },
-      {
-        "requirement_type": "European WC Rim Height",
-        "detail": "Vitreous water closet bowls of the European pedestal style must be installed such that the top rim is positioned at 400 mm from the finished floor level.",
-        "clause_reference": "Standard Installation Dimensions"
-      },
-      {
-        "requirement_type": "Rigid Bracket Support",
-        "detail": "Wash basins and sinks must be rigidly supported on heavy-duty cast iron brackets conforming to IS 775 or fixed directly to walls using high-strength steel rag bolts.",
-        "clause_reference": "Installation Specifications"
-      },
-      {
-        "requirement_type": "Watertight and Gas-tight Gaskets",
-        "detail": "All joints between vitreous china outlets (IS 2556) and lead, PVC, or cast iron waste/soil pipes must be sealed using gas-tight and watertight gaskets, mastic, or cement-hemp packing.",
-        "clause_reference": "Jointing Specifications"
-      },
-      {
-        "requirement_type": "Screwed Thread Conformance",
-        "detail": "All pressure-tight screwed metal pipe jointing must use threads conforming strictly to the dimensions and tolerances of IS 554.",
-        "clause_reference": "Annex A"
-      },
-      {
-        "requirement_type": "Overflow Connection Route",
-        "detail": "The overflow pipe from wash basins and sinks must be connected directly to the waste pipe immediately above the inlet of the trap to prevent bypassing of the water seal.",
-        "clause_reference": "Installation Specifications"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "All observed or calculated physical parameters, mounting heights, and clearances must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 2064 : 1993",
-    "Sanitary Appliances",
-    "Code of Practice",
-    "Mounting Heights",
-    "Water Seal Trap",
-    "Wash Basin Brackets",
-    "European Water Closet",
-    "Urinal Spacing",
-    "Jointing Watertight",
-    "IS 2556 Vitreous",
-    "CED 3",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2556 (Parts 1 to 15)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 774 : 1984",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 781 : 1984",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 18001 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1726 : 1991",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4985 : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 2064 : 1993 (Second Revision) is the primary national Indian Standard code of practice regulating the selection, site installation, and long-term maintenance of sanitary appliances. Maintained under the Sanitary Appliances and Water Fittings Sectional Committee (CED 3) and reaffirmed in 2022, this standard unifies plumbing layouts across India's domestic and commercial sectors. It unifies high-precision installation dimensions (such as washbasin rim heights at 750–800 mm, European WC seats at 400 mm, and wall showers at 2000 mm from finished floor levels), mandates robust structural brackets, requires watertight and gas-tight jointing to prevent leakages, and enforces a minimum 50 mm deep water seal in all traps to block sewer-gas backflows, ensuring maximum sanitation and public health."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 2064 is an installation code rather than a manufactured physical commodity, it does not carry an individual physical 'ISI Mark' on its own. However, compliance with its dimensional, spacing, and jointing requirements is legally mandatory under municipal corporation building bylaws, State Public Works Department (PWD) specifications, the National Building Code (NBC 2016), and public works tenders across India.",
+    "requirements": [
+      "Every sanitary appliance must discharge through an effective trap (such as P-trap, S-trap, or bottle trap) that maintains a continuous water seal depth of not less than 50 mm to prevent the backflow of toxic sewer gases into habitable spaces.",
+      "The standard height for mounting wash basins is 750 mm to 800 mm from the finished floor level to the top rim of the basin, ensuring optimal ergonomic access and minimal water splashing.",
+      "Wall-mounted shower heads must be positioned at exactly 2000 mm (2.0 m / 6.5 ft) from the finished floor level, designed to accommodate average adult heights.",
+      "Urinal lips of bowl/basin types must be installed at a height of 610 mm from the finished floor level for adults, and lowered to 510 mm for schools and nurseries.",
+      "Vitreous water closet bowls of the European pedestal style must be installed such that the top rim is positioned at 400 mm from the finished floor level.",
+      "Wash basins and sinks must be rigidly supported on heavy-duty cast iron brackets conforming to IS 775 or fixed directly to walls using high-strength steel rag bolts.",
+      "All joints between vitreous china outlets (IS 2556) and lead, PVC, or cast iron waste/soil pipes must be sealed using gas-tight and watertight gaskets, mastic, or cement-hemp packing.",
+      "All pressure-tight screwed metal pipe jointing must use threads conforming strictly to the dimensions and tolerances of IS 554.",
+      "The overflow pipe from wash basins and sinks must be connected directly to the waste pipe immediately above the inlet of the trap to prevent bypassing of the water seal.",
+      "All observed or calculated physical parameters, mounting heights, and clearances must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "2064_1993_reff2022.pdf",
     "document_version_edition": "Second Revision, March 1993"
   }

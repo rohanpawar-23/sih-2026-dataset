@@ -1,144 +1,116 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10257 : 1982",
-    "full_title": "Specification for Aluminium Foil Stock",
-    "sector_category": "Metallurgical Engineering / Light Metals and their Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Ores and Feed Stock for Aluminium Industry, its Metals/Alloys and Products Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "77.150.10",
+  "standard": {
+    "is_code": "IS 10257:1982",
+    "title": "Specification for Aluminium Foil Stock",
+    "sector": "Metallurgical Engineering / Light Metals and their Alloys",
+    "ics_code": [
+      "77.150.10"
+    ],
     "sectional_committee": {
       "name": "Ores and Feed Stock for Aluminium Industry, its Metals/Alloys and Products Sectional Committee",
       "number": "MTD 07"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements for aluminium and aluminium alloy foil stock in the form of cold-rolled coils, designed as feedstock for the downstream manufacture of thin aluminium foil of various gauges. It covers chemical composition, mechanical properties, dimensional tolerances, and general technical delivery requirements.",
+    "scope": "This standard specifies requirements for aluminium and aluminium alloy foil stock in the form of cold-rolled coils, designed as feedstock for the downstream manufacture of thin aluminium foil of various gauges. It covers chemical composition, mechanical properties, dimensional tolerances, and general technical delivery requirements.",
+    "keywords": [
+      "IS 10257 : 1982",
+      "Aluminium Foil Stock",
+      "Cold Rolled Coils",
+      "High Purity Aluminium",
+      "Grade 1200",
+      "Grade 1235",
+      "Alloy 8011",
+      "Tensile strength",
+      "Elongation",
+      "IS 10259 Inspection",
+      "MTD 07",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements for aluminium and aluminium alloy foil stock in the form of cold-rolled coils, designed as feedstock for the downstream manufacture of thin aluminium foil of various gauges. It covers chemical composition, mechanical properties, dimensional tolerances, and general technical delivery requirements.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1982 (Reaffirmed 2014, Reaffirmed 2019, Reviewed and Reaffirmed 2024)",
-    "year_first_published": "1982",
+  "version": {
+    "current_version": "First Edition, 1982 (Reaffirmed 2014, Reaffirmed 2019, Reviewed and Reaffirmed 2024)",
+    "first_publication_year": 1982,
+    "publication_year": 1982,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1982"
-      }
+      "First Edition, 1982"
     ],
-    "supersedes": "N/A (Developed as a new dedicated national standard to regulate raw aluminum coils used in downstream foil rolling mills)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 10259",
-      "title": "General conditions for delivery and inspection of aluminium and aluminium alloy products",
-      "category": "Delivery standard",
-      "location": "Clause 1.2 / Normative references",
-      "relevance": "Specifies standard packaging, shipping tolerances, sampling rates, and general inspection routines for aluminium-based products."
-    },
-    {
-      "is_number": "IS 5052",
-      "title": "Aluminium and aluminium alloy temper designations",
-      "category": "Terminology standard",
-      "location": "Clause 5",
-      "relevance": "Standardises mechanical temper classifications (such as Annealed O or Hard-Drawn H14) for wrought aluminium alloys."
-    },
-    {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Supply standard",
-      "location": "Normative references",
-      "relevance": "Outlines standard administrative, manufacturing, sampling, and shipment conditions for metallurgical products."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1254 : 2025",
-      "title": "Corrugated Aluminium Sheet — Specification (Fifth Revision)",
-      "category": "Product Specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard for corrugated aluminium sheets, present in the notebook, which also relies heavily on IS 10259 for general conditions of delivery and inspection."
-    },
-    {
-      "is_number": "IS 737 : 2008",
-      "title": "Wrought Aluminium and Aluminium Alloy Sheet and Strip for General Engineering Purposes — Specification (Fourth Revision)",
-      "category": "Product Specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "Specifies wrought aluminium sheets and strips that establish parallel grade purities and manufacturing methods for aluminum alloys."
-    },
-    {
-      "is_number": "IS 1608 : 2005",
-      "title": "Mechanical Testing of Metals — Tensile Testing (Third Revision)",
-      "category": "Testing standard",
-      "location": "Normative references",
-      "relevance": "The core national standard regulating room-temperature tensile testing of metallic specimens, used to verify the ultimate tensile strength of foil stock."
-    },
-    {
-      "is_number": "IS 10259 : 1982",
-      "title": "General Conditions for Delivery and Inspection of Aluminium and Aluminium Alloy Products",
-      "category": "Product Specification",
-      "location": "Normative references",
-      "relevance": "Enforces standard packaging, delivery tolerances, and general acceptance criteria across all aluminium downstream products."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Engineering / Wrought Light Metals)",
-    "certification_status": "Voluntary Quality and Performance Certification. Unlike builders hardware or metal packaging containers which are under strict statutory Quality Control Orders (QCOs), industrial aluminium foil stock under IS 10257 : 1982 is certified on a voluntary basis. Conforming manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) under Scheme-I of Schedule-II of the BIS (Conformity Assessment) Regulations, 2018. Compliance is routinely mandated inside public and private sector heavy industrial and metallurgical rolling mill supply contracts. Precious metal hallmarking is completely inapplicable to industrial raw aluminium coils.",
-    "requirements": [
+    "supersedes": [
+      "N/A (Developed as a new dedicated national standard to regulate raw aluminum coils used in downstream foil rolling mills)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every commercial tag or label attached to bundles/coils of aluminium foil stock, along with the accompanying test certificate, must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L)."
-      },
-      {
-        "requirement_type": "Permitted Materials and Chemical Purity",
-        "detail": "The foil stock must be manufactured from high-purity aluminium or wrought aluminium alloys (such as designations 19000, 19500, 1200, 1235, or 8011) ensuring low iron, silicon, and copper impurity limits to prevent tearing during high-speed rolling into micro-gauges."
-      },
-      {
-        "requirement_type": "Cold-Rolled Coil Fabrication",
-        "detail": "Foil stock must be supplied as continuous, solid cold-rolled coils, wound tightly with uniform tension to prevent telescoping or collapse of the inner core during transit and uncoiling."
-      },
-      {
-        "requirement_type": "Delivery Tempers (Conditions)",
-        "detail": "Stock is typically supplied in one of the standard tempers as specified by the purchaser (such as O - Annealed or H14 - Half-hard) in accordance with temper standards to ensure appropriate starting ductility."
-      },
-      {
-        "requirement_type": "Freedom from Defects",
-        "detail": "The surface must be clean, smooth, bright, and completely free from physical defects such as edge cracks, laminations, pinholes, slivers, deep scratch marks, corrosion, or heavy surface oxidation which could cause tearing or localized punctures during foil-rolling."
-      },
-      {
-        "requirement_type": "Mechanical Properties - Tensile and Elongation",
-        "detail": "Wrought test specimens must satisfy mechanical limits (such as ultimate tensile strength and minimum elongation percentage) to ensure the sheet can sustain the severe tensions experienced in high-speed, downstream multi-stand rolling mills."
-      },
-      {
-        "requirement_type": "Retest Procedure on Failure",
-        "detail": "If any test specimen fails to comply with mechanical or chemical limits, a retest is permitted: two additional samples must be drawn from the same lot. The lot is accepted if both retests pass, and is rejected if either retest fails."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10257 : 1982",
-    "Aluminium Foil Stock",
-    "Cold Rolled Coils",
-    "High Purity Aluminium",
-    "Grade 1200",
-    "Grade 1235",
-    "Alloy 8011",
-    "Tensile strength",
-    "Elongation",
-    "IS 10259 Inspection",
-    "MTD 07",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 10259",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5052",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1254 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 737 : 2008",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1608 : 2005",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10259 : 1982",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10257 : 1982 is the national Indian Standard specification governing aluminium and aluminium alloy foil stock in the form of continuous, tightly wound cold-rolled coils. This stock serves as the essential raw material (feedstock) for foil-rolling mills, which cold-roll the metal down to extremely thin gauges (such as household foils, food-packaging wraps, and pharmaceutical laminates). Certified on a voluntary basis under the BIS Standard Mark (ISI Mark) scheme, the standard enforces strict chemical and physical boundaries to prevent tearing or puncturing during high-speed rolling. It regulates metallurgical purity (restricting impurities like silicon and iron), dimensional tolerances under IS 10259, surface cleanliness (requiring freedom from edge cracks and surface oxidation), and mechanical ductility (tensile strength and elongation) based on temper designations (O or H14) per IS 5052."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Quality Control Order",
+      "year": 1982
+    },
+    "description": "Voluntary Quality and Performance Certification. Unlike builders hardware or metal packaging containers which are under strict statutory Quality Control Orders (QCOs), industrial aluminium foil stock under IS 10257 : 1982 is certified on a voluntary basis. Conforming manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) under Scheme-I of Schedule-II of the BIS (Conformity Assessment) Regulations, 2018. Compliance is routinely mandated inside public and private sector heavy industrial and metallurgical rolling mill supply contracts. Precious metal hallmarking is completely inapplicable to industrial raw aluminium coils.",
+    "requirements": [
+      "Every commercial tag or label attached to bundles/coils of aluminium foil stock, along with the accompanying test certificate, must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+      "The foil stock must be manufactured from high-purity aluminium or wrought aluminium alloys (such as designations 19000, 19500, 1200, 1235, or 8011) ensuring low iron, silicon, and copper impurity limits to prevent tearing during high-speed rolling into micro-gauges.",
+      "Foil stock must be supplied as continuous, solid cold-rolled coils, wound tightly with uniform tension to prevent telescoping or collapse of the inner core during transit and uncoiling.",
+      "Stock is typically supplied in one of the standard tempers as specified by the purchaser (such as O - Annealed or H14 - Half-hard) in accordance with temper standards to ensure appropriate starting ductility.",
+      "The surface must be clean, smooth, bright, and completely free from physical defects such as edge cracks, laminations, pinholes, slivers, deep scratch marks, corrosion, or heavy surface oxidation which could cause tearing or localized punctures during foil-rolling.",
+      "Wrought test specimens must satisfy mechanical limits (such as ultimate tensile strength and minimum elongation percentage) to ensure the sheet can sustain the severe tensions experienced in high-speed, downstream multi-stand rolling mills.",
+      "If any test specimen fails to comply with mechanical or chemical limits, a retest is permitted: two additional samples must be drawn from the same lot. The lot is accepted if both retests pass, and is rejected if either retest fails."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "Not in current notebook sources. Profile compiled from official BIS registries and national metallurgical rolling industry specifications.",
     "document_version_edition": "First Edition, 1982 (Reaffirmed 2024)"
   }

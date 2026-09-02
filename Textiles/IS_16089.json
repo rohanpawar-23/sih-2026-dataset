@@ -1,162 +1,120 @@
 {
-  "basic_identification": {
-    "is_number": "IS 16089 : 2013",
-    "full_title": "Jute Agro-Textile — Sapling Bags for Growth of Seedling/Sapling — Specification",
-    "sector_category": "Technical Textiles / Technical Textiles for Agrotech Applications (approved by the Textile Division Council and finalized by the Technical Textiles for Agrotech Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "59.080.70; 65.060.35",
+  "standard": {
+    "is_code": "IS 16089:2013",
+    "title": "Jute Agro-Textile — Sapling Bags for Growth of Seedling/Sapling — Specification",
+    "sector": "Technical Textiles / Technical Textiles for Agrotech Applications",
+    "ics_code": [
+      "59.080.70",
+      "65.060.35"
+    ],
     "sectional_committee": {
       "name": "Technical Textiles for Agrotech Sectional Committee",
       "number": "TXD 35"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the material, construction, physical, and mechanical requirements, along with corresponding test methods, for biodegradable jute sapling bags manufactured from woven hessian cloth. These bags are designed for nursery use to cultivate seedlings and saplings before transplanting them into open fields, forestry zones, or horticultural developments, providing a natural, root-aerating, and plastic-free alternative.",
+    "scope": "This standard specifies the material, construction, physical, and mechanical requirements, along with corresponding test methods, for biodegradable jute sapling bags manufactured from woven hessian cloth. These bags are designed for nursery use to cultivate seedlings and saplings before transplanting them into open fields, forestry zones, or horticultural developments, providing a natural, root-aerating, and plastic-free alternative.",
+    "keywords": [
+      "IS 16089 : 2013",
+      "Jute Agro-Textile",
+      "Sapling Bags",
+      "Seedling Growth",
+      "Nursery Bags",
+      "Woven Hessian Cloth",
+      "Water Holding Capacity",
+      "Tensile Breaking Strength",
+      "Seam Strength IS 9030",
+      "Biodegradable Container",
+      "TXD 35",
+      "Agro Textiles QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the material, construction, physical, and mechanical requirements, along with corresponding test methods, for biodegradable jute sapling bags manufactured from woven hessian cloth. These bags are designed for nursery use to cultivate seedlings and saplings before transplanting them into open fields, forestry zones, or horticultural developments, providing a natural, root-aerating, and plastic-free alternative.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 2013 (incorporating Amendment No. 1, October 2022; Reaffirmed in 2023)",
-    "year_first_published": "2013",
+  "version": {
+    "current_version": "First Edition, 2013 (incorporating Amendment No. 1, October 2022; Reaffirmed in 2023)",
+    "first_publication_year": 2013,
+    "publication_year": 2013,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2013"
-      }
+      "First Edition, 2013"
     ],
-    "supersedes": "N/A (Developed as a new dedicated national specification to standardize natural, biodegradable plant-container bags under the agrotech division)",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "N/A (Developed as a new dedicated national specification to standardize natural",
+      "biodegradable plant-container bags under the agrotech division)"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "October 2022",
-        "description": "Modifies Page 3, Clause C-1, Line 13 to replace the legacy water holding capacity calculation formula with a corrected algebraic ratio equation to accurately assess the fiber's water absorption behavior."
+        "amendment_number": "Amendment 1",
+        "date": "2022-10",
+        "summary": "Modifies Page 3, Clause C-1, Line 13 to replace the legacy water holding capacity calculation formula with a corrected algebraic ratio equation to accurately assess the fiber's water absorption behavior."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 1964",
-      "title": "Textiles — Methods for determination of mass per unit length and mass per unit area of fabrics",
-      "category": "Physical testing",
-      "location": "Performance testing",
-      "relevance": "Enforced to measure and verify the baseline mass (GSM) of the woven hessian cloth used to construct the bags."
+      "target_is_code": "IS 1964",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1954",
-      "title": "Determination of length and width of woven fabrics — Methods",
-      "category": "Dimensional standard",
-      "location": "Dimensional requirements",
-      "relevance": "Governs measurement routines and tolerances for the physical dimensions of the flat fabric before cutting."
+      "target_is_code": "IS 1954",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1969",
-      "title": "Methods for determination of breaking strength and elongation of woven textile fabrics",
-      "category": "Mechanical testing",
-      "location": "Performance requirements",
-      "relevance": "Prescribes standard laboratory tension-testing configurations to verify warp and weft breaking strengths under load."
+      "target_is_code": "IS 1969",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 9030",
-      "title": "Method for determination of seam strength of jute fabrics including their laminates",
-      "category": "Mechanical testing",
-      "location": "Performance requirements",
-      "relevance": "Specifies standard test methods to evaluate the load-bearing integrity of the bag's stitched seams, preventing joint blowout during soil loading."
+      "target_is_code": "IS 9030",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes the mathematical rounding of calculated or observed testing figures to evaluate code compliance."
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17070 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16513 : 2016",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16718 : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 17070 : 2019",
-      "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
-      "category": "Product specification",
-      "location": "Parallel TXD 35 standard",
-      "relevance": "A sister standard regulating non-woven jute weed-suppression and plant-growth mulching sheets, present in the notebook."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Agro Textiles (Quality Control) Order",
+      "year": 2013
     },
-    {
-      "is_number": "IS 16513 : 2016",
-      "title": "Agro Textiles — Insect Nets for Agriculture and Horticulture Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel TXD 35 standard",
-      "relevance": "A fellow agricultural protective textile standard present in the notebook co-managed under the agrotech framework."
-    },
-    {
-      "is_number": "IS 16718 : 2021",
-      "title": "Textiles — Polypropylene Spun Bonded Non-Woven Crop Covers and Fruit Skirting Bags — Specification",
-      "category": "Product specification",
-      "location": "Parallel agrotech group",
-      "relevance": "Parallel standard specifying synthetic polypropylene nonwoven crop protections, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Agrotech Textiles / Biodegradable Jute Bags)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all Jute Sapling Bags for the growth of seedlings/saplings manufactured, imported, distributed, or sold in India must conform to IS 16089:2013 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified sapling bags in the domestic market is a statutory offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition timelines, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to biodegradable jute bags.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (QCO) issued by the Ministry of Textiles, Government of India, all Jute Sapling Bags for the growth of seedlings/saplings manufactured, imported, distributed, or sold in India must conform to IS 16089:2013 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified sapling bags in the domestic market is a statutory offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition timelines, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to biodegradable jute bags.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every commercial pack or bundle of sapling bags must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 16089) printed on a secure label or packaging.",
-        "clause_reference": "Marking clauses"
-      },
-      {
-        "requirement_type": "Raw Material Composition",
-        "detail": "The sapling bags must be manufactured from natural, high-purity woven hessian cloth of specified GSM (typically standard 272 g/m²). Synthetic blending or toxic chemical treatments that would compromise soil biodegradability or plant root systems are strictly prohibited.",
-        "clause_reference": "Clause 2.a (Product Manual)"
-      },
-      {
-        "requirement_type": "Finished Bag Sizing & Dimensions",
-        "detail": "The length, width, and shape of the sapling bags must be declared by the manufacturer for the scope of the licence to match different crop variety and seedling root requirements.",
-        "clause_reference": "Clause 6 (Product Manual)"
-      },
-      {
-        "requirement_type": "Warp and Weft Thread Count",
-        "detail": "The warp yarn count (Ends per unit length) and weft yarn count (Picks per unit length) must satisfy specified limits to ensure a tight, uniform weave that retains soil and moisture while allowing root aeration.",
-        "clause_reference": "Technical Specifications"
-      },
-      {
-        "requirement_type": "MD and CD Breaking Strength",
-        "detail": "The hessian fabric must resist handling stresses: tensile breaking strength in both Machine Direction (MD) and Cross Direction (CD) must satisfy specified minimum load thresholds when tested per IS 1969."
-      },
-      {
-        "requirement_type": "Stitched Seam Strength",
-        "detail": "To prevent structural blowout along the joints when filled with heavy, wet nursery soil, the stitched seams of the bag must satisfy a specified minimum seam strength when evaluated in accordance with IS 9030."
-      },
-      {
-        "requirement_type": "Amended Water Holding Capacity (Clause C-1 - Amended)",
-        "detail": "Under Amendment No. 1, to evaluate moisture-retention capability, the water holding capacity must be tested as per Annex C and calculated using the corrected formula:\nWater holding capacity = [ W1 / ((W2 - X) - W1) ] * 100 percent\nwhere W1 is the mass of the dry jute specimen, W2 is the mass of the saturated specimen with the testing apparatus, and X is the mass of the empty wet testing apparatus.",
-        "clause_reference": "Annex C, Clause C-1 (Amended)",
-        "page_reference": "Page 1 of Amendment No. 1"
-      },
-      {
-        "requirement_type": "Visual Workmanship & Freedom from Defects",
-        "detail": "The finished sapling bags must be clean, dry, of uniform weave, and completely free from manufacturing defects, oil spots, mold, decay, or visible holes (excluding standard weave porosity). They must be stored in dry, well-ventilated spaces prior to shipment to prevent premature decay.",
-        "clause_reference": "Technical Specifications"
-      }
+      "Every commercial pack or bundle of sapling bags must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 16089) printed on a secure label or packaging.",
+      "The sapling bags must be manufactured from natural, high-purity woven hessian cloth of specified GSM (typically standard 272 g/m²). Synthetic blending or toxic chemical treatments that would compromise soil biodegradability or plant root systems are strictly prohibited.",
+      "The length, width, and shape of the sapling bags must be declared by the manufacturer for the scope of the licence to match different crop variety and seedling root requirements.",
+      "The warp yarn count (Ends per unit length) and weft yarn count (Picks per unit length) must satisfy specified limits to ensure a tight, uniform weave that retains soil and moisture while allowing root aeration.",
+      "The hessian fabric must resist handling stresses: tensile breaking strength in both Machine Direction (MD) and Cross Direction (CD) must satisfy specified minimum load thresholds when tested per IS 1969.",
+      "To prevent structural blowout along the joints when filled with heavy, wet nursery soil, the stitched seams of the bag must satisfy a specified minimum seam strength when evaluated in accordance with IS 9030.",
+      "Under Amendment No. 1, to evaluate moisture-retention capability, the water holding capacity must be tested as per Annex C and calculated using the corrected formula:\nWater holding capacity = [ W1 / ((W2 - X) - W1) ] * 100 percent\nwhere W1 is the mass of the dry jute specimen, W2 is the mass of the saturated specimen with the testing apparatus, and X is the mass of the empty wet testing apparatus.",
+      "The finished sapling bags must be clean, dry, of uniform weave, and completely free from manufacturing defects, oil spots, mold, decay, or visible holes (excluding standard weave porosity). They must be stored in dry, well-ventilated spaces prior to shipment to prevent premature decay."
     ]
   },
-  "keywords": [
-    "IS 16089 : 2013",
-    "Jute Agro-Textile",
-    "Sapling Bags",
-    "Seedling Growth",
-    "Nursery Bags",
-    "Woven Hessian Cloth",
-    "Water Holding Capacity",
-    "Tensile Breaking Strength",
-    "Seam Strength IS 9030",
-    "Biodegradable Container",
-    "TXD 35",
-    "Agro Textiles QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 16089 : 2013 is the mandatory national Indian Standard specification governing biodegradable jute agro-textile sapling bags manufactured from woven hessian cloth (typically standard 272 g/m²), used in nurseries, forestry, and horticultural projects for raising young seedlings and saplings before field transplantation. Under India's statutory Agro Textiles Quality Control Order (QCO), all sapling bags supplied to the Indian market must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). The standard regulates bag dimensions, weave density, tensile strength (warp/weft), and stitched seam strength to prevent soil blowout during handling. Amendment No. 1 (October 2022) corrects the standard water holding capacity formula to accurately measure the fabric's moisture absorption and retention, ensuring a healthy, aerated, and ecologically safe root-zone micro-climate."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "16089a1.pdf",
     "document_version_edition": "First Edition, 2013 (incorporating Amendment No. 1, October 2022)"
   }

@@ -1,207 +1,145 @@
 {
-  "basic_identification": {
-    "is_number": "IS 4171 : 1983",
-    "full_title": "Specification for Copper Rods and Bars for General Engineering Purposes",
-    "sector_category": "Metallurgical Engineering / Copper and Copper Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Copper and Copper Alloys Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "77.150.30",
+  "standard": {
+    "is_code": "IS 4171:1983",
+    "title": "Specification for Copper Rods and Bars for General Engineering Purposes",
+    "sector": "Metallurgical Engineering / Copper and Copper Alloys",
+    "ics_code": [
+      "77.150.30"
+    ],
     "sectional_committee": {
       "name": "Copper and Copper Alloys Sectional Committee",
       "number": "MTD 08"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, dimensions, tolerances, chemical composition, mechanical properties, workmanship, finish, sampling, and testing of copper rods and bars intended for general and industrial engineering applications. It covers rods and bars in round, square, rectangular, and hexagonal shapes manufactured through extrusion, drawing, cold or hot rolling, forging, casting, or a combination of these.",
+    "scope": "This standard specifies the requirements, dimensions, tolerances, chemical composition, mechanical properties, workmanship, finish, sampling, and testing of copper rods and bars intended for general and industrial engineering applications. It covers rods and bars in round, square, rectangular, and hexagonal shapes manufactured through extrusion, drawing, cold or hot rolling, forging, casting, or a combination of these.",
+    "keywords": [
+      "IS 4171 : 1983",
+      "Copper Rods",
+      "Copper Bars",
+      "General Engineering",
+      "Phosphorous Deoxidized",
+      "Cu-DHP",
+      "Copper 99.90%",
+      "Tensile Properties",
+      "IS 2826 Tolerances",
+      "Hydrogen Embrittlement",
+      "MTD 08",
+      "Copper QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, dimensions, tolerances, chemical composition, mechanical properties, workmanship, finish, sampling, and testing of copper rods and bars intended for general and industrial engineering applications. It covers rods and bars in round, square, rectangular, and hexagonal shapes manufactured through extrusion, drawing, cold or hot rolling, forging, casting, or a combination of these.",
-    "clause_number": "Clause 1 & Product Manual Scope",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, 1983 (Reaffirmed in 1998, 2004, 2016, and reviewed/reaffirmed in 2026)",
-    "year_first_published": "1968",
+  "version": {
+    "current_version": "First Revision, 1983 (Reaffirmed in 1998, 2004, 2016, and reviewed/reaffirmed in 2026)",
+    "first_publication_year": 1968,
+    "publication_year": 1983,
+    "revision": "First Revision (revised to specify updated materials of construction and tolerances in accordance with the latest Indian Standards)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1968"
-      },
-      {
-        "edition": "First Revision (revised to specify updated materials of construction and tolerances in accordance with the latest Indian Standards)",
-        "year": "1983"
-      }
+      "First Edition, 1968",
+      "First Revision (revised to specify updated materials of construction and tolerances in accordance with the latest Indian Standards), 1983"
     ],
-    "supersedes": "IS 4171 : 1968",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 4171 : 1968"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "June 2004",
-        "description": "Incorporates reference updates: substitutes IS 1387:1993 for the legacy general metallurgical supply standard; substitutes IS 3288 (Part 3):1986 for legacy wrought terminology; substitutes IS 1608:1995 for metallic tensile testing; and substitutes IS 2826:1986 for dimensional tolerances on copper alloys rods and bars."
+        "amendment_number": "Amendment 1",
+        "date": "2004-06",
+        "summary": "Incorporates reference updates: substitutes IS 1387:1993 for the legacy general metallurgical supply standard; substitutes IS 3288 (Part 3):1986 for legacy wrought terminology; substitutes IS 1608:1995 for metallic tensile testing; and substitutes IS 2826:1986 for dimensional tolerances on copper alloys rods and bars."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 191",
-      "title": "Copper — Specification",
-      "category": "Raw material standard",
-      "location": "Clause 6",
-      "relevance": "Prescribes baseline copper composition and purity requirements for designated metallurgical copper grades."
+      "target_is_code": "IS 191",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 440",
-      "title": "Methods of chemical analysis of copper",
-      "category": "Chemical testing",
-      "location": "Clause 6",
-      "relevance": "Provides wet chemical and referee testing protocols to determine the elemental composition and purity of copper-based products."
+      "target_is_code": "IS 440",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Supply standard",
-      "location": "Amendment No. 1 (cl. 2.1)",
-      "relevance": "Outlines standard administrative, manufacturing, sampling, and shipping conditions for supplied metallurgical products."
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1608 (Part 1) / ISO 6892-1",
-      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
-      "category": "Mechanical testing",
-      "location": "Amendment No. 1 (cl. 5.1)",
-      "relevance": "Enforces standard tensile testing configurations to measure ultimate tensile strength (MPa) and elongation percentages."
+      "target_is_code": "IS 1608 (Part 1) / ISO 6892-1",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2826 : 1986",
-      "title": "Dimensions and tolerances for copper and copper alloys, rods and bars for general engineering purposes (third revision)",
-      "category": "Dimensional standard",
-      "location": "Amendment No. 1 (cl. 7.1)",
-      "relevance": "Governs standard dimensions, nominal widths, thicknesses, shapes, and manufacturing tolerances for engineering rods."
+      "target_is_code": "IS 2826 : 1986",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3288 (Part 3) : 1986",
-      "title": "Glossary of terms relating to copper and copper alloys : Part 3 Wrought forms",
-      "category": "Terminology standard",
-      "location": "Amendment No. 1 (cl. 3.0)",
-      "relevance": "Establishes definitions of wrought metallurgical product forms, distinguishing rods and bars from other profiles."
+      "target_is_code": "IS 3288 (Part 3) : 1986",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 613 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12444 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1897 : 2008",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1545 : 1994",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4412 : 1981",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 613 : 2000",
-      "title": "Copper Rods and Bars for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "Regulates finished, drawn, or extruded electrical copper bars, rods, and busbars. While IS 613 covers current-carrying electrical applications, IS 4171 covers general engineering and mechanical applications."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Copper Products (Quality Control) Order",
+      "year": 1983
     },
-    {
-      "is_number": "IS 12444 : 2020",
-      "title": "Copper Wire Rods for Electrical Applications — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating continuous cast copper feedstocks, present in the notebook."
-    },
-    {
-      "is_number": "IS 1897 : 2008",
-      "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating flat wrought copper strip conductors, present in the notebook."
-    },
-    {
-      "is_number": "IS 1545 : 1994",
-      "title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating seamless drawn copper and brass alloy tubes, present in the notebook."
-    },
-    {
-      "is_number": "IS 4412 : 1981",
-      "title": "Copper Wires for General Engineering Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel engineering category",
-      "relevance": "Companion engineering specification regulating drawn copper wires, present in the notebook."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Parallel structural engineering",
-      "relevance": "The master structural steel design code that regulates external support frames and connection designs, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Engineering / General Hardware)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper rods and bars supplied for general engineering purposes must conform to IS 4171:1983 and carry the mandatory BIS Standard Mark (ISI Mark). Medium and large-scale enterprises had to comply by October 19, 2024, small enterprises by January 19, 2025, and micro enterprises by April 19, 2025. Manufacturing, importing, distributing, or stocking non-certified engineering copper rods in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper bars.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper rods and bars supplied for general engineering purposes must conform to IS 4171:1983 and carry the mandatory BIS Standard Mark (ISI Mark). Medium and large-scale enterprises had to comply by October 19, 2024, small enterprises by January 19, 2025, and micro enterprises by April 19, 2025. Manufacturing, importing, distributing, or stocking non-certified engineering copper rods in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper bars.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every commercial tag or label attached to bundles/coils of copper rods and bars, along with the accompanying test certificate, must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
-        "clause_reference": "Product Manual Marking Clause"
-      },
-      {
-        "requirement_type": "Primary Chemical Composition",
-        "detail": "Rods and bars are manufactured from high-purity Phosphorous Deoxidized non-arsenical Copper (equivalent to Grade Cu-DHP or BS 2874 C106), demonstrating a minimum copper content of 99.90 percent (Cu + Ag >= 99.90% min). Highly restricted element limits are enforced to prevent cracking during hot fabrication:\na) Phosphorus (P): 0.013 to 0.050 percent (commonly 0.015 to 0.050%);\nb) Arsenic (As): 0.05 percent Max (or 0.06% Max);\nc) Lead (Pb): 0.01 percent Max (or 0.03% Max);\nd) Iron (Fe): 0.03 percent Max (or 0.05% Max);\ne) Other total impurities: 0.06 percent Max.",
-        "clause_reference": "Clause 4.1 & Table 1"
-      },
-      {
-        "requirement_type": "Product Sizing Shapes",
-        "detail": "The standard covers rods and bars across four geometries: a) Round Bars/Rods; b) Square Rods/Bars; c) Rectangular Rods/Bars; d) Hexagonal Rods/Bars. Sizing bounds are as declared by the manufacturer for the scope of the licence.",
-        "clause_reference": "Scope & Product Manual"
-      },
-      {
-        "requirement_type": "Mechanical Properties & Tempers",
-        "detail": "Rods are tested in both the 'As manufactured' (M) and 'Annealed' (O) conditions. Mechanical properties must satisfy specified ranges depending on the specific diameter/width across flats:\na) Tensile Strength typically ranges between 130 to 270 MPa (or 13 to 27.5 kg/mm²);\nb) Elongation at break must be at least 40 percent in the Annealed (O) state.",
-        "clause_reference": "Clause 5.1 & Product Manual"
-      },
-      {
-        "requirement_type": "Freedom from Defects",
-        "detail": "The surface of the rods and bars must be clean, smooth, bright, and completely free from harmful defects such as severe scratches, cracks, inclusions, pitting, or oxidation scale. Non-coiled rods must be reasonably straight and free from twists.",
-        "clause_reference": "Clause 6.1"
-      },
-      {
-        "requirement_type": "Dimensional Tolerances (IS 2826)",
-        "detail": "To ensure dimensional accuracy for machining and assembly fits, the diameters or widths across flats must stay strictly within the tolerances defined in IS 2826.",
-        "clause_reference": "Clause 7.1 & IS 2826"
-      },
-      {
-        "requirement_type": "Optional Hydrogen Embrittlement Test",
-        "detail": "When required by the purchaser to verify suitability for welding, brazing, or high-temperature processing under reducing atmospheres, specimens must undergo the Hydrogen Embrittlement test. Samples heated in a hydrogen atmosphere at 900°C must show zero microscopic or macroscopic surface cracking or blistering.",
-        "clause_reference": "Clause 5.2 & Annex A"
-      },
-      {
-        "requirement_type": "Audit Sample Sizing (Product Manual)",
-        "detail": "For factory audits, a sample size of 5 pieces of 5 cm length is required for chemical testing, and a 1-meter length of bar/rod is required for physical/mechanical tests.",
-        "clause_reference": "Product Manual Sampling guidelines"
-      },
-      {
-        "requirement_type": "Lot Definition & Control Unit",
-        "detail": "The control unit (lot) comprises all copper bars/rods of the same size, shape, condition, and manufactured through the same manufacturing process from the same cast of raw material in a day. One random sample is tested from each heat/cast for chemical composition, and one sample per control unit for tensile properties.",
-        "clause_reference": "Product Manual QAP Table 1"
-      }
+      "Every commercial tag or label attached to bundles/coils of copper rods and bars, along with the accompanying test certificate, must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+      "Rods and bars are manufactured from high-purity Phosphorous Deoxidized non-arsenical Copper (equivalent to Grade Cu-DHP or BS 2874 C106), demonstrating a minimum copper content of 99.90 percent (Cu + Ag >= 99.90% min). Highly restricted element limits are enforced to prevent cracking during hot fabrication:\na) Phosphorus (P): 0.013 to 0.050 percent (commonly 0.015 to 0.050%);\nb) Arsenic (As): 0.05 percent Max (or 0.06% Max);\nc) Lead (Pb): 0.01 percent Max (or 0.03% Max);\nd) Iron (Fe): 0.03 percent Max (or 0.05% Max);\ne) Other total impurities: 0.06 percent Max.",
+      "The standard covers rods and bars across four geometries: a) Round Bars/Rods; b) Square Rods/Bars; c) Rectangular Rods/Bars; d) Hexagonal Rods/Bars. Sizing bounds are as declared by the manufacturer for the scope of the licence.",
+      "Rods are tested in both the 'As manufactured' (M) and 'Annealed' (O) conditions. Mechanical properties must satisfy specified ranges depending on the specific diameter/width across flats:\na) Tensile Strength typically ranges between 130 to 270 MPa (or 13 to 27.5 kg/mm²);\nb) Elongation at break must be at least 40 percent in the Annealed (O) state.",
+      "The surface of the rods and bars must be clean, smooth, bright, and completely free from harmful defects such as severe scratches, cracks, inclusions, pitting, or oxidation scale. Non-coiled rods must be reasonably straight and free from twists.",
+      "To ensure dimensional accuracy for machining and assembly fits, the diameters or widths across flats must stay strictly within the tolerances defined in IS 2826.",
+      "When required by the purchaser to verify suitability for welding, brazing, or high-temperature processing under reducing atmospheres, specimens must undergo the Hydrogen Embrittlement test. Samples heated in a hydrogen atmosphere at 900°C must show zero microscopic or macroscopic surface cracking or blistering.",
+      "For factory audits, a sample size of 5 pieces of 5 cm length is required for chemical testing, and a 1-meter length of bar/rod is required for physical/mechanical tests.",
+      "The control unit (lot) comprises all copper bars/rods of the same size, shape, condition, and manufactured through the same manufacturing process from the same cast of raw material in a day. One random sample is tested from each heat/cast for chemical composition, and one sample per control unit for tensile properties."
     ]
   },
-  "keywords": [
-    "IS 4171 : 1983",
-    "Copper Rods",
-    "Copper Bars",
-    "General Engineering",
-    "Phosphorous Deoxidized",
-    "Cu-DHP",
-    "Copper 99.90%",
-    "Tensile Properties",
-    "IS 2826 Tolerances",
-    "Hydrogen Embrittlement",
-    "MTD 08",
-    "Copper QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 4171 : 1983 is the mandatory national Indian Standard specification governing copper rods and bars (round, square, rectangular, and hexagonal) used across general and industrial engineering sectors—such as mechanical machinery, auto components, hardware fittings, and general manufacturing. Under India's statutory Copper Products Quality Control Order (QCO), all such copper rods and bars supplied or sold domestically must bear the BIS Standard Mark (ISI Mark) to ensure safety and quality. It regulates fabrication from Phosphorous Deoxidized non-arsenical Copper (minimum 99.90% purity) and specifies tempers in both the 'As manufactured' and 'Annealed' states. The standard enforces detailed mechanical and chemical requirements—including strict tolerances on cross-sectional dimensions (as per IS 2826), warpway/weftway breaking strength, minimum tensile strength (ranging between 130 to 270 MPa), 40% minimum elongation for annealed tempers, and an optional high-temperature hydrogen embrittlement test to verify structural jointing integrity."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "4171a1.pdf",
     "document_version_edition": "First Revision, 1983 (incorporating Amendment No. 1, June 2004)"
   }

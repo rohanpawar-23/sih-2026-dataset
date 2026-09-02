@@ -1,221 +1,153 @@
 {
-  "basic_identification": {
-    "is_number": "IS 15844 (Part 1) : 2023",
-    "full_title": "Sports Footwear — Part 1: General Purpose (First Revision)",
-    "sector_category": "Footwear (approved by the Chemical Division Council and finalized by the Footwear Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "13.340.50; 97.220.01",
+  "standard": {
+    "is_code": "IS 15844 (Part 1):2023",
+    "title": "Sports Footwear — Part 1: General Purpose (First Revision)",
+    "sector": "Footwear",
+    "ics_code": [
+      "13.340.50",
+      "97.220.01"
+    ],
     "sectional_committee": {
       "name": "Footwear Sectional Committee",
       "number": "CHD 19"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes requirements, methods of sampling, and test procedures for general-purpose sports footwear (such as walking, fitness, exercising, and light sports activities). It applies to footwear designed to minimize wear fatigue and maximize durability across varied general athletic environments, excluding high-performance specialized athletic footwear.",
+    "scope": "This standard prescribes requirements, methods of sampling, and test procedures for general-purpose sports footwear (such as walking, fitness, exercising, and light sports activities). It applies to footwear designed to minimize wear fatigue and maximize durability across varied general athletic environments, excluding high-performance specialized athletic footwear.",
+    "keywords": [
+      "IS 15844 (Part 1) : 2023",
+      "Sports Footwear",
+      "General Purpose",
+      "Fitness Shoes",
+      "Non-removable Insock",
+      "Toe Spring Height",
+      "Sole Upper Bond Performance",
+      "Energy Absorption Seat Region",
+      "Whole Shoe Flexing",
+      "Slip Resistance (COF)",
+      "Compression Set Formula",
+      "Chemical Requirements IS 17011",
+      "Footwear QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes requirements, methods of sampling, and test procedures for general-purpose sports footwear (such as walking, fitness, exercising, and light sports activities). It applies to footwear designed to minimize wear fatigue and maximize durability across varied general athletic environments, excluding high-performance specialized athletic footwear.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, June 2023 (incorporating Amendment No. 1, January 2024 and Amendment No. 2, October 2025)",
-    "year_first_published": "2010",
+  "version": {
+    "current_version": "First Revision, June 2023 (incorporating Amendment No. 1, January 2024 and Amendment No. 2, October 2025)",
+    "first_publication_year": 2010,
+    "publication_year": 2023,
+    "revision": "First Revision (split into three parts based on uses)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2010"
-      },
-      {
-        "edition": "First Revision (split into three parts based on uses)",
-        "year": "2023"
-      }
+      "First Edition, 2010",
+      "First Revision (split into three parts based on uses), 2023"
     ],
-    "supersedes": "IS 15844 : 2010",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 15844 : 2010"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "January 2024",
-        "description": "Inserts Clause 3.4 defining 'Insock' as a removable or non-removable footwear component covering all or part of the insole. Substitutes Clause 4.2 to classify general-purpose sports footwear into two main usage categories: For Kids (standard English sizes per IS 1638) and For Adults (all other sizes per IS 1638, further divided into Type 1 and Type 2). Completely replaces Table 1 with updated whole footwear physical requirements."
+        "amendment_number": "Amendment 1",
+        "date": "2024-01",
+        "summary": "Inserts Clause 3.4 defining 'Insock' as a removable or non-removable footwear component covering all or part of the insole. Substitutes Clause 4.2 to classify general-purpose sports footwear into two main usage categories: For Kids (standard English sizes per IS 1638) and For Adults (all other sizes per IS 1638, further divided into Type 1 and Type 2). Completely replaces Table 1 with updated whole footwear physical requirements."
       },
       {
-        "amendment_number": "Amendment No. 2",
-        "date": "October 2025",
-        "description": "Amends Table 1, Sl No. (x), col (3), col (4), col (5) to substitute 'Category 1 and Category 2' for 'Category I and Category II'. Substitutes Clause C-3.1 to specify the load cell capacity of the tensile testing machine (<= 50 kg with jaw separation speed of 100 ± 10 mm/min and least count of 0.01 kg). Corrects a typographical error in Clause C-6, substituting 'interface' for 'infaiterface'. Completely replaces G-1.6 and G-2.1.4 equations to standardize the percentage of compression set calculations.",
-        "citations": "[1, 2]"
+        "amendment_number": "Amendment 2",
+        "date": "2025-10",
+        "summary": "Amends Table 1, Sl No. (x), col (3), col (4), col (5) to substitute 'Category 1 and Category 2' for 'Category I and Category II'. Substitutes Clause C-3.1 to specify the load cell capacity of the tensile testing machine (<= 50 kg with jaw separation speed of 100 ± 10 mm/min and least count of 0.01 kg). Corrects a typographical error in Clause C-6, substituting 'interface' for 'infaiterface'. Completely replaces G-1.6 and G-2.1.4 equations to standardize the percentage of compression set calculations."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 1638",
-      "title": "Specification for sizes and fittings of footwear",
-      "category": "Normative reference",
-      "location": "Clause 4.2.1 (Amended)",
-      "relevance": "Governs the physical dimensions, sizing fittings, and English scale ranges used to categorise Kids and Adults sports footwear."
+      "target_is_code": "IS 1638",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 17011 : 2018",
-      "title": "Chemical Requirements for Footwear and Footwear Materials",
-      "category": "Chemical compliance",
-      "location": "Clause 5.0",
-      "relevance": "Enforces mandatory safety limits for toxic chemicals, including restricted azo dyes, heavy metals (cadmium), organotins, formaldehyde, and phthalates."
+      "target_is_code": "IS 17011 : 2018",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 15298 (Part 1)",
-      "title": "Personal protective equipment — Part 1: Test methods for footwear",
-      "category": "Test method",
-      "location": "Table 1 (Amended, Sl No. iv)",
-      "relevance": "Referenced for the design of the test punch used to evaluate energy absorption at the heel/seat region."
+      "target_is_code": "IS 15298 (Part 1)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 8085 (Part 16) / ISO 24266",
-      "title": "Footwear — Test methods for whole shoe — Flexing resistance",
-      "category": "Test method",
-      "location": "Table 1 (Amended, Sl No. v)",
-      "relevance": "Prescribes Method A for whole shoe flexing to evaluate the durability of the sports shoe assembly."
+      "target_is_code": "IS 8085 (Part 16) / ISO 24266",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 8085 (Part 15)",
-      "title": "Footwear — Test methods for whole shoe — Washability",
-      "category": "Test method",
-      "location": "Table 1 (Amended, Sl No. xii)",
-      "relevance": "Governs washability test procedures for footwear marketed specifically as machine/hand washable."
+      "target_is_code": "IS 8085 (Part 15)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 5914 : 1970",
-      "title": "Methods of physical testing of leather",
-      "category": "Test method",
-      "location": "Table 1 (Amended, Sl No. i, ii, v)",
-      "relevance": "References LP:19 for flexing endurance of leather upper components, LP:7 for tear strength, and LP:8 for stitch tear strength."
+      "target_is_code": "IS 5914 : 1970",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 4905 : 2015",
-      "title": "Random sampling and randomization procedures",
-      "category": "Normative reference",
-      "location": "Sampling guidelines (implied)",
-      "relevance": "Governs statistical random selection of pairs from production lots to ensure unbiased physical and chemical auditing."
+      "target_is_code": "IS 4905 : 2015",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values",
-      "category": "Other",
-      "location": "Foreword (implied)",
-      "relevance": "Enforces mathematical procedures to round off observed or calculated test outcomes to verify compliance boundaries."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15844 (Part 2) : 2023",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15844 (Part 3) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17043 (Part 2) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10702 : 2023",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12254 : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15844 (Part 2) : 2023",
-      "title": "Sports Footwear — Part 2: Performance Sports Footwear (jogging, running, trekking, climbing)",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Parallel standard specifying performance criteria for high-demand athletic activities, requiring enhanced cushioning and flex limits."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Footwear made from Leather and other Materials (Quality Control) Order",
+      "year": null
     },
-    {
-      "is_number": "IS 15844 (Part 3) : 2024",
-      "title": "Sports Footwear — Part 3: Professional Sports Footwear",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Parallel standard specifying the premium quality and athletic design bounds for professional, competition-level sports footwear."
-    },
-    {
-      "is_number": "IS 17043 (Part 2) : 2024",
-      "title": "Shoes — Specification, Part 2: Shoes for General Purpose",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Parallel product standard regulating everyday casual and formal civilian shoes, sharing identical chemical safety limits (IS 17011)."
-    },
-    {
-      "is_number": "IS 10702 : 2023",
-      "title": "Hawai Chappal — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Parallel polymeric/rubber general consumer footwear standard, also placed under mandatory Quality Control Orders (QCO) in India."
-    },
-    {
-      "is_number": "IS 12254 : 2021",
-      "title": "Polyvinylchloride (PVC) Industrial Boots — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Parallel standard regulating injection-molded PVC gumboots, sharing NABL mechanical testing protocols."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Footwear / Leather & Polymeric Products)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Footwear made from Leather and other Materials (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all general-purpose sports footwear manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Micro and small units (MSEs) are granted specific delayed implementation schedules, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to sports shoes.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Footwear made from Leather and other Materials (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all general-purpose sports footwear manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Micro and small units (MSEs) are granted specific delayed implementation schedules, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to sports shoes.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every sports shoe must carry the BIS Standard Mark (ISI Mark) on a secure label or embossed permanently, accompanied by the manufacturer's registered licence number (CM/L)."
-      },
-      {
-        "requirement_type": "Whole Footwear Sizing Categorisation",
-        "detail": "Footwear size categories are split into two groups based on age: a) Kids: Standard English sizes for children per IS 1638; b) Adults: Standard English sizes above kids' ranges, further divided into Type 1 and Type 2."
-      },
-      {
-        "requirement_type": "Sizing & Removable/Non-removable Insock (Amendment No. 1)",
-        "detail": "The insock, if used, cannot be removed without damaging the footwear. This is a mandatory safety requirement for Kids, Adults (Type 1), and Adults (Type 2).",
-        "clause_reference": "Table 1, Sl No. (i)"
-      },
-      {
-        "requirement_type": "Toe Spring Height (Table 1)",
-        "detail": "To maintain ergonomic gait mechanics during fitness and walking, the minimum toe spring height must be 2 mm for all categories (Kids, Adults Type 1, and Adults Type 2).",
-        "clause_reference": "Table 1, Sl No. (ii)"
-      },
-      {
-        "requirement_type": "Bond Performance (Table 1)",
-        "detail": "Adhesion strength at joint interfaces must comply with strict limits: \na) Kids: Upper to sole/midsole/composite sole and interlayer bond must be minimum 1.0 N/mm (or 1.0 N/mm in case of material tear); \nb) Adults (Type 1): Upper to sole/midsole/composite sole and interlayer bond must be minimum 2.5 N/mm (or 2.0 N/mm in case of material tear); \nc) Adults (Type 2): Upper to sole/midsole/composite sole and interlayer bond must be minimum 1.5 N/mm (or 1.0 N/mm in case of material tear).",
-        "clause_reference": "Table 1, Sl No. (iii)"
-      },
-      {
-        "requirement_type": "Energy Absorption at Seat Region",
-        "detail": "The heel/seat region must demonstrate high impact cushioning. The test is performed using a standard compression punch per IS 15298 (Part 1) to apply forces up to 6 000 N.",
-        "clause_reference": "Table 1, Sl No. (iv)"
-      },
-      {
-        "requirement_type": "Outsole Durability and Hydrolysis",
-        "detail": "Outsoles must resist wear: a) Outsole abrasion is tested separately for cellular and solid outsoles; b) PU outsoles must pass a hydrolysis test to ensure they do not crumble in wet climates; c) Complete shoe flexing is evaluated per IS 8085 (Part 16) / ISO 24266 Method A.",
-        "clause_reference": "Table 1, Sl No. (viii) & (xi)"
-      },
-      {
-        "requirement_type": "Standard Tensile Machine Capacity (Amendment No. 2)",
-        "detail": "Tensile testing machines used for checking bond strength must use a load cell with a capacity of <= 50 kg, jaw separation speed of 100 ± 10 mm/min, and a high-precision least count of 0.01 kg.",
-        "clause_reference": "Clause C-3.1 (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2",
-        "citations": "[1]"
-      },
-      {
-        "requirement_type": "Exact Compression Set Calculations (Amendment No. 2)",
-        "detail": "The exact mathematical compression set percentage must be calculated and expressed using the formula: \nPercent compression set = (t0 - ti) x 100 / t0, where t0 is initial thickness and ti is final thickness after recovery.",
-        "clause_reference": "Clauses G-1.6 & G-2.1.4 (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2",
-        "citations": "[1, 2]"
-      },
-      {
-        "requirement_type": "Mandatory Chemical Restricted Substances (IS 17011)",
-        "detail": "Constituent materials (uppers, linings, outsoles) must comply with the strict environmental and toxicity limits specified in IS 17011: \na) Allergenic & carcinogenic disperse dyes: < 1 mg/l; \nb) Aromatic amines from Azo dyes: < 20 mg/kg; \nc) Chromium (VI) in leather parts: < 3 mg/kg; \nd) Dimethyl fumarate (DMFu): < 0.1 mg/kg; \ne) Formaldehyde: Kids < 20 mg/kg; Adults (direct skin contact) < 75 mg/kg; Adults (no direct contact) < 100 mg/kg; \nf) Organotin compounds (TBT/TPhT): < 1 mg/kg; other organotins (DBT/DOT/MBT/MOT): < 5 mg/kg each; \ng) Phthalates: strictly restricted per individual compounds.",
-        "clause_reference": "IS 17011 Table 1"
-      }
+      "Every sports shoe must carry the BIS Standard Mark (ISI Mark) on a secure label or embossed permanently, accompanied by the manufacturer's registered licence number (CM/L).",
+      "Footwear size categories are split into two groups based on age: a) Kids: Standard English sizes for children per IS 1638; b) Adults: Standard English sizes above kids' ranges, further divided into Type 1 and Type 2.",
+      "The insock, if used, cannot be removed without damaging the footwear. This is a mandatory safety requirement for Kids, Adults (Type 1), and Adults (Type 2).",
+      "To maintain ergonomic gait mechanics during fitness and walking, the minimum toe spring height must be 2 mm for all categories (Kids, Adults Type 1, and Adults Type 2).",
+      "Adhesion strength at joint interfaces must comply with strict limits: \na) Kids: Upper to sole/midsole/composite sole and interlayer bond must be minimum 1.0 N/mm (or 1.0 N/mm in case of material tear); \nb) Adults (Type 1): Upper to sole/midsole/composite sole and interlayer bond must be minimum 2.5 N/mm (or 2.0 N/mm in case of material tear); \nc) Adults (Type 2): Upper to sole/midsole/composite sole and interlayer bond must be minimum 1.5 N/mm (or 1.0 N/mm in case of material tear).",
+      "The heel/seat region must demonstrate high impact cushioning. The test is performed using a standard compression punch per IS 15298 (Part 1) to apply forces up to 6 000 N.",
+      "Outsoles must resist wear: a) Outsole abrasion is tested separately for cellular and solid outsoles; b) PU outsoles must pass a hydrolysis test to ensure they do not crumble in wet climates; c) Complete shoe flexing is evaluated per IS 8085 (Part 16) / ISO 24266 Method A.",
+      "Tensile testing machines used for checking bond strength must use a load cell with a capacity of <= 50 kg, jaw separation speed of 100 ± 10 mm/min, and a high-precision least count of 0.01 kg.",
+      "The exact mathematical compression set percentage must be calculated and expressed using the formula: \nPercent compression set = (t0 - ti) x 100 / t0, where t0 is initial thickness and ti is final thickness after recovery.",
+      "Constituent materials (uppers, linings, outsoles) must comply with the strict environmental and toxicity limits specified in IS 17011: \na) Allergenic & carcinogenic disperse dyes: < 1 mg/l; \nb) Aromatic amines from Azo dyes: < 20 mg/kg; \nc) Chromium (VI) in leather parts: < 3 mg/kg; \nd) Dimethyl fumarate (DMFu): < 0.1 mg/kg; \ne) Formaldehyde: Kids < 20 mg/kg; Adults (direct skin contact) < 75 mg/kg; Adults (no direct contact) < 100 mg/kg; \nf) Organotin compounds (TBT/TPhT): < 1 mg/kg; other organotins (DBT/DOT/MBT/MOT): < 5 mg/kg each; \ng) Phthalates: strictly restricted per individual compounds."
     ]
   },
-  "keywords": [
-    "IS 15844 (Part 1) : 2023",
-    "Sports Footwear",
-    "General Purpose",
-    "Fitness Shoes",
-    "Non-removable Insock",
-    "Toe Spring Height",
-    "Sole Upper Bond Performance",
-    "Energy Absorption Seat Region",
-    "Whole Shoe Flexing",
-    "Slip Resistance (COF)",
-    "Compression Set Formula",
-    "Chemical Requirements IS 17011",
-    "Footwear QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 15844 (Part 1) : 2023 is the mandatory national Indian Standard specification establishing physical, mechanical, and safety requirements for general-purpose sports footwear (such as fitness, exercise, and walking shoes). Under the mandatory national Footwear QCO, all such sports footwear supplied to the Indian market must bear the BIS Standard Mark (ISI Mark) to verify structural and chemical safety. It categorises shoes into Kids and Adults (Type 1 and Type 2) size classes, requiring non-removable insocks and a minimum toe spring height of 2 mm. It enforces high upper-to-sole bond strength (up to 2.5 N/mm for adult Type 1), flexing durability, and complete chemical compliance (including limits on carcinogenic dyes, Azo amines, and heavy metals) per IS 17011. Amendment No. 2 (October 2025) refines tensile machine calibration tolerances and standardizes the mathematical formula used to calculate heel compression sets."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "15844_1_amd 2.pdf",
     "document_version_edition": "First Revision, June 2023 (incorporating Amendment No. 1 and Amendment No. 2, October 2025)"
   }

@@ -1,162 +1,115 @@
 {
-  "basic_identification": {
-    "is_number": "IS 5158 : 2025",
-    "full_title": "Phthalic Anhydride, Technical — Specification (Third Revision)",
-    "sector_category": "Chemicals, Fertilizers, Polymers & Textiles (approved by the Chemical Division Council and finalized by the Organic Chemicals, Alcohols and Allied Products Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "71.060.50; 71.080.50",
+  "standard": {
+    "is_code": "IS 5158:2025",
+    "title": "Phthalic Anhydride, Technical — Specification (Third Revision)",
+    "sector": "Chemicals, Fertilizers, Polymers & Textiles",
+    "ics_code": [
+      "71.060.50",
+      "71.080.50"
+    ],
     "sectional_committee": {
       "name": "Organic Chemicals, Alcohols and Allied Products Sectional Committee",
       "number": "PCD 09"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, sampling guidelines, and testing methods for technical-grade phthalic anhydride suitable for industrial applications—such as the manufacture of plasticizers, alkyd resins, dyes, pigments, pharmaceuticals, and polyester resins. It covers both solid forms (including flakes, pellets, or crystals) and molten liquid forms.",
+    "scope": "This standard specifies the requirements, sampling guidelines, and testing methods for technical-grade phthalic anhydride suitable for industrial applications—such as the manufacture of plasticizers, alkyd resins, dyes, pigments, pharmaceuticals, and polyester resins. It covers both solid forms (including flakes, pellets, or crystals) and molten liquid forms.",
+    "keywords": [
+      "IS 5158:2025",
+      "Phthalic Anhydride",
+      "PA",
+      "Organic Chemical",
+      "Gas Chromatography (GC)",
+      "Naphthaquinone",
+      "Crystallizing Point",
+      "Molten Colour",
+      "Free Acidity",
+      "Maleic Anhydride",
+      "Plasticizers",
+      "Chemical QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, sampling guidelines, and testing methods for technical-grade phthalic anhydride suitable for industrial applications—such as the manufacture of plasticizers, alkyd resins, dyes, pigments, pharmaceuticals, and polyester resins. It covers both solid forms (including flakes, pellets, or crystals) and molten liquid forms.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Third Revision, July 2025",
-    "year_first_published": "1970",
+  "version": {
+    "current_version": "Third Revision, July 2025",
+    "first_publication_year": 1970,
+    "publication_year": 2025,
+    "revision": "Third Revision",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1970"
-      },
-      {
-        "edition": "First Revision",
-        "year": "1977"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "1987"
-      },
-      {
-        "edition": "Third Revision",
-        "year": "2025"
-      }
+      "First Edition, 1970",
+      "First Revision, 1977",
+      "Second Revision, 1987",
+      "Third Revision, 2025"
     ],
-    "supersedes": "IS 5158 : 1987",
-    "superseded_by": "N/A",
-    "amendment_slips": "No amendments found (this is a newly established revision in 2025, which replaces the 1987 standard and incorporates all up-to-date industry test methodologies)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1070 : 1992",
-      "title": "Reagent grade water — Specification (third revision)",
-      "category": "Normative reference",
-      "location": "Annex / Testing clauses",
-      "relevance": "Provides standardized baseline requirements for highly pure, reagent-grade water used to prepare test solutions and dilutions for chemical assaying."
-    },
-    {
-      "is_number": "IS 4905 : 2015",
-      "title": "Random sampling and randomization procedures (first revision)",
-      "category": "Normative reference",
-      "location": "Sampling guidelines",
-      "relevance": "Governs the statistical random sampling methods and lot selection schedules used during factory inspection audits."
-    },
-    {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes the mathematical procedures used to round off calculated or observed physical testing figures."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 5149 : 2020",
-      "title": "Specification for Maleic Anhydride, Technical (Second Revision)",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Governs specifications and quality checks for maleic anhydride, which is another major organic acid anhydride widely used in polyester resin manufacturing and checked as an impurity in phthalic anhydride."
-    },
-    {
-      "is_number": "IS 252 : 2013",
-      "title": "Caustic Soda — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Related industrial chemical governed by mandatory chemical Quality Control Orders (QCO) in India."
-    },
-    {
-      "is_number": "IS 10116 : 2015",
-      "title": "Boric Acid — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Related industrial acid standard under mandatory certification schemes."
-    },
-    {
-      "is_number": "IS 15573 : 2018",
-      "title": "Polyaluminium Chloride — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Related water-treatment chemical standard subject to mandatory BIS certification."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Industrial / Organic Chemicals)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Phthalic Anhydride (Quality Control) Order' issued by the Ministry of Chemicals and Fertilizers, Government of India, it is a statutory offense to manufacture, import, store, distribute, or sell Phthalic Anhydride in India without a valid BIS license and the Standard Mark (ISI Mark). Overseas manufacturers exporting to India must be certified under the Foreign Manufacturers Certification Scheme (FMCS). Precious metal hallmarking is completely inapplicable to industrial chemical compounds, as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
-    "requirements": [
+    "supersedes": [
+      "IS 5158 : 1987"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Mandatory Standard Mark Scheme",
-        "detail": "Every conforming bag or container of Phthalic Anhydride must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's license number (CM/L).",
-        "clause_reference": "Marking clauses"
-      },
-      {
-        "requirement_type": "Purity and Impurity Profiling by Gas Chromatography (GC)",
-        "detail": "Under the 2025 revision, the traditional titrimetric analysis methods specified in the older 1987 standard are replaced by the Gas Chromatography (GC) method to determine the overall chemical purity (assay minimum 99.5% by weight) and the specific volatile or oxidizable organic impurities.",
-        "clause_reference": "Clause 5.1 & Table 1"
-      },
-      {
-        "requirement_type": "Naphthaquinone Limit Reduction",
-        "detail": "To ensure maximum consumer safety and product performance, the maximum permissible limit for Naphthaquinone impurities has been significantly reduced from 5 ppm in the old standard to 1 ppm max under IS 5158:2025.",
-        "clause_reference": "Table 1 (as amended)"
-      },
-      {
-        "requirement_type": "Crystallizing Point",
-        "detail": "The material must possess a minimum crystallizing point of 130.8 °C (solid form), which serves as a critical indicator of overall chemical purity and dryness.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Colour of Molten Material and after Heat Treatment",
-        "detail": "The colour of the molten material must not exceed 20 Hazen units (HU) initially, and must not exceed 50 Hazen units after standard heat treatment, evaluated via spectrophotometric or colorimetric comparison methods.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Free Acidity Limits",
-        "detail": "Free acidity (expressed as phthalic acid) is strictly limited (typically to <= 0.1% max) to prevent chemical instability and downstream processing issues.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Trace Ash and Iron Limits",
-        "detail": "Ash residue must be extremely low (typically <= 0.01% or 0.02% max), and iron (Fe) content is restricted to trace levels to prevent discoloration in downstream polymer synthesis.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Mandatory Packing and Hazard Labels",
-        "detail": "Each container must be clearly and indelibly labeled with: the manufacturer's name/brand, standard designation (IS 5158), physical form (flakes, pellets, crystals, or molten), batch/lot number, net mass, month and year of manufacture, and clear safety warning labels. Due to its irritating properties and moderate fire hazard, precaution must be taken when handling; contact with skin or inhalation of dust and fumes must be avoided, and safety goggles must be worn.",
-        "clause_reference": "Clause 7"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No amendments found (this is a newly established revision in 2025, which replaces the 1987 standard and incorporates all up-to-date industry test methodologies)."
       }
     ]
   },
-  "keywords": [
-    "IS 5158:2025",
-    "Phthalic Anhydride",
-    "PA",
-    "Organic Chemical",
-    "Gas Chromatography (GC)",
-    "Naphthaquinone",
-    "Crystallizing Point",
-    "Molten Colour",
-    "Free Acidity",
-    "Maleic Anhydride",
-    "Plasticizers",
-    "Chemical QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 1070 : 1992",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 2015",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5149 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 252 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10116 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15573 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 5158 : 2025 is the strict national Indian Standard specification establishing physical, chemical, and quality requirements for technical-grade Phthalic Anhydride (PA), a highly versatile intermediate chemical extensively used in producing plasticizers, polyester resins, dyes, and pigments. Following the enforcement of the national chemical Quality Control Order (QCO), Phthalic Anhydride cannot be manufactured, imported, or sold in India without carrying the mandatory BIS Standard Mark (ISI Mark). The 2025 (Third Revision) standard introduces major quality control updates—replacing traditional titrimetric methods with Gas Chromatography (GC) for purity testing and reducing the permissible limit of toxic Naphthaquinone from 5 ppm to 1 ppm to protect consumers and industrial users from chemical contamination."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Phthalic Anhydride (Quality Control) Order' issued by the Ministry of Chemicals and Fertilizers, Government of India, it is a statutory offense to manufacture, import, store, distribute, or sell Phthalic Anhydride in India without a valid BIS license and the Standard Mark (ISI Mark). Overseas manufacturers exporting to India must be certified under the Foreign Manufacturers Certification Scheme (FMCS). Precious metal hallmarking is completely inapplicable to industrial chemical compounds, as it is reserved strictly for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      "Every conforming bag or container of Phthalic Anhydride must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's license number (CM/L).",
+      "Under the 2025 revision, the traditional titrimetric analysis methods specified in the older 1987 standard are replaced by the Gas Chromatography (GC) method to determine the overall chemical purity (assay minimum 99.5% by weight) and the specific volatile or oxidizable organic impurities.",
+      "To ensure maximum consumer safety and product performance, the maximum permissible limit for Naphthaquinone impurities has been significantly reduced from 5 ppm in the old standard to 1 ppm max under IS 5158:2025.",
+      "The material must possess a minimum crystallizing point of 130.8 °C (solid form), which serves as a critical indicator of overall chemical purity and dryness.",
+      "The colour of the molten material must not exceed 20 Hazen units (HU) initially, and must not exceed 50 Hazen units after standard heat treatment, evaluated via spectrophotometric or colorimetric comparison methods.",
+      "Free acidity (expressed as phthalic acid) is strictly limited (typically to <= 0.1% max) to prevent chemical instability and downstream processing issues.",
+      "Ash residue must be extremely low (typically <= 0.01% or 0.02% max), and iron (Fe) content is restricted to trace levels to prevent discoloration in downstream polymer synthesis.",
+      "Each container must be clearly and indelibly labeled with: the manufacturer's name/brand, standard designation (IS 5158), physical form (flakes, pellets, crystals, or molten), batch/lot number, net mass, month and year of manufacture, and clear safety warning labels. Due to its irritating properties and moderate fire hazard, precaution must be taken when handling; contact with skin or inhalation of dust and fumes must be avoided, and safety goggles must be worn."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "5158_2025.pdf",
     "document_version_edition": "Third Revision, July 2025"
   }

@@ -1,173 +1,124 @@
 {
-  "basic_identification": {
-    "is_number": "IS 12984 : 1990",
-    "full_title": "Indian Standard — Proforma for Purchase Specification for Plate Bending Machines",
-    "sector_category": "Production Engineering / Metal Forming Machines and Tools (approved by the Production Engineering Division Council and finalized by the Metal Forming Machines and Tools Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "UDC 621.981.2.004.12",
+  "standard": {
+    "is_code": "IS 12984:1990",
+    "title": "Indian Standard — Proforma for Purchase Specification for Plate Bending Machines",
+    "sector": "Production Engineering / Metal Forming Machines and Tools",
+    "ics_code": [
+      "UDC 621.981.2.004.12"
+    ],
     "sectional_committee": {
       "name": "Metal Forming Machines and Tools Sectional Committee",
       "number": "PE 04"
-    }
-  },
-  "scope": {
-    "summary": "This standard lays down the proforma for the preparation of purchase specifications for plate bending machines. It also gives essential information about plate bending machines and their accessories which will enable the user to assess their usefulness and applicability.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 2 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, March 1990 (Reaffirmed 2011)",
-    "year_first_published": "1990",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1990"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 9474 : 1980",
-      "title": "Principles of mechanical guarding of machinery",
-      "category": "Safety / Guarding Standard",
-      "location": "Annex A",
-      "relevance": "Specifies mechanical safety shields and guard designs to protect operators from rolling-nip pinch points on plate bending rolls."
     },
-    {
-      "is_number": "IS 10988 : 1984",
-      "title": "Method of measuring noise from machine tools (excluding testing in anechoic chambers)",
-      "category": "Testing / Noise Measurement Standard",
-      "location": "Annex A",
-      "relevance": "Defines test procedures to measure operator decibel noise levels generated under full structural load deforming operations."
-    },
-    {
-      "is_number": "IS 2062 : 1984",
-      "title": "Weldable structural steel (third revision)",
-      "category": "Raw Materials / Welding Quality",
-      "location": "Annex A",
-      "relevance": "Specifies quality parameters of weldable structural steel utilized in fabricated machine frames, beds, and roll upright housings."
-    },
-    {
-      "is_number": "IS 4691 : 1985",
-      "title": "Degrees of protection provided by enclosure for rotating electrical machinery (first revision)",
-      "category": "Electrical / Enclosure Protection",
-      "location": "Annex A",
-      "relevance": "Prescribes standard IP dust- and water-proofing protection levels required for electric drive assemblies and motor enclosures."
-    },
-    {
-      "is_number": "IS 325 : 1978",
-      "title": "Three-phase induction motor (fourth revision)",
-      "category": "Electrical / Power Transmission",
-      "location": "Annex A",
-      "relevance": "Standardises the performance and test guidelines of three-phase induction electric motors powering the machine's roll rotation drives."
-    },
-    {
-      "is_number": "DIN 55805 : 1979",
-      "title": "Sheet metal bending rolls",
-      "category": "International Reference / Design Basis Standard",
-      "location": "Foreword",
-      "relevance": "The international German standard from which considerable assistance was derived during the preparation of this Indian Standard in regards to roll layouts and construction types."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 9474 : 1980",
-      "title": "Principles of mechanical guarding of machinery",
-      "category": "Safety / Guarding Standard",
-      "location": "Annex A",
-      "relevance": "Specifies mechanical safety shields and guard designs to protect operators from rolling-nip pinch points on plate bending rolls."
-    },
-    {
-      "is_number": "IS 10988 : 1984",
-      "title": "Method of measuring noise from machine tools (excluding testing in anechoic chambers)",
-      "category": "Testing / Noise Measurement Standard",
-      "location": "Annex A",
-      "relevance": "Defines test procedures to measure operator decibel noise levels generated under full structural load deforming operations."
-    },
-    {
-      "is_number": "IS 2062 : 1984",
-      "title": "Weldable structural steel (third revision)",
-      "category": "Raw Materials / Welding Quality",
-      "location": "Annex A",
-      "relevance": "Specifies quality parameters of weldable structural steel utilized in fabricated machine frames, beds, and roll upright housings."
-    },
-    {
-      "is_number": "IS 4691 : 1985",
-      "title": "Degrees of protection provided by enclosure for rotating electrical machinery (first revision)",
-      "category": "Electrical / Enclosure Protection",
-      "location": "Annex A",
-      "relevance": "Prescribes standard IP dust- and water-proofing protection levels required for electric drive assemblies and motor enclosures."
-    },
-    {
-      "is_number": "IS 325 : 1978",
-      "title": "Three-phase induction motor (fourth revision)",
-      "category": "Electrical / Power Transmission",
-      "location": "Annex A",
-      "relevance": "Standardises the performance and test guidelines of three-phase induction electric motors powering the machine's roll rotation drives."
-    },
-    {
-      "is_number": "DIN 55805 : 1979",
-      "title": "Sheet metal bending rolls",
-      "category": "International Reference / Design Basis Standard",
-      "location": "Foreword",
-      "relevance": "The international German standard from which considerable assistance was derived during the preparation of this Indian Standard in regards to roll layouts and construction types."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Proforma for Purchase Specification (Metal Forming Machinery)",
-    "certification_status": "Since this document is a purchase proforma designed to collect standard data from machine tool manufacturers, a standard product stamp is not applicable on the form itself. However, sub-components of the machine (such as electrical motors, cables, and structural steels) must conform to their respective standard marking schemes governed by the Bureau of Indian Standards.",
-    "requirements": [
-      {
-        "requirement_type": "Purpose of the Purchase Specification Proforma",
-        "detail": "The proforma is structurally formatted to enable buyers to easily collect, organize, and compile uniform engineering data from different manufacturers and suppliers for side-by-side comparison.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Geometrical Roll Parameters",
-        "detail": "Mandates explicit manufacturer data on geometrical boundaries: top roll diameter, bottom roll diameter, bottom roll centre distance, maximum adjusting range of the top/bottom rolls, and counterbalance method of the top roll (Manual, Mechanical, or Hydraulic).",
-        "clause_reference": "Clause 3.3 & Clauses 3.3.1 to 3.3.5"
-      },
-      {
-        "requirement_type": "Operational Bending Capacities",
-        "detail": "Requires declaration of rolling limits: minimum internal diameter of the rolled cylinder, the number of sequential passes required to form a complete cylinder, and standard flat end dimensions.",
-        "clause_reference": "Clauses 3.2.4 to 3.2.6"
-      },
-      {
-        "requirement_type": "Accessories Declarations",
-        "detail": "Requires suppliers to itemize the supplied standard accessories in detail, as well as define special tooling and structural accessories offered.",
-        "clause_reference": "Clauses 3.14 & 3.15"
-      },
-      {
-        "requirement_type": "Technical Literature and Capacity Charts",
-        "detail": "When submitting commercial bids and quotations, the manufacturer/supplier is structurally required to furnish full technical catalogs and the official capacity chart of the machine.",
-        "clause_reference": "Note under Clause 3.15"
-      },
-      {
-        "requirement_type": "Physical Envelope and Footprint",
-        "detail": "Requires dimensions of floor space occupied (length and breadth in millimetres) along with the complete net shipping weight of the machine including electrical gear and standard accessories.",
-        "clause_reference": "Clauses 3.12 & 3.13"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard lays down the proforma for the preparation of purchase specifications for plate bending machines. It also gives essential information about plate bending machines and their accessories which will enable the user to assess their usefulness and applicability.",
+    "scope": "This standard lays down the proforma for the preparation of purchase specifications for plate bending machines. It also gives essential information about plate bending machines and their accessories which will enable the user to assess their usefulness and applicability.",
+    "keywords": [
+      "IS 12984 : 1990",
+      "Plate Bending Machines",
+      "Purchase Specification Proforma",
+      "Metal Forming Machines",
+      "PE 04",
+      "Geometrical Roll Dimensions",
+      "Sheet Metal Bending Rolls",
+      "DIN 55805",
+      "Accessories Details",
+      "Capacity Chart",
+      "Bidding Comparison"
     ]
   },
-  "keywords": [
-    "IS 12984 : 1990",
-    "Plate Bending Machines",
-    "Purchase Specification Proforma",
-    "Metal Forming Machines",
-    "PE 04",
-    "Geometrical Roll Dimensions",
-    "Sheet Metal Bending Rolls",
-    "DIN 55805",
-    "Accessories Details",
-    "Capacity Chart",
-    "Bidding Comparison"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 12984 : 1990 is the national Indian Standard prescribing a standardized proforma for preparing purchase specifications for plate bending machines. Finalized by the Metal Forming Machines and Tools Sectional Committee (PE 04), this standard enables buyers to collect uniform, structured data from various manufacturers regarding roll geometries (diameters, counterbalance types), rolling capacities (passes, minimum internal cylinder diameter), motor outputs, and physical footprints. By referencing master standards for electrical motors, metallurgy, operator guarding safety, and noise limits, it provides an engineering procurement template that simplifies side-by-side bidding comparisons and ensures structural safety compliance."
+  "version": {
+    "current_version": "First Edition, March 1990 (Reaffirmed 2011)",
+    "first_publication_year": 1990,
+    "publication_year": 1990,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1990"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS 9474 : 1980",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10988 : 1984",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2062 : 1984",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4691 : 1985",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 325 : 1978",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "DIN 55805 : 1979",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 9474 : 1980",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10988 : 1984",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2062 : 1984",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4691 : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 325 : 1978",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "DIN 55805 : 1979",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Since this document is a purchase proforma designed to collect standard data from machine tool manufacturers, a standard product stamp is not applicable on the form itself. However, sub-components of the machine (such as electrical motors, cables, and structural steels) must conform to their respective standard marking schemes governed by the Bureau of Indian Standards.",
+    "requirements": [
+      "The proforma is structurally formatted to enable buyers to easily collect, organize, and compile uniform engineering data from different manufacturers and suppliers for side-by-side comparison.",
+      "Mandates explicit manufacturer data on geometrical boundaries: top roll diameter, bottom roll diameter, bottom roll centre distance, maximum adjusting range of the top/bottom rolls, and counterbalance method of the top roll (Manual, Mechanical, or Hydraulic).",
+      "Requires declaration of rolling limits: minimum internal diameter of the rolled cylinder, the number of sequential passes required to form a complete cylinder, and standard flat end dimensions.",
+      "Requires suppliers to itemize the supplied standard accessories in detail, as well as define special tooling and structural accessories offered.",
+      "When submitting commercial bids and quotations, the manufacturer/supplier is structurally required to furnish full technical catalogs and the official capacity chart of the machine.",
+      "Requires dimensions of floor space occupied (length and breadth in millimetres) along with the complete net shipping weight of the machine including electrical gear and standard accessories."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "12984_1990_reff2021.pdf",
     "document_version_edition": "First Edition, 1990 (Reaffirmed 2011)"
   }

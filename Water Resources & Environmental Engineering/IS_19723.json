@@ -1,138 +1,109 @@
 {
-  "basic_identification": {
-    "is_number": "IS 19723 : 2026",
-    "full_title": "Measurement of Diameter and Girth of Trees — Guidelines",
-    "sector_category": "Environment and Ecology / Biodiversity (approved by the newly established Environment and Ecology Division Council and finalized by the Biodiversity Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "13.020.20; 13.020.40",
+  "standard": {
+    "is_code": "IS 19723:2026",
+    "title": "Measurement of Diameter and Girth of Trees — Guidelines",
+    "sector": "Environment and Ecology / Biodiversity",
+    "ics_code": [
+      "13.020.20",
+      "13.020.40"
+    ],
     "sectional_committee": {
       "name": "Biodiversity Sectional Committee",
       "number": "EED 06"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies guidelines, technical procedures, and operational precautions for standardizing how the diameter and girth of trees should be measured across diverse field conditions in India. It establishes a uniform methodology for forestry measurements to ensure consistency, accuracy, and comparability of ecological data used to estimate forest biomass, assess carbon stocks, and monitor biodiversity.",
+    "scope": "This standard specifies guidelines, technical procedures, and operational precautions for standardizing how the diameter and girth of trees should be measured across diverse field conditions in India. It establishes a uniform methodology for forestry measurements to ensure consistency, accuracy, and comparability of ecological data used to estimate forest biomass, assess carbon stocks, and monitor biodiversity.",
+    "keywords": [
+      "IS 19723 : 2026",
+      "Tree Measurement",
+      "Tree Diameter",
+      "Tree Girth",
+      "Forest Biomass",
+      "Carbon Stocks",
+      "EED 06",
+      "Biodiversity",
+      "Calipers Precautions",
+      "Girth Conversion",
+      "Decimal Resolution",
+      "Point of Measurement PoM"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies guidelines, technical procedures, and operational precautions for standardizing how the diameter and girth of trees should be measured across diverse field conditions in India. It establishes a uniform methodology for forestry measurements to ensure consistency, accuracy, and comparability of ecological data used to estimate forest biomass, assess carbon stocks, and monitor biodiversity.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, March 2026",
-    "year_first_published": "2026",
+  "version": {
+    "current_version": "First Edition, March 2026",
+    "first_publication_year": 2026,
+    "publication_year": 2026,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2026"
-      }
+      "First Edition, 2026"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this newly established standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 20201 : 2026",
-      "title": "Community Seed Bank Management System — Requirements",
-      "category": "Biodiversity / Agricultural Management",
-      "location": "Same Sectional Committee EED 06",
-      "relevance": "A sister biodiversity standard present in the notebook, developed and finalized by the same Biodiversity Sectional Committee (EED 06) under Dr Vinod Bihari Mathur's leadership to regulate local seed genetic resources."
-    },
-    {
-      "is_number": "IS 14031 : 2025",
-      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
-      "category": "System standard",
-      "location": "Notebook Co-source",
-      "relevance": "Establishes environmental condition indicators (ECIs) and operational performance indicators (OPIs) where tree biomass and carbon stocks are evaluated."
-    },
-    {
-      "is_number": "IS 19756 : 2026",
-      "title": "Benchmarking of Environmental Monitoring Services — Guidelines",
-      "category": "Environmental Services",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow environmental services code in this notebook, specifying metrics to evaluate monitoring agencies conducting forest and biodiversity surveys."
-    },
-    {
-      "is_number": "IS 16091 : 2013",
-      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
-      "category": "Performance Specification",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow water-system and ecological monitoring standard present in the notebook, regulating hydrometric instruments used near riverine forest measurement stations."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "PVC Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow waterways and soil lining standard present in the notebook, preventing seepage into forested soils."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in this notebook, regulating support framing, observation towers, and steel brackets where ecological measurement equipment is mounted."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Field Measurement Guidelines (Environment and Ecology / Biodiversity)",
-    "certification_status": "Voluntary Code of Practice. Since IS 19723:2026 is an operational guideline and code of practice for field measurements rather than a physical consumer material, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its measurement protocols, error-minimisation checklists, and rounding norms is universally mandated by the Ministry of Environment, Forest and Climate Change (MoEF&CC), state forest departments, wildlife institutes, and carbon-credit validation boards across India to ensure standardisation, accuracy, and comparability of ecological field data.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Field Precautions for Error Minimisation",
-        "detail": "Mandates training and careful measurement to minimize errors, enforcing five specific precautions:\na) Calipers and other measuring instruments must be properly maintained and accurate;\nb) Operators must precisely locate the correct point of measurement (PoM) on the tree;\nc) The plane of the calipers must be kept at right angles (perpendicular) to the longitudinal axis of the tree;\nd) Correct mechanical pressure must be applied at the moment of measurement; and\ne) The caliper's bar must be pressed firmly against the tree bole to minimize sliding arm maladjustment errors.",
-        "clause_reference": "Clause 6.1.1.4"
-      },
-      {
-        "requirement_type": "Girth Measurement Procedure",
-        "detail": "Specifies that the measuring tape must be wrapped perpendicular to the tree's longitudinal axis, leveled around the stem at the Point of Measurement (PoM) ensuring it is not twisted. The reading must be recorded exactly where the tape's zero mark meets the graduated scale.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "Diameter Recording Metrics",
-        "detail": "Diameter measurements must be recorded in centimetres (cm), with its instrument least count considered to be 1 millimetre (1 mm).",
-        "clause_reference": "Clause 7.1"
-      },
-      {
-        "requirement_type": "Girth Recording Metrics",
-        "detail": "Girth measurements must be recorded in centimetres (cm), with its instrument least count considered to be 1 millimetre (1 mm).",
-        "clause_reference": "Clause 7.2"
-      },
-      {
-        "requirement_type": "Girth-to-Diameter Mathematical Conversion",
-        "detail": "Establishes the mathematical relationship:\nGirth (G) = π × diameter (D) [where π = 22/7]\nDiameter can be calculated from girth:\nDiameter (D) = girth (G)/π.",
-        "clause_reference": "Clause 8"
-      },
-      {
-        "requirement_type": "Reporting Decimal Resolution",
-        "detail": "Calculated girth and diameter values must be reported in centimetres (cm) with a minimum of two (2) decimal places.",
-        "clause_reference": "Clause 8"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this newly established standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 19723 : 2026",
-    "Tree Measurement",
-    "Tree Diameter",
-    "Tree Girth",
-    "Forest Biomass",
-    "Carbon Stocks",
-    "EED 06",
-    "Biodiversity",
-    "Calipers Precautions",
-    "Girth Conversion",
-    "Decimal Resolution",
-    "Point of Measurement PoM"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 20201 : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14031 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 19756 : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16091 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 19723 : 2026 is the national Indian Standard code of practice specifying guidelines to measure the diameter and girth of trees. Developed under the Biodiversity Sectional Committee (EED 06), this pioneering standard provides a uniform technical framework to standardize forestry measurements across diverse field conditions in India. It establishes a step-by-step checklist to minimize caliper and tape errors, defines precise procedures to wrap measuring tapes without twisting at the Point of Measurement (PoM), mandates recording readings in centimetres with a 1 mm least count, and enforces the standard formula [Girth = (22/7) * Diameter] with a requirement to report final results to at least two decimal places, supporting reliable forest biomass, carbon stock, and biodiversity assessments."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 19723:2026 is an operational guideline and code of practice for field measurements rather than a physical consumer material, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its measurement protocols, error-minimisation checklists, and rounding norms is universally mandated by the Ministry of Environment, Forest and Climate Change (MoEF&CC), state forest departments, wildlife institutes, and carbon-credit validation boards across India to ensure standardisation, accuracy, and comparability of ecological field data.",
+    "requirements": [
+      "Mandates training and careful measurement to minimize errors, enforcing five specific precautions:\na) Calipers and other measuring instruments must be properly maintained and accurate;\nb) Operators must precisely locate the correct point of measurement (PoM) on the tree;\nc) The plane of the calipers must be kept at right angles (perpendicular) to the longitudinal axis of the tree;\nd) Correct mechanical pressure must be applied at the moment of measurement; and\ne) The caliper's bar must be pressed firmly against the tree bole to minimize sliding arm maladjustment errors.",
+      "Specifies that the measuring tape must be wrapped perpendicular to the tree's longitudinal axis, leveled around the stem at the Point of Measurement (PoM) ensuring it is not twisted. The reading must be recorded exactly where the tape's zero mark meets the graduated scale.",
+      "Diameter measurements must be recorded in centimetres (cm), with its instrument least count considered to be 1 millimetre (1 mm).",
+      "Girth measurements must be recorded in centimetres (cm), with its instrument least count considered to be 1 millimetre (1 mm).",
+      "Establishes the mathematical relationship:\nGirth (G) = π × diameter (D) [where π = 22/7]\nDiameter can be calculated from girth:\nDiameter (D) = girth (G)/π.",
+      "Calculated girth and diameter values must be reported in centimetres (cm) with a minimum of two (2) decimal places."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "19723_2026 (1).pdf",
     "document_version_edition": "First Edition, March 2026"
   }

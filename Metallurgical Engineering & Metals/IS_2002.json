@@ -1,165 +1,120 @@
 {
-  "basic_identification": {
-    "is_number": "IS 2002 : 2024",
-    "full_title": "Steel Plate for Pressure Vessel for Intermediate and High Temperature Service Including Boilers — Specification (Fourth Revision)",
-    "sector_category": "Metallurgical Engineering (approved by the Metallurgical Engineering Division Council and finalized by the Wrought Steel Products Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "77.140.30; 77.140.50",
+  "standard": {
+    "is_code": "IS 2002:2024",
+    "title": "Steel Plate for Pressure Vessel for Intermediate and High Temperature Service Including Boilers — Specification (Fourth Revision)",
+    "sector": "Metallurgical Engineering",
+    "ics_code": [
+      "77.140.30",
+      "77.140.50"
+    ],
     "sectional_committee": {
       "name": "Wrought Steel Products Sectional Committee",
       "number": "MTD 04"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, testing methods, and quality standards for steel plates used in the fabrication of boilers and pressure vessels operating under intermediate and high temperature service. It details three main grades of steel (Grades 1, 2, and 3) based on chemical composition and mechanical properties.",
+    "scope": "This standard specifies the requirements, testing methods, and quality standards for steel plates used in the fabrication of boilers and pressure vessels operating under intermediate and high temperature service. It details three main grades of steel (Grades 1, 2, and 3) based on chemical composition and mechanical properties.",
+    "keywords": [
+      "IS 2002:2024",
+      "Steel Plate",
+      "Pressure Vessel",
+      "Boilers",
+      "High Temperature Service",
+      "Carbon Steel",
+      "Grade 1",
+      "Grade 2",
+      "Grade 3",
+      "Tensile Strength",
+      "Yield Stress",
+      "Laminar Discontinuities",
+      "Rust Protection",
+      "IS 16998 Tolerances",
+      "Steel QCO 2024",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, testing methods, and quality standards for steel plates used in the fabrication of boilers and pressure vessels operating under intermediate and high temperature service. It details three main grades of steel (Grades 1, 2, and 3) based on chemical composition and mechanical properties.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Fourth Revision, July 2024",
-    "year_first_published": "1962",
+  "version": {
+    "current_version": "Fourth Revision, July 2024",
+    "first_publication_year": 1962,
+    "publication_year": 2024,
+    "revision": "Fourth Revision",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1962"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "1982"
-      },
-      {
-        "edition": "Third Revision",
-        "year": "2009"
-      },
-      {
-        "edition": "Fourth Revision",
-        "year": "2024"
-      }
+      "First Edition, 1962",
+      "Second Revision, 1982",
+      "Third Revision, 2009",
+      "Fourth Revision, 2024"
     ],
-    "supersedes": "IS 2002 : 2009",
-    "superseded_by": "N/A",
-    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1608 (Part 1) : 2022 / ISO 6892-1 : 2019",
-      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature (fifth revision)",
-      "category": "Test method",
-      "location": "Annex A",
-      "relevance": "Prescribes standard tensile testing procedures to determine yield stress, tensile strength, and percentage elongation of the plate specimens [1]."
-    },
-    {
-      "is_number": "IS 1599 : 2019",
-      "title": "Metallic materials — Bend test (fourth revision)",
-      "category": "Test method",
-      "location": "Annex A",
-      "relevance": "Outlines laboratory bend testing requirements to verify material ductility and cracking resistance [1]."
-    },
-    {
-      "is_number": "IS 228 (All Parts)",
-      "title": "Methods of chemical analysis of steel",
-      "category": "Test method",
-      "location": "Annex A",
-      "relevance": "Specifies standard wet chemical and instrumental analysis methods to evaluate the elements and Carbon Equivalent (CE) of the steel [1]."
-    },
-    {
-      "is_number": "IS 16998",
-      "title": "Tolerances on dimensions and shape of steel plates",
-      "category": "Normative reference",
-      "location": "Clause 20",
-      "relevance": "Mandates permissible dimensional tolerances, thickness, width, length, and shape variations for the plates [Image 21]."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 2041 : 2024",
-      "title": "Steel Plates and Strips for Pressure Vessels Used at Moderate and Low Temperature — Specification (Fourth Revision)",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Parallel specification covering pressure vessel plates optimized for lower temperature and moderate service, as opposed to intermediate/high temperatures."
-    },
-    {
-      "is_number": "IS 14650 : 2023",
-      "title": "Carbon steel hot rolled sheets, strips and plates for boilers and pressure vessels — Specification",
-      "category": "Normative reference",
-      "location": "Foreword",
-      "relevance": "Specifies baseline requirements for input materials used in the rolling and manufacture of pressure vessel steel plates."
-    },
-    {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Normative reference",
-      "location": "Foreword",
-      "relevance": "Governs technical delivery conditions, commercial supply parameters, and general packaging protocols for wrought steel products."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Boiler Quality Steel Plates)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order, 2024' issued by the Ministry of Steel, Government of India, all steel plates for pressure vessels and boilers conforming to IS 2002 must carry the BIS Standard Mark (ISI Mark) to be legally manufactured, stocked, sold, or imported. Precious metal hallmarking is completely inapplicable to heavy structural steel plate products, as it is reserved strictly for gold and silver jewelry under national BIS frameworks [Image 21].",
-    "requirements": [
+    "supersedes": [
+      "IS 2002 : 2009"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every conforming steel plate must bear the BIS Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards [Image 21].",
-        "clause_reference": "Clause 21.2"
-      },
-      {
-        "requirement_type": "Mandatory Plate Markings",
-        "detail": "Each plate must be legibly and indelibly marked with: a) Manufacturer's name or recognized trade-mark; b) Cast/heat number or identification mark by which the steel can be traced to its ladle analysis, along with the individual plate number to allow correlation with the test certificate; and c) The direction of final rolling [Image 21].",
-        "clause_reference": "Clause 21.1"
-      },
-      {
-        "requirement_type": "Re-testing Criteria",
-        "detail": "If any test piece fails to meet specified results, two additional random tests must be carried out on the same lot. Both re-tests must conform to standard limits, otherwise the entire lot is rejected [Image 21].",
-        "clause_reference": "Clause 18"
-      },
-      {
-        "requirement_type": "Rust Protection",
-        "detail": "If requested by the purchaser at the time of inquiry, each accepted plate must be painted with one coat of boiled linseed oil or an approved rust preventive material [Image 21].",
-        "clause_reference": "Clause 19"
-      },
-      {
-        "requirement_type": "Mandatory Mechanical Property Limits (Grade 1)",
-        "detail": "Grade 1 plates must meet a tensile strength of 360 to 480 MPa. The minimum yield stress varies by thickness: 235 MPa (<= 16 mm), 225 MPa (> 16 to 40 mm), 215 MPa (> 40 to 60 mm), 200 MPa (> 60 to 100 mm), and 185 MPa (> 100 to 350 mm). Minimum elongation on a 5.65√So gauge length must be 24% for thickness <= 60 mm and 23% for thickness > 60 mm [2].",
-        "clause_reference": "Table 1 (as amended)"
-      },
-      {
-        "requirement_type": "Mandatory Mechanical Property Limits (Grade 2)",
-        "detail": "Grade 2 plates must meet a tensile strength of 410 to 530 MPa. The minimum yield stress varies by thickness: 265 MPa (<= 16 mm), 255 MPa (> 16 to 40 mm), 245 MPa (> 40 to 60 mm), 215 MPa (> 60 to 100 mm), and 200 MPa (> 100 to 350 mm). Minimum elongation must be 22% for thickness <= 60 mm and 21% for thickness > 60 mm [2].",
-        "clause_reference": "Table 1 (as amended)"
-      },
-      {
-        "requirement_type": "Permissible Laminar Discontinuities",
-        "detail": "Laminar-type discontinuities <= 25 mm in length that are visible to the unaided eye on plate edges as prepared for shipment are acceptable and do not require further exploration. All larger discontinuities must be explored [3].",
-        "clause_reference": "Clause 9.2.1 & Clause 9.2.2"
-      },
-      {
-        "requirement_type": "Discontinuity Continuity Evaluation",
-        "detail": "Discontinuities are considered continuous when located in the same plate within 5 percent of the plate thickness and separated by a distance less than the length of the smaller of two adjacent discontinuities [3].",
-        "clause_reference": "Clause 9.2.2"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 2002:2024",
-    "Steel Plate",
-    "Pressure Vessel",
-    "Boilers",
-    "High Temperature Service",
-    "Carbon Steel",
-    "Grade 1",
-    "Grade 2",
-    "Grade 3",
-    "Tensile Strength",
-    "Yield Stress",
-    "Laminar Discontinuities",
-    "Rust Protection",
-    "IS 16998 Tolerances",
-    "Steel QCO 2024",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 1608 (Part 1) : 2022 / ISO 6892-1 : 2019",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1599 : 2019",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 228 (All Parts)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16998",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2041 : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14650 : 2023",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 2002 : 2024 is the strict national Indian Standard specification governing carbon steel plates used to fabricate boilers, pressure vessels, and heat exchangers operating under intermediate and high temperatures. In accordance with India's national Steel Quality Control Order, all boiler-quality plates manufactured, imported, or sold in the country must carry the mandatory BIS Standard Mark (ISI Mark). This fourth revision establishes tight mechanical limits—including tensile strengths of up to 530 MPa and minimum yield stresses matched to plate thickness—as well as strict quality controls, such as edge laminar discontinuity limits (maximum 25 mm without exploration) and mandatory heat-traceability markings stamped directly on each plate."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Steel and Steel Products (Quality Control) Order, 2024",
+      "year": 2024
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order, 2024' issued by the Ministry of Steel, Government of India, all steel plates for pressure vessels and boilers conforming to IS 2002 must carry the BIS Standard Mark (ISI Mark) to be legally manufactured, stocked, sold, or imported. Precious metal hallmarking is completely inapplicable to heavy structural steel plate products, as it is reserved strictly for gold and silver jewelry under national BIS frameworks [Image 21].",
+    "requirements": [
+      "Every conforming steel plate must bear the BIS Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards [Image 21].",
+      "Each plate must be legibly and indelibly marked with: a) Manufacturer's name or recognized trade-mark; b) Cast/heat number or identification mark by which the steel can be traced to its ladle analysis, along with the individual plate number to allow correlation with the test certificate; and c) The direction of final rolling [Image 21].",
+      "If any test piece fails to meet specified results, two additional random tests must be carried out on the same lot. Both re-tests must conform to standard limits, otherwise the entire lot is rejected [Image 21].",
+      "If requested by the purchaser at the time of inquiry, each accepted plate must be painted with one coat of boiled linseed oil or an approved rust preventive material [Image 21].",
+      "Grade 1 plates must meet a tensile strength of 360 to 480 MPa. The minimum yield stress varies by thickness: 235 MPa (<= 16 mm), 225 MPa (> 16 to 40 mm), 215 MPa (> 40 to 60 mm), 200 MPa (> 60 to 100 mm), and 185 MPa (> 100 to 350 mm). Minimum elongation on a 5.65√So gauge length must be 24% for thickness <= 60 mm and 23% for thickness > 60 mm [2].",
+      "Grade 2 plates must meet a tensile strength of 410 to 530 MPa. The minimum yield stress varies by thickness: 265 MPa (<= 16 mm), 255 MPa (> 16 to 40 mm), 245 MPa (> 40 to 60 mm), 215 MPa (> 60 to 100 mm), and 200 MPa (> 100 to 350 mm). Minimum elongation must be 22% for thickness <= 60 mm and 21% for thickness > 60 mm [2].",
+      "Laminar-type discontinuities <= 25 mm in length that are visible to the unaided eye on plate edges as prepared for shipment are acceptable and do not require further exploration. All larger discontinuities must be explored [3].",
+      "Discontinuities are considered continuous when located in the same plate within 5 percent of the plate thickness and separated by a distance less than the length of the smaller of two adjacent discontinuities [3]."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "2002_2024.pdf",
     "document_version_edition": "Fourth Revision, July 2024"
   }

@@ -1,171 +1,125 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10814 : 1984",
-    "full_title": "Method for Sampling Green Coffee in Bags (हरी कॉफ़ी के थैलों से नमूने लेने की विधि)",
-    "sector_category": "Food and Agriculture / Stimulant Foods (approved by the Food and Agriculture Divisional Council and finalized by the Stimulant Foods Sectional Committee, FAD 06, of the Bureau of Indian Standards)",
-    "ics_code": "67.140.20",
+  "standard": {
+    "is_code": "IS 10814:1984",
+    "title": "Method for Sampling Green Coffee in Bags (हरी कॉफ़ी के थैलों से नमूने लेने की विधि)",
+    "sector": "Food and Agriculture / Stimulant Foods",
+    "ics_code": [
+      "67.140.20"
+    ],
     "sectional_committee": {
       "name": "Stimulant Foods Sectional Committee",
       "number": "FAD 06"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies a method of sampling a consignment of green coffee in bags, shipped as a part of a lot, containing 10 bags or more, for the purpose of drawing representative increments and preparing laboratory samples for contract verification, quality control, arbitration, and laboratory testing.",
+    "scope": "This standard specifies a method of sampling a consignment of green coffee in bags, shipped as a part of a lot, containing 10 bags or more, for the purpose of drawing representative increments and preparing laboratory samples for contract verification, quality control, arbitration, and laboratory testing.",
+    "keywords": [
+      "IS 10814 : 1984",
+      "ISO 4072",
+      "Green Coffee",
+      "Sampling Bags",
+      "Scale of Sampling",
+      "Increment Size",
+      "Coffee Trier",
+      "Global Sample",
+      "Laboratory Sample",
+      "FAD 06",
+      "IS 2:1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies a method of sampling a consignment of green coffee in bags, shipped as a part of a lot, containing 10 bags or more, for the purpose of drawing representative increments and preparing laboratory samples for contract verification, quality control, arbitration, and laboratory testing.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1984 (Reaffirmed 2022)",
-    "year_first_published": "1984 (identically adopted from the international standard ISO 4072 : 1982)",
+  "version": {
+    "current_version": "First Edition, 1984 (Reaffirmed 2022)",
+    "first_publication_year": 1984,
+    "publication_year": 1984,
+    "revision": "First Edition (IS 10814 : 1984)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 10814 : 1984)",
-        "year": "1984"
-      }
+      "First Edition (IS 10814 : 1984), 1984"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    },
-    {
-      "is_number": "ISO 4072 : 1982",
-      "title": "Green coffee in bags — Sampling",
-      "category": "International equivalent",
-      "relevance": "Provides identical sampling methods, definitions, and sample-splitting protocols for green coffee."
-    },
-    {
-      "is_number": "ISO 6666",
-      "title": "Coffee triers — Specification",
-      "category": "Equipment standard",
-      "relevance": "Specifies design and material requirements for metal triers/spears utilized to cleanly puncture bags and draw elementary increments of green coffee."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 7236 : 2013",
-      "title": "Coffee and Coffee Products — Vocabulary (First Revision)",
-      "category": "Nomenclature standard",
-      "location": "Notebook Co-source",
-      "relevance": "Provides standardized definitions for green coffee, husk coffee, and related derivatives sampled under IS 10814."
-    },
-    {
-      "is_number": "IS 16032 : 2012",
-      "title": "Green Coffee — Defect Reference Chart",
-      "category": "Evaluation standard",
-      "location": "Stimulant Foods FAD 06",
-      "relevance": "A sister FAD 06 standard present in the notebook, used to visually and quantitatively analyze defects on the green coffee samples drawn under IS 10814."
-    },
-    {
-      "is_number": "IS 11816 (Part 3) : 2018",
-      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
-      "category": "Pest-Control standard",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow food and agriculture standard present in the notebook, regulating pest control, fumigation safety, and pesticide residues in stored bags of coffee or other agricultural products."
-    },
-    {
-      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
-      "category": "Assessment standard",
-      "location": "Notebook Co-source",
-      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures for warehouses where coffee bags are stored."
-    },
-    {
-      "is_number": "IS 16066 : 2017",
-      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
-      "category": "Food Safety standard",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates the sanitation of prepare-and-serve stalls, including coffee brewing, instant coffee service, and ingredient protection from on-site pests."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Notebook Co-source",
-      "relevance": "Mandates potability criteria for water, which is essential for wash processing of cherry coffee and subsequent brewing audits."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, panel thicknesses, and connections for agricultural warehouses, coffee curing mills, and silos."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Methods of Test / Sampling and Inspection Code (Food and Agriculture / Stimulant Foods)",
-    "certification_status": "Voluntary Code of Practice. Since IS 10814 is a statistical sampling methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling scales, trier extraction methods, and sample-handling timelines is strictly integrated into national export audits, state crop-procurement contracts (including Coffee Board of India auctions), and legally binding quality agreements between global trade buyers and processors across India.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Minimum Lot Size",
-        "detail": "The sampling method applies to consignments or lots shipped in ten (10) bags or more. Lots are presumed to be of roughly uniform character.",
-        "clause_reference": "Clause 1.1"
-      },
-      {
-        "requirement_type": "Bags Sizing Scale of Sampling",
-        "detail": "Specifies the number of bags to be selected at random from the lot for drawing increments:\na) For lots of 10 to 100 bags: Sample at least 10 bags;\nb) For lots of more than 100 bags: Sample at least 10% of the total bags.",
-        "clause_reference": "Clause A-2.1"
-      },
-      {
-        "requirement_type": "Elementary Increment Weight",
-        "detail": "Each elementary increment extracted from a single bag must be exactly 30 g ± 6 g of green coffee beans.",
-        "clause_reference": "Clause 3.5"
-      },
-      {
-        "requirement_type": "Extraction via Coffee Trier",
-        "detail": "Requires the use of a metal coffee trier (conforming to ISO 6666) to draw increments through the bag wall. This puncture method avoids opening the bags, as the woven fabric naturally closes after extraction.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Global Bulk Sample Assembly",
-        "detail": "All elementary increments drawn from the selected bags must be aggregated in a clean, dry, odor-free container to form a unified global bulk sample of at least 1500 g.",
-        "clause_reference": "Clause 6.1"
-      },
-      {
-        "requirement_type": "Laboratory Sample Weight",
-        "detail": "Requires preparing at least three representative laboratory samples of at least 300 g each from the mixed global sample. One sample is for the buyer, one for the seller, and one is held as a reference sample for arbitration.",
-        "clause_reference": "Clause 6.3"
-      },
-      {
-        "requirement_type": "Moisture-Sensitive Packaging",
-        "detail": "Samples intended for moisture analysis or water-sensitive tests must be packed in clean, dry, hermetically sealed, airtight containers and filled as completely as possible.",
-        "clause_reference": "Clause 7"
-      },
-      {
-        "requirement_type": "Written Sampling Report (Procès-verbal)",
-        "detail": "Sampling must be performed by trained personnel, and a written report must be prepared noting: damaged/sweated bags in the lot, environmental and storage conditions, date/time, and any notable observations.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Observed or calculated weights, percentages, and bag calculations must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained must be identical to the specified limit.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10814 : 1984",
-    "ISO 4072",
-    "Green Coffee",
-    "Sampling Bags",
-    "Scale of Sampling",
-    "Increment Size",
-    "Coffee Trier",
-    "Global Sample",
-    "Laboratory Sample",
-    "FAD 06",
-    "IS 2:1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 4072 : 1982",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 6666",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7236 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16032 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11816 (Part 3) : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16066 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10814 : 1984 is the national Indian Standard prescribing the methods for sampling green coffee in bags. Formulated by the FAD 06 Sectional Committee and identical to the international standard ISO 4072, this standard unifies green coffee sampling procedures across India. It mandates sampling at least 10 bags for lots of 10–100 bags and at least 10% of bags for larger lots. It requires using a specialized coffee trier to draw elementary increments of 30 ± 6 g, aggregating them into a global sample of at least 1500 g, and preparing hermetically sealed laboratory samples of at least 300 g to ensure representativeness and prevent moisture-induced quality changes."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 10814 is a statistical sampling methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling scales, trier extraction methods, and sample-handling timelines is strictly integrated into national export audits, state crop-procurement contracts (including Coffee Board of India auctions), and legally binding quality agreements between global trade buyers and processors across India.",
+    "requirements": [
+      "The sampling method applies to consignments or lots shipped in ten (10) bags or more. Lots are presumed to be of roughly uniform character.",
+      "Specifies the number of bags to be selected at random from the lot for drawing increments:\na) For lots of 10 to 100 bags: Sample at least 10 bags;\nb) For lots of more than 100 bags: Sample at least 10% of the total bags.",
+      "Each elementary increment extracted from a single bag must be exactly 30 g ± 6 g of green coffee beans.",
+      "Requires the use of a metal coffee trier (conforming to ISO 6666) to draw increments through the bag wall. This puncture method avoids opening the bags, as the woven fabric naturally closes after extraction.",
+      "All elementary increments drawn from the selected bags must be aggregated in a clean, dry, odor-free container to form a unified global bulk sample of at least 1500 g.",
+      "Requires preparing at least three representative laboratory samples of at least 300 g each from the mixed global sample. One sample is for the buyer, one for the seller, and one is held as a reference sample for arbitration.",
+      "Samples intended for moisture analysis or water-sensitive tests must be packed in clean, dry, hermetically sealed, airtight containers and filled as completely as possible.",
+      "Sampling must be performed by trained personnel, and a written report must be prepared noting: damaged/sweated bags in the lot, environmental and storage conditions, date/time, and any notable observations.",
+      "Observed or calculated weights, percentages, and bag calculations must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained must be identical to the specified limit."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10814_1984_reff2022.pdf",
     "document_version_edition": "First Edition, 1984"
   }

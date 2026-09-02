@@ -1,164 +1,118 @@
 {
-  "basic_identification": {
-    "is_number": "IS 2672 : 1966",
-    "full_title": "Code of Practice for Library Lighting (पुस्तकालय प्रकाश व्यवस्था के लिए अभ्यास संहिता)",
-    "sector_category": "Electrotechnical / Illumination Engineering and Luminaries (approved by the Electrotechnical Division Council and finalized by the Illuminating Engineering and Lifts Sectional Committee, then ETD 24, of the Bureau of Indian Standards)",
-    "ics_code": "91.160.10",
+  "standard": {
+    "is_code": "IS 2672:1966",
+    "title": "Code of Practice for Library Lighting (पुस्तकालय प्रकाश व्यवस्था के लिए अभ्यास संहिता)",
+    "sector": "Electrotechnical / Illumination Engineering and Luminaries",
+    "ics_code": [
+      "91.160.10"
+    ],
     "sectional_committee": {
       "name": "Illumination Engineering and Luminaries Sectional Committee",
       "number": "ETD 24"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This Indian Standard unifies the technical recommendations, design criteria, constructional guides, and performance requirements for the planning, design, and maintenance of lighting installations in library buildings. It covers both artificial lighting and natural daylighting to ensure sufficient illumination quantity and quality for diverse reading and archiving tasks, minimizing eyestrain during long periods of work.",
+    "scope": "This Indian Standard unifies the technical recommendations, design criteria, constructional guides, and performance requirements for the planning, design, and maintenance of lighting installations in library buildings. It covers both artificial lighting and natural daylighting to ensure sufficient illumination quantity and quality for diverse reading and archiving tasks, minimizing eyestrain during long periods of work.",
+    "keywords": [
+      "IS 2672 : 1966",
+      "Library Lighting",
+      "Daylight Factor 1.5 percent",
+      "Glare Index 19",
+      "Levels of Illumination",
+      "Book stack vertical face lux",
+      "Reading tables 150 to 300 lux",
+      "Reflection factors ceiling",
+      "Luminous flux lumen",
+      "Candela platinum black body",
+      "ETD 24",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard unifies the technical recommendations, design criteria, constructional guides, and performance requirements for the planning, design, and maintenance of lighting installations in library buildings. It covers both artificial lighting and natural daylighting to ensure sufficient illumination quantity and quality for diverse reading and archiving tasks, minimizing eyestrain during long periods of work.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1966 (Reaffirmed 2020)",
-    "year_first_published": "1966",
+  "version": {
+    "current_version": "First Edition, 1966 (Reaffirmed 2020)",
+    "first_publication_year": 1966,
+    "publication_year": 1966,
+    "revision": "First Edition (IS 2672 : 1966)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 2672 : 1966)",
-        "year": "1966"
-      }
+      "First Edition (IS 2672 : 1966), 1966"
     ],
-    "supersedes": "None (Developed as a new standalone code specifically addressing the visual comfort of library environments)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL (No active amendments have been issued on this copy)"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 3646 (Part 1) : 1966",
-      "title": "Code of practice for interior illumination: Part 1 Principles of good lighting and aspects of design",
-      "category": "Lighting standard",
-      "relevance": "Provides the foundational physics and visual task criteria."
-    },
-    {
-      "is_number": "IS 3646 (Part 2) : 1966",
-      "title": "Code of practice for interior illumination: Part 2 Schedule of illumination and glare index",
-      "category": "Lighting standard",
-      "relevance": "Details standard glare calculations and direct glare evaluation limits."
-    },
-    {
-      "is_number": "IS SP 41 : 1987",
-      "title": "Handbook on functional requirements of buildings other than industrial",
-      "category": "Functional design",
-      "relevance": "Coordinates with adjacent functional systems such as room acoustics, natural ventilation, and daylighting."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters, lux measurements, and reflection factors."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating steel framing, structural roof trusses, columns, and mezzanine supports carrying heavy metal shelving racks and integrated lighting conduits."
-    },
-    {
-      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
-      "title": "Insulating Varnishes Containing Solvents — Specification",
-      "category": "Material standard",
-      "relevance": "Winding ends and insulation of lighting transformers and ballast chokes are coated or impregnated with hot-curing varnishes to ensure high dielectric isolation and minimize humming noise under load."
-    },
-    {
-      "is_number": "IS 11731 (Part 2) : 1986",
-      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
-      "category": "Testing standard",
-      "relevance": "Flame-retardant polymers and plastic lens materials used inside luminaires must pass vertical flammability tests to satisfy self-extinguishing Class FV0 limits, preventing electrical short-circuit fire propagation."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits of building maintenance lines and electrical installations, ensuring that open wiring, high-voltage lighting control panels, and emergency exit lighting comply with national safety laws."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product / Installation Code of Practice (Electrotechnical Department / Illumination)",
-    "certification_status": "Voluntary Code of Practice. However, under state public library guidelines, central university library layouts, and central public works department (CPWD) technical specifications, newly built library systems are legally audited and designed to conform with the illumination and glare levels specified under IS 2672.",
-    "requirements": [
+    "supersedes": [
+      "None (Developed as a new standalone code specifically addressing the visual comfort of library environments)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, lux measurements, daylight factors, and reflection percentages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Luminous Flux Definition",
-        "detail": "The light given by a source, or received by a surface, or transmitted by a medium, irrespective of the way in which it is distributed spatially as regards direction. Measured in lumens (lm).",
-        "clause_reference": "Clause 2.1"
-      },
-      {
-        "requirement_type": "Lumen Definition",
-        "detail": "The luminous flux emitted within unit solid angle (one steradian) by a point source having a uniform intensity of one candela.",
-        "clause_reference": "Clause 2.2"
-      },
-      {
-        "requirement_type": "Candela Definition",
-        "detail": "The unit of luminous intensity. Magnitude is defined as one-sixtieth of the luminous intensity of one square centimetre of a black-body radiator operated at the temperature of solidification of platinum.",
-        "clause_reference": "Clause 2.3"
-      },
-      {
-        "requirement_type": "Study Area / Desk Illumination",
-        "detail": "The reading desks and study areas must maintain a stable horizontal illumination level of 150 to 300 lux to allow continuous reading without eyestrain.",
-        "clause_reference": "Clause 3 / Table 1"
-      },
-      {
-        "requirement_type": "Book Stack Illumination",
-        "detail": "To ensure book titles are clearly legible, a vertical illumination level of 50 to 100 lux must be maintained across the vertical spines of books stored on stacks and shelves.",
-        "clause_reference": "Clause 3 / Table 1"
-      },
-      {
-        "requirement_type": "Ceiling Reflectance Factor",
-        "detail": "The ceiling surface must have a reflection factor of 70% to 80% (using matte white or off-white paint) to maximize indirect diffuse reflection.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Wall Reflectance Factor",
-        "detail": "The walls must maintain a reflection factor of 50% to 60% with light-coloured, matte finishes.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Desk Reflectance Factor",
-        "detail": "Reading tables and desks must have a reflection factor of 30% to 40% to reduce contrast between white paper pages and table surfaces, minimizing eyestrain.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Daylight Factor",
-        "detail": "Study and reading rooms are highly encouraged to utilize natural daylighting, maintaining a minimum Daylight Factor of 1.5% across study zones.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Direct Glare Index",
-        "detail": "To maintain visual comfort and prevent veiling reflections on glossy paper pages, the direct Glare Index inside reading rooms must be restricted to a maximum of 19.",
-        "clause_reference": "Clause 6"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL (No active amendments have been issued on this copy)"
       }
     ]
   },
-  "keywords": [
-    "IS 2672 : 1966",
-    "Library Lighting",
-    "Daylight Factor 1.5 percent",
-    "Glare Index 19",
-    "Levels of Illumination",
-    "Book stack vertical face lux",
-    "Reading tables 150 to 300 lux",
-    "Reflection factors ceiling",
-    "Luminous flux lumen",
-    "Candela platinum black body",
-    "ETD 24",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 3646 (Part 1) : 1966",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3646 (Part 2) : 1966",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS SP 41 : 1987",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11731 (Part 2) : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 2672 : 1966 (Reaffirmed 2020) is the primary national Indian Standard code of practice regulating interior lighting design inside library buildings. Finalized under the Illumination Engineering and Luminaries committee (ETD 24) and reaffirmed in 2020, the code defines the essential physical metrics of lighting—such as luminous flux, lumen, and candela—and provides detailed design guidelines for natural and artificial light distribution. It mandates specific illumination ranges (150 to 300 lux for reading desks, and 50 to 100 lux for book-stack vertical faces) and reflectance factors (70–80% for ceilings, 50–60% for walls) to maximize visual comfort and eliminate eyes strain. Enforcing a maximum direct glare index of 19 and recommending a minimum 1.5% daylight factor, the standard ensures that public, academic, and industrial libraries achieve optimal comfort, safety, and energy efficiency."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. However, under state public library guidelines, central university library layouts, and central public works department (CPWD) technical specifications, newly built library systems are legally audited and designed to conform with the illumination and glare levels specified under IS 2672.",
+    "requirements": [
+      "Observed or calculated final test values, lux measurements, daylight factors, and reflection percentages must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+      "The light given by a source, or received by a surface, or transmitted by a medium, irrespective of the way in which it is distributed spatially as regards direction. Measured in lumens (lm).",
+      "The luminous flux emitted within unit solid angle (one steradian) by a point source having a uniform intensity of one candela.",
+      "The unit of luminous intensity. Magnitude is defined as one-sixtieth of the luminous intensity of one square centimetre of a black-body radiator operated at the temperature of solidification of platinum.",
+      "The reading desks and study areas must maintain a stable horizontal illumination level of 150 to 300 lux to allow continuous reading without eyestrain.",
+      "To ensure book titles are clearly legible, a vertical illumination level of 50 to 100 lux must be maintained across the vertical spines of books stored on stacks and shelves.",
+      "The ceiling surface must have a reflection factor of 70% to 80% (using matte white or off-white paint) to maximize indirect diffuse reflection.",
+      "The walls must maintain a reflection factor of 50% to 60% with light-coloured, matte finishes.",
+      "Reading tables and desks must have a reflection factor of 30% to 40% to reduce contrast between white paper pages and table surfaces, minimizing eyestrain.",
+      "Study and reading rooms are highly encouraged to utilize natural daylighting, maintaining a minimum Daylight Factor of 1.5% across study zones.",
+      "To maintain visual comfort and prevent veiling reflections on glossy paper pages, the direct Glare Index inside reading rooms must be restricted to a maximum of 19."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "2672_1966_reff2020.pdf",
     "document_version_edition": "First Edition, 1966"
   }

@@ -1,122 +1,85 @@
 {
-  "basic_identification": {
-    "is_number": "IS 15243 : 2002",
-    "full_title": "VELOCITY SCALE SET FOR METEOROLOGICAL PURPOSES",
-    "sector_category": "Meteorological Instruments Sectional Committee, BP 21 / Basic and Production Engineering Division Council (Approved by the Basic and Production Engineering Division Council and finalized by the Meteorological Instruments Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "ICS 07.060",
+  "standard": {
+    "is_code": "IS 15243:2002",
+    "title": "VELOCITY SCALE SET FOR METEOROLOGICAL PURPOSES",
+    "sector": "Meteorological Instruments Sectional Committee, BP 21 / Basic and Production Engineering Division Council",
+    "ics_code": [
+      "ICS 07.060"
+    ],
     "sectional_committee": {
       "name": "Meteorological Instruments Sectional Committee",
       "number": "BP 21"
-    }
-  },
-  "scope": {
-    "summary": "This standard covers the general and functional requirements of rigid velocity scale sets used for determining the wind speed from the plotted hodograph of the pilot balloon ascents for meteorological purposes.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, December 2002 (Reaffirmed 2019)",
-    "year_first_published": "2002",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2002"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values ( revised )",
-      "category": "Normative / Mathematical Rounding Standard",
-      "location": "Foreword / General Practices",
-      "relevance": "Provides the mathematical rules and procedures used to round off calculated or observed test and measurement values to decide compliance with this standard."
     },
-    {
-      "is_number": "IS 4905 : 1968",
-      "title": "Methods for random sampling",
-      "category": "Testing / Quality Control Sampling Standard",
-      "location": "General Quality Control",
-      "relevance": "Standardises the statistical procedures and random selection methods for sampling lots of completed scale sets during quality inspections."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values ( revised )",
-      "category": "Normative / Mathematical Rounding Standard",
-      "location": "Foreword / General Practices",
-      "relevance": "Provides the mathematical rules and procedures used to round off calculated or observed test and measurement values to decide compliance with this standard."
-    },
-    {
-      "is_number": "IS 4905 : 1968",
-      "title": "Methods for random sampling",
-      "category": "Testing / Quality Control Sampling Standard",
-      "location": "General Quality Control",
-      "relevance": "Standardises the statistical procedures and random selection methods for sampling lots of completed scale sets during quality inspections."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Meteorological Instruments / Measuring Scales)",
-    "certification_status": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS.",
-    "requirements": [
-      {
-        "requirement_type": "Rigid Scale Structural Configuration",
-        "detail": "The velocity set scale shall consist of either 3-scales or a square with its four edges suitably graduated. For 3-scale sets, each individual scale is utilized for different portions of the plotted balloon ascent hodograph based on specific scale factors.",
-        "clause_reference": "Clause 2.1"
-      },
-      {
-        "requirement_type": "Interval Sizing and Zero-Mark Alignment",
-        "detail": "The first velocity interval of 10 m/s must be marked such that the 10 m/s mark is positioned on the left and the 0 (zero) m/s mark is on the right. Subsequent graduations are provided at every 5 m/s interval.",
-        "clause_reference": "Clause 2.2.5.3"
-      },
-      {
-        "requirement_type": "Scale Factor and Distance Parameters",
-        "detail": "Successive graduation marks at 1 m/s and 5 m/s intervals on each scale must have the following precise distances based on the scale factors: \na) Scale Factor 1 cm = 1 km (2 min time interval): 1.2 mm distance for 1 m/s and 6.0 mm distance for 5 m/s; \nb) Scale Factor 2 cm = 1 km (printed as 12cm=lkm / 2 min time interval): 2.4 mm distance for 1 m/s and 12.0 mm distance for 5 m/s; \nc) Scale Factor 4 cm = 1 km (2 min time interval): 4.8 mm distance for 1 m/s and 24.0 mm distance for 5 m/s.",
-        "clause_reference": "Clause 2.2.5.4"
-      },
-      {
-        "requirement_type": "Graduation Line Length Controls",
-        "detail": "Prescribes the exact vertical lengths of the engraved graduation lines to ensure clear readability: \na) 1 m/s marks: 5 mm length; \nb) 5 m/s marks: 8 mm length; \nc) 10 m/s marks: 10 mm length.",
-        "clause_reference": "Clause 2.2.5.5"
-      },
-      {
-        "requirement_type": "Plastic Scale Workmanship and Finish",
-        "detail": "Plastic scales must have smooth, even sides and be completely free from blisters, porosity, and structural defects. They must exhibit uniform width and thickness throughout their entire length.",
-        "clause_reference": "Clauses 5.1 & 5.1.1"
-      },
-      {
-        "requirement_type": "Metal Scale Workmanship and Finish",
-        "detail": "Metal scales must be manufactured completely free from seams, flaws, scales, burrs, and other physical defects, maintaining a uniform thickness and width throughout.",
-        "clause_reference": "Clauses 5.2 & 5.2.1"
-      },
-      {
-        "requirement_type": "Edge and Surface Planeness Limits",
-        "detail": "The edges of both plastic and metal scales must not deviate from a straight line by more than 0.5 mm at any point. Similarly, their plane surfaces must not vary from a flat plane by more than 0.5 mm.",
-        "clause_reference": "Clause 5.3"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard covers the general and functional requirements of rigid velocity scale sets used for determining the wind speed from the plotted hodograph of the pilot balloon ascents for meteorological purposes.",
+    "scope": "This standard covers the general and functional requirements of rigid velocity scale sets used for determining the wind speed from the plotted hodograph of the pilot balloon ascents for meteorological purposes.",
+    "keywords": [
+      "IS 15243 : 2002",
+      "Velocity Scale Set",
+      "Meteorological Instruments",
+      "Wind Speed Determination",
+      "Pilot Balloon Ascents",
+      "Hodograph Plotting",
+      "Plastic Scale Square",
+      "BP 21",
+      "Bureau of Indian Standards",
+      "Scale Factors",
+      "Graduation Tolerances"
     ]
   },
-  "keywords": [
-    "IS 15243 : 2002",
-    "Velocity Scale Set",
-    "Meteorological Instruments",
-    "Wind Speed Determination",
-    "Pilot Balloon Ascents",
-    "Hodograph Plotting",
-    "Plastic Scale Square",
-    "BP 21",
-    "Bureau of Indian Standards",
-    "Scale Factors",
-    "Graduation Tolerances"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 15243 : 2002 is the national Indian Standard specification governing rigid velocity scale sets used for determining wind speed from plotted pilot balloon ascent hodographs in meteorological operations. Finalized by the Meteorological Instruments Sectional Committee (BP 21), it covers both three-scale sets and single flat plastic square scales with four graduated edges. The standard standardises exact physical distances for graduation intervals (from 1 m/s to 5 m/s) across different scale factors (1 cm = 1 km, 2 cm = 1 km, and 4 cm = 1 km), defines strict line length hierarchies for readability, and mandates tight tolerances on edge straightness and surface flatness (holding limits of 0.5 mm) for both plastic and metal scale variants."
+  "version": {
+    "current_version": "First Edition, December 2002 (Reaffirmed 2019)",
+    "first_publication_year": 2002,
+    "publication_year": 2002,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 2002"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 1968",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 1968",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS.",
+    "requirements": [
+      "The velocity set scale shall consist of either 3-scales or a square with its four edges suitably graduated. For 3-scale sets, each individual scale is utilized for different portions of the plotted balloon ascent hodograph based on specific scale factors.",
+      "The first velocity interval of 10 m/s must be marked such that the 10 m/s mark is positioned on the left and the 0 (zero) m/s mark is on the right. Subsequent graduations are provided at every 5 m/s interval.",
+      "Successive graduation marks at 1 m/s and 5 m/s intervals on each scale must have the following precise distances based on the scale factors: \na) Scale Factor 1 cm = 1 km (2 min time interval): 1.2 mm distance for 1 m/s and 6.0 mm distance for 5 m/s; \nb) Scale Factor 2 cm = 1 km (printed as 12cm=lkm / 2 min time interval): 2.4 mm distance for 1 m/s and 12.0 mm distance for 5 m/s; \nc) Scale Factor 4 cm = 1 km (2 min time interval): 4.8 mm distance for 1 m/s and 24.0 mm distance for 5 m/s.",
+      "Prescribes the exact vertical lengths of the engraved graduation lines to ensure clear readability: \na) 1 m/s marks: 5 mm length; \nb) 5 m/s marks: 8 mm length; \nc) 10 m/s marks: 10 mm length.",
+      "Plastic scales must have smooth, even sides and be completely free from blisters, porosity, and structural defects. They must exhibit uniform width and thickness throughout their entire length.",
+      "Metal scales must be manufactured completely free from seams, flaws, scales, burrs, and other physical defects, maintaining a uniform thickness and width throughout.",
+      "The edges of both plastic and metal scales must not deviate from a straight line by more than 0.5 mm at any point. Similarly, their plane surfaces must not vary from a flat plane by more than 0.5 mm."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "15243.pdf",
     "document_version_edition": "First Edition, December 2002 (Reaffirmed 2019)"
   }

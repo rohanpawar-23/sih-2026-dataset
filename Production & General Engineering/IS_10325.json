@@ -1,206 +1,147 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10325 : 2000",
-    "full_title": "Square Tins — 15 kg/litre for Ghee, Vanaspati, Edible Oils and Bakery Shortenings — Specification (Second Revision)",
-    "sector_category": "Production and General Engineering / Metal Containers (approved by the Chemical Division Council and finalized by the Metal Containers Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "55.140",
+  "standard": {
+    "is_code": "IS 10325:2000",
+    "title": "Square Tins — 15 kg/litre for Ghee, Vanaspati, Edible Oils and Bakery Shortenings — Specification (Second Revision)",
+    "sector": "Production and General Engineering / Metal Containers",
+    "ics_code": [
+      "55.140"
+    ],
     "sectional_committee": {
       "name": "Metal Containers Sectional Committee",
       "number": "PGD 38"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements for manufacture, dimensions, capacity, construction, and performance testing of new, plain, internally uncoated square tins of nominal capacity 15 kg or 15 litres. These tins are designed specifically for the hygienic packaging, storage, distribution, and transport of ghee, vanaspati, edible oils, bakery fats, and bakery shortenings.",
+    "scope": "This standard specifies requirements for manufacture, dimensions, capacity, construction, and performance testing of new, plain, internally uncoated square tins of nominal capacity 15 kg or 15 litres. These tins are designed specifically for the hygienic packaging, storage, distribution, and transport of ghee, vanaspati, edible oils, bakery fats, and bakery shortenings.",
+    "keywords": [
+      "IS 10325 : 2000",
+      "Square Tins 15 kg",
+      "Edible Oil Packaging",
+      "Ghee Tins",
+      "Vanaspati Tins",
+      "Bakery Shortenings",
+      "Electrolytic Tinplate",
+      "Double Reduced Tinplate",
+      "Tin Coating E 2.8/2.8",
+      "Double Seam",
+      "Hydraulic Pressure Test",
+      "PGD 38",
+      "Drums and Tins QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements for manufacture, dimensions, capacity, construction, and performance testing of new, plain, internally uncoated square tins of nominal capacity 15 kg or 15 litres. These tins are designed specifically for the hygienic packaging, storage, distribution, and transport of ghee, vanaspati, edible oils, bakery fats, and bakery shortenings.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, May 2000 (Reaffirmed in 2017, Reaffirmed 2022)",
-    "year_first_published": "1982",
+  "version": {
+    "current_version": "Second Revision, May 2000 (Reaffirmed in 2017, Reaffirmed 2022)",
+    "first_publication_year": 1982,
+    "publication_year": 2000,
+    "revision": "Second Revision (revised to optimize constructional details, establish tinplate and tin coating thickness rules, specify lead-free pure tin solder, and update the hydraulic pressure leak test thresholds to align with the Vegetable Oil Products Control Order)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1982"
-      },
-      {
-        "edition": "First Revision",
-        "year": "1989"
-      },
-      {
-        "edition": "Second Revision (revised to optimize constructional details, establish tinplate and tin coating thickness rules, specify lead-free pure tin solder, and update the hydraulic pressure leak test thresholds to align with the Vegetable Oil Products Control Order)",
-        "year": "2000"
-      }
+      "First Edition, 1982",
+      "First Revision, 1989",
+      "Second Revision (revised to optimize constructional details, establish tinplate and tin coating thickness rules, specify lead-free pure tin solder, and update the hydraulic pressure leak test thresholds to align with the Vegetable Oil Products Control Order), 2000"
     ],
-    "supersedes": "IS 10325 : 1989",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1993",
-      "title": "Single cold-reduced electrolytic tinplate sheet — Specification",
-      "category": "Raw material standard",
-      "location": "Clause 4.2.1",
-      "relevance": "Prescribes material parameters for standard-grade single cold-reduced electrolytic tinplate of 0.28 mm nominal thickness used for the body, ends, and capseals."
-    },
-    {
-      "is_number": "IS 13954",
-      "title": "Double cold-reduced electrolytic tinplate sheet — Specification",
-      "category": "Raw material standard",
-      "location": "Clause 4.2.1",
-      "relevance": "Prescribes material parameters for standard-grade double cold-reduced electrolytic tinplate of 0.21 mm nominal thickness used as an alternative for the body, ends, and capseals."
-    },
-    {
-      "is_number": "IS 1327",
-      "title": "Methods of determination of mass of tin coating on tinplate",
-      "category": "Testing standard",
-      "location": "Clause 4.2",
-      "relevance": "Governs wet chemical and instrumental testing procedures to determine and verify the tin coating mass."
-    },
-    {
-      "is_number": "IS 1394",
-      "title": "Glossary of terms relating to metal containers",
-      "category": "Terminology standard",
-      "location": "Clause 3",
-      "relevance": "Standardizes definitions for metal container terms such as body, bottom end, punch plug, and closure."
-    },
-    {
-      "is_number": "IS 3259",
-      "title": "Methods for sampling of metal containers",
-      "category": "Sampling standard",
-      "location": "Normative references",
-      "relevance": "Provides statistical sampling plans and criteria for lot conformity assessment."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of calculated or observed testing figures to evaluate code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10339 : 2000",
-      "title": "Round Tins for Ghee, Vanaspati and Edible Oils — Specification",
-      "category": "Product specification",
-      "location": "Parallel food-grade metal containers",
-      "relevance": "Companion national standard regulating round cylindrical tins (ranging from 200 g to 5 kg/litre capacities) for ghee, vanaspati, and edible oils."
-    },
-    {
-      "is_number": "IS 916 : 2000",
-      "title": "Square Tins for Solid Products — Specification",
-      "category": "Product specification",
-      "location": "Parallel food-grade metal containers",
-      "relevance": "Companion national standard regulating square tins designed for dry solid products, sharing general construction guidelines."
-    },
-    {
-      "is_number": "IS 1783 (Part 1)",
-      "title": "Drums, Large, Fixed Ends — Specification: Part 1 Grade A Drums",
-      "category": "Product specification",
-      "location": "Parallel metal containers",
-      "relevance": "Heavy-duty steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 13997 : 2014",
-      "title": "Drums, Large Open Top — Specification",
-      "category": "Product specification",
-      "location": "Parallel metal containers",
-      "relevance": "Open-top steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 2552 : 1989",
-      "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
-      "category": "Product specification",
-      "location": "Parallel metal containers",
-      "relevance": "Intermediate-capacity steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 3575 : 1993",
-      "title": "Bitumen Drums — Specification",
-      "category": "Product specification",
-      "location": "Parallel metal containers",
-      "relevance": "Bitumen steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Parallel structural engineering",
-      "relevance": "The master structural steel design code regulating external anchorages, support saddles, and warehouse stacking limits, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Packaging Materials / Metal Containers)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all 15 kg/litre Square Tins manufactured, imported, distributed, or sold in India for packaging ghee, vanaspati, edible oils, and bakery shortenings must conform to IS 10325:2000 and bear the mandatory BIS Standard Mark (ISI Mark). Enforcement transitioned for medium and large-scale enterprises on April 17, 2024, small enterprises on July 17, 2024, and micro enterprises on October 17, 2024. Manufacturing, importing, or distributing non-certified tins in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial steel/tin packaging.",
-    "requirements": [
+    "supersedes": [
+      "IS 10325 : 1989"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every certified square tin must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 10325) stenciled, printed, or embossed on the tin body or lid.",
-        "clause_reference": "Clause 7"
-      },
-      {
-        "requirement_type": "Capacity & Sizing Bounds",
-        "detail": "Governs square tin containers of nominal capacity 15 kg or 15 litres. Dimensions must satisfy strict tolerances to ensure proper stacking and volumetric accuracy:\na) Length: 235 ± 3 mm;\nb) Width: 235 ± 3 mm;\nc) Height: 325 ± 5 mm (conforms to Fig. 1 of the standard).",
-        "clause_reference": "Clause 4.1 & Fig. 1"
-      },
-      {
-        "requirement_type": "Electrolytic Tinplate Material Quality",
-        "detail": "Tins must be fabricated using high-quality prime electrolytic tinplate of specified grades and thicknesses to resist chemical interaction and maintain physical strength:\na) Single cold-reduced electrolytic tinplate: Nominal thickness of 0.28 mm conforming to IS 1993;\nb) Double cold-reduced electrolytic tinplate: Nominal thickness of 0.21 mm conforming to IS 13954.",
-        "clause_reference": "Clause 4.2.1"
-      },
-      {
-        "requirement_type": "Tin Coating Mass Purity",
-        "detail": "The tin coating must conform to Grade E 2.8/2.8 as evaluated by the chemical stripping method of IS 1327, ensuring a uniform protective barrier against corrosion.",
-        "clause_reference": "Clause 4.2"
-      },
-      {
-        "requirement_type": "Seaming and Sealing",
-        "detail": "The top and bottom end plates must be attached to the body using leak-proof double-seamed joints along with a food-grade seaming compound resistant to fats and oils. The side body seam must be securely welded (welded side seam) or folded and locked.",
-        "clause_reference": "Clause 4.3"
-      },
-      {
-        "requirement_type": "Carry Handle and Fitting Security",
-        "detail": "A carry handle manufactured from steel wire (diameter as specified) must be securely spot-welded or attached to the top end to withstand normal lifting and handling stresses without tearing free.",
-        "clause_reference": "Closure Components Clause"
-      },
-      {
-        "requirement_type": "Food-Grade Lacquering (Ghee Tins only)",
-        "detail": "When intended for packing ghee specifically, the interior of the square tins must be coated with a compatible, non-toxic food-grade lacquer to prevent any off-flavors, rancidity, or chemical reaction.",
-        "clause_reference": "Material Clause"
-      },
-      {
-        "requirement_type": "Mandatory Hydraulic Pressure Test",
-        "detail": "To guarantee that the tins are completely leak-proof and can withstand handling pressures, representative sample tins must be subjected to an internal hydraulic pressure test of 30 kPa (0.30 kgf/cm²) for a period of not less than 3 minutes. The tins must show zero signs of leakage, sweating, or joint warping.",
-        "clause_reference": "Clause 5.3"
-      },
-      {
-        "requirement_type": "Cleanness and Visual Workmanship",
-        "detail": "The interior of each finished square tin must be completely clean, dry, bright, and free from any traces of rust, solder flux, scale, or foreign contaminants before filling.",
-        "clause_reference": "Clause 4.3"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10325 : 2000",
-    "Square Tins 15 kg",
-    "Edible Oil Packaging",
-    "Ghee Tins",
-    "Vanaspati Tins",
-    "Bakery Shortenings",
-    "Electrolytic Tinplate",
-    "Double Reduced Tinplate",
-    "Tin Coating E 2.8/2.8",
-    "Double Seam",
-    "Hydraulic Pressure Test",
-    "PGD 38",
-    "Drums and Tins QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 1993",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13954",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1327",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1394",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3259",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10339 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 916 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1783 (Part 1)",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13997 : 2014",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2552 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3575 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10325 : 2000 is the mandatory national Indian Standard specification governing square tins of 15 kg or 15-litre capacity used in the food-processing and agricultural sectors for packing, storing, and transporting ghee, vanaspati, edible vegetable oils, and bakery shortenings. Under India's statutory Drums and Tins Quality Control Order (QCO), all such 15 kg square tins manufactured or distributed domestically must conform to this standard and bear the mandatory BIS Standard Mark (ISI Mark). Crafted from high-quality cold-reduced electrolytic tinplate (0.28 mm single reduced or 0.21 mm double reduced) with an E 2.8/2.8 tin coating, the tins are designed with standard dimensions (235 x 235 x 325 mm) to optimize warehouse stacking. The standard enforces detailed quality requirements, including continuously welded side seams, double-seamed ends, food-grade interior lacquers for ghee, and a mandatory 3-minute hydraulic pressure leak test at 30 kPa to prevent transport oil spills."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Drums and Tins (Quality Control) Order",
+      "year": 2000
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all 15 kg/litre Square Tins manufactured, imported, distributed, or sold in India for packaging ghee, vanaspati, edible oils, and bakery shortenings must conform to IS 10325:2000 and bear the mandatory BIS Standard Mark (ISI Mark). Enforcement transitioned for medium and large-scale enterprises on April 17, 2024, small enterprises on July 17, 2024, and micro enterprises on October 17, 2024. Manufacturing, importing, or distributing non-certified tins in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial steel/tin packaging.",
+    "requirements": [
+      "Every certified square tin must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 10325) stenciled, printed, or embossed on the tin body or lid.",
+      "Governs square tin containers of nominal capacity 15 kg or 15 litres. Dimensions must satisfy strict tolerances to ensure proper stacking and volumetric accuracy:\na) Length: 235 ± 3 mm;\nb) Width: 235 ± 3 mm;\nc) Height: 325 ± 5 mm (conforms to Fig. 1 of the standard).",
+      "Tins must be fabricated using high-quality prime electrolytic tinplate of specified grades and thicknesses to resist chemical interaction and maintain physical strength:\na) Single cold-reduced electrolytic tinplate: Nominal thickness of 0.28 mm conforming to IS 1993;\nb) Double cold-reduced electrolytic tinplate: Nominal thickness of 0.21 mm conforming to IS 13954.",
+      "The tin coating must conform to Grade E 2.8/2.8 as evaluated by the chemical stripping method of IS 1327, ensuring a uniform protective barrier against corrosion.",
+      "The top and bottom end plates must be attached to the body using leak-proof double-seamed joints along with a food-grade seaming compound resistant to fats and oils. The side body seam must be securely welded (welded side seam) or folded and locked.",
+      "A carry handle manufactured from steel wire (diameter as specified) must be securely spot-welded or attached to the top end to withstand normal lifting and handling stresses without tearing free.",
+      "When intended for packing ghee specifically, the interior of the square tins must be coated with a compatible, non-toxic food-grade lacquer to prevent any off-flavors, rancidity, or chemical reaction.",
+      "To guarantee that the tins are completely leak-proof and can withstand handling pressures, representative sample tins must be subjected to an internal hydraulic pressure test of 30 kPa (0.30 kgf/cm²) for a period of not less than 3 minutes. The tins must show zero signs of leakage, sweating, or joint warping.",
+      "The interior of each finished square tin must be completely clean, dry, bright, and free from any traces of rust, solder flux, scale, or foreign contaminants before filling."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "Not in current notebook sources. Profile compiled from official BIS LIMS and DPIIT QCO publications.",
     "document_version_edition": "Second Revision, May 2000"
   }

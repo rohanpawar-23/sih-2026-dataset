@@ -1,214 +1,125 @@
 {
-  "basic_identification": {
-    "is_number": "IS 15833 : 2009",
-    "full_title": "Stainless Steel Tower Bolts — Specification",
-    "sector_category": "Civil Engineering / Builder's Hardware (approved by the Civil Engineering Division Council and finalized by the Builder's Hardware Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "91.190; 77.140.20",
+  "standard": {
+    "is_code": "IS 15833:2009",
+    "title": "Stainless Steel Tower Bolts — Specification",
+    "sector": "Civil Engineering / Builder's Hardware",
+    "ics_code": [
+      "91.190",
+      "77.140.20"
+    ],
     "sectional_committee": {
       "name": "Builder's Hardware Sectional Committee",
       "number": "CED 15"
     },
-    "citations": "[1]"
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the material, mechanical, dimensional, manufacture, and finish requirements for barrel-type tower bolts manufactured from stainless steel, designed for securing doors, windows, and almirahs.",
+    "scope": "This standard specifies the material, mechanical, dimensional, manufacture, and finish requirements for barrel-type tower bolts manufactured from stainless steel, designed for securing doors, windows, and almirahs.",
+    "keywords": [
+      "IS 15833 : 2009",
+      "Stainless Steel",
+      "Tower Bolts",
+      "Barrel Bolt",
+      "Builder's Hardware",
+      "Sliding Bolt",
+      "Grade X07Cr18Ni9",
+      "Grade X04Cr13",
+      "CPWD Hardware",
+      "CED 15",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the material, mechanical, dimensional, manufacture, and finish requirements for barrel-type tower bolts manufactured from stainless steel, designed for securing doors, windows, and almirahs.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard",
-    "citations": "[2]"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, January 2009",
-    "year_first_published": "2009",
+  "version": {
+    "current_version": "First Edition, January 2009",
+    "first_publication_year": 2009,
+    "publication_year": 2009,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2009"
-      }
+      "First Edition, 2009"
     ],
-    "supersedes": "N/A (Formulated as a new specification to address the high demand for rust-proof and durable hardware fittings, particularly in coastal or high-humidity regions where traditional mild steel corrodes rapidly)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments issued since publication on this copy.",
-    "citations": "[1]"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 6911 : 1992",
-      "title": "Stainless steel plate, sheet and strip (first revision)",
-      "category": "Material standard",
-      "location": "Clause 2 & Clause 4.1",
-      "relevance": "Prescribes standard grades of stainless steel sheets (such as X07Cr18Ni9 or X10Cr17Mn6Ni4N20) required to fabricate the tower bolt barrel.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 6527 : 1995",
-      "title": "Stainless steel wire rods — Specification (first revision)",
-      "category": "Material standard",
-      "location": "Clause 2 & Clause 4.2",
-      "relevance": "Specifies compatible stainless steel wire rod grades (including X04Cr13, X12Cr13, X04Cr18Ni10, or X07Cr18Ni9) required to manufacture the sliding bolt.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 6760 : 1972",
-      "title": "Specification for slotted countersunk head wood screws",
-      "category": "Component standard",
-      "location": "Clause 2 & Clause 5.1",
-      "relevance": "Outlines dimensions and thread requirements for countersunk head wood screws used to install the tower bolt assemblies.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Enforces standard mathematical rounding-off routines to evaluate test results and check dimensional conformity.",
-      "citations": "[1]"
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 4621 : 1975",
-      "title": "Specification for Indicating Bolts for Use in Public Baths and Lavatories",
-      "category": "Sister standard",
-      "location": "Parallel CED 15 standard",
-      "relevance": "A sister builder's hardware specification formulated by the same sectional committee (CED 15) governing safety latches and indicating locks, present in the notebook."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Parallel steel standard",
-      "relevance": "The national code of practice regulating design, connections, and construction parameters for structural steel systems, present in the notebook."
-    },
-    {
-      "is_number": "IS 6623 : 2004",
-      "title": "High Strength Structural Nuts — Specification",
-      "category": "Normative reference",
-      "location": "Parallel fasteners standard",
-      "relevance": "Specifies heavy-duty high-tensile structural fasteners used in steel connections, present in the notebook."
-    },
-    {
-      "is_number": "IS 2062 : 2026",
-      "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Product specification",
-      "location": "Parallel steel standard",
-      "relevance": "Governs structural carbon steel plates, sheets, and sections used across general engineering structures, present in the notebook."
-    },
-    {
-      "is_number": "IS 14268 : 2022",
-      "title": "Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for Prestressed Concrete — Specification",
-      "category": "Product specification",
-      "location": "Parallel civil engineering standard",
-      "relevance": "Governs high-tensile steel reinforcing strands utilized in concrete structures, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Builder's Hardware / Fasteners)",
-    "certification_status": "Voluntary / Statutory. While traditionally voluntary, stainless steel tower bolts are routinely specified under CPWD, PWD, and National Building Code mandates for government and municipal construction, requiring conformity to IS standards. Manufacturers conforming to the specification are eligible to apply for a BIS license to carry the Standard Mark (ISI Mark). Precious metal hallmarking is completely inapplicable to industrial alloy fasteners.",
-    "requirements": [
+    "supersedes": [
+      "N/A (Formulated as a new specification to address the high demand for rust-proof and durable hardware fittings",
+      "particularly in coastal or high-humidity regions where traditional mild steel corrodes rapidly)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every tower bolt conforming to this standard may carry the BIS Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards.",
-        "clause_reference": "Clause 8.1.1 & 8.1.1.1",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Standard Nominal Sizes",
-        "detail": "Stainless steel tower bolts must be manufactured in five standard nominal sizes: 100, 150, 200, 250, and 300 mm. The size of the tower bolt is designated by the length of the barrel (B).",
-        "clause_reference": "Clause 3.1 & 3.2",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Raw Material Grade for Sheet",
-        "detail": "The stainless steel sheet utilized for forming the barrel must conform to Grade X07Cr18Ni9 or Grade X10Cr17Mn6Ni4N20 of IS 6911.",
-        "clause_reference": "Clause 4.1",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Raw Material Grade for Bolt",
-        "detail": "The stainless steel sliding bolt itself must conform to Grade X04Cr13, Grade X12Cr13, Grade X04Cr18Ni10, or Grade X07Cr18Ni9 of IS 6527.",
-        "clause_reference": "Clause 4.2",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Countersunk Holes for Wood Screws",
-        "detail": "To prevent screw head protrusions and ensure flush installation, all tower bolts made from sheet steel thickness of 0.70 mm and above must feature countersunk screw holes suitable for countersunk head wood screws (conforming to IS 6760).",
-        "clause_reference": "Clause 5.1",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Bolt and Knob Construction",
-        "detail": "The sliding bolt must be of robust, single-piece construction with an integral knob. Alternatively, the knob may be securely fitted via a pin, or screwed and riveted to the bolt, designed with round profiles and zero sharp edges.",
-        "clause_reference": "Clause 5.1 & 5.2",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Barrel Width and Bolt Diameter (Table 1)",
-        "detail": "Dimensions must satisfy: a) Width of barrel (C) must be 33 mm (for 10.0 mm diameter bolts) or 38 mm (for 12.0 mm diameter bolts); b) Sliding bolt diameter (D) must be minimum 10.0 mm, or 12.0 mm; c) Length of the socket (E) must be minimum 25 mm.",
-        "clause_reference": "Clause 6 & Table 1",
-        "page_reference": "Pages 1-3",
-        "citations": "[2, 3]"
-      },
-      {
-        "requirement_type": "Barrel Sheet Thickness and Bore Clearances (Table 1)",
-        "detail": "Dimensional clearance limits mandate: a) Thickness of steel sheet for barrel (F) must be minimum 0.7 mm (for 10.0 mm bolts) or 1.0 mm (for 12.0 mm bolts); b) Bore diameter of the barrel or socket (G) must be between 0.7 to 1.5 mm larger than the actual sliding bolt diameter (D) to ensure smooth mechanical sliding action.",
-        "clause_reference": "Clause 6 & Table 1",
-        "page_reference": "Pages 1-3",
-        "citations": "[2, 3]"
-      },
-      {
-        "requirement_type": "Minimum Screw Holes (Table 1)",
-        "detail": "The minimum number of equally spaced screw holes in the barrel and sockets (for wood screw No. 6) is strictly sized: 6 holes (for size 100), 8 holes (for size 150), 10 holes (for sizes 200 and 250), and 12 holes (for size 300).",
-        "clause_reference": "Clause 6 & Table 1",
-        "page_reference": "Page 3",
-        "citations": "[3]"
-      },
-      {
-        "requirement_type": "Visual Finish and Corrosion resistance",
-        "detail": "Unless otherwise specified by the purchaser, the finished tower bolts must be polished bright with a smooth, defect-free surface. If requested by the buyer, the finished hardware must undergo mutually agreed corrosion resistance testing.",
-        "clause_reference": "Clause 7 & Clause 10.3.2",
-        "page_reference": "Pages 1-3",
-        "citations": "[2, 4]"
-      },
-      {
-        "requirement_type": "Product Identification Markings",
-        "detail": "Each finished tower bolt must be clearly and legibly marked with the manufacturer's name, brand/trade-mark, and the words 'Stainless Steel' imprinted onto the metal surface.",
-        "clause_reference": "Clause 8.1",
-        "page_reference": "Page 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Lot Sampling Scale and Conformity (Table 2)",
-        "detail": "A lot comprises all identical tower bolts of the same size manufactured in a single day. Random samples must be selected and tested per Table 2: a) Up to 200 bolts (sample size 5, allowed defectives = 0); b) 201 to 300 (sample size 8, allowed defectives = 1); c) 301 to 500 (sample size 13, allowed defectives = 2); d) 501 to 800 (sample size 20, allowed defectives = 2); e) 801 and above (sample size 25, allowed defectives = 3).",
-        "clause_reference": "Clause 10.1, 10.2, & Table 2",
-        "page_reference": "Pages 3",
-        "citations": "[4]"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments issued since publication on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 15833 : 2009",
-    "Stainless Steel",
-    "Tower Bolts",
-    "Barrel Bolt",
-    "Builder's Hardware",
-    "Sliding Bolt",
-    "Grade X07Cr18Ni9",
-    "Grade X04Cr13",
-    "CPWD Hardware",
-    "CED 15",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 6911 : 1992",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6527 : 1995",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6760 : 1972",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4621 : 1975",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6623 : 2004",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2062 : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14268 : 2022",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 15833 : 2009 is the national Indian Standard specification governing stainless steel barrel-type tower bolts (sliding latches) used to secure doors, windows, and cabinets. Formulated by the Builder's Hardware Sectional Committee (CED 15), this standard mandates high-grade corrosion-resistant stainless steel compositions—such as chromium-nickel sheets (conforming to IS 6911) for the barrels and high-tensile wire rods (conforming to IS 6527) for the sliding bolts. It classifies bolts into five nominal sizes (100 to 300 mm), specifying precise sheet thicknesses, sliding clearances (bore diameter must be 0.7 to 1.5 mm larger than the bolt), and minimum screw holes to prevent loose fittings. To ensure reliability in highly humid or coastal environments, the standard enforces bright-polished finishes, a robust single-piece knob construction, and strict lot sampling scales to ensure zero structural or visual defects before supply.",
-    "citations": "[1-4]"
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary / Statutory. While traditionally voluntary, stainless steel tower bolts are routinely specified under CPWD, PWD, and National Building Code mandates for government and municipal construction, requiring conformity to IS standards. Manufacturers conforming to the specification are eligible to apply for a BIS license to carry the Standard Mark (ISI Mark). Precious metal hallmarking is completely inapplicable to industrial alloy fasteners.",
+    "requirements": [
+      "Every tower bolt conforming to this standard may carry the BIS Standard Mark (ISI Mark) under a valid licence issued by the Bureau of Indian Standards.",
+      "Stainless steel tower bolts must be manufactured in five standard nominal sizes: 100, 150, 200, 250, and 300 mm. The size of the tower bolt is designated by the length of the barrel (B).",
+      "The stainless steel sheet utilized for forming the barrel must conform to Grade X07Cr18Ni9 or Grade X10Cr17Mn6Ni4N20 of IS 6911.",
+      "The stainless steel sliding bolt itself must conform to Grade X04Cr13, Grade X12Cr13, Grade X04Cr18Ni10, or Grade X07Cr18Ni9 of IS 6527.",
+      "To prevent screw head protrusions and ensure flush installation, all tower bolts made from sheet steel thickness of 0.70 mm and above must feature countersunk screw holes suitable for countersunk head wood screws (conforming to IS 6760).",
+      "The sliding bolt must be of robust, single-piece construction with an integral knob. Alternatively, the knob may be securely fitted via a pin, or screwed and riveted to the bolt, designed with round profiles and zero sharp edges.",
+      "Dimensions must satisfy: a) Width of barrel (C) must be 33 mm (for 10.0 mm diameter bolts) or 38 mm (for 12.0 mm diameter bolts); b) Sliding bolt diameter (D) must be minimum 10.0 mm, or 12.0 mm; c) Length of the socket (E) must be minimum 25 mm.",
+      "Dimensional clearance limits mandate: a) Thickness of steel sheet for barrel (F) must be minimum 0.7 mm (for 10.0 mm bolts) or 1.0 mm (for 12.0 mm bolts); b) Bore diameter of the barrel or socket (G) must be between 0.7 to 1.5 mm larger than the actual sliding bolt diameter (D) to ensure smooth mechanical sliding action.",
+      "The minimum number of equally spaced screw holes in the barrel and sockets (for wood screw No. 6) is strictly sized: 6 holes (for size 100), 8 holes (for size 150), 10 holes (for sizes 200 and 250), and 12 holes (for size 300).",
+      "Unless otherwise specified by the purchaser, the finished tower bolts must be polished bright with a smooth, defect-free surface. If requested by the buyer, the finished hardware must undergo mutually agreed corrosion resistance testing.",
+      "Each finished tower bolt must be clearly and legibly marked with the manufacturer's name, brand/trade-mark, and the words 'Stainless Steel' imprinted onto the metal surface.",
+      "A lot comprises all identical tower bolts of the same size manufactured in a single day. Random samples must be selected and tested per Table 2: a) Up to 200 bolts (sample size 5, allowed defectives = 0); b) 201 to 300 (sample size 8, allowed defectives = 1); c) 301 to 500 (sample size 13, allowed defectives = 2); d) 501 to 800 (sample size 20, allowed defectives = 2); e) 801 and above (sample size 25, allowed defectives = 3)."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "15833.pdf",
     "document_version_edition": "First Edition, January 2009"
   }

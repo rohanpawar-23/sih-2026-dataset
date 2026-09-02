@@ -1,245 +1,163 @@
 {
-  "basic_identification": {
-    "is_number": "IS 1545 : 1994",
-    "full_title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification (Third Revision)",
-    "sector_category": "Metallurgical Engineering / Copper and Copper Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Copper and Copper Alloys Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "669.35-462-124 : 621.643.2",
+  "standard": {
+    "is_code": "IS 1545:1994",
+    "title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification (Third Revision)",
+    "sector": "Metallurgical Engineering / Copper and Copper Alloys",
+    "ics_code": [
+      "669.35-462-124 : 621.643.2"
+    ],
     "sectional_committee": {
       "name": "Copper and Copper Alloys Sectional Committee",
       "number": "MTD 08"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard covers the requirements of solid drawn (seamless) copper and copper alloy tubes of outside diameters 5 mm to 80 mm, both inclusive, for use in condensers and heat exchangers.",
+    "scope": "This standard covers the requirements of solid drawn (seamless) copper and copper alloy tubes of outside diameters 5 mm to 80 mm, both inclusive, for use in condensers and heat exchangers.",
+    "keywords": [
+      "IS 1545 : 1994",
+      "Seamless Copper Tubes",
+      "Heat Exchanger Tubes",
+      "Condenser Tubes",
+      "Admiralty Brass",
+      "Aluminium Brass",
+      "Cupronickel",
+      "Pneumatic Leakage",
+      "Vickers Hardness",
+      "Average Grain Size",
+      "Ammonia Cracking Test",
+      "Mercurous Nitrate",
+      "MTD 08",
+      "Copper QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard covers the requirements of solid drawn (seamless) copper and copper alloy tubes of outside diameters 5 mm to 80 mm, both inclusive, for use in condensers and heat exchangers.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Third Revision, December 1994 (Reaffirmed 2006, Reaffirmed 2016, Reaffirmed 2021)",
-    "year_first_published": "1962",
+  "version": {
+    "current_version": "Third Revision, December 1994 (Reaffirmed 2006, Reaffirmed 2016, Reaffirmed 2021)",
+    "first_publication_year": 1962,
+    "publication_year": 1994,
+    "revision": "Third Revision (revised to refine geometric definitions, update chemical compositions and mechanical properties, make edgewise bending optional, and include straightness tolerances)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1962"
-      },
-      {
-        "edition": "First Revision",
-        "year": "1971"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "1983"
-      },
-      {
-        "edition": "Third Revision (revised to refine geometric definitions, update chemical compositions and mechanical properties, make edgewise bending optional, and include straightness tolerances)",
-        "year": "1994"
-      }
+      "First Edition, 1962",
+      "First Revision, 1971",
+      "Second Revision, 1983",
+      "Third Revision (revised to refine geometric definitions, update chemical compositions and mechanical properties, make edgewise bending optional, and include straightness tolerances), 1994"
     ],
-    "supersedes": "IS 1545 : 1983 and IS 2371",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued since the publication of this third revision copy."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 440 : 1964",
-      "title": "Methods of chemical analysis of copper",
-      "category": "Chemical testing",
-      "location": "Clause 6 / Annex A",
-      "relevance": "Prescribes wet chemical and referee testing protocols to determine the elemental composition and purity of copper-based tubes."
-    },
-    {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Supply standard",
-      "location": "Clause 4 / Annex A",
-      "relevance": "Outlines standard administrative, manufacturing, sampling, and shipping conditions for supplied metallurgical products."
-    },
-    {
-      "is_number": "IS 1501 (Part 1) : 1984",
-      "title": "Method for Vickers hardness test for metallic materials: Part 1 HV 5 to 100 (second revision)",
-      "category": "Mechanical testing",
-      "location": "Clause 8.1 / Annex A",
-      "relevance": "Specifies Vickers hardness test parameters utilized to verify tube hardness (HV) boundaries across distinct tempers."
-    },
-    {
-      "is_number": "IS 2305 : 1988",
-      "title": "Method of mercurous nitrate test for copper and copper alloys (first revision)",
-      "category": "Stress-corrosion testing",
-      "location": "Clause 10.6.2 / Annex A",
-      "relevance": "Prescribes chemical testing methods to evaluate stress-corrosion cracking susceptibility under highly corrosive nitrate exposure."
-    },
-    {
-      "is_number": "IS 2328 : 1983",
-      "title": "Method for flattening test on metallic tubes (first revision)",
-      "category": "Mechanical testing",
-      "location": "Clause 11.3 / Annex A",
-      "relevance": "Governs flattening tests used to verify tube wall ductility and resistance to cross-sectional crushing under mechanical loads."
-    },
-    {
-      "is_number": "IS 2335 : 1985",
-      "title": "Method for drift expanding test for metallic tubes (first revision)",
-      "category": "Mechanical testing",
-      "location": "Clause 11.3 / Annex A",
-      "relevance": "Specifies drift expansion test setups to verify that tube ends can be flared or expanded without splitting or tearing."
-    },
-    {
-      "is_number": "IS 2655 : 1988",
-      "title": "Method for tensile testing of copper and copper alloy tubes",
-      "category": "Mechanical testing",
-      "location": "Annex A",
-      "relevance": "Enforces standard tensile testing configurations to measure ultimate tensile strength (MPa) and elongation percentages."
-    },
-    {
-      "is_number": "IS 3288 (Part 3) : 1986",
-      "title": "Glossary of terms relating to copper and copper alloys : Part 3 Wrought forms",
-      "category": "Terminology standard",
-      "location": "Clause 3.1 / Annex A",
-      "relevance": "Establishes definitions of wrought metallurgical product forms, distinguishing seamless drawn tubes from other variants."
-    },
-    {
-      "is_number": "IS 3685 : 1966",
-      "title": "Methods of chemical analysis of brasses",
-      "category": "Chemical testing",
-      "location": "Annex A",
-      "relevance": "Prescribes standard chemical analysis methods to determine alloy proportions in brass families."
-    },
-    {
-      "is_number": "IS 4748 : 1988",
-      "title": "Method for estimating average grain size of metals (first revision)",
-      "category": "Microscopic examination",
-      "location": "Clause 10.5 / Annex A",
-      "relevance": "Specifies metallurgical microscopic and magnification techniques to measure average grain size in annealed or tempered tubes."
-    },
-    {
-      "is_number": "IS 5493 : 1981",
-      "title": "Dimensions of wrought copper and copper alloy tubes (first revision)",
-      "category": "Dimensional standard",
-      "location": "Clause 11.1 / Annex A",
-      "relevance": "Governs standard physical dimensions, outside diameters, wall thicknesses, and tolerances for wrought tubes."
-    },
-    {
-      "is_number": "IS 11612 : 1984",
-      "title": "Code of practice for eddy-current testing of non-ferrous seamless pipes and tubes",
-      "category": "Non-destructive testing",
-      "location": "Clause 11.4 / Annex A",
-      "relevance": "Enforces non-destructive eddy-current electromagnetic scans on every tube to detect subsurface voids, splits, or metallurgical anomalies."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 12444 : 2020",
-      "title": "Copper Wire Rods for Electrical Applications — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical standard",
-      "relevance": "The fellow national standard regulating continuous cast copper feedstocks, present in the notebook."
-    },
-    {
-      "is_number": "IS 1897 : 2008",
-      "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical standard",
-      "relevance": "The fellow national standard regulating flat wrought copper strip conductors, present in the notebook."
-    },
-    {
-      "is_number": "IS 613 : 2000",
-      "title": "Copper Rods and Bars for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical standard",
-      "relevance": "Related conductive copper specification co-regulated under the same QCO framework."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Engineering / Industrial Heat Transfer)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all solid drawn copper and copper alloy tubes used in condensers and heat exchangers must conform to IS 1545:1994 and carry the mandatory BIS Standard Mark (ISI Mark). Large-scale enterprises had to comply by October 19, 2024, small enterprises by January 19, 2025, and micro enterprises by April 19, 2025. Manufacturing, importing, distributing, or stocking non-certified tubes is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper alloy tubes.",
-    "requirements": [
+    "supersedes": [
+      "IS 1545 : 1983 and IS 2371"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every packaging box containing tubes must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
-        "clause_reference": "Clause 13.2"
-      },
-      {
-        "requirement_type": "Seven Standard Alloy Grades",
-        "detail": "Tubes must be manufactured from one of seven specified grades of copper or copper alloy designed for particular thermal, mechanical, and corrosion-resistance conditions:\na) Cu-DLP: Phosphorized Low Residual Phosphorus Copper (Purity: >=99.90% min copper, P: 0.004-0.012%);\nb) Cu-DHP: Phosphorized High Residual Phosphorus Copper (Purity: >=99.90% min copper, P: 0.015-0.040%);\nb) CuZn30As: 70/30 Brass (Arsenical, for bio-fouling and dezincification resistance);\nd) CuZn29Sn1As: Admiralty Brass (Arsenical, typical for freshwater/saline condensers);\ne) CuZn21Al2As: Aluminium Brass (Arsenical, typical for high-velocity cooling water);\nf) CuNi10Fe1: Cupronickel 90/10 (corrosion and erosion resistant);\ng) CuNi30Mn1Fe: Cupronickel 70/30 (highly resistant to seawater and high-temperature steam).",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Five Supply Conditions (Tempers)",
-        "detail": "Tubes must be supplied in one of five distinct physical conditions as specified by the purchaser:\na) As Drawn (HD): Full hard condition produced by cold drawing, which can be stress-relieved;\nb) As Drawn and End Annealed: Full hard condition but with tube ends fully annealed to prevent cracking during expansion into tube-sheets;\nc) Half Hard (HB): Produced by cold drawing to an intermediate hardness;\nd) Temper Annealed (TA): Heat-treated over their whole length to an intermediate condition;\ne) Annealed (O): Fully annealed for maximum ductility and malleability.",
-        "clause_reference": "Clause 6.1"
-      },
-      {
-        "requirement_type": "Tube Dimensional Limits",
-        "detail": "Applies to solid drawn (seamless) tubes with nominal outside diameters ranging from 5 mm to 80 mm (inclusive). Wall thickness and outside diameter dimensions and tolerances must conform to IS 5493.",
-        "clause_reference": "Clauses 1 & 11.1"
-      },
-      {
-        "requirement_type": "Dimensional Integrity Definitions",
-        "detail": "Strict geometric definitions are established to ensure leak-tight fittings and uniform flow:\na) Eccentricity: calculated as (t_max - t_min) / t_avg where t is the wall thickness;\nb) Ovality: calculated as (OD_max - OD_min) / OD_avg where OD is the outside diameter;\nc) Out of Roundness: defined as the absolute difference (OD_max - OD_min).",
-        "clause_reference": "Clauses 3.2.1, 3.2.4 & 3.2.5"
-      },
-      {
-        "requirement_type": "Pneumatic Air Leakage Test",
-        "detail": "As an alternative to the standard hydrostatic pressure test, each tube must be tested to a minimum internal air pressure of 35 N/cm² (approximately 3.5 bar) for a minimum period of 5 seconds. The entire length of the tube must be immersed in water during testing, showing zero bubbles or signs of leakage.",
-        "clause_reference": "Clause 10.4.3"
-      },
-      {
-        "requirement_type": "Microscopic Grain Size Examination",
-        "detail": "For tubes supplied in Temper Annealed (TA) and Annealed (O) conditions only, longitudinal samples must show uniform and complete recrystallization when examined under a magnification of 75x per IS 4748. The average grain size must lie strictly between 0.010 mm and 0.050 mm, with the maximum grain size not exceeding 0.050 mm.",
-        "clause_reference": "Clause 10.5"
-      },
-      {
-        "requirement_type": "Ammonia Vapour Cracking Test",
-        "detail": "For TA and O condition tubes, by mutual agreement, a stress-corrosion test is conducted using ammonia vapor. A 150 mm length tube specimen is degreased, pickled in a 10% sulphuric acid solution, washed, and dried. It is suspended in a closed desiccator above an ammonium chloride solution adjusted to pH 10 using sodium hydroxide flakes. After 24 hours of exposure, it is pickled lightly and examined for any signs of cracking. Cracking at sawn ends is ignored.",
-        "clause_reference": "Clause 10.6.1"
-      },
-      {
-        "requirement_type": "Alternative Mercurous Nitrate Test",
-        "detail": "Alternatively, a stress-corrosion test can be conducted in accordance with IS 2305 : 1988 using a mercurous nitrate solution. The specimen must show zero signs of chemical cracking.",
-        "clause_reference": "Clause 10.6.2"
-      },
-      {
-        "requirement_type": "Mechanical Performance Verification",
-        "detail": "One test must be conducted from each lot for: a) Tensile properties (tested per IS 2655); b) Hardness properties (Vickers tested per IS 1501); c) Flattening properties (tested per IS 2328); d) Drift expanding properties (tested per IS 2335) to verify wall ductility and flare capability without splitting.",
-        "clause_reference": "Clause 11.3"
-      },
-      {
-        "requirement_type": "Defect-Free Surface",
-        "detail": "The inner and outer surfaces of the tubes must be clean, bright, smooth, and completely free from harmful defects such as severe scratches, cracks, inclusions, pitting, or oxidation scale.",
-        "clause_reference": "Clause 7"
-      },
-      {
-        "requirement_type": "Strict Packing and Straightness Protection",
-        "detail": "To prevent physical bending, rubbing, and surface damage during transport, the tubes must be suitably covered with polyethylene sheets and packed with proper plastic inserts at the ends. The gross weight of each packaging box must not exceed 1,000 kg, and the bottom of the packing cases must be completely rigid to maintain perfect straightness.",
-        "clause_reference": "Clause 12"
-      },
-      {
-        "requirement_type": "Scale of Sampling and Lot Definition",
-        "detail": "A lot comprises up to 300 tubes or 1,000 kg (whichever is higher) of the same grade, size, thickness, and condition. Ten tubes are drawn at random for visual/dimensional checks (zero defectives allowed). If the lot passes dimensions, one sample is tested for chemical, mechanical, flattening, and drift expanding tests, and one sample for microscopic examination.",
-        "clause_reference": "Clauses 11.1, 11.2, 11.3 & 11.5"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued since the publication of this third revision copy."
       }
     ]
   },
-  "keywords": [
-    "IS 1545 : 1994",
-    "Seamless Copper Tubes",
-    "Heat Exchanger Tubes",
-    "Condenser Tubes",
-    "Admiralty Brass",
-    "Aluminium Brass",
-    "Cupronickel",
-    "Pneumatic Leakage",
-    "Vickers Hardness",
-    "Average Grain Size",
-    "Ammonia Cracking Test",
-    "Mercurous Nitrate",
-    "MTD 08",
-    "Copper QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 440 : 1964",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1501 (Part 1) : 1984",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2305 : 1988",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2328 : 1983",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2335 : 1985",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2655 : 1988",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3288 (Part 3) : 1986",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3685 : 1966",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4748 : 1988",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5493 : 1981",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11612 : 1984",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12444 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1897 : 2008",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 613 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 1545 : 1994 is the mandatory national Indian Standard specification governing solid drawn (seamless) copper and copper alloy tubes (from 5 mm to 80 mm outside diameter) designed for industrial condensers, coolers, and heat exchangers. Formulated under India's statutory Copper Products Quality Control Order (QCO), all such condenser-duty tubes supplied to the Indian market must bear the BIS Standard Mark (ISI Mark) to ensure maximum thermal conductivity, pressure integrity, and corrosion resistance. It specifies seven standard alloy grades—including pure deoxidized copper, arsenical brasses (Admiralty and Aluminium brass), and high-durability cupronickels—supplied in five physical tempers. The standard enforces detailed quality testing, including 100% non-destructive eddy-current scans, standard hydrostatic/pneumatic leak tests at 3.5 bar, tight microstructural grain boundaries (0.010 to 0.050 mm) for annealed tempers, mechanical deformation audits (flattening and drift expansion), and stress-corrosion cracking tests to prevent sudden tube failure under harsh operating fluids."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Copper Products (Quality Control) Order",
+      "year": 1994
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all solid drawn copper and copper alloy tubes used in condensers and heat exchangers must conform to IS 1545:1994 and carry the mandatory BIS Standard Mark (ISI Mark). Large-scale enterprises had to comply by October 19, 2024, small enterprises by January 19, 2025, and micro enterprises by April 19, 2025. Manufacturing, importing, distributing, or stocking non-certified tubes is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper alloy tubes.",
+    "requirements": [
+      "Every packaging box containing tubes must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
+      "Tubes must be manufactured from one of seven specified grades of copper or copper alloy designed for particular thermal, mechanical, and corrosion-resistance conditions:\na) Cu-DLP: Phosphorized Low Residual Phosphorus Copper (Purity: >=99.90% min copper, P: 0.004-0.012%);\nb) Cu-DHP: Phosphorized High Residual Phosphorus Copper (Purity: >=99.90% min copper, P: 0.015-0.040%);\nb) CuZn30As: 70/30 Brass (Arsenical, for bio-fouling and dezincification resistance);\nd) CuZn29Sn1As: Admiralty Brass (Arsenical, typical for freshwater/saline condensers);\ne) CuZn21Al2As: Aluminium Brass (Arsenical, typical for high-velocity cooling water);\nf) CuNi10Fe1: Cupronickel 90/10 (corrosion and erosion resistant);\ng) CuNi30Mn1Fe: Cupronickel 70/30 (highly resistant to seawater and high-temperature steam).",
+      "Tubes must be supplied in one of five distinct physical conditions as specified by the purchaser:\na) As Drawn (HD): Full hard condition produced by cold drawing, which can be stress-relieved;\nb) As Drawn and End Annealed: Full hard condition but with tube ends fully annealed to prevent cracking during expansion into tube-sheets;\nc) Half Hard (HB): Produced by cold drawing to an intermediate hardness;\nd) Temper Annealed (TA): Heat-treated over their whole length to an intermediate condition;\ne) Annealed (O): Fully annealed for maximum ductility and malleability.",
+      "Applies to solid drawn (seamless) tubes with nominal outside diameters ranging from 5 mm to 80 mm (inclusive). Wall thickness and outside diameter dimensions and tolerances must conform to IS 5493.",
+      "Strict geometric definitions are established to ensure leak-tight fittings and uniform flow:\na) Eccentricity: calculated as (t_max - t_min) / t_avg where t is the wall thickness;\nb) Ovality: calculated as (OD_max - OD_min) / OD_avg where OD is the outside diameter;\nc) Out of Roundness: defined as the absolute difference (OD_max - OD_min).",
+      "As an alternative to the standard hydrostatic pressure test, each tube must be tested to a minimum internal air pressure of 35 N/cm² (approximately 3.5 bar) for a minimum period of 5 seconds. The entire length of the tube must be immersed in water during testing, showing zero bubbles or signs of leakage.",
+      "For tubes supplied in Temper Annealed (TA) and Annealed (O) conditions only, longitudinal samples must show uniform and complete recrystallization when examined under a magnification of 75x per IS 4748. The average grain size must lie strictly between 0.010 mm and 0.050 mm, with the maximum grain size not exceeding 0.050 mm.",
+      "For TA and O condition tubes, by mutual agreement, a stress-corrosion test is conducted using ammonia vapor. A 150 mm length tube specimen is degreased, pickled in a 10% sulphuric acid solution, washed, and dried. It is suspended in a closed desiccator above an ammonium chloride solution adjusted to pH 10 using sodium hydroxide flakes. After 24 hours of exposure, it is pickled lightly and examined for any signs of cracking. Cracking at sawn ends is ignored.",
+      "Alternatively, a stress-corrosion test can be conducted in accordance with IS 2305 : 1988 using a mercurous nitrate solution. The specimen must show zero signs of chemical cracking.",
+      "One test must be conducted from each lot for: a) Tensile properties (tested per IS 2655); b) Hardness properties (Vickers tested per IS 1501); c) Flattening properties (tested per IS 2328); d) Drift expanding properties (tested per IS 2335) to verify wall ductility and flare capability without splitting.",
+      "The inner and outer surfaces of the tubes must be clean, bright, smooth, and completely free from harmful defects such as severe scratches, cracks, inclusions, pitting, or oxidation scale.",
+      "To prevent physical bending, rubbing, and surface damage during transport, the tubes must be suitably covered with polyethylene sheets and packed with proper plastic inserts at the ends. The gross weight of each packaging box must not exceed 1,000 kg, and the bottom of the packing cases must be completely rigid to maintain perfect straightness.",
+      "A lot comprises up to 300 tubes or 1,000 kg (whichever is higher) of the same grade, size, thickness, and condition. Ten tubes are drawn at random for visual/dimensional checks (zero defectives allowed). If the lot passes dimensions, one sample is tested for chemical, mechanical, flattening, and drift expanding tests, and one sample for microscopic examination."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "1545_1994_reff2021.pdf",
     "document_version_edition": "Third Revision, December 1994"
   }

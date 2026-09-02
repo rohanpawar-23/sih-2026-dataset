@@ -1,182 +1,122 @@
 {
-  "basic_identification": {
-    "is_number": "IS 12766 : 2023",
-    "full_title": "Computer Paper — Specification (Second Revision) (कंप्यूटर पेपर — विशिष्टि (दूसरा पुनरीक्षण))",
-    "sector_category": "Chemical Department / Paper and Its Products (approved by the Chemical Division Council and finalized by the Paper and Its Products Sectional Committee, CHD 15, of the Bureau of Indian Standards)",
-    "ics_code": "55.160; 85.060",
+  "standard": {
+    "is_code": "IS 12766:2023",
+    "title": "Computer Paper — Specification (Second Revision) (कंप्यूटर पेपर — विशिष्टि (दूसरा पुनरीक्षण))",
+    "sector": "Chemical Department / Paper and Its Products",
+    "ics_code": [
+      "55.160",
+      "85.060"
+    ],
     "sectional_committee": {
       "name": "Paper and Its Products Sectional Committee",
       "number": "CHD 15"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the manufacturing requirements, dimensional tolerances, physical and optical properties, and sampling and test methods for computer papers (continuous Z-fold forms) used in high-speed impact and non-impact computer printers or similar machines for recording, transmitting, reproducing, and storage of data.",
+    "scope": "This Indian Standard prescribes the manufacturing requirements, dimensional tolerances, physical and optical properties, and sampling and test methods for computer papers (continuous Z-fold forms) used in high-speed impact and non-impact computer printers or similar machines for recording, transmitting, reproducing, and storage of data.",
+    "keywords": [
+      "IS 12766 : 2023",
+      "Computer Paper",
+      "Z-fold Stationery",
+      "Sprocket Feed Holes",
+      "Tensile Index Amendment",
+      "Tear Index MD CD",
+      "One Minute Cobb Test",
+      "Moisture Content",
+      "Paper and Its Products",
+      "CHD 15",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the manufacturing requirements, dimensional tolerances, physical and optical properties, and sampling and test methods for computer papers (continuous Z-fold forms) used in high-speed impact and non-impact computer printers or similar machines for recording, transmitting, reproducing, and storage of data.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, April 2023 (Reaffirmed 2024) incorporating active Amendment No. 1 (July 2025)",
-    "year_first_published": "1989 (adopted by the Indian Standards Institution in 1989 as IS 12766 : 1989)",
+  "version": {
+    "current_version": "Second Revision, April 2023 (Reaffirmed 2024) incorporating active Amendment No. 1 (July 2025)",
+    "first_publication_year": 1989,
+    "publication_year": 2023,
+    "revision": "Second Revision (IS 12766 : 2023)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 12766 : 1989)",
-        "year": "1989"
-      },
-      {
-        "edition": "First Revision (IS 12766 : 1997)",
-        "year": "1997"
-      },
-      {
-        "edition": "Second Revision (IS 12766 : 2023)",
-        "year": "2023"
-      }
+      "First Edition (IS 12766 : 1989), 1989",
+      "First Revision (IS 12766 : 1997), 1997",
+      "Second Revision (IS 12766 : 2023), 2023"
     ],
-    "supersedes": "IS 12766 : 1997",
-    "superseded_by": "N/A",
-    "amendment_slips": "Amendment No. 1 (July 2025)"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1060 (Part 1)",
-      "title": "Methods of sampling and test for paper and allied products: Part 1 Test methods for general purpose",
-      "category": "Testing standard",
-      "relevance": "Provides protocols for general physical property testing, sheet size determination, and sampling plans."
-    },
-    {
-      "is_number": "IS 1060 (Part 5/Sec 3)",
-      "title": "Methods of test for paper and allied products: Part 5 Determination of physical properties, Section 3 Tensile strength and elongation",
-      "category": "Testing standard",
-      "relevance": "Provides test apparatus parameters, sample dimensions, and loading speeds to measure tensile strength and breaking length."
-    },
-    {
-      "is_number": "IS 1060 (Part 5/Sec 4)",
-      "title": "Methods of test for paper and allied products: Part 5 Determination of physical properties, Section 4 One-minute Cobb test",
-      "category": "Testing standard",
-      "relevance": "Regulates water absorbency measurements of paper surfaces, determining resistance to fluid inks."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters, clearances, and test readings."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 13228 : 2006",
-      "title": "Corrugated Fibreboard Boxes for Packing and Transportation — Specification",
-      "category": "Packaging standard",
-      "location": "Same Sectional Committee (CHD 15)",
-      "relevance": "Prescribes packing, strapping, and drop-strength criteria for outer cardboard shipping boxes used to transport bulk reams of computer papers safely [1]."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits in high-speed paper mills and slitting facilities where chemical pulping, heavy rolling machinery, and high-frequency cutting shears present hazards [2]."
-    },
-    {
-      "is_number": "IS 18001 : 2007",
-      "title": "Occupational Health and Safety Management System",
-      "category": "Management standard",
-      "relevance": "Unifies operational risk mitigation, requiring routine safety logs, chemical detector checks, and machinery guard validation [3]."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork, structural columns, and anchoring posts for heavy industrial machinery [4]."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Chemical Department / Paper and Its Products)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the physical ISI 'Standard Mark' directly on the outer carton or label of computer paper packets to certify quality, grammage, and tear resistance in the market.",
-    "requirements": [
+    "supersedes": [
+      "IS 12766 : 1997"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard [3, 5, 6].",
-        "clause_reference": "Foreword / Clause 0.5 [3, 5, 6]"
-      },
-      {
-        "requirement_type": "Continuous Z-Fold Length",
-        "detail": "The paper must be manufactured as a continuous web, Z-folded at regular intervals to form a flat pack, permitting compact shelf storage and smooth vertical feed.",
-        "clause_reference": "Clauses 3.1.1 & 4.2"
-      },
-      {
-        "requirement_type": "Die-Cut Perforation",
-        "detail": "Standard Z-fold horizontal cross-perforations must be cleanly die-cut to facilitate easy and clean tearing without ripping. Marginal vertical perforations can also be provided for removing sprocket feed margins.",
-        "clause_reference": "Clause 4.3"
-      },
-      {
-        "requirement_type": "Sprocket Feed Hole Diameter",
-        "detail": "Feed holes along both margins must be cleanly punched to a standard diameter of 4.0 mm with a tight tolerance of ±0.1 mm.",
-        "clause_reference": "Clause 4.4 & Annex A"
-      },
-      {
-        "requirement_type": "Sprocket Feed Hole Pitch",
-        "detail": "The center-to-center feed hole distance (pitch) must be perfectly uniform (nominally 12.7 mm) to prevent feeding jams on tractor pins.",
-        "clause_reference": "Clause 4.4"
-      },
-      {
-        "requirement_type": "Sized Width and Length",
-        "detail": "Dimensions must match standard commercial sizes (e.g., 9\" x 12\" or 15\" x 12\" sheets) under a tight tolerance of ±1.5 mm.",
-        "clause_reference": "Clause 4.5"
-      },
-      {
-        "requirement_type": "Grammage (Substance) Classes",
-        "detail": "The nominal substance of the paper must match specified order classes: typically 60 GSM, 75 GSM, 80 GSM, or 90 GSM. The actual grammage must not deviate from the nominal value by more than ±5%.",
-        "clause_reference": "Clause 4.1.1"
-      },
-      {
-        "requirement_type": "Active Mechanical Tensile Index",
-        "detail": "Under Amendment No. 1 (July 2025), the tensile index in MD and CD must be calculated using the formula: Tensile index = Breaking length * 0.009 8 [7].",
-        "clause_reference": "Table 1, Note 1 [7]"
-      },
-      {
-        "requirement_type": "Tear Index limits",
-        "detail": "Requires minimum tear index values in both MD and CD to ensure perforations do not tear prematurely during high-speed printing.",
-        "clause_reference": "Table 1, Sl No. iii"
-      },
-      {
-        "requirement_type": "Cobb Water Absorption Sizing",
-        "detail": "The one-minute water absorption value (Cobb value) must conform to specified limits (typically <= 25 g/m²) to prevent liquid ink bleeding or feathering.",
-        "clause_reference": "Table 1 / Cobb Test"
-      },
-      {
-        "requirement_type": "Moisture Content boundaries",
-        "detail": "Moisture content must be maintained strictly between 4.5% and 7.0% to prevent static charge build-up, sheet curling, and paper jams in printer feeders.",
-        "clause_reference": "Table 1, Sl No. viii"
-      },
-      {
-        "requirement_type": "Ash Content limit",
-        "detail": "Regulates maximum ash content (mineral fillers) to prevent excessive paper dusting, which blocks printer optical sensors.",
-        "clause_reference": "Table 1, Sl No. ix"
-      },
-      {
-        "requirement_type": "Smoothness (Bendtsen) rating",
-        "detail": "Surface roughness on both sides (Bendtsen smoothness) must be regulated to ensure uniform ink transfer and legibility.",
-        "clause_reference": "Table 1, Sl No. x"
+        "amendment_number": "Amendment 1",
+        "date": "2025-07",
+        "summary": "Amendment No. 1 (July 2025)"
       }
     ]
   },
-  "keywords": [
-    "IS 12766 : 2023",
-    "Computer Paper",
-    "Z-fold Stationery",
-    "Sprocket Feed Holes",
-    "Tensile Index Amendment",
-    "Tear Index MD CD",
-    "One Minute Cobb Test",
-    "Moisture Content",
-    "Paper and Its Products",
-    "CHD 15",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 1060 (Part 1)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1060 (Part 5/Sec 3)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1060 (Part 5/Sec 4)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13228 : 2006",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 18001 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 12766 : 2023 (Second Revision) is the primary national Indian Standard specification establishing technical, material, dimensional, and mechanical strength requirements for continuous computer paper used in high-speed printers. Developed under the Paper and Its Products Sectional Committee (CHD 15) and reaffirmed in 2024, the standard unifies computer paper manufacturing. It regulates paper Z-folds, cross-perforations, and sprocket feed holes (mandating a clean 4.0 mm diameter with a tight ±0.1 mm tolerance and 12.7 mm pitch), enforces standardized weight classes (from 60 to 90 GSM), and defines critical mechanical safety thresholds—including tear strength, burst index, water absorption (Cobb test), and moisture content. Incorporating the active Amendment No. 1 (July 2025), the standard prescribes a precise mathematical formula to calculate the tensile index of the paper based on its breaking length."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the physical ISI 'Standard Mark' directly on the outer carton or label of computer paper packets to certify quality, grammage, and tear resistance in the market.",
+    "requirements": [
+      "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard [3, 5, 6].",
+      "The paper must be manufactured as a continuous web, Z-folded at regular intervals to form a flat pack, permitting compact shelf storage and smooth vertical feed.",
+      "Standard Z-fold horizontal cross-perforations must be cleanly die-cut to facilitate easy and clean tearing without ripping. Marginal vertical perforations can also be provided for removing sprocket feed margins.",
+      "Feed holes along both margins must be cleanly punched to a standard diameter of 4.0 mm with a tight tolerance of ±0.1 mm.",
+      "The center-to-center feed hole distance (pitch) must be perfectly uniform (nominally 12.7 mm) to prevent feeding jams on tractor pins.",
+      "Dimensions must match standard commercial sizes (e.g., 9\" x 12\" or 15\" x 12\" sheets) under a tight tolerance of ±1.5 mm.",
+      "The nominal substance of the paper must match specified order classes: typically 60 GSM, 75 GSM, 80 GSM, or 90 GSM. The actual grammage must not deviate from the nominal value by more than ±5%.",
+      "Under Amendment No. 1 (July 2025), the tensile index in MD and CD must be calculated using the formula: Tensile index = Breaking length * 0.009 8 [7].",
+      "Requires minimum tear index values in both MD and CD to ensure perforations do not tear prematurely during high-speed printing.",
+      "The one-minute water absorption value (Cobb value) must conform to specified limits (typically <= 25 g/m²) to prevent liquid ink bleeding or feathering.",
+      "Moisture content must be maintained strictly between 4.5% and 7.0% to prevent static charge build-up, sheet curling, and paper jams in printer feeders.",
+      "Regulates maximum ash content (mineral fillers) to prevent excessive paper dusting, which blocks printer optical sensors.",
+      "Surface roughness on both sides (Bendtsen smoothness) must be regulated to ensure uniform ink transfer and legibility."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "12766_amd1.pdf",
     "document_version_edition": "Second Revision, 2023 (incorporating Amendment No. 1, July 2025)"
   }

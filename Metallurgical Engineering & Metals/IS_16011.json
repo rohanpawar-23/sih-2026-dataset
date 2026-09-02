@@ -1,149 +1,100 @@
 {
-  "basic_identification": {
-    "is_number": "IS 16011 : 2012",
-    "full_title": "Aluminium and Aluminium Alloy Foil for Pharmaceutical Packaging — Specification",
-    "sector_category": "Metallurgical Engineering / Light Metals and their Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Light Metals and Their Alloys Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "11.120.01; 55.040; 77.150.10",
+  "standard": {
+    "is_code": "IS 16011:2012",
+    "title": "Aluminium and Aluminium Alloy Foil for Pharmaceutical Packaging — Specification",
+    "sector": "Metallurgical Engineering / Light Metals and their Alloys",
+    "ics_code": [
+      "11.120.01",
+      "55.040",
+      "77.150.10"
+    ],
     "sectional_committee": {
       "name": "Light Metals and Their Alloys Sectional Committee",
       "number": "MTD 7"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements for bare, coated, or laminated aluminium and aluminium alloy foils utilized in pharmaceutical packaging applications. It is strictly applicable to nominal foil thicknesses ranging from 0.020 mm (20 µm) to 0.040 mm (40 µm).",
+    "scope": "This standard specifies the requirements for bare, coated, or laminated aluminium and aluminium alloy foils utilized in pharmaceutical packaging applications. It is strictly applicable to nominal foil thicknesses ranging from 0.020 mm (20 µm) to 0.040 mm (40 µm).",
+    "keywords": [
+      "IS 16011 : 2012",
+      "Aluminium Foil",
+      "Pharmaceutical Packaging",
+      "Blister Pack Foil",
+      "Strip Pack Foil",
+      "Bare Foil",
+      "Pharma Laminate",
+      "Fully Annealed",
+      "As-Rolled",
+      "Peel Strength",
+      "Sealing Strength",
+      "MTD 7",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements for bare, coated, or laminated aluminium and aluminium alloy foils utilized in pharmaceutical packaging applications. It is strictly applicable to nominal foil thicknesses ranging from 0.020 mm (20 µm) to 0.040 mm (40 µm).",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, November 2012 (Reviewed and Reaffirmed in 2022)",
-    "year_first_published": "2012",
+  "version": {
+    "current_version": "First Edition, November 2012 (Reviewed and Reaffirmed in 2022)",
+    "first_publication_year": 2012,
+    "publication_year": 2012,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2012"
-      }
+      "First Edition, 2012"
     ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword (implied)",
-      "relevance": "Standardises the mathematical rounding of calculated or observed physical or chemical testing values."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 7092 (Part 2) : 1987",
-      "title": "Specification for aluminium alloy tube for irrigation purposes: Part 2 extruded tube",
-      "category": "Product specification",
-      "location": "Parallel MTD 7 standard",
-      "relevance": "A sister standard developed by the same Light Metals and Their Alloys Sectional Committee (MTD 7) regulating agricultural aluminium tubes."
-    },
-    {
-      "is_number": "IS 1285 : 2002",
-      "title": "Wrought aluminium and aluminium alloy extruded round tubes and hollow sections — Specification",
-      "category": "Product specification",
-      "location": "Parallel MTD 7 standard",
-      "relevance": "The master national specification for extruded aluminium round tubes and general hollow sections."
-    },
-    {
-      "is_number": "IS 733 : 1983",
-      "title": "Wrought aluminium and aluminium alloy bars, rods and sections — Specification",
-      "category": "Product specification",
-      "location": "Parallel MTD 7 standard",
-      "relevance": "Parallel standard specifying engineering and structural sections manufactured from wrought aluminium."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Products / Pharmaceutical Packaging)",
-    "certification_status": "Voluntary / Statutory. While individual pharmaceutical buyers and manufacturing tenders mandate strict conformity to IS 16011 to pass drug-regulatory GMP audits, manufacturers conforming to this standard are authorized to apply to the Bureau of Indian Standards for a certification licence to carry the Standard Mark (ISI Mark) on foil packaging. Precious metal hallmarking is completely inapplicable to alloy packaging foils.",
-    "requirements": [
+    "supersedes": [],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Each package of bare or converted aluminium foil may be marked with the BIS Standard Mark (ISI Mark) for certification and identity.",
-        "clause_reference": "Clause 18.1.1"
-      },
-      {
-        "requirement_type": "Foil Thickness Limits",
-        "detail": "The specification strictly covers three nominal dimensions: 0.020 mm (20 µm), 0.025 mm (25 µm), 0.030 mm (30 µm), and 0.040 mm (40 µm).",
-        "clause_reference": "Clause 1 & Table 6"
-      },
-      {
-        "requirement_type": "Bare Foil Supply Condition",
-        "detail": "Unless otherwise agreed upon between the manufacturer and the purchaser, bare pharmaceutical strip pack foil must be supplied in a fully annealed condition.",
-        "clause_reference": "Clause 7.3"
-      },
-      {
-        "requirement_type": "Coated Blister Foil Supply Condition",
-        "detail": "Unless otherwise specified, coated blister pack foil must be supplied as as-rolled foil (without receiving a final anneal). It must be coated on one side with heat-seal lacquer, while the other side is coated with shellac or printed.",
-        "clause_reference": "Clause 7.4"
-      },
-      {
-        "requirement_type": "Pharma Laminate Supply Condition",
-        "detail": "Unless otherwise specified, pharmaceutical laminates must be supplied with one side of fully annealed foil laminated with 35 gsm LDPE, and the opposite side coated with protective shellac or printed.",
-        "clause_reference": "Clause 7.5"
-      },
-      {
-        "requirement_type": "Surface Brightness Finishes",
-        "detail": "a) Coated blister pack foil must have one bright surface and one matte surface; b) Pharmaceutical laminates may have one bright and one matte surface, or both surfaces bright, as specified by the purchaser.",
-        "clause_reference": "Clauses 15.1 & 15.2"
-      },
-      {
-        "requirement_type": "Mandatory Sealing Strength",
-        "detail": "This test is applicable to coated blister pack foils and pharmaceutical laminates. The sealing strength must comply with the minimum limits of Table 6 (minimum 500 g/25 mm across all nominal thicknesses from 20 to 40 µm).",
-        "clause_reference": "Clause 14.3 & Table 6"
-      },
-      {
-        "requirement_type": "Mandatory Peel Strength",
-        "detail": "Peel strength testing is strictly applicable to pharmaceutical laminates. It must satisfy the minimum limits of Table 5 (minimum 250 g/25 mm for nominal thicknesses of 30 µm and 40 µm bare foil).",
-        "clause_reference": "Clause 14.2 & Table 5"
-      },
-      {
-        "requirement_type": "Consignment Lot Definition",
-        "detail": "A lot is defined as all foils in a single consignment of the identical width, thickness, and surface finish, manufactured by a single firm under essentially identical production conditions.",
-        "clause_reference": "Clause 16.2"
-      },
-      {
-        "requirement_type": "Scale of Sampling and Auditing (Table 7)",
-        "detail": "Random samples must be drawn separately from each lot for testing: a) Up to 15 rolls: 5 rolls selected (permissible defectives = 0); b) 16 to 25 rolls: 8 selected (permissible defectives = 1); c) 26 to 50 rolls: 13 selected (permissible defectives = 1); d) 51 to 100 rolls: 20 selected (permissible defectives = 2); e) 101 to 300 rolls: 32 selected (permissible defectives = 3); f) More than 300 rolls: 50 selected (permissible defectives = 3).",
-        "clause_reference": "Clause 16.2.1 & Table 7"
-      },
-      {
-        "requirement_type": "Visual and Dimensional Defective Action",
-        "detail": "All sample rolls must be individually evaluated for manufacturing defects, surface defects, and dimensional tolerances. If the cumulative number of defectives is less than or equal to the permissible limit in Table 7, the lot is accepted.",
-        "clause_reference": "Clause 16.2.2"
-      },
-      {
-        "requirement_type": "Package Identification Marking",
-        "detail": "Each finished foil package must be marked with the manufacturer's name, material grade, metallurgical condition (fully annealed or as-rolled), batch number, and date of manufacture.",
-        "clause_reference": "Clause 18.1"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 16011 : 2012",
-    "Aluminium Foil",
-    "Pharmaceutical Packaging",
-    "Blister Pack Foil",
-    "Strip Pack Foil",
-    "Bare Foil",
-    "Pharma Laminate",
-    "Fully Annealed",
-    "As-Rolled",
-    "Peel Strength",
-    "Sealing Strength",
-    "MTD 7",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7092 (Part 2) : 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1285 : 2002",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 733 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 16011 : 2012 is the national Indian Standard specification establishing physical, dimensional, and mechanical quality requirements for aluminium and aluminium alloy foils (including bare, coated, or laminated variants) used to manufacture pharmaceutical strip packs, blister packs, and multi-layer laminates. It covers nominal foil thicknesses from 20 µm to 40 µm. To protect sensitive medicines from moisture and contamination, the standard specifies precise supply conditions (fully annealed for bare foils, as-rolled with heat-seal lacquer for blister packs, and laminated with 35 gsm LDPE for laminates). It enforces strict mechanical testing protocols—requiring a minimum peel strength of 250 g/25 mm and a minimum sealing strength of 500 g/25 mm—and mandates a rigorous statistical sampling plan to ensure that every batch delivered to pharmaceutical plants is free from manufacturing pinholes or mechanical defects."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary / Statutory. While individual pharmaceutical buyers and manufacturing tenders mandate strict conformity to IS 16011 to pass drug-regulatory GMP audits, manufacturers conforming to this standard are authorized to apply to the Bureau of Indian Standards for a certification licence to carry the Standard Mark (ISI Mark) on foil packaging. Precious metal hallmarking is completely inapplicable to alloy packaging foils.",
+    "requirements": [
+      "Each package of bare or converted aluminium foil may be marked with the BIS Standard Mark (ISI Mark) for certification and identity.",
+      "The specification strictly covers three nominal dimensions: 0.020 mm (20 µm), 0.025 mm (25 µm), 0.030 mm (30 µm), and 0.040 mm (40 µm).",
+      "Unless otherwise agreed upon between the manufacturer and the purchaser, bare pharmaceutical strip pack foil must be supplied in a fully annealed condition.",
+      "Unless otherwise specified, coated blister pack foil must be supplied as as-rolled foil (without receiving a final anneal). It must be coated on one side with heat-seal lacquer, while the other side is coated with shellac or printed.",
+      "Unless otherwise specified, pharmaceutical laminates must be supplied with one side of fully annealed foil laminated with 35 gsm LDPE, and the opposite side coated with protective shellac or printed.",
+      "a) Coated blister pack foil must have one bright surface and one matte surface; b) Pharmaceutical laminates may have one bright and one matte surface, or both surfaces bright, as specified by the purchaser.",
+      "This test is applicable to coated blister pack foils and pharmaceutical laminates. The sealing strength must comply with the minimum limits of Table 6 (minimum 500 g/25 mm across all nominal thicknesses from 20 to 40 µm).",
+      "Peel strength testing is strictly applicable to pharmaceutical laminates. It must satisfy the minimum limits of Table 5 (minimum 250 g/25 mm for nominal thicknesses of 30 µm and 40 µm bare foil).",
+      "A lot is defined as all foils in a single consignment of the identical width, thickness, and surface finish, manufactured by a single firm under essentially identical production conditions.",
+      "Random samples must be drawn separately from each lot for testing: a) Up to 15 rolls: 5 rolls selected (permissible defectives = 0); b) 16 to 25 rolls: 8 selected (permissible defectives = 1); c) 26 to 50 rolls: 13 selected (permissible defectives = 1); d) 51 to 100 rolls: 20 selected (permissible defectives = 2); e) 101 to 300 rolls: 32 selected (permissible defectives = 3); f) More than 300 rolls: 50 selected (permissible defectives = 3).",
+      "All sample rolls must be individually evaluated for manufacturing defects, surface defects, and dimensional tolerances. If the cumulative number of defectives is less than or equal to the permissible limit in Table 7, the lot is accepted.",
+      "Each finished foil package must be marked with the manufacturer's name, material grade, metallurgical condition (fully annealed or as-rolled), batch number, and date of manufacture."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "16011_2012_reff2022.pdf",
     "document_version_edition": "First Edition, November 2012 (Reaffirmed 2022)"
   }

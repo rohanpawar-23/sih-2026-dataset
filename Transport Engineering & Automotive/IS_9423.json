@@ -1,124 +1,106 @@
 {
-  "basic_identification": {
-    "is_number": "IS 9423 : 1980",
-    "full_title": "Indian Standard Identification Colours for Schemes for Ships' Ventilation Systems",
-    "sector_category": "Marine Engineering and Shipbuilding (approved by the Mechanical Engineering Division Council and finalized by the Shipbuilding Sectional Committee under the Indian Standards Institution)",
-    "ics_code": "47.020.90; 01.070.20",
+  "standard": {
+    "is_code": "IS 9423:1980",
+    "title": "Indian Standard Identification Colours for Schemes for Ships' Ventilation Systems",
+    "sector": "Marine Engineering and Shipbuilding",
+    "ics_code": [
+      "47.020.90",
+      "01.070.20"
+    ],
     "sectional_committee": {
       "name": "Shipbuilding Sectional Committee",
       "number": "EDC 56 / MCPD 1"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the identification colours for functional plans of ventilation systems on board ships. It is intended to be applied only when identification of such systems by color is deemed necessary to ensure clear communication and structural safety.",
+    "scope": "This standard specifies the identification colours for functional plans of ventilation systems on board ships. It is intended to be applied only when identification of such systems by color is deemed necessary to ensure clear communication and structural safety.",
+    "keywords": [
+      "IS 9423 : 1980",
+      "Ships Ventilation",
+      "Identification Colours",
+      "Ventilation Systems",
+      "Functional Plans",
+      "IS 5 : 1978 Colours",
+      "Natural Supply Air",
+      "Conditioned Supply Air",
+      "Mechanical Exhaust Air",
+      "Marine Outfitting",
+      "Shipbuilding drawings",
+      "EDC 56"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the identification colours for functional plans of ventilation systems on board ships. It is intended to be applied only when identification of such systems by color is deemed necessary to ensure clear communication and structural safety.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 3"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, February 1980 (Reaffirmed in 2002, Reviewed and Reaffirmed in 2023)",
-    "year_first_published": "1980",
+  "version": {
+    "current_version": "First Edition, February 1980 (Reaffirmed in 2002, Reviewed and Reaffirmed in 2023)",
+    "first_publication_year": 1980,
+    "publication_year": 1980,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1980"
-      }
+      "First Edition, 1980"
     ],
-    "supersedes": "None (developed as a new specialized national marine drafting and outfitting color protocol)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 5 : 1978",
-      "title": "Colours for ready mixed paints and enamels (third revision)",
-      "category": "Reference Standard",
-      "location": "Clause 2",
-      "relevance": "Provides the definitive colour references and shade numbers to which the shipboard ventilation schemes must conform."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 5118 : 1969",
-      "title": "Specification for Constructional Details of Ventilation Trunking for Shipboard Use",
-      "category": "Construction standard",
-      "location": "Parallel Marine HVAC Category",
-      "relevance": "A sister marine ventilation outfitting standard present in the notebook, specifying construction, material thicknesses, and structural layouts of shipboard ventilation trunking."
-    },
-    {
-      "is_number": "IS 3276 : 1966",
-      "title": "Dimensions for Mechanical Turning Arrangements for Steel Cowl Ventilators",
-      "category": "Component standard",
-      "location": "Parallel Marine HVAC Category",
-      "relevance": "A sister marine ventilation accessory standard present in the notebook, specifying gear-driven mechanical turning arrangements for cowl ventilators."
-    },
-    {
-      "is_number": "IS 4010 : 1967",
-      "title": "Specification for Sounding Pipes",
-      "category": "Product standard",
-      "location": "Parallel Marine Piping Category",
-      "relevance": "A sister marine outfitting standard present in the notebook, specifying deck fittings and bottom striker plates for sounding pipes."
-    },
-    {
-      "is_number": "IS 15052 : 2002",
-      "title": "Shipbuilding — Diesel Propulsion System Responsibility — Requirements",
-      "category": "System standard",
-      "location": "Parallel Marine Propulsion",
-      "relevance": "A fellow shipbuilding system integration standard present in the notebook, regulating machinery and engine-gearing performance."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design standard in India, regulating support framing, watertight bulkheads, and connection details where ventilation penetrations occur."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Procedural Specification / Identification Code (Marine Drafting / Shipbuilding)",
-    "certification_status": "Voluntary Engineering Practice and Drafting Standard. Since IS 9423:1980 is a procedural code of practice for design office schematics rather than a safety-critical consumer product, it is certified on a voluntary basis. However, compliance with this standard is universally mandated inside all Indian Navy, Coast Guard, public shipyards (e.g., MDL, GRSE, GSL), commercial shipbuilders, and maritime classification societies (such as IRS and Lloyd's Register) during the approval of functional ventilation, HVAC, and outfitting drawings.",
-    "requirements": [
+    "supersedes": [
+      "None (developed as a new specialized national marine drafting and outfitting color protocol)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Scope of Application",
-        "detail": "Specifies identification colours for functional plans to be used for ventilation systems on board ships, only when identification by colour is necessary to ensure safety and system clarity.",
-        "clause_reference": "Clause 1"
-      },
-      {
-        "requirement_type": "Standard Colour Mapping (Table 1)",
-        "detail": "Establishes a strict colour coding system mapped against specific colour reference numbers from IS 5 : 1978 for 8 different shipboard ventilation circuits:\n1. Natural Supply Air: Yellow (Colour Reference No. 309);\n2. Natural Exhaust Air: Brown (Colour Reference No. 489);\n3. Mechanical Supply Air (atmospheric fresh air): Green (Colour Reference No. 218);\n4. Mechanical Supply Air, warm (heated air): Pink (Colour Reference No. 443);\n5. Mechanical Supply Air, cold (refrigerated air): Dark Blue (Colour Reference No. 166);\n6. Conditioned Supply Air: Violet (Colour Reference No. 796);\n7. Mechanical Recirculated Air (return air): Orange (Colour Reference No. 592);\n8. Mechanical Exhaust Air: Grey (Colour Reference No. 694).",
-        "clause_reference": "Clause 2 & Table 1"
-      },
-      {
-        "requirement_type": "Guidance Status of Reference Numbers",
-        "detail": "Explicitly notes that the colour references given in Table 1 are for guidance only, allowing minor variations in paint shades as long as system distinctions remain unambiguous.",
-        "clause_reference": "Table 1 Note"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 9423 : 1980",
-    "Ships Ventilation",
-    "Identification Colours",
-    "Ventilation Systems",
-    "Functional Plans",
-    "IS 5 : 1978 Colours",
-    "Natural Supply Air",
-    "Conditioned Supply Air",
-    "Mechanical Exhaust Air",
-    "Marine Outfitting",
-    "Shipbuilding drawings",
-    "EDC 56"
+  "relationships": [
+    {
+      "target_is_code": "IS 5 : 1978",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5118 : 1969",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3276 : 1966",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4010 : 1967",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15052 : 2002",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 9423 : 1980 (Reaffirmed 2023) is the national Indian Standard specifying the standardized color-coding schemes to be used on shipboard functional drawings and ventilation plans. Finalized under the Shipbuilding Sectional Committee, it coordinates with the paint standards of IS 5:1978 to assign unique, recognizable colors and shade numbers to 8 distinct ventilation circuits. These range from Yellow (Shade 309) for natural supply air and Green (Shade 218) for mechanical atmospheric air, to Dark Blue (Shade 166) for refrigerated air, Violet (Shade 796) for conditioned air, and Grey (Shade 694) for mechanical exhaust systems. This uniform drafting framework ensures that shipyard outfitting teams, ship crew members, and marine safety inspectors can instantly identify and trace various air flows on shipboard schematics."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Engineering Practice and Drafting Standard. Since IS 9423:1980 is a procedural code of practice for design office schematics rather than a safety-critical consumer product, it is certified on a voluntary basis. However, compliance with this standard is universally mandated inside all Indian Navy, Coast Guard, public shipyards (e.g., MDL, GRSE, GSL), commercial shipbuilders, and maritime classification societies (such as IRS and Lloyd's Register) during the approval of functional ventilation, HVAC, and outfitting drawings.",
+    "requirements": [
+      "Specifies identification colours for functional plans to be used for ventilation systems on board ships, only when identification by colour is necessary to ensure safety and system clarity.",
+      "Establishes a strict colour coding system mapped against specific colour reference numbers from IS 5 : 1978 for 8 different shipboard ventilation circuits:\n1. Natural Supply Air: Yellow (Colour Reference No. 309);\n2. Natural Exhaust Air: Brown (Colour Reference No. 489);\n3. Mechanical Supply Air (atmospheric fresh air): Green (Colour Reference No. 218);\n4. Mechanical Supply Air, warm (heated air): Pink (Colour Reference No. 443);\n5. Mechanical Supply Air, cold (refrigerated air): Dark Blue (Colour Reference No. 166);\n6. Conditioned Supply Air: Violet (Colour Reference No. 796);\n7. Mechanical Recirculated Air (return air): Orange (Colour Reference No. 592);\n8. Mechanical Exhaust Air: Grey (Colour Reference No. 694).",
+      "Explicitly notes that the colour references given in Table 1 are for guidance only, allowing minor variations in paint shades as long as system distinctions remain unambiguous."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "9423_1980_reaff2023.pdf",
     "document_version_edition": "First Edition, February 1980 (Reaffirmed 2023)"
   }

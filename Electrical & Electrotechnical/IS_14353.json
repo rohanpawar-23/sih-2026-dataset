@@ -1,148 +1,118 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14353 : 1996",
-    "full_title": "Guide for Determining Compatibility Between Enamelled Winding Wire and Impregnating Compounds (इनेमल्ड वाइंडिंग वायर और संसेचन यौगिकों के बीच संगतता निर्धारण हेतु मार्गदर्शिका)",
-    "sector_category": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems (approved by the Electrotechnical Division Council and finalized by the Electrical Insulation System Sectional Committee, ETD 04, of the Bureau of Indian Standards)",
-    "ics_code": "29.060.10; 29.080",
+  "standard": {
+    "is_code": "IS 14353:1996",
+    "title": "Guide for Determining Compatibility Between Enamelled Winding Wire and Impregnating Compounds (इनेमल्ड वाइंडिंग वायर और संसेचन यौगिकों के बीच संगतता निर्धारण हेतु मार्गदर्शिका)",
+    "sector": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems",
+    "ics_code": [
+      "29.060.10",
+      "29.080"
+    ],
     "sectional_committee": {
       "name": "Electrical Insulation System Sectional Committee",
       "number": "ETD 04"
-    }
+    },
+    "standard_type": "GUIDE",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes technical guidelines and pre-selection test methodologies to determine the relative chemical compatibility between enamelled round winding wires and impregnating compounds (such as solventless resins and impregnating varnishes) used in the insulation systems of electrical rotating and static machines.",
+    "scope": "This Indian Standard prescribes technical guidelines and pre-selection test methodologies to determine the relative chemical compatibility between enamelled round winding wires and impregnating compounds (such as solventless resins and impregnating varnishes) used in the insulation systems of electrical rotating and static machines.",
+    "keywords": [
+      "IS 14353 : 1996",
+      "Enamelled Winding Wire",
+      "Impregnating Compounds",
+      "Chemical Compatibility",
+      "Twisted Pair Ageing",
+      "Dielectric Breakdown Voltage",
+      "Thermal Ageing Temperature",
+      "Winding Wires IS 13730",
+      "ETD 04 Insulation",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes technical guidelines and pre-selection test methodologies to determine the relative chemical compatibility between enamelled round winding wires and impregnating compounds (such as solventless resins and impregnating varnishes) used in the insulation systems of electrical rotating and static machines.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, May 1996 (Reaffirmed 2021)",
-    "year_first_published": "1996",
+  "version": {
+    "current_version": "First Edition, May 1996 (Reaffirmed 2021)",
+    "first_publication_year": 1996,
+    "publication_year": 1996,
+    "revision": "First Edition (IS 14353 : 1996)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 14353 : 1996)",
-        "year": "1996"
-      }
+      "First Edition (IS 14353 : 1996), 1996"
     ],
-    "supersedes": "None (Developed as a new standalone guide to govern pre-selection evaluations of wire-varnish insulation interfaces)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 13730 (Part 0 / Section 1 to 4)",
-      "title": "Specifications for particular types of winding wires",
-      "category": "Conductor standard",
-      "relevance": "Establishes baseline dimensional tolerances, material compositions, and mechanical characteristics for round and rectangular copper or aluminium winding wires."
-    },
-    {
-      "is_number": "IS 13778 (Part 5) : 1993",
-      "title": "Methods of tests for winding wires — Part 5: Electrical properties",
-      "category": "Testing standard",
-      "relevance": "Prescribes the detailed test setups, electrode geometry, and voltage-increase rates for measuring dielectric breakdown voltage (BDV)."
-    },
-    {
-      "is_number": "IS 5825 : 1993",
-      "title": "Guide for evaluation of thermal endurance of enamelled wire (first revision)",
-      "category": "Evaluation standard",
-      "relevance": "The long-term, high-precision thermal endurance standard used to confirm wire-varnish compatibility when short-term pre-selection tests yield ambiguous results."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters, temperatures, and dielectric breakdown voltages to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 14220 : 2018",
-      "title": "Openwell Submersible Pumpsets — Specification",
-      "category": "Product Specification",
-      "relevance": "Submersible pump motor circuits operating submerged in water rely on high-durability enamelled windings and impregnating varnishes. Chemical compatibility must be verified to prevent insulation swelling, cracking, or premature grounding under water."
-    },
-    {
-      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
-      "title": "Insulating Varnishes Containing Solvents — Specification",
-      "category": "Material standard",
-      "relevance": "Regulates the specific chemical, physical, and thermal requirements of the solventless resins and varnishes utilized to impregnate stator and rotor winding structures."
-    },
-    {
-      "is_number": "IS 11731 (Part 2) : 1986",
-      "title": "Methods of Test for Determination of Flammability of Solid Electrical Insulating Materials when Exposed to an Igniting Source: Part 2 Vertical Specimen Method",
-      "category": "Testing standard",
-      "relevance": "Insulating sheets, phase separators, and structural slot wedges used alongside winding wires must satisfy self-extinguishing Class FV0 vertical flammability limits to prevent fire propagation during windings short-circuits."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits of high-temperature laboratory baking ovens (exceeding 130°C to 195°C) and high-voltage breakdown test rigs, ensuring that mechanical guards and safety interlocks comply with national laws."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel construction code in India, regulating support steelwork, crane runways, and motor mounting plates."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Evaluation and Pre-Selection Guideline (Electrotechnical Department / Solid Electrical Insulating Materials)",
-    "certification_status": "Voluntary National Code. However, under public works specifications, defense procurement, railway traction motor guidelines, and heavy industrial machinery tenders, motor manufacturers must supply type-approval certificates certifying that the wire enamel and impregnating varnish combination has successfully completed compatibility testing per IS 14353.",
-    "requirements": [
+    "supersedes": [
+      "None (Developed as a new standalone guide to govern pre-selection evaluations of wire-varnish insulation interfaces)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, temperature values, and dielectric breakdown voltages must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in this standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Chemical Reaction Failures",
-        "detail": "The majority of electrical winding difficulties arise when an enamelled wire is used in combination with an impregnating compound that causes a chemical reaction between the cured enamelled film and the compound, which is accelerated by high temperatures and degrades wire electrical/mechanical properties.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Suggested Test Method A (Twisted Pair Ageing)",
-        "detail": "Twisted pair ageing is confirmed by extensive experience in India and globally. It evaluates changes in dielectric breakdown voltage (BDV) of impregnated enamelled twisted-pair specimens after exposure to accelerated thermal ageing.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Sample Pre-Heating and Impregnation",
-        "detail": "Twisted-pair specimens (prepared per IS 13778 Part 5) are pre-heated for 10 minutes at 130°C, cooled for 1 hour, immersed in the impregnant for 10 minutes, and withdrawn at 10 cm/min prior to standard curing.",
-        "clause_reference": "Clause 4.1.1"
-      },
-      {
-        "requirement_type": "Thermal Ageing Temperature",
-        "detail": "Ageing is conducted inside an air-circulated electric oven for 168 hours (Set G1) or 336 hours (Set G2) at an ageing temperature T selected according to the temperature class of the wire and varnish, raised by 40°C (e.g. for Class 155, T = 195°C). Set G0 serves as the unaged control.",
-        "clause_reference": "Clause 4.1.1"
-      },
-      {
-        "requirement_type": "Suggested Test Method B (Twisted Pair Cyclic Ageing)",
-        "detail": "Twisted pair cyclic ageing is less established, with insufficient technical experience available. Due to this, the standard does not include end-point evaluation criteria for Method B.",
-        "clause_reference": "Clause 4.2"
-      },
-      {
-        "requirement_type": "Testing Gaps and Limits",
-        "detail": "The guide does not cover rectangular wires or fibrous-covered conductors. It is by no means a method to test the complete insulation system of an electrical machine, as environmental factors (humidity, chemical contamination, mechanical vibration, etc.) are excluded and must be verified separately (e.g. via motorette testing).",
-        "clause_reference": "Clause 1.2"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL"
       }
     ]
   },
-  "keywords": [
-    "IS 14353 : 1996",
-    "Enamelled Winding Wire",
-    "Impregnating Compounds",
-    "Chemical Compatibility",
-    "Twisted Pair Ageing",
-    "Dielectric Breakdown Voltage",
-    "Thermal Ageing Temperature",
-    "Winding Wires IS 13730",
-    "ETD 04 Insulation",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 13730 (Part 0 / Section 1 to 4)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13778 (Part 5) : 1993",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5825 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14220 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11731 (Part 2) : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 14353 : 1996 (Reaffirmed 2021) is the primary national Indian Standard code of practice prescribing pre-selection testing methodologies to evaluate the chemical compatibility between enamelled round winding wires and impregnating compounds (varnishes and resins). Formulated under the Electrical Insulation System Sectional Committee (ETD 04), the code unifies quality control for stator and rotor windings in rotating and static electrical machinery. It suggests two short-term test methods: a highly established Twisted Pair Ageing method (evaluating dielectric breakdown voltage drops under thermal stress) and a less-established Cyclic Ageing method. By identifying harmful chemical reactions that cause insulation softening and swelling under heat, the standard assists electrical designers in selecting stable wire-varnish combinations, ensuring high motor reliability across agricultural and industrial grids."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary National Code. However, under public works specifications, defense procurement, railway traction motor guidelines, and heavy industrial machinery tenders, motor manufacturers must supply type-approval certificates certifying that the wire enamel and impregnating varnish combination has successfully completed compatibility testing per IS 14353.",
+    "requirements": [
+      "Observed or calculated final test values, temperature values, and dielectric breakdown voltages must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in this standard.",
+      "The majority of electrical winding difficulties arise when an enamelled wire is used in combination with an impregnating compound that causes a chemical reaction between the cured enamelled film and the compound, which is accelerated by high temperatures and degrades wire electrical/mechanical properties.",
+      "Twisted pair ageing is confirmed by extensive experience in India and globally. It evaluates changes in dielectric breakdown voltage (BDV) of impregnated enamelled twisted-pair specimens after exposure to accelerated thermal ageing.",
+      "Twisted-pair specimens (prepared per IS 13778 Part 5) are pre-heated for 10 minutes at 130°C, cooled for 1 hour, immersed in the impregnant for 10 minutes, and withdrawn at 10 cm/min prior to standard curing.",
+      "Ageing is conducted inside an air-circulated electric oven for 168 hours (Set G1) or 336 hours (Set G2) at an ageing temperature T selected according to the temperature class of the wire and varnish, raised by 40°C (e.g. for Class 155, T = 195°C). Set G0 serves as the unaged control.",
+      "Twisted pair cyclic ageing is less established, with insufficient technical experience available. Due to this, the standard does not include end-point evaluation criteria for Method B.",
+      "The guide does not cover rectangular wires or fibrous-covered conductors. It is by no means a method to test the complete insulation system of an electrical machine, as environmental factors (humidity, chemical contamination, mechanical vibration, etc.) are excluded and must be verified separately (e.g. via motorette testing)."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "14353_1996_reff2021.pdf",
     "document_version_edition": "First Edition, 1996"
   }

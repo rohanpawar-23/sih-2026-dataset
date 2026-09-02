@@ -1,223 +1,143 @@
 {
-  "basic_identification": {
-    "is_number": "IS 15351 : 2015 (Second Revision)",
-    "full_title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
-    "sector_category": "Textiles / Technical Textiles (approved by the Textile Division Council and finalized by the Technical Textiles for Agro-tech Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "59.080.70; 93.160",
+  "standard": {
+    "is_code": "IS 15351:2015",
+    "title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
+    "sector": "Textiles / Technical Textiles",
+    "ics_code": [
+      "59.080.70",
+      "93.160"
+    ],
     "sectional_committee": {
       "name": "Technical Textiles for Agro-tech Sectional Committee",
       "number": "TXD 35"
     },
-    "citations": "[1, 2]"
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, sampling guidelines, and testing methods for laminated high-density polyethylene (HDPE) woven geomembranes—which are low-permeability synthetic liners—used for waterproof lining in civil, agricultural, and geo-environmental applications such as canals, ponds, and reservoirs to prevent water seepage and control fluid migration.",
+    "scope": "This standard specifies the requirements, sampling guidelines, and testing methods for laminated high-density polyethylene (HDPE) woven geomembranes—which are low-permeability synthetic liners—used for waterproof lining in civil, agricultural, and geo-environmental applications such as canals, ponds, and reservoirs to prevent water seepage and control fluid migration.",
+    "keywords": [
+      "IS 15351:2015",
+      "Agro Textiles",
+      "HDPE Woven Geomembrane",
+      "Laminated Liner",
+      "Waterproof Lining",
+      "Pond Liner",
+      "Type I to IV",
+      "Puncture Resistance",
+      "Chisel Tip Probe",
+      "IS 7016 Testing",
+      "IS 16635 Wide-width strip",
+      "Ash Content 590 °C",
+      "Carbon Black Content",
+      "Geo Textiles QCO 2022",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, sampling guidelines, and testing methods for laminated high-density polyethylene (HDPE) woven geomembranes—which are low-permeability synthetic liners—used for waterproof lining in civil, agricultural, and geo-environmental applications such as canals, ponds, and reservoirs to prevent water seepage and control fluid migration.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard",
-    "citations": ""
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, December 2015 (incorporating Amendment No. 1, March 2026)",
-    "year_first_published": "2003",
+  "version": {
+    "current_version": "Second Revision, December 2015 (incorporating Amendment No. 1, March 2026)",
+    "first_publication_year": 2003,
+    "publication_year": 2015,
+    "revision": "Second Revision",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2003"
-      },
-      {
-        "edition": "First Revision",
-        "year": "2008"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "2015"
-      }
+      "First Edition, 2003",
+      "First Revision, 2008",
+      "Second Revision, 2015"
     ],
-    "supersedes": "IS 15351 : 2008",
-    "superseded_by": "N/A",
-    "amendment_slips": [
-      {
-        "amendment_number": "Amendment No. 1",
-        "date": "March 2026",
-        "description": "Completely substitutes the physical property criteria in Table 1, organizing geomembranes into four distinct varieties (Type I, Type II, Type III, and Type IV) based on thickness and mass. It updates referenced testing standards—including substituting IS 16635 for wide-width tensile properties instead of IS 13162 (Part 5)—and completely replaces Annex D with a newly standardized index puncture resistance test utilizing a double-bevel chisel-tipped solid steel rod. It also replaces muffle furnace testing parameters in Annex F by substituting a furnace temperature of 590 °C (previously 550 °C) and a sample mass of 3 g (previously 30 g) for carbon black and ash analysis."
-      }
+    "supersedes": [
+      "IS 15351 : 2008"
     ],
-    "citations": "[1-3]"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 16635 : 2017 / ISO 10319 : 2015",
-      "title": "Geosynthetics — Wide-width tensile test",
-      "category": "Test method",
-      "location": "Page 4, Clauses B-1, B-5.3, B-5.4",
-      "relevance": "Substituted by Amendment No. 1 to serve as the mandatory testing standard to evaluate the wide-width strip tensile strength and strain at maximum load of the geomembrane.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 7016 (Part 1/Sec 2) : 2019 / ISO 2286-2 : 2016",
-      "title": "Methods of test for coated and treated fabrics: Part 1 Determination of roll characteristics, Section 2 Methods for determination of total mass per unit area, mass per unit area of coating and mass per unit area of substrate",
-      "category": "Test method",
-      "location": "Table 1, Sl No. (ii) & Annex A",
-      "relevance": "Governs the standard laboratory procedures used to verify the minimum mass per unit area (g/m²) of the finished geomembrane.",
-      "citations": "[1, 2]"
-    },
-    {
-      "is_number": "IS 7016 (Part 1/Sec 3) : 2019 / ISO 2286-3 : 2016",
-      "title": "Methods of test for coated and treated fabrics: Part 1 Determination of roll characteristics, Section 3 Method for determination of thickness",
-      "category": "Test method",
-      "location": "Table 1, Sl No. (i) & Annex A",
-      "relevance": "Specified standard used to measure and verify the minimum thickness of the geomembrane under a pressure of 24 kPa.",
-      "citations": "[1, 2]"
-    },
-    {
-      "is_number": "IS 7016 (Part 3/Sec 1) : 2022 / ISO 4674-1 : 2016",
-      "title": "Methods of test for rubber or plastics coated fabrics: Part 3 Determination of tear resistance, Section 1 Constant rate of tear methods",
-      "category": "Test method",
-      "location": "Annex A",
-      "relevance": "Referenced as the standard method of test to determine the tear resistance (N) of the geomembrane.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 7016 (Part 6/Sec 1) : 2022 / ISO 3303-1 : 2020",
-      "title": "Methods of test for rubber or plastics coated fabrics: Part 6 Determination of bursting strength, Section 1 Steel-ball method",
-      "category": "Test method",
-      "location": "Annex A",
-      "relevance": "Prescribes the mechanical ball-burst testing procedure used to verify the bursting strength of the geomembrane.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 15060",
-      "title": "Test method for seam strength of geomembranes",
-      "category": "Test method",
-      "location": "Foreword",
-      "relevance": "Mandates standard procedures to evaluate the mechanical strength of thermally joined seams before and after UV exposure.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 2530",
-      "title": "Methods of test for polyethylene moulding materials and polyethylene compounds",
-      "category": "Test method",
-      "location": "Foreword",
-      "relevance": "Referenced to determine and verify the carbon black content of the geomembrane to ensure premium UV protection.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 11652 : 2017",
-      "title": "Textiles — High density polyethylene (HDPE)/polypropylene (PP) woven sacks for packaging of 50 kg cement — Specification",
-      "category": "Normative reference",
-      "location": "Annex A",
-      "relevance": "Its Annex A is referenced to execute dimension checks (length and width) of the geomembrane.",
-      "citations": "[2]"
-    },
-    {
-      "is_number": "IS 4905 : 2015",
-      "title": "Random sampling and randomization procedures",
-      "category": "Normative reference",
-      "location": "Sampling guidelines (implied)",
-      "relevance": "Governs statistical random sampling of roll swatches to ensure representative quality evaluation across manufacturing lots.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values",
-      "category": "Other",
-      "location": "Foreword (implied)",
-      "relevance": "Standardizes the mathematical procedures used to round off physical and chemical testing parameters."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10146",
-      "title": "Positive list of constituents of polyethylene in contact with foodstuffs, pharmaceuticals and drinking water",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Mandates that if the geomembrane liner is specified for potable drinking water applications, all constituent polymers must be strictly food-grade."
-    },
-    {
-      "is_number": "IS 7903 : 2011",
-      "title": "High Density Polyethylene (HDPE) Tarpaulins — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "A sister standard under the same textiles group governing laminated HDPE sheets used for general outdoor protection, agricultural covers, and tarpaulins."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Agro Textiles / Geosynthetics)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order, 2022' issued by the Ministry of Textiles, Government of India, all laminated High-Density Polyethylene (HDPE) Woven Geomembranes for waterproof lining must carry the mandatory BIS Standard Mark (ISI Mark) to be legally manufactured, imported, distributed, or sold in India. Products fabricated exclusively for export are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to synthetic polymers and technical textiles.",
-    "requirements": [
+    "amendments": [
       {
-        "requirement_type": "Mandatory Standard Mark Scheme",
-        "detail": "Every roll or bundle of conforming geomembranes must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
-        "clause_reference": "Marking clauses"
-      },
-      {
-        "requirement_type": "Thickness Requirements at 24 kPa (Table 1)",
-        "detail": "The minimum thickness of the finished geomembrane must strictly comply with the variety: Type I: Min 0.25 mm; Type II: Min 0.50 mm; Type III: Min 0.75 mm; and Type IV: Min 1.00 mm, tested per IS 7016 (Part 1/Sec 3).",
-        "clause_reference": "Table 1, Sl No. (i)",
-        "page_reference": "Page 1 of Amendment No. 1",
-        "citations": "[1]"
-      },
-      {
-        "requirement_type": "Mass per Unit Area Requirements (Table 1)",
-        "detail": "The minimum mass of the finished geomembrane must satisfy the specified limits: Type I: Min 250 g/m²; Type II: Min 420 g/m²; Type III: Min 650 g/m²; and Type IV: Min 950 g/m², tested per IS 7016 (Part 1/Sec 2).",
-        "clause_reference": "Table 1, Sl No. (ii)",
-        "page_reference": "Page 1 of Amendment No. 1",
-        "citations": "[1]"
-      },
-      {
-        "requirement_type": "Carbon Black Content",
-        "detail": "The polymer coating must contain a minimum of 2.5 percent carbon black by mass to provide superior UV light stabilization and durability during outdoor weathering, tested per IS 2530.",
-        "clause_reference": "Table 1, Sl No. (iv) (implied)"
-      },
-      {
-        "requirement_type": "Index Puncture Resistance Test (Annex D)",
-        "detail": "Puncture resistance is evaluated by clamping a specimen without tension between plates of a ring clamp with an open internal diameter of 45 mm ± 0.025 mm [2, 4]. A solid steel rod (diameter 7.92 mm ± 0.25 mm) with a flat chisel-shaped tip (thickness 0.8 mm ± 0.1 mm, tip edges rounded to 0.25 mm radius) is oriented at 45° to intercept warp and weft threads [5]. The test is executed at a machine speed of 300 mm/min ± 10 mm/min until rupture [3]. The maximum force recorded is reported as puncture resistance [2].",
-        "clause_reference": "Annex D, Clauses D-1 to D-6",
-        "page_reference": "Pages 2-4 of Amendment No. 1",
-        "citations": "[2-5]"
-      },
-      {
-        "requirement_type": "Specimen Conditioning Parameters",
-        "detail": "Prior to testing puncture resistance, specimens must be conditioned in a controlled atmosphere of 65 percent ± 5 percent relative humidity and 27 °C ± 2 °C temperature until moisture equilibrium is reached, which is defined as mass increase <= 0.1% over successive weighings spaced >= 2 h apart.",
-        "clause_reference": "Annex D, Clause D-4",
-        "page_reference": "Page 4 of Amendment No. 1",
-        "citations": "[3]"
-      },
-      {
-        "requirement_type": "Muffle Furnace Temperature for Ash Content (Annex F)",
-        "detail": "To determine ash content and verify polymer purity, the muffle furnace must be calibrated and operated at a corrected high temperature of 590 °C (correcting the older limit of 550 °C). The test sample mass is strictly restricted to 3 g ± 0.2 g (previously 30 g ± 2 g) to ensure complete thermal digestion of organic remains.",
-        "clause_reference": "Clause F-1 & F-2 (Amended)",
-        "page_reference": "Page 4 of Amendment No. 1",
-        "citations": "[3]"
-      },
-      {
-        "requirement_type": "Hydrostatic Resistance and Seam Quality",
-        "detail": "The finished geomembrane must exhibit zero water leakage when subjected to hydrostatic pressure testing, and the heat-welded joints must maintain high seam strengths both before and after prolonged UV exposure.",
-        "clause_reference": "Table 1 & Annex B, E"
+        "amendment_number": "Amendment 1",
+        "date": "2026-03",
+        "summary": "Completely substitutes the physical property criteria in Table 1, organizing geomembranes into four distinct varieties (Type I, Type II, Type III, and Type IV) based on thickness and mass. It updates referenced testing standards—including substituting IS 16635 for wide-width tensile properties instead of IS 13162 (Part 5)—and completely replaces Annex D with a newly standardized index puncture resistance test utilizing a double-bevel chisel-tipped solid steel rod. It also replaces muffle furnace testing parameters in Annex F by substituting a furnace temperature of 590 °C (previously 550 °C) and a sample mass of 3 g (previously 30 g) for carbon black and ash analysis."
       }
     ]
   },
-  "keywords": [
-    "IS 15351:2015",
-    "Agro Textiles",
-    "HDPE Woven Geomembrane",
-    "Laminated Liner",
-    "Waterproof Lining",
-    "Pond Liner",
-    "Type I to IV",
-    "Puncture Resistance",
-    "Chisel Tip Probe",
-    "IS 7016 Testing",
-    "IS 16635 Wide-width strip",
-    "Ash Content 590 °C",
-    "Carbon Black Content",
-    "Geo Textiles QCO 2022",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 16635 : 2017 / ISO 10319 : 2015",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7016 (Part 1/Sec 2) : 2019 / ISO 2286-2 : 2016",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7016 (Part 1/Sec 3) : 2019 / ISO 2286-3 : 2016",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7016 (Part 3/Sec 1) : 2022 / ISO 4674-1 : 2016",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7016 (Part 6/Sec 1) : 2022 / ISO 3303-1 : 2020",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15060",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2530",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11652 : 2017",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 2015",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10146",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7903 : 2011",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 15351 : 2015 is the strict national Indian Standard safety specification governing laminated high-density polyethylene (HDPE) woven geomembranes used to line canals, reservoirs, agricultural ponds, and waste containment areas. Under the national Geo Textiles Quality Control Order (QCO), all such geomembranes sold or used in India must carry the mandatory BIS Standard Mark (ISI Mark) to verify mechanical durability and seepage prevention. The standard defines four types based on thickness (0.25 mm to 1.00 mm) and mass (250 to 950 g/m²) [1]. Amendment No. 1 (March 2026) updates testing protocols, specifying wide-width strip tensile methods per IS 16635 [2], a highly detailed index puncture resistance test with a chisel-tipped solid steel rod [2, 5], and strict muffle furnace ash content evaluations at 590 °C to prevent the blending of low-grade or hazardous recycled plastic waste [3]."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Geo Textiles (Quality Control) Order, 2022",
+      "year": 2022
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order, 2022' issued by the Ministry of Textiles, Government of India, all laminated High-Density Polyethylene (HDPE) Woven Geomembranes for waterproof lining must carry the mandatory BIS Standard Mark (ISI Mark) to be legally manufactured, imported, distributed, or sold in India. Products fabricated exclusively for export are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to synthetic polymers and technical textiles.",
+    "requirements": [
+      "Every roll or bundle of conforming geomembranes must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+      "The minimum thickness of the finished geomembrane must strictly comply with the variety: Type I: Min 0.25 mm; Type II: Min 0.50 mm; Type III: Min 0.75 mm; and Type IV: Min 1.00 mm, tested per IS 7016 (Part 1/Sec 3).",
+      "The minimum mass of the finished geomembrane must satisfy the specified limits: Type I: Min 250 g/m²; Type II: Min 420 g/m²; Type III: Min 650 g/m²; and Type IV: Min 950 g/m², tested per IS 7016 (Part 1/Sec 2).",
+      "The polymer coating must contain a minimum of 2.5 percent carbon black by mass to provide superior UV light stabilization and durability during outdoor weathering, tested per IS 2530.",
+      "Puncture resistance is evaluated by clamping a specimen without tension between plates of a ring clamp with an open internal diameter of 45 mm ± 0.025 mm [2, 4]. A solid steel rod (diameter 7.92 mm ± 0.25 mm) with a flat chisel-shaped tip (thickness 0.8 mm ± 0.1 mm, tip edges rounded to 0.25 mm radius) is oriented at 45° to intercept warp and weft threads [5]. The test is executed at a machine speed of 300 mm/min ± 10 mm/min until rupture [3]. The maximum force recorded is reported as puncture resistance [2].",
+      "Prior to testing puncture resistance, specimens must be conditioned in a controlled atmosphere of 65 percent ± 5 percent relative humidity and 27 °C ± 2 °C temperature until moisture equilibrium is reached, which is defined as mass increase <= 0.1% over successive weighings spaced >= 2 h apart.",
+      "To determine ash content and verify polymer purity, the muffle furnace must be calibrated and operated at a corrected high temperature of 590 °C (correcting the older limit of 550 °C). The test sample mass is strictly restricted to 3 g ± 0.2 g (previously 30 g ± 2 g) to ensure complete thermal digestion of organic remains.",
+      "The finished geomembrane must exhibit zero water leakage when subjected to hydrostatic pressure testing, and the heat-welded joints must maintain high seam strengths both before and after prolonged UV exposure."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "15351_amd1.pdf",
     "document_version_edition": "Second Revision, December 2015 (incorporating Amendment No. 1, March 2026)"
   }

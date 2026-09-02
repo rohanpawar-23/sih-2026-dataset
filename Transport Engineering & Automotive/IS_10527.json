@@ -1,145 +1,115 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10527 : 1983",
-    "full_title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-    "sector_category": "Transport Engineering / Inland, Harbour Crafts and Fishing Vessels (finalized by the Inland, Harbour Crafts and Fishing Vessels Sectional Committee under the Transport Engineering Division Council of the Bureau of Indian Standards)",
-    "ics_code": "47.080",
+  "standard": {
+    "is_code": "IS 10527:1983",
+    "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
+    "sector": "Transport Engineering / Inland, Harbour Crafts and Fishing Vessels",
+    "ics_code": [
+      "47.080"
+    ],
     "sectional_committee": {
       "name": "Inland, Harbour Crafts and Fishing Vessels Sectional Committee",
       "number": "TED 18"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies standard pressure ranges in starting-air and compressed-air systems of vessels for inland navigation. It defines standard nominal pressure values used to select equipment, machinery, and pipeline elements (such as air receivers, compressors, fittings, valves, and piping) to ensure the unification, standardization, and interchangeability of pneumatic systems in inland water transport.",
+    "scope": "This standard specifies standard pressure ranges in starting-air and compressed-air systems of vessels for inland navigation. It defines standard nominal pressure values used to select equipment, machinery, and pipeline elements (such as air receivers, compressors, fittings, valves, and piping) to ensure the unification, standardization, and interchangeability of pneumatic systems in inland water transport.",
+    "keywords": [
+      "IS 10527 : 1983",
+      "Compressed Air Systems",
+      "Starting Air Systems",
+      "Pressure Ranges",
+      "Inland Vessels",
+      "Inland Navigation",
+      "Pneumatic Equipment",
+      "Principal Series",
+      "Additional Series",
+      "TED 18",
+      "ISO 3948",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies standard pressure ranges in starting-air and compressed-air systems of vessels for inland navigation. It defines standard nominal pressure values used to select equipment, machinery, and pipeline elements (such as air receivers, compressors, fittings, valves, and piping) to ensure the unification, standardization, and interchangeability of pneumatic systems in inland water transport.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, February 1983 (Reaffirmed 2013, Reaffirmed 2018, Reviewed and Reaffirmed in 2023)",
-    "year_first_published": "1983",
+  "version": {
+    "current_version": "First Edition, February 1983 (Reaffirmed 2013, Reaffirmed 2018, Reviewed and Reaffirmed in 2023)",
+    "first_publication_year": 1983,
+    "publication_year": 1983,
+    "revision": "First Edition (officially based on the equivalent/identical international standard ISO 3948:1977 'Shipbuilding — Inland vessels — Compressed-air systems — Pressure ranges')",
     "revision_history": [
-      {
-        "edition": "First Edition (officially based on the equivalent/identical international standard ISO 3948:1977 'Shipbuilding — Inland vessels — Compressed-air systems — Pressure ranges')",
-        "year": "1983"
-      }
+      "First Edition (officially based on the equivalent/identical international standard ISO 3948:1977 'Shipbuilding — Inland vessels — Compressed-air systems — Pressure ranges'), 1983"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "ISO 3948 : 1977",
-      "title": "Shipbuilding — Inland vessels — Compressed-air systems — Pressure ranges",
-      "category": "Identical/Equivalent Standard",
-      "location": "Foreword",
-      "relevance": "The international standard upon which IS 10527 is identically based, establishing the core pressure series for inland vessels."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Data Evaluation Standard",
-      "location": "Foreword / Compliance assessment clauses",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 3935 : 1977 / ISO 3935",
-      "title": "Shipbuilding — Inland Navigation — Fire-Fighting Water System — Pressures",
-      "category": "Product Specification / System Standard",
-      "location": "Parallel Marine Engineering Category",
-      "relevance": "Companion system standard regulating standard pressures and configurations of fire-fighting water systems for inland navigation vessels."
-    },
-    {
-      "is_number": "IS 13997",
-      "title": "Drums, Large Open Top — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates large open-top steel drums, co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 2552 : 1989",
-      "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates general galvanized and ungalvanized steel drums, co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 3575 : 1993",
-      "title": "Bitumen Drums — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates steel bitumen drums, co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
-    },
-    {
-      "is_number": "IS 11812 : 1986",
-      "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
-      "category": "Recommended Practice / Code of Practice",
-      "location": "Notebook Co-source",
-      "relevance": "A corrosion protection code specifying design and fabrication precautions for hot-dip galvanized steel assemblies, present in the notebook."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Code of Practice / Design Standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design and construction code in India, regulating support framing, weld connections, and fastener clearances, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification / System Standard (Marine Engineering / Inland Waterways)",
-    "certification_status": "Voluntary System and Performance Specification. Unlike steel constructions, builders hardware, or hazardous fluid packaging which are subject to mandatory statutory Quality Control Orders (QCOs), IS 10527 : 1983 is certified on a voluntary basis. Shipyards and marine auxiliary manufacturers who satisfy the requirements are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) on air receivers, manifolds, and control valves. However, compliance with this standard is universally mandated inside all national public sector (such as Inland Waterways Authority of India - IWAI), port authority, and commercial maritime vessel procurement tenders to ensure the safety and interchangeability of pneumatic machinery.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Starting-Air Pressure Range Intention",
-        "detail": "The starting-air pressure ranges are intended strictly to guide the selection, sizing, and design of equipment, machinery, and pipeline elements (such as air receivers, compressors, fittings, and valves) for starting main and auxiliary propulsion engines or diesel generators.",
-        "clause_reference": "Explanatory Note"
-      },
-      {
-        "requirement_type": "Compressed-Air Systems Application",
-        "detail": "The compressed-air pressure ranges cover equipment, machinery, and pipeline elements of auxiliary systems providing the operation of: blast signals, pneumatic tanks, windshield wipers, towing winch brakes, coupling locks, pneumatic control of main engines, air supply for domestic requirements, blowing Kingston valve boxes, casting off towing hooks, and releasing anchors.",
-        "clause_reference": "Explanatory Note"
-      },
-      {
-        "requirement_type": "Dual-Series Pressure Classification",
-        "detail": "Defines standard system pressures (in kilopascals) divided into two distinct engineering sequences:\na) Principal Series: Standard pressures from which pressure values required for the normal operation of equipment are selected;\nb) Additional Series: Standard pressures reserved for exceptional or highly specialized cases only.",
-        "clause_reference": "Explanatory Note & Series Table"
-      },
-      {
-        "requirement_type": "Standard Pressure Values",
-        "detail": "Specifies nominal pressure ranges in kPa (kilopascals) for selection: 100, 125, 150, 200, 250, 300, 400, 500, 600, 700, 800, 1000, 1200, 1500, 2000, 2500.",
-        "clause_reference": "Series Table"
-      },
-      {
-        "requirement_type": "Engineering Pressure Conversion Factor",
-        "detail": "To maintain international consistency and simplify calculation methods across mechanical, hydraulic, and structural design disciplines, the standard defines that: 100 kPa = 1 kgf/cm².",
-        "clause_reference": "Note 2 of Explanatory Note"
-      },
-      {
-        "requirement_type": "Pneumatic Component Sizing & Ratings",
-        "detail": "All piping manifolds, high-pressure reservoirs, steel tubes, and connecting valves used in inland vessel air systems must be designed, dimensioned, and pressure-tested to match the selected nominal values of this standard, ensuring leak-proof sealing under extreme marine humidity and rocking stresses."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10527 : 1983",
-    "Compressed Air Systems",
-    "Starting Air Systems",
-    "Pressure Ranges",
-    "Inland Vessels",
-    "Inland Navigation",
-    "Pneumatic Equipment",
-    "Principal Series",
-    "Additional Series",
-    "TED 18",
-    "ISO 3948",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "ISO 3948 : 1977",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3935 : 1977 / ISO 3935",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13997",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2552 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3575 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11812 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10527 : 1983 (Reaffirmed 2023) is the national Indian Standard specification governing standard pressure ranges for compressed-air and starting-air systems on inland navigation vessels. Based identically on ISO 3948:1977, this standard provides a unified series of nominal pressure values (such as 100, 200, 500, up to 2500 kPa) used to design and select marine pneumatic equipment, compressors, air receivers, control valves, and pipelines. It categorizes pressures into a 'Principal Series' for routine machinery operations (such as engine starting, blast signals, towing brakes, and anchor releases) and an 'Additional Series' for exceptional designs, standardizing the conversion factor of 100 kPa to 1 kgf/cm² to ensure complete engineering compatibility in the shipbuilding and river transport industries."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Quality Control Order",
+      "year": 1983
+    },
+    "description": "Voluntary System and Performance Specification. Unlike steel constructions, builders hardware, or hazardous fluid packaging which are subject to mandatory statutory Quality Control Orders (QCOs), IS 10527 : 1983 is certified on a voluntary basis. Shipyards and marine auxiliary manufacturers who satisfy the requirements are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) on air receivers, manifolds, and control valves. However, compliance with this standard is universally mandated inside all national public sector (such as Inland Waterways Authority of India - IWAI), port authority, and commercial maritime vessel procurement tenders to ensure the safety and interchangeability of pneumatic machinery.",
+    "requirements": [
+      "The starting-air pressure ranges are intended strictly to guide the selection, sizing, and design of equipment, machinery, and pipeline elements (such as air receivers, compressors, fittings, and valves) for starting main and auxiliary propulsion engines or diesel generators.",
+      "The compressed-air pressure ranges cover equipment, machinery, and pipeline elements of auxiliary systems providing the operation of: blast signals, pneumatic tanks, windshield wipers, towing winch brakes, coupling locks, pneumatic control of main engines, air supply for domestic requirements, blowing Kingston valve boxes, casting off towing hooks, and releasing anchors.",
+      "Defines standard system pressures (in kilopascals) divided into two distinct engineering sequences:\na) Principal Series: Standard pressures from which pressure values required for the normal operation of equipment are selected;\nb) Additional Series: Standard pressures reserved for exceptional or highly specialized cases only.",
+      "Specifies nominal pressure ranges in kPa (kilopascals) for selection: 100, 125, 150, 200, 250, 300, 400, 500, 600, 700, 800, 1000, 1200, 1500, 2000, 2500.",
+      "To maintain international consistency and simplify calculation methods across mechanical, hydraulic, and structural design disciplines, the standard defines that: 100 kPa = 1 kgf/cm².",
+      "All piping manifolds, high-pressure reservoirs, steel tubes, and connecting valves used in inland vessel air systems must be designed, dimensioned, and pressure-tested to match the selected nominal values of this standard, ensuring leak-proof sealing under extreme marine humidity and rocking stresses."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10527_1983_reaff2023.pdf",
     "document_version_edition": "First Edition, February 1983 (Reaffirmed 2023)"
   }

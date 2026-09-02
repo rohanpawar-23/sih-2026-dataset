@@ -1,188 +1,139 @@
 {
-  "basic_identification": {
-    "is_number": "IS 17051 : 2018 (incorporating Amendment No. 3, October 2023)",
-    "full_title": "Textiles — Bullet Resistant Jackets — Performance Requirements",
-    "sector_category": "Textiles / Protective Textiles (approved by the Textile Division Council and finalized by the Textiles Protective Clothing Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "13.310; 59.080.30",
+  "standard": {
+    "is_code": "IS 17051:2018",
+    "title": "Textiles — Bullet Resistant Jackets — Performance Requirements",
+    "sector": "Textiles / Protective Textiles",
+    "ics_code": [
+      "13.310",
+      "59.080.30"
+    ],
     "sectional_committee": {
       "name": "Textiles Protective Clothing Sectional Committee",
       "number": "TXD 32"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the technical performance, construction criteria, size designations, and rigorous ballistic and physical testing methods for bullet-resistant jackets (BRJ) designed to protect military, paramilitary, police, and other law enforcement personnel against small arms and in-service ammunition. It establishes standardized guidelines for the raw fabrics, comfort fit, multi-hit capability, and back-face signature of the protective panels. It does not cover protection against knives, sharp instruments, or grenade fragments.",
+    "scope": "This standard specifies the technical performance, construction criteria, size designations, and rigorous ballistic and physical testing methods for bullet-resistant jackets (BRJ) designed to protect military, paramilitary, police, and other law enforcement personnel against small arms and in-service ammunition. It establishes standardized guidelines for the raw fabrics, comfort fit, multi-hit capability, and back-face signature of the protective panels. It does not cover protection against knives, sharp instruments, or grenade fragments.",
+    "keywords": [
+      "IS 17051:2018",
+      "Bullet Resistant Jackets",
+      "BRJ",
+      "Ballistic Protection",
+      "Soft Armour Panel (SAP)",
+      "Hard Armour Panel (HAP)",
+      "Behind Armour Blunt Trauma (BFS)",
+      "Roma Plastilina Clay",
+      "44 mm BFS limit",
+      "Vibration Transport Test",
+      "Threat Level 1 to 6",
+      "7.62 x 54 R API",
+      "7.62 x 39 MSC",
+      "Quick Release Mechanism",
+      "Protective Textiles QCO 2024",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the technical performance, construction criteria, size designations, and rigorous ballistic and physical testing methods for bullet-resistant jackets (BRJ) designed to protect military, paramilitary, police, and other law enforcement personnel against small arms and in-service ammunition. It establishes standardized guidelines for the raw fabrics, comfort fit, multi-hit capability, and back-face signature of the protective panels. It does not cover protection against knives, sharp instruments, or grenade fragments.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, December 2018 (incorporating Amendment No. 3, October 2023)",
-    "year_first_published": "2018",
+  "version": {
+    "current_version": "First Edition, December 2018 (incorporating Amendment No. 3, October 2023)",
+    "first_publication_year": 2018,
+    "publication_year": 2018,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2018"
-      }
+      "First Edition, 2018"
     ],
-    "supersedes": "N/A (Developed as a new dedicated Indian Standard to establish a uniform testing baseline customized to in-service weapons and ammunition used in the Indian subcontinent, replacing outdated reliance on foreign standards like NIJ)",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "N/A (Developed as a new dedicated Indian Standard to establish a uniform testing baseline customized to in-service weapons and ammunition used in the Indian subcontinent",
+      "replacing outdated reliance on foreign standards like NIJ)"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "N/A",
-        "description": "Refines test ammunitions, impact velocities, and backing material configurations."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "Refines test ammunitions, impact velocities, and backing material configurations."
       },
       {
-        "amendment_number": "Amendment No. 2",
-        "date": "N/A",
-        "description": "Incorporates minor technical corrections and updates referenced test standards."
+        "amendment_number": "Amendment 2",
+        "date": null,
+        "summary": "Incorporates minor technical corrections and updates referenced test standards."
       },
       {
-        "amendment_number": "Amendment No. 3",
-        "date": "October 2023",
-        "description": "Inserts an explanatory Note after Clause 4.7 stating that the sequence of testing the ergonomics and/or ballistic testing requirements of bullet-resistant jackets shall be decided by the user. It also inserts a Note after Clause 5.1.1 clarifying that to meet the stringent operational requirements of the user, and as agreed between the buyer and the seller, outer carrier configurations and designs can be customized."
+        "amendment_number": "Amendment 3",
+        "date": "2023-10",
+        "summary": "Inserts an explanatory Note after Clause 4.7 stating that the sequence of testing the ergonomics and/or ballistic testing requirements of bullet-resistant jackets shall be decided by the user. It also inserts a Note after Clause 5.1.1 clarifying that to meet the stringent operational requirements of the user, and as agreed between the buyer and the seller, outer carrier configurations and designs can be customized."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 7016 (Part 1)",
-      "title": "Methods of test for coated and treated fabrics: Part 1 Determination of roll characteristics",
-      "category": "Test method",
-      "location": "Clause 6",
-      "relevance": "Used to determine the mass per unit area (GSM) of the outer carrier fabric to verify it does not exceed the maximum weight limit."
+      "target_is_code": "IS 7016 (Part 1)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 7016 (Part 2)",
-      "title": "Methods of test for coated and treated fabrics: Part 2 Determination of tensile strength and elongation at break",
-      "category": "Test method",
-      "location": "Clause 6",
-      "relevance": "Referenced to verify the minimum tensile strength of the outer carrier fabric in both warp and weft directions."
+      "target_is_code": "IS 7016 (Part 2)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 4905",
-      "title": "Random sampling and randomization procedures",
-      "category": "Normative reference",
-      "location": "Sampling guidelines",
-      "relevance": "Governs the statistical random selection of completed jackets from production batches to ensure representative sampling for ballistic proof-testing."
+      "target_is_code": "IS 4905",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes the mathematical procedures used to round off recorded bullet impact velocities and clay backing deformation measurements."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15741 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15742 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15748 : 2022",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16890 : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17286 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15741 : 2007",
-      "title": "Textiles — Resistance to Ignition of Curtains and Drapes — Specification",
-      "category": "Product specification",
-      "location": "Foreword (TXD 32 parallel)",
-      "relevance": "Sister protective textiles standard developed under the same sectional committee (TXD 32) focusing on flammability safety."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Protective Textiles (Bullet Resistant Jackets) Quality Control Amendment Order, 2024",
+      "year": 2024
     },
-    {
-      "is_number": "IS 15742 : 2007",
-      "title": "Textiles — Requirements for clothing made of limited flame spread materials and material assemblies affording protection against heat and flame — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Allied technical textile standard regulating heat and flame protective assemblies."
-    },
-    {
-      "is_number": "IS 15748 : 2022",
-      "title": "Protective Clothing for Industrial Workers Exposed to Heat — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Specifies design and performance parameters for heat-insulating industrial workwear."
-    },
-    {
-      "is_number": "IS 16890 : 2024",
-      "title": "Textiles — Protective Clothing for Firefighters — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Standard regulating active structural firefighting turnout gear, also managed under the TXD 32 protective textiles committee."
-    },
-    {
-      "is_number": "IS 17286 : 2019",
-      "title": "Textiles — Water Proof Multipurpose Rain Poncho with Convertibility as Bivouac — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Governs the technical specifications for polyamide-based multipurpose ponchos used as tactical field shelters by security forces."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Tactical Personal Protective Equipment / Ballistic Armor)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Protective Textiles (Bullet Resistant Jackets) Quality Control Amendment Order, 2024' issued by the Ministry of Textiles, Government of India, all bullet-resistant jackets manufactured, imported, distributed, or sold in India must conform to IS 17051:2018 and carry the mandatory BIS Standard Mark (ISI Mark). Overseas manufacturers must be certified under the Foreign Manufacturers Certification Scheme (FMCS). Precious metal hallmarking is completely inapplicable to synthetic polymers, ceramics, and ballistic protective equipment.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Protective Textiles (Bullet Resistant Jackets) Quality Control Amendment Order, 2024' issued by the Ministry of Textiles, Government of India, all bullet-resistant jackets manufactured, imported, distributed, or sold in India must conform to IS 17051:2018 and carry the mandatory BIS Standard Mark (ISI Mark). Overseas manufacturers must be certified under the Foreign Manufacturers Certification Scheme (FMCS). Precious metal hallmarking is completely inapplicable to synthetic polymers, ceramics, and ballistic protective equipment.",
     "requirements": [
-      {
-        "requirement_type": "Mandatory Standard Mark Scheme",
-        "detail": "Every bullet-resistant jacket must carry a permanent, prominent BIS Standard Mark (ISI Mark) stitched or labeled onto the outer carrier, Soft Armour Panel (SAP), and Hard Armour Panel (HAP), displaying the standard number (IS 17051), threat protection level, and manufacturer's license number (CM/L).",
-        "clause_reference": "Marking and Labelling clauses"
-      },
-      {
-        "requirement_type": "Balistic Component Architecture",
-        "detail": "The jacket construction must consist of three major components: a) Soft Armour Panel (SAP), providing flexible protection over front, back, sides, groin, and collar areas; b) Hard Armour Panel (HAP), consisting of front, back, and side inserts to defeat high-velocity rifle rounds; and c) Outer Carrier, constructed of heavy-duty fabric to hold the panels securely.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Outer Carrier Fabric Requirements",
-        "detail": "The outer carrier fabric must satisfy strict weight and mechanical limits: a) Mass must be a maximum of 160 g/m² (tested per IS 7016 Part 1); b) Minimum tensile strength must be 1150 N in the warp direction and 900 N in the weft direction (tested per IS 7016 Part 2).",
-        "clause_reference": "Outer carrier fabric specifications"
-      },
-      {
-        "requirement_type": "Standard Size Designations based on Girth",
-        "detail": "To ensure a correct fit and avoid protective gaps, the standard specifies 5 chest/bust girth sizes: XS (72 to 80 cm), S (above 80 to 88 cm), M (above 88 to 96 cm), L (above 96 to 104 cm), and XL (above 104 to 112 cm).",
-        "clause_reference": "Clause 5.2"
-      },
-      {
-        "requirement_type": "Ergonomic Field Trials",
-        "detail": "The completed jacket must undergo extensive ergonomic and mobility field trials conducted by security personnel. The jacket must show zero restriction of physical movements during tactical exercises (running, crawling, shooting, bending). per Amendment No. 3, the exact sequence of executing the ergonomic and ballistic testing can be decided at the user's discretion.",
-        "clause_reference": "Clause 4.7 & Amendment No. 3 Note"
-      },
-      {
-        "requirement_type": "Mandatory Behind-Armour Blunt Trauma (BFS Limit)",
-        "detail": "During ballistic proof-testing, the Back Face Signature (BFS) or depth of blunt-force indentation in the clay backing material (such as calibrated Roma Plastilina clay) must not exceed 44 mm to protect the wearer from lethal internal organ trauma.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "HAP Transport Vibration Test",
-        "detail": "To ensure that Hard Armour Panels (HAP) do not crack or structurally degrade during transport in rough field terrains, panels must undergo a mechanical transit vibration test on a vibration table operating at 5 Hz (300 RPM) for a continuous duration of 1 hour, showing zero physical damage afterwards.",
-        "clause_reference": "Testing protocols"
-      },
-      {
-        "requirement_type": "Ballistic Threat Level Classifications",
-        "detail": "The standard classifies ballistic protection into 6 distinct threat levels designed around weapons faced by Indian forces: a) Level 1: Handgun protection (tested against 9 × 19 mm Parabellum, 7.4 to 8.2 g FMJ/Lead bullet, fired at 5 meters with an impact velocity of 430 ± 15 m/s); b) Level 2: MSC AK-47 protection (tested against 7.62 × 39 mm, 7.45 to 8.05 g FMJ/MSC (Mild Steel Core) rounds, fired at 10 meters with an impact velocity of 710 ± 15 m/s); c) Level 3: HSC AK-47 or 5.56 mm INSAS rounds; d) Level 4: 7.62 × 51 mm NATO Ball rifle rounds fired at 10 meters with a velocity of 840 ± 15 m/s; e) Level 5: High-power military rifles; f) Level 6: Snipers and armor-piercing threats (tested against 7.62 × 54 R API (Armor Piercing Incendiary) rounds; corresponds to NIJ Level IV).",
-        "clause_reference": "Threat levels tables"
-      },
-      {
-        "requirement_type": "Optional Accessories and Upgrades",
-        "detail": "The standard covers design specifications for advanced tactical upgrades, including Quick Release Mechanisms (for rapid shedding of the jacket during water immersion or medical emergencies), dynamic weight distribution systems, and high-buoyancy jackets for marine operations.",
-        "clause_reference": "Clause 5"
-      }
+      "Every bullet-resistant jacket must carry a permanent, prominent BIS Standard Mark (ISI Mark) stitched or labeled onto the outer carrier, Soft Armour Panel (SAP), and Hard Armour Panel (HAP), displaying the standard number (IS 17051), threat protection level, and manufacturer's license number (CM/L).",
+      "The jacket construction must consist of three major components: a) Soft Armour Panel (SAP), providing flexible protection over front, back, sides, groin, and collar areas; b) Hard Armour Panel (HAP), consisting of front, back, and side inserts to defeat high-velocity rifle rounds; and c) Outer Carrier, constructed of heavy-duty fabric to hold the panels securely.",
+      "The outer carrier fabric must satisfy strict weight and mechanical limits: a) Mass must be a maximum of 160 g/m² (tested per IS 7016 Part 1); b) Minimum tensile strength must be 1150 N in the warp direction and 900 N in the weft direction (tested per IS 7016 Part 2).",
+      "To ensure a correct fit and avoid protective gaps, the standard specifies 5 chest/bust girth sizes: XS (72 to 80 cm), S (above 80 to 88 cm), M (above 88 to 96 cm), L (above 96 to 104 cm), and XL (above 104 to 112 cm).",
+      "The completed jacket must undergo extensive ergonomic and mobility field trials conducted by security personnel. The jacket must show zero restriction of physical movements during tactical exercises (running, crawling, shooting, bending). per Amendment No. 3, the exact sequence of executing the ergonomic and ballistic testing can be decided at the user's discretion.",
+      "During ballistic proof-testing, the Back Face Signature (BFS) or depth of blunt-force indentation in the clay backing material (such as calibrated Roma Plastilina clay) must not exceed 44 mm to protect the wearer from lethal internal organ trauma.",
+      "To ensure that Hard Armour Panels (HAP) do not crack or structurally degrade during transport in rough field terrains, panels must undergo a mechanical transit vibration test on a vibration table operating at 5 Hz (300 RPM) for a continuous duration of 1 hour, showing zero physical damage afterwards.",
+      "The standard classifies ballistic protection into 6 distinct threat levels designed around weapons faced by Indian forces: a) Level 1: Handgun protection (tested against 9 × 19 mm Parabellum, 7.4 to 8.2 g FMJ/Lead bullet, fired at 5 meters with an impact velocity of 430 ± 15 m/s); b) Level 2: MSC AK-47 protection (tested against 7.62 × 39 mm, 7.45 to 8.05 g FMJ/MSC (Mild Steel Core) rounds, fired at 10 meters with an impact velocity of 710 ± 15 m/s); c) Level 3: HSC AK-47 or 5.56 mm INSAS rounds; d) Level 4: 7.62 × 51 mm NATO Ball rifle rounds fired at 10 meters with a velocity of 840 ± 15 m/s; e) Level 5: High-power military rifles; f) Level 6: Snipers and armor-piercing threats (tested against 7.62 × 54 R API (Armor Piercing Incendiary) rounds; corresponds to NIJ Level IV).",
+      "The standard covers design specifications for advanced tactical upgrades, including Quick Release Mechanisms (for rapid shedding of the jacket during water immersion or medical emergencies), dynamic weight distribution systems, and high-buoyancy jackets for marine operations."
     ]
   },
-  "keywords": [
-    "IS 17051:2018",
-    "Bullet Resistant Jackets",
-    "BRJ",
-    "Ballistic Protection",
-    "Soft Armour Panel (SAP)",
-    "Hard Armour Panel (HAP)",
-    "Behind Armour Blunt Trauma (BFS)",
-    "Roma Plastilina Clay",
-    "44 mm BFS limit",
-    "Vibration Transport Test",
-    "Threat Level 1 to 6",
-    "7.62 x 54 R API",
-    "7.62 x 39 MSC",
-    "Quick Release Mechanism",
-    "Protective Textiles QCO 2024",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 17051 : 2018 is the strict national Indian Standard safety specification governing bullet-resistant jackets (BRJs) used by defense forces, police, and law enforcement teams. Under India's mandatory Protective Textiles Quality Control Order (QCO), all bullet-resistant jackets sold or supplied in the domestic market must carry the Bureau of Indian Standards Standard Mark (ISI Mark). It outlines 6 specific threat levels customized to combat the exact handguns, carbines, assault rifles (such as AK-47 MSC and HSC), and sniper rounds (including 7.62×54 R API at Level 6) encountered by Indian frontline forces. It enforces a strict behind-armor blunt trauma limit of 44 mm in calibrated clay, a transport vibration trial to prevent armor cracking, and a rigorous ergonomic field test. Amendment No. 3 (October 2023) adds flexibility by permitting users to decide the sequence of ergonomic and ballistic testing and allowing buyers to customize outer carrier designs for specific operational demands."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "17051_amd3.pdf",
     "document_version_edition": "First Edition, December 2018 (incorporating Amendment No. 1, 2, and Amendment No. 3, October 2023)"
   }

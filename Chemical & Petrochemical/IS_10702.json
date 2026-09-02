@@ -1,208 +1,141 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10702 : 2023",
-    "full_title": "Hawai Chappal — Specification (Third Revision)",
-    "sector_category": "Footwear (approved by the Chemical Division Council and finalized by the Footwear Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "61.060",
+  "standard": {
+    "is_code": "IS 10702:2023",
+    "title": "Hawai Chappal — Specification (Third Revision)",
+    "sector": "Footwear",
+    "ics_code": [
+      "61.060"
+    ],
     "sectional_committee": {
       "name": "Footwear Sectional Committee",
       "number": "CHD 19"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, sampling guidelines, and testing methods for Hawai Chappals designed for everyday, light-duty consumer use. It covers footwear manufactured from vulcanized rubber, thermoplastic rubber (TPR), ethylene vinyl acetate (EVA), polyurethane (PU), thermoplastic polyurethane (TPU), or other polymeric materials and their combinations.",
+    "scope": "This standard specifies the requirements, sampling guidelines, and testing methods for Hawai Chappals designed for everyday, light-duty consumer use. It covers footwear manufactured from vulcanized rubber, thermoplastic rubber (TPR), ethylene vinyl acetate (EVA), polyurethane (PU), thermoplastic polyurethane (TPU), or other polymeric materials and their combinations.",
+    "keywords": [
+      "IS 10702:2023",
+      "Hawai Chappal",
+      "Rubber Slipper",
+      "Polymeric Footwear",
+      "Sole Thickness",
+      "Density Formula",
+      "Compression Set",
+      "Slip Resistance (COF)",
+      "Strap Breaking Strength",
+      "Lead Content limit 2 ppm",
+      "Kids size 220 mm last",
+      "Footwear QCO 2024",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, sampling guidelines, and testing methods for Hawai Chappals designed for everyday, light-duty consumer use. It covers footwear manufactured from vulcanized rubber, thermoplastic rubber (TPR), ethylene vinyl acetate (EVA), polyurethane (PU), thermoplastic polyurethane (TPU), or other polymeric materials and their combinations.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Third Revision, 2023 (incorporating Amendment No. 1, January 2024 and Amendment No. 2, October 2025)",
-    "year_first_published": "1985",
+  "version": {
+    "current_version": "Third Revision, 2023 (incorporating Amendment No. 1, January 2024 and Amendment No. 2, October 2025)",
+    "first_publication_year": 1985,
+    "publication_year": 2023,
+    "revision": "Third Edition (expanded to include all polymeric materials)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1985"
-      },
-      {
-        "edition": "Second Edition (Rubber Hawai Chappal)",
-        "year": "1992"
-      },
-      {
-        "edition": "Third Edition (expanded to include all polymeric materials)",
-        "year": "2023"
-      }
+      "First Edition, 1985",
+      "Second Edition (Rubber Hawai Chappal), 1992",
+      "Third Edition (expanded to include all polymeric materials), 2023"
     ],
-    "supersedes": "IS 10702 : 1992",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 10702 : 1992"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "January 2024",
-        "description": "Establishes English footwear sizing ranges as per IS 1638; splits adult footwear into Type 1 (uniform sole thickness) and Type 2 (tapered sole design); removes Fig. 2; and permits strap wing thickness to be mutually agreed between manufacturers and buyers."
+        "amendment_number": "Amendment 1",
+        "date": "2024-01",
+        "summary": "Establishes English footwear sizing ranges as per IS 1638; splits adult footwear into Type 1 (uniform sole thickness) and Type 2 (tapered sole design); removes Fig. 2; and permits strap wing thickness to be mutually agreed between manufacturers and buyers."
       },
       {
-        "amendment_number": "Amendment No. 2",
-        "date": "October 2025",
-        "description": "Substitutes Clause 4 to define Kids vs. Adults categories strictly based on a 220 mm last length threshold [1]; deletes Clause 5 [1]; inserts a mandatory slip-resistance (coefficient of friction) requirement of minimum 0.3 for Adults (Type 1) on quarry tiles [1]; limits Table 2 (iii) heavy metals and chemical markers specifically to PVC strap materials [1]; and completely replaces density calculation formulas under Clause C-2.6 and C-2.7 [1, 2]."
+        "amendment_number": "Amendment 2",
+        "date": "2025-10",
+        "summary": "Substitutes Clause 4 to define Kids vs. Adults categories strictly based on a 220 mm last length threshold [1]; deletes Clause 5 [1]; inserts a mandatory slip-resistance (coefficient of friction) requirement of minimum 0.3 for Adults (Type 1) on quarry tiles [1]; limits Table 2 (iii) heavy metals and chemical markers specifically to PVC strap materials [1]; and completely replaces density calculation formulas under Clause C-2.6 and C-2.7 [1, 2]."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 1638",
-      "title": "Specification for sizes and fittings of footwear",
-      "category": "Normative reference",
-      "location": "Clause 4 (Amended) / Table 1",
-      "relevance": "Provides the baseline physical dimensions and English size designations for kids and adults footwear [1]."
+      "target_is_code": "IS 1638",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 15844 (Part 1) : 2023",
-      "title": "Sports Footwear — Specification, Part 1: General Purpose",
-      "category": "Test method",
-      "location": "Table 1 (Amended, Sl No. ix)",
-      "relevance": "Its Annex E is mandated as the standard test method to evaluate the dynamic coefficient of friction (COF) for slip resistance [1]."
+      "target_is_code": "IS 15844 (Part 1) : 2023",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3400 (Part 3) / ISO 4649",
-      "title": "Methods of test for vulcanized rubbers — Part 3: Abrasion resistance using a rotating cylindrical drum device",
-      "category": "Test method",
-      "location": "Table 1 (Sl No. v)",
-      "relevance": "Prescribes the laboratory test procedure and drum parameters to evaluate outsole abrasion wear."
+      "target_is_code": "IS 3400 (Part 3) / ISO 4649",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3400 (Part 16)",
-      "title": "Methods of test for vulcanized rubbers — Part 16: Flexing resistance (Ross flexing machine)",
-      "category": "Test method",
-      "location": "Table 1 (Sl No. vi)",
-      "relevance": "Specifies the technical apparatus and cyclic benchmarking to determine resistance to flex cracking."
+      "target_is_code": "IS 3400 (Part 16)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 4905",
-      "title": "Random sampling and randomization procedures",
-      "category": "Normative reference",
-      "location": "Clause 10.1 (a)",
-      "relevance": "Controls the selection of representative sample boxes from manufactured consignments using random number tables."
+      "target_is_code": "IS 4905",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes the mathematical rules for rounding off final test results to determine code conformity."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15844 (Part 1) : 2023",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17043 (Part 2) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12254",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15636 : 2022",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17286 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15844 (Part 1) : 2023",
-      "title": "Sports Footwear — Specification, Part 1: General Purpose",
-      "category": "Product specification",
-      "location": "Referenced on Page 1 of Amendment No. 2",
-      "relevance": "The national safety and material specification for general-purpose sports shoes, present in the notebook and referenced for slip resistance [1]."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Quality Control Order",
+      "year": 2024
     },
-    {
-      "is_number": "IS 17043 (Part 2) : 2024",
-      "title": "Shoes — Specification, Part 2: Shoes for General Purpose",
-      "category": "Product specification",
-      "location": "Parallel electrotechnical/rubber group",
-      "relevance": "Specifies physical and mechanical requirements for everyday formal and casual shoes, present in the notebook."
-    },
-    {
-      "is_number": "IS 12254",
-      "title": "Polyvinyl Chloride (PVC) Industrial Boots — Specification",
-      "category": "Product specification",
-      "location": "Parallel polymeric group",
-      "relevance": "Governs the material performance and leakage safety of molded PVC gumboots, present in the notebook."
-    },
-    {
-      "is_number": "IS 15636 : 2022",
-      "title": "Pneumatic Tyres for Commercial Vehicles — Specification",
-      "category": "Product specification",
-      "location": "Parallel rubber group",
-      "relevance": "The national standard regulating heavy-duty vulcanized rubber tires, sharing test and compound aging methodologies with polymeric footwear, present in the notebook."
-    },
-    {
-      "is_number": "IS 17286 : 2019",
-      "title": "Textiles — Water Proof Multipurpose Rain Poncho with Convertibility as Bivouac — Specification",
-      "category": "Product specification",
-      "location": "Parallel protective group",
-      "relevance": "Specifies waterproof materials and polymer coatings for outdoor protective gear used by security forces, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Footwear / Polymeric & Rubber Products)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Footwear made from All Rubber and all Polymeric Material and its Components (Quality Control) Order' (QCO 2024) issued by the Ministry of Commerce and Industry, Government of India, all Hawai Chappals manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Micro and small scale units are granted specific delayed implementation schedules, and export shipments are exempt. Precious metal hallmarking is completely inapplicable to molded rubber/polymeric footwear.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Footwear made from All Rubber and all Polymeric Material and its Components (Quality Control) Order' (QCO 2024) issued by the Ministry of Commerce and Industry, Government of India, all Hawai Chappals manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Micro and small scale units are granted specific delayed implementation schedules, and export shipments are exempt. Precious metal hallmarking is completely inapplicable to molded rubber/polymeric footwear.",
     "requirements": [
-      {
-        "requirement_type": "Mandatory Standard Mark Scheme",
-        "detail": "Every pair of Hawai Chappals must be legibly and indelibly marked on the outer waist of the sole and the inner face of the straps with the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
-        "clause_reference": "Marking & Labelling clauses"
-      },
-      {
-        "requirement_type": "Kids vs. Adults Size Categorisation",
-        "detail": "Under Amendment No. 2, footwear size categories are strictly split: a) Kids: Standard English sizes for infants and children up to 220 mm last length; b) Adults: Standard English sizes above 220 mm last length [1].",
-        "clause_reference": "Clause 4 (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2"
-      },
-      {
-        "requirement_type": "Mandatory Dynamic Slip Resistance (Table 1)",
-        "detail": "Adults (Type 1) Hawai Chappals must satisfy a dynamic slip-resistance coefficient of friction (COF) of minimum 0.3 when tested on wet quarry tiles [1]. This test is not applicable to kids' sizes, Adults (Type 2), or if the chappal features a leather sole [1].",
-        "clause_reference": "Table 1, Sl No. ix (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2"
-      },
-      {
-        "requirement_type": "Bottom Material Physical Requirements (Table 1)",
-        "detail": "The outsole/bottom material must be homogeneous, free from blisters, cavities, or collapses. Key mechanical boundaries include: a) Minimum overall sole thickness: 8.0 mm; b) Bottom density: minimum 0.15 g/cm³; c) Compression set at constant deflection: maximum 50.0%; d) High resistance to abrasion wear and cyclic flex cracking.",
-        "clause_reference": "Table 1 & Clause 4.4"
-      },
-      {
-        "requirement_type": "Strap Material Physical Requirements (Table 2)",
-        "detail": "The strap must exhibit robust tensile properties: a) Strap-to-strap breaking strength: minimum 30 kg (294 N) at the V-shape junction; b) Toe-post to strap breaking strength: minimum 10 kg (98 N); c) Elongation at break: minimum 250% for solid straps. Under Amendment No. 2, Table 2 (iii) chemical restrictions are applicable specifically to PVC strap materials only [1].",
-        "clause_reference": "Table 2, Sl No. iii (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2"
-      },
-      {
-        "requirement_type": "Chemical Safety / Low-Lead Limits",
-        "detail": "To prevent toxic heavy metal exposure, the lead content of the strap material must be extremely low, not exceeding a strict limit of 2 ppm.",
-        "clause_reference": "Table 2 (Chemical requirements)"
-      },
-      {
-        "requirement_type": "Rectangular Specimen Density Formula (Clause C-2.6)",
-        "detail": "Density is mathematically calculated using the revised formula: Density (g/cm³) = (1 000 * F) / (T * W * L), where F is mass (g), T is average thickness of five readings (mm), W is average of four width measurements (mm), and L is length of the two shorter edges (mm) [1].",
-        "clause_reference": "Clause C-2.6 (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2"
-      },
-      {
-        "requirement_type": "Circular Specimen Density Formula (Clause C-2.7)",
-        "detail": "Density is mathematically calculated using the revised formula: Density (g/cm³) = (F * 4 000) / (3.14 * [D * D * T]), where F is mass (g), D is average of three diameter readings (mm), and T is average of five thickness readings (mm) [2].",
-        "clause_reference": "Clause C-2.7 (Amended)",
-        "page_reference": "Page 2 of Amendment No. 2"
-      },
-      {
-        "requirement_type": "Lot Sampling & Acceptance Scale",
-        "detail": "Random roll selection from a lot must conform to Table 3 based on roll quantity: up to 50 rolls (select 3, allowed defectives = 0), 51-150 (select 5, allowed defectives = 0), 151-300 (select 8, allowed defectives = 0), and 301 or more (select 13, allowed defectives = 0) [3].",
-        "clause_reference": "Clause 10.1 & Table 3",
-        "page_reference": "Page 12 of base standard"
-      }
+      "Every pair of Hawai Chappals must be legibly and indelibly marked on the outer waist of the sole and the inner face of the straps with the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+      "Under Amendment No. 2, footwear size categories are strictly split: a) Kids: Standard English sizes for infants and children up to 220 mm last length; b) Adults: Standard English sizes above 220 mm last length [1].",
+      "Adults (Type 1) Hawai Chappals must satisfy a dynamic slip-resistance coefficient of friction (COF) of minimum 0.3 when tested on wet quarry tiles [1]. This test is not applicable to kids' sizes, Adults (Type 2), or if the chappal features a leather sole [1].",
+      "The outsole/bottom material must be homogeneous, free from blisters, cavities, or collapses. Key mechanical boundaries include: a) Minimum overall sole thickness: 8.0 mm; b) Bottom density: minimum 0.15 g/cm³; c) Compression set at constant deflection: maximum 50.0%; d) High resistance to abrasion wear and cyclic flex cracking.",
+      "The strap must exhibit robust tensile properties: a) Strap-to-strap breaking strength: minimum 30 kg (294 N) at the V-shape junction; b) Toe-post to strap breaking strength: minimum 10 kg (98 N); c) Elongation at break: minimum 250% for solid straps. Under Amendment No. 2, Table 2 (iii) chemical restrictions are applicable specifically to PVC strap materials only [1].",
+      "To prevent toxic heavy metal exposure, the lead content of the strap material must be extremely low, not exceeding a strict limit of 2 ppm.",
+      "Density is mathematically calculated using the revised formula: Density (g/cm³) = (1 000 * F) / (T * W * L), where F is mass (g), T is average thickness of five readings (mm), W is average of four width measurements (mm), and L is length of the two shorter edges (mm) [1].",
+      "Density is mathematically calculated using the revised formula: Density (g/cm³) = (F * 4 000) / (3.14 * [D * D * T]), where F is mass (g), D is average of three diameter readings (mm), and T is average of five thickness readings (mm) [2].",
+      "Random roll selection from a lot must conform to Table 3 based on roll quantity: up to 50 rolls (select 3, allowed defectives = 0), 51-150 (select 5, allowed defectives = 0), 151-300 (select 8, allowed defectives = 0), and 301 or more (select 13, allowed defectives = 0) [3]."
     ]
   },
-  "keywords": [
-    "IS 10702:2023",
-    "Hawai Chappal",
-    "Rubber Slipper",
-    "Polymeric Footwear",
-    "Sole Thickness",
-    "Density Formula",
-    "Compression Set",
-    "Slip Resistance (COF)",
-    "Strap Breaking Strength",
-    "Lead Content limit 2 ppm",
-    "Kids size 220 mm last",
-    "Footwear QCO 2024",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 10702 : 2023 is the mandatory national Indian Standard specification establishing physical, mechanical, and safety requirements for everyday Hawai Chappals (rubber or polymeric slippers). Under India's statutory Footwear Quality Control Order (QCO), all Hawai Chappals supplied to the domestic market must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). Amendment No. 2 (October 2025) introduces critical updates, defining Kids' vs. Adults' footwear sizes based on a 220 mm last length threshold [1] and enforcing a new dynamic slip-resistance requirement of at least 0.3 coefficient of friction (COF) for adult Type 1 slippers [1]. It also mandates high strap-to-strap tensile limits (minimum 30 kg), limits toxic heavy-metal lead content in straps to 2 ppm, and provides highly specific formulas for calculating specimen densities to prevent the blending of low-grade, brittle polymeric fillers [1, 2]."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10702_amd2.pdf",
     "document_version_edition": "Third Revision, 2023 (incorporating Amendment No. 1, January 2024 and Amendment No. 2, October 2025)"
   }

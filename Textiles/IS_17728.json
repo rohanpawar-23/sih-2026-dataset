@@ -1,194 +1,130 @@
 {
-  "basic_identification": {
-    "is_number": "IS 17728 : 2021",
-    "full_title": "Agro Textiles — HDPE Laminated Woven Lay Flat Tube and Its Fittings for Use in Rain Irrigation System — Specification",
-    "sector_category": "Technical Textiles / Technical Textiles for Agro-tech (approved by the Textile Division Council and finalized by the Technical Textiles for Agro-tech Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "59.080.70; 65.060.35",
+  "standard": {
+    "is_code": "IS 17728:2021",
+    "title": "Agro Textiles — HDPE Laminated Woven Lay Flat Tube and Its Fittings for Use in Rain Irrigation System — Specification",
+    "sector": "Technical Textiles / Technical Textiles for Agro-tech",
+    "ics_code": [
+      "59.080.70",
+      "65.060.35"
+    ],
     "sectional_committee": {
       "name": "Technical Textiles for Agro-Tech Sectional Committee",
       "number": "TXD 35"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements, dimensions, testing methods, and field installation guidelines for UV-stabilized high-density polyethylene (HDPE) laminated woven lay flat tubes (commonly referred to as rain pipes or perforated lay flat tubes) and their fittings used in rain irrigation systems.",
+    "scope": "This standard specifies requirements, dimensions, testing methods, and field installation guidelines for UV-stabilized high-density polyethylene (HDPE) laminated woven lay flat tubes (commonly referred to as rain pipes or perforated lay flat tubes) and their fittings used in rain irrigation systems.",
+    "keywords": [
+      "IS 17728 : 2021",
+      "HDPE Lay Flat Tube",
+      "Rain Pipe",
+      "Rain Irrigation System",
+      "Water Flow Rate",
+      "Working Pressure",
+      "Index Puncture Resistance",
+      "U-Bends Test",
+      "Hole Diameter Change",
+      "Rodent Protection",
+      "TXD 35",
+      "Agro Textiles QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements, dimensions, testing methods, and field installation guidelines for UV-stabilized high-density polyethylene (HDPE) laminated woven lay flat tubes (commonly referred to as rain pipes or perforated lay flat tubes) and their fittings used in rain irrigation systems.",
-    "clause_number": "Clauses 1.1 & 1.2 (Implied)",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 2021 (Reaffirmed in 2025)",
-    "year_first_published": "2021",
+  "version": {
+    "current_version": "First Edition, 2021 (Reaffirmed in 2025)",
+    "first_publication_year": 2021,
+    "publication_year": 2021,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2021"
-      }
+      "First Edition, 2021"
     ],
-    "supersedes": "N/A (Newly formulated agrotech standard to govern the high-growth rain-pipe micro-irrigation sector in India)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 6192",
-      "title": "Monoaxially oriented high density polyethylene tapes",
-      "category": "Raw material standard",
-      "location": "Clause 4.1",
-      "relevance": "Prescribes standard properties of HDPE granules used to manufacture high-strength tapes."
-    },
-    {
-      "is_number": "IS 2530",
-      "title": "Methods of test for polyethylene moulding materials and polyethylene compounds",
-      "category": "Chemical testing",
-      "location": "Clause 4.1",
-      "relevance": "Referenced for testing carbon black content percentage and verifying dispersion consistency in HDPE tapes."
-    },
-    {
-      "is_number": "IS 16627",
-      "title": "Agro Textiles — High density polyethylene (HDPE) laminated woven lay flat tube for use in mains and submains of drip irrigation system",
-      "category": "Allied piping standard",
-      "location": "Annex K, Clause K-1 (a)",
-      "relevance": "Governs the technical specifications of main and sub-main lines connected to the perforated lay flat tubes."
-    },
-    {
-      "is_number": "IS 105-B02 : 2014",
-      "title": "Textiles — Tests for colour fastness: Part B02 Colour fastness to artificial light : Xenon arc fading lamp test",
-      "category": "Colourfastness testing",
-      "location": "Annex A",
-      "relevance": "Prescribes xenon arc fading lamp exposure tests to determine colour fastness properties of agricultural fabrics under solar radiation."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 16513 : 2016",
-      "title": "Agro Textiles — Insect Nets for Agriculture and Horticulture Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel agrotech group",
-      "relevance": "A sister technical textile standard regulating crop protection mesh panels under the TXD 35 committee, present in the notebook."
-    },
-    {
-      "is_number": "IS 16718 : 2021",
-      "title": "Textiles — Polypropylene Spun Bonded Non-Woven Crop Covers and Fruit Skirting Bags — Specification",
-      "category": "Product specification",
-      "location": "Parallel agrotech group",
-      "relevance": "A sister agrotech standard regulating spun-bonded crop covers and fruit protective wraps, present in the notebook."
-    },
-    {
-      "is_number": "IS 16202 : 2014",
-      "title": "Agro Textiles — Woven Ground Covers for Horticulture Application — Specification",
-      "category": "Product specification",
-      "location": "Parallel agrotech group",
-      "relevance": "A sister standard regulating ground covers and weed mats, present in the notebook."
-    },
-    {
-      "is_number": "IS 17070 : 2019",
-      "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
-      "category": "Product specification",
-      "location": "Parallel agrotech group",
-      "relevance": "A parallel biodegradable agrotech standard regulating soil stabilization and natural mulching rolls, present in the notebook."
-    },
-    {
-      "is_number": "IS 17356 : 2020",
-      "title": "Agro Textiles — Windshield Nets for Agriculture and Horticulture Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel agrotech group",
-      "relevance": "A related technical textile standard for crop-protecting wind barriers, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Agrotech Textiles / Micro-Irrigation Systems)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (Agrotech QCO) issued by the Ministry of Textiles, Government of India, all HDPE laminated woven lay flat tubes and fittings supplied for rain irrigation systems must conform to IS 17728:2021 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified rain pipes in India is a statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to synthetic irrigation piping systems.",
-    "requirements": [
+    "supersedes": [
+      "N/A (Newly formulated agrotech standard to govern the high-growth rain-pipe micro-irrigation sector in India)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Each dispatched bundle or roll of lay flat tube must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 17728).",
-        "clause_reference": "Marking clauses"
-      },
-      {
-        "requirement_type": "Raw Material Quality - HDPE Tapes",
-        "detail": "Tapes used in weaving the fabric must be manufactured from UV-stabilized high-density polyethylene granules. If carbon black is added, it must contain a minimum of 2.5 percent of carbon black by mass with satisfactory dispersion tested per IS 2530. The tape width must be at least 2.0 mm, and linear density must be at least 77.7 Tex (700 Denier).",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Range of Working Pressure",
-        "detail": "The manufacturer must declare the range of working pressure between the minimum working pressure (Pmin) and maximum working pressure (Pmax) within which the perforated lay flat tube operates effectively.",
-        "clause_reference": "Clause 3.11"
-      },
-      {
-        "requirement_type": "Warp-way & Weft-way Tensile Breaking Strength",
-        "detail": "The woven lay flat tube fabric must demonstrate high breaking strength. Average breaking strength in N must be determined under standard crosshead traverse speeds of 300 ± 15 mm/min.",
-        "clause_reference": "Annex B"
-      },
-      {
-        "requirement_type": "Index Puncture Resistance Test",
-        "detail": "The fabric must resist physical puncture. Average puncture resistance must be calculated from 5 tested specimens clamped in a circular ring clamp (grooved with an O-ring or sandpaper) using a solid steel rod plunge attached to a load indicator.",
-        "clause_reference": "Annex C"
-      },
-      {
-        "requirement_type": "Bending Flexibility (U-Bends Test)",
-        "detail": "The lay flat tube specimen must pass bending tests without physical cracking. It passes if none of the first 10 bends fails, or not more than 2 fail in a total sample of 20 bends.",
-        "clause_reference": "Annex E, Clauses E-6 & E-7"
-      },
-      {
-        "requirement_type": "Hole Behavior at High Pressure and Temperature",
-        "detail": "To prevent orifice tearing or warping under severe summer sun, hot water is circulated through a 1-meter sample at maximum working pressure (Pmax). The percentage change in hole diameter must be less than 5 percent.",
-        "clause_reference": "Annex H, Clauses H-1, H-2 & H-4.9"
-      },
-      {
-        "requirement_type": "Water Flow Rate Accuracy",
-        "detail": "Water flow rate is measured in litres per hour per metre (l/h/m) across the declared working pressure range (Pmin, Pnom, Pmax). Flow rates for nominal diameters—including standard sizes 32 mm and 40 mm—must stay within ±5 percent of the manufacturer's declared value.",
-        "clause_reference": "Clauses 6.12, J-1 & Table 6"
-      },
-      {
-        "requirement_type": "Farthest Water Throw Test",
-        "detail": "Under nominal working pressure, a 40 m length (for 32 mm size) or 45 m length (for 40 mm size) lay flat tube is tested on flat ground. The farthest spray throw distance must meet specified agricultural irrigation bounds.",
-        "clause_reference": "Annex F"
-      },
-      {
-        "requirement_type": "Rain Irrigation System Kit Components",
-        "detail": "A standard commercial rain pipe kit consists of: a) Main/Sub-main line (IS 16627); b) Perforated lay flat tube; c) Pump-to-main line connectors; d) Sub-main-to-lay flat tube connectors; e) Tube-to-tube jointers.",
-        "clause_reference": "Annex K, Clause K-1"
-      },
-      {
-        "requirement_type": "Drying and Rodent Protection",
-        "detail": "Prior to storage, the entire system must be dried completely. The lay flat tube must be stored securely to prevent structural damage from rodents.",
-        "clause_reference": "Annex K, Clause K-3.7"
-      },
-      {
-        "requirement_type": "Main/Sub-main to Tube Connections",
-        "detail": "The sub-main line is branched using metal or plastic TEEs based on internal diameter (e.g. 75mm x 63mm for a 75mm main). Hoses are secured on connectors up to the rubber flat ring and tightened with clamps to guarantee no leakage.",
-        "clause_reference": "Annex K, Connection methods"
-      },
-      {
-        "requirement_type": "Rain Pipe Start Connector Connection",
-        "detail": "For assembly, the lock ring must be pulled forward, the rain pipe put on the start connector, and the ring pulled backward towards the rain pipe properly to ensure no leakage.",
-        "clause_reference": "Annex K, Connection methods"
-      },
-      {
-        "requirement_type": "Lot Sampling Scale and Defective Allowances (Table 7)",
-        "detail": "Lots are grouped by identical construction and types. Random samples are selected for visual/dimensional and performance testing:\n- Up to 50 rolls: Sample size = 3, Permissible defective rolls = 0;\n- 51 to 150 rolls: Sample size = 5, Permissible defective rolls = 0;\n- 151 to 300 rolls: Sample size = 8, Permissible defective rolls = 1 (Acceptance No. = 1, Rejection No. = 3);\n- 301 to 500 rolls: Sample size = 13, Permissible defective rolls = 2;\n- 501 rolls and above: Sample size = 20, Permissible defective rolls = 3.",
-        "clause_reference": "Clause 13 & Table 7"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 17728 : 2021",
-    "HDPE Lay Flat Tube",
-    "Rain Pipe",
-    "Rain Irrigation System",
-    "Water Flow Rate",
-    "Working Pressure",
-    "Index Puncture Resistance",
-    "U-Bends Test",
-    "Hole Diameter Change",
-    "Rodent Protection",
-    "TXD 35",
-    "Agro Textiles QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 6192",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2530",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16627",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 105-B02 : 2014",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16513 : 2016",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16718 : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16202 : 2014",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17070 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17356 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 17728 : 2021 is the mandatory national Indian Standard specification governing UV-stabilized high-density polyethylene (HDPE) laminated woven lay flat tubes (popularly known as rain pipes) and their fittings used in agricultural rain irrigation systems. Approved under the Agrotech Sectional Committee (TXD 35), all such irrigation piping kits supplied or sold in India must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). It regulates pipe construction—requiring high-strength woven HDPE tapes (minimum 2.0 mm width and 700 Denier)—and enforces strict performance controls, including water flow rate accuracies of ±5%, a maximum 5% change in hole behavior under high temperature and working pressure, robust index puncture resistance, and bend flexibility (U-bend test) to ensure maximum life under severe solar and soil exposures. It also details precise, step-by-step methods for branching lines, secure jointing, and rodent-proof storage."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Agro Textiles (Quality Control) Order",
+      "year": 2021
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Agro Textiles (Quality Control) Order' (Agrotech QCO) issued by the Ministry of Textiles, Government of India, all HDPE laminated woven lay flat tubes and fittings supplied for rain irrigation systems must conform to IS 17728:2021 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified rain pipes in India is a statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to synthetic irrigation piping systems.",
+    "requirements": [
+      "Each dispatched bundle or roll of lay flat tube must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 17728).",
+      "Tapes used in weaving the fabric must be manufactured from UV-stabilized high-density polyethylene granules. If carbon black is added, it must contain a minimum of 2.5 percent of carbon black by mass with satisfactory dispersion tested per IS 2530. The tape width must be at least 2.0 mm, and linear density must be at least 77.7 Tex (700 Denier).",
+      "The manufacturer must declare the range of working pressure between the minimum working pressure (Pmin) and maximum working pressure (Pmax) within which the perforated lay flat tube operates effectively.",
+      "The woven lay flat tube fabric must demonstrate high breaking strength. Average breaking strength in N must be determined under standard crosshead traverse speeds of 300 ± 15 mm/min.",
+      "The fabric must resist physical puncture. Average puncture resistance must be calculated from 5 tested specimens clamped in a circular ring clamp (grooved with an O-ring or sandpaper) using a solid steel rod plunge attached to a load indicator.",
+      "The lay flat tube specimen must pass bending tests without physical cracking. It passes if none of the first 10 bends fails, or not more than 2 fail in a total sample of 20 bends.",
+      "To prevent orifice tearing or warping under severe summer sun, hot water is circulated through a 1-meter sample at maximum working pressure (Pmax). The percentage change in hole diameter must be less than 5 percent.",
+      "Water flow rate is measured in litres per hour per metre (l/h/m) across the declared working pressure range (Pmin, Pnom, Pmax). Flow rates for nominal diameters—including standard sizes 32 mm and 40 mm—must stay within ±5 percent of the manufacturer's declared value.",
+      "Under nominal working pressure, a 40 m length (for 32 mm size) or 45 m length (for 40 mm size) lay flat tube is tested on flat ground. The farthest spray throw distance must meet specified agricultural irrigation bounds.",
+      "A standard commercial rain pipe kit consists of: a) Main/Sub-main line (IS 16627); b) Perforated lay flat tube; c) Pump-to-main line connectors; d) Sub-main-to-lay flat tube connectors; e) Tube-to-tube jointers.",
+      "Prior to storage, the entire system must be dried completely. The lay flat tube must be stored securely to prevent structural damage from rodents.",
+      "The sub-main line is branched using metal or plastic TEEs based on internal diameter (e.g. 75mm x 63mm for a 75mm main). Hoses are secured on connectors up to the rubber flat ring and tightened with clamps to guarantee no leakage.",
+      "For assembly, the lock ring must be pulled forward, the rain pipe put on the start connector, and the ring pulled backward towards the rain pipe properly to ensure no leakage.",
+      "Lots are grouped by identical construction and types. Random samples are selected for visual/dimensional and performance testing:\n- Up to 50 rolls: Sample size = 3, Permissible defective rolls = 0;\n- 51 to 150 rolls: Sample size = 5, Permissible defective rolls = 0;\n- 151 to 300 rolls: Sample size = 8, Permissible defective rolls = 1 (Acceptance No. = 1, Rejection No. = 3);\n- 301 to 500 rolls: Sample size = 13, Permissible defective rolls = 2;\n- 501 rolls and above: Sample size = 20, Permissible defective rolls = 3."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "17728.pdf",
     "document_version_edition": "First Edition, 2021"
   }

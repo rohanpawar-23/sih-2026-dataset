@@ -1,176 +1,142 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14592 (Part 1) : 1998",
-    "full_title": "Planning and Design of Barrage Power Houses — Guidelines — Part 1: Investigation, Planning and Layout (बैराज बिजली घरों का नियोजन और डिजाइन — मार्गदर्शी सिद्धांत — भाग 1: अन्वेषण, नियोजन और लेआउट)",
-    "sector_category": "Water Resources / Hydropower Structures (approved by the Water Resources Division Council and finalized by the River Training and Diversion Works Sectional Committee, WRD 22, of the Bureau of Indian Standards)",
-    "ics_code": "93.160; 27.140",
+  "standard": {
+    "is_code": "IS 14592 (Part 1):1998",
+    "title": "Planning and Design of Barrage Power Houses — Guidelines — Part 1: Investigation, Planning and Layout (बैराज बिजली घरों का नियोजन और डिजाइन — मार्गदर्शी सिद्धांत — भाग 1: अन्वेषण, नियोजन और लेआउट)",
+    "sector": "Water Resources / Hydropower Structures",
+    "ics_code": [
+      "93.160",
+      "27.140"
+    ],
     "sectional_committee": {
       "name": "River Training and Diversion Works Sectional Committee",
       "number": "WRD 22"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies standard guidelines, parameters, data requirements, and layout criteria for planning and designing river powerhouses integrated with barrages (barrage powerhouses) to optimize water utilization, determine power-generation layouts, and establish geotechnical and hydrological design boundaries.",
+    "scope": "This standard specifies standard guidelines, parameters, data requirements, and layout criteria for planning and designing river powerhouses integrated with barrages (barrage powerhouses) to optimize water utilization, determine power-generation layouts, and establish geotechnical and hydrological design boundaries.",
+    "keywords": [
+      "IS 14592 : 1998",
+      "Barrage Powerhouse",
+      "River Powerhouses",
+      "Site Investigation",
+      "High Flood Level",
+      "Gauge Discharge Relation",
+      "Daily Rainfall",
+      "Catchment Area",
+      "10-daily Withdrawals",
+      "WRD 22",
+      "Water Resources Planning"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies standard guidelines, parameters, data requirements, and layout criteria for planning and designing river powerhouses integrated with barrages (barrage powerhouses) to optimize water utilization, determine power-generation layouts, and establish geotechnical and hydrological design boundaries.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1998 (Reaffirmed 2023)",
-    "year_first_published": "1998",
+  "version": {
+    "current_version": "First Edition, 1998 (Reaffirmed 2023)",
+    "first_publication_year": 1998,
+    "publication_year": 1998,
+    "revision": "First Edition (IS 14592 (Part 1) : 1998)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 14592 (Part 1) : 1998)",
-        "year": "1998"
-      }
+      "First Edition (IS 14592 (Part 1) : 1998), 1998"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1498 : 1970",
-      "title": "Classification and identification of soils for general engineering purposes (first revision)",
-      "category": "Geotechnical standard",
-      "relevance": "Provides the baseline engineering soil classification used to evaluate barrage powerhouse foundation materials."
-    },
-    {
-      "is_number": "IS 1892 : 2021",
-      "title": "Subsurface investigation for foundations — Code of practice (second revision)",
-      "category": "Geotechnical standard",
-      "relevance": "Specifies techniques and layouts for drilling, boring, and soil sampling required during powerhouse site investigations."
-    },
-    {
-      "is_number": "IS 7720 : 1991",
-      "title": "Criteria for investigation, planning and layout for barrages and weirs",
-      "category": "Design standard",
-      "relevance": "Establishes unified criteria for layout planning of diversion headworks that must integrate seamlessly with the barrage powerhouse structure."
-    },
-    {
-      "is_number": "IS 15662 : 2006",
-      "title": "Geological exploration for gravity dams and overflow structures — Code of practice",
-      "category": "Exploration standard",
-      "relevance": "Regulates systematic rock mass exploration, mapping, and core recovery protocols."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 12720 : 2004",
-      "title": "Criteria for Structural Design of Spillway Training Walls and Divide Walls",
-      "category": "Design standard",
-      "location": "Notebook Co-source",
-      "relevance": "A sister hydraulic structure standard regulating guide walls, training walls, and divide walls which are integrated with the barrage and powerhouse to direct flows."
-    },
-    {
-      "is_number": "IS 11388 : 2012",
-      "title": "Recommendations for Design of Trash Racks for Intakes",
-      "category": "Design standard",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates the structural design and vibration limits of trash racks installed at the powerhouse intake bays to keep debris from entering turbines."
-    },
-    {
-      "is_number": "IS 10021 : 2000",
-      "title": "Guidelines for De-icing System for Hydraulic Installations",
-      "category": "Operating standard",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies compressed air bubbler systems integrated near gates and trash racks to prevent ice build-up in freezing weather."
-    },
-    {
-      "is_number": "IS 10386 (Part 11) : 2026",
-      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
-      "category": "Safety standard",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates safety, drainage tunnels, and rock stress-monitoring during tunneling or underground powerhouse excavations."
-    },
-    {
-      "is_number": "IS 12094 : 2018",
-      "title": "Planning and Design of River Embankments (Levees) — Guidelines",
-      "category": "Design standard",
-      "location": "Notebook Co-source",
-      "relevance": "Provides design and planning requirements for flood protection levees, which secure the bounded powerhouse area from river flooding."
-    },
-    {
-      "is_number": "IS 13083 : 2017",
-      "title": "Hydrometric Determinations — Flow Measurement in Open Channels Using Structures — Flat-V Weirs",
-      "category": "Hydrometric standard",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies guidelines for Flat-V weirs used to measure flow discharge, helping evaluate river flow availability."
-    },
-    {
-      "is_number": "IS 13668 : 1993",
-      "title": "Guidelines for Fixing Intensity of Irrigation",
-      "category": "Planning standard",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates irrigation water budgeting and intensity determinations, which directly dictate the 10-daily diversion requirements at the barrage."
-    },
-    {
-      "is_number": "IS 13739 : 1993",
-      "title": "Guidelines for Estimation of Flood Damages",
-      "category": "Disaster economics",
-      "location": "Notebook Co-source",
-      "relevance": "Defines scientific procedures to survey, compile, and evaluate direct and indirect flood losses, supporting cost-benefit analyses of the protective barrage works."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for draft tube gates, intake gates, and powerhouse structural assemblies."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Design and Planning Guidelines (Water Resources Department / Diversion Works)",
-    "certification_status": "Voluntary Code of Practice. Since IS 14592 (Part 1) : 1998 is an engineering guideline for civil and electro-mechanical planning rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, compliance with its site-investigation steps, soil boring counts, and water scheduling is strictly mandated in public sector tenders for run-of-the-river or low-head hydro projects (under CWC, NHPC, SJVN, state power corporations, and irrigation departments) to obtain technical clearance and validate Detailed Project Reports (DPRs). Precious metal hallmarking is completely inapplicable.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "High Flood Level (HFL) Investigation",
-        "detail": "Requires compiling and evaluating information regarding the high flood level (HFL) using physical flood marks and local field enquiries to define safety elevations against powerhouse flooding.",
-        "clause_reference": "Part 1, Clause 3 / b / 2)"
-      },
-      {
-        "requirement_type": "Irrigation Withdrawals Tracking",
-        "detail": "Mandates collecting detailed data on 10-daily irrigation withdrawals at the proposed barrage, if any, to coordinate power generation schedules with agriculture diversion demands.",
-        "clause_reference": "Part 1, Clause 3 / b / 3)"
-      },
-      {
-        "requirement_type": "Gauge-Discharge Relation Modeling",
-        "detail": "Requires establishing a gauge (stage) and discharge relation curve extending up to the design flood level, based on historical field data covering at least five (5) years, but preferably supported by observations and acceptable extrapolation.",
-        "clause_reference": "Part 1, Clause 3 / b / 4)"
-      },
-      {
-        "requirement_type": "Meteorological Catchment Planning",
-        "detail": "Requires compiling daily rainfall data from all rainfall gauging stations situated within and around the local catchment area, covering as many years of historical record as possible to support design flood estimations.",
-        "clause_reference": "Part 1, Clause 3 / c / 1)"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or analysis value (such as river stages, discharge rates, rainfall counts, or geological coordinates) must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained must be identical to the specified value in the standard."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 14592 : 1998",
-    "Barrage Powerhouse",
-    "River Powerhouses",
-    "Site Investigation",
-    "High Flood Level",
-    "Gauge Discharge Relation",
-    "Daily Rainfall",
-    "Catchment Area",
-    "10-daily Withdrawals",
-    "WRD 22",
-    "Water Resources Planning"
+  "relationships": [
+    {
+      "target_is_code": "IS 1498 : 1970",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1892 : 2021",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7720 : 1991",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15662 : 2006",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12720 : 2004",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11388 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10021 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10386 (Part 11) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12094 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13083 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13668 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13739 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 14592 (Part 1) : 1998 is the national Indian Standard guidelines specifying criteria for the site investigation, planning, and layout design of barrage powerhouses (low-head hydro stations integrated directly with river barrages). Formulated under the WRD 22 Sectional Committee, this standard unifies the engineering requirements for collecting vital baseline data during project pre-feasibility. It specifies that layout planning must compile and analyze historical high flood levels (HFL) from field marks, track 10-daily irrigation withdrawal requirements at the barrage, establish a 5-year minimum gauge-discharge relation curve up to the design flood, and aggregate long-term daily rainfall records across the entire catchment area, ensuring safe and hydraulically optimal powerhouse layouts."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 14592 (Part 1) : 1998 is an engineering guideline for civil and electro-mechanical planning rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, compliance with its site-investigation steps, soil boring counts, and water scheduling is strictly mandated in public sector tenders for run-of-the-river or low-head hydro projects (under CWC, NHPC, SJVN, state power corporations, and irrigation departments) to obtain technical clearance and validate Detailed Project Reports (DPRs). Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      "Requires compiling and evaluating information regarding the high flood level (HFL) using physical flood marks and local field enquiries to define safety elevations against powerhouse flooding.",
+      "Mandates collecting detailed data on 10-daily irrigation withdrawals at the proposed barrage, if any, to coordinate power generation schedules with agriculture diversion demands.",
+      "Requires establishing a gauge (stage) and discharge relation curve extending up to the design flood level, based on historical field data covering at least five (5) years, but preferably supported by observations and acceptable extrapolation.",
+      "Requires compiling daily rainfall data from all rainfall gauging stations situated within and around the local catchment area, covering as many years of historical record as possible to support design flood estimations.",
+      "Any observed or calculated test or analysis value (such as river stages, discharge rates, rainfall counts, or geological coordinates) must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained must be identical to the specified value in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "14592_1_1998_reaff2023.pdf",
     "document_version_edition": "First Edition, 1998"
   }

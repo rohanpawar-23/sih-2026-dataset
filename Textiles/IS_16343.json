@@ -1,160 +1,126 @@
 {
-  "basic_identification": {
-    "is_number": "IS 16343 : 2015",
-    "full_title": "Geosynthetics — Guidelines for Installation of Geotexiles as Pavement Fabric",
-    "sector_category": "Technical Textiles / Geosynthetics (approved by the Textile Division Council and finalized by the Geosynthetics Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "59.080.70",
+  "standard": {
+    "is_code": "IS 16343:2015",
+    "title": "Geosynthetics — Guidelines for Installation of Geotexiles as Pavement Fabric",
+    "sector": "Technical Textiles / Geosynthetics",
+    "ics_code": [
+      "59.080.70"
+    ],
     "sectional_committee": {
       "name": "Geosynthetics Sectional Committee",
       "number": "TXD 30"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard prescribes guidelines for the installation of geotextiles as pavement fabric (paving fabric) inside road pavements to provide waterproofing, stress relief, and barrier separation, thereby retarding reflective cracking in asphalt concrete overlays.",
+    "scope": "This standard prescribes guidelines for the installation of geotextiles as pavement fabric (paving fabric) inside road pavements to provide waterproofing, stress relief, and barrier separation, thereby retarding reflective cracking in asphalt concrete overlays.",
+    "keywords": [
+      "IS 16343 : 2015",
+      "Geosynthetics",
+      "Geotextiles",
+      "Pavement Fabric",
+      "Tack Coat",
+      "Asphalt Overlay",
+      "Fuzzy Side Down",
+      "Reflective Cracking",
+      "Emulsion Curing",
+      "Wrinkle Slitting",
+      "Certified Inspector",
+      "TXD 30",
+      "Geotextiles QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes guidelines for the installation of geotextiles as pavement fabric (paving fabric) inside road pavements to provide waterproofing, stress relief, and barrier separation, thereby retarding reflective cracking in asphalt concrete overlays.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, July 2015 (Reaffirmed 2019, reviewed and reaffirmed in 2024)",
-    "year_first_published": "2015",
+  "version": {
+    "current_version": "First Edition, July 2015 (Reaffirmed 2019, reviewed and reaffirmed in 2024)",
+    "first_publication_year": 2015,
+    "publication_year": 2015,
+    "revision": "First Edition (officially published with a minor typographical error in the title: 'Geotexiles' instead of 'Geotextiles')",
     "revision_history": [
-      {
-        "edition": "First Edition (officially published with a minor typographical error in the title: 'Geotexiles' instead of 'Geotextiles')",
-        "year": "2015"
-      }
+      "First Edition (officially published with a minor typographical error in the title: 'Geotexiles' instead of 'Geotextiles'), 2015"
     ],
-    "supersedes": "N/A (Newly formulated guideline standard to establish correct field procedures for paving fabric placement)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 16342",
-      "title": "Geosynthetics - Method of Test for Grab Breaking Load and Elongation of Geotextiles",
-      "category": "Testing standard",
-      "location": "Normative references",
-      "relevance": "Provides test methods used to determine grab breaking strength and elongation parameters of geotextiles."
-    },
-    {
-      "is_number": "IS 15910",
-      "title": "Geo-Synthetics for Highways — Specification",
-      "category": "Material specification",
-      "location": "Normative references",
-      "relevance": "Specifies physical, chemical, and mechanical properties of geosynthetic rolls used in highway engineering."
-    },
-    {
-      "is_number": "IS 14706",
-      "title": "Geotextiles - Sampling and preparation of test specimen",
-      "category": "Sampling standard",
-      "location": "Normative references",
-      "relevance": "Specifies sampling procedures and specimen conditioning methods for geotextile rolls."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15351 : 2015",
-      "title": "Textiles — Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-membrane) for Water Proof Lining — Specification",
-      "category": "Product specification",
-      "location": "Parallel geosynthetics group",
-      "relevance": "Specifies laminated HDPE geomembranes designed for waterproof lining of canals, ponds, and reservoirs."
-    },
-    {
-      "is_number": "IS 16344 : 2015",
-      "title": "Geosynthetics — Guidelines for Installation of Geotextile for Permanent Erosion Control in Hard Armor Systems",
-      "category": "Installation / Application standard",
-      "location": "Parallel geotextile installation group",
-      "relevance": "Sister installation guideline regulating geotextile filters placed under hard armor block systems."
-    },
-    {
-      "is_number": "IS 16345 : 2015",
-      "title": "Geosynthetics — Guidelines for Installation of Geotextile used in Sub-Grade Separation in Pavement Structures",
-      "category": "Installation / Application standard",
-      "location": "Parallel geotextile installation group",
-      "relevance": "Sister installation standard specifying geotextiles at sub-grade interfaces to prevent soil mixing."
-    },
-    {
-      "is_number": "IS 16349 : 2015",
-      "title": "Geosynthetics — Guidelines for Installation of Geogrids Used as Reinforcement of Base and Sub-Base",
-      "category": "Installation / Application standard",
-      "location": "Parallel geogrid installation group",
-      "relevance": "Sister installation guideline specifying geogrid placement to reinforce road sub-base."
-    },
-    {
-      "is_number": "IS 17070 : 2019",
-      "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
-      "category": "Product specification",
-      "location": "Parallel technical textiles",
-      "relevance": "A technical textile standard in the notebook regulating jute-based soil stabilizing blankets."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Parallel structural engineering",
-      "relevance": "The master national structural steel construction code present in the notebook, regulating lifting tackles and wire rope slings of correct size used on-site."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Installation Guideline (Geosynthetics / Civil Engineering Infrastructure)",
-    "certification_status": "Statutory Voluntary Guideline for Installation, but under the mandatory 'Geotextiles (Quality Control) Order' (issued by the Ministry of Textiles, Government of India), the geotextile/geosynthetic materials (pavement fabrics) themselves must conform to Indian Standards and carry the mandatory BIS Standard Mark (ISI Mark). Laying pavement fabrics without certified materials is a punishable statutory offense. Precious metal hallmarking is completely inapplicable to synthetic polymer paving fabrics.",
-    "requirements": [
+    "supersedes": [
+      "N/A (Newly formulated guideline standard to establish correct field procedures for paving fabric placement)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Fabric Side Placement",
-        "detail": "During installation, the paving fabric must be rolled out such that the fuzzy (heat-bonded or non-woven lofted) side of the paving fabric is laid down directly into the hot asphalt tack coat, leaving the smooth side facing up."
-      },
-      {
-        "requirement_type": "Asphalt Tack Coat Application Rate",
-        "detail": "The tack coat application rate must be sufficient to saturate the geotextile fabric and form a waterproof bond with the existing pavement surface. Solvents and cutbacks must not be used."
-      },
-      {
-        "requirement_type": "Use of Emulsions",
-        "detail": "Cationic and anionic asphalt emulsions may be used successfully, provided: a) The paving fabric is laid only after allowing the specified time for curing (break) of the emulsion; b) No traffic is allowed over the area where the tack coat is applied; and c) They are applied at a higher rate to compensate for the water content."
-      },
-      {
-        "requirement_type": "Traffic Braking and Intersection Rate Reduction",
-        "detail": "In zones of heavy vehicle braking—including street intersections, steep grades, and deceleration lanes—the normal tack coat application rate must be reduced by approximately 20 percent as directed by the engineer to prevent fabric slippage or fatting-up of asphalt."
-      },
-      {
-        "requirement_type": "Obstruction Cutting & Wrinkle Treatment",
-        "detail": "When encountering drains, manholes, joints, or other road irregularities, the geotextile must be placed normally and then cut cleanly around the obstruction. Any wrinkles exceeding 25 mm must be slit open and flatly overlapped."
-      },
-      {
-        "requirement_type": "Pre-Covering Certification Inspection",
-        "detail": "Prior to applying the asphalt concrete (AC) overlay, the laid geotextile must be formally inspected by a certified inspector of the engineer to verify that the fabric has suffered zero installation damage. Damaged geotextile must be immediately repaired or replaced."
-      },
-      {
-        "requirement_type": "Reflective Crack Isolation & Distress Rehabilitation",
-        "detail": "The geotextile must be utilized to rehabilitate localized distressed areas, utility cuts, and excessively cracked pavement prior to an AC overlay, using either a full-width layer or targeted membrane strips depending on distress severity."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 16343 : 2015",
-    "Geosynthetics",
-    "Geotextiles",
-    "Pavement Fabric",
-    "Tack Coat",
-    "Asphalt Overlay",
-    "Fuzzy Side Down",
-    "Reflective Cracking",
-    "Emulsion Curing",
-    "Wrinkle Slitting",
-    "Certified Inspector",
-    "TXD 30",
-    "Geotextiles QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 16342",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15910",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14706",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15351 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16344 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16345 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16349 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17070 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 16343 : 2015 is the national Indian Standard code of practice specifying guidelines for the correct field installation of geotextile paving fabrics (pavement fabrics) inside road pavements to retard reflective cracking in asphalt overlays. While the installation process is a guideline, the synthetic polymer geotextile materials used must conform to Indian Standards and bear the mandatory BIS Standard Mark (ISI Mark) under statutory Quality Control Orders. The standard outlines strict procedural controls—including spraying a uniform hot asphalt tack coat (excluding cutbacks and solvent-laden emulsions), laying the paving fabric with its fuzzy side down into the tack coat (leaving the smooth side up) to ensure deep saturation and waterproof bonding, reducing tack coat rates by 20% in high-braking zones and street intersections to avoid fabric sliding, slitting and overlapping any structural wrinkles exceeding 25 mm, and enforcing a mandatory pre-covering inspection by a certified inspector to verify that the fabric has suffered zero tears or installation damage before the final asphalt concrete overlay is placed."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Statutory Voluntary Guideline for Installation, but under the mandatory 'Geotextiles (Quality Control) Order' (issued by the Ministry of Textiles, Government of India), the geotextile/geosynthetic materials (pavement fabrics) themselves must conform to Indian Standards and carry the mandatory BIS Standard Mark (ISI Mark). Laying pavement fabrics without certified materials is a punishable statutory offense. Precious metal hallmarking is completely inapplicable to synthetic polymer paving fabrics.",
+    "requirements": [
+      "During installation, the paving fabric must be rolled out such that the fuzzy (heat-bonded or non-woven lofted) side of the paving fabric is laid down directly into the hot asphalt tack coat, leaving the smooth side facing up.",
+      "The tack coat application rate must be sufficient to saturate the geotextile fabric and form a waterproof bond with the existing pavement surface. Solvents and cutbacks must not be used.",
+      "Cationic and anionic asphalt emulsions may be used successfully, provided: a) The paving fabric is laid only after allowing the specified time for curing (break) of the emulsion; b) No traffic is allowed over the area where the tack coat is applied; and c) They are applied at a higher rate to compensate for the water content.",
+      "In zones of heavy vehicle braking—including street intersections, steep grades, and deceleration lanes—the normal tack coat application rate must be reduced by approximately 20 percent as directed by the engineer to prevent fabric slippage or fatting-up of asphalt.",
+      "When encountering drains, manholes, joints, or other road irregularities, the geotextile must be placed normally and then cut cleanly around the obstruction. Any wrinkles exceeding 25 mm must be slit open and flatly overlapped.",
+      "Prior to applying the asphalt concrete (AC) overlay, the laid geotextile must be formally inspected by a certified inspector of the engineer to verify that the fabric has suffered zero installation damage. Damaged geotextile must be immediately repaired or replaced.",
+      "The geotextile must be utilized to rehabilitate localized distressed areas, utility cuts, and excessively cracked pavement prior to an AC overlay, using either a full-width layer or targeted membrane strips depending on distress severity."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "16343_2015_reff2019.pdf",
     "document_version_edition": "First Edition, July 2015 (Reaffirmed 2019)"
   }

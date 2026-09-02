@@ -1,142 +1,107 @@
 {
-  "basic_identification": {
-    "is_number": "IS 13565 : 1992",
-    "full_title": "Method for Spectrophotometric Determination of Nitrite (स्पेक्ट्रम प्रकाशमिति द्वारा नाइट्राइट ज्ञात करने की पद्धति)",
-    "sector_category": "Chemical / Chemical Standards (approved by the Chemical Division Council and finalized by the Chemical Standards Sectional Committee, CHD 001, of the Bureau of Indian Standards)",
-    "ics_code": "UDC 543.42 [ 546.173 ]",
+  "standard": {
+    "is_code": "IS 13565:1992",
+    "title": "Method for Spectrophotometric Determination of Nitrite (स्पेक्ट्रम प्रकाशमिति द्वारा नाइट्राइट ज्ञात करने की पद्धति)",
+    "sector": "Chemical / Chemical Standards",
+    "ics_code": [
+      "UDC 543.42 [ 546.173 ]"
+    ],
     "sectional_committee": {
       "name": "Chemical Standards Sectional Committee",
       "number": "CHD 001"
-    }
+    },
+    "standard_type": "GUIDE",
+    "status": "ACTIVE",
+    "description": "This standard prescribes three distinct analytical methods for the quantitative determination of nitrite in chemical and technical samples using spectrophotometric and ultraviolet (UV) absorption techniques.",
+    "scope": "This standard prescribes three distinct analytical methods for the quantitative determination of nitrite in chemical and technical samples using spectrophotometric and ultraviolet (UV) absorption techniques.",
+    "keywords": [
+      "IS 13565 : 1992",
+      "Nitrite",
+      "Spectrophotometric",
+      "Spectrometric",
+      "Sulphanilic Acid",
+      "1-Naphthylamine",
+      "Sulphamic Acid",
+      "Diazotisation",
+      "Sample Preparation",
+      "Opaque Containers",
+      "Stirring Device",
+      "Sparkless Motor",
+      "CHD 001",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes three distinct analytical methods for the quantitative determination of nitrite in chemical and technical samples using spectrophotometric and ultraviolet (UV) absorption techniques.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, November 1992 (Reaffirmed 2024)",
-    "year_first_published": "1992 (adopted by the Bureau of Indian Standards in 1992)",
+  "version": {
+    "current_version": "First Edition, November 1992 (Reaffirmed 2024)",
+    "first_publication_year": 1992,
+    "publication_year": 1992,
+    "revision": "First Edition (IS 13565 : 1992)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 13565 : 1992)",
-        "year": "1992"
-      }
+      "First Edition (IS 13565 : 1992), 1992"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1070 : 1992",
-      "title": "Reagent grade water (third revision)",
-      "category": "Material standard",
-      "relevance": "Specifies purity parameters for reagent-grade water, which is a necessary adjunct for prepare-and-test reagents, dilutions, and standard calibration curves."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated analytical testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 11657 : 2025",
-      "title": "Determination of Dissolved Iron — Test Method",
-      "category": "Testing standard",
-      "location": "Same Divisional Council",
-      "relevance": "A companion spectrophotometric testing standard, utilizing standard calibration graphs and colorimetric complexes to determine trace element content."
-    },
-    {
-      "is_number": "IS 12084 : 1987",
-      "title": "Sample preparation for determination of copper, iron, nickle, and silica in morpholine",
-      "category": "Testing standard",
-      "location": "Same Divisional Council",
-      "relevance": "A fellow chemical testing standard outlining specialized sample preparation techniques for analytical instrumentation like ICP-OES or ICP-MS."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Same Divisional Council",
-      "relevance": "Specifies strict chemical and contamination limits for drinking water, including maximum permissible levels of nitrites."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural processing mills, chemical processing plants, and municipal water testing laboratories."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Methods of Test / Analytical Laboratory Guidelines (Chemical Department / Chemical Standards)",
-    "certification_status": "Voluntary Code of Practice. Since IS 13565 : 1992 is a laboratory testing methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling, container extraction, and spectrophotometric calculation protocols is strictly required in public sector chemical quality audits, industrial corrosion-preventive testing, and environmental monitoring across India to certify nitrite concentrations.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "First Analytical Method",
-        "detail": "Prescribes a spectrophotometric method for nitrite determination using the diazotisation and coupling reaction of sulphanilic acid and 1-naphthylamine, forming a highly colored red azo dye measured in the visible spectrum.",
-        "clause_reference": "Clause 1 (a)"
-      },
-      {
-        "requirement_type": "Second Analytical Method",
-        "detail": "Prescribes a UV spectrophotometry method using sulphanilic acid to measure the absorbance of the diazotised complex in the ultraviolet spectrum.",
-        "clause_reference": "Clause 1 (b)"
-      },
-      {
-        "requirement_type": "Third Analytical Method",
-        "detail": "Prescribes a UV differential spectrophotometry method using sulphamic acid, measuring absorbance differences to isolate and calculate nitrite concentrations.",
-        "clause_reference": "Clause 1 (c)"
-      },
-      {
-        "requirement_type": "Opaque Glass Container Prep",
-        "detail": "Before drawing sample aliquots from opaque glass containers, the technician must carefully remove the cap or lid so that a mechanical stirrer may be inserted directly without disturbing sediment.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Metal Container Opening Prep",
-        "detail": "For metal containers having a removable cap or lid, open by removing it. If no removable closure is provided, the operator must open the container by punching two holes on opposite sides of the top of the container, subsequent to which one of these openings must be enlarged with metal shears to provide adequate room for stirring and pipetting.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Mandatory Stirring Duration",
-        "detail": "To ensure a perfectly homogeneous mixture prior to analysis, the sample must be mixed thoroughly for exactly 5 minutes using a stirring device capable of agitating the material sufficiently to suspend all separated solids and disperse any supernatant phases (liquid or solid) without drawing air into the mixture.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Stirrer Motor Safety limits",
-        "detail": "Because technical samples containing nitrite (like corrosion preventives or antifreeze) may contain flammable solvents, the stirring device must be safe to use with inflammable liquids, such as methanol. A sparkless, brushless type induction motor or an air-driven motor of sufficient capacity are suggested. The stirrer design must fit into the smallest container opening.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "In reporting the results of any test or analysis made in accordance with this standard, if the final value, observed or calculated, is to be rounded off, it must be done in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified limit in the standard.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 13565 : 1992",
-    "Nitrite",
-    "Spectrophotometric",
-    "Spectrometric",
-    "Sulphanilic Acid",
-    "1-Naphthylamine",
-    "Sulphamic Acid",
-    "Diazotisation",
-    "Sample Preparation",
-    "Opaque Containers",
-    "Stirring Device",
-    "Sparkless Motor",
-    "CHD 001",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 1070 : 1992",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11657 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12084 : 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 13565 : 1992 is the national Indian Standard prescribing methods for the spectrophotometric and spectrometric determination of nitrite. Formulated by the CHD 001 Sectional Committee and reaffirmed in 2024, this standard specifies three analytical test methods: a visible spectrophotometric method using sulphanilic acid and 1-naphthylamine, a UV spectrophotometric method using sulphanilic acid, and a UV differential method using sulphamic acid. It details strict sample preparation, requiring metal and opaque glass containers to be opened safely and stirred for 5 minutes using sparkless, brushless, or air-driven stirrers to prevent the ignition of flammable solvents (such as methanol) while ensuring a homogeneous mixture, supporting accurate testing and regulatory compliance."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 13565 : 1992 is a laboratory testing methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling, container extraction, and spectrophotometric calculation protocols is strictly required in public sector chemical quality audits, industrial corrosion-preventive testing, and environmental monitoring across India to certify nitrite concentrations.",
+    "requirements": [
+      "Prescribes a spectrophotometric method for nitrite determination using the diazotisation and coupling reaction of sulphanilic acid and 1-naphthylamine, forming a highly colored red azo dye measured in the visible spectrum.",
+      "Prescribes a UV spectrophotometry method using sulphanilic acid to measure the absorbance of the diazotised complex in the ultraviolet spectrum.",
+      "Prescribes a UV differential spectrophotometry method using sulphamic acid, measuring absorbance differences to isolate and calculate nitrite concentrations.",
+      "Before drawing sample aliquots from opaque glass containers, the technician must carefully remove the cap or lid so that a mechanical stirrer may be inserted directly without disturbing sediment.",
+      "For metal containers having a removable cap or lid, open by removing it. If no removable closure is provided, the operator must open the container by punching two holes on opposite sides of the top of the container, subsequent to which one of these openings must be enlarged with metal shears to provide adequate room for stirring and pipetting.",
+      "To ensure a perfectly homogeneous mixture prior to analysis, the sample must be mixed thoroughly for exactly 5 minutes using a stirring device capable of agitating the material sufficiently to suspend all separated solids and disperse any supernatant phases (liquid or solid) without drawing air into the mixture.",
+      "Because technical samples containing nitrite (like corrosion preventives or antifreeze) may contain flammable solvents, the stirring device must be safe to use with inflammable liquids, such as methanol. A sparkless, brushless type induction motor or an air-driven motor of sufficient capacity are suggested. The stirrer design must fit into the smallest container opening.",
+      "In reporting the results of any test or analysis made in accordance with this standard, if the final value, observed or calculated, is to be rounded off, it must be done in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified limit in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "13565_1992_reaff2024.pdf",
     "document_version_edition": "First Edition, November 1992"
   }

@@ -1,195 +1,138 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-    "full_title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents — Part 1: General Considerations, Direct Measurement Techniques and Biological Aspects of Survey Procedures; Part 2: Loss Determination by Population Assessment and Estimation Procedures (कृंतकों द्वारा कटाई के बाद अनाज के नुकसान के मूल्यांकन की पद्धतियां — भाग 1: सामान्य विचार, प्रत्यक्ष माप तकनीक और सर्वेक्षण प्रक्रियाओं के जैविक पहलू; भाग 2: जनसंख्या मूल्यांकन और अनुमान प्रक्रियाओं द्वारा नुकसान का निर्धारण)",
-    "sector_category": "Food and Agriculture / Post-Harvest Management and Grain Storage (approved by the Food and Agriculture Division Council and finalized by the Foodgrains, Allied Products and Ready-to-Eat Foods Sectional Committee, FAD 16, of the Bureau of Indian Standards)",
-    "ics_code": "67.060; 65.100",
+  "standard": {
+    "is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+    "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents — Part 1: General Considerations, Direct Measurement Techniques and Biological Aspects of Survey Procedures; Part 2: Loss Determination by Population Assessment and Estimation Procedures (कृंतकों द्वारा कटाई के बाद अनाज के नुकसान के मूल्यांकन की पद्धतियां — भाग 1: सामान्य विचार, प्रत्यक्ष माप तकनीक और सर्वेक्षण प्रक्रियाओं के जैविक पहलू; भाग 2: जनसंख्या मूल्यांकन और अनुमान प्रक्रियाओं द्वारा नुकसान का निर्धारण)",
+    "sector": "Food and Agriculture / Post-Harvest Management and Grain Storage",
+    "ics_code": [
+      "67.060",
+      "65.100"
+    ],
     "sectional_committee": {
       "name": "Foodgrains, Allied Products and Ready-to-Eat Foods Sectional Committee",
       "number": "FAD 16"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies scientific guidelines, field survey methodologies, and mathematical estimation procedures for assessing post-harvest grain losses caused by rodents in agricultural warehouses, domestic storage holdings, and processing facilities. Part 1 covers biological traits of primary rodent pests, sign indices, and direct physical measurement techniques. Part 2 details indirect loss determination through rodent population density audits, trap-out removal trapping, and feed-consumption estimation models to guide national crop-preservation and pest-management programs.",
+    "scope": "This standard specifies scientific guidelines, field survey methodologies, and mathematical estimation procedures for assessing post-harvest grain losses caused by rodents in agricultural warehouses, domestic storage holdings, and processing facilities. Part 1 covers biological traits of primary rodent pests, sign indices, and direct physical measurement techniques. Part 2 details indirect loss determination through rodent population density audits, trap-out removal trapping, and feed-consumption estimation models to guide national crop-preservation and pest-management programs.",
+    "keywords": [
+      "IS 11261 : 1985",
+      "Post-Harvest Grain Losses",
+      "Rodents",
+      "Lesser Bandicoot",
+      "House Rat",
+      "Population Assessment",
+      "Trap-Out",
+      "Sign Indices",
+      "Fecal Count",
+      "Direct Measurement",
+      "Sieve Analysis",
+      "Grain Contamination",
+      "FAD 16",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies scientific guidelines, field survey methodologies, and mathematical estimation procedures for assessing post-harvest grain losses caused by rodents in agricultural warehouses, domestic storage holdings, and processing facilities. Part 1 covers biological traits of primary rodent pests, sign indices, and direct physical measurement techniques. Part 2 details indirect loss determination through rodent population density audits, trap-out removal trapping, and feed-consumption estimation models to guide national crop-preservation and pest-management programs.",
-    "clause_number": "Part 1, Clause 1 & Part 2, Clause 1",
-    "page_number": "Page 1 of respective base standards"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, March 1985 (Reaffirmed 2020/2025 by FAD 16)",
-    "year_first_published": "1985",
+  "version": {
+    "current_version": "First Edition, March 1985 (Reaffirmed 2020/2025 by FAD 16)",
+    "first_publication_year": 1985,
+    "publication_year": 1985,
+    "revision": "First Edition (officially adopted as a unified national two-part standard to replace subjective or arbitrary post-harvest loss claims with metrics-driven research procedures)",
     "revision_history": [
-      {
-        "edition": "First Edition (officially adopted as a unified national two-part standard to replace subjective or arbitrary post-harvest loss claims with metrics-driven research procedures)",
-        "year": "1985"
-      }
+      "First Edition (officially adopted as a unified national two-part standard to replace subjective or arbitrary post-harvest loss claims with metrics-driven research procedures), 1985"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed standard (NIL on this copy)."
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
+      {
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed standard (NIL on this copy)."
+      }
+    ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for Rounding Off Numerical Values (Revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 5059 : 1969",
-      "title": "Code for Hygienic Conditions for Large Scale Biscuit Manufacturing Units and Bakery Units",
-      "category": "Sanitation standard",
-      "relevance": "Provides baseline hygienic and storage parameters to prevent pest harborage in processing facilities."
+      "target_is_code": "IS 5059 : 1969",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 13285 : 1992",
-      "title": "Guidelines for Addition of Essential Nutrients to Food",
-      "category": "Quality standard",
-      "relevance": "Establishes standard guidelines for the enrichment of processed foodgrains."
+      "target_is_code": "IS 13285 : 1992",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 15176 : 2002",
-      "title": "Food Hygiene — Microbiological Risk Assessment — Principles and Guidelines",
-      "category": "Safety standard",
-      "relevance": "Regulates assessment of microbiological contaminations, which are frequently spread via rodent urine, faeces, and hair."
+      "target_is_code": "IS 15176 : 2002",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS/ISO 22005 : 2007",
-      "title": "Traceability in the Feed and Food Chain — General Principles and Basic Requirements for System Design and Implementation",
-      "category": "System standard",
-      "relevance": "Provides food safety traceability protocols that support auditing batches of grain suspected of rodent-induced degradation."
+      "target_is_code": "IS/ISO 22005 : 2007",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 19372 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12662 (Part 2) : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16115 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13668 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13739 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 19372 : 2025",
-      "title": "Thermal Processing of Horticulture and Wet Waste — Guidelines",
-      "category": "Operational Guidelines",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow agricultural post-harvest and organic waste management standard, regulating bio-waste decomposition and volume-reduction technologies under Sectional Committee EED 08."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
     },
-    {
-      "is_number": "IS 12662 (Part 2) : 2025",
-      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
-      "category": "Maintenance standard",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow solid waste standard, regulating transport hygiene and leachate controls, which prevent rodent attraction and vector breeding in municipal corridors."
-    },
-    {
-      "is_number": "IS 16115 : 2013",
-      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
-      "category": "Evaluation standard",
-      "location": "Notebook Co-source",
-      "relevance": "A sister agricultural planning standard, specifying guidelines to evaluate completed structures and commands, including assessing overall storage and harvest security."
-    },
-    {
-      "is_number": "IS 13668 : 1993",
-      "title": "Guidelines for Fixing Intensity of Irrigation",
-      "category": "Planning standard",
-      "location": "Notebook Co-source",
-      "relevance": "A companion agricultural planning standard, defining crop irrigation intensities which dictate the cropping baseline and storage capacities exposed to post-harvest risks."
-    },
-    {
-      "is_number": "IS 13739 : 1993",
-      "title": "Guidelines for Estimation of Flood Damages",
-      "category": "Disaster economics",
-      "location": "Notebook Co-source",
-      "relevance": "A companion disaster-auditing standard, specifying proformas and crop loss assessments, which are integrated with pest-induced losses during public disaster audits."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies impermeable PVC barrier linings used to line reservoirs, canals, and agricultural containment pits to prevent moisture and burrowing pest access."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design and construction code in India, regulating support framing, connections, and sheet-steel panel details for storage silos, warehouse trusses, and grain bins designed to be rodent-proof."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Design and Operational Guidelines (Food and Agriculture / Post-Harvest Management)",
-    "certification_status": "Voluntary Code of Practice. Since IS 11261 (Parts 1 & 2) is a scientific survey methodology and planning guideline rather than a direct consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its sampling proformas, trap-out calculations, and biological indicators is highly enforced and mandated in public food storage contracts, warehouse audits (under the Food Corporation of India (FCI), Central Warehousing Corporation (CWC), and state warehousing corporations), and quality evaluations by agricultural ministries to ensure grain security, prevent economic waste, and allocate pest-control resources. Precious metal hallmarking is completely inapplicable.",
+    "description": "Voluntary Code of Practice. Since IS 11261 (Parts 1 & 2) is a scientific survey methodology and planning guideline rather than a direct consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its sampling proformas, trap-out calculations, and biological indicators is highly enforced and mandated in public food storage contracts, warehouse audits (under the Food Corporation of India (FCI), Central Warehousing Corporation (CWC), and state warehousing corporations), and quality evaluations by agricultural ministries to ensure grain security, prevent economic waste, and allocate pest-control resources. Precious metal hallmarking is completely inapplicable.",
     "requirements": [
-      {
-        "requirement_type": "Identification of Target Rodent Pests",
-        "detail": "Mandates that surveys and loss assessments be planned based on the biological traits, harborage, and breeding habits of the three dominant Indian rodent pests:\na) The Lesser Bandicoot rat (*Bandicota bengalensis*);\nb) The House rat (*Rattus rattus*); and\nc) The House mouse (*Mus musculus*)."
-      },
-      {
-        "requirement_type": "Direct Grain Measurement & Sieve Analysis (Part 1)",
-        "detail": "Specifies direct physical techniques to measure grain damage in stored bags, including: collecting representative grain samples, performing sieve analysis to separate and weigh gnawed grain fragments, counting physically damaged bags, and calculating weight discrepancies between initial and terminal storage phases."
-      },
-      {
-        "requirement_type": "Qualitative Sign and Spoor Indices (Part 1)",
-        "detail": "Establishes a standardized framework to audit active rodent presence through physical indicators, including:\na) Fecal pellet count, size, shape, and freshness;\nb) Footprint tracking using fine talc dust or tracking patches;\nc) Active burrow counting and identification of runway paths; and\nd) Structural gnaw marks on wood, bags, or doors."
-      },
-      {
-        "requirement_type": "Indirect Loss Estimation Formula (Part 2)",
-        "detail": "Establishes a quantitative, multi-variable formula to calculate total indirect grain losses:\nLoss = Rodent Population * Mean Daily Food Consumption * Waste and Contamination Factor * Storage Period.\nNotes that rodents contaminate and spoil several times the actual amount of food they consume due to faeces, urine, and hair."
-      },
-      {
-        "requirement_type": "Population Assessment by Trap-Out (Removal Trapping)",
-        "detail": "Specifies a multi-night removal trapping (trap-out) method in a designated warehouse sector. Capture rates are plotted over consecutive nights (typically 3 to 5 nights) to mathematically extrapolate the initial absolute rodent population size."
-      },
-      {
-        "requirement_type": "Population Estimation by Food/Water Consumption Census",
-        "detail": "Enforces estimating local rodent populations by introducing measured amounts of non-toxic bait or water and tracking daily consumption before toxic baiting is applied. Total daily consumption is divided by the average daily intake per rodent (e.g., about 10 percent of body weight)."
-      },
-      {
-        "requirement_type": "Statistical Sampling and Zonal Divisions",
-        "detail": "Mandates dividing agricultural survey zones based on crop types and storage types (e.g., traditional mud structures, metal bins, masonry warehouses). Representative sample holdings must be chosen under statistical guidance to conduct direct and indirect audits."
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated survey value, sample size, or percentage grain loss used to determine compliance or report results must be mathematically rounded off in accordance with standard rules per IS 2 : 1960. The number of significant places retained must match the standard's specified value."
-      }
+      "Mandates that surveys and loss assessments be planned based on the biological traits, harborage, and breeding habits of the three dominant Indian rodent pests:\na) The Lesser Bandicoot rat (*Bandicota bengalensis*);\nb) The House rat (*Rattus rattus*); and\nc) The House mouse (*Mus musculus*).",
+      "Specifies direct physical techniques to measure grain damage in stored bags, including: collecting representative grain samples, performing sieve analysis to separate and weigh gnawed grain fragments, counting physically damaged bags, and calculating weight discrepancies between initial and terminal storage phases.",
+      "Establishes a standardized framework to audit active rodent presence through physical indicators, including:\na) Fecal pellet count, size, shape, and freshness;\nb) Footprint tracking using fine talc dust or tracking patches;\nc) Active burrow counting and identification of runway paths; and\nd) Structural gnaw marks on wood, bags, or doors.",
+      "Establishes a quantitative, multi-variable formula to calculate total indirect grain losses:\nLoss = Rodent Population * Mean Daily Food Consumption * Waste and Contamination Factor * Storage Period.\nNotes that rodents contaminate and spoil several times the actual amount of food they consume due to faeces, urine, and hair.",
+      "Specifies a multi-night removal trapping (trap-out) method in a designated warehouse sector. Capture rates are plotted over consecutive nights (typically 3 to 5 nights) to mathematically extrapolate the initial absolute rodent population size.",
+      "Enforces estimating local rodent populations by introducing measured amounts of non-toxic bait or water and tracking daily consumption before toxic baiting is applied. Total daily consumption is divided by the average daily intake per rodent (e.g., about 10 percent of body weight).",
+      "Mandates dividing agricultural survey zones based on crop types and storage types (e.g., traditional mud structures, metal bins, masonry warehouses). Representative sample holdings must be chosen under statistical guidance to conduct direct and indirect audits.",
+      "Any observed or calculated survey value, sample size, or percentage grain loss used to determine compliance or report results must be mathematically rounded off in accordance with standard rules per IS 2 : 1960. The number of significant places retained must match the standard's specified value."
     ]
   },
-  "keywords": [
-    "IS 11261 : 1985",
-    "Post-Harvest Grain Losses",
-    "Rodents",
-    "Lesser Bandicoot",
-    "House Rat",
-    "Population Assessment",
-    "Trap-Out",
-    "Sign Indices",
-    "Fecal Count",
-    "Direct Measurement",
-    "Sieve Analysis",
-    "Grain Contamination",
-    "FAD 16",
-    "IS 2 : 1960"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 11261 (Parts 1 & 2) : 1985 is the national Indian Standard establishing scientific methods to assess post-harvest grain losses caused by rodents. Prepared under the FAD 16 sectional committee, this standard provides warehouse managers, agricultural officers, and grain auditors with a robust framework to quantify rodent-inflicted damage. Part 1 covers general considerations, direct grain-weighing and sieving checks, and the biological traits of key pests like *Bandicota bengalensis* and *Rattus rattus*. Part 2 details indirect estimation methods, including active burrow and fecal tracking indices, trap-out population counts, and food-consumption census models. By establishing a metrics-driven loss formula that factors in both direct consumption and physical contamination, the standard supports effective warehouse sanitation and national crop-conservation strategies."
-  },
-  "author_committee_attribution": {
-    "chairperson": "Joint Secretary (Marketing) and Agricultural Marketing Advisor, Ministry of Agriculture, Govt of India (Principal Chairman of FAD 16)",
-    "sectional_committee": "Foodgrains, Allied Products and Ready-to-Eat Foods Sectional Committee (FAD 16)",
-    "committee_members": [
-      {
-        "organization": "Central Warehousing Corporation (CWC), New Delhi",
-        "representatives": ["Shri S. C. Gupta"]
-      },
-      {
-        "organization": "CSIR-Central Food Technological Research Institute (CFTRI), Mysore",
-        "representatives": ["Dr. M. S. Meera", "Dr. V. B. Sashikala"]
-      },
-      {
-        "organization": "Central Institute of Post-Harvest Engineering & Technology (CIPHET), Ludhiana",
-        "representatives": ["Dr. D. N. Yadav"]
-      },
-      {
-        "organization": "Central Rice Research Institute, Cuttack",
-        "representatives": ["Dr. Srigopal Sharma", "Dr. Avijit Das"]
-      }
-    ]
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "IS_11261_Part_1_and_Part_2_1985_Standards",
     "document_version_edition": "First Edition, March 1985 (Reaffirmed periodically)"
   }

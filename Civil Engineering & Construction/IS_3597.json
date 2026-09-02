@@ -1,182 +1,128 @@
 {
-  "basic_identification": {
-    "is_number": "IS 3597 : 1998",
-    "full_title": "Concrete Pipes — Methods of Test (Second Revision) (कंक्रीट के पाइप — परीक्षण पद्धतियाँ (दूसरा पुनरीक्षण))",
-    "sector_category": "Civil Engineering / Cement Matrix Products (finalized by the Concrete Pipes Subcommittee, CED 53:2, and approved by the Cement Matrix Products Sectional Committee, CED 53, under the Civil Engineering Division Council of the Bureau of Indian Standards)",
-    "ics_code": "23.040.50; 91.100.30",
+  "standard": {
+    "is_code": "IS 3597:1998",
+    "title": "Concrete Pipes — Methods of Test (Second Revision) (कंक्रीट के पाइप — परीक्षण पद्धतियाँ (दूसरा पुनरीक्षण))",
+    "sector": "Civil Engineering / Cement Matrix Products",
+    "ics_code": [
+      "23.040.50",
+      "91.100.30"
+    ],
     "sectional_committee": {
       "name": "Cement Matrix Products Sectional Committee",
       "number": "CED 53"
-    }
+    },
+    "standard_type": "GUIDE",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes laboratory and on-site testing methods for carrying out physical, mechanical, hydraulic, and structural tests on precast concrete pipes—including reinforced concrete (RCC), unreinforced (PCC), and prestressed concrete (PSC) pipes—designed for both pressure and non-pressure applications to verify design properties.",
+    "scope": "This Indian Standard prescribes laboratory and on-site testing methods for carrying out physical, mechanical, hydraulic, and structural tests on precast concrete pipes—including reinforced concrete (RCC), unreinforced (PCC), and prestressed concrete (PSC) pipes—designed for both pressure and non-pressure applications to verify design properties.",
+    "keywords": [
+      "IS 3597 : 1998",
+      "Concrete Pipes",
+      "Reinforced Concrete Pipes",
+      "Prestressed Concrete Pipes",
+      "Three-Edge Bearing Test",
+      "Hydrostatic Pressure Test",
+      "Boiling Water Absorption",
+      "Cement Mortar Coating",
+      "Pressure Permeability Test",
+      "Socket Spigot Sway",
+      "Sway Equation",
+      "CED 53",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes laboratory and on-site testing methods for carrying out physical, mechanical, hydraulic, and structural tests on precast concrete pipes—including reinforced concrete (RCC), unreinforced (PCC), and prestressed concrete (PSC) pipes—designed for both pressure and non-pressure applications to verify design properties.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, 1998 (Reaffirmed 2023) incorporating Amendment No. 3 (June 2018)",
-    "year_first_published": "1966",
+  "version": {
+    "current_version": "Second Revision, 1998 (Reaffirmed 2023) incorporating Amendment No. 3 (June 2018)",
+    "first_publication_year": 1966,
+    "publication_year": 1998,
+    "revision": "Second Revision (IS 3597 : 1998)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 3597 : 1966)",
-        "year": "1966"
-      },
-      {
-        "edition": "First Revision (IS 3597 : 1985)",
-        "year": "1985"
-      },
-      {
-        "edition": "Second Revision (IS 3597 : 1998)",
-        "year": "1998"
-      }
+      "First Edition (IS 3597 : 1966), 1966",
+      "First Revision (IS 3597 : 1985), 1985",
+      "Second Revision (IS 3597 : 1998), 1998"
     ],
-    "supersedes": "IS 3597 : 1985",
-    "superseded_by": "N/A",
-    "amendment_slips": "Amendment No. 1 (2001), Amendment No. 2, and Amendment No. 3 (June 2018)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 458 : 2003",
-      "title": "Precast concrete pipes (with and without reinforcement) — Specification (fourth revision)",
-      "category": "Product Specification",
-      "relevance": "Specifies physical sizing, concrete grades, structural design limits, and water absorption limits (max 6.5%) verified via IS 3597."
-    },
-    {
-      "is_number": "IS 784 : 2001",
-      "title": "Prestressed concrete pipes (including fittings) — Specification (second revision)",
-      "category": "Product Specification",
-      "relevance": "Specifies quality, testing, core concrete thickness, and coating guidelines for high-pressure water transmission pipelines."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated dimensions, thickness, and test loads to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 783 : 1985",
-      "title": "Code of practice for laying of concrete pipes",
-      "category": "Installation code",
-      "location": "Same Sectional Committee (CED 53)",
-      "relevance": "Directs the on-site trench excavation, bedding, pipe jointing, and on-site hydrostatic testing of conduits conforming to IS 458."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification",
-      "category": "Water quality standard",
-      "location": "Food and Agriculture Department / FAD",
-      "relevance": "Ensures water safety, requiring that installed high-pressure concrete water conduits (IS 784) prevent environmental water infiltration."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "location": "Chemical Department / CHD 08",
-      "relevance": "Directs safety audits where high-mass precast concrete pipes represent crushing, rigging, and trench-wall collapse hazards."
-    },
-    {
-      "is_number": "IS 18001 : 2007",
-      "title": "Occupational Health and Safety Management System",
-      "category": "Management standard",
-      "location": "Chemical Department / CHD 08",
-      "relevance": "Unifies risk mitigation, requiring regular structural checks of pipe slings, crane hoisting plans, and excavation cave-in protection."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork, crane gantries, and hoist anchors used to lift, transport, and align high-mass concrete pipes in manufacturing yards."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Methods of Test / Technical Laboratory Guidelines (Civil Engineering Department / Cement Matrix Products)",
-    "certification_status": "Voluntary Code of Practice. Since IS 3597 is an analytical testing standard rather than a directly sold physical retail product, it does not carry an individual physical 'ISI Mark' on its own. However, compliance with its hydrostatic, crushing, water-absorption, and joints-tolerancing protocols is strictly required in laboratory accreditation audits (under NABL ISO/IEC 17025:2017) and public sector civil works audits (including PWDs, NHAI, state water boards, and the CPWD).",
-    "requirements": [
+    "supersedes": [
+      "IS 3597 : 1985"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Hydrostatic Testing Pumping Rate",
-        "detail": "Hydrostatic barrel pressure must be maintained by continuous water pumping using a throttling device for 1 minute and 30 seconds for each 10 mm of wall thickness.",
-        "clause_reference": "Clause 7.2.4 as amended by Amendment No. 3"
+        "amendment_number": "Amendment 1",
+        "date": "2001",
+        "summary": "Amendment No. 1 (2001), Amendment No. 2, and Amendment No. 3 (June 2018)."
       },
       {
-        "requirement_type": "Hydrostatic Pressure Thickness Base",
-        "detail": "For precast concrete pipes (IS 458), the wall thickness used to compute pressure duration shall be the full barrel wall thickness. For prestressed concrete pipes (IS 784), it shall be the core concrete thickness.",
-        "clause_reference": "Clause 7.2.4 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "The Beading Correction",
-        "detail": "If the application of water pressure results in the formation of beads of water or droplets on the pipe's exterior surface, the pressure-holding period must be extended to twice the standard duration.",
-        "clause_reference": "Clause 7.2.4 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Boiling Water Absorption",
-        "detail": "The boiling water absorption is calculated by drying the full-wall specimen to constant mass at 105°C to 115°C (M1), boiling continuously for 5 hours, cooling naturally in water for 14 to 24 hours, and weighing the surface-dried specimen immediately (M2) to calculate weight gain percentage.",
-        "clause_reference": "Clause 11.3 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Water Absorption Equation",
-        "detail": "Water absorption percentage is calculated using the equation: [(M2 - M1) / M1] * 100, representing the concrete specimen's permeability.",
-        "clause_reference": "Clause 11.3 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Socket Joint Diameter Sway",
-        "detail": "The socket diameter is verified using a specialized gauge to check the out-of-roundness sway (S) by touching two circumferential points B and B1 relative to bottom anchor A.",
-        "clause_reference": "Clause 10.1 & Fig. 6 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Socket Sway Equation",
-        "detail": "The socket diameter sway is checked using the formula: S = 2 * [h * (D1 - h)]^(1/2), where D1 is the maximum permissible socket diameter.",
-        "clause_reference": "Clause 10.1.1 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Spigot Gauge Clearance Sizing",
-        "detail": "For roll-on and confined joints, the ring gauge's inside diameter must be larger than the maximum spigot diameter by exactly 1 mm to allow clearance. The spacing between gauge points is computed as: Spigot Outside Diameter + 1 mm + 1 mm.",
-        "clause_reference": "Fig. 7 and Spigot Example as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Mortar Coating Permeability Setup",
-        "detail": "Protective cement mortar coatings on finished pipes are evaluated using a specialized permeability cup and acrylic water tube clamped over the coating with 10 mm wire rope and eye-bolts under compressed air.",
-        "clause_reference": "Clause 12.1 & Fig. 8 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Coating Permeability Procedure",
-        "detail": "Before testing, the pipe's mortar cover coat must be fully saturated, the dry surface scraped with a wire brush, the equipment clamped, water filled into the acrylic tube, and pneumatic pressure applied.",
-        "clause_reference": "Clause 12.1.2 as amended by Amendment No. 3"
-      },
-      {
-        "requirement_type": "Three-Edge Crushing Strength",
-        "detail": "Crushing strength (cracking and ultimate load) is evaluated by applying continuous vertical parallel line loads through a top wooden block and supporting the barrel on two parallel bottom wooden strips, all padded with resilient rubber strips.",
-        "clause_reference": "Clause 5.2"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "All observed or calculated physical parameters, test loads, and joint clearances must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 3",
+        "date": "2018-06",
+        "summary": "Amendment No. 1 (2001), Amendment No. 2, and Amendment No. 3 (June 2018)."
       }
     ]
   },
-  "keywords": [
-    "IS 3597 : 1998",
-    "Concrete Pipes",
-    "Reinforced Concrete Pipes",
-    "Prestressed Concrete Pipes",
-    "Three-Edge Bearing Test",
-    "Hydrostatic Pressure Test",
-    "Boiling Water Absorption",
-    "Cement Mortar Coating",
-    "Pressure Permeability Test",
-    "Socket Spigot Sway",
-    "Sway Equation",
-    "CED 53",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 458 : 2003",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 784 : 2001",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 783 : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 18001 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 3597 : 1998 (Second Revision) is the primary national Indian Standard test code prescribing laboratory and on-site testing methods for reinforced (RCC), unreinforced (PCC), and prestressed concrete (PSC) pipes used in pressure and non-pressure municipal lines. Maintained under the Cement Matrix Products Sectional Committee (CED 53) and reaffirmed in 2023, the standard unifies five core testing categories: hydrostatic pressure watertightness, three-edge bearing crushing strength, water absorption, straightness, and permeability. Under subsequent updates—particularly Amendment No. 3 (June 2018)—the standard specifies precise calculations for water-absorption weight gain, introduces high-precision socket and spigot dimensional sway equations, and mandates a pressurized pneumatic permeability test using a custom-engineered water cup assembly to verify the durability of protective cement mortar coatings on finished PSC pipelines."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 3597 is an analytical testing standard rather than a directly sold physical retail product, it does not carry an individual physical 'ISI Mark' on its own. However, compliance with its hydrostatic, crushing, water-absorption, and joints-tolerancing protocols is strictly required in laboratory accreditation audits (under NABL ISO/IEC 17025:2017) and public sector civil works audits (including PWDs, NHAI, state water boards, and the CPWD).",
+    "requirements": [
+      "Hydrostatic barrel pressure must be maintained by continuous water pumping using a throttling device for 1 minute and 30 seconds for each 10 mm of wall thickness.",
+      "For precast concrete pipes (IS 458), the wall thickness used to compute pressure duration shall be the full barrel wall thickness. For prestressed concrete pipes (IS 784), it shall be the core concrete thickness.",
+      "If the application of water pressure results in the formation of beads of water or droplets on the pipe's exterior surface, the pressure-holding period must be extended to twice the standard duration.",
+      "The boiling water absorption is calculated by drying the full-wall specimen to constant mass at 105°C to 115°C (M1), boiling continuously for 5 hours, cooling naturally in water for 14 to 24 hours, and weighing the surface-dried specimen immediately (M2) to calculate weight gain percentage.",
+      "Water absorption percentage is calculated using the equation: [(M2 - M1) / M1] * 100, representing the concrete specimen's permeability.",
+      "The socket diameter is verified using a specialized gauge to check the out-of-roundness sway (S) by touching two circumferential points B and B1 relative to bottom anchor A.",
+      "The socket diameter sway is checked using the formula: S = 2 * [h * (D1 - h)]^(1/2), where D1 is the maximum permissible socket diameter.",
+      "For roll-on and confined joints, the ring gauge's inside diameter must be larger than the maximum spigot diameter by exactly 1 mm to allow clearance. The spacing between gauge points is computed as: Spigot Outside Diameter + 1 mm + 1 mm.",
+      "Protective cement mortar coatings on finished pipes are evaluated using a specialized permeability cup and acrylic water tube clamped over the coating with 10 mm wire rope and eye-bolts under compressed air.",
+      "Before testing, the pipe's mortar cover coat must be fully saturated, the dry surface scraped with a wire brush, the equipment clamped, water filled into the acrylic tube, and pneumatic pressure applied.",
+      "Crushing strength (cracking and ultimate load) is evaluated by applying continuous vertical parallel line loads through a top wooden block and supporting the barrel on two parallel bottom wooden strips, all padded with resilient rubber strips.",
+      "All observed or calculated physical parameters, test loads, and joint clearances must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "3597a3.pdf",
     "document_version_edition": "Second Revision, 1998 (incorporating Amendment No. 3, June 2018)"
   }

@@ -1,145 +1,102 @@
 {
-  "basic_identification": {
-    "is_number": "IS 16091 : 2013",
-    "full_title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
-    "sector_category": "Water Resources / Hydrometry (approved by the Water Resources Division Council and finalized by the Hydrometry Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "17.120.20",
+  "standard": {
+    "is_code": "IS 16091:2013",
+    "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+    "sector": "Water Resources / Hydrometry",
+    "ics_code": [
+      "17.120.20"
+    ],
     "sectional_committee": {
       "name": "Hydrometry Sectional Committee",
       "number": "WRD 01"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard provides a standardized method for specifying the performance of hydrometric equipment used in hydrological measurements. It establishes a performance framework to identify and evaluate the factors affecting the range of uncertainty within which a hydrological quantity is converted into a numerical quantity.",
+    "scope": "This standard provides a standardized method for specifying the performance of hydrometric equipment used in hydrological measurements. It establishes a performance framework to identify and evaluate the factors affecting the range of uncertainty within which a hydrological quantity is converted into a numerical quantity.",
+    "keywords": [
+      "IS 16091 : 2013",
+      "Open Channels",
+      "Liquid Flow Measurement",
+      "Hydrometric Equipment",
+      "Hydrological Measurement",
+      "Uncertainty Range",
+      "Controlled Timing Devices",
+      "Sampling Frequency",
+      "Oscillation Attenuation",
+      "Precipitation Units",
+      "WRD 01",
+      "World Meteorological Organization"
+    ]
   },
-  "scope": {
-    "summary": "This standard provides a standardized method for specifying the performance of hydrometric equipment used in hydrological measurements. It establishes a performance framework to identify and evaluate the factors affecting the range of uncertainty within which a hydrological quantity is converted into a numerical quantity.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 3 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, September 2013 (Reaffirmed 2023)",
-    "year_first_published": "2013",
+  "version": {
+    "current_version": "First Edition, September 2013 (Reaffirmed 2023)",
+    "first_publication_year": 2013,
+    "publication_year": 2013,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2013"
-      }
+      "First Edition, 2013"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "location": "Normative reference",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 16654 : 2017",
-      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
-      "category": "Geosynthetics / Waterways Protection",
-      "location": "Notebook Co-source",
-      "relevance": "A sister waterways engineering standard present in the notebook, specifying geobag protection systems for riverbeds and channels where hydrometric measurement stations are constructed."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "PVC Geomembranes for Lining — Specification",
-      "category": "Geosynthetics / Seepage Control",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow waterways lining standard present in the notebook, regulating seepage control and waterproofing in open canals and reservoirs."
-    },
-    {
-      "is_number": "IS 4985 : 2021",
-      "title": "Unplasticized PVC Pipes for Potable Water Supplies — Specification",
-      "category": "Piping Systems",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow water-system fluid transport standard present in the notebook, specifying dimensional tolerances and pressure classes."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in this notebook, regulating support framing, steel gantry assemblies, and connection details for open-channel monitoring platforms."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Technical Performance and Instrumentation Specification (Water Resources / Hydrometry)",
-    "certification_status": "Voluntary Quality and Performance Standard. Manufacturers of hydrometric and hydrological measuring instruments are eligible to apply for a BIS license to carry the Standard Mark (ISI Mark). Compliance with IS 16091 is widely mandated by Central Water Commission (CWC) tenders, state-level irrigation departments, flood-forecasting agencies, and meteorological laboratories to ensure instrument accuracy, uniform error metrics, and high data reliability in the field.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Uncertainty Conversion Framework",
-        "detail": "Requires hydrometric equipment performance specifications to identify, within a structured framework, all factors that affect the range of uncertainty during the conversion of a physical hydrological quantity into a recorded numerical quantity.",
-        "clause_reference": "Clause 1"
-      },
-      {
-        "requirement_type": "Operational Range Tolerance Disclosures",
-        "detail": "If the allowable measurement tolerance varies from one part of the operational range to another, the user must explicitly state both the allowable tolerance values and the sub-division of the operational range over which each specific tolerance value applies. The manufacturer must state performance characteristics over the full operational range requested.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Electronic Timing Storage and Transport Performance",
-        "detail": "For superior electronically controlled timing devices, timing performance specifications during storage and transport are classified as not applicable.",
-        "clause_reference": "Clause 7.9.3.1"
-      },
-      {
-        "requirement_type": "Extreme Condition Timing Tolerances",
-        "detail": "When superior electronically controlled timing devices operate under extreme environmental conditions, the precise timing tolerances must be explicitly stated by the manufacturer.",
-        "clause_reference": "Clause 7.9.3.2"
-      },
-      {
-        "requirement_type": "Normal Timing Tolerances",
-        "detail": "Under normal operating conditions, the timing tolerances for superior electronically controlled timing devices must be within a reference time of ± one unit for any 24-hour period.",
-        "clause_reference": "Clause 7.9.3.3"
-      },
-      {
-        "requirement_type": "Attenuation of Oscillations",
-        "detail": "Specific requirements stating the exact degree and physical nature of the attenuation must be declared if it is necessary to attenuate oscillations in the recorded hydrological phenomena.",
-        "clause_reference": "Clause 10.3"
-      },
-      {
-        "requirement_type": "International Sampling Frequency Alignment",
-        "detail": "The required frequency of sampling of the hydrological parameters must normally fall within the accepted regulations and guidelines of recognized International Organizations, such as the World Meteorological Organization (WMO).",
-        "clause_reference": "Clause 10.4"
-      },
-      {
-        "requirement_type": "Agreement Checklist Annex A",
-        "detail": "Recommends utilizing the structured checklist in Annex A to establish and document formal agreements between the user (purchaser) and the manufacturer regarding technical specifications and operating environments.",
-        "clause_reference": "Annex A-0"
-      },
-      {
-        "requirement_type": "Contaminant Suitability Statements",
-        "detail": "Likely maximum levels of contaminants must be provided to the manufacturer so they can formally indicate the suitability of their hydrometric product for that specific field application or state upper range limits for those contaminants.",
-        "clause_reference": "Clause A-1.4"
-      },
-      {
-        "requirement_type": "Atmospheric Precipitation Units",
-        "detail": "Maximum atmospheric precipitation levels must be provided in units of millimetres per hour (mm/h) for short-term, storm-type precipitation, or in millimetres per day (mm/d) for cumulative precipitation over longer periods.",
-        "clause_reference": "Clause A-1.5"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 16091 : 2013",
-    "Open Channels",
-    "Liquid Flow Measurement",
-    "Hydrometric Equipment",
-    "Hydrological Measurement",
-    "Uncertainty Range",
-    "Controlled Timing Devices",
-    "Sampling Frequency",
-    "Oscillation Attenuation",
-    "Precipitation Units",
-    "WRD 01",
-    "World Meteorological Organization"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16654 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4985 : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 16091 : 2013 (Reaffirmed 2023) is the national Indian Standard establishing a uniform method to specify the performance, accuracy, and operational limits of hydrometric equipment used to measure liquid flow in open channels. Developed under the Hydrometry Sectional Committee (WRD 01), this standard establishes a rigorous performance framework to quantify and declare measurement uncertainties when physical water flows are converted into digital or numerical records. It regulates operational tolerances, specifies timing limits for electronically controlled timing devices (including normal daily timing limits and extreme-weather specifications), aligns sampling frequencies with the World Meteorological Organization (WMO), and provides standard checklist templates for documenting procurement agreements, environmental contaminant limits, and precipitation levels in standard units."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Quality and Performance Standard. Manufacturers of hydrometric and hydrological measuring instruments are eligible to apply for a BIS license to carry the Standard Mark (ISI Mark). Compliance with IS 16091 is widely mandated by Central Water Commission (CWC) tenders, state-level irrigation departments, flood-forecasting agencies, and meteorological laboratories to ensure instrument accuracy, uniform error metrics, and high data reliability in the field.",
+    "requirements": [
+      "Requires hydrometric equipment performance specifications to identify, within a structured framework, all factors that affect the range of uncertainty during the conversion of a physical hydrological quantity into a recorded numerical quantity.",
+      "If the allowable measurement tolerance varies from one part of the operational range to another, the user must explicitly state both the allowable tolerance values and the sub-division of the operational range over which each specific tolerance value applies. The manufacturer must state performance characteristics over the full operational range requested.",
+      "For superior electronically controlled timing devices, timing performance specifications during storage and transport are classified as not applicable.",
+      "When superior electronically controlled timing devices operate under extreme environmental conditions, the precise timing tolerances must be explicitly stated by the manufacturer.",
+      "Under normal operating conditions, the timing tolerances for superior electronically controlled timing devices must be within a reference time of ± one unit for any 24-hour period.",
+      "Specific requirements stating the exact degree and physical nature of the attenuation must be declared if it is necessary to attenuate oscillations in the recorded hydrological phenomena.",
+      "The required frequency of sampling of the hydrological parameters must normally fall within the accepted regulations and guidelines of recognized International Organizations, such as the World Meteorological Organization (WMO).",
+      "Recommends utilizing the structured checklist in Annex A to establish and document formal agreements between the user (purchaser) and the manufacturer regarding technical specifications and operating environments.",
+      "Likely maximum levels of contaminants must be provided to the manufacturer so they can formally indicate the suitability of their hydrometric product for that specific field application or state upper range limits for those contaminants.",
+      "Maximum atmospheric precipitation levels must be provided in units of millimetres per hour (mm/h) for short-term, storm-type precipitation, or in millimetres per day (mm/d) for cumulative precipitation over longer periods."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "16091_2013_reaff2023.pdf",
     "document_version_edition": "First Edition, September 2013 (Reaffirmed 2023)"
   }

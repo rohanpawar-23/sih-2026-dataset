@@ -1,181 +1,120 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10116 : 2015",
-    "full_title": "Boric Acid — Specification (First Revision)",
-    "sector_category": "Chemical (approved by the Chemical Division Council and finalized by the Inorganic Chemicals Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "71.060.30",
+  "standard": {
+    "is_code": "IS 10116:2015",
+    "title": "Boric Acid — Specification (First Revision)",
+    "sector": "Chemical",
+    "ics_code": [
+      "71.060.30"
+    ],
     "sectional_committee": {
       "name": "Inorganic Chemicals Sectional Committee",
       "number": "CHD 1"
     },
-    "citations": ""
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, sampling guidelines, and testing methods for boric acid (H3BO3) used across various industrial, explosives, and specialty sectors. The material is classified into three distinct grades: Special Quality (SQ), Technical Grade, and Explosive Grade.",
+    "scope": "This standard specifies the requirements, sampling guidelines, and testing methods for boric acid (H3BO3) used across various industrial, explosives, and specialty sectors. The material is classified into three distinct grades: Special Quality (SQ), Technical Grade, and Explosive Grade.",
+    "keywords": [
+      "IS 10116:2015",
+      "Boric Acid",
+      "H3BO3",
+      "Inorganic Chemical",
+      "Special Quality (SQ)",
+      "Technical Grade (TECH)",
+      "Explosive Grade",
+      "Polishing Compounds",
+      "Flame Photometry",
+      "IS 9497 Sodium Test",
+      "589 nm wavelength",
+      "Chemical QCO 2019",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, sampling guidelines, and testing methods for boric acid (H3BO3) used across various industrial, explosives, and specialty sectors. The material is classified into three distinct grades: Special Quality (SQ), Technical Grade, and Explosive Grade.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard",
-    "citations": ""
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, 2015 (incorporating Amendment No. 1, February 2018)",
-    "year_first_published": "1982",
+  "version": {
+    "current_version": "First Revision, 2015 (incorporating Amendment No. 1, February 2018)",
+    "first_publication_year": 1982,
+    "publication_year": 2015,
+    "revision": "First Revision",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1982"
-      },
-      {
-        "edition": "First Revision",
-        "year": "2015"
-      }
+      "First Edition, 1982",
+      "First Revision, 2015"
     ],
-    "supersedes": "IS 10116 : 1982",
-    "superseded_by": "N/A",
-    "amendment_slips": [
-      {
-        "amendment_number": "Amendment No. 1",
-        "date": "February 2018",
-        "description": "Inserts a new normative reference to IS 9497 : 1980 at the end of Clause 2 [1]. Modifies Clause A-9 on Page 4 to substitute '589 nm' for '589 mm' [1], correcting the analytical wavelength of the sodium emission line, and mandates that the flame photometric test be carried out as per IS 9497 [1]."
-      }
+    "supersedes": [
+      "IS 10116 : 1982"
     ],
-    "citations": "[1]"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 9497 : 1980",
-      "title": "Method for determination of sodium and potassium (flame photometric)",
-      "category": "Normative reference / Test method",
-      "location": "Clause 2, Clause A-9 (Amended)",
-      "relevance": "Added by Amendment No. 1 to govern the flame photometric determination of sodium and potassium impurities in the boric acid specimens [1].",
-      "citations": "[1]"
-    },
-    {
-      "is_number": "IS 1070",
-      "title": "Reagent grade water — Specification (third revision)",
-      "category": "Normative reference",
-      "location": "Annex A",
-      "relevance": "Provides standardized baseline requirements for highly pure, reagent-grade water used to prepare test solutions and dilutions for chemical assaying.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 2088 : 1983",
-      "title": "Methods for determination of arsenic (second revision)",
-      "category": "Test method",
-      "location": "Annex A",
-      "relevance": "Specifies the standardized analytical test methods for detecting and limiting trace arsenic content in the chemical.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 4161 : 1967",
-      "title": "Specification for Nessler cylinders",
-      "category": "Normative reference",
-      "location": "Annex A",
-      "relevance": "Defines dimensional and glass quality standards for Nessler cylinders used in visual colorimetric comparison limit tests.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 4905 : 1968",
-      "title": "Methods for random sampling",
-      "category": "Normative reference",
-      "location": "Clause 5",
-      "relevance": "Prescribes statistical randomization methods for drawing representative bags or containers from manufacturing lots.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Controls rounding off of final observed or calculated assay and impurity levels to evaluate code compliance.",
-      "citations": ""
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15573 : 2018",
-      "title": "Poly Aluminium Chloride — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Related industrial water-treatment chemical standard under the Inorganic Chemicals Sectional Committee (CHD 1) subject to mandatory BIS certification.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 695 : 2020",
-      "title": "Acetic Acid — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Another key industrial acid standard also placed under mandatory chemical Quality Control Orders (QCO) in India.",
-      "citations": ""
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Industrial / Specialty Chemicals)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Bureau of Indian Standards (Standards for Boric Acid) Order, 2019' issued by the Ministry of Agriculture and Farmers Welfare, and the 'Chemicals (Quality Control) Order' by the Ministry of Chemicals and Fertilizers, it is a statutory offense to manufacture, import, store, distribute, or sell Boric Acid in India without a valid BIS license and the Standard Mark (ISI Mark). Export-only consignments are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to industrial chemical compounds, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
-    "requirements": [
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every conforming container or bag of Boric Acid must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
-        "reference": "Clause 5.2"
-      },
-      {
-        "requirement_type": "Mandatory Granular Form for SQ Grade",
-        "detail": "Special Quality (SQ) grade material (intended for use in capacitors, electronics, nuclear energy, foundries, and fire proofing) must be supplied exclusively in the form of granules to prevent caking and ensure handling stability.",
-        "reference": "Clause 4.2"
-      },
-      {
-        "requirement_type": "Physical Form for TECH and Explosive Grades",
-        "detail": "Technical and Explosive grade materials can be supplied in the form of granules, powder, crystals, or flakes, and must be free from odour, dirt, visible impurities, and foreign matter.",
-        "reference": "Clause 4.1 & Clause 4.2"
-      },
-      {
-        "requirement_type": "Chemical Purity (Assay) and Moisture Requirements",
-        "detail": "Boric Acid (as H3BO3) must be a minimum of 99.5 percent by mass for all grades, with moisture content limited to a maximum of 0.2 percent by mass.",
-        "reference": "Table 1 (col 4)"
-      },
-      {
-        "requirement_type": "Additional Technical Grade Polish Compounds",
-        "detail": "For technical grade (TECH) applications, additional polishing compounds must conform to specified ranges: Chloride (as Cl) of 0.05 to 0.15 percent by mass, and Sulphate (as SO4) of 0.15 to 0.25 percent by mass. These are necessary additives that reduce corrosion in end-user industrial environments (such as steel furnaces).",
-        "reference": "Clause 4.5 & Table 1"
-      },
-      {
-        "requirement_type": "Explosive Grade Impurity Thresholds",
-        "detail": "Explosive grade material must satisfy tighter limits for polishing compounds to ensure chemical stability: Chloride (as Cl) must be below 0.05% and Sulphate (as SO4) must be below 0.15%.",
-        "reference": "Clause 4.6 & Table 1"
-      },
-      {
-        "requirement_type": "Mandatory Packaging and Traceability Details",
-        "detail": "Each bag or container must be legibly and indelibly marked with: manufacturer name or trade-mark, product name, grade (Special Quality, Technical, or Explosive), physical form (Granules, Powder, Crystals, or Flakes), batch/lot number, net mass, month and year of manufacture, and shelf-life expiry date.",
-        "reference": "Clause 5.1"
-      },
-      {
-        "requirement_type": "Sodium Testing and Wavelength Correction (Amendment No. 1)",
-        "detail": "Sodium impurities must be tested via flame photometry as per IS 9497, using a corrected wavelength of 589 nm (correcting a typo in the original text which specified '589 mm') [1].",
-        "reference": "Clause A-9 (Amended) [1]"
+        "amendment_number": "Amendment 1",
+        "date": "2018-02",
+        "summary": "Inserts a new normative reference to IS 9497 : 1980 at the end of Clause 2 [1]. Modifies Clause A-9 on Page 4 to substitute '589 nm' for '589 mm' [1], correcting the analytical wavelength of the sodium emission line, and mandates that the flame photometric test be carried out as per IS 9497 [1]."
       }
     ]
   },
-  "keywords": [
-    "IS 10116:2015",
-    "Boric Acid",
-    "H3BO3",
-    "Inorganic Chemical",
-    "Special Quality (SQ)",
-    "Technical Grade (TECH)",
-    "Explosive Grade",
-    "Polishing Compounds",
-    "Flame Photometry",
-    "IS 9497 Sodium Test",
-    "589 nm wavelength",
-    "Chemical QCO 2019",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 9497 : 1980",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1070",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2088 : 1983",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4161 : 1967",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 1968",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15573 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 695 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10116:2015 is the strict national Indian Standard specification that establishes physical, chemical, and quality requirements for Boric Acid (H3BO3). Following the enforcement of national chemical Quality Control Orders, Boric Acid cannot be manufactured, imported, or sold in India without carrying the mandatory BIS Standard Mark (ISI Mark). Widespread across industries such as glass, nuclear energy, explosives, and metallurgy, the standard organizes the acid into three grades: Special Quality (SQ), Technical Grade, and Explosive Grade. Amendment No. 1 (February 2018) introduces a normative reference to IS 9497 for flame photometric analysis of sodium impurities and corrects a critical typographical error, clarifying that the test wavelength must be 589 nm (rather than 589 mm) [1]. Quality assurance teams must verify minimum purity (99.5% H3BO3) and ensure that technical grade materials fall within strict Chloride (0.05–0.15%) and Sulphate (0.15–0.25%) ranges to satisfy process and anti-corrosive demands.",
-    "citations": "[1]"
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Bureau of Indian Standards (Standards for Boric Acid) Order, 2019",
+      "year": 2019
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Bureau of Indian Standards (Standards for Boric Acid) Order, 2019' issued by the Ministry of Agriculture and Farmers Welfare, and the 'Chemicals (Quality Control) Order' by the Ministry of Chemicals and Fertilizers, it is a statutory offense to manufacture, import, store, distribute, or sell Boric Acid in India without a valid BIS license and the Standard Mark (ISI Mark). Export-only consignments are exempt if they conform to foreign buyers' specifications. Precious metal hallmarking is completely inapplicable to industrial chemical compounds, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "requirements": [
+      "Every conforming container or bag of Boric Acid must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's licence number (CM/L).",
+      "Special Quality (SQ) grade material (intended for use in capacitors, electronics, nuclear energy, foundries, and fire proofing) must be supplied exclusively in the form of granules to prevent caking and ensure handling stability.",
+      "Technical and Explosive grade materials can be supplied in the form of granules, powder, crystals, or flakes, and must be free from odour, dirt, visible impurities, and foreign matter.",
+      "Boric Acid (as H3BO3) must be a minimum of 99.5 percent by mass for all grades, with moisture content limited to a maximum of 0.2 percent by mass.",
+      "For technical grade (TECH) applications, additional polishing compounds must conform to specified ranges: Chloride (as Cl) of 0.05 to 0.15 percent by mass, and Sulphate (as SO4) of 0.15 to 0.25 percent by mass. These are necessary additives that reduce corrosion in end-user industrial environments (such as steel furnaces).",
+      "Explosive grade material must satisfy tighter limits for polishing compounds to ensure chemical stability: Chloride (as Cl) must be below 0.05% and Sulphate (as SO4) must be below 0.15%.",
+      "Each bag or container must be legibly and indelibly marked with: manufacturer name or trade-mark, product name, grade (Special Quality, Technical, or Explosive), physical form (Granules, Powder, Crystals, or Flakes), batch/lot number, net mass, month and year of manufacture, and shelf-life expiry date.",
+      "Sodium impurities must be tested via flame photometry as per IS 9497, using a corrected wavelength of 589 nm (correcting a typo in the original text which specified '589 mm') [1]."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10116a1.pdf",
-    "document_version_edition": "First Revision, 2015 (incorporating Amendment No. 1, February 2018)",
-    "citations": "[1]"
+    "document_version_edition": "First Revision, 2015 (incorporating Amendment No. 1, February 2018)"
   }
 }

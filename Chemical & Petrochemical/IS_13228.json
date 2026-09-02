@@ -1,158 +1,126 @@
 {
-  "basic_identification": {
-    "is_number": "IS 13228 : 2006",
-    "full_title": "Corrugated Fibreboard Boxes for Packing and Transportation — Specification (पैकिंग और परिवहन के लिए नालीदार फाइबरबोर्ड बक्से — विशिष्टि) (First Revision)",
-    "sector_category": "Chemical / Paper and Paper Products (approved by the Chemical Division Council and finalized by the Paper and Paper Products Sectional Committee, CHD 15, of the Bureau of Indian Standards)",
-    "ics_code": "55.160; 85.060",
+  "standard": {
+    "is_code": "IS 13228:2006",
+    "title": "Corrugated Fibreboard Boxes for Packing and Transportation — Specification (पैकिंग और परिवहन के लिए नालीदार फाइबरबोर्ड बक्से — विशिष्टि) (First Revision)",
+    "sector": "Chemical / Paper and Paper Products",
+    "ics_code": [
+      "55.160",
+      "85.060"
+    ],
     "sectional_committee": {
       "name": "Paper and Paper Products Sectional Committee",
       "number": "CHD 15"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the technical specifications, standard box styles, dimensional tolerances, and mechanical strength requirements (including bursting strength, puncture resistance, water absorbency, and top-to-bottom compression strength) for corrugated fibreboard boxes utilized in the packing, storage, and transportation of various commercial and industrial goods.",
+    "scope": "This standard prescribes the technical specifications, standard box styles, dimensional tolerances, and mechanical strength requirements (including bursting strength, puncture resistance, water absorbency, and top-to-bottom compression strength) for corrugated fibreboard boxes utilized in the packing, storage, and transportation of various commercial and industrial goods.",
+    "keywords": [
+      "IS 13228 : 2006",
+      "Corrugated Fibreboard Boxes",
+      "Bursting Strength",
+      "Box Compression",
+      "Puncture Resistance",
+      "Cobb Sizing Test",
+      "Water Absorbency",
+      "Style 0201",
+      "Paper Packaging",
+      "FEFCO Styles",
+      "CHD 15",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the technical specifications, standard box styles, dimensional tolerances, and mechanical strength requirements (including bursting strength, puncture resistance, water absorbency, and top-to-bottom compression strength) for corrugated fibreboard boxes utilized in the packing, storage, and transportation of various commercial and industrial goods.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, 2006 (Reaffirmed 2022 by CHD 15)",
-    "year_first_published": "1991",
+  "version": {
+    "current_version": "First Revision, 2006 (Reaffirmed 2022 by CHD 15)",
+    "first_publication_year": 1991,
+    "publication_year": 2006,
+    "revision": "First Revision (IS 13228 : 2006)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 13228 : 1991)",
-        "year": "1991"
-      },
-      {
-        "edition": "First Revision (IS 13228 : 2006)",
-        "year": "2006"
-      }
+      "First Edition (IS 13228 : 1991), 1991",
+      "First Revision (IS 13228 : 2006), 2006"
     ],
-    "supersedes": "IS 13228 : 1991",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1060 (Part 1) : 1966",
-      "title": "Methods of sampling and test for paper and allied products: Part 1 (revised)",
-      "category": "Testing standard",
-      "relevance": "Provides sampling scales, sample preparation, and testing methods to verify paperboard grammage and bursting strength."
-    },
-    {
-      "is_number": "IS 2771 (Part 1) : 1990",
-      "title": "Corrugated fibre board boxes – Specification: Part 1 General requirements (second revision)",
-      "category": "Product Specification",
-      "relevance": "Establishes raw-material guidelines, board styles, and dimensional tolerances for standard corrugated boxes."
-    },
-    {
-      "is_number": "IS 4006 (Part 1) : 1985",
-      "title": "Methods of test for paper and pulp based packaging materials: Part 1",
-      "category": "Testing standard",
-      "relevance": "Specifies testing methods to measure water absorbency (Cobb value) and puncture resistance."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters and testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10066 : 1981",
-      "title": "Corrugated fibreboard boxes for packing cigarettes",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (CHD 15)",
-      "relevance": "A specialized corrugated packaging standard designed specifically to prevent aromatic and moisture-sensitive degradation in cigarette shipments."
-    },
-    {
-      "is_number": "IS 11844 : 1987",
-      "title": "Corrugated fibreboard boxes for transport packaging of apples",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (CHD 15)",
-      "relevance": "Regulates vented, high-strength packaging constructed to withstand cold-storage humidity and stack loads during fruit transport."
-    },
-    {
-      "is_number": "IS 12212 : 1987",
-      "title": "Corrugated fibreboard boxes for transport packaging of butter packed in primary cartons",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (CHD 15)",
-      "relevance": "Controls thermal insulation, moisture ingress, and structural stack limits for butter packaging."
-    },
-    {
-      "is_number": "IS 16066 : 2017",
-      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
-      "category": "Food Safety standard",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates packaging hygiene, mandating that containers holding ingredients or raw foods protect them from environmental contamination."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Notebook Co-source",
-      "relevance": "Ensures potability of water, which is relevant for the wet processing of pulp and manufacturing of adhesives used in corrugated box production."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural packaging mills, paper warehouses, and storage sheds."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification / Packaging Code (Chemical Department / Paper and Paper Products)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a license to use the prestigious BIS 'Standard Mark' (ISI Mark) to print on box flaps as a certified assurance of quality, strength, and transit durability. Additionally, compliance with IS 13228 is strictly integrated into commercial export agreements, government food procurement tenders, and logistics standards across India.",
-    "requirements": [
+    "supersedes": [
+      "IS 13228 : 1991"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Water Absorbency (Cobb Test) Limits",
-        "detail": "The outer liner of the corrugated box must undergo a 30-minute water absorption test (Cobb sizing test) conforming to IS 4006 (Part 1). The Cobb value (expressed in g/m²) must remain strictly within specified limits to ensure moisture-resistance during humid transit."
-      },
-      {
-        "requirement_type": "Bursting Strength Thresholds",
-        "detail": "The finished board or liner must withstand a minimum bursting strength (expressed in kg/cm²) relative to its load capacity. For heavy-duty boxes (e.g., frozen seafood up to 25 kg), the bursting strength is capped at a minimum of 14 kg/cm²."
-      },
-      {
-        "requirement_type": "Puncture Resistance Test",
-        "detail": "For multi-ply corrugated boards (such as 5-ply or 7-ply constructions), a puncture resistance test (conforming to IS 4006 Part 1) must be conducted. For heavy-duty seafood shipments, the puncture resistance must be not less than 80 kgf·cm to ensure resistance to external impacts."
-      },
-      {
-        "requirement_type": "Box Compression Strength",
-        "detail": "The completed, closed box must undergo top-to-bottom compression strength tests to verify stacking capacity. For high-weight seafood storage, the box must withstand a compression load of not less than 200 kgf/cm of base perimeter to prevent stack collapse."
-      },
-      {
-        "requirement_type": "Styles of Fibreboard Containers",
-        "detail": "Boxes must be manufactured in standard styles (such as Style 0201 regular slotted containers, or Style 0204 telescope containers) conforming to Indian guidelines and international FEFCO codes."
-      },
-      {
-        "requirement_type": "Adhesive and Joint Play",
-        "detail": "The manufacturer must ensure that the starch-based or silicate adhesives provide a uniform bond across all flutes without delamination. The manufacturer's joint (stitched or glued) must be secure, presenting no gaps or loose staples."
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or analytical value (such as bursting strength, compression load, or Cobb absorption) must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match the specified limit in this standard."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 13228 : 2006",
-    "Corrugated Fibreboard Boxes",
-    "Bursting Strength",
-    "Box Compression",
-    "Puncture Resistance",
-    "Cobb Sizing Test",
-    "Water Absorbency",
-    "Style 0201",
-    "Paper Packaging",
-    "FEFCO Styles",
-    "CHD 15",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 1060 (Part 1) : 1966",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2771 (Part 1) : 1990",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4006 (Part 1) : 1985",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10066 : 1981",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11844 : 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12212 : 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16066 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 13228 : 2006 (First Revision) is the primary national Indian Standard specification establishing technical requirements, mechanical properties, box styles, and testing methods for corrugated fibreboard boxes used in packing and transportation. Developed under the Paper and Paper Products Sectional Committee (CHD 15) and reaffirmed in 2022, this standard regulates corrugated boxes utilized across food, chemical, pharmaceutical, and logistics sectors. It unifies essential mechanical parameters—including water absorbency Cobb limits, bursting strength, puncture resistance, and top-to-bottom box compression—ensuring uniform box structural durability, moisture resistance in transit, and safe, stackable transport operations nationwide."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a license to use the prestigious BIS 'Standard Mark' (ISI Mark) to print on box flaps as a certified assurance of quality, strength, and transit durability. Additionally, compliance with IS 13228 is strictly integrated into commercial export agreements, government food procurement tenders, and logistics standards across India.",
+    "requirements": [
+      "The outer liner of the corrugated box must undergo a 30-minute water absorption test (Cobb sizing test) conforming to IS 4006 (Part 1). The Cobb value (expressed in g/m²) must remain strictly within specified limits to ensure moisture-resistance during humid transit.",
+      "The finished board or liner must withstand a minimum bursting strength (expressed in kg/cm²) relative to its load capacity. For heavy-duty boxes (e.g., frozen seafood up to 25 kg), the bursting strength is capped at a minimum of 14 kg/cm².",
+      "For multi-ply corrugated boards (such as 5-ply or 7-ply constructions), a puncture resistance test (conforming to IS 4006 Part 1) must be conducted. For heavy-duty seafood shipments, the puncture resistance must be not less than 80 kgf·cm to ensure resistance to external impacts.",
+      "The completed, closed box must undergo top-to-bottom compression strength tests to verify stacking capacity. For high-weight seafood storage, the box must withstand a compression load of not less than 200 kgf/cm of base perimeter to prevent stack collapse.",
+      "Boxes must be manufactured in standard styles (such as Style 0201 regular slotted containers, or Style 0204 telescope containers) conforming to Indian guidelines and international FEFCO codes.",
+      "The manufacturer must ensure that the starch-based or silicate adhesives provide a uniform bond across all flutes without delamination. The manufacturer's joint (stitched or glued) must be secure, presenting no gaps or loose staples.",
+      "Any observed or calculated test or analytical value (such as bursting strength, compression load, or Cobb absorption) must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match the specified limit in this standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "Research_report_IS_13228_Corrugated_Boxes.md",
     "document_version_edition": "First Revision, 2006"
   }

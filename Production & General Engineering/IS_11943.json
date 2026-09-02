@@ -1,112 +1,83 @@
 {
-  "basic_identification": {
-    "is_number": "IS : 11943 (Part 9) - 1987",
-    "full_title": "SPECIFICATION FOR HARD METAL BURRS — PART 9 : 60° AND 90° CONE BURRS (TYPE J AND K)",
-    "sector_category": "Small Tools Sectional Committee, EDC 45 (Approved and adopted under the Bureau of Indian Standards)",
-    "ics_code": "UDC 621.914.28-025.7 [ 669.018.25 ]",
+  "standard": {
+    "is_code": "IS : 11943 (Part 9) - 1987",
+    "title": "SPECIFICATION FOR HARD METAL BURRS — PART 9 : 60° AND 90° CONE BURRS (TYPE J AND K)",
+    "sector": "Small Tools Sectional Committee, EDC 45",
+    "ics_code": [
+      "UDC 621.914.28-025.7 [ 669.018.25 ]"
+    ],
     "sectional_committee": {
       "name": "Small Tools Sectional Committee",
       "number": "EDC 45"
-    }
-  },
-  "scope": {
-    "summary": "This standard prescribes the dimensions and other requirements of hard metal burrs of 60° cone, Type J and 90° cone, Type K.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, June 1987 (Adopted March 1987, Reaffirmed 2003)",
-    "year_first_published": "1987",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1987"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS : 11943 (Part 1) - 1987",
-      "title": "Hard metal burrs: Part 1 Technical supply conditions for hard metal burrs",
-      "category": "Normative / Technical Supply Conditions",
-      "location": "Clause 3 / Explanatory Note",
-      "relevance": "Governs the raw materials, quality, testing, inspection, and other general technical supply criteria for hard metal burrs. Note: Clause 3 of the printed base standard contains a minor typographical error referencing 'S : 11948 (Part 1) - 1987', which is subsequently clarified in the Explanatory Note as Part 1 of the same standard series (IS 11943)."
     },
-    {
-      "is_number": "ISO 7755/9 - 1984",
-      "title": "Hard metal burrs — Part 9: 60° and 90° cone burrs (styles J and K)",
-      "category": "International Reference / Design Basis Standard",
-      "location": "Explanatory Note",
-      "relevance": "The international standard issued by the International Organization for Standardization (ISO) from which considerable technical assistance was derived in compiling this Indian Standard."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS : 11943 (Part 1) - 1987",
-      "title": "Hard metal burrs: Part 1 Technical supply conditions for hard metal burrs",
-      "category": "Normative / Technical Supply Conditions",
-      "location": "Clause 3 / Explanatory Note",
-      "relevance": "Governs the raw materials, quality, testing, inspection, and other general technical supply criteria for hard metal burrs. Note: Clause 3 of the printed base standard contains a minor typographical error referencing 'S : 11948 (Part 1) - 1987', which is subsequently clarified in the Explanatory Note as Part 1 of the same standard series (IS 11943)."
-    },
-    {
-      "is_number": "ISO 7755/9 - 1984",
-      "title": "Hard metal burrs — Part 9: 60° and 90° cone burrs (styles J and K)",
-      "category": "International Reference / Design Basis Standard",
-      "location": "Explanatory Note",
-      "relevance": "The international standard issued by the International Organization for Standardization (ISO) from which considerable technical assistance was derived in compiling this Indian Standard."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Hard Metal Burrs / Machining Tools)",
-    "certification_status": "Certification marking details and licensing rules are available directly with the Bureau of Indian Standards.",
-    "requirements": [
-      {
-        "requirement_type": "Design and Angular Styles",
-        "detail": "Defines two conical profiles based on angular shape (α): Type J representing 60° cone burrs, and Type K representing 90° cone burrs.",
-        "clause_reference": "Clause 1 & Table 1"
-      },
-      {
-        "requirement_type": "Standard Sizing and Nominal Diameters",
-        "detail": "Prescribes standard nominal head diameters (d) as: 3 mm, 6 mm, 10 mm, 12 mm, and 15 mm.",
-        "clause_reference": "Clause 2 & Table 1"
-      },
-      {
-        "requirement_type": "Calculated Cutting Length Sizing (l)",
-        "detail": "Establishes calculated cutting length limits (l) in millimetres per nominal diameter (d): \na) For 60° Cone (Type J): d=3 (2.6 mm), d=6 (5.2 mm), d=10 (8.7 mm), d=12 (10.4 mm), d=15 (13.6 mm). \nb) For 90° Cone (Type K): d=3 (1.5 mm), d=6 (1 mm), d=10 (5 mm), d=12 (6 mm), d=15 (8 mm).",
-        "clause_reference": "Clause 2 & Table 1"
-      },
-      {
-        "requirement_type": "General Requirements and Parent Standard",
-        "detail": "For any mechanical, material, or testing requirements not explicitly covered by this part, the burrs must comply with Part 1 of the standard (typographically printed in Clause 3 as S : 11948 (Part 1) - 1987).",
-        "clause_reference": "Clause 3"
-      },
-      {
-        "requirement_type": "Marking Requirements",
-        "detail": "Requires each burr to be legibly and durably marked with its specific designation code and the manufacturer's name or registered trade-mark.",
-        "clause_reference": "Clause 4"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the dimensions and other requirements of hard metal burrs of 60° cone, Type J and 90° cone, Type K.",
+    "scope": "This standard prescribes the dimensions and other requirements of hard metal burrs of 60° cone, Type J and 90° cone, Type K.",
+    "keywords": [
+      "IS 11943 (Part 9) : 1987",
+      "Hard Metal Burrs",
+      "Type J Burrs",
+      "Type K Burrs",
+      "60 Degree Cone Burrs",
+      "90 Degree Cone Burrs",
+      "EDC 45",
+      "ISO 7755/9",
+      "IS 11943 Part 1",
+      "Technical Supply Conditions",
+      "Calculated Cutting Lengths"
     ]
   },
-  "keywords": [
-    "IS 11943 (Part 9) : 1987",
-    "Hard Metal Burrs",
-    "Type J Burrs",
-    "Type K Burrs",
-    "60 Degree Cone Burrs",
-    "90 Degree Cone Burrs",
-    "EDC 45",
-    "ISO 7755/9",
-    "IS 11943 Part 1",
-    "Technical Supply Conditions",
-    "Calculated Cutting Lengths"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 11943 (Part 9) : 1987 is the national Indian Standard specification governing 60° cone (Type J) and 90° cone (Type K) hard metal burrs. First published in 1987 and reaffirmed in 2003, it establishes dimensional limits (diameters 3 mm to 15 mm) and calculated cutting lengths for both angular types. To ensure manufacturing quality and material consistency, it mandates that all supply parameters, testing, and inspection conditions conform to Part 1 of the standard (IS 11943 Part 1 / typographically cited in Clause 3 as IS 11948 Part 1) and requires each burr to carry its specific designation code and manufacturer mark."
+  "version": {
+    "current_version": "First Edition, June 1987 (Adopted March 1987, Reaffirmed 2003)",
+    "first_publication_year": 1987,
+    "publication_year": 1987,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1987"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS : 11943 (Part 1) - 1987",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 7755/9 - 1984",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS : 11943 (Part 1) - 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 7755/9 - 1984",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Certification marking details and licensing rules are available directly with the Bureau of Indian Standards.",
+    "requirements": [
+      "Defines two conical profiles based on angular shape (α): Type J representing 60° cone burrs, and Type K representing 90° cone burrs.",
+      "Prescribes standard nominal head diameters (d) as: 3 mm, 6 mm, 10 mm, 12 mm, and 15 mm.",
+      "Establishes calculated cutting length limits (l) in millimetres per nominal diameter (d): \na) For 60° Cone (Type J): d=3 (2.6 mm), d=6 (5.2 mm), d=10 (8.7 mm), d=12 (10.4 mm), d=15 (13.6 mm). \nb) For 90° Cone (Type K): d=3 (1.5 mm), d=6 (1 mm), d=10 (5 mm), d=12 (6 mm), d=15 (8 mm).",
+      "For any mechanical, material, or testing requirements not explicitly covered by this part, the burrs must comply with Part 1 of the standard (typographically printed in Clause 3 as S : 11948 (Part 1) - 1987).",
+      "Requires each burr to be legibly and durably marked with its specific designation code and the manufacturer's name or registered trade-mark."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "11943_9.pdf",
     "document_version_edition": "First Edition, June 1987 (Reaffirmed 2003)"
   }

@@ -1,207 +1,146 @@
 {
-  "basic_identification": {
-    "is_number": "IS 13636 : 1993",
-    "full_title": "Pliers and Nippers for Electronics — Technical Supply Conditions",
-    "sector_category": "Production Engineering / Assembly Hand Tools (finalized by the Assembly Hand Tools Sectional Committee PE 05 and approved by the Production Engineering Division Council of the Bureau of Indian Standards) [1]",
-    "ics_code": "UDC 621-881-4 [ 621.38 ] : 066.87 [1]",
+  "standard": {
+    "is_code": "IS 13636:1993",
+    "title": "Pliers and Nippers for Electronics — Technical Supply Conditions",
+    "sector": "Production Engineering / Assembly Hand Tools",
+    "ics_code": [
+      "UDC 621-881-4 [ 621.38 ] : 066.87 [1]"
+    ],
     "sectional_committee": {
       "name": "Assembly Hand Tools Sectional Committee",
       "number": "PE 05 [1]"
-    }
-  },
-  "scope": {
-    "summary": "This standard specifies the technical supply conditions for pliers and nippers for electronics used manually for gripping and cutting while working on electronic gadgets [2]. It explicitly excludes tools intended for working on live electrical circuits and antistatic applications [2].",
-    "clause_number": "Clause 1.1 / Note under Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, February 1993 (Reaffirmed 2003) [1]",
-    "year_first_published": "1993 [1]",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1993 [1]"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2155 : 1982",
-      "title": "Cold forged solid steel rivets for hot closing (6 to 16 mm diameter)",
-      "category": "Normative / Rivet Component Standard",
-      "location": "Clause 2.1 & Clause 5.1",
-      "relevance": "Specifies the dimensions and manufacturing requirements for the solid steel rivets used to joint the plier arms [3, 4]."
     },
-    {
-      "is_number": "IS 2500 (Part 1) : 1992",
-      "title": "Sampling inspection procedures : Part 1 Attribute sampling plans indexed by acceptable quality level (AQL) for lot-by-lot inspection (second revision)",
-      "category": "Testing / Sampling and Quality Control Standard",
-      "location": "Clause 2.1",
-      "relevance": "Governs the statistical sampling plans, batch inspections, and quality levels necessary to certify lot compliance [3]."
-    },
-    {
-      "is_number": "IS 2615 : 1989",
-      "title": "Pliers, pincers and nippers - Technical supply conditions (second revision)",
-      "category": "Normative / General Hand Tools Standard",
-      "location": "Foreword, Clause 2.1 & Clause 6",
-      "relevance": "Provides the baseline technical supply conditions and hardness test methods for general purpose pliers, which serve as a foundational reference [3-5]."
-    },
-    {
-      "is_number": "IS 3749 : 1978",
-      "title": "Tool and die steel for cold work (first revision)",
-      "category": "Normative / Material Tool Steel Standard",
-      "location": "Clause 2.1 & Clause 5.1",
-      "relevance": "Defines the chemical composition and requirements for tool steel grades (such as 65T6, 70T3, and 75T6) suitable for hot-forged bodies of electronics pliers and nippers [3, 4]."
-    },
-    {
-      "is_number": "IS 4412 : 1981",
-      "title": "Copper wires for general engineering purposes (first revision)",
-      "category": "Normative / Testing Specimen Material Standard",
-      "location": "Clause 2.1",
-      "relevance": "Specifies standard soft copper wires to be utilized as test specimens for evaluating cutting performances [3, 4]."
-    },
-    {
-      "is_number": "IS 13610 : 1992",
-      "title": "Electronic pliers and nippers - Nomenclature",
-      "category": "Normative / Design and Nomenclature Standard",
-      "location": "Clause 2.1, Clause 3, Clause 4.1 & Clause 9.1",
-      "relevance": "Prescribes standard definitions, nose profiles, gripping styles, handle geometries, and the designation structure for electronic hand tools [3, 4, 6]."
-    },
-    {
-      "is_number": "ISO 9656 : 1989",
-      "title": "Pliers and nippers for electronics general technical requirements",
-      "category": "International Reference / Technical Specification",
-      "location": "Foreword",
-      "relevance": "The international standard from which technical requirements were derived to align Indian surveying and electronics tooling designs with global systems [2, 5]."
-    },
-    {
-      "is_number": "ISO 9657 : 1989",
-      "title": "Pliers and nippers for electronics - Test methods",
-      "category": "International Reference / Test Method Specification",
-      "location": "Foreword",
-      "relevance": "The international test standard providing established procedural blueprints for functional and mechanical testing of electronic pliers [2, 5]."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 2155 : 1982",
-      "title": "Cold forged solid steel rivets for hot closing (6 to 16 mm diameter)",
-      "category": "Normative / Rivet Component Standard",
-      "location": "Clause 2.1 & Clause 5.1",
-      "relevance": "Specifies the dimensions and manufacturing requirements for the solid steel rivets used to joint the plier arms [3, 4]."
-    },
-    {
-      "is_number": "IS 2500 (Part 1) : 1992",
-      "title": "Sampling inspection procedures : Part 1 Attribute sampling plans indexed by acceptable quality level (AQL) for lot-by-lot inspection (second revision)",
-      "category": "Testing / Sampling and Quality Control Standard",
-      "location": "Clause 2.1",
-      "relevance": "Governs the statistical sampling plans, batch inspections, and quality levels necessary to certify lot compliance [3]."
-    },
-    {
-      "is_number": "IS 2615 : 1989",
-      "title": "Pliers, pincers and nippers - Technical supply conditions (second revision)",
-      "category": "Normative / General Hand Tools Standard",
-      "location": "Foreword, Clause 2.1 & Clause 6",
-      "relevance": "Provides the baseline technical supply conditions and hardness test methods for general purpose pliers, which serve as a foundational reference [3-5]."
-    },
-    {
-      "is_number": "IS 3749 : 1978",
-      "title": "Tool and die steel for cold work (first revision)",
-      "category": "Normative / Material Tool Steel Standard",
-      "location": "Clause 2.1 & Clause 5.1",
-      "relevance": "Defines the chemical composition and requirements for tool steel grades (such as 65T6, 70T3, and 75T6) suitable for hot-forged bodies of electronics pliers and nippers [3, 4]."
-    },
-    {
-      "is_number": "IS 4412 : 1981",
-      "title": "Copper wires for general engineering purposes (first revision)",
-      "category": "Normative / Testing Specimen Material Standard",
-      "location": "Clause 2.1",
-      "relevance": "Specifies standard soft copper wires to be utilized as test specimens for evaluating cutting performances [3, 4]."
-    },
-    {
-      "is_number": "IS 13610 : 1992",
-      "title": "Electronic pliers and nippers - Nomenclature",
-      "category": "Normative / Design and Nomenclature Standard",
-      "location": "Clause 2.1, Clause 3, Clause 4.1 & Clause 9.1",
-      "relevance": "Prescribes standard definitions, nose profiles, gripping styles, handle geometries, and the designation structure for electronic hand tools [3, 4, 6]."
-    },
-    {
-      "is_number": "ISO 9656 : 1989",
-      "title": "Pliers and nippers for electronics general technical requirements",
-      "category": "International Reference / Technical Specification",
-      "location": "Foreword",
-      "relevance": "The international standard from which technical requirements were derived to align Indian surveying and electronics tooling designs with global systems [2, 5]."
-    },
-    {
-      "is_number": "ISO 9657 : 1989",
-      "title": "Pliers and nippers for electronics - Test methods",
-      "category": "International Reference / Test Method Specification",
-      "location": "Foreword",
-      "relevance": "The international test standard providing established procedural blueprints for functional and mechanical testing of electronic pliers [2, 5]."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Electronics Assembly / Hand Tools)",
-    "certification_status": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing assurance of third-party certified mechanical and testing parameters.",
-    "requirements": [
-      {
-        "requirement_type": "Materials and Steel Selection",
-        "detail": "Tools must be made from high-quality carbon or alloy steels [4]. Suitable tool steel examples conforming to IS 3749 : 1978 include grades 65T6, 70T3, and 75T6 [4]. Rivets must conform to IS 2155 : 1982 [4].",
-        "clause_reference": "Clauses 5.1 & 5.1.1"
-      },
-      {
-        "requirement_type": "Whole Handle Insulation",
-        "detail": "For insulated variants, sleeves or insulating materials must cover the entire handle including the outer shoulder [4]. Materials must withstand high-voltage insulation tests per Clause 8.5, but the test voltage must not be printed on the tool or insulation [4]. Completed insulation is not a absolute guarantee of safety against subsequent mechanical damage, liquids, or perspiration [4].",
-        "clause_reference": "Clause 5.2 & Caution Note"
-      },
-      {
-        "requirement_type": "Double-Hardened Zones",
-        "detail": "Tools must carry differential heat treatment hardness. The main tool body must hold a hardness of 350 to 510 HV (~35 to 50 HRC) [4]. The wear-intensive cutting edges must be separately hardened to a range of 510 to 700 HV (~50 to 60 HRC) [4].",
-        "clause_reference": "Clause 6"
-      },
-      {
-        "requirement_type": "Assembly Workmanship and Rivet Fit",
-        "detail": "Pliers and nippers must be solid forged to shape [4]. Joint rivets must carry an interference fit in one of the tool arms and a free fit in the other, finished completely flush with the surrounding surfaces [4]. Gripping jaws and cutting blades must be hardened and tempered cleanly, and any serrations must be neatly cut to ensure firm gripping [4].",
-        "clause_reference": "Clause 7.1.1"
-      },
-      {
-        "requirement_type": "Flat Nose and Snipe Nose Load Test",
-        "detail": "Requires applying test load F8, calculated per formulae in Tables 2 and 3 [7]. Jaws must grip a 3 mm thick test piece over a length of 2 mm from the tip [7]. The test piece hardness must be between 40 HRC and 40 HRC [7]. Upon load release, the tool must show zero damage affecting its mechanical operation [7].",
-        "clause_reference": "Clauses 8.4, 8.4.1 & 8.4.2"
-      },
-      {
-        "requirement_type": "Pliers Ordering Designation format",
-        "detail": "Pliers are designated per IS 13610 : 1992 in the following order: shape of nose (end view), shape of nose (longitudinal), presence of serrations, and presence of grooves [6].",
-        "clause_reference": "Clause 9.1"
-      },
-      {
-        "requirement_type": "Nippers Ordering Designation format",
-        "detail": "Nippers are designated per IS 13610 : 1992 in the following order: direction and position of cutting edges, type and shape of cutting edges, and the specific field of application [6].",
-        "clause_reference": "Clause 9.1"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the technical supply conditions for pliers and nippers for electronics used manually for gripping and cutting while working on electronic gadgets [2]. It explicitly excludes tools intended for working on live electrical circuits and antistatic applications [2].",
+    "scope": "This standard specifies the technical supply conditions for pliers and nippers for electronics used manually for gripping and cutting while working on electronic gadgets [2]. It explicitly excludes tools intended for working on live electrical circuits and antistatic applications [2].",
+    "keywords": [
+      "IS 13636 : 1993",
+      "Electronic Pliers",
+      "Electronic Nippers",
+      "Assembly Hand Tools",
+      "PE 05",
+      "Tool Steel 65T6",
+      "Hardness 700 HV",
+      "Insulated Handle",
+      "Load Test F8",
+      "Rivet Fit",
+      "IS 13610",
+      "ISO 9656"
     ]
   },
-  "keywords": [
-    "IS 13636 : 1993",
-    "Electronic Pliers",
-    "Electronic Nippers",
-    "Assembly Hand Tools",
-    "PE 05",
-    "Tool Steel 65T6",
-    "Hardness 700 HV",
-    "Insulated Handle",
-    "Load Test F8",
-    "Rivet Fit",
-    "IS 13610",
-    "ISO 9656"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 13636 : 1993 is the national Indian Standard specification governing technical supply conditions for manual gripping and cutting pliers and nippers designed specifically for electronic assembly work, such as on printed circuit boards and electronic components [1, 2, 5]. Drawing dimensional and testing blueprints from ISO 9656 and ISO 9657, the standard outlines requirements for raw materials, specifying tool steel grades like 65T6 and 70T3 [4, 5]. It enforces a dual-hardness heat treatment scheme where the main tool body carries a hardness of 350 to 510 HV while the high-wear cutting edges are hardened to 510 to 700 HV to prevent dulling [4]. Furthermore, the standard outlines mechanical load testing limits (such as the tip-gripping load test on a 40 HRC hardened test piece), defines strict flush joint rivet assembly rules, and prescribes detailed designation sequences based on nose geometries to streamline industrial procurement [4, 6, 7]."
+  "version": {
+    "current_version": "First Edition, February 1993 (Reaffirmed 2003) [1]",
+    "first_publication_year": 1993,
+    "publication_year": 1993,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1993 [1]"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS 2155 : 1982",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2500 (Part 1) : 1992",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2615 : 1989",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3749 : 1978",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4412 : 1981",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13610 : 1992",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 9656 : 1989",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 9657 : 1989",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2155 : 1982",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2500 (Part 1) : 1992",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2615 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3749 : 1978",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4412 : 1981",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13610 : 1992",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 9656 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 9657 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing assurance of third-party certified mechanical and testing parameters.",
+    "requirements": [
+      "Tools must be made from high-quality carbon or alloy steels [4]. Suitable tool steel examples conforming to IS 3749 : 1978 include grades 65T6, 70T3, and 75T6 [4]. Rivets must conform to IS 2155 : 1982 [4].",
+      "For insulated variants, sleeves or insulating materials must cover the entire handle including the outer shoulder [4]. Materials must withstand high-voltage insulation tests per Clause 8.5, but the test voltage must not be printed on the tool or insulation [4]. Completed insulation is not a absolute guarantee of safety against subsequent mechanical damage, liquids, or perspiration [4].",
+      "Tools must carry differential heat treatment hardness. The main tool body must hold a hardness of 350 to 510 HV (~35 to 50 HRC) [4]. The wear-intensive cutting edges must be separately hardened to a range of 510 to 700 HV (~50 to 60 HRC) [4].",
+      "Pliers and nippers must be solid forged to shape [4]. Joint rivets must carry an interference fit in one of the tool arms and a free fit in the other, finished completely flush with the surrounding surfaces [4]. Gripping jaws and cutting blades must be hardened and tempered cleanly, and any serrations must be neatly cut to ensure firm gripping [4].",
+      "Requires applying test load F8, calculated per formulae in Tables 2 and 3 [7]. Jaws must grip a 3 mm thick test piece over a length of 2 mm from the tip [7]. The test piece hardness must be between 40 HRC and 40 HRC [7]. Upon load release, the tool must show zero damage affecting its mechanical operation [7].",
+      "Pliers are designated per IS 13610 : 1992 in the following order: shape of nose (end view), shape of nose (longitudinal), presence of serrations, and presence of grooves [6].",
+      "Nippers are designated per IS 13610 : 1992 in the following order: direction and position of cutting edges, type and shape of cutting edges, and the specific field of application [6]."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "13636_1993_reff2020.pdf",
     "document_version_edition": "First Edition, 1993 (Reaffirmed 2003)"
   }

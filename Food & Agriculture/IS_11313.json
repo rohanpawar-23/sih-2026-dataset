@@ -1,169 +1,129 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11313 : 2007",
-    "full_title": "Hydraulic Power Sprayers — Specification (First Revision) (द्रवचालित पावर स्प्रेयर — विशिष्टि (पहला पुनरीक्षण))",
-    "sector_category": "Food and Agriculture / Agricultural Machinery and Equipment (approved by the Food and Agriculture Divisional Council and finalized by the Agricultural Machinery and Equipment Sectional Committee, FAD 11, of the Bureau of Indian Standards)",
-    "ics_code": "65.060.40",
+  "standard": {
+    "is_code": "IS 11313:2007",
+    "title": "Hydraulic Power Sprayers — Specification (First Revision) (द्रवचालित पावर स्प्रेयर — विशिष्टि (पहला पुनरीक्षण))",
+    "sector": "Food and Agriculture / Agricultural Machinery and Equipment",
+    "ics_code": [
+      "65.060.40"
+    ],
     "sectional_committee": {
       "name": "Agricultural Machinery and Equipment Sectional Committee",
       "number": "FAD 11"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the technical specifications, performance limits, material requirements, and methods of sampling and test for hydraulic power sprayers (including engine-operated and motor-operated knapsack, portable, and trolley-mounted sprayers) used in agriculture, horticulture, forestry, and public health spraying operations.",
+    "scope": "This standard prescribes the technical specifications, performance limits, material requirements, and methods of sampling and test for hydraulic power sprayers (including engine-operated and motor-operated knapsack, portable, and trolley-mounted sprayers) used in agriculture, horticulture, forestry, and public health spraying operations.",
+    "keywords": [
+      "IS 11313 : 2007",
+      "Hydraulic Power Sprayers",
+      "Volumetric Efficiency",
+      "Pump Power Formula",
+      "Discharge Rate",
+      "Endurance Test",
+      "Agricultural Machinery",
+      "FAD 11",
+      "IS 2:1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the technical specifications, performance limits, material requirements, and methods of sampling and test for hydraulic power sprayers (including engine-operated and motor-operated knapsack, portable, and trolley-mounted sprayers) used in agriculture, horticulture, forestry, and public health spraying operations.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, November 2007 (Reaffirmed 2022)",
-    "year_first_published": "1985 (originally adopted under designator IS 11313 : 1985, which amalgamated and superseded IS 8548 : 1977)",
+  "version": {
+    "current_version": "First Revision, November 2007 (Reaffirmed 2022)",
+    "first_publication_year": 1985,
+    "publication_year": 2007,
+    "revision": "First Revision (IS 11313 : 2007)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 11313 : 1985)",
-        "year": "1985"
-      },
-      {
-        "edition": "First Revision (IS 11313 : 2007)",
-        "year": "2007"
-      }
+      "First Edition (IS 11313 : 1985), 1985",
+      "First Revision (IS 11313 : 2007), 2007"
     ],
-    "supersedes": "IS 11313 : 1985 and IS 8548 : 1977",
-    "superseded_by": "N/A",
-    "amendment_slips": "Amendment No. 1 (August 2021) is active on this copy (under PUB_013_1_2020)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    },
-    {
-      "is_number": "IS 3652 : 1995",
-      "title": "Spray gun for agricultural sprayers — Specification (third revision)",
-      "category": "Equipment standard",
-      "relevance": "Provides dimensional controls, marking, and design specifications for spray guns connected to hydraulic power sprayers."
-    },
-    {
-      "is_number": "IS 7347 : 1974",
-      "title": "Performance requirements for agricultural tractors and power tillers or small IC engines",
-      "category": "Testing standard",
-      "relevance": "Provides standard testing codes for the prime mover (petrol or diesel IC engines) integrated with power-operated sprayers."
-    },
-    {
-      "is_number": "IS 10134 : 1982",
-      "title": "Method of test for power-operated knapsack sprayer",
-      "category": "Testing standard",
-      "relevance": "Establishes unified mechanical and hydraulic test protocols for power-operated knapsack sprayers."
-    },
-    {
-      "is_number": "IS 3906 : 1995",
-      "title": "Hand compression sprayer — Specification (third revision)",
-      "category": "Product Specification",
-      "relevance": "A sister pesticide application standard defining leakage, tank strength, and cut-off device reliability."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 11816 (Part 3) : 2018",
-      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
-      "category": "Pest-Control standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A sister FAD post-harvest standard present in the notebook, regulating pest control, chemical safety, and fumigation limits in grain storage silos."
-    },
-    {
-      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
-      "category": "Assessment standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
-    },
-    {
-      "is_number": "IS 16066 : 2017",
-      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
-      "category": "Food Safety standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "Directs hygienic food handling and safe, separate pest control storage to prevent toxic pesticides from contaminating food contact surfaces."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "Mandates water potability parameters, ensuring the water utilized for chemical pesticide dilution remains free from organic and mineral impurities."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Water Resources Department (WRD)",
-      "relevance": "Specifies geomembrane linings to prevent water and chemical-containment basin seepage."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural machinery warehouses, storage sheds, and chemical containment structures."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Food and Agriculture / Agricultural Machinery)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product nameplates as a certified assurance of quality, safety, and mechanical performance. Additionally, compliance with IS 11313 is strictly mandated under central and state agricultural department subsidy schemes (such as the Sub-Mission on Agricultural Mechanization - SMAM) and public procurement tenders across India.",
-    "requirements": [
+    "supersedes": [
+      "IS 11313 : 1985 and IS 8548 : 1977"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Minimum Pump Volumetric Efficiency",
-        "detail": "The standard mandates that when tested in accordance with Clause 8.4, the pump of the hydraulic power sprayer must achieve a volumetric efficiency of not less than 85 percent to limit internal slip and ensure stable pressure delivery."
-      },
-      {
-        "requirement_type": "Deletion of Roller Vane Note",
-        "detail": "Under Amendment No. 1 (August 2021), a previous note requesting members to suggest a minimum volumetric efficiency for roller vane pumps is deleted, confirming the standard's performance boundaries [1]."
-      },
-      {
-        "requirement_type": "Pump Power Required Formula",
-        "detail": "Amendment No. 1 (August 2021) inserts a precise mathematical formula to calculate the pump's power requirement: Power Required (P_req) = (rho * g * q * h) / 1000 kW, where rho is density of fluid (kg/m3), g is gravity (9.81 m/s2), q is discharge (m3/s), and h is differential head (m); or simply Power Required (P_req) = p * q [1]."
-      },
-      {
-        "requirement_type": "Materials Corrosion Resistance",
-        "detail": "All components in contact with agricultural spraying chemicals (such as pump cylinders, pistons, manifolds, suction chambers, and valves) must be constructed from corrosion-resistant materials (such as brass, stainless steel, or engineering polymers) to prevent chemical degradation."
-      },
-      {
-        "requirement_type": "Discharge Rate and Speed Declaration",
-        "detail": "The manufacturer must declare the sprayer's rated speed, rated pressure, discharge rate, and pump suction capacity. The actual discharge rate must conform to the declared rating within tight tolerance limits under the specified working head."
-      },
-      {
-        "requirement_type": "Maximum Achievable Pressure Test",
-        "detail": "The pump must be tested under maximum achievable pressure (typically 20-30 kg/cm² or higher) and must show no leakage, joint sweating, or structural failure."
-      },
-      {
-        "requirement_type": "Continuous Running Endurance Test",
-        "detail": "The sprayer must undergo a continuous running endurance test (typically 48 hours) to verify mechanical durability under full load, showing no seal degradation or cracks."
-      },
-      {
-        "requirement_type": "Safety Provisions and Wear",
-        "detail": "Appropriate protective wear (including hand gloves and face shields) must be specified in the instruction manual and supplied during operation to protect handlers from toxic chemical mists."
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or dimension value expressing discharge, pressure, or efficiency must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard."
+        "amendment_number": "Amendment 1",
+        "date": "2021-08",
+        "summary": "Amendment No. 1 (August 2021) is active on this copy (under PUB_013_1_2020)."
       }
     ]
   },
-  "keywords": [
-    "IS 11313 : 2007",
-    "Hydraulic Power Sprayers",
-    "Volumetric Efficiency",
-    "Pump Power Formula",
-    "Discharge Rate",
-    "Endurance Test",
-    "Agricultural Machinery",
-    "FAD 11",
-    "IS 2:1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3652 : 1995",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7347 : 1974",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10134 : 1982",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3906 : 1995",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11816 (Part 3) : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16066 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11313 : 2007 (First Revision) is the national Indian Standard specification establishing technical, dimensional, and testing requirements for hydraulic power sprayers used in agriculture and public health. Developed under the Agricultural Machinery and Equipment Sectional Committee (FAD 11) and reaffirmed in 2022, this standard regulates both engine-operated and motor-operated sprayers (including knapsack and trolley designs). It mandates a minimum pump volumetric efficiency of 85%, outlines strict material requirements to prevent chemical corrosion, and establishes high-pressure and 48-hour continuous running endurance tests. Active updates, such as Amendment No. 1 (August 2021), integrate a physics-based power formula to calculate pump hydraulic requirements, ensuring mechanical efficiency and user safety across India."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product nameplates as a certified assurance of quality, safety, and mechanical performance. Additionally, compliance with IS 11313 is strictly mandated under central and state agricultural department subsidy schemes (such as the Sub-Mission on Agricultural Mechanization - SMAM) and public procurement tenders across India.",
+    "requirements": [
+      "The standard mandates that when tested in accordance with Clause 8.4, the pump of the hydraulic power sprayer must achieve a volumetric efficiency of not less than 85 percent to limit internal slip and ensure stable pressure delivery.",
+      "Under Amendment No. 1 (August 2021), a previous note requesting members to suggest a minimum volumetric efficiency for roller vane pumps is deleted, confirming the standard's performance boundaries [1].",
+      "Amendment No. 1 (August 2021) inserts a precise mathematical formula to calculate the pump's power requirement: Power Required (P_req) = (rho * g * q * h) / 1000 kW, where rho is density of fluid (kg/m3), g is gravity (9.81 m/s2), q is discharge (m3/s), and h is differential head (m); or simply Power Required (P_req) = p * q [1].",
+      "All components in contact with agricultural spraying chemicals (such as pump cylinders, pistons, manifolds, suction chambers, and valves) must be constructed from corrosion-resistant materials (such as brass, stainless steel, or engineering polymers) to prevent chemical degradation.",
+      "The manufacturer must declare the sprayer's rated speed, rated pressure, discharge rate, and pump suction capacity. The actual discharge rate must conform to the declared rating within tight tolerance limits under the specified working head.",
+      "The pump must be tested under maximum achievable pressure (typically 20-30 kg/cm² or higher) and must show no leakage, joint sweating, or structural failure.",
+      "The sprayer must undergo a continuous running endurance test (typically 48 hours) to verify mechanical durability under full load, showing no seal degradation or cracks.",
+      "Appropriate protective wear (including hand gloves and face shields) must be specified in the instruction manual and supplied during operation to protect handlers from toxic chemical mists.",
+      "Any observed or calculated test or dimension value expressing discharge, pressure, or efficiency must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "11313a1.pdf",
     "document_version_edition": "First Revision, November 2007 (Amended by Amendment No. 1, August 2021)"
   }

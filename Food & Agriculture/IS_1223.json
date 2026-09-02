@@ -1,177 +1,131 @@
 {
-  "basic_identification": {
-    "is_number": "IS 1223 : 2001",
-    "full_title": "Specification for Apparatus for Determination of Milk Fat by Gerber Method (तीसरा पुनरीक्षण) (Third Revision)",
-    "sector_category": "Food and Agriculture / Dairy Products and Equipment (approved by the Food and Agriculture Divisional Council and finalized by the Dairy Products and Equipment Sectional Committee, FAD 19, of the Bureau of Indian Standards)",
-    "ics_code": "67.100.10; 67.260",
+  "standard": {
+    "is_code": "IS 1223:2001",
+    "title": "Specification for Apparatus for Determination of Milk Fat by Gerber Method (तीसरा पुनरीक्षण) (Third Revision)",
+    "sector": "Food and Agriculture / Dairy Products and Equipment",
+    "ics_code": [
+      "67.100.10",
+      "67.260"
+    ],
     "sectional_committee": {
       "name": "Dairy Products and Equipment Sectional Committee",
       "number": "FAD 19"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the technical specifications, dimensional tolerances, material quality, and testing criteria for glass apparatus, centrifuges, and other specialized tools used in the volumetric acid-butyrometric determination of fat in milk and milk products by the Gerber method.",
+    "scope": "This standard prescribes the technical specifications, dimensional tolerances, material quality, and testing criteria for glass apparatus, centrifuges, and other specialized tools used in the volumetric acid-butyrometric determination of fat in milk and milk products by the Gerber method.",
+    "keywords": [
+      "IS 1223 : 2001",
+      "Apparatus",
+      "Gerber Method",
+      "Butyrometer",
+      "Milk Fat",
+      "Milk Pipette 10.75ml",
+      "Lock Stopper",
+      "Centrifuge",
+      "Hand Operated Centrifuge",
+      "Electric Driver Centrifuge",
+      "Amyl Alcohol",
+      "FAD 19",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the technical specifications, dimensional tolerances, material quality, and testing criteria for glass apparatus, centrifuges, and other specialized tools used in the volumetric acid-butyrometric determination of fat in milk and milk products by the Gerber method.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Third Revision, 2001 (Reaffirmed 2026 by FAD 19)",
-    "year_first_published": "1958 (originally published under designator IS 1223 : 1958, updated to first revision in 1970, second revision in 1982, and third revision in 2001)",
+  "version": {
+    "current_version": "Third Revision, 2001 (Reaffirmed 2026 by FAD 19)",
+    "first_publication_year": 1958,
+    "publication_year": 2001,
+    "revision": "Third Revision (IS 1223 : 2001)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 1223 : 1958)",
-        "year": "1958"
-      },
-      {
-        "edition": "First Revision (IS 1223 : 1970)",
-        "year": "1970"
-      },
-      {
-        "edition": "Second Revision (IS 1223 : 1982)",
-        "year": "1982"
-      },
-      {
-        "edition": "Third Revision (IS 1223 : 2001)",
-        "year": "2001"
-      }
+      "First Edition (IS 1223 : 1958), 1958",
+      "First Revision (IS 1223 : 1970), 1970",
+      "Second Revision (IS 1223 : 1982), 1982",
+      "Third Revision (IS 1223 : 2001), 2001"
     ],
-    "supersedes": "IS 1223 : 1982",
-    "superseded_by": "N/A",
-    "amendment_slips": "Amendment No. 1 (June 2006) is active on this copy."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    },
-    {
-      "is_number": "IS 1224 (Part 1) : 1977",
-      "title": "Determination of milk fat by the Gerber method: Part 1 Milk (first revision)",
-      "category": "Testing standard",
-      "relevance": "Prescribes the exact testing steps, reagents, and operational parameters for evaluating milk fat utilizing the apparatus specified in IS 1223."
-    },
-    {
-      "is_number": "IS 1224 (Part 2) : 1977",
-      "title": "Determination of milk fat by the Gerber method: Part 2 Milk products",
-      "category": "Testing standard",
-      "relevance": "Prescribes standard Gerber testing procedures for dairy derivatives, which utilize the cream and skim-milk butyrometers defined in IS 1223."
-    },
-    {
-      "is_number": "IS 360 : 1964",
-      "title": "Specification for amyl alcohol",
-      "category": "Material standard",
-      "relevance": "Specifies physical and chemical purity limits for iso-amyl alcohol used to prevent charring and accelerate fat separation during centrifuging."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 16066 : 2017",
-      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
-      "category": "Food Safety standard",
-      "location": "Notebook Co-source",
-      "relevance": "Directs hygienic food handling and safe preparation, utilizing Gerber milk fat screenings under IS 1223 to verify the quality and purity of milk-based beverages, lassis, and curd served to consumers."
-    },
-    {
-      "is_number": "IS 11062 : 2019",
-      "title": "Method for Estimation of Total Dietary Fibre in Foodstuffs (First Revision)",
-      "category": "Testing standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A companion Food and Agriculture food testing standard present in the notebook, prescribing high-precision duplicate laboratory assays."
-    },
-    {
-      "is_number": "IS 11816 (Part 3) : 2018",
-      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
-      "category": "Pest-Control standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A sister FAD post-harvest standard present in the notebook, regulating pest control and chemical residue safety limits."
-    },
-    {
-      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
-      "category": "Assessment standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "Mandates water potability parameters, ensuring that the water utilized in Gerber water baths (65°C) and glassware cleaning is free of geogenic and biological impurities."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for dairy plants, agricultural warehouses, and laboratory testing facilities."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Food and Agriculture / Dairy Products and Equipment)",
-    "certification_status": "Voluntary/Mandatory under trade and laboratory accreditation rules. Manufacturers of Gerber testing apparatus (including glass butyrometers, pipettes, and automatic measures) are highly encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on glass stems as a certified guarantee of volumetric accuracy and thermal-chemical resistance. Additionally, laboratories calibrating these instruments must satisfy NABL ISO/IEC 17025:2017 guidelines, and testing stations utilize these calibrated instruments to enforce FSSAI national milk safety standards.",
-    "requirements": [
+    "supersedes": [
+      "IS 1223 : 1982"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Hand Operated Centrifuge Temperature Procedure",
-        "detail": "In case of a hand operated centrifuge, the temperature of the contents of the butyrometer shall be taken after centrifuging by inserting a thermometer in a butyrometer after taking the reading of the fat column.",
-        "clause_reference": "Section 6, Clause 19.2.2 (Amended by Amendment No. 1, June 2006)"
-      },
-      {
-        "requirement_type": "Centrifuge Drive Designation Update",
-        "detail": "Designates 'Electric driver centrifuge' as the standardized equipment term to replace the general term 'Centrifuge t' in line with automated laboratory configurations.",
-        "clause_reference": "Section 6, Clause 19.4.3, line 1 (Amended by Amendment No. 1, June 2006)"
-      },
-      {
-        "requirement_type": "Precision Milk Pipette Capacity",
-        "detail": "Specifies a milk pipette designed and calibrated to deliver exactly 10.75 ml of milk at 20°C, ensuring a precise volume ratio relative to the butyrometer scale."
-      },
-      {
-        "requirement_type": "Sulfuric Acid Automatic Measure Sizing",
-        "detail": "Specifies an automatic measure or pipette designed to deliver exactly 10.0 ml of concentrated Gerber sulfuric acid (density 1.807 to 1.812 g/ml at 27°C) to digest milk proteins."
-      },
-      {
-        "requirement_type": "Amyl Alcohol Automatic Measure Sizing",
-        "detail": "Specifies an automatic tilt measure or pipette designed to deliver exactly 1.0 ml of iso-amyl alcohol to facilitate fat column separation."
-      },
-      {
-        "requirement_type": "Glass Quality and Autoclavable Construction",
-        "detail": "All butyrometers and pipettes must be constructed from robust borosilicate glass capable of resisting chemical corrosion and thermal shock up to 120°C, ensuring straightness, uniform capillary bore, and legible graduations."
-      },
-      {
-        "requirement_type": "Lock Stopper and Key Security",
-        "detail": "Butyrometers must be firmly sealed during shaking and centrifuging using a secure lock stopper (rubber stopper with metal collar) adjusted via a specialized stoppering pin key made of aluminum or a similar durable alloy."
-      },
-      {
-        "requirement_type": "Water Bath Operating Temperature",
-        "detail": "Specially designed water baths must maintain a temperature of 65 ± 2°C for 5 minutes prior to reading fat column graduations."
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "In reporting and evaluating observed or calculated test or dimension values, the final result must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded off value should be identical to the specified limit in the standard."
+        "amendment_number": "Amendment 1",
+        "date": "2006-06",
+        "summary": "Amendment No. 1 (June 2006) is active on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 1223 : 2001",
-    "Apparatus",
-    "Gerber Method",
-    "Butyrometer",
-    "Milk Fat",
-    "Milk Pipette 10.75ml",
-    "Lock Stopper",
-    "Centrifuge",
-    "Hand Operated Centrifuge",
-    "Electric Driver Centrifuge",
-    "Amyl Alcohol",
-    "FAD 19",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1224 (Part 1) : 1977",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1224 (Part 2) : 1977",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 360 : 1964",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16066 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11062 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11816 (Part 3) : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 1223 : 2001 (Third Revision) is the national Indian Standard specification establishing technical requirements, dimensional tolerances, and testing protocols for the apparatus used to determine milk fat by the Gerber method. Developed under the Dairy Products and Equipment Sectional Committee (FAD 19) and reaffirmed in 2026, this standard regulates critical laboratory tools, including borosilicate glass butyrometers, precision 10.75 ml milk pipettes, lock stoppers, centrifuges, and automatic chemical measures. Active updates, such as Amendment No. 1 (June 2006), specify testing safety and designated procedures—such as requiring thermometer insertion inside butyrometers to check temperatures after operating manual hand centrifuges, and standardizing electric driver centrifuge designations—ensuring absolute volumetric accuracy and uniform quality-control testing across the dairy sector in India."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary/Mandatory under trade and laboratory accreditation rules. Manufacturers of Gerber testing apparatus (including glass butyrometers, pipettes, and automatic measures) are highly encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on glass stems as a certified guarantee of volumetric accuracy and thermal-chemical resistance. Additionally, laboratories calibrating these instruments must satisfy NABL ISO/IEC 17025:2017 guidelines, and testing stations utilize these calibrated instruments to enforce FSSAI national milk safety standards.",
+    "requirements": [
+      "In case of a hand operated centrifuge, the temperature of the contents of the butyrometer shall be taken after centrifuging by inserting a thermometer in a butyrometer after taking the reading of the fat column.",
+      "Designates 'Electric driver centrifuge' as the standardized equipment term to replace the general term 'Centrifuge t' in line with automated laboratory configurations.",
+      "Specifies a milk pipette designed and calibrated to deliver exactly 10.75 ml of milk at 20°C, ensuring a precise volume ratio relative to the butyrometer scale.",
+      "Specifies an automatic measure or pipette designed to deliver exactly 10.0 ml of concentrated Gerber sulfuric acid (density 1.807 to 1.812 g/ml at 27°C) to digest milk proteins.",
+      "Specifies an automatic tilt measure or pipette designed to deliver exactly 1.0 ml of iso-amyl alcohol to facilitate fat column separation.",
+      "All butyrometers and pipettes must be constructed from robust borosilicate glass capable of resisting chemical corrosion and thermal shock up to 120°C, ensuring straightness, uniform capillary bore, and legible graduations.",
+      "Butyrometers must be firmly sealed during shaking and centrifuging using a secure lock stopper (rubber stopper with metal collar) adjusted via a specialized stoppering pin key made of aluminum or a similar durable alloy.",
+      "Specially designed water baths must maintain a temperature of 65 ± 2°C for 5 minutes prior to reading fat column graduations.",
+      "In reporting and evaluating observed or calculated test or dimension values, the final result must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded off value should be identical to the specified limit in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "1223a1.pdf",
     "document_version_edition": "Third Revision, 2001 (Amended by Amendment No. 1, June 2006)"
   }

@@ -1,175 +1,127 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10701 : 2012",
-    "full_title": "Structural Plywood — Specification (First Revision)",
-    "sector_category": "Civil Engineering / Wood and other Lignocellulosic products (approved by the Civil Engineering Division Council and finalized by the Wood and other Lignocellulosic Products Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "79.060.10",
+  "standard": {
+    "is_code": "IS 10701:2012",
+    "title": "Structural Plywood — Specification (First Revision)",
+    "sector": "Civil Engineering / Wood and other Lignocellulosic products",
+    "ics_code": [
+      "79.060.10"
+    ],
     "sectional_committee": {
       "name": "Wood and Other Lignocellulosic Products Sectional Committee",
       "number": "CED 20"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements for materials, manufacture, dimensions, tolerances, and testing parameters for structural plywood intended for use in load-bearing applications such as flooring, roofing, beams, joists, and structural walling panels. It is designed to sustain static and dynamic mechanical loads under varying atmospheric moisture exposure.",
+    "scope": "This standard specifies the requirements for materials, manufacture, dimensions, tolerances, and testing parameters for structural plywood intended for use in load-bearing applications such as flooring, roofing, beams, joists, and structural walling panels. It is designed to sustain static and dynamic mechanical loads under varying atmospheric moisture exposure.",
+    "keywords": [
+      "IS 10701 : 2012",
+      "Structural Plywood",
+      "Plywood Specification",
+      "BWP Grade",
+      "Modulus of Rupture",
+      "Modulus of Elasticity",
+      "Veneers Quality",
+      "Preservative Treatment",
+      "Glue Shear Strength",
+      "Type 1 to 3 Plywood",
+      "Plywood QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements for materials, manufacture, dimensions, tolerances, and testing parameters for structural plywood intended for use in load-bearing applications such as flooring, roofing, beams, joists, and structural walling panels. It is designed to sustain static and dynamic mechanical loads under varying atmospheric moisture exposure.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, 2012 (Reviewed and Reaffirmed in 2022)",
-    "year_first_published": "1983",
+  "version": {
+    "current_version": "First Revision, 2012 (Reviewed and Reaffirmed in 2022)",
+    "first_publication_year": 1983,
+    "publication_year": 2012,
+    "revision": "First Revision (reorganized to emphasize physical and mechanical testing, including modulus of elasticity and modulus of rupture, and aligning with standard engineering designs)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1983"
-      },
-      {
-        "edition": "First Revision (reorganized to emphasize physical and mechanical testing, including modulus of elasticity and modulus of rupture, and aligning with standard engineering designs)",
-        "year": "2012"
-      }
+      "First Edition, 1983",
+      "First Revision (reorganized to emphasize physical and mechanical testing, including modulus of elasticity and modulus of rupture, and aligning with standard engineering designs), 2012"
     ],
-    "supersedes": "IS 10701 : 1983",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments issued since publication on this copy."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1734 (series)",
-      "title": "Methods of test for plywood",
-      "category": "Test method",
-      "location": "Testing and validation clauses",
-      "relevance": "Provides the mandatory multi-part test methods for verifying physical and mechanical properties, including glue shear strength, moisture content, tensile strength, and static bending."
-    },
-    {
-      "is_number": "IS 848",
-      "title": "Specification for synthetic resin adhesives for plywood (phenolic and aminoplastic)",
-      "category": "Component standard",
-      "location": "Adhesives clauses",
-      "relevance": "Specifies the chemical parameters of BWP-grade adhesives required for structural-grade veneer bonding."
-    },
-    {
-      "is_number": "IS 7638",
-      "title": "Wood/lignocellulosic based panel products — Method of sampling",
-      "category": "Normative reference / Sampling",
-      "location": "Sampling guidelines",
-      "relevance": "Governs the statistical sampling criteria and random selection of boards from lots for compliance auditing."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes mathematical rounding off of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 710 : 2010",
-      "title": "Marine Plywood — Specification",
-      "category": "Sister standard",
-      "location": "Parallel timber standard",
-      "relevance": "The national specification for ultra-durable boiling-water-proof plywood used in shipbuilding and heavy exposure environments, present in the notebook."
-    },
-    {
-      "is_number": "IS 303 : 1989",
-      "title": "Specification for Plywood for General Purposes",
-      "category": "Sister standard",
-      "location": "Parallel timber standard",
-      "relevance": "The national general construction plywood standard covering BWR and MR adhesive grades, present in the notebook."
-    },
-    {
-      "is_number": "IS 4990 : 2011",
-      "title": "Plywood for Concrete Shuttering Works — Specification",
-      "category": "Sister standard",
-      "location": "Parallel timber standard",
-      "relevance": "Regulates high-density BWP-grade plywood utilized in concrete formwork, sharing parallel static bending (MOE/MOR) and water-immersion testing protocols, present in the notebook."
-    },
-    {
-      "is_number": "IS 5509 : 2021",
-      "title": "Fire Retardant Plywood — Specification",
-      "category": "Product specification",
-      "location": "Parallel timber standard",
-      "relevance": "Governs the ignitability resistance and low flammability properties of chemically-treated plywood, present in the notebook."
-    },
-    {
-      "is_number": "IS 1328 : 1996",
-      "title": "Veneered Decorative Plywood — Specification",
-      "category": "Product specification",
-      "location": "Parallel timber standard",
-      "relevance": "Specifies plywood panels faced with decorative natural veneers, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Wood Panels & Building Materials)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Plywood and Wooden Flush Door Shutters (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all Structural Plywood manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, stocking, or selling uncertified structural-grade plywood in the domestic market is a criminal offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted specific phased transition periods, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to wood panels.",
-    "requirements": [
+    "supersedes": [
+      "IS 10701 : 1983"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every structural plywood panel must be legibly and indelibly marked on its face or edge with the BIS Standard Mark (ISI Mark) along with the manufacturer's name or trademark, grade, thickness, type, and licence number (CM/L)."
-      },
-      {
-        "requirement_type": "Permitted Materials and Veneer Sourcing (Clause 4.1)",
-        "detail": "Veneers must be peeled from timbers of specified hardwood species (Annex B) with high natural durability. Only BWP-grade synthetic resin adhesives conforming to IS 848 must be used to ensure water-proof covalent bonding."
-      },
-      {
-        "requirement_type": "Structural Classifications & Types",
-        "detail": "Plywood is classified into three structural types based on composition: a) Type 1 (CS): Structural Plywood with core and face veneers of the same species; b) Type 2 (CSC): Structural Plywood with core of one species and face veneers of other species; c) Type 3 (CSFF): Structural Plywood Film Faced (phenolic film-faced)."
-      },
-      {
-        "requirement_type": "Preservative Treatment (B/B.A. treatment)",
-        "detail": "Core and face veneers must undergo deep chemical vacuum-pressure impregnation (typically CCB or copper naphthenate) to ensure the entire panel is 100% borer, fungus, and termite proof."
-      },
-      {
-        "requirement_type": "Finished Board Moisture Content",
-        "detail": "Finished structural plywood boards must be seasoned to maintain a uniform moisture content within the range of 5 to 15 percent when tested per IS 1734 (Part 1)."
-      },
-      {
-        "requirement_type": "Dry Glue Shear Strength (Table 1)",
-        "detail": "When tested in the dry state per IS 1734 (Part 4), the panel must develop high adhesion strength: a) Average failing load: minimum 1350 N; b) Minimum individual failing load: minimum 1100 N."
-      },
-      {
-        "requirement_type": "Boiling Water Resistance (Wet Glue Shear)",
-        "detail": "After 72 hours of continuous boiling water immersion (to simulate extreme weather stress), the panel must satisfy: a) Average failing load: minimum 1000 N; b) Minimum individual failing load: minimum 800 N; c) Adhesion of plies (Knife Test): Pass."
-      },
-      {
-        "requirement_type": "Mycological Adhesion Strength",
-        "detail": "The panel must resist fungal attacks. After mycological conditioning, the glue lines must satisfy: a) Average failing load: minimum 1000 N; b) Minimum individual failing load: minimum 800 N."
-      },
-      {
-        "requirement_type": "Parallel Static Bending (MOR & MOE)",
-        "detail": "Along the face grain (parallel), the structural plywood must develop high load-bearing capacity: a) Modulus of Rupture (MOR): Average minimum 50 N/mm² (MPa), Minimum individual 45 N/mm²; b) Modulus of Elasticity (MOE): Average minimum 7500 N/mm² (MPa), Minimum individual 6700 N/mm²."
-      },
-      {
-        "requirement_type": "Perpendicular Static Bending (MOR & MOE)",
-        "detail": "Across the face grain (perpendicular), the structural plywood must meet: a) Modulus of Rupture (MOR): Average minimum 30 N/mm² (MPa), Minimum individual 27 N/mm²; b) Modulus of Elasticity (MOE): Average minimum 4000 N/mm², Minimum individual 3600 N/mm²."
-      },
-      {
-        "requirement_type": "Mechanical Fastener Anchorage Power",
-        "detail": "The structural panel must offer exceptional grip: a) Screw holding strength: minimum 1600 N; b) Nail holding strength: minimum 1300 N."
-      },
-      {
-        "requirement_type": "Lot Sampling & Acceptance Scale",
-        "detail": "All boards of the identical thickness and size dispatched against one dispatch note constitute a lot. Random samples must be selected as per Table 3 to perform visual, dimensional, and physical-mechanical testing."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments issued since publication on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 10701 : 2012",
-    "Structural Plywood",
-    "Plywood Specification",
-    "BWP Grade",
-    "Modulus of Rupture",
-    "Modulus of Elasticity",
-    "Veneers Quality",
-    "Preservative Treatment",
-    "Glue Shear Strength",
-    "Type 1 to 3 Plywood",
-    "Plywood QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 1734 (series)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 848",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7638",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 710 : 2010",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 303 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4990 : 2011",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5509 : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1328 : 1996",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10701 : 2012 is the mandatory national Indian Standard safety specification regulating Structural Grade Plywood used in high-load, structural, and infrastructure construction applications (such as flooring, roofing, beams, joists, and structural walling). Under India's statutory Plywood Quality Control Order (QCO), all structural plywood sold or imported in India must carry the BIS Standard Mark (ISI Mark) to ensure safety and prevent structural failures. Unlike ordinary plywood grades, IS 10701 focuses heavily on structural mechanical performance—enforcing strict minimum limits on Modulus of Rupture (MOR ≥ 50 MPa along the grain) and Modulus of Elasticity (MOE ≥ 7500 MPa along the grain) to minimize deflection under heavy loads. It mandates the use of hardwood veneers bonded with unextended Boiling Water Proof (BWP) phenolic resins, vacuum-pressure preservative treatments to render the boards 100% termite and borer proof, and a 5-15% moisture content to prevent warping or delamination."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Plywood and Wooden Flush Door Shutters (Quality Control) Order",
+      "year": 2016
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Plywood and Wooden Flush Door Shutters (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all Structural Plywood manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, stocking, or selling uncertified structural-grade plywood in the domestic market is a criminal offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted specific phased transition periods, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to wood panels.",
+    "requirements": [
+      "Every structural plywood panel must be legibly and indelibly marked on its face or edge with the BIS Standard Mark (ISI Mark) along with the manufacturer's name or trademark, grade, thickness, type, and licence number (CM/L).",
+      "Veneers must be peeled from timbers of specified hardwood species (Annex B) with high natural durability. Only BWP-grade synthetic resin adhesives conforming to IS 848 must be used to ensure water-proof covalent bonding.",
+      "Plywood is classified into three structural types based on composition: a) Type 1 (CS): Structural Plywood with core and face veneers of the same species; b) Type 2 (CSC): Structural Plywood with core of one species and face veneers of other species; c) Type 3 (CSFF): Structural Plywood Film Faced (phenolic film-faced).",
+      "Core and face veneers must undergo deep chemical vacuum-pressure impregnation (typically CCB or copper naphthenate) to ensure the entire panel is 100% borer, fungus, and termite proof.",
+      "Finished structural plywood boards must be seasoned to maintain a uniform moisture content within the range of 5 to 15 percent when tested per IS 1734 (Part 1).",
+      "When tested in the dry state per IS 1734 (Part 4), the panel must develop high adhesion strength: a) Average failing load: minimum 1350 N; b) Minimum individual failing load: minimum 1100 N.",
+      "After 72 hours of continuous boiling water immersion (to simulate extreme weather stress), the panel must satisfy: a) Average failing load: minimum 1000 N; b) Minimum individual failing load: minimum 800 N; c) Adhesion of plies (Knife Test): Pass.",
+      "The panel must resist fungal attacks. After mycological conditioning, the glue lines must satisfy: a) Average failing load: minimum 1000 N; b) Minimum individual failing load: minimum 800 N.",
+      "Along the face grain (parallel), the structural plywood must develop high load-bearing capacity: a) Modulus of Rupture (MOR): Average minimum 50 N/mm² (MPa), Minimum individual 45 N/mm²; b) Modulus of Elasticity (MOE): Average minimum 7500 N/mm² (MPa), Minimum individual 6700 N/mm².",
+      "Across the face grain (perpendicular), the structural plywood must meet: a) Modulus of Rupture (MOR): Average minimum 30 N/mm² (MPa), Minimum individual 27 N/mm²; b) Modulus of Elasticity (MOE): Average minimum 4000 N/mm², Minimum individual 3600 N/mm².",
+      "The structural panel must offer exceptional grip: a) Screw holding strength: minimum 1600 N; b) Nail holding strength: minimum 1300 N.",
+      "All boards of the identical thickness and size dispatched against one dispatch note constitute a lot. Random samples must be selected as per Table 3 to perform visual, dimensional, and physical-mechanical testing."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10701_2012_reff2022.pdf",
     "document_version_edition": "First Revision, 2012 (Reaffirmed 2022)"
   }

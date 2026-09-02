@@ -1,157 +1,104 @@
 {
-  "basic_identification": {
-    "is_number": "IS 1058 : 1993",
-    "full_title": "Legal Metrology — Commercial Capacity Measures — Specification (Second Revision) (विधिक मापविज्ञान — व्यावसायिक क्षमता माप — विशिष्टि (दूसरा पुनरीक्षण))",
-    "sector_category": "Light Mechanical Engineering / Commercial Weights and Measures (approved by the Light Mechanical Engineering Division Council and finalized by the Commercial Weights and Measures Sectional Committee, LM 06, of the Bureau of Indian Standards)",
-    "ics_code": "17.060",
+  "standard": {
+    "is_code": "IS 1058:1993",
+    "title": "Legal Metrology — Commercial Capacity Measures — Specification (Second Revision) (विधिक मापविज्ञान — व्यावसायिक क्षमता माप — विशिष्टि (दूसरा पुनरीक्षण))",
+    "sector": "Light Mechanical Engineering / Commercial Weights and Measures",
+    "ics_code": [
+      "17.060"
+    ],
     "sectional_committee": {
       "name": "Commercial Weights and Measures Sectional Committee",
       "number": "LM 06"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for commercial capacity measures of both cylindrical and conical types used in daily trade transaction to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+    "scope": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for commercial capacity measures of both cylindrical and conical types used in daily trade transaction to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
+    "keywords": [
+      "IS 1058 : 1993",
+      "Legal Metrology",
+      "Commercial Capacity Measures",
+      "Cylindrical Dipping Measures",
+      "Cylindrical Pouring Measures",
+      "Conical Capacity Measures",
+      "Nominal dimensions D and H",
+      "Seamless Aluminium Body",
+      "LM 06 Weights and Measures",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the quality, material, dimensional, and testing specifications for commercial capacity measures of both cylindrical and conical types used in daily trade transaction to ensure legal metrology compliance, measurement accuracy, and consumer protection.",
-    "clause_number": "Clause 1.1 / Foreword",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, November 1993 (Reaffirmed 2024)",
-    "year_first_published": "1957",
+  "version": {
+    "current_version": "Second Revision, November 1993 (Reaffirmed 2024)",
+    "first_publication_year": 1957,
+    "publication_year": 1993,
+    "revision": "Second Revision (IS 1058 : 1993)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 1058 : 1957)",
-        "year": "1957"
-      },
-      {
-        "edition": "First Revision (IS 1058 : 1962)",
-        "year": "1962"
-      },
-      {
-        "edition": "Second Revision (IS 1058 : 1993)",
-        "year": "1993"
-      }
+      "First Edition (IS 1058 : 1957), 1957",
+      "First Revision (IS 1058 : 1962), 1962",
+      "Second Revision (IS 1058 : 1993), 1993"
     ],
-    "supersedes": "IS 1058 : 1962",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters and physical dimensions."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 14220 : 2018",
-      "title": "Openwell Submersible Pumpsets — Specification",
-      "category": "Product Specification",
-      "relevance": "Volumetric discharge rates and test tank calibrations are verified using capacity measures designed and sealed under standard metrology codes like IS 1058."
-    },
-    {
-      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
-      "title": "Insulating Varnishes Containing Solvents — Specification",
-      "category": "Material standard",
-      "relevance": "Solvent volumes and chemical blending lines are metered using standardized capacity vessels."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits in metrology calibration laboratories and testing bays where continuous liquid handlings occur."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork, crane structures, and machine mounting plates."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Material and Legal Metrology Specification (Mechanical Engineering Department / Commercial Weights and Measures)",
-    "certification_status": "Mandatory Certification under State Legal Metrology Acts and Rules. Manufacturers must possess a valid license to manufacture, and each commercial measure must be physically verified, stamped, or lead-sealed by a State Legal Metrology Inspector to be legally sold or used for trade in India.",
-    "requirements": [
+    "supersedes": [
+      "IS 1058 : 1962"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, dimensional parameters, wall thicknesses, and volumetric capacities must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Dipping cylindrical Denominations",
-        "detail": "Standardizes standard dipping cylindrical sizes: 1 litre, 500 ml, 200 ml, 100 ml, 50 ml, and 20 ml.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Pouring cylindrical Denominations",
-        "detail": "Standardizes standard pouring cylindrical sizes: 2 litres, 1 litre, 500 ml, 200 ml, 100 ml, 50 ml, and 20 ml.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Conical Denominations",
-        "detail": "Standardizes standard conical sizes: 20 litres, 10 litres, 5 litres, 2 litres, 1 litre, 500 ml, 200 ml, and 100 ml.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Seamless Aluminium body",
-        "detail": "The body of the cylindrical measures must be manufactured as a single, seamless unit from aluminium sheet of specified wall thickness to eliminate leakage paths.",
-        "clause_reference": "Clause 5.1"
-      },
-      {
-        "requirement_type": "2-Litre cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 120 mm, Height (H) = 180 mm, Handle Length (B) = Max 360 mm / Min 250 mm, Wall Thickness (G) = Min 1.60 mm.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "1-Litre cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 95 mm, Height (H) = 142 mm, Handle Length (B) = Max 254 mm / Min 210 mm, Wall Thickness (G) = Min 1.60 mm.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "500-ml cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 75 mm, Height (H) = 114 mm, Handle Length (B) = Max 224 mm / Min 160 mm, Wall Thickness (G) = Min 1.60 mm.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "200-ml cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 55 mm, Height (H) = 83 mm, Handle Length (B) = Max 166 mm / Min 120 mm, Wall Thickness (G) = Min 1.25 mm.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "100-ml cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 44 mm, Height (H) = 66 mm, Handle Length (B) = Max 132 mm / Min 100 mm, Wall Thickness (G) = Min 1.25 mm.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "50-ml cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 35 mm, Height (H) = 52 mm, Handle Length (B) = Max 104 mm / Min 80 mm, Wall Thickness (G) = Min 1.25 mm.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "20-ml cylindrical Dimensions",
-        "detail": "Inside Diameter (D) = 26 mm, Height (H) = 38 mm, Handle Length (B) = Max 76 mm / Min 60 mm, Wall Thickness (G) = Min 1.00 mm.",
-        "clause_reference": "Table 1"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL"
       }
     ]
   },
-  "keywords": [
-    "IS 1058 : 1993",
-    "Legal Metrology",
-    "Commercial Capacity Measures",
-    "Cylindrical Dipping Measures",
-    "Cylindrical Pouring Measures",
-    "Conical Capacity Measures",
-    "Nominal dimensions D and H",
-    "Seamless Aluminium Body",
-    "LM 06 Weights and Measures",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14220 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 1058 : 1993 (Reaffirmed 2024) is the primary national Indian Standard specification prescribing quality requirements, material properties, and nominal dimensions for commercial capacity measures (both cylindrical and conical types) used in legal trade transactions. Maintained under the Commercial Weights and Measures Sectional Committee (LM 06), the standard unifies metric volumetric measures—such as dipping cylindrical cups (10 ml–1L), pouring cylindrical cylinders (20 ml–2L), and conical containers (100 ml–20L)—to prevent short-measuring and guarantee consumer protection. It mandates seamless, single-piece aluminium body construction, specifies tight wall-thickness baselines (1.00 to 1.60 mm) and height-diameter proportions, and enforces rigid rounding protocols as per IS 2:1960 to support standardized verification and stamping by state weights and measures inspectors."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Mandatory Certification under State Legal Metrology Acts and Rules. Manufacturers must possess a valid license to manufacture, and each commercial measure must be physically verified, stamped, or lead-sealed by a State Legal Metrology Inspector to be legally sold or used for trade in India.",
+    "requirements": [
+      "Observed or calculated final test values, dimensional parameters, wall thicknesses, and volumetric capacities must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+      "Standardizes standard dipping cylindrical sizes: 1 litre, 500 ml, 200 ml, 100 ml, 50 ml, and 20 ml.",
+      "Standardizes standard pouring cylindrical sizes: 2 litres, 1 litre, 500 ml, 200 ml, 100 ml, 50 ml, and 20 ml.",
+      "Standardizes standard conical sizes: 20 litres, 10 litres, 5 litres, 2 litres, 1 litre, 500 ml, 200 ml, and 100 ml.",
+      "The body of the cylindrical measures must be manufactured as a single, seamless unit from aluminium sheet of specified wall thickness to eliminate leakage paths.",
+      "Inside Diameter (D) = 120 mm, Height (H) = 180 mm, Handle Length (B) = Max 360 mm / Min 250 mm, Wall Thickness (G) = Min 1.60 mm.",
+      "Inside Diameter (D) = 95 mm, Height (H) = 142 mm, Handle Length (B) = Max 254 mm / Min 210 mm, Wall Thickness (G) = Min 1.60 mm.",
+      "Inside Diameter (D) = 75 mm, Height (H) = 114 mm, Handle Length (B) = Max 224 mm / Min 160 mm, Wall Thickness (G) = Min 1.60 mm.",
+      "Inside Diameter (D) = 55 mm, Height (H) = 83 mm, Handle Length (B) = Max 166 mm / Min 120 mm, Wall Thickness (G) = Min 1.25 mm.",
+      "Inside Diameter (D) = 44 mm, Height (H) = 66 mm, Handle Length (B) = Max 132 mm / Min 100 mm, Wall Thickness (G) = Min 1.25 mm.",
+      "Inside Diameter (D) = 35 mm, Height (H) = 52 mm, Handle Length (B) = Max 104 mm / Min 80 mm, Wall Thickness (G) = Min 1.25 mm.",
+      "Inside Diameter (D) = 26 mm, Height (H) = 38 mm, Handle Length (B) = Max 76 mm / Min 60 mm, Wall Thickness (G) = Min 1.00 mm."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "1058_1993_reaff2024.pdf",
     "document_version_edition": "Second Revision, November 1993"
   }

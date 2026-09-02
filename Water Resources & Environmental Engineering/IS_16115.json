@@ -1,148 +1,110 @@
 {
-  "basic_identification": {
-    "is_number": "IS 16115 : 2013",
-    "full_title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines (पूर्ण हो चुकी सिंचाई परियोजनाओं (प्रमुख एवं मध्यम) का मूल्यांकन — मार्गदर्शी सिद्धांत)",
-    "sector_category": "Water Resources / Irrigation Planning and Management (approved by the Water Resources Division Council and finalized by the Water Resources Planning, Management and Evaluation Sectional Committee, WRD 06, of the Bureau of Indian Standards)",
-    "ics_code": "93.160",
+  "standard": {
+    "is_code": "IS 16115:2013",
+    "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines (पूर्ण हो चुकी सिंचाई परियोजनाओं (प्रमुख एवं मध्यम) का मूल्यांकन — मार्गदर्शी सिद्धांत)",
+    "sector": "Water Resources / Irrigation Planning and Management",
+    "ics_code": [
+      "93.160"
+    ],
     "sectional_committee": {
       "name": "Water Resources Planning, Management and Evaluation Sectional Committee",
       "number": "WRD 06"
-    }
+    },
+    "standard_type": "GUIDE",
+    "status": "ACTIVE",
+    "description": "This standard provides guidance for carrying out the performance evaluation of completed major and medium irrigation projects, with a special emphasis on the irrigation component, and also outlines evaluations for socio-economic, agro-economic, environmental, ecological, hydropower, navigational, and flood protection impacts.",
+    "scope": "This standard provides guidance for carrying out the performance evaluation of completed major and medium irrigation projects, with a special emphasis on the irrigation component, and also outlines evaluations for socio-economic, agro-economic, environmental, ecological, hydropower, navigational, and flood protection impacts.",
+    "keywords": [
+      "IS 16115 : 2013",
+      "Irrigation Projects",
+      "Performance Evaluation",
+      "Water Resources Planning",
+      "Command Area Development",
+      "Primary Data",
+      "Map Scales",
+      "Water Availability",
+      "Canal Remodelling",
+      "Farmer Attitude",
+      "WRD 06",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard provides guidance for carrying out the performance evaluation of completed major and medium irrigation projects, with a special emphasis on the irrigation component, and also outlines evaluations for socio-economic, agro-economic, environmental, ecological, hydropower, navigational, and flood protection impacts.",
-    "clause_number": "Clauses 1.1 & 1.2",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, August 2013 (Reaffirmed 2024)",
-    "year_first_published": "2013",
+  "version": {
+    "current_version": "First Edition, August 2013 (Reaffirmed 2024)",
+    "first_publication_year": 2013,
+    "publication_year": 2013,
+    "revision": "First Edition (officially adopted as the primary national code of practice to standardize post-project evaluations and audits across major and medium irrigation commands in India)",
     "revision_history": [
-      {
-        "edition": "First Edition (officially adopted as the primary national code of practice to standardize post-project evaluations and audits across major and medium irrigation commands in India)",
-        "year": "2013"
-      }
+      "First Edition (officially adopted as the primary national code of practice to standardize post-project evaluations and audits across major and medium irrigation commands in India), 2013"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
-      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
-      "category": "Terminology standard",
-      "location": "Parallel Sectional Committee WRD 03",
-      "relevance": "Provides standardized terms (such as water years, torrents, and freshets) to ensure uniform interpretation during post-project hydrological audits."
-    },
-    {
-      "is_number": "IS 16091 : 2013",
-      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
-      "category": "Performance Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates fluid flow measurement instruments and sensors used to monitor discharge rates and canal water delivery efficiency."
-    },
-    {
-      "is_number": "IS 10386 (Part 11) : 2026",
-      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
-      "category": "Safety Code",
-      "location": "Parallel Sectional Committee WRD 21",
-      "relevance": "A sister river valley development safety standard, regulating excavation, tunneling, and drainage safety."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies impermeable PVC barrier linings for irrigation canals, distributaries, and storage reservoirs to minimize seepage losses."
-    },
-    {
-      "is_number": "IS 16654 : 2017",
-      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies woven geobag configurations used to reinforce canal banks, line scour aprons, and protect riverbeds during peak discharges."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for canal gates, intake structures, and control headworks."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Procedural Guidelines / Evaluation Code (Water Resources Planning, Management and Evaluation)",
-    "certification_status": "Voluntary Guidelines. Since IS 16115:2013 is an evaluation guideline and methodology standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its data collection scales, map requirements (e.g., 1 : 250 000 scale), and performance benchmarking is widely enforced and mandated by the Central Water Commission (CWC), the Ministry of Jal Shakti, and state irrigation departments during post-project performance audits, renovation proposals, or modernization (ERM) funding evaluations. Precious metal hallmarking is completely inapplicable.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Basis of Comparison / Base Project Scope",
-        "detail": "Specifies that the scope of the project as revised during execution and finalized at the completion stage must be taken as the base. Original or revised project reports must serve as the technical basis for comparison during performance evaluations.",
-        "clause_reference": "Clause 7.1"
-      },
-      {
-        "requirement_type": "Inflow and Availability Variance",
-        "detail": "Notes that comparison with original target reports may not always reflect true performance because annual inflows or physical water availability may differ widely from those projected during planning, requiring adjustments.",
-        "clause_reference": "Clause 7.2"
-      },
-      {
-        "requirement_type": "Socio-Agro-Economic-Environmental Assessment",
-        "detail": "Requires evaluating completed irrigation projects across multiple dimensions, including socio-economic, agro-economic, environmental, ecological, hydropower generation, navigational, and flood protection aspects.",
-        "clause_reference": "Clause 1.2"
-      },
-      {
-        "requirement_type": "Primary Data Collection",
-        "detail": "Mandates collecting detailed primary data for the overall command area (per Clause 8.2 to 8.7) to support comprehensive macro-level evaluations.",
-        "clause_reference": "Clause 9.1"
-      },
-      {
-        "requirement_type": "Standard Map Scales",
-        "detail": "Specifies map scale requirements: an index map on a scale of 1 : 250 000, command maps showing the canal network and major drainages, soil survey maps, and maps of tube wells and groundwater observation wells (recommending a 1 : 250 000 scale).",
-        "clause_reference": "Clause 9.2"
-      },
-      {
-        "requirement_type": "Constraint and Modernization Analysis",
-        "detail": "Requires analyzing key operational constraints in the canal network to identify specific structures or channels that need to be remodeled, or new works that must be provided.",
-        "clause_reference": "Clause 10 / 11"
-      },
-      {
-        "requirement_type": "Socio-Attitudinal Evaluation",
-        "detail": "Mandates evaluating user and operational attitudes, including cooperation among farmers and officials, and the overall attitude of the farmers toward the project.",
-        "clause_reference": "Clause 10 / 11"
-      },
-      {
-        "requirement_type": "Macro-Level Performance Study",
-        "detail": "Requires conducting a macro-level performance study of the existing irrigation system to benchmark system efficiencies, water delivery timelines, and agricultural productivity.",
-        "clause_reference": "Clause 11.1"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 16115 : 2013",
-    "Irrigation Projects",
-    "Performance Evaluation",
-    "Water Resources Planning",
-    "Command Area Development",
-    "Primary Data",
-    "Map Scales",
-    "Water Availability",
-    "Canal Remodelling",
-    "Farmer Attitude",
-    "WRD 06",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4410 (Part 11/Sec 1) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16091 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10386 (Part 11) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16654 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 16115 : 2013 is the national Indian Standard specifying guidelines for the performance evaluation of completed major and medium irrigation projects. Formulated by the WRD 06 committee, this standard establishes a uniform, multidisciplinary framework to audit projects post-completion—focusing heavily on canal efficiency, actual vs. projected water availability, map scales, and agricultural productivity. It unifies guidelines to evaluate socio-agro-economic and environmental footprints, mandates using project completion scopes as the baseline, and details how to analyze system constraints to identify canal sections that require remodeling or modernization, supporting sustainable water management in India."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Guidelines. Since IS 16115:2013 is an evaluation guideline and methodology standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its data collection scales, map requirements (e.g., 1 : 250 000 scale), and performance benchmarking is widely enforced and mandated by the Central Water Commission (CWC), the Ministry of Jal Shakti, and state irrigation departments during post-project performance audits, renovation proposals, or modernization (ERM) funding evaluations. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      "Specifies that the scope of the project as revised during execution and finalized at the completion stage must be taken as the base. Original or revised project reports must serve as the technical basis for comparison during performance evaluations.",
+      "Notes that comparison with original target reports may not always reflect true performance because annual inflows or physical water availability may differ widely from those projected during planning, requiring adjustments.",
+      "Requires evaluating completed irrigation projects across multiple dimensions, including socio-economic, agro-economic, environmental, ecological, hydropower generation, navigational, and flood protection aspects.",
+      "Mandates collecting detailed primary data for the overall command area (per Clause 8.2 to 8.7) to support comprehensive macro-level evaluations.",
+      "Specifies map scale requirements: an index map on a scale of 1 : 250 000, command maps showing the canal network and major drainages, soil survey maps, and maps of tube wells and groundwater observation wells (recommending a 1 : 250 000 scale).",
+      "Requires analyzing key operational constraints in the canal network to identify specific structures or channels that need to be remodeled, or new works that must be provided.",
+      "Mandates evaluating user and operational attitudes, including cooperation among farmers and officials, and the overall attitude of the farmers toward the project.",
+      "Requires conducting a macro-level performance study of the existing irrigation system to benchmark system efficiencies, water delivery timelines, and agricultural productivity."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "16115_2013_reaff2024.pdf",
     "document_version_edition": "First Edition, August 2013"
   }

@@ -1,155 +1,116 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10290 : 1982",
-    "full_title": "Code of Practice for Photogeological Interpretation and Mapping of River Valley Project Sites (नदी घाटी परियोजना स्थलों के फोटो-भूवैज्ञानिक व्याख्या और मानचित्रण की रीति संहिता)",
-    "sector_category": "Water Resources / Subsurface Exploration (approved by the Civil Division Council and finalized by the Subsurface Exploration Sectional Committee, BDC 49, of the Bureau of Indian Standards)",
-    "ics_code": "93.160; 07.040",
+  "standard": {
+    "is_code": "IS 10290:1982",
+    "title": "Code of Practice for Photogeological Interpretation and Mapping of River Valley Project Sites (नदी घाटी परियोजना स्थलों के फोटो-भूवैज्ञानिक व्याख्या और मानचित्रण की रीति संहिता)",
+    "sector": "Water Resources / Subsurface Exploration",
+    "ics_code": [
+      "93.160",
+      "07.040"
+    ],
     "sectional_committee": {
       "name": "Subsurface Exploration Sectional Committee",
       "number": "BDC 49"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies standard guidelines, recommended scale criteria, mapping workflows, and field verification procedures for using aerial photography and stereoscopic interpretation to map geological, morphological, and structural features of river valley project sites, providing rapid, economical, and dependable ground evaluations prior to construction.",
+    "scope": "This standard specifies standard guidelines, recommended scale criteria, mapping workflows, and field verification procedures for using aerial photography and stereoscopic interpretation to map geological, morphological, and structural features of river valley project sites, providing rapid, economical, and dependable ground evaluations prior to construction.",
+    "keywords": [
+      "IS 10290 : 1982",
+      "Photogeology",
+      "Aerial Photograph",
+      "Stereoscope",
+      "Base Map",
+      "Tectonic Feature",
+      "Seismic Damage",
+      "Tunnel Alignment",
+      "Power House Siting",
+      "Overlap Mosaic",
+      "Contour Interval",
+      "BDC 49"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies standard guidelines, recommended scale criteria, mapping workflows, and field verification procedures for using aerial photography and stereoscopic interpretation to map geological, morphological, and structural features of river valley project sites, providing rapid, economical, and dependable ground evaluations prior to construction.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 3 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1982 (Reaffirmed 2024)",
-    "year_first_published": "1982",
+  "version": {
+    "current_version": "First Edition, 1982 (Reaffirmed 2024)",
+    "first_publication_year": 1982,
+    "publication_year": 1982,
+    "revision": "First Edition (officially adopted as a dedicated code of practice to standardize photogeological site-suitability investigations across the Indian water resources and hydropower sectors)",
     "revision_history": [
-      {
-        "edition": "First Edition (officially adopted as a dedicated code of practice to standardize photogeological site-suitability investigations across the Indian water resources and hydropower sectors)",
-        "year": "1982"
-      }
+      "First Edition (officially adopted as a dedicated code of practice to standardize photogeological site-suitability investigations across the Indian water resources and hydropower sectors), 1982"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10386 (Part 11) : 2026",
-      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
-      "category": "Safety Code",
-      "location": "Water Resources Division",
-      "relevance": "A sister river valley development safety standard, regulating underground excavation, stress-monitoring, and tunnel safety."
-    },
-    {
-      "is_number": "IS 9401 (Part 12) : 2026",
-      "title": "Methods of Measurement of Work in River Valley Projects (Dams and Appurtenant Structures) — Part 12: Topographical Surveys (First Revision)",
-      "category": "Measurement Code",
-      "location": "Water Resources Division",
-      "relevance": "A fellow river valley surveying standard, defining contract measurement and quantity billing procedures for topographical alignments and cross-sections."
-    },
-    {
-      "is_number": "IS 16115 : 2013",
-      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
-      "category": "Evaluation standard",
-      "location": "Water Resources Division",
-      "relevance": "Utilizes standard 1 : 250 000 scale index maps and canal layouts to execute post-completion multidisciplinary performance audits."
-    },
-    {
-      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
-      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
-      "category": "Terminology standard",
-      "location": "Water Resources Division",
-      "relevance": "Unifies terminology (such as 'water years' and 'torrents') to prevent contractual ambiguity in hydrological and geological survey reports."
-    },
-    {
-      "is_number": "IS 16091 : 2013",
-      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
-      "category": "Performance Specification",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow water resources and hydrometry standard, regulating flow-metering devices used in river valley monitoring networks."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies geomembrane barrier linings for reservoirs, landfills, and canals designed in accordance with photogeological site evaluations."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for hydraulic installations and monitoring structures."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Geotechnical Guidelines (Water Resources Department / Civil Safety)",
-    "certification_status": "Voluntary Code of Practice. Since IS 10290:1982 is an engineering guideline and operational code of practice for geological exploration and photogeological mapping rather than a direct consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, compliance with its recommended photograph scales, contour ranges, operational flow sequences, and site suitability guidelines is strictly mandated by the Central Water Commission (CWC), Geological Survey of India (GSI), and state water resources departments when preparing Detailed Project Reports (DPRs), tender packages, and environmental clearances for dam, tunnel, and powerhouse sites across India. Precious metal hallmarking is completely inapplicable.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Three Basic Mapping Requirements",
-        "detail": "Specifies three mandatory physical assets required to construct an interpreted photogeological map:\na) High-quality aerial photographs;\nb) A stereoscope; and\nc) Topographic base maps with contours.",
-        "clause_reference": "Clause 3.1"
-      },
-      {
-        "requirement_type": "Mandatory Field Check",
-        "detail": "The photo-interpreted map represents a preliminary stage and MUST be field checked and verified on-ground to correct interpretations, add on-site details, and prepare the final geological profiles.",
-        "clause_reference": "Clause 3.1 & Figure 1 Flow Chart"
-      },
-      {
-        "requirement_type": "Recommended Scales (Appendix E)",
-        "detail": "Mandates utilizing specific aerial photograph scales matching the type and stage of river valley investigation:\na) Reconnaissance/Regional Studies: 1 : 50 000 to 1 : 60 000;\nb) Feasibility/Design Studies: 1 : 25 000 to 1 : 30 000;\nc) Detailed Site Investigations (Dams, Powerhouses, Tunnels): 1 : 10 000 to 1 : 15 000;\nd) Micro-Detail / Foundation Exploration: 1 : 5 000.",
-        "clause_reference": "Appendix E (Clause 2.4)"
-      },
-      {
-        "requirement_type": "Contour Interval Limits",
-        "detail": "Specifies contour intervals matching the selected photographic and mapping scale, ranging from fine details of 1 m to 5 m (for 1 : 5 000 scale maps) up to 5 m to 20 m (for 1 : 25 000 scale feasibility maps) to ensure adequate vertical and topographic relief resolution.",
-        "clause_reference": "Clause 3.1 & Clause 4"
-      },
-      {
-        "requirement_type": "Siting Vulnerability and Risk Control",
-        "detail": "Identifies that damage to civil structures is maximum under two geologically mapped conditions:\na) Siting structures astride or too close to a tectonic feature (such as active faults, shear zones, or joints) activated during an earthquake; or\nb) Siting structures on deep alluvial deposits or unconsolidated materials (which suffer far more severe damage than bedrock during seismic events). Structures must be strategically moved to bedrock or safer strata as mapped.",
-        "clause_reference": "Clause 5.1"
-      },
-      {
-        "requirement_type": "Power House Site Geotechnical Auditing",
-        "detail": "Powerhouse site photogeological mapping requires the same comprehensive steps as a dam site, but must additionally study aerial photographs for slope stability and mapping the orientation of joints within the local rock mass.",
-        "clause_reference": "Clause 6.5"
-      },
-      {
-        "requirement_type": "Tunnel Alignment Siting Control",
-        "detail": "Tunnel alignments require careful planning to avoid difficult and hazardous geological conditions. Photogeological interpretation is established as an essential tool to compare DESIGN and COST of tunnel excavation across several considered routes.",
-        "clause_reference": "Clauses 7.1 & 7.2"
-      },
-      {
-        "requirement_type": "Step-by-Step Sequence of Operations",
-        "detail": "Enforces a strict, orderly workflow of four initial photogeological operations:\n1) Laying out loose photographic mosaics and checking overlaps;\n2) Perusal of the entire area under the stereoscope and noting preliminary geology and morphology;\n3) Locating the approximate centre of overlap between adjoining photographs; and\n4) Transferring points and inking them in on the working sheets.",
-        "clause_reference": "Sequence of Operations (G-1)"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10290 : 1982",
-    "Photogeology",
-    "Aerial Photograph",
-    "Stereoscope",
-    "Base Map",
-    "Tectonic Feature",
-    "Seismic Damage",
-    "Tunnel Alignment",
-    "Power House Siting",
-    "Overlap Mosaic",
-    "Contour Interval",
-    "BDC 49"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10386 (Part 11) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 9401 (Part 12) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16115 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4410 (Part 11/Sec 1) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16091 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10290 : 1982 (Reaffirmed 2024) is the national Indian Standard code of practice specifying guidelines for using aerial photos and stereoscopes to map and evaluate river valley project sites before building dams, tunnels, or powerhouses. Prepared under BDC 49, this standard unifies mapping techniques and contour intervals, recommends specific scales (from 1:5,000 up to 1:60,000), and defines a step-by-step sequence of operations—such as mosaic layout and overlay center-marking. It highlights how structures close to active faults or built on deep alluvial soils suffer the most earthquake damage, guiding engineers to site heavy infrastructure on bedrock or more stable geology."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 10290:1982 is an engineering guideline and operational code of practice for geological exploration and photogeological mapping rather than a direct consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, compliance with its recommended photograph scales, contour ranges, operational flow sequences, and site suitability guidelines is strictly mandated by the Central Water Commission (CWC), Geological Survey of India (GSI), and state water resources departments when preparing Detailed Project Reports (DPRs), tender packages, and environmental clearances for dam, tunnel, and powerhouse sites across India. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      "Specifies three mandatory physical assets required to construct an interpreted photogeological map:\na) High-quality aerial photographs;\nb) A stereoscope; and\nc) Topographic base maps with contours.",
+      "The photo-interpreted map represents a preliminary stage and MUST be field checked and verified on-ground to correct interpretations, add on-site details, and prepare the final geological profiles.",
+      "Mandates utilizing specific aerial photograph scales matching the type and stage of river valley investigation:\na) Reconnaissance/Regional Studies: 1 : 50 000 to 1 : 60 000;\nb) Feasibility/Design Studies: 1 : 25 000 to 1 : 30 000;\nc) Detailed Site Investigations (Dams, Powerhouses, Tunnels): 1 : 10 000 to 1 : 15 000;\nd) Micro-Detail / Foundation Exploration: 1 : 5 000.",
+      "Specifies contour intervals matching the selected photographic and mapping scale, ranging from fine details of 1 m to 5 m (for 1 : 5 000 scale maps) up to 5 m to 20 m (for 1 : 25 000 scale feasibility maps) to ensure adequate vertical and topographic relief resolution.",
+      "Identifies that damage to civil structures is maximum under two geologically mapped conditions:\na) Siting structures astride or too close to a tectonic feature (such as active faults, shear zones, or joints) activated during an earthquake; or\nb) Siting structures on deep alluvial deposits or unconsolidated materials (which suffer far more severe damage than bedrock during seismic events). Structures must be strategically moved to bedrock or safer strata as mapped.",
+      "Powerhouse site photogeological mapping requires the same comprehensive steps as a dam site, but must additionally study aerial photographs for slope stability and mapping the orientation of joints within the local rock mass.",
+      "Tunnel alignments require careful planning to avoid difficult and hazardous geological conditions. Photogeological interpretation is established as an essential tool to compare DESIGN and COST of tunnel excavation across several considered routes.",
+      "Enforces a strict, orderly workflow of four initial photogeological operations:\n1) Laying out loose photographic mosaics and checking overlaps;\n2) Perusal of the entire area under the stereoscope and noting preliminary geology and morphology;\n3) Locating the approximate centre of overlap between adjoining photographs; and\n4) Transferring points and inking them in on the working sheets."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10290_1982_reaff2024.pdf",
     "document_version_edition": "First Edition, Reaffirmed 2024"
   }

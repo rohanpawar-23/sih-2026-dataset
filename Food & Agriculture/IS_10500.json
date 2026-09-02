@@ -1,183 +1,141 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10500 : 2012",
-    "full_title": "Drinking Water — Specification (पेयजल — विशिष्टि) (Second Revision)",
-    "sector_category": "Food and Agriculture / Drinking Water, Beverages and Allied Products (approved by the Food and Agriculture Division Council and finalized by the Drinking Water and Carbonated Beverages Sectional Committee, FAD 14, of the Bureau of Indian Standards)",
-    "ics_code": "13.060.20",
+  "standard": {
+    "is_code": "IS 10500:2012",
+    "title": "Drinking Water — Specification (पेयजल — विशिष्टि) (Second Revision)",
+    "sector": "Food and Agriculture / Drinking Water, Beverages and Allied Products",
+    "ics_code": [
+      "13.060.20"
+    ],
     "sectional_committee": {
       "name": "Drinking Water and Carbonated Beverages Sectional Committee",
       "number": "FAD 14"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the essential quality requirements, sensory physical characteristics, chemical tolerances, toxic metal thresholds, radiological limits, and microbiological safety criteria for water intended for human consumption (drinking water) across India, regardless of its source (municipal supplies, surface water, groundwater, or tankers).",
+    "scope": "This standard prescribes the essential quality requirements, sensory physical characteristics, chemical tolerances, toxic metal thresholds, radiological limits, and microbiological safety criteria for water intended for human consumption (drinking water) across India, regardless of its source (municipal supplies, surface water, groundwater, or tankers).",
+    "keywords": [
+      "IS 10500 : 2012",
+      "Drinking Water Specification",
+      "Potable Water",
+      "Total Dissolved Solids",
+      "TDS",
+      "Total Hardness",
+      "Fluoride Limits",
+      "Nitrate Toxicity",
+      "Heavy Metals",
+      "Coliform Bacteria",
+      "E. coli",
+      "Uranium Estimation",
+      "FAD 14",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the essential quality requirements, sensory physical characteristics, chemical tolerances, toxic metal thresholds, radiological limits, and microbiological safety criteria for water intended for human consumption (drinking water) across India, regardless of its source (municipal supplies, surface water, groundwater, or tankers).",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, 2012 (Reaffirmed 2022 by FAD 14)",
-    "year_first_published": "1983",
+  "version": {
+    "current_version": "Second Revision, 2012 (Reaffirmed 2022 by FAD 14)",
+    "first_publication_year": 1983,
+    "publication_year": 2012,
+    "revision": "Second Revision (IS 10500 : 2012)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 10500 : 1983)",
-        "year": "1983"
-      },
-      {
-        "edition": "First Revision (IS 10500 : 1991)",
-        "year": "1991"
-      },
-      {
-        "edition": "Second Revision (IS 10500 : 2012)",
-        "year": "2012"
-      }
+      "First Edition (IS 10500 : 1983), 1983",
+      "First Revision (IS 10500 : 1991), 1991",
+      "Second Revision (IS 10500 : 2012), 2012"
     ],
-    "supersedes": "IS 10500 : 1991",
-    "superseded_by": "N/A",
-    "amendment_slips": "Amendment No. 1 (May 2015), Amendment No. 2 (June 2018), Amendment No. 3 (2021), and Amendment No. 4 (November 2021) which is active on this copy."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    },
-    {
-      "is_number": "IS 3025 (Part 65)",
-      "title": "Methods of sampling and test for water and wastewater: Part 65 Uranium",
-      "category": "Testing standard",
-      "relevance": "Specifies standard chemical and extraction methods to measure radioactive uranium levels in water samples."
-    },
-    {
-      "is_number": "IS 14194 (Part 3) : 2021",
-      "title": "Radionuclides in environmental samples — Method of estimation: Part 3 Uranium (first revision)",
-      "category": "Testing standard",
-      "relevance": "Provides standardized radiological protocols to estimate uranium content in water and environmental substrates."
-    },
-    {
-      "is_number": "IS 4905",
-      "title": "Methods for random sampling",
-      "category": "Sampling standard",
-      "relevance": "Establishes standard statistical procedures and random number tables to select unbiased water-monitoring sites."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 16066 : 2017",
-      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
-      "category": "Food Safety standard",
-      "location": "Notebook Co-source [1]",
-      "relevance": "Mandates that water utilized by street vendors for food preparation, beverage mixing, raw ingredient washing, and utensil cleaning must strictly comply with the potability requirements of IS 10500."
-    },
-    {
-      "is_number": "IS 10044 : 2025",
-      "title": "Treatment and Disposal of Effluents of Petroleum Refining Industry — Guidelines (First Revision)",
-      "category": "Effluent Guidelines",
-      "location": "Notebook Co-source [2]",
-      "relevance": "Sets water purity and secondary treatment parameters for refinery effluents, protecting receiving streams and groundwater tables from toxic chemical seepages that could compromise nearby drinking water sources."
-    },
-    {
-      "is_number": "IS 12662 (Part 2) : 2025",
-      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
-      "category": "Maintenance standard",
-      "location": "Notebook Co-source [3]",
-      "relevance": "Controls municipal waste transportation and leachate spillage, preventing pathogenic run-off from contaminating superficial drinking water reservoirs."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source [4]",
-      "relevance": "Regulates impermeable geomembrane barriers used to line municipal waste dumps and treatment basins to prevent chemical leachates from seeping into raw drinking aquifers."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code [5]",
-      "relevance": "Governs structural steel design, weldments, and support frames for water towers, elevated storage reservoirs, and municipal distribution piping systems."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification / Safety and Health Code (Food and Agriculture / Water Resources)",
-    "certification_status": "Voluntary/Mandatory. While BIS product certification (ISI Mark) is widely pursued by municipal boards, water treatment plants, and tanker operators as a mark of quality assurance, compliance with its chemical, physical, and biological limits is strictly mandatory across India. It is legally enforced by the Food Safety and Standards Authority of India (FSSAI) under national food safety laws, making IS 10500 compliance non-negotiable for all water utility boards, commercial food business operators, and drinking water packaging systems.",
-    "requirements": [
+    "supersedes": [
+      "IS 10500 : 1991"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Two-Tier Limit Framework",
-        "detail": "Specifies two levels of limits for each parameter: a) An 'Acceptable Limit' (formerly desirable limit) which is the target for safe long-term use; and b) A 'Permissible Limit in the Absence of Alternate Source' which is the maximum tolerable limit when no alternative supplies are available.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": "2015-05",
+        "summary": "Amendment No. 1 (May 2015), Amendment No. 2 (June 2018), Amendment No. 3 (2021), and Amendment No. 4 (November 2021) which is active on this copy."
       },
       {
-        "requirement_type": "Potability pH Threshold",
-        "detail": "Limits the acceptable and permissible pH value of drinking water to a range of 6.5 to 8.5 with no relaxation permitted.",
-        "clause_reference": "Table 2"
+        "amendment_number": "Amendment 2",
+        "date": "2018-06",
+        "summary": "Amendment No. 1 (May 2015), Amendment No. 2 (June 2018), Amendment No. 3 (2021), and Amendment No. 4 (November 2021) which is active on this copy."
       },
       {
-        "requirement_type": "Total Dissolved Solids (TDS) Limits",
-        "detail": "TDS limits are capped at an acceptable limit of 500 mg/l, which may be relaxed to a permissible limit of 2000 mg/l only in the absence of any alternative source.",
-        "clause_reference": "Table 2"
+        "amendment_number": "Amendment 3",
+        "date": "2021",
+        "summary": "Amendment No. 1 (May 2015), Amendment No. 2 (June 2018), Amendment No. 3 (2021), and Amendment No. 4 (November 2021) which is active on this copy."
       },
       {
-        "requirement_type": "Total Hardness and Chlorides",
-        "detail": "Restricts total hardness (as CaCO3) to 200 mg/l (acceptable) and 600 mg/l (permissible). Chlorides are restricted to 250 mg/l (acceptable) and 1000 mg/l (permissible).",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Fluoride and Nitrate Health Parameters",
-        "detail": "Fluorides are restricted to 1.0 mg/l (acceptable) and 1.5 mg/l (permissible) to prevent skeletal and dental fluorosis. Nitrates (as NO3) are capped strictly at 45 mg/l with no permissible relaxation to prevent methemoglobinemia (blue baby syndrome).",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Toxic Heavy Metals (Iron & Arsenic)",
-        "detail": "Iron (Fe) is restricted to 0.3 mg/l with no relaxation. Arsenic (As) is limited strictly to 0.01 mg/l to prevent systemic heavy metal poisoning.",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Bacteriological Quality Controls (Zero Tolerance)",
-        "detail": "E. coli, thermotolerant coliforms, and total coliform bacteria must be completely non-detectable in any 100 ml sample of drinking water. Any positive detection represents immediate sanitary non-compliance.",
-        "clause_reference": "Table 4"
-      },
-      {
-        "requirement_type": "Uranium Radionuclide Estimation",
-        "detail": "Mandates that uranium levels in Table 3 (Sl. No. xiii) must be tested and estimated in accordance with IS 3025 (Part 65) or IS 14194 (Part 3) as updated by Amendment No. 4, November 2021.",
-        "clause_reference": "Table 3 (Sl. No. xiii) & Amendment 4"
-      },
-      {
-        "requirement_type": "Residual Free Chlorine",
-        "detail": "When water is chlorinated, a minimum residual free chlorine concentration of 0.2 mg/l must be maintained at the consumer delivery end to prevent secondary microbial growth.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or analysis value expressing chemical concentration, physical turbidity, or radiological counts used to determine code compliance must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded off value must match the standard's specified value.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 4",
+        "date": "2021-11",
+        "summary": "Amendment No. 1 (May 2015), Amendment No. 2 (June 2018), Amendment No. 3 (2021), and Amendment No. 4 (November 2021) which is active on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 10500 : 2012",
-    "Drinking Water Specification",
-    "Potable Water",
-    "Total Dissolved Solids",
-    "TDS",
-    "Total Hardness",
-    "Fluoride Limits",
-    "Nitrate Toxicity",
-    "Heavy Metals",
-    "Coliform Bacteria",
-    "E. coli",
-    "Uranium Estimation",
-    "FAD 14",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3025 (Part 65)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14194 (Part 3) : 2021",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16066 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10044 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12662 (Part 2) : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10500 : 2012 is the primary national Indian Standard specification establishing quality criteria for drinking water. Finalized by the FAD 14 Sectional Committee, this standard defines physical, chemical, and bacteriological requirements for water intended for human consumption. It outlines target 'Acceptable Limits' alongside 'Permissible Limits' used when no other sources exist. This standard regulates sensory properties (taste, odor, turbidity), critical chemical constituents (hardness, TDS, chlorides), geogenic health hazards (fluoride, nitrate, iron, arsenic), and enforces a zero-tolerance policy for E. coli and coliform bacteria. Periodic updates, such as Amendment No. 4 (November 2021), integrate advanced radiological testing protocols (like IS 14194 Part 3) to accurately estimate uranium, ensuring safe, toxic-free drinking water nationwide."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary/Mandatory. While BIS product certification (ISI Mark) is widely pursued by municipal boards, water treatment plants, and tanker operators as a mark of quality assurance, compliance with its chemical, physical, and biological limits is strictly mandatory across India. It is legally enforced by the Food Safety and Standards Authority of India (FSSAI) under national food safety laws, making IS 10500 compliance non-negotiable for all water utility boards, commercial food business operators, and drinking water packaging systems.",
+    "requirements": [
+      "Specifies two levels of limits for each parameter: a) An 'Acceptable Limit' (formerly desirable limit) which is the target for safe long-term use; and b) A 'Permissible Limit in the Absence of Alternate Source' which is the maximum tolerable limit when no alternative supplies are available.",
+      "Limits the acceptable and permissible pH value of drinking water to a range of 6.5 to 8.5 with no relaxation permitted.",
+      "TDS limits are capped at an acceptable limit of 500 mg/l, which may be relaxed to a permissible limit of 2000 mg/l only in the absence of any alternative source.",
+      "Restricts total hardness (as CaCO3) to 200 mg/l (acceptable) and 600 mg/l (permissible). Chlorides are restricted to 250 mg/l (acceptable) and 1000 mg/l (permissible).",
+      "Fluorides are restricted to 1.0 mg/l (acceptable) and 1.5 mg/l (permissible) to prevent skeletal and dental fluorosis. Nitrates (as NO3) are capped strictly at 45 mg/l with no permissible relaxation to prevent methemoglobinemia (blue baby syndrome).",
+      "Iron (Fe) is restricted to 0.3 mg/l with no relaxation. Arsenic (As) is limited strictly to 0.01 mg/l to prevent systemic heavy metal poisoning.",
+      "E. coli, thermotolerant coliforms, and total coliform bacteria must be completely non-detectable in any 100 ml sample of drinking water. Any positive detection represents immediate sanitary non-compliance.",
+      "Mandates that uranium levels in Table 3 (Sl. No. xiii) must be tested and estimated in accordance with IS 3025 (Part 65) or IS 14194 (Part 3) as updated by Amendment No. 4, November 2021.",
+      "When water is chlorinated, a minimum residual free chlorine concentration of 0.2 mg/l must be maintained at the consumer delivery end to prevent secondary microbial growth.",
+      "Any observed or calculated test or analysis value expressing chemical concentration, physical turbidity, or radiological counts used to determine code compliance must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded off value must match the standard's specified value."
+    ]
   },
-  "author_committee_attribution": {
-    "sectional_committee": "Drinking Water and Carbonated Beverages Sectional Committee (FAD 14)",
-    "department_head": "Food and Agriculture Department, Bureau of Indian Standards"
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10500a4.pdf",
     "document_version_edition": "Second Revision, 2012 (Amended by Amendment No. 4, November 2021)"
   }

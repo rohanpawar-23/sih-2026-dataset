@@ -1,171 +1,123 @@
 {
-  "basic_identification": {
-    "is_number": "IS 17371 : 2020 (incorporating Amendment No. 1, October 2023)",
-    "full_title": "Geosynthetics — Geogrids for Flexible Pavements — Specification",
-    "sector_category": "Textiles / Technical Textiles (approved by the Textile Division Council and finalized by the Geosynthetics Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "59.080.70",
+  "standard": {
+    "is_code": "IS 17371:2020",
+    "title": "Geosynthetics — Geogrids for Flexible Pavements — Specification",
+    "sector": "Textiles / Technical Textiles",
+    "ics_code": [
+      "59.080.70"
+    ],
     "sectional_committee": {
       "name": "Geosynthetics Sectional Committee",
       "number": "TXD 30"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the quality, raw material, and performance requirements for polymeric geogrids (including uniaxial and biaxial geogrids) used for reinforcement, stabilization, and stress-distribution layers in flexible pavement structures. These geogrids are placed between pavement layers (such as weak subgrades, sub-base, or bituminous courses) in expressways, highways, runways, and rural roads to increase load-bearing capacity, reduce rutting, and minimize structural deformation.",
+    "scope": "This standard specifies the quality, raw material, and performance requirements for polymeric geogrids (including uniaxial and biaxial geogrids) used for reinforcement, stabilization, and stress-distribution layers in flexible pavement structures. These geogrids are placed between pavement layers (such as weak subgrades, sub-base, or bituminous courses) in expressways, highways, runways, and rural roads to increase load-bearing capacity, reduce rutting, and minimize structural deformation.",
+    "keywords": [
+      "IS 17371:2020",
+      "Geosynthetics",
+      "Geogrids",
+      "Flexible Pavements",
+      "Style Number",
+      "PET Geogrid",
+      "High Tenacity Polyester",
+      "Polymeric Coating",
+      "Junction Strength",
+      "Wide-Width Tensile Test",
+      "Xenon-Arc UV weathering",
+      "Carbon Black Content",
+      "Geo Textiles QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the quality, raw material, and performance requirements for polymeric geogrids (including uniaxial and biaxial geogrids) used for reinforcement, stabilization, and stress-distribution layers in flexible pavement structures. These geogrids are placed between pavement layers (such as weak subgrades, sub-base, or bituminous courses) in expressways, highways, runways, and rural roads to increase load-bearing capacity, reduce rutting, and minimize structural deformation.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 2020 (reaffirmed periodically; incorporating Amendment No. 1, October 2023)",
-    "year_first_published": "2020",
+  "version": {
+    "current_version": "First Edition, 2020 (reaffirmed periodically; incorporating Amendment No. 1, October 2023)",
+    "first_publication_year": 2020,
+    "publication_year": 2020,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2020"
-      }
+      "First Edition, 2020"
     ],
-    "supersedes": "N/A (Developed as a new standard to establish specific requirements for road pavements, separate from reinforced soil retaining walls covered in IS 17373)",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "N/A (Developed as a new standard to establish specific requirements for road pavements",
+      "separate from reinforced soil retaining walls covered in IS 17373)"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "October 2023",
-        "description": "Inserts Clause 3.9 'Style Number' to establish a standard theoretical designation code representing the geogrid's designed ultimate tensile strength in the machine direction (MD) and cross-machine direction (CD) (e.g., style number '30/40' designates an ultimate tensile strength of 30 kN/m in the MD and 40 kN/m in the CD)."
+        "amendment_number": "Amendment 1",
+        "date": "2023-10",
+        "summary": "Inserts Clause 3.9 'Style Number' to establish a standard theoretical designation code representing the geogrid's designed ultimate tensile strength in the machine direction (MD) and cross-machine direction (CD) (e.g., style number '30/40' designates an ultimate tensile strength of 30 kN/m in the MD and 40 kN/m in the CD)."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 16635 : 2017 / ISO 10319 : 2015",
-      "title": "Geosynthetics — Wide-width tensile test",
-      "category": "Test method",
-      "location": "Testing clauses",
-      "relevance": "Prescribes standard laboratory wide-width tensile testing methods to determine ultimate tensile strength (kN/m) in MD and CD and elongation at nominal strength."
+      "target_is_code": "IS 16635 : 2017 / ISO 10319 : 2015",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 13162 (Part 2)",
-      "title": "Geotextiles — Methods of test: Part 2 Determination of resistance to the exposure of ultraviolet light, moisture and heat (xenon-arc type apparatus)",
-      "category": "Test method",
-      "location": "Durability testing clauses",
-      "relevance": "Regulates Xenon-arc weather exposure setups for 500 hours to assess physical degradation and strength retention under sunlight."
+      "target_is_code": "IS 13162 (Part 2)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 4905",
-      "title": "Random sampling and randomization procedures",
-      "category": "Normative reference",
-      "location": "Sampling guidelines",
-      "relevance": "Governs the unbiased statistical random selection of geogrid rolls from manufactured lots for third-party auditing."
+      "target_is_code": "IS 4905",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Enforces mathematical rounding off of observed or calculated testing values to determine code compliance."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17373 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17372 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17483 (Part 1) : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15351 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16090 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 17373 : 2020",
-      "title": "Geosynthetics — Geogrids used in reinforced soil retaining structures — Specification",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Parallel product standard specifying geogrids optimized for high sustained long-term tensile loads in vertical retaining walls, reinforced slopes, and soil-containment structures."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
     },
-    {
-      "is_number": "IS 17372 : 2020",
-      "title": "Geosynthetics — Polymeric strip or geostrip used as soil reinforcement in retaining structures — Specification",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Parallel standard specifying extruded polymeric geostrips with high-tenacity PET cores used alternatively in reinforced soil walls."
-    },
-    {
-      "is_number": "IS 17483 (Part 1) : 2020",
-      "title": "Geosynthetics — Geocells — Specification Part 1: Load Bearing Application",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Regulates three-dimensional honeycombed polymeric confinement cells (geocells) used to stabilize subgrade aggregates under static or dynamic loading."
-    },
-    {
-      "is_number": "IS 15351 : 2015",
-      "title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Specifies heavy HDPE waterproof liners used similarly in civil, pond, and canal containment linings."
-    },
-    {
-      "is_number": "IS 16090 : 2013",
-      "title": "Geo-Synthetics — Geo-textiles used as protection (or cushioning) materials — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Specifies protective nonwoven cushioning sheets frequently used alongside geomembranes and geogrids in civil infrastructure."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Technical Textiles / Geosynthetics)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order' issued by the Ministry of Textiles, Government of India, all geogrids for flexible pavements manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, stocking, selling, or importing non-certified geogrids is a legal offence. Export-only products conform to buyer specifications but are exempt. Precious metal hallmarking is completely inapplicable to synthetic polymers and technical textiles.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Geo Textiles (Quality Control) Order' issued by the Ministry of Textiles, Government of India, all geogrids for flexible pavements manufactured, imported, distributed, or sold in India must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, stocking, selling, or importing non-certified geogrids is a legal offence. Export-only products conform to buyer specifications but are exempt. Precious metal hallmarking is completely inapplicable to synthetic polymers and technical textiles.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every roll of geogrid conforming to this standard must carry the BIS Standard Mark (ISI Mark) permanently printed or tagged, detailing the manufacturer's licence number (CM/L).",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Theoretical Style Number (Amendment No. 1)",
-        "detail": "Each geogrid roll must be marked with a designated style number detailing its MD and CD ultimate tensile strengths (e.g. '20/20', '30/30', '40/40', '50/50', '30/40', etc.).",
-        "clause_reference": "Clause 3.9 (Amended)"
-      },
-      {
-        "requirement_type": "Raw Material Chemistry and Polymer Origin",
-        "detail": "Geogrids must be manufactured from high-durability polymer resins (including polypropylene PP, high-density polyethylene HDPE, or high-tenacity polyester PET multifilament yarns). For PET-based geogrids, the raw yarns must satisfy strict molecular parameters: high molecular weight (> 25000 g/mol) and a low carboxyl end group (CEG) count (< 30 mmol/kg) to provide superior resistance to hydrolytic creep over a design life of up to 120 years.",
-        "clause_reference": "Clause 4 & Clause 4.4"
-      },
-      {
-        "requirement_type": "Mandatory Ultimate Tensile Strength (IS 16635)",
-        "detail": "Ultimate tensile strength (MD and CD) must comply with the designated style numbers, verified via wide-width tensile tests under IS 16635. Standard biaxial reinforcement strengths range from 20 kN/m up to 150 kN/m or more.",
-        "clause_reference": "Clause 4.1 & Table 1"
-      },
-      {
-        "requirement_type": "Mandatory Junction Strength and Efficiency (Annex B)",
-        "detail": "Geogrid rib junctions must undergo a mandatory pull-off test as specified in Annex B to evaluate junction strength (matching designed style strengths, e.g., 20/20, 30/30, 40/40). High junction efficiency is required to ensure consistent stress transfer across the interlocking aggregate-soil matrix.",
-        "clause_reference": "Annex B"
-      },
-      {
-        "requirement_type": "Carbon Black and UV Weathering Resistance",
-        "detail": "Polyolefin-based geogrids must incorporate a uniform carbon black addition (typically 2.0% to 3.0%) for UV light stabilization. After undergoing 500 hours of continuous Xenon-arc UV weathering (per IS 13162 Part 2), the geogrid must retain at least 70% to 80% of its original ultimate tensile strength.",
-        "clause_reference": "Clause 4.1 & Table 1"
-      },
-      {
-        "requirement_type": "Protective Polymeric Coating",
-        "detail": "Knitted or woven polyester (PET) geogrids must be encased in a robust polymeric (e.g., PVC or acrylic) coating. The coating must provide a high barrier to mechanical installation damage, biological attack, and aggressive soil chemical environments.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Standard Aperture Dimensions",
-        "detail": "Aperture sizes (typically 20 mm to 40 mm) must be sized appropriately to ensure mechanical aggregate interlock (the 'snowshoe effect') without allowing granular base leaching.",
-        "clause_reference": "Table 1"
-      }
+      "Every roll of geogrid conforming to this standard must carry the BIS Standard Mark (ISI Mark) permanently printed or tagged, detailing the manufacturer's licence number (CM/L).",
+      "Each geogrid roll must be marked with a designated style number detailing its MD and CD ultimate tensile strengths (e.g. '20/20', '30/30', '40/40', '50/50', '30/40', etc.).",
+      "Geogrids must be manufactured from high-durability polymer resins (including polypropylene PP, high-density polyethylene HDPE, or high-tenacity polyester PET multifilament yarns). For PET-based geogrids, the raw yarns must satisfy strict molecular parameters: high molecular weight (> 25000 g/mol) and a low carboxyl end group (CEG) count (< 30 mmol/kg) to provide superior resistance to hydrolytic creep over a design life of up to 120 years.",
+      "Ultimate tensile strength (MD and CD) must comply with the designated style numbers, verified via wide-width tensile tests under IS 16635. Standard biaxial reinforcement strengths range from 20 kN/m up to 150 kN/m or more.",
+      "Geogrid rib junctions must undergo a mandatory pull-off test as specified in Annex B to evaluate junction strength (matching designed style strengths, e.g., 20/20, 30/30, 40/40). High junction efficiency is required to ensure consistent stress transfer across the interlocking aggregate-soil matrix.",
+      "Polyolefin-based geogrids must incorporate a uniform carbon black addition (typically 2.0% to 3.0%) for UV light stabilization. After undergoing 500 hours of continuous Xenon-arc UV weathering (per IS 13162 Part 2), the geogrid must retain at least 70% to 80% of its original ultimate tensile strength.",
+      "Knitted or woven polyester (PET) geogrids must be encased in a robust polymeric (e.g., PVC or acrylic) coating. The coating must provide a high barrier to mechanical installation damage, biological attack, and aggressive soil chemical environments.",
+      "Aperture sizes (typically 20 mm to 40 mm) must be sized appropriately to ensure mechanical aggregate interlock (the 'snowshoe effect') without allowing granular base leaching."
     ]
   },
-  "keywords": [
-    "IS 17371:2020",
-    "Geosynthetics",
-    "Geogrids",
-    "Flexible Pavements",
-    "Style Number",
-    "PET Geogrid",
-    "High Tenacity Polyester",
-    "Polymeric Coating",
-    "Junction Strength",
-    "Wide-Width Tensile Test",
-    "Xenon-Arc UV weathering",
-    "Carbon Black Content",
-    "Geo Textiles QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 17371:2020 is the strict national Indian Standard safety specification governing polymeric geogrids used to reinforce and stabilize flexible road pavement structures. Under India's national Geo Textiles Quality Control Order, all geogrids supplied to the domestic market must carry the mandatory BIS Standard Mark (ISI Mark). The standard covers uniaxial and biaxial geogrids made from polypropylene, high-density polyethylene, or high-tenacity polyester yarns. Amendment No. 1 (October 2023) introduces standard Style Numbers denoting designed ultimate tensile strengths (e.g., '30/40' for 30 kN/m in the machine direction and 40 kN/m in the cross-machine direction). To withstand sustained heavy wheel loads, the standard mandates high-tenacity polyester fibers with high molecular weights and low carboxyl end group counts for low-creep durability, and subjects geogrids to strict wide-width tensile tests (IS 16635), rib junction strength checks (Annex B), and 500-hour UV weathering."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "17371_amd1.pdf",
     "document_version_edition": "First Edition, 2020 (incorporating Amendment No. 1, October 2023)"
   }

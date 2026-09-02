@@ -1,161 +1,122 @@
 {
-  "basic_identification": {
-    "is_number": "IS 13154 : 2015",
-    "full_title": "Automotive Vehicles — Tyres for Agricultural Vehicles and Their Trailers — Specification (First Revision)",
-    "sector_category": "Transport Engineering / Automotive Tyres, Tubes and Rims (approved by the Transport Engineering Division Council and finalized by the Automotive Tyres, Tubes and Rims Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "83.160.10",
+  "standard": {
+    "is_code": "IS 13154:2015",
+    "title": "Automotive Vehicles — Tyres for Agricultural Vehicles and Their Trailers — Specification (First Revision)",
+    "sector": "Transport Engineering / Automotive Tyres, Tubes and Rims",
+    "ics_code": [
+      "83.160.10"
+    ],
     "sectional_committee": {
       "name": "Automotive Tyres, Tubes and Rims Sectional Committee",
       "number": "TED 07"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, dimensions, load ratings, speed categories, markings, and physical performance testing (such as plunger strength, load/speed endurance, and dimensions) for new pneumatic tyres designed for use on agricultural vehicles (such as agricultural tractors, implements, power tillers, and their trailers). It covers diagonal (bias) ply and radial ply tyres.",
+    "scope": "This standard specifies the requirements, dimensions, load ratings, speed categories, markings, and physical performance testing (such as plunger strength, load/speed endurance, and dimensions) for new pneumatic tyres designed for use on agricultural vehicles (such as agricultural tractors, implements, power tillers, and their trailers). It covers diagonal (bias) ply and radial ply tyres.",
+    "keywords": [
+      "IS 13154 : 2015",
+      "Agricultural Tyres",
+      "Tractor Tyres",
+      "Power Tiller Tyres",
+      "Ply Rating",
+      "Load Index Table",
+      "Plunger Strength Test",
+      "Endurance Drum Test",
+      "Rim Sizing Code",
+      "Sidewall Markings",
+      "TED 07",
+      "Pneumatic Tyres QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, dimensions, load ratings, speed categories, markings, and physical performance testing (such as plunger strength, load/speed endurance, and dimensions) for new pneumatic tyres designed for use on agricultural vehicles (such as agricultural tractors, implements, power tillers, and their trailers). It covers diagonal (bias) ply and radial ply tyres.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, September 2015 (Reviewed and Reaffirmed in 2020)",
-    "year_first_published": "1991",
+  "version": {
+    "current_version": "First Revision, September 2015 (Reviewed and Reaffirmed in 2020)",
+    "first_publication_year": 1991,
+    "publication_year": 2015,
+    "revision": "First Revision (reorganized and retitled to expand the scope to agricultural vehicles and their trailers, incorporate load index coding systems instead of ply rating alone, and update physical performance tests)",
     "revision_history": [
-      {
-        "edition": "First Edition (published under the title 'Automotive Vehicles — Tyres for Agricultural Tractors, Implements and Power Tillers — Specification')",
-        "year": "1991"
-      },
-      {
-        "edition": "First Revision (reorganized and retitled to expand the scope to agricultural vehicles and their trailers, incorporate load index coding systems instead of ply rating alone, and update physical performance tests)",
-        "year": "2015"
-      }
+      "First Edition (published under the title 'Automotive Vehicles — Tyres for Agricultural Tractors, Implements and Power Tillers — Specification'), 1991",
+      "First Revision (reorganized and retitled to expand the scope to agricultural vehicles and their trailers, incorporate load index coding systems instead of ply rating alone, and update physical performance tests), 2015"
     ],
-    "supersedes": "IS 13154 : 1991",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this first revision (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2500 (Part 1)",
-      "title": "Sampling procedures for inspection by attributes — Part 1: Sampling schemes indexed by acceptance quality limit (AQL) for lot-by-lot inspection",
-      "category": "Sampling standard",
-      "location": "Normative references",
-      "relevance": "Provides statistical sampling schedules to draw representative samples of tyres for quality and performance audits."
-    },
-    {
-      "is_number": "IS 4905",
-      "title": "Methods for random sampling",
-      "category": "Sampling standard",
-      "location": "Normative references",
-      "relevance": "Governs the statistical selection of tyre specimens from consignments to ensure randomization."
-    },
-    {
-      "is_number": "IS/ISO 4570",
-      "title": "Tyre valve threads",
-      "category": "Product standard",
-      "location": "Normative references",
-      "relevance": "Specifies threads and tolerances for tyre valves used on agricultural vehicles."
-    },
-    {
-      "is_number": "IS 2",
-      "title": "Rules for rounding off numerical values",
-      "category": "Rounding standard",
-      "location": "Foreword",
-      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15636 : 2022",
-      "title": "Truck, Bus and Trailer Tyres in Highway Service — Specification",
-      "category": "Product Specification",
-      "location": "Parallel tyre category",
-      "relevance": "The national standard regulating highway-service tyres for commercial trucks, buses, and trailers, present in the notebook."
-    },
-    {
-      "is_number": "IS 13098 : 2024",
-      "title": "Automotive Vehicles — Tubes for Pneumatic Tyres — Specification",
-      "category": "Product Specification",
-      "location": "Parallel tube category",
-      "relevance": "Specifies the technical requirements and tests for pneumatic inner tubes used inside agricultural tyres."
-    },
-    {
-      "is_number": "IS 13444 : 2024",
-      "title": "Animal Drawn Vehicles — Pneumatic Tyres — Specification",
-      "category": "Product Specification",
-      "location": "Parallel tyre category",
-      "relevance": "Companion standard regulating pneumatic tyres for low-speed animal-drawn vehicles and agricultural carts."
-    },
-    {
-      "is_number": "IS 10527 : 1983",
-      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-      "category": "System standard",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow transport engineering standard present in the notebook, specifying nominal starting and compressed air pressure ratings under the Transport Engineering Division Council."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in this notebook, regulating steel construction and heavy structural framing, which interface with heavy transport systems."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Pneumatic Tyres / Automotive Components)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Pneumatic Tyres (Quality Control) Order' (QCO) issued by the Ministry of Heavy Industries / DPIIT, Government of India, and CMVR Rules 95A and 95B, all pneumatic tyres for agricultural vehicles, tractors, power tillers, and trailers must conform to IS 13154:2015 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified agricultural tyres in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to automotive components.",
-    "requirements": [
+    "supersedes": [
+      "IS 13154 : 1991"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every tyre must be clearly molded on its sidewall with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and classification/load-index codes.",
-        "clause_reference": "Sidewall markings"
-      },
-      {
-        "requirement_type": "Physical Dimensional Verification",
-        "detail": "Grounded in dimensional tables, inflated tyres must satisfy specified geometric limits including design section width, minimum section width, maximum overall width, design overall diameter, minimum overall diameter, and maximum overall diameter depending on the tire size code.",
-        "clause_reference": "Dimensional clauses"
-      },
-      {
-        "requirement_type": "Molded Sidewall Markings Height (Table/Clause 4.1)",
-        "detail": "Enforces strict height limits for marking characters (such as nominal size, ply rating, load index) depending on nominal rim diameter:\na) Up to 12 inches: b = 4 mm minimum, c = 4 mm minimum;\nb) 13 to 19.5 inches: b = 6 mm minimum, c = 4 mm minimum;\nk) 20 inches and above: b = 9 mm minimum, c = 4 mm minimum.",
-        "clause_reference": "Clause 4.1.1 & Clause 4.1.2"
-      },
-      {
-        "requirement_type": "Plunger Strength / Tyre Strength (Clause 4.4)",
-        "detail": "Tyres must undergo physical plunger tests where a hemispherical steel plunger (such as 16 mm diameter) is forced into the tread face of an inflated tyre. The tyre must absorb a specified minimum energy before failure or show no penetration/rupture.",
-        "clause_reference": "Clause 4.4"
-      },
-      {
-        "requirement_type": "Load and Speed Endurance Test (Clause 4.2 & 4.5)",
-        "detail": "Tyres are subjected to dynamic testing on drum-testing machines where the tyre is rotated under a specified percentage of its maximum load rating (e.g. 100% and above) at specified speeds for prescribed durations (endurance test) without developing structural failures such as separation of plies, cord breakage, or tread chunking.",
-        "clause_reference": "Clause 4.2 & Clause 4.5"
-      },
-      {
-        "requirement_type": "Tread Wear Indicator (TWI)",
-        "detail": "Each tyre must include a molded tread wear indicator to provide a visual cue when the tyre tread depth reaches its critical wear limit, enhancing on-road traction and safety.",
-        "clause_reference": "Clause 6.3"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this first revision (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 13154 : 2015",
-    "Agricultural Tyres",
-    "Tractor Tyres",
-    "Power Tiller Tyres",
-    "Ply Rating",
-    "Load Index Table",
-    "Plunger Strength Test",
-    "Endurance Drum Test",
-    "Rim Sizing Code",
-    "Sidewall Markings",
-    "TED 07",
-    "Pneumatic Tyres QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 2500 (Part 1)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS/ISO 4570",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15636 : 2022",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13098 : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13444 : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10527 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 13154 : 2015 is the mandatory national Indian Standard specification governing pneumatic tyres designed for agricultural vehicles and their trailers, including tractors, implements, and power tillers. Under India's statutory Pneumatic Tyres Quality Control Order (QCO) and the Central Motor Vehicles Rules (CMVR), all such tyres must bear the BIS Standard Mark (ISI Mark) to certify high-speed durability, impact strength, and structural safety under heavy loads. This first revision establishes strict boundaries for new tyres, regulating inflated physical dimensions, sidewall marking heights, minimum plunger-puncture strength, and dynamic drum-testing endurance, while enforcing standardized rim and load-index compatibility."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Pneumatic Tyres (Quality Control) Order",
+      "year": 2015
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Pneumatic Tyres (Quality Control) Order' (QCO) issued by the Ministry of Heavy Industries / DPIIT, Government of India, and CMVR Rules 95A and 95B, all pneumatic tyres for agricultural vehicles, tractors, power tillers, and trailers must conform to IS 13154:2015 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified agricultural tyres in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to automotive components.",
+    "requirements": [
+      "Every tyre must be clearly molded on its sidewall with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and classification/load-index codes.",
+      "Grounded in dimensional tables, inflated tyres must satisfy specified geometric limits including design section width, minimum section width, maximum overall width, design overall diameter, minimum overall diameter, and maximum overall diameter depending on the tire size code.",
+      "Enforces strict height limits for marking characters (such as nominal size, ply rating, load index) depending on nominal rim diameter:\na) Up to 12 inches: b = 4 mm minimum, c = 4 mm minimum;\nb) 13 to 19.5 inches: b = 6 mm minimum, c = 4 mm minimum;\nk) 20 inches and above: b = 9 mm minimum, c = 4 mm minimum.",
+      "Tyres must undergo physical plunger tests where a hemispherical steel plunger (such as 16 mm diameter) is forced into the tread face of an inflated tyre. The tyre must absorb a specified minimum energy before failure or show no penetration/rupture.",
+      "Tyres are subjected to dynamic testing on drum-testing machines where the tyre is rotated under a specified percentage of its maximum load rating (e.g. 100% and above) at specified speeds for prescribed durations (endurance test) without developing structural failures such as separation of plies, cord breakage, or tread chunking.",
+      "Each tyre must include a molded tread wear indicator to provide a visual cue when the tyre tread depth reaches its critical wear limit, enhancing on-road traction and safety."
+    ]
   },
-  "plain_language_summary_additional": {
-    "summary": "IS 13154 : 2015 is the mandatory national Indian Standard specification governing pneumatic tyres designed for agricultural vehicles and their trailers, including tractors, implements, and power tillers. Under India's statutory Pneumatic Tyres Quality Control Order (QCO) and the Central Motor Vehicles Rules (CMVR), all such tyres must bear the BIS Standard Mark (ISI Mark) to certify high-speed durability, impact strength, and structural safety under heavy loads. This first revision establishes strict boundaries for new tyres, regulating inflated physical dimensions, sidewall marking heights, minimum plunger-puncture strength, and dynamic drum-testing endurance, while enforcing standardized rim and load-index compatibility."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "13154_2015_reff2020.pdf",
     "document_version_edition": "First Revision, September 2015 (Reaffirmed 2020)"
   }

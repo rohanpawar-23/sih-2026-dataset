@@ -1,176 +1,131 @@
 {
-  "basic_identification": {
-    "is_number": "IS 12720 : 2004",
-    "full_title": "Criteria for Structural Design of Spillway Training Walls and Divide Walls (Second Revision) (स्पिलवे ट्रेनिंग वॉल्स और डिवाइड वॉल्स के स्ट्रक्चरल डिजाइन के मानदंड (दूसरा पुनरीक्षण))",
-    "sector_category": "Water Resources / Dams and Spillways (approved by the Water Resources Division Council and finalized by the Dams and Spillways Sectional Committee, WRD 09, of the Bureau of Indian Standards)",
-    "ics_code": "93.160",
+  "standard": {
+    "is_code": "IS 12720:2004",
+    "title": "Criteria for Structural Design of Spillway Training Walls and Divide Walls (Second Revision) (स्पिलवे ट्रेनिंग वॉल्स और डिवाइड वॉल्स के स्ट्रक्चरल डिजाइन के मानदंड (दूसरा पुनरीक्षण))",
+    "sector": "Water Resources / Dams and Spillways",
+    "ics_code": [
+      "93.160"
+    ],
     "sectional_committee": {
       "name": "Dams and Spillways Sectional Committee",
       "number": "WRD 09"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies structural and hydraulic design criteria, load combinations, and stability requirements for both upstream and downstream training walls and divide walls in dam spillway and energy dissipator installations.",
+    "scope": "This standard specifies structural and hydraulic design criteria, load combinations, and stability requirements for both upstream and downstream training walls and divide walls in dam spillway and energy dissipator installations.",
+    "keywords": [
+      "IS 12720 : 2004",
+      "Spillway",
+      "Training Walls",
+      "Divide Walls",
+      "Energy Dissipator",
+      "Unsymmetrical Operation",
+      "Flip Buckets",
+      "Centrifugal Force",
+      "Uplift Pressure",
+      "Active Earth Pressure",
+      "SP 55",
+      "WRD 09"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies structural and hydraulic design criteria, load combinations, and stability requirements for both upstream and downstream training walls and divide walls in dam spillway and energy dissipator installations.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, October 2004 (Reaffirmed 2025)",
-    "year_first_published": "1989",
+  "version": {
+    "current_version": "Second Revision, October 2004 (Reaffirmed 2025)",
+    "first_publication_year": 1989,
+    "publication_year": 2004,
+    "revision": "Second Revision (IS 12720 : 2004)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 12720 : 1989)",
-        "year": "1989"
-      },
-      {
-        "edition": "First Revision (IS 12720 : 1993)",
-        "year": "1993"
-      },
-      {
-        "edition": "Second Revision (IS 12720 : 2004)",
-        "year": "2004"
-      }
+      "First Edition (IS 12720 : 1989), 1989",
+      "First Revision (IS 12720 : 1993), 1993",
+      "Second Revision (IS 12720 : 2004), 2004"
     ],
-    "supersedes": "IS 12720 : 1993",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    },
-    {
-      "is_number": "IS 456 : 2000",
-      "title": "Plain and Reinforced Concrete — Code of Practice (Fourth Revision)",
-      "category": "Concrete Design standard",
-      "relevance": "Regulates compressive and tensile design stresses, detailing of steel reinforcement, and concrete grade limits."
-    },
-    {
-      "is_number": "IS 11772 : 1986",
-      "title": "Guidelines for design of drainage arrangements of energy dissipators and training walls of spillways",
-      "category": "Drainage Design standard",
-      "relevance": "Specifies design of filters, pressure-relief pipes, and drainage holes to prevent hydrostatic pressure build-up behind the training and divide walls."
-    },
-    {
-      "is_number": "SP 55 : 1993",
-      "title": "Design Aid for Anchorages for Spillway Piers, Training Walls and Divide Walls",
-      "category": "Design Aid / Special Publication",
-      "relevance": "Provides design charts, formulas, and structural detailing for calculating required lengths and layouts of rock bolts or steel dowel anchorages."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10021 : 2000",
-      "title": "Guidelines for De-icing System for Hydraulic Installations (First Revision)",
-      "category": "Operating standard",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow hydraulic outfitting standard in the notebook, specifying de-icing compressed air bubbler systems integrated with gates and trash racks."
-    },
-    {
-      "is_number": "IS 10386 (Part 11) : 2026",
-      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
-      "category": "Safety Code",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates safety, geological monitoring, and structural supports during underground hydropower cavern and tunnel works."
-    },
-    {
-      "is_number": "IS 16115 : 2013",
-      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
-      "category": "Evaluation standard",
-      "location": "Notebook Co-source",
-      "relevance": "Provides post-completion evaluation guidelines to audit hydraulic structures, reservoirs, and canal network efficiencies."
-    },
-    {
-      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
-      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
-      "category": "Terminology standard",
-      "location": "Notebook Co-source",
-      "relevance": "Unifies hydrological terms (such as water years, torrents, and freshets) across design and exploration reports."
-    },
-    {
-      "is_number": "IS 9401 (Part 12) : 2026",
-      "title": "Methods of Measurement of Work in River Valley Projects (Dams and Appurtenant Structures) — Part 12: Topographical Surveys (First Revision)",
-      "category": "Measurement Code",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies linear measurement and contract billing procedures for topographical alignments and cross-sections."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies impermeable geomembrane barriers to prevent water seepage through forested or alluvial soils."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design and construction code in India, regulating support framing, connections, and anchorage weldments."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Design Guidelines (Water Resources Department / Dams and Spillways)",
-    "certification_status": "Voluntary Code of Practice. Since IS 12720:2004 is an engineering design standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its structural design, drainage layout, and stability check requirements is strictly mandated in public sector hydropower, dam, and river valley tender packages (issued by CWC, NHPC, SJVN, THDC, NEEPCO, and state irrigation departments) across India to guarantee safety against catastrophic hydraulic breaches and structural collapses. Precious metal hallmarking is completely inapplicable.",
-    "requirements": [
+    "supersedes": [
+      "IS 12720 : 1993"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Divide Wall Function and Siting",
-        "detail": "Divide walls must be provided to separate bays having different energy dissipation arrangements (or different parameters/levels), or to allow for unsymmetrical operation of spillway gates to minimize cross-return flows, eddies, and erosion, as well as to isolate powerhouse bays or silt excluders."
-      },
-      {
-        "requirement_type": "Divide Wall Design: Unsymmetrical Operation",
-        "detail": "Divide walls must be designed to withstand hydrostatic and hydrodynamic loads caused by unsymmetrical flow in the energy dissipator. For flip buckets, hydrostatic loads must also incorporate centrifugal forces in addition to the depth of water, combined with corresponding full uplift on the wall base.",
-        "clause_reference": "Clause 5.2.1.1"
-      },
-      {
-        "requirement_type": "Divide Wall Design: Non-Discharging Condition",
-        "detail": "Under the non-discharging condition, divide walls must be designed for hydrostatic water pressure up to the minimum tailwater level on one side, combined with full uplift, active backfill pressures, or empty conditions on the other.",
-        "clause_reference": "Clause 5.2.1.2"
-      },
-      {
-        "requirement_type": "In-situ Foundation Siting Controls",
-        "detail": "Requires masonry/concrete gravity walls where the strata above the foundation at the end or sides of the spillway consists of earth or poor rock. For sound, steep rock foundations, cantilever walls or thin concrete linings anchored to rock by steel dowels or rock bolts may be utilized."
-      },
-      {
-        "requirement_type": "Rigid Drainage System Integration",
-        "detail": "Mandates integrating a comprehensive drainage system behind the walls (utilizing filters and drainage holes) in accordance with IS 11772 to relieve hydrostatic pressures and prevent piping failures."
-      },
-      {
-        "requirement_type": "Anchor Strength and Stress Limits",
-        "detail": "The design of anchorages and reinforcement must satisfy the allowable stress limits specified in IS 456 (concrete) and the detailing provisions of SP 55 to prevent pull-out or failure of the wall base under peak lateral and uplift forces."
-      },
-      {
-        "requirement_type": "Overturning and Sliding Stability Checks",
-        "detail": "Enforces checking the structural stability of the walls against sliding (on soil/rock interfaces) and overturning, ensuring factors of safety comply with standard limits under both normal and unusual/seismic conditions."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 12720 : 2004",
-    "Spillway",
-    "Training Walls",
-    "Divide Walls",
-    "Energy Dissipator",
-    "Unsymmetrical Operation",
-    "Flip Buckets",
-    "Centrifugal Force",
-    "Uplift Pressure",
-    "Active Earth Pressure",
-    "SP 55",
-    "WRD 09"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 456 : 2000",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11772 : 1986",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "SP 55 : 1993",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10021 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10386 (Part 11) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16115 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4410 (Part 11/Sec 1) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 9401 (Part 12) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 12720 : 2004 (Second Revision) is the national Indian Standard establishing criteria for the structural design of spillway training walls and divide walls. Developed by the Dams and Spillways Sectional Committee (WRD 09), this standard provides structural and hydraulic guidelines for civil engineers to design robust guide structures in dam spillways. It classifies walls into gravity, cantilever, and anchored types based on rock foundation quality, specifies design load combinations (including unsymmetrical gate operation, flip-bucket centrifugal forces, saturated earth pressures, and full uplift), mandates the installation of drainage systems per IS 11772, and outlines stability requirements against sliding and overturning."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 12720:2004 is an engineering design standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its structural design, drainage layout, and stability check requirements is strictly mandated in public sector hydropower, dam, and river valley tender packages (issued by CWC, NHPC, SJVN, THDC, NEEPCO, and state irrigation departments) across India to guarantee safety against catastrophic hydraulic breaches and structural collapses. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      "Divide walls must be provided to separate bays having different energy dissipation arrangements (or different parameters/levels), or to allow for unsymmetrical operation of spillway gates to minimize cross-return flows, eddies, and erosion, as well as to isolate powerhouse bays or silt excluders.",
+      "Divide walls must be designed to withstand hydrostatic and hydrodynamic loads caused by unsymmetrical flow in the energy dissipator. For flip buckets, hydrostatic loads must also incorporate centrifugal forces in addition to the depth of water, combined with corresponding full uplift on the wall base.",
+      "Under the non-discharging condition, divide walls must be designed for hydrostatic water pressure up to the minimum tailwater level on one side, combined with full uplift, active backfill pressures, or empty conditions on the other.",
+      "Requires masonry/concrete gravity walls where the strata above the foundation at the end or sides of the spillway consists of earth or poor rock. For sound, steep rock foundations, cantilever walls or thin concrete linings anchored to rock by steel dowels or rock bolts may be utilized.",
+      "Mandates integrating a comprehensive drainage system behind the walls (utilizing filters and drainage holes) in accordance with IS 11772 to relieve hydrostatic pressures and prevent piping failures.",
+      "The design of anchorages and reinforcement must satisfy the allowable stress limits specified in IS 456 (concrete) and the detailing provisions of SP 55 to prevent pull-out or failure of the wall base under peak lateral and uplift forces.",
+      "Enforces checking the structural stability of the walls against sliding (on soil/rock interfaces) and overturning, ensuring factors of safety comply with standard limits under both normal and unusual/seismic conditions."
+    ]
   },
-  "author_committee_attribution": {
-    "sectional_committee": "Dams and Spillways Sectional Committee (WRD 09)",
-    "member_secretary": "SHRI VAIBHAV YADAV (SCIENTIST-C)",
-    "department_head": "SHRI DUSHYANT PRAJAPATI (Scientist ‘E’/Director and Head, Water Resources Department, BIS)"
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "12720_2004_reff2020.pdf",
     "document_version_edition": "Second Revision, October 2004"
   }

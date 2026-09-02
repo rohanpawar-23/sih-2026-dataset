@@ -1,165 +1,106 @@
 {
-  "basic_identification": {
-    "is_number": "IS 12214 : 1987",
-    "full_title": "General Requirements for Rotary Hose for Water-Well Drilling Equipment (जल-कूप वेधन उपस्कर के लिए घूर्णी होज़ की सामान्य अपेक्षाएँ)",
-    "sector_category": "Mechanical Engineering / Diamond Core and Water Well Drilling (approved by the Mechanical Engineering Division Council and finalized by the Diamond Core and Water Well Drilling Sectional Committee, MED 21, of the Bureau of Indian Standards)",
-    "ics_code": "23.040.70; 73.100.30",
+  "standard": {
+    "is_code": "IS 12214:1987",
+    "title": "General Requirements for Rotary Hose for Water-Well Drilling Equipment (जल-कूप वेधन उपस्कर के लिए घूर्णी होज़ की सामान्य अपेक्षाएँ)",
+    "sector": "Mechanical Engineering / Diamond Core and Water Well Drilling",
+    "ics_code": [
+      "23.040.70",
+      "73.100.30"
+    ],
     "sectional_committee": {
       "name": "Diamond Core and Water Well Drilling Sectional Committee",
       "number": "MED 21"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the material specifications, multi-layer construction designs, standard inside diameters (bore sizes), working pressure ratings, safety factors, testing protocols, and coupling requirements for high-pressure flexible rotary drilling hoses (Kelly hoses) used to circulate water-based or oil-based drilling mud between the standpipe and vertically moving swivel on water-well drilling rigs.",
+    "scope": "This Indian Standard prescribes the material specifications, multi-layer construction designs, standard inside diameters (bore sizes), working pressure ratings, safety factors, testing protocols, and coupling requirements for high-pressure flexible rotary drilling hoses (Kelly hoses) used to circulate water-based or oil-based drilling mud between the standpipe and vertically moving swivel on water-well drilling rigs.",
+    "keywords": [
+      "IS 12214 : 1987",
+      "Rotary Drilling Hose",
+      "Kelly Hose",
+      "Water Well Drilling",
+      "Inner Rubber Liner NBR",
+      "Steel Wire Spiral Reinforcement",
+      "Hydrostatic Proof Test",
+      "Burst Pressure 2.5 Safety Factor",
+      "End Coupling Swaged",
+      "MED 21",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the material specifications, multi-layer construction designs, standard inside diameters (bore sizes), working pressure ratings, safety factors, testing protocols, and coupling requirements for high-pressure flexible rotary drilling hoses (Kelly hoses) used to circulate water-based or oil-based drilling mud between the standpipe and vertically moving swivel on water-well drilling rigs.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1987 (Reaffirmed 2022)",
-    "year_first_published": "1987",
+  "version": {
+    "current_version": "First Edition, 1987 (Reaffirmed 2022)",
+    "first_publication_year": 1987,
+    "publication_year": 1987,
+    "revision": "First Edition (IS 12214 : 1987)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 12214 : 1987)",
-        "year": "1987"
-      }
+      "First Edition (IS 12214 : 1987), 1987"
     ],
-    "supersedes": "None (First national standard formulated to unify specifications for flexible high-pressure conduits used in the drilling rig sector)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL (No amendments issued on this active reaffirmed copy)"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 443",
-      "title": "Methods of test for rubber hoses (second revision)",
-      "category": "Testing standard",
-      "relevance": "Provides baseline testing procedures for rubber hose assemblies, including dimensional gauging, aging tests, and hydrostatic tests."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated physical parameters, test pressures, and dimensions."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 12629 : 1989",
-      "title": "Water well drilling — Rotary hose for rotary drilling — Recommended practice for care and use",
-      "category": "Recommended Practice",
-      "location": "Same Sectional Committee (MED 21)",
-      "relevance": "Directs the correct rig installation, layout alignment, bend radius compliance, safety chain attachments, daily inspections, and maximum field hydrostatic test limits for the hoses."
-    },
-    {
-      "is_number": "IS 15028 : 2001",
-      "title": "Hoisting Swivel for Use with Diamond Core Drilling — Requirements",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (MED 21)",
-      "relevance": "Specifies structural design requirements for swivels. The rotary hose connects directly to the swivel stem to channel high-pressure fluids into the spinning drill string."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits on high-hazard drilling sites, where high-pressure mud pump lines, whiplashing flexible hoses, and moving pulleys represent severe crushing and striking hazards."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating derrick columns, standpipe structural clamps, and winch foundations carrying high-mass drilling equipment."
-    }
-  ],
-  "allied_subcommittee_representatives": [
-    {
-      "name": "Shri Ajay Agrawal (Chairman)",
-      "organization": "Geological Survey of India, Kolkata"
-    },
-    {
-      "name": "Ms. Khushbu Jyotsna Kindo (Member Secretary)",
-      "organization": "Mechanical Engineering Department, Bureau of Indian Standards, New Delhi"
-    },
-    {
-      "name": "Shri V. K. Kansal",
-      "organization": "Geological Survey of India, Kolkata"
-    },
-    {
-      "name": "Shri M. G. Kuvawala",
-      "organization": "AMKO Mining & Drilling Equipment Pvt Ltd, Mumbai"
-    },
-    {
-      "name": "Shri H. M. Kuvawala (Alternate)",
-      "organization": "AMKO Mining & Drilling Equipment Pvt Ltd, Mumbai"
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Mechanical Engineering Department / Diamond Core and Water Well Drilling)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to print or stamp the prestigious physical ISI 'Standard Mark' directly on the vulcanized rubber outer cover of rotary hoses to certify material grades and pressure testing compliance in the competitive drilling rig market.",
-    "requirements": [
+    "supersedes": [
+      "None (First national standard formulated to unify specifications for flexible high-pressure conduits used in the drilling rig sector)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Any numerical value representing the result of a physical dimension, test pressure, or diameter must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "The Inner Tube Composition",
-        "detail": "The inner lining must be fabricated from premium oil-resistant and abrasion-resistant synthetic rubber (such as Nitrile/NBR or HNBR) capable of handling water-based or oil-based muds with a minimum aniline point of 66°C without showing structural softening or swelling.",
-        "clause_reference": "Construction / Layer Specifications"
-      },
-      {
-        "requirement_type": "High-Strength Wire Reinforcement",
-        "detail": "The hose reinforcement must consist of multiple plies (typically 2 to 6 layers) of high-strength spiral steel wire or steel wire braids, interspersed with heavy-duty synthetic textile fabric plies to ensure maximum burst resistance.",
-        "clause_reference": "Construction / Layer Specifications"
-      },
-      {
-        "requirement_type": "Synthetic Outer Cover Protectant",
-        "detail": "The outer cover must be formed of wrapped weather, ozone, and abrasion-resistant synthetic rubber to protect the steel wire core from UV rays, derrick friction, and structural impacts on-site.",
-        "clause_reference": "Construction / Layer Specifications"
-      },
-      {
-        "requirement_type": "Sized Bore Sizing Category",
-        "detail": "The hose nominal inside diameter (bore size) must strictly match standard metric categories to align with rig manifolds: 50 mm (2 in), 63 mm (2.5 in), 75 mm (3 in), 90 mm (3.5 in), or 100 mm (4 in).",
-        "clause_reference": "Sizing / Sized Tables"
-      },
-      {
-        "requirement_type": "Hydrostatic Sized proof test",
-        "detail": "Every finished hose assembly must undergo a factory hydrostatic proof test at 1.5 to 2.0 times the rated working pressure (WP) for a minimum of 10 minutes, demonstrating zero leaks, seepage, or permanent swelling.",
-        "clause_reference": "Performance Testing"
-      },
-      {
-        "requirement_type": "Exceptional Safety Factor Limit",
-        "detail": "To prevent catastrophic on-site failures, the minimum burst pressure (destructive test) of any representative prototype hose assembly must be at least 2.5 times its rated working pressure (e.g., minimum burst of 12,500 psi for a 5,000 psi working hose).",
-        "clause_reference": "Performance Testing"
-      },
-      {
-        "requirement_type": "The Minimum Bend Sizing Radius",
-        "detail": "To prevent structural kinking and line constriction, hoses must satisfy minimum bending curves without buckling (e.g., a 100 mm / 4-in hose typically requires a minimum bend radius of 1600 mm).",
-        "clause_reference": "Sizing / Performance Tables"
-      },
-      {
-        "requirement_type": "Permanent Swaged Couplings",
-        "detail": "Hoses must be equipped with factory swaged or built-in end connections containing API line pipe threads, forged hammer unions (e.g., Fig 1002/1502), or flanges, tested simultaneously to ensure zero joint slip.",
-        "clause_reference": "End Connections"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL (No amendments issued on this active reaffirmed copy)"
       }
     ]
   },
-  "keywords": [
-    "IS 12214 : 1987",
-    "Rotary Drilling Hose",
-    "Kelly Hose",
-    "Water Well Drilling",
-    "Inner Rubber Liner NBR",
-    "Steel Wire Spiral Reinforcement",
-    "Hydrostatic Proof Test",
-    "Burst Pressure 2.5 Safety Factor",
-    "End Coupling Swaged",
-    "MED 21",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 443",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12629 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15028 : 2001",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 12214 : 1987 (Reaffirmed 2022) is the primary national Indian Standard specification prescribing the general technical, material, construction, and testing requirements for flexible high-pressure rotary drilling hoses (commonly known as Kelly hoses) used in water-well drilling operations. Maintained under the Diamond Core and Water Well Drilling Sectional Committee (MED 21) under the chairmanship of Shri Ajay Agrawal (GSI), the code regulates hoses that transport drilling fluids between the rig's derrick standpipe and the vertically moving swivel. It mandates a multi-layer design (comprising an oil-resistant NBR inner liner, 2 to 6 layers of high-tensile spiral steel wire reinforcement, and an ozone-resistant wrapped rubber cover), enforces standardized bore sizes from 50 mm to 100 mm under tight sizing tolerances, and specifies rigorous quality checks—including a non-destructive hydrostatic test at up to 2.0 times working pressure and a high-stress burst test with a strict 2.5:1 safety margin to prevent dangerous on-site hose-bursting accidents."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to print or stamp the prestigious physical ISI 'Standard Mark' directly on the vulcanized rubber outer cover of rotary hoses to certify material grades and pressure testing compliance in the competitive drilling rig market.",
+    "requirements": [
+      "Any numerical value representing the result of a physical dimension, test pressure, or diameter must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+      "The inner lining must be fabricated from premium oil-resistant and abrasion-resistant synthetic rubber (such as Nitrile/NBR or HNBR) capable of handling water-based or oil-based muds with a minimum aniline point of 66°C without showing structural softening or swelling.",
+      "The hose reinforcement must consist of multiple plies (typically 2 to 6 layers) of high-strength spiral steel wire or steel wire braids, interspersed with heavy-duty synthetic textile fabric plies to ensure maximum burst resistance.",
+      "The outer cover must be formed of wrapped weather, ozone, and abrasion-resistant synthetic rubber to protect the steel wire core from UV rays, derrick friction, and structural impacts on-site.",
+      "The hose nominal inside diameter (bore size) must strictly match standard metric categories to align with rig manifolds: 50 mm (2 in), 63 mm (2.5 in), 75 mm (3 in), 90 mm (3.5 in), or 100 mm (4 in).",
+      "Every finished hose assembly must undergo a factory hydrostatic proof test at 1.5 to 2.0 times the rated working pressure (WP) for a minimum of 10 minutes, demonstrating zero leaks, seepage, or permanent swelling.",
+      "To prevent catastrophic on-site failures, the minimum burst pressure (destructive test) of any representative prototype hose assembly must be at least 2.5 times its rated working pressure (e.g., minimum burst of 12,500 psi for a 5,000 psi working hose).",
+      "To prevent structural kinking and line constriction, hoses must satisfy minimum bending curves without buckling (e.g., a 100 mm / 4-in hose typically requires a minimum bend radius of 1600 mm).",
+      "Hoses must be equipped with factory swaged or built-in end connections containing API line pipe threads, forged hammer unions (e.g., Fig 1002/1502), or flanges, tested simultaneously to ensure zero joint slip."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "12214_1987_reff2022.pdf (Curation via related BIS technical publications)",
     "document_version_edition": "First Edition, 1987"
   }

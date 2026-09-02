@@ -1,175 +1,127 @@
 {
-  "basic_identification": {
-    "is_number": "IS 15556 : 2005",
-    "full_title": "Volumetric and Spectrophotometric Estimation of Iron — Specification (लोहे का आयतनमितीय और स्पेक्ट्रम प्रकाशमितीय आकलन — विशिष्टि)",
-    "sector_category": "Chemical / Inorganic Chemicals (approved by the Chemical Division Council and finalized by the Inorganic Chemicals and Photographic Materials Sectional Committee, CHD 1, of the Bureau of Indian Standards)",
-    "ics_code": "71.040.50; 77.080.01",
+  "standard": {
+    "is_code": "IS 15556:2005",
+    "title": "Volumetric and Spectrophotometric Estimation of Iron — Specification (लोहे का आयतनमितीय और स्पेक्ट्रम प्रकाशमितीय आकलन — विशिष्टि)",
+    "sector": "Chemical / Inorganic Chemicals",
+    "ics_code": [
+      "71.040.50",
+      "77.080.01"
+    ],
     "sectional_committee": {
       "name": "Inorganic Chemicals and Photographic Materials Sectional Committee",
       "number": "CHD 1"
-    }
+    },
+    "standard_type": "GUIDE",
+    "status": "ACTIVE",
+    "description": "This standard prescribes volumetric methods for the determination of iron using potassium permanganate and potassium bichromate, as well as spectrophotometric methods using thioglycolic acid and o-phenanthroline.",
+    "scope": "This standard prescribes volumetric methods for the determination of iron using potassium permanganate and potassium bichromate, as well as spectrophotometric methods using thioglycolic acid and o-phenanthroline.",
+    "keywords": [
+      "IS 15556 : 2005",
+      "Iron Estimation",
+      "Volumetric determination",
+      "Spectrophotometric method",
+      "Potassium Permanganate",
+      "Potassium Dichromate",
+      "Zimmermann-Reinhardt Solution",
+      "Thioglycolic Acid",
+      "o-Phenanthroline",
+      "Total Iron",
+      "CHD 1",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes volumetric methods for the determination of iron using potassium permanganate and potassium bichromate, as well as spectrophotometric methods using thioglycolic acid and o-phenanthroline.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, February 2005 (Reaffirmed 2022)",
-    "year_first_published": "2005 (adopted by the Bureau of Indian Standards in 2005, amalgamating two older standards)",
+  "version": {
+    "current_version": "First Edition, February 2005 (Reaffirmed 2022)",
+    "first_publication_year": 2005,
+    "publication_year": 2005,
+    "revision": "First Edition (IS 15556 : 2005)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 15556 : 2005)",
-        "year": "2005"
-      }
+      "First Edition (IS 15556 : 2005), 2005"
     ],
-    "supersedes": "IS 4264 : 1967 and IS 4542 : 1966",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1070 : 1992",
-      "title": "Reagent grade water (third revision)",
-      "category": "Material standard",
-      "relevance": "Specifies purity parameters for water used in chemical dilution, blanking, and sample preparation."
-    },
-    {
-      "is_number": "IS 2316 : 1990",
-      "title": "Methods of preparation of standard solutions for colorimetric and volumetric analysis (second revision)",
-      "category": "Testing standard",
-      "relevance": "Establishes preparation and standardization procedures for the chemical titrants and color standards."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated titration volumes, absorbance values, and iron content."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 11657 : 2025",
-      "title": "Determination of Dissolved Iron — Test Method",
-      "category": "Testing standard",
-      "location": "Same Divisional Council",
-      "relevance": "A companion standard present in the notebook that provides testing methods for dissolved iron in water and technical samples."
-    },
-    {
-      "is_number": "IS 1514 : 1990",
-      "title": "Methods of Sampling and Test for Quicklime and Hydrated Lime",
-      "category": "Testing standard",
-      "location": "Acids, Alkalis and Halides Sectional Committee, CHD 02",
-      "relevance": "Refers to spectrophotometric determination of trace iron impurities (such as thioglycolic or phenanthroline complexes) to certify lime purity."
-    },
-    {
-      "is_number": "IS 1612 : 1976",
-      "title": "Specification for Iron Powder (Reduction Grade)",
-      "category": "Product Specification",
-      "location": "Chemical Department",
-      "relevance": "Specifies high-purity reduction iron powder (min 97.0% or min 99.0% total iron), quantitatively determined using the standard volumetric titration methods in IS 15556."
-    },
-    {
-      "is_number": "IS 2075 : 2017",
-      "title": "Ready Mixed Paint, Stoving, Red Oxide Zinc Chrome, Priming — Specification",
-      "category": "Product Specification",
-      "location": "Chemical Department",
-      "relevance": "Regulates iron-oxide-pigmented priming paints, where total iron content is verified using the volumetric assays of IS 15556."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification",
-      "category": "Water quality standard",
-      "location": "Food and Agriculture Divisional Council",
-      "relevance": "Restricts dissolved iron to a maximum of 0.3 mg/L to prevent aesthetic discoloration, taste issues, and pipe deposits, using analytical methods defined in IS 15556."
-    },
-    {
-      "is_number": "IS 12084 : 1987",
-      "title": "Sample preparation for determination of copper, iron, nickel, and silica in morpholine",
-      "category": "Testing standard",
-      "location": "Chemical Department",
-      "relevance": "Specifies the determination of iron as an impurity in morpholine using spectrophotometric methods."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural processing mills, chemical plants, and testing laboratories."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Methods of Test / Analytical Laboratory Guidelines (Chemical Department / Inorganic Chemicals)",
-    "certification_status": "Voluntary Code of Practice. Since IS 15556 : 2005 is a laboratory testing methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling, sample digestion, and chemical calibration protocols is strictly required in laboratory accreditation audits (under NABL ISO/IEC 17025:2017), state pollution control board compliance audits, and public procurement chemical audits across India.",
-    "requirements": [
+    "supersedes": [
+      "IS 4264 : 1967 and IS 4542 : 1966"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Volumetric Selection",
-        "detail": "Prescribes two volumetric methods—potassium permanganate titration and potassium dichromate titration—suitable for analyzing samples with higher concentrations of iron (typically greater than 2 percent by mass).",
-        "clause_reference": "Clause 1"
-      },
-      {
-        "requirement_type": "Spectrophotometric Selection",
-        "detail": "Prescribes two spectrophotometric methods—thioglycolic acid and o-phenanthroline—designed to measure trace levels of iron in parts-per-million or parts-per-billion ranges.",
-        "clause_reference": "Clause 1"
-      },
-      {
-        "requirement_type": "Potassium Permanganate Reduction (Method A)",
-        "detail": "Ferric iron (Fe3+) is reduced to ferrous iron (Fe2+) using stannous chloride (SnCl2) in a hot hydrochloric acid medium. The excess SnCl2 is neutralized using saturated mercuric chloride (HgCl2), which forms a silky white precipitate of mercurous chloride (Hg2Cl2).",
-        "clause_reference": "Clause 4.1.2"
-      },
-      {
-        "requirement_type": "Zimmermann-Reinhardt (ZR) Titration",
-        "detail": "To prevent hydrochloric acid from being oxidized by the titrant, Zimmermann-Reinhardt solution (containing manganous sulphate, phosphoric acid, and sulphuric acid) is added prior to titrating against standard 0.1 N potassium permanganate. Phosphoric acid complexes with yellow Fe3+ ions to form a colorless ferric phosphate complex, ensuring a sharp pink endpoint.",
-        "clause_reference": "Clause 4.1.2"
-      },
-      {
-        "requirement_type": "Potassium Dichromate Titration (Method B)",
-        "detail": "Similar reduction is performed using stannous chloride and mercuric chloride. The Fe2+ ions are subsequently titrated against standard potassium dichromate solution in an acidic medium using diphenylamine or sodium diphenylamine sulphonate indicator to yield a sharp violet-blue endpoint.",
-        "clause_reference": "Clause 4.2"
-      },
-      {
-        "requirement_type": "Thioglycolic Acid Method (Method C)",
-        "detail": "Thioglycolic acid reduces trivalent ferric iron (Fe3+) almost instantaneously to divalent ferrous iron (Fe2+), while simultaneously reacting with the Fe2+ ions in an alkaline ammonium hydroxide medium to form a highly stable, intensely colored reddish-purple coordination complex measured spectrophotometrically at 535 nm to 540 nm.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "o-Phenanthroline Method (Method D)",
-        "detail": "Ferrous iron (Fe2+) reacts with 1,10-phenanthroline to form an orange-red chelate complex, [Fe(o-phen)3]2+, which is measured spectrophotometrically at 510 nm. Any Fe3+ present in the sample must first be quantitatively reduced using thioglycolic acid or hydroxylamine hydrochloride to estimate total iron.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Spectrophotometric Calculations",
-        "detail": "Iron content in ppm (as Fe) is calculated using the formula: Iron (as Fe) ppm = C * 25 / W, where C is the concentration of iron from the standard calibration curve in micrograms per milliliter (ug/mL), and W is the weight in grams (g) of the sample contained in the test aliquot.",
-        "clause_reference": "Clause 5.2.4"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Observed or calculated test or analytical values must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified limit in the material standard.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 15556 : 2005",
-    "Iron Estimation",
-    "Volumetric determination",
-    "Spectrophotometric method",
-    "Potassium Permanganate",
-    "Potassium Dichromate",
-    "Zimmermann-Reinhardt Solution",
-    "Thioglycolic Acid",
-    "o-Phenanthroline",
-    "Total Iron",
-    "CHD 1",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 1070 : 1992",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2316 : 1990",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11657 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1514 : 1990",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1612 : 1976",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2075 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12084 : 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 15556 : 2005 is the primary national Indian Standard test specification establishing unified, high-precision laboratory test methods for the quantitative volumetric and spectrophotometric determination of iron. Formulated by the CHD 1 sectional committee and reaffirmed in 2022, the standard amalgamated two older independent standards (IS 4264 and IS 4542). It unifies four essential analytical methodologies: volumetric potassium permanganate titration (using Zimmermann-Reinhardt solution) and potassium dichromate titration for higher concentrations of iron (greater than 2%), and trace-level spectrophotometric methods utilizing thioglycolic acid (forming a reddish-purple complex) and o-phenanthroline (forming an orange-red chelate), supporting accurate chemical testing, environmental testing, and material certification across India."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 15556 : 2005 is a laboratory testing methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling, sample digestion, and chemical calibration protocols is strictly required in laboratory accreditation audits (under NABL ISO/IEC 17025:2017), state pollution control board compliance audits, and public procurement chemical audits across India.",
+    "requirements": [
+      "Prescribes two volumetric methods—potassium permanganate titration and potassium dichromate titration—suitable for analyzing samples with higher concentrations of iron (typically greater than 2 percent by mass).",
+      "Prescribes two spectrophotometric methods—thioglycolic acid and o-phenanthroline—designed to measure trace levels of iron in parts-per-million or parts-per-billion ranges.",
+      "Ferric iron (Fe3+) is reduced to ferrous iron (Fe2+) using stannous chloride (SnCl2) in a hot hydrochloric acid medium. The excess SnCl2 is neutralized using saturated mercuric chloride (HgCl2), which forms a silky white precipitate of mercurous chloride (Hg2Cl2).",
+      "To prevent hydrochloric acid from being oxidized by the titrant, Zimmermann-Reinhardt solution (containing manganous sulphate, phosphoric acid, and sulphuric acid) is added prior to titrating against standard 0.1 N potassium permanganate. Phosphoric acid complexes with yellow Fe3+ ions to form a colorless ferric phosphate complex, ensuring a sharp pink endpoint.",
+      "Similar reduction is performed using stannous chloride and mercuric chloride. The Fe2+ ions are subsequently titrated against standard potassium dichromate solution in an acidic medium using diphenylamine or sodium diphenylamine sulphonate indicator to yield a sharp violet-blue endpoint.",
+      "Thioglycolic acid reduces trivalent ferric iron (Fe3+) almost instantaneously to divalent ferrous iron (Fe2+), while simultaneously reacting with the Fe2+ ions in an alkaline ammonium hydroxide medium to form a highly stable, intensely colored reddish-purple coordination complex measured spectrophotometrically at 535 nm to 540 nm.",
+      "Ferrous iron (Fe2+) reacts with 1,10-phenanthroline to form an orange-red chelate complex, [Fe(o-phen)3]2+, which is measured spectrophotometrically at 510 nm. Any Fe3+ present in the sample must first be quantitatively reduced using thioglycolic acid or hydroxylamine hydrochloride to estimate total iron.",
+      "Iron content in ppm (as Fe) is calculated using the formula: Iron (as Fe) ppm = C * 25 / W, where C is the concentration of iron from the standard calibration curve in micrograms per milliliter (ug/mL), and W is the weight in grams (g) of the sample contained in the test aliquot.",
+      "Observed or calculated test or analytical values must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified limit in the material standard."
+    ]
   },
-  "plain_language_image_annotations": {
-    "summary": "The user has provided a set of images. Images 1, 2, and 4 represent close-up crops and the full cover page of standard IS 15556 : 2005, which details the volumetric and spectrophotometric estimation of iron. Image 5 shows the Foreword page of IS 15556 : 2005, confirming its formulation by the CHD 1 sectional committee. In addition, Image 3 shows a detailed technical schematic layout of a sterilizer/autoclave boiler containing labeled components (Main Chamber, Boiler, Steam Release Valve, Safety Valve, Dial Vacuum Pressure Indicator, Pedal Lifting Arrangement, Stop Valve, Water Inlet, Steam Pressure Indicator, Glass Water Level Indicator, Vacuum Pump, and Vacuum Release Valve) utilized in biological and chemical testing laboratories."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "15556_2005_reff2022.pdf",
     "document_version_edition": "First Edition, February 2005"
   }

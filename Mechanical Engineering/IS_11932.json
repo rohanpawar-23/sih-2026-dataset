@@ -1,164 +1,119 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11932 : 1986",
-    "full_title": "Recorded Characteristics for Magnetic Sound on Full-Coat 16 mm Motion-Picture Film (16 मिमी चलचित्र फिल्म पर पूर्ण-लेपित चुंबकीय ध्वनि की रिकॉर्ड की गई विशेषताएँ)",
-    "sector_category": "Mechanical Engineering / Photographic and Cinematographic Equipment (finalized by the Photographic and Cinematographic Equipment Sectional Committee, MED 32, under the Mechanical Engineering Division Council of the Bureau of Indian Standards)",
-    "ics_code": "37.060.20",
+  "standard": {
+    "is_code": "IS 11932:1986",
+    "title": "Recorded Characteristics for Magnetic Sound on Full-Coat 16 mm Motion-Picture Film (16 मिमी चलचित्र फिल्म पर पूर्ण-लेपित चुंबकीय ध्वनि की रिकॉर्ड की गई विशेषताएँ)",
+    "sector": "Mechanical Engineering / Photographic and Cinematographic Equipment",
+    "ics_code": [
+      "37.060.20"
+    ],
     "sectional_committee": {
       "name": "Photographic and Cinematographic Equipment Sectional Committee",
       "number": "MED 32"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard specifies the recorded characteristic for magnetic sound records on 16 mm full-coat perforated magnetic film and 16 mm motion-picture film with magnetic striping when used at the nominal speed of 24 frames [18.3 cm (7.2 in)] per second or 25 frames [19.05 cm (7.5 in)] per second, to guarantee seamless post-production audio exchange.",
+    "scope": "This Indian Standard specifies the recorded characteristic for magnetic sound records on 16 mm full-coat perforated magnetic film and 16 mm motion-picture film with magnetic striping when used at the nominal speed of 24 frames [18.3 cm (7.2 in)] per second or 25 frames [19.05 cm (7.5 in)] per second, to guarantee seamless post-production audio exchange.",
+    "keywords": [
+      "IS 11932 : 1986",
+      "Cinematography",
+      "Magnetic Sound Record",
+      "Full-Coat 16 mm Film",
+      "Time Constant 70 us",
+      "Short-Circuit Magnetic Flux",
+      "Nominal Response Curve",
+      "Projection Velocity",
+      "MED 32",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard specifies the recorded characteristic for magnetic sound records on 16 mm full-coat perforated magnetic film and 16 mm motion-picture film with magnetic striping when used at the nominal speed of 24 frames [18.3 cm (7.2 in)] per second or 25 frames [19.05 cm (7.5 in)] per second, to guarantee seamless post-production audio exchange.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1986 (Reaffirmed 2021)",
-    "year_first_published": "1986",
+  "version": {
+    "current_version": "First Edition, 1986 (Reaffirmed 2021)",
+    "first_publication_year": 1986,
+    "publication_year": 1986,
+    "revision": "First Edition (IS 11932 : 1986)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 11932 : 1986)",
-        "year": "1986"
-      }
+      "First Edition (IS 11932 : 1986), 1986"
     ],
-    "supersedes": "None (First national standard established to align Indian cinema sound recording calibrations with international standards)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL (No active amendments have been issued on this reaffirmed copy)"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 12427",
-      "title": "Cinematography — 16 mm motion-picture and magnetic film — Cutting and perforating dimensions",
-      "category": "Dimensional standard",
-      "relevance": "Provides cutting and perforating dimensions for the raw acetate/polyester film base used as the structural carrier for the full-width magnetic coating."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated frequencies, test decibel ratios, and physical film thicknesses."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 12018 : 1986",
-      "title": "A-chain reproduction characteristics of magnetic sound records on 35 mm and 70 mm striped prints",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (MED 32)",
-      "relevance": "Provides parallel reproduction frequency-response calibration curves for wider, theatrical celluloid formats."
-    },
-    {
-      "is_number": "IS 12293 : 1988",
-      "title": "Recorded characteristics of magnetic audio records for motion picture film (8 mm type S)",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (MED 32)",
-      "relevance": "Provides recorded characteristics and playback curves for sub-standard narrow gauge 8 mm sound films."
-    },
-    {
-      "is_number": "IS 12773 : 1989",
-      "title": "Recorded characteristics of magnetic sound record on 35 mm motion picture magnetic film",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (MED 32)",
-      "relevance": "Specifies a 35 microsecond (35 µs) recording time constant curve for standard theatrical 35 mm audio master films."
-    },
-    {
-      "is_number": "IS 12774 : 1989",
-      "title": "Positions and width dimensions of recording and producing head gaps and sound records for multi-track magnetic sound on 35 mm film",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (MED 32)",
-      "relevance": "Defines physical recording track dimensions and head-gap configurations to prevent inter-channel cross-talk and phase misalignment."
-    },
-    {
-      "is_number": "IS 12748 : 1989",
-      "title": "Motion picture safety film — Specification",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee (MED 32)",
-      "relevance": "Establishes non-flammability requirements for acetate and polyester raw stock used as the structural carrier for sound recording."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "location": "Chemical Department (CHD 8)",
-      "relevance": "Directs safety audits in high-hazard film laboratories and recording studios where chemical development baths and high-voltage electrical recorders present hazards."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support platforms, acoustic hangers, and structural columns carrying heavy recording and projection machinery inside cinema buildings."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification / Electro-Acoustic Calibration Standard (Mechanical Engineering Department / Cinematography)",
-    "certification_status": "Voluntary Product Specification. Manufacturers of magnetic films and post-production studios are highly encouraged to conform to the standards of IS 11932 to receive national certification and to ensure seamless exchange of audio masters with domestic and international networks (including Doordarshan and All India Radio).",
-    "requirements": [
+    "supersedes": [
+      "None (First national standard established to align Indian cinema sound recording calibrations with international standards)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Standard Projection Speed (24 fps)",
-        "detail": "The nominal recorded characteristics apply when the 16 mm magnetic film is operated at a projection frame rate of 24 frames per second, which corresponds to a linear film velocity of 18.3 cm/s (7.2 in/s).",
-        "clause_reference": "Clause 1.1"
-      },
-      {
-        "requirement_type": "Standard Projection Speed (25 fps)",
-        "detail": "Alternatively, the nominal recorded characteristics apply at a television-compatible frame rate of 25 frames per second, which corresponds to a linear film velocity of 19.05 cm/s (7.5 in/s).",
-        "clause_reference": "Clause 1.1"
-      },
-      {
-        "requirement_type": "The 70 Microsecond Time Constant",
-        "detail": "With constant sine-wave input, the nominal short-circuit magnetic flux versus frequency curve must fall in conformity with the electrical impedance of a parallel RC combination having a time constant of exactly 70 microseconds (70 µs).",
-        "clause_reference": "Clause 2"
-      },
-      {
-        "requirement_type": "Mathematical Response Curve",
-        "detail": "The nominal response level (N, in decibels) must comply with the logarithmic equation: N = -10 * log10(1 + 4 * pi^2 * f^2 * t^2), where f is the frequency in hertz and t is the time constant of 70 microseconds.",
-        "clause_reference": "Clause 2"
-      },
-      {
-        "requirement_type": "Low Frequency Response Tolerances",
-        "detail": "For recorded frequencies from 40 Hz up to 1000 Hz (1 kHz), the short-circuit magnetic flux on the film must fall within a tight tolerance of ±1.0 dB relative to the nominal curve.",
-        "clause_reference": "Clause 3 / Tolerances"
-      },
-      {
-        "requirement_type": "Mid Frequency Response Tolerances",
-        "detail": "For recorded frequencies from 1000 Hz up to 8000 Hz (8 kHz), the short-circuit magnetic flux on the film must fall within a tolerance of ±1.5 dB relative to the nominal curve.",
-        "clause_reference": "Clause 3 / Tolerances"
-      },
-      {
-        "requirement_type": "High Frequency Response Tolerances",
-        "detail": "For recorded frequencies from 8000 Hz up to 12500 Hz (12.5 kHz), the short-circuit magnetic flux on the film must fall within a tolerance of ±2.0 dB relative to the nominal curve.",
-        "clause_reference": "Clause 3 / Tolerances"
-      },
-      {
-        "requirement_type": "Ultra High Frequency Response Tolerances",
-        "detail": "For recorded frequencies from 12500 Hz up to 16000 Hz (16 kHz), the short-circuit magnetic flux on the film must fall within a tolerance of ±3.0 dB relative to the nominal curve.",
-        "clause_reference": "Clause 3 / Tolerances"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "All evaluated and reported physical parameters, frequencies, and decibel ratios must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL (No active amendments have been issued on this reaffirmed copy)"
       }
     ]
   },
-  "keywords": [
-    "IS 11932 : 1986",
-    "Cinematography",
-    "Magnetic Sound Record",
-    "Full-Coat 16 mm Film",
-    "Time Constant 70 us",
-    "Short-Circuit Magnetic Flux",
-    "Nominal Response Curve",
-    "Projection Velocity",
-    "MED 32",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 12427",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12018 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12293 : 1988",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12773 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12774 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12748 : 1989",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11932 : 1986 (Reaffirmed 2021) is the primary national Indian Standard code of practice prescribing the recorded characteristics, frequency curves, and nominal speed requirements for full-coat 16 mm magnetic sound recording on celluloid films. Maintained under the Photographic and Cinematographic Equipment Sectional Committee (MED 32) and identical to ISO 1188:1984, the code unifies movie sound recording in India. It defines a nominal frequency-response curve based on a parallel RC circuit with a 70 microsecond (70 µs) time constant, specifies linear velocities for standard projection speeds of 24 frames/sec (18.3 cm/s) and 25 frames/sec (19.05 cm/s), establishes strict decibel tolerances (ranging from ±1.0 dB to ±3.0 dB) across the audible spectrum (40 Hz to 16 kHz), and coordinates with mechanical, dimensional, and OHS safety standards to ensure robust audio engineering in post-production studios."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers of magnetic films and post-production studios are highly encouraged to conform to the standards of IS 11932 to receive national certification and to ensure seamless exchange of audio masters with domestic and international networks (including Doordarshan and All India Radio).",
+    "requirements": [
+      "The nominal recorded characteristics apply when the 16 mm magnetic film is operated at a projection frame rate of 24 frames per second, which corresponds to a linear film velocity of 18.3 cm/s (7.2 in/s).",
+      "Alternatively, the nominal recorded characteristics apply at a television-compatible frame rate of 25 frames per second, which corresponds to a linear film velocity of 19.05 cm/s (7.5 in/s).",
+      "With constant sine-wave input, the nominal short-circuit magnetic flux versus frequency curve must fall in conformity with the electrical impedance of a parallel RC combination having a time constant of exactly 70 microseconds (70 µs).",
+      "The nominal response level (N, in decibels) must comply with the logarithmic equation: N = -10 * log10(1 + 4 * pi^2 * f^2 * t^2), where f is the frequency in hertz and t is the time constant of 70 microseconds.",
+      "For recorded frequencies from 40 Hz up to 1000 Hz (1 kHz), the short-circuit magnetic flux on the film must fall within a tight tolerance of ±1.0 dB relative to the nominal curve.",
+      "For recorded frequencies from 1000 Hz up to 8000 Hz (8 kHz), the short-circuit magnetic flux on the film must fall within a tolerance of ±1.5 dB relative to the nominal curve.",
+      "For recorded frequencies from 8000 Hz up to 12500 Hz (12.5 kHz), the short-circuit magnetic flux on the film must fall within a tolerance of ±2.0 dB relative to the nominal curve.",
+      "For recorded frequencies from 12500 Hz up to 16000 Hz (16 kHz), the short-circuit magnetic flux on the film must fall within a tolerance of ±3.0 dB relative to the nominal curve.",
+      "All evaluated and reported physical parameters, frequencies, and decibel ratios must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "11932_1986_reff2021.pdf",
     "document_version_edition": "First Edition, 1986"
   }

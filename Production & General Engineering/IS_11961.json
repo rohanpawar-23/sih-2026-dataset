@@ -1,124 +1,92 @@
 {
-  "basic_identification": {
-    "is_number": "IS : 11961 - 1986",
-    "full_title": "SPECIFICATION FOR 4-METRE LEVELLING STAFF (TELESCOPIC)",
-    "sector_category": "Optical and Mathematical Instruments Sectional Committee, EDC 36 / Surveying Instruments Subcommittee, EDC 36 : 3 (Approved by the Mechanical Engineering Division Council and finalized by the Optical and Mathematical Instruments Sectional Committee of the Indian Standards Institution)",
-    "ics_code": "UDC 681.2 : 528.541.1",
+  "standard": {
+    "is_code": "IS : 11961 - 1986",
+    "title": "SPECIFICATION FOR 4-METRE LEVELLING STAFF (TELESCOPIC)",
+    "sector": "Optical and Mathematical Instruments Sectional Committee, EDC 36 / Surveying Instruments Subcommittee, EDC 36 : 3",
+    "ics_code": [
+      "UDC 681.2 : 528.541.1"
+    ],
     "sectional_committee": {
       "name": "Optical and Mathematical Instruments Sectional Committee",
       "number": "EDC 36"
-    }
-  },
-  "scope": {
-    "summary": "This standard prescribes the requirements for the 4-m telescopic levelling staff, which is a mechanical device used in tertiary levelling to provide height control for topographical or engineering surveys [1, 2].",
-    "clause_number": "Clause 1",
-    "page_number": "Page 3 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, October 1986 (Reaffirmed 2021)",
-    "year_first_published": "1986",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1986"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS : 2-1960",
-      "title": "Rules for rounding off numerical values ( revised )",
-      "category": "Normative / Mathematical Standard",
-      "location": "Clause 0.3",
-      "relevance": "Provides the mathematical rules and procedures used to round off calculated or observed test and measurement values to decide compliance with this standard [2]."
     },
-    {
-      "is_number": "IS : 7047-1973",
-      "title": "Specification for timbers used in instrument industry",
-      "category": "Normative / Raw Wood Material Standard",
-      "location": "Clause 3.1",
-      "relevance": "Governs the selection of approved botanical wood species suitable for crafting instrument-grade frames and leveling staves [3]."
-    },
-    {
-      "is_number": "IS : 287-1973",
-      "title": "Recommendations for maximum permissible moisture content for timber used for different purposes ( second revision )",
-      "category": "Normative / Material Conditioning Standard",
-      "location": "Clause 3.2",
-      "relevance": "Provides the technical criteria for evaluating the moisture content limits of timbers to prevent warping, cracking, and dimensional instability during environmental changes [3]."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS : 2-1960",
-      "title": "Rules for rounding off numerical values ( revised )",
-      "category": "Normative / Mathematical Standard",
-      "location": "Clause 0.3",
-      "relevance": "Provides the mathematical rules and procedures used to round off calculated or observed test and measurement values to decide compliance with this standard [2]."
-    },
-    {
-      "is_number": "IS : 7047-1973",
-      "title": "Specification for timbers used in instrument industry",
-      "category": "Normative / Raw Wood Material Standard",
-      "location": "Clause 3.1",
-      "relevance": "Governs the selection of approved botanical wood species suitable for crafting instrument-grade frames and leveling staves [3]."
-    },
-    {
-      "is_number": "IS : 287-1973",
-      "title": "Recommendations for maximum permissible moisture content for timber used for different purposes ( second revision )",
-      "category": "Normative / Material Conditioning Standard",
-      "location": "Clause 3.2",
-      "relevance": "Provides the technical criteria for evaluating the moisture content limits of timbers to prevent warping, cracking, and dimensional instability during environmental changes [3]."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Surveying Instruments / Levelling Staff)",
-    "certification_status": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS [1].",
-    "requirements": [
-      {
-        "requirement_type": "Telescopic Sliding Structure",
-        "detail": "The staff must consist of three distinct sliding sections. Design tolerances must ensure the top section slides smoothly into the middle section, and the middle section slides into the bottom section [1].",
-        "clause_reference": "Clause 0.2"
-      },
-      {
-        "requirement_type": "Approved Botanical Wood Species",
-        "detail": "The staff must be manufactured from one of the following approved seasoned timbers: Teak (Tectona grandis Linn. f.), Cypress (Cupressus torulosa Don.), Kail (Pinus wallichiana A.B. Jacks.), Deodar (Cedrus deodara Loudon), Aini (Artocarpus hirsuta Lamk.), Champ (Michelia sp.), or Hollock (Terminalia myriocarpa) [3].",
-        "clause_reference": "Clause 3.1"
-      },
-      {
-        "requirement_type": "Timber Seasoning and Moisture Limits",
-        "detail": "The selected timber must be thoroughly seasoned, radially sawn, and completely free from physical defects like knots, cracks, shakes, insect attack, and decay. The moisture content must be strictly maintained within the range of 8 to 12 percent [3].",
-        "clause_reference": "Clause 3.2"
-      },
-      {
-        "requirement_type": "Nomenclature and Part Profiles",
-        "detail": "The nomenclature, dimensions, and profiles of different assembly parts (including the shoe, bottom cap, middle cap, and top) must conform precisely to Figures 1 to 9 of the standard [2]."
-      },
-      {
-        "requirement_type": "Compliance Rounding-Off Rule",
-        "detail": "Any observed or calculated test value expressing the result of a test must be rounded off to the same number of significant places as the specified value, in accordance with IS 2 : 1960 [2].",
-        "clause_reference": "Clause 0.3"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the requirements for the 4-m telescopic levelling staff, which is a mechanical device used in tertiary levelling to provide height control for topographical or engineering surveys [1, 2].",
+    "scope": "This standard prescribes the requirements for the 4-m telescopic levelling staff, which is a mechanical device used in tertiary levelling to provide height control for topographical or engineering surveys [1, 2].",
+    "keywords": [
+      "IS 11961 : 1986",
+      "Levelling Staff",
+      "Telescopic Staff",
+      "Surveying Instruments",
+      "Tertiary Levelling",
+      "Timber Seasoning",
+      "Moisture Content",
+      "EDC 36",
+      "Teak Wood",
+      "Bureau of Indian Standards"
     ]
   },
-  "keywords": [
-    "IS 11961 : 1986",
-    "Levelling Staff",
-    "Telescopic Staff",
-    "Surveying Instruments",
-    "Tertiary Levelling",
-    "Timber Seasoning",
-    "Moisture Content",
-    "EDC 36",
-    "Teak Wood",
-    "Bureau of Indian Standards"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 11961 : 1986 is the national Indian Standard specification governing 4-metre telescopic levelling staves used as height control mechanical devices in tertiary topographical or engineering surveys [1]. It specifies a three-section sliding assembly designed to slide compactly into one another [1]. To prevent environmental distortion and ensure long-term measuring accuracy, the standard restricts manufacture to seven approved, high-grade seasoned timbers (including Teak, Deodar, and Cypress) that must be radially sawn with a strictly monitored moisture range of 8 to 12 percent [3]. It defines exact part geometries for the shoe, caps, and top through figures, and leverages IS 2 : 1960 for rounding compliance values [2]."
+  "version": {
+    "current_version": "First Edition, October 1986 (Reaffirmed 2021)",
+    "first_publication_year": 1986,
+    "publication_year": 1986,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1986"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS : 2-1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS : 7047-1973",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS : 287-1973",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS : 2-1960",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS : 7047-1973",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS : 287-1973",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Conformity assessment and licensing are supported by the Bureau of Indian Standards Certification Marking scheme, with compliance systems administered directly by BIS [1].",
+    "requirements": [
+      "The staff must consist of three distinct sliding sections. Design tolerances must ensure the top section slides smoothly into the middle section, and the middle section slides into the bottom section [1].",
+      "The staff must be manufactured from one of the following approved seasoned timbers: Teak (Tectona grandis Linn. f.), Cypress (Cupressus torulosa Don.), Kail (Pinus wallichiana A.B. Jacks.), Deodar (Cedrus deodara Loudon), Aini (Artocarpus hirsuta Lamk.), Champ (Michelia sp.), or Hollock (Terminalia myriocarpa) [3].",
+      "The selected timber must be thoroughly seasoned, radially sawn, and completely free from physical defects like knots, cracks, shakes, insect attack, and decay. The moisture content must be strictly maintained within the range of 8 to 12 percent [3].",
+      "The nomenclature, dimensions, and profiles of different assembly parts (including the shoe, bottom cap, middle cap, and top) must conform precisely to Figures 1 to 9 of the standard [2].",
+      "Any observed or calculated test value expressing the result of a test must be rounded off to the same number of significant places as the specified value, in accordance with IS 2 : 1960 [2]."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "11961_1986_reff2021.pdf",
     "document_version_edition": "First Edition, 1986 (Reaffirmed 2021)"
   }

@@ -1,147 +1,115 @@
 {
-  "basic_identification": {
-    "is_number": "IS 16000 : 2004",
-    "full_title": "Aerospace Quality Management Systems — Requirements",
-    "sector_category": "Transport Engineering / Aircraft and Space Vehicles (approved by the Transport Engineering Division Council and finalized by the Aircraft and Space Vehicles Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "03.120.10; 49.020",
+  "standard": {
+    "is_code": "IS 16000:2004",
+    "title": "Aerospace Quality Management Systems — Requirements",
+    "sector": "Transport Engineering / Aircraft and Space Vehicles",
+    "ics_code": [
+      "03.120.10",
+      "49.020"
+    ],
     "sectional_committee": {
       "name": "Aircraft and Space Vehicles Sectional Committee",
       "number": "TED 14"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements for a quality management system where an aerospace organization needs to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements. It builds directly upon the baseline requirements of ISO 9001 by adding specific, highly stringent aerospace sector requirements, definitions, and notes.",
+    "scope": "This standard specifies requirements for a quality management system where an aerospace organization needs to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements. It builds directly upon the baseline requirements of ISO 9001 by adding specific, highly stringent aerospace sector requirements, definitions, and notes.",
+    "keywords": [
+      "IS 16000 : 2004",
+      "Aerospace Quality",
+      "AS9100 Equivalent",
+      "Quality Management System",
+      "Configuration Management",
+      "First Article Inspection FAI",
+      "Key Characteristics",
+      "Traceability",
+      "Nonconforming Product",
+      "Aircraft and Space Vehicles",
+      "TED 14"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements for a quality management system where an aerospace organization needs to demonstrate its ability to consistently provide products and services that meet customer and applicable statutory and regulatory requirements. It builds directly upon the baseline requirements of ISO 9001 by adding specific, highly stringent aerospace sector requirements, definitions, and notes.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 2004 (Reviewed and Reaffirmed in 2010, Reaffirmed in 2015, Reaffirmed in 2020, and Reviewed & Reaffirmed in 2025)",
-    "year_first_published": "2004",
+  "version": {
+    "current_version": "First Edition, 2004 (Reviewed and Reaffirmed in 2010, Reaffirmed in 2015, Reaffirmed in 2020, and Reviewed & Reaffirmed in 2025)",
+    "first_publication_year": 2004,
+    "publication_year": 2004,
+    "revision": "First Edition (officially adopted as the identical Indian national equivalent of the international AS 9100 quality management standard for the aviation, space, and defense industries)",
     "revision_history": [
-      {
-        "edition": "First Edition (officially adopted as the identical Indian national equivalent of the international AS 9100 quality management standard for the aviation, space, and defense industries)",
-        "year": "2004"
-      }
+      "First Edition (officially adopted as the identical Indian national equivalent of the international AS 9100 quality management standard for the aviation, space, and defense industries), 2004"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "ISO 9001 : 2000",
-      "title": "Quality management systems — Requirements",
-      "category": "Baseline Standard",
-      "location": "Foreword / Normative references",
-      "relevance": "The foundational standard containing the core quality management requirements that IS 16000 incorporates and extends."
-    },
-    {
-      "is_number": "ISO 9000 : 2000",
-      "title": "Quality management systems — Fundamentals and vocabulary",
-      "category": "Terminology Standard",
-      "location": "Normative references",
-      "relevance": "Provides the baseline definitions and concepts utilized in the drafting of quality management requirements."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Data Evaluation Standard",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 16001 : 2012",
-      "title": "Social Accountability at the Work Place — Requirements",
-      "category": "Management System Standard",
-      "location": "Parallel Management Systems Category",
-      "relevance": "A companion national quality management standard specifying requirements for social, ethical, and environmental workplace accountability."
-    },
-    {
-      "is_number": "IS 10527 : 1983",
-      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-      "category": "System Standard",
-      "location": "Parallel Transport Engineering Category",
-      "relevance": "A fellow transport and fluid engineering system standard present in the notebook, specifying pneumatic pressure ranges for starting and signaling systems."
-    },
-    {
-      "is_number": "IS 11294 (Part 1) : 1985",
-      "title": "Specification for Side Scuttles for Inland Vessels — Part 1: General Requirements",
-      "category": "Product Specification",
-      "location": "Parallel Transport Engineering Category",
-      "relevance": "A fellow transport engineering standard present in the notebook, specifying framed portholes on hulls and superstructures."
-    },
-    {
-      "is_number": "IS 14337 : 1996",
-      "title": "Shipbuilding — Mineral Fibre Resin Bonded Slabs — Specification",
-      "category": "Product Specification",
-      "location": "Parallel Transport Engineering Category",
-      "relevance": "A fellow transport engineering thermal insulation specification present in the notebook, regulating flat insulation slabs for ships' structures."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Code of Practice / Design Standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design and construction code in India, regulating support framing, weld joints, and connection detailing, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Quality Management System Standard (Aerospace and Defense Sector)",
-    "certification_status": "Voluntary Quality Management System Certification (Corporate/Organizational Certification). Organizations that satisfy the requirements are eligible to undergo a third-party audit to obtain certification for Aerospace Quality Management Systems (equivalent to AS9100). This certification is universally mandated for any Indian aerospace manufacturer, defense contractor, space components supplier, and maintenance, repair, and overhaul (MRO) facility supplying to organizations like ISRO, DRDO, HAL, and global defense primes.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Integration with ISO 9001",
-        "detail": "The standard incorporates the entire text of ISO 9001:2000 and adds aerospace-specific requirements, definitions, and notes."
-      },
-      {
-        "requirement_type": "Configuration Management",
-        "detail": "Demands a structured configuration management process to ensure that the physical and functional characteristics of aerospace components are fully documented, traceable, and controlled throughout their life cycle."
-      },
-      {
-        "requirement_type": "Design and Development Verification/Validation",
-        "detail": "Specifies rigorous design verification and validation testing, including prototype testing, flight-safety evaluations, and environmental simulation."
-      },
-      {
-        "requirement_type": "First Article Inspection (FAI)",
-        "detail": "Requires a comprehensive, documented first article inspection process to verify that production processes, tooling, and documentation can consistently produce conforming parts per specifications."
-      },
-      {
-        "requirement_type": "Key Characteristics (KCs)",
-        "detail": "Enforces the identification, control, and monitoring of 'Key Characteristics' (dimensions or features of a part that have a significant effect on fit, performance, service life, or manufacturability)."
-      },
-      {
-        "requirement_type": "Risk Management",
-        "detail": "Mandates a formal risk management process for product realization, covering technical, operational, and scheduling risks."
-      },
-      {
-        "requirement_type": "Supplier Control and Traceability",
-        "detail": "Demands strict flow-down of quality requirements to sub-tier suppliers and maintains end-to-end material traceability from raw ingots (e.g. titanium, aerospace aluminum) to the final installed component."
-      },
-      {
-        "requirement_type": "Control of Nonconforming Product",
-        "detail": "Imposes strict controls on the identification and segregation of nonconforming materials to prevent their accidental installation on aircraft or spacecraft, including rules for scrap disposal to prevent counterfeit parts."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 16000 : 2004",
-    "Aerospace Quality",
-    "AS9100 Equivalent",
-    "Quality Management System",
-    "Configuration Management",
-    "First Article Inspection FAI",
-    "Key Characteristics",
-    "Traceability",
-    "Nonconforming Product",
-    "Aircraft and Space Vehicles",
-    "TED 14"
+  "relationships": [
+    {
+      "target_is_code": "ISO 9001 : 2000",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 9000 : 2000",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16001 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10527 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11294 (Part 1) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14337 : 1996",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 16000 : 2004 is the national Indian Standard quality management system specification for the aerospace and defense industries, serving as the identical domestic equivalent of the international AS 9100 standard. Built as an extension of ISO 9001, it adds rigorous sector-specific controls tailored for the high-safety, zero-tolerance environments of aviation and space exploration. The standard enforces strict configuration management, documented First Article Inspections (FAI) to prove tooling capability, continuous monitoring of safety-critical Key Characteristics (KCs), formal risk management in product realization, and absolute end-to-end raw material traceability to prevent counterfeit or nonconforming parts from being installed in flight-critical assemblies."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Quality Management System Certification (Corporate/Organizational Certification). Organizations that satisfy the requirements are eligible to undergo a third-party audit to obtain certification for Aerospace Quality Management Systems (equivalent to AS9100). This certification is universally mandated for any Indian aerospace manufacturer, defense contractor, space components supplier, and maintenance, repair, and overhaul (MRO) facility supplying to organizations like ISRO, DRDO, HAL, and global defense primes.",
+    "requirements": [
+      "The standard incorporates the entire text of ISO 9001:2000 and adds aerospace-specific requirements, definitions, and notes.",
+      "Demands a structured configuration management process to ensure that the physical and functional characteristics of aerospace components are fully documented, traceable, and controlled throughout their life cycle.",
+      "Specifies rigorous design verification and validation testing, including prototype testing, flight-safety evaluations, and environmental simulation.",
+      "Requires a comprehensive, documented first article inspection process to verify that production processes, tooling, and documentation can consistently produce conforming parts per specifications.",
+      "Enforces the identification, control, and monitoring of 'Key Characteristics' (dimensions or features of a part that have a significant effect on fit, performance, service life, or manufacturability).",
+      "Mandates a formal risk management process for product realization, covering technical, operational, and scheduling risks.",
+      "Demands strict flow-down of quality requirements to sub-tier suppliers and maintains end-to-end material traceability from raw ingots (e.g. titanium, aerospace aluminum) to the final installed component.",
+      "Imposes strict controls on the identification and segregation of nonconforming materials to prevent their accidental installation on aircraft or spacecraft, including rules for scrap disposal to prevent counterfeit parts."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "Not in current notebook sources. Profile compiled from official BIS LIMS and aerospace quality system specifications.",
     "document_version_edition": "First Edition, 2004 (Reaffirmed 2025)"
   }

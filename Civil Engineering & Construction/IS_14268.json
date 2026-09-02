@@ -1,211 +1,139 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14268 : 2022",
-    "full_title": "Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for Prestressed Concrete — Specification (Second Revision)",
-    "sector_category": "Civil Engineering / Concrete Reinforcement (approved by the Civil Engineering Division Council and finalized by the Concrete Reinforcement Sectional Committee)",
-    "ics_code": "77.140.15; 91.080.40",
+  "standard": {
+    "is_code": "IS 14268:2022",
+    "title": "Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for Prestressed Concrete — Specification (Second Revision)",
+    "sector": "Civil Engineering / Concrete Reinforcement",
+    "ics_code": [
+      "77.140.15",
+      "91.080.40"
+    ],
     "sectional_committee": {
       "name": "Concrete Reinforcement Sectional Committee",
       "number": "CED 54"
     },
-    "citations": "[1-3]"
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard covers the requirements for manufacture, supply and testing of uncoated, stress relieved, low relaxation, seven-wire (ply) steel strands for prestressed concrete. It applies to three types of strands: Plain, Indented, and Compacted.",
+    "scope": "This standard covers the requirements for manufacture, supply and testing of uncoated, stress relieved, low relaxation, seven-wire (ply) steel strands for prestressed concrete. It applies to three types of strands: Plain, Indented, and Compacted.",
+    "keywords": [
+      "IS 14268:2022",
+      "Seven-Wire Strand",
+      "Prestressed Concrete",
+      "Low Relaxation Steel",
+      "Stabilizing Heat Treatment",
+      "Plain Strand",
+      "Compacted Strand",
+      "Indented Strand",
+      "Length of Lay",
+      "Breaking Load",
+      "Proof Load",
+      "Elongation",
+      "Extensometer",
+      "Gripping Methods",
+      "Steel QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard covers the requirements for manufacture, supply and testing of uncoated, stress relieved, low relaxation, seven-wire (ply) steel strands for prestressed concrete. It applies to three types of strands: Plain, Indented, and Compacted.",
-    "clause_number": "Clause 1 (specifically Clauses 1.1 and 1.1.1)",
-    "page_number": "Page 1",
-    "citations": "[2]"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, 2022",
-    "year_first_published": "1995",
+  "version": {
+    "current_version": "Second Revision, 2022",
+    "first_publication_year": 1995,
+    "publication_year": 2022,
+    "revision": "Second Revision",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1995"
-      },
-      {
-        "edition": "First Revision",
-        "year": "2017"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "2022"
-      }
+      "First Edition, 1995",
+      "First Revision, 2017",
+      "Second Revision, 2022"
     ],
-    "supersedes": "IS 14268 : 2017",
-    "superseded_by": "N/A",
-    "amendment_slips": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy).",
-    "citations": "[1, 4]"
+    "supersedes": [
+      "IS 14268 : 2017"
+    ],
+    "amendments": [
+      {
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No amendments found (the tracking table for 'Amendments Issued Since Publication' lists no active amendments in this copy)."
+      }
+    ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 1608 (Part 1)",
-      "title": "Metallic materials — Tensile testing — Part 1 : Method of test at room temperature",
-      "category": "Test method",
-      "location": "Clause 6.2.1",
-      "relevance": "Provides the primary test method for executing tensile and load testing to determine mechanical properties of the steel.",
-      "citations": "[5]"
+      "target_is_code": "IS 1608 (Part 1)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 10790 (Part 1) : 1984",
-      "title": "Methods of sampling of steel for prestressed and reinforced concrete — Part 1: Prestressing steel",
-      "category": "Normative reference",
-      "location": "Clause 7.1",
-      "relevance": "Governs sampling frequencies and specimen extraction from given lots or batches at manufacturing or construction sites.",
-      "citations": "[6]"
+      "target_is_code": "IS 10790 (Part 1) : 1984",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 228 (In Parts)",
-      "title": "Methods of chemical analysis of pig iron, cast iron and plain carbon and low alloy steel",
-      "category": "Test method",
-      "location": "Clause 5 (implied)",
-      "relevance": "Referee chemical analytical methods to verify compliance with specified ladle and product carbon, sulphur, and phosphorus limits."
+      "target_is_code": "IS 228 (In Parts)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials",
-      "category": "Normative reference",
-      "location": "Clause 4 (implied)",
-      "relevance": "Defines general parameters for commercial supply, technical delivery, and basic inspection of steel materials."
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 4905 : 2015",
-      "title": "Random sampling and randomization procedures",
-      "category": "Normative reference",
-      "location": "Clause 7.1 (implied)",
-      "relevance": "Prescribes standard randomization protocols to ensure unbiased coil selection from lots for third-party auditing."
+      "target_is_code": "IS 4905 : 2015",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Governs mathematical rounding off of final observed or calculated physical and chemical testing parameters to verify compliance."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1343 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6006 : 2014",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6003 : 2010",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1785 (Part 1) : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2090 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1343 : 2012",
-      "title": "Prestressed Concrete — Code of Practice",
-      "category": "Design standard",
-      "location": "Foreword",
-      "relevance": "The national design code for prestressed concrete structural elements, which defines loss calculations based on the relaxation properties of IS 14268 strands."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
     },
-    {
-      "is_number": "IS 6006 : 2014",
-      "title": "Specification for uncoated stress relieved strand for prestressed concrete",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Parallel product standard specifying conventional uncoated stress-relieved steel strands that do not undergo low-relaxation stabilizing treatments."
-    },
-    {
-      "is_number": "IS 6003 : 2010",
-      "title": "Specification for indented wire for prestressed concrete",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Related product standard specifying single indented steel wires used for prestressing, sharing similar high-tensile and ductility demands."
-    },
-    {
-      "is_number": "IS 1785 (Part 1) : 1983",
-      "title": "Specification for plain hard-drawn steel wire for prestressed concrete — Part 1: Cold drawn stress-relieved wire",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Sister product specification defining single cold-drawn stress-relieved steel wires used in pre-tensioned prestressed concrete."
-    },
-    {
-      "is_number": "IS 2090 : 1983",
-      "title": "High tensile steel bars for prestressed concrete — Specification",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "Allied standard covering high-tensile steel bars used alternatively for heavy structural prestressed configurations."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Prestressing Steel Strands)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all uncoated stress relieved low relaxation seven-wire strands for prestressed concrete must carry the BIS Standard Mark (ISI Mark) to be legally manufactured, imported, distributed, or sold in India. Precious metal hallmarking is completely inapplicable to industrial wire/strand products as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Steel and Steel Products (Quality Control) Order' issued by the Ministry of Steel, Government of India, all uncoated stress relieved low relaxation seven-wire strands for prestressed concrete must carry the BIS Standard Mark (ISI Mark) to be legally manufactured, imported, distributed, or sold in India. Precious metal hallmarking is completely inapplicable to industrial wire/strand products as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
     "requirements": [
-      {
-        "requirement_type": "Mandatory Standard Mark Scheme",
-        "detail": "Every coil or bundle of strands conforming to the quality and performance requirements of this standard must carry the BIS Standard Mark (ISI Mark) stamped permanently on a secure metal tag attached to the coil.",
-        "clause_reference": "Clause 11 (implied)"
-      },
-      {
-        "requirement_type": "Standard Designation Codes",
-        "detail": "Strands must be designated according to nominal diameter, nominal tensile strength, and strand type: P for plain, I for indented, and C for compacted. For example, '12.7-1860-I' represents a 12.7 mm nominal diameter indented strand with 1860 MPa tensile strength.",
-        "clause_reference": "Clause 5",
-        "page_reference": "Page 3"
-      },
-      {
-        "requirement_type": "Dimensional, Unit Weight, and Load Properties (Table 2)",
-        "detail": "Strand dimensions, unit weights, and mechanical properties must comply with the strict parameters defined in Table 2 for each designation. For example, designation '15.2-1860-P' must maintain a nominal diameter of 15.2 mm, a nominal area of 139 mm², a nominal mass of 1086 g/m (with a ±2% tolerance), a minimum breaking load of 259 kN, and a minimum 0.2% proof load of 228 kN.",
-        "clause_reference": "Clause 6.1 & Table 2",
-        "page_reference": "Pages 3-5"
-      },
-      {
-        "requirement_type": "Measurement of Length of Lay (Annex A)",
-        "detail": "To verify structural uniformity, lay length is measured on a horizontal sample using plain and carbon paper. Carbon paper is rubbed gently over the strand to leave wire impressions. Vertical lines are drawn at the start and end of 6 consecutive wire impressions, and the distance is measured. The test must be repeated at three different places, and the average taken as the length of lay.",
-        "clause_reference": "Clause A-1",
-        "page_reference": "Page 7"
-      },
-      {
-        "requirement_type": "Measurement of Nominal Mass per Unit Length (Annex B)",
-        "detail": "Nominal mass is evaluated by cutting a 100 cm sample, measuring its mass in kg, measuring the exact length of the centre core wire in metres, and calculating nominal mass per unit length (kg/m) as the ratio of sample mass to core wire length.",
-        "clause_reference": "Clause B-2",
-        "page_reference": "Page 8"
-      },
-      {
-        "requirement_type": "Mandatory Elongation under Load",
-        "detail": "The total elongation under load must be at least 3.5 percent on a minimum gauge length of 600 mm. An initial load equal to 10% of the minimum breaking load is applied, a suitable extensometer is attached and adjusted to 0.001 mm/mm, load is increased to 1.0% extension, the extensometer is removed, and tension is continued until a wire breaks to calculate final elongation.",
-        "clause_reference": "Clause 6.2.3",
-        "page_reference": "Page 5"
-      },
-      {
-        "requirement_type": "Behaviour During Cutting",
-        "detail": "When the finished strand is cut with a disc cutter, the individual wires must not unravel, or they must be capable of being easily repositioned back into place without difficulty.",
-        "clause_reference": "Clause 6.4",
-        "page_reference": "Page 6"
-      },
-      {
-        "requirement_type": "Suggested Tensile Gripping Controls (Annex C)",
-        "detail": "To prevent premature notches, cuts, or bends from gripping jaws (which lead to test errors), the length of the grip must be at least equal to one lay length and must distribute the load uniformly. If hot-dip tinning or socketing with material is used for sample preparation, temperatures must be carefully controlled and kept below 370 °C to prevent heat degradation of strength and ductility.",
-        "clause_reference": "Clause 6.2.1 & Clause C-1",
-        "page_reference": "Page 4 & Page 8"
-      },
-      {
-        "requirement_type": "Lot Sampling Frequencies",
-        "detail": "Representative samples for breaking load, proof load, and elongation tests must be cut from one end of a random coil selected from every group of 5 coils, with a minimum sample size of at least 2 from each lot.",
-        "clause_reference": "Clause 7.1",
-        "page_reference": "Page 6"
-      }
-    ],
-    "citations": ""
+      "Every coil or bundle of strands conforming to the quality and performance requirements of this standard must carry the BIS Standard Mark (ISI Mark) stamped permanently on a secure metal tag attached to the coil.",
+      "Strands must be designated according to nominal diameter, nominal tensile strength, and strand type: P for plain, I for indented, and C for compacted. For example, '12.7-1860-I' represents a 12.7 mm nominal diameter indented strand with 1860 MPa tensile strength.",
+      "Strand dimensions, unit weights, and mechanical properties must comply with the strict parameters defined in Table 2 for each designation. For example, designation '15.2-1860-P' must maintain a nominal diameter of 15.2 mm, a nominal area of 139 mm², a nominal mass of 1086 g/m (with a ±2% tolerance), a minimum breaking load of 259 kN, and a minimum 0.2% proof load of 228 kN.",
+      "To verify structural uniformity, lay length is measured on a horizontal sample using plain and carbon paper. Carbon paper is rubbed gently over the strand to leave wire impressions. Vertical lines are drawn at the start and end of 6 consecutive wire impressions, and the distance is measured. The test must be repeated at three different places, and the average taken as the length of lay.",
+      "Nominal mass is evaluated by cutting a 100 cm sample, measuring its mass in kg, measuring the exact length of the centre core wire in metres, and calculating nominal mass per unit length (kg/m) as the ratio of sample mass to core wire length.",
+      "The total elongation under load must be at least 3.5 percent on a minimum gauge length of 600 mm. An initial load equal to 10% of the minimum breaking load is applied, a suitable extensometer is attached and adjusted to 0.001 mm/mm, load is increased to 1.0% extension, the extensometer is removed, and tension is continued until a wire breaks to calculate final elongation.",
+      "When the finished strand is cut with a disc cutter, the individual wires must not unravel, or they must be capable of being easily repositioned back into place without difficulty.",
+      "To prevent premature notches, cuts, or bends from gripping jaws (which lead to test errors), the length of the grip must be at least equal to one lay length and must distribute the load uniformly. If hot-dip tinning or socketing with material is used for sample preparation, temperatures must be carefully controlled and kept below 370 °C to prevent heat degradation of strength and ductility.",
+      "Representative samples for breaking load, proof load, and elongation tests must be cut from one end of a random coil selected from every group of 5 coils, with a minimum sample size of at least 2 from each lot."
+    ]
   },
-  "keywords": [
-    "IS 14268:2022",
-    "Seven-Wire Strand",
-    "Prestressed Concrete",
-    "Low Relaxation Steel",
-    "Stabilizing Heat Treatment",
-    "Plain Strand",
-    "Compacted Strand",
-    "Indented Strand",
-    "Length of Lay",
-    "Breaking Load",
-    "Proof Load",
-    "Elongation",
-    "Extensometer",
-    "Gripping Methods",
-    "Steel QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 14268:2022 is the strict national Indian Standard specification governing uncoated, stress-relieved, low-relaxation seven-wire steel strands used to reinforce prestressed concrete structures. Under India's national Steel Quality Control Order, all such prestressing strands must carry the mandatory BIS Standard Mark (ISI Mark). To ensure that these strands can develop and retain high concentrated prestressing forces over long service lives, they are subjected to a stabilizing hot-stretching process during heat treatment, which linearizes the steel and minimizes relaxation losses. The standard covers plain, indented, and compacted configurations, establishing tight unit mass tolerances (±2%), breaking loads, and 0.2% proof loads. It also defines rigorous quality testing protocols, including lay length rub checks, a minimum 3.5% total elongation requirement under load, and precise testing machine grip lengths to prevent notch-induced wire failures.",
-    "citations": "[1, 2, 6-10]"
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "14268_2022.pdf",
-    "document_version_edition": "Second Revision, June 2022",
-    "citations": "[1, 2]"
+    "document_version_edition": "Second Revision, June 2022"
   }
 }

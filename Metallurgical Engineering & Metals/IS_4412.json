@@ -1,185 +1,136 @@
 {
-  "basic_identification": {
-    "is_number": "IS 4412 : 1981 (Reaffirmed 2021)",
-    "full_title": "Specification for Copper Wires for General Engineering Purposes (First Revision)",
-    "sector_category": "Metallurgical Engineering / Copper and Copper Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Copper and Copper Alloys Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "77.150.30",
+  "standard": {
+    "is_code": "IS 4412:1981",
+    "title": "Specification for Copper Wires for General Engineering Purposes (First Revision)",
+    "sector": "Metallurgical Engineering / Copper and Copper Alloys",
+    "ics_code": [
+      "77.150.30"
+    ],
     "sectional_committee": {
       "name": "Copper and Copper Alloys Sectional Committee",
       "number": "MTD 08"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, chemical composition, mechanical properties, dimensional tolerances, and testing schedules for copper wires used for general and industrial engineering purposes. It covers wires with cross-sectional diameters ranging from 0.50 mm up to and including 6.00 mm, supplied in either the annealed (soft) or hard-drawn condition.",
+    "scope": "This standard specifies the requirements, chemical composition, mechanical properties, dimensional tolerances, and testing schedules for copper wires used for general and industrial engineering purposes. It covers wires with cross-sectional diameters ranging from 0.50 mm up to and including 6.00 mm, supplied in either the annealed (soft) or hard-drawn condition.",
+    "keywords": [
+      "IS 4412 : 1981",
+      "Copper Wires",
+      "General Engineering",
+      "Electrolytic Tough Pitch",
+      "ETP Grade",
+      "FRHC Grade",
+      "Annealed O",
+      "Hard Drawn HD",
+      "Tensile strength",
+      "Elongation",
+      "Hydrogen Embrittlement",
+      "MTD 08",
+      "Copper QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, chemical composition, mechanical properties, dimensional tolerances, and testing schedules for copper wires used for general and industrial engineering purposes. It covers wires with cross-sectional diameters ranging from 0.50 mm up to and including 6.00 mm, supplied in either the annealed (soft) or hard-drawn condition.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, 1981 (incorporating Amendment No. 1, June 2001; Reviewed and Reaffirmed in 2021)",
-    "year_first_published": "1967",
+  "version": {
+    "current_version": "First Revision, 1981 (incorporating Amendment No. 1, June 2001; Reviewed and Reaffirmed in 2021)",
+    "first_publication_year": 1967,
+    "publication_year": 1981,
+    "revision": "First Revision (revised to optimize mechanical property thresholds and chemical composition limits in alignment with standard wrought copper developments)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1967"
-      },
-      {
-        "edition": "First Revision (revised to optimize mechanical property thresholds and chemical composition limits in alignment with standard wrought copper developments)",
-        "year": "1981"
-      }
+      "First Edition, 1967",
+      "First Revision (revised to optimize mechanical property thresholds and chemical composition limits in alignment with standard wrought copper developments), 1981"
     ],
-    "supersedes": "IS 4412 : 1967",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 4412 : 1967"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "June 2001",
-        "description": "Reorganizes standard referencing, aligns technical delivery conditions, and clarifies testing requirements for mechanical and physical properties."
+        "amendment_number": "Amendment 1",
+        "date": "2001-06",
+        "summary": "Reorganizes standard referencing, aligns technical delivery conditions, and clarifies testing requirements for mechanical and physical properties."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 191",
-      "title": "Copper — Specification",
-      "category": "Raw material standard",
-      "location": "Clause 6",
-      "relevance": "Prescribes chemical purity and composition requirements for ETP (Electrolytic Tough Pitch) or FRHC (Fire Refined High Conductivity) grades."
+      "target_is_code": "IS 191",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 440",
-      "title": "Methods of chemical analysis of copper",
-      "category": "Chemical testing",
-      "location": "Clause 6",
-      "relevance": "Provides wet chemical and referee testing protocols to verify elemental composition and grade purity."
+      "target_is_code": "IS 440",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Supply standard",
-      "location": "Clause 4",
-      "relevance": "Outlines standard administrative, manufacturing, sampling, and shipment conditions for supplied wire lots."
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1608 (Part 1)",
-      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
-      "category": "Mechanical testing",
-      "location": "Clause 8",
-      "relevance": "Prescribes room-temperature tensile test setups to measure ultimate tensile strength (MPa) and elongation percentages."
+      "target_is_code": "IS 1608 (Part 1)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3288 (Part 1)",
-      "title": "Glossary of terms relating to copper and copper alloys: Part 1 Materials",
-      "category": "Terminology standard",
-      "location": "Clause 3",
-      "relevance": "Establishes definitions of metallurgical product forms, distinguishing wire forms from other wrought profiles."
+      "target_is_code": "IS 3288 (Part 1)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12444 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1897 : 2008",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4171 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1545 : 1994",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14810 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 12444 : 2020",
-      "title": "Copper Wire Rods for Electrical Applications — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "Specifies continuous cast copper wire rods (usually 8 mm in diameter) that serve as raw feedstock drawn down into smaller wires, present in the notebook."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Copper Products (Quality Control) Order",
+      "year": 1981
     },
-    {
-      "is_number": "IS 1897 : 2008",
-      "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating flat wrought copper strip conductors, present in the notebook."
-    },
-    {
-      "is_number": "IS 4171 : 1983",
-      "title": "Specification for Copper Rods and Bars for General Engineering Purposes",
-      "category": "Normative reference",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating copper bars and rods intended for general engineering applications, present in the notebook."
-    },
-    {
-      "is_number": "IS 1545 : 1994",
-      "title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "Seamless drawn copper alloy tubes used in thermal systems, present in the notebook."
-    },
-    {
-      "is_number": "IS 14810 : 2000",
-      "title": "Copper Tubes for Plumbing — Specification",
-      "category": "Product specification",
-      "location": "Parallel plumbing category",
-      "relevance": "Seamless drawn copper tubes used in domestic water supply and drainage systems, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Engineering / Industrial Wires)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper wires for general engineering purposes must conform to IS 4412:1981 and bear the mandatory BIS Standard Mark (ISI Mark). Medium and large-scale enterprises had to comply by October 19, 2024, small enterprises by January 19, 2025, and micro enterprises by April 19, 2025. Manufacturing, importing, or selling non-certified copper engineering wires in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper wire feedstocks.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper wires for general engineering purposes must conform to IS 4412:1981 and bear the mandatory BIS Standard Mark (ISI Mark). Medium and large-scale enterprises had to comply by October 19, 2024, small enterprises by January 19, 2025, and micro enterprises by April 19, 2025. Manufacturing, importing, or selling non-certified copper engineering wires in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments. Precious metal hallmarking is completely inapplicable to industrial copper wire feedstocks.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every coil or packaged bundle of copper wire must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 4412) printed on a secure tag or label."
-      },
-      {
-        "requirement_type": "Raw Material and Chemical Purity",
-        "detail": "The wire must be manufactured from electrolytically or fire-refined copper, conforming to the chemical composition limits of Grade Cu-ETP (Electrolytic Tough Pitch) or Cu-FRHC (Fire Refined High Conductivity) as specified in IS 191. Copper purity must be a minimum of 99.90 percent (including silver)."
-      },
-      {
-        "requirement_type": "Two Delivery Conditions (Tempers)",
-        "detail": "Copper wire is supplied as specified by the purchaser in one of two distinct conditions: a) O — Annealed (soft) [usually for woven mesh or flexible ties]; b) HD — Hard (hard-drawn) [usually for high structural strength applications]."
-      },
-      {
-        "requirement_type": "Wire Diameter Sizing Bounds",
-        "detail": "The standard specifies requirements for wire diameters ranging from 0.50 mm to 6.00 mm, with rationalized sizes and tight manufacturing tolerances to ensure uniform cross-section."
-      },
-      {
-        "requirement_type": "Freedom from Defects",
-        "detail": "The wire surface must be clean, smooth, bright, and completely free from physical defects such as cracks, severe scratches, oxidation scale, flakes, draw marks, or foreign inclusions."
-      },
-      {
-        "requirement_type": "Mechanical Properties - Tensile and Elongation",
-        "detail": "Wired specimens must satisfy mechanical limits based on condition:\na) Annealed (O) condition: High ductility and flexibility, with an elongation at break of at least 35 to 40 percent;\nb) Hard-drawn (HD) condition: High tensile strength to withstand high-speed spooling and structural mechanical loading."
-      },
-      {
-        "requirement_type": "Optional Hydrogen Embrittlement Test",
-        "detail": "When required by the purchaser to verify material resistance against cracking during high-temperature heat-treatment, welding, or brazing under reducing atmospheres, specimens must pass the Hydrogen Embrittlement test. Samples heated in a hydrogen atmosphere at 900°C must show zero microscopic or macroscopic cracking or surface blistering."
-      },
-      {
-        "requirement_type": "Audit Sampling Scale and Guidelines (Product Manual)",
-        "detail": "For quality audit inspections under Scheme-I, random samples must be drawn as per Table 1 (Levels of Control):\n- Physical testing: 6-meter sample length;\n- Chemical analysis: 5 pieces of 5 cm length."
-      },
-      {
-        "requirement_type": "Lot Definition & Control Unit (Product Manual)",
-        "detail": "All copper wires of the same size, shape, condition, and manufactured through the same process from the same cast/heat of raw material constitute one control unit. One random sample is tested per heat/cast for chemical composition, and one sample per control unit for tensile and physical properties."
-      }
+      "Every coil or packaged bundle of copper wire must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 4412) printed on a secure tag or label.",
+      "The wire must be manufactured from electrolytically or fire-refined copper, conforming to the chemical composition limits of Grade Cu-ETP (Electrolytic Tough Pitch) or Cu-FRHC (Fire Refined High Conductivity) as specified in IS 191. Copper purity must be a minimum of 99.90 percent (including silver).",
+      "Copper wire is supplied as specified by the purchaser in one of two distinct conditions: a) O — Annealed (soft) [usually for woven mesh or flexible ties]; b) HD — Hard (hard-drawn) [usually for high structural strength applications].",
+      "The standard specifies requirements for wire diameters ranging from 0.50 mm to 6.00 mm, with rationalized sizes and tight manufacturing tolerances to ensure uniform cross-section.",
+      "The wire surface must be clean, smooth, bright, and completely free from physical defects such as cracks, severe scratches, oxidation scale, flakes, draw marks, or foreign inclusions.",
+      "Wired specimens must satisfy mechanical limits based on condition:\na) Annealed (O) condition: High ductility and flexibility, with an elongation at break of at least 35 to 40 percent;\nb) Hard-drawn (HD) condition: High tensile strength to withstand high-speed spooling and structural mechanical loading.",
+      "When required by the purchaser to verify material resistance against cracking during high-temperature heat-treatment, welding, or brazing under reducing atmospheres, specimens must pass the Hydrogen Embrittlement test. Samples heated in a hydrogen atmosphere at 900°C must show zero microscopic or macroscopic cracking or surface blistering.",
+      "For quality audit inspections under Scheme-I, random samples must be drawn as per Table 1 (Levels of Control):\n- Physical testing: 6-meter sample length;\n- Chemical analysis: 5 pieces of 5 cm length.",
+      "All copper wires of the same size, shape, condition, and manufactured through the same process from the same cast/heat of raw material constitute one control unit. One random sample is tested per heat/cast for chemical composition, and one sample per control unit for tensile and physical properties."
     ]
   },
-  "keywords": [
-    "IS 4412 : 1981",
-    "Copper Wires",
-    "General Engineering",
-    "Electrolytic Tough Pitch",
-    "ETP Grade",
-    "FRHC Grade",
-    "Annealed O",
-    "Hard Drawn HD",
-    "Tensile strength",
-    "Elongation",
-    "Hydrogen Embrittlement",
-    "MTD 08",
-    "Copper QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 4412 : 1981 is the mandatory national Indian Standard specification governing copper wires (diameters from 0.50 mm to 6.00 mm) designed for general and industrial engineering purposes—including structural components, general hardware, mechanical fasteners, and wire mesh grids. Under India's statutory Copper Products Quality Control Order (QCO), all copper engineering wires supplied, sold, or imported domestically must conform to this standard and bear the mandatory BIS Standard Mark (ISI Mark) to ensure uniform quality and material purity. Wires are woven or drawn from high-purity copper (minimum 99.90% purity) and classified into annealed (soft) and hard-drawn tempers. The standard enforces detailed chemical, dimensional, and mechanical limits—including strict diameter tolerances, minimum tensile strength, high elongation (up to 40% for annealed wire), and an optional high-temperature hydrogen embrittlement test to verify jointing integrity."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "4412a1.pdf",
     "document_version_edition": "First Revision, 1981 (incorporating Amendment No. 1, June 2001)"
   }

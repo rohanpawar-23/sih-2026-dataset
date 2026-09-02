@@ -1,167 +1,111 @@
 {
-  "basic_identification": {
-    "is_number": "IS 4616 : 1968",
-    "full_title": "Specification for Sheepsfoot Roller (शेप्सफुट रोलर — विशिष्टि)",
-    "sector_category": "Mechanical Engineering / Construction Plant and Machinery (approved by the Civil Engineering Division Council and finalized by the Construction Plant and Machinery Sectional Committee, MED 18, previously BDC 28, of the Bureau of Indian Standards)",
-    "ics_code": "91.220",
+  "standard": {
+    "is_code": "IS 4616:1968",
+    "title": "Specification for Sheepsfoot Roller (शेप्सफुट रोलर — विशिष्टि)",
+    "sector": "Mechanical Engineering / Construction Plant and Machinery",
+    "ics_code": [
+      "91.220"
+    ],
     "sectional_committee": {
       "name": "Construction Plant and Machinery Sectional Committee",
       "number": "MED 18"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the sizes, classification, material specifications, design configurations, machine characteristics, and performance/finishing requirements for transportable sheepsfoot rollers (both single-drum and double-drum models) used for the solid compaction of earth embankments, subgrade soils, subgrade road localized breakups, highway fills, dam approaches, and airports.",
+    "scope": "This Indian Standard prescribes the sizes, classification, material specifications, design configurations, machine characteristics, and performance/finishing requirements for transportable sheepsfoot rollers (both single-drum and double-drum models) used for the solid compaction of earth embankments, subgrade soils, subgrade road localized breakups, highway fills, dam approaches, and airports.",
+    "keywords": [
+      "IS 4616 : 1968",
+      "Sheepsfoot Compaction Roller",
+      "Tamping Feet Geometry",
+      "Club Cone Cylinder Foot",
+      "Standard Drum Diameters",
+      "Main Frame Scrapers",
+      "Cleaner teeth",
+      "Soil Compaction kneading",
+      "Drawbar towing frame",
+      "MED 18",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the sizes, classification, material specifications, design configurations, machine characteristics, and performance/finishing requirements for transportable sheepsfoot rollers (both single-drum and double-drum models) used for the solid compaction of earth embankments, subgrade soils, subgrade road localized breakups, highway fills, dam approaches, and airports.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, May 1968 (Reaffirmed 2025)",
-    "year_first_published": "1968",
+  "version": {
+    "current_version": "First Edition, May 1968 (Reaffirmed 2025)",
+    "first_publication_year": 1968,
+    "publication_year": 1968,
+    "revision": "First Edition (IS 4616 : 1968)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 4616 : 1968)",
-        "year": "1968"
-      }
+      "First Edition (IS 4616 : 1968), 1968"
     ],
-    "supersedes": "None (First national standard formulated to establish uniform, objective mechanical construction, materials, and safety guidelines for sheepsfoot compaction rollers in the Indian construction sector)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL (No amendments issued on this active reaffirmed copy)"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2062",
-      "title": "Specification for steel for general structural purposes",
-      "category": "Material standard",
-      "relevance": "Governs the carbon steel plates and structural channels used to fabricate the drum shell, main frame, and tow bars."
-    },
-    {
-      "is_number": "IS 816",
-      "title": "Code of practice for metal arc welding of structural steel",
-      "category": "Welding standard",
-      "relevance": "Specifies welding design, joint profiles, and stress transmission criteria for high-vibration structural connections."
-    },
-    {
-      "is_number": "IS 1363",
-      "title": "Hexagon head bolts, screws and nuts of product grade C",
-      "category": "Dimensional standard",
-      "relevance": "Standardises fasteners used on structural brackets, axle boxes, and frame joints."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated dimensions, clearances, weights, and tamping areas."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel construction code in India, regulating support frames, heavy welding procedures, and structural plate tolerances which directly govern the design and fabrication of the roller main frame, heavy drawbars, and reinforcing gussets under dynamic towing forces."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Enforces industrial safety. Fabrication and manufacturing plants involving heavy steel rolling (for the drum shell), casting/forging of tamping feet, automated sandblasting, and welding lines are audited under IS 14489 to ensure active mechanical guards, crane hoist safety, and ventilation of welding fumes comply with national laws."
-    },
-    {
-      "is_number": "IS 18001 : 2007",
-      "title": "Occupational Health and Safety Management System",
-      "category": "Management standard",
-      "relevance": "Unifies operational risk mitigation, requiring daily safety checklists, machinery guard checks, and validation of welders' safety training."
-    }
-  ],
-  "allied_subcommittee_representatives": [
-    {
-      "name": "LT-GEN R. A. Lomba (Chairman)",
-      "organization": "Engineer-in-Chief's Branch, Army Headquarters"
-    },
-    {
-      "name": "Shri B. D. Ahuja",
-      "organization": "National Buildings Organization, New Delhi"
-    },
-    {
-      "name": "Shri A. V. Jain (Alternate)",
-      "organization": "National Buildings Organization, New Delhi"
-    },
-    {
-      "name": "Shri Ardaman Singh",
-      "organization": "Beas Project"
-    },
-    {
-      "name": "Shri N. S. Gill (Alternate)",
-      "organization": "Beas Project"
-    },
-    {
-      "name": "Shri R. S. Bhalla",
-      "organization": "Roads Wing, Ministry of Transport & Aviation"
-    },
-    {
-      "name": "Shri G. V. Chellam (Alternate)",
-      "organization": "Roads Wing, Ministry of Transport & Aviation"
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Mechanical Engineering Department / Construction Plant and Machinery)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or attach the physical ISI 'Standard Mark' directly on the main frame or nameplate of the compaction roller to certify construction and performance conformity.",
-    "requirements": [
+    "supersedes": [
+      "None (First national standard formulated to establish uniform",
+      "objective mechanical construction",
+      "materials",
+      "and safety guidelines for sheepsfoot compaction rollers in the Indian construction sector)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword / Clause 0.4"
-      },
-      {
-        "requirement_type": "The Sized Drum Diameter",
-        "detail": "Standard sheepsfoot rollers must feature drums with standardized outer diameters (less tamping feet) to ensure correct ground impact loading: (a) Single-drum models = 1000 or 1060 mm; (b) Two-drum in-line models = 1000, 1060, or 1520 mm.",
-        "clause_reference": "Clause 3.2"
-      },
-      {
-        "requirement_type": "Tamping Feet Geometry Types",
-        "detail": "Rollers are classified based on standard tamping feet geometries to accommodate different soil characteristics: Sheepsfoot, club foot, cone foot, pyramid foot, or cylinder foot.",
-        "clause_reference": "Clause 3.1"
-      },
-      {
-        "requirement_type": "Machine Characteristics Table 1",
-        "detail": "Key operational design limits are specified and must be reported: overall length (including drawbar), overall width, drum length, drum shell diameter, number of tamping feet, tamping area (footprint), tamping foot length, and total empty and ballasted weight.",
-        "clause_reference": "Clause 4.1 & Table 1"
-      },
-      {
-        "requirement_type": "Rivet and Hole Workmanship",
-        "detail": "Rivet holes must be drilled or reamed. Rivet heads must be full, neatly made, concentric with the rivet holes, and in full contact with the surface of the member.",
-        "clause_reference": "Clause 6.11.3"
-      },
-      {
-        "requirement_type": "Rigid Stress-Transmitting Welding",
-        "detail": "Joint surfaces must be clean of paint, rust, scale, and grease. Welds must transmit design stresses smoothly without showing permanent deformation or joint failure when the parts connected are subjected to proof and service loads.",
-        "clause_reference": "Clause 6.11.4"
-      },
-      {
-        "requirement_type": "Protective Finishes",
-        "detail": "Painted parts of the roller must be thoroughly cleaned, treated, and painted with anti-corrosive primer and synthetic machinery enamel paint in accordance with relevant Indian Standards.",
-        "clause_reference": "Clause 6.12"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL (No amendments issued on this active reaffirmed copy)"
       }
     ]
   },
-  "keywords": [
-    "IS 4616 : 1968",
-    "Sheepsfoot Compaction Roller",
-    "Tamping Feet Geometry",
-    "Club Cone Cylinder Foot",
-    "Standard Drum Diameters",
-    "Main Frame Scrapers",
-    "Cleaner teeth",
-    "Soil Compaction kneading",
-    "Drawbar towing frame",
-    "MED 18",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2062",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 816",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1363",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 18001 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 4616 : 1968 (Reaffirmed 2025) is the primary national Indian Standard specification prescribing design, materials, dimensional tolerances, and testing requirements for sheepsfoot rollers used in earthwork compaction. Maintained under Sectional Committee MED 18, the standard unifies heavy-duty compaction machinery. It regulates standard drum diameters (from 1000 mm to 1520 mm) and classifies rollers based on tamping foot geometries—including sheepsfoot, club foot, and cone foot models. The code mandates heavy steel drum shells with leak-tight ballast plugs, requires adjustable scraper teeth to continuously clear mud on-site, and enforces strict ISO-aligned welding and structural fabrication criteria. Grounded in IS 2 rounding-off guidelines and matching steel structural standards (IS 800), this standard ensures maximum durability and compaction safety during the construction of highways, airports, dams, and bridge approaches."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or attach the physical ISI 'Standard Mark' directly on the main frame or nameplate of the compaction roller to certify construction and performance conformity.",
+    "requirements": [
+      "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+      "Standard sheepsfoot rollers must feature drums with standardized outer diameters (less tamping feet) to ensure correct ground impact loading: (a) Single-drum models = 1000 or 1060 mm; (b) Two-drum in-line models = 1000, 1060, or 1520 mm.",
+      "Rollers are classified based on standard tamping feet geometries to accommodate different soil characteristics: Sheepsfoot, club foot, cone foot, pyramid foot, or cylinder foot.",
+      "Key operational design limits are specified and must be reported: overall length (including drawbar), overall width, drum length, drum shell diameter, number of tamping feet, tamping area (footprint), tamping foot length, and total empty and ballasted weight.",
+      "Rivet holes must be drilled or reamed. Rivet heads must be full, neatly made, concentric with the rivet holes, and in full contact with the surface of the member.",
+      "Joint surfaces must be clean of paint, rust, scale, and grease. Welds must transmit design stresses smoothly without showing permanent deformation or joint failure when the parts connected are subjected to proof and service loads.",
+      "Painted parts of the roller must be thoroughly cleaned, treated, and painted with anti-corrosive primer and synthetic machinery enamel paint in accordance with relevant Indian Standards."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "4616_1968_reff2022.pdf",
     "document_version_edition": "First Edition, 1968 (reaffirmed in 2025)"
   }

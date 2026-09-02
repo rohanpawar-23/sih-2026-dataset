@@ -1,159 +1,107 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14339 : 1996",
-    "full_title": "HOROLOGY — WATCH BEZEL AND BACK COVER GAUGES — TECHNICAL SUPPLY CONDITIONS — GENERAL",
-    "sector_category": "Horology Sectional Committee, LM 23 / Light Mechanical Engineering Division Council [1]",
-    "ics_code": "ICS 39.040.10; 17.040.30 [1]",
+  "standard": {
+    "is_code": "IS 14339:1996",
+    "title": "HOROLOGY — WATCH BEZEL AND BACK COVER GAUGES — TECHNICAL SUPPLY CONDITIONS — GENERAL",
+    "sector": "Horology Sectional Committee, LM 23 / Light Mechanical Engineering Division Council [1]",
+    "ics_code": [
+      "ICS 39.040.10",
+      "17.040.30 [1]"
+    ],
     "sectional_committee": {
       "name": "Horology Sectional Committee [1]",
       "number": "LM 23 [1]"
-    }
-  },
-  "scope": {
-    "summary": "This Standard mainly covers the general technical supply conditions of plain and thread gauges to be used in manufacturing of watch bezels and back covers. It also recommends the material to be used in manufacturing and the markings to be provided on the gauges [2].",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, March 1996 (Reaffirmed 2012) [1]",
-    "year_first_published": "1996 [1]",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1996"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 14365 : 1996",
-      "title": "Dimensions and tolerances of gauges used for watch bezel and back covers",
-      "category": "Normative / Dimensions and Tolerances Standard",
-      "location": "Foreword, Clause 2 & Clause 6 [2-4]",
-      "relevance": "Provides the specific dimensions, nominal sizes, pitch diameters, pitches, and tolerances of gauges used for watch bezels and back covers, serving as a necessary adjunct to this standard [2]."
     },
-    {
-      "is_number": "IS 3748 : 1990",
-      "title": "Tool and die steels (second revision)",
-      "category": "Normative / Raw Material Tool Steel Standard",
-      "location": "Clause 2 & Clause 3 [3]",
-      "relevance": "Specifies the technical requirements for tool and die steels used in the manufacture of high-wear plain plug gauges, thread plug gauges, and ring gauges [3, 4]."
-    },
-    {
-      "is_number": "IS 4432 : 1988",
-      "title": "Case hardening steels (first revision)",
-      "category": "Normative / Raw Material Case Hardening Steel Standard",
-      "location": "Clause 2 & Clause 3 [3, 4]",
-      "relevance": "Specifies the material requirements for case-hardening steels recommended for the manufacture of snap gauges [3, 4]."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Normative / Mathematical Rounding Standard",
-      "location": "Foreword [5]",
-      "relevance": "Provides the mathematical procedures used to round off calculated or observed physical or chemical testing values to determine compliance with the standard [5]."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 14365 : 1996",
-      "title": "Dimensions and tolerances of gauges used for watch bezel and back covers",
-      "category": "Normative / Dimensions and Tolerances Standard",
-      "location": "Foreword, Clause 2 & Clause 6 [2-4]",
-      "relevance": "Provides the specific dimensions, nominal sizes, pitch diameters, pitches, and tolerances of gauges used for watch bezels and back covers, serving as a necessary adjunct to this standard [2]."
-    },
-    {
-      "is_number": "IS 3748 : 1990",
-      "title": "Tool and die steels (second revision)",
-      "category": "Normative / Raw Material Tool Steel Standard",
-      "location": "Clause 2 & Clause 3 [3]",
-      "relevance": "Specifies the technical requirements for tool and die steels used in the manufacture of high-wear plain plug gauges, thread plug gauges, and ring gauges [3, 4]."
-    },
-    {
-      "is_number": "IS 4432 : 1988",
-      "title": "Case hardening steels (first revision)",
-      "category": "Normative / Raw Material Case Hardening Steel Standard",
-      "location": "Clause 2 & Clause 3 [3, 4]",
-      "relevance": "Specifies the material requirements for case-hardening steels recommended for the manufacture of snap gauges [3, 4]."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Normative / Mathematical Rounding Standard",
-      "location": "Foreword [5]",
-      "relevance": "Provides the mathematical procedures used to round off calculated or observed physical or chemical testing values to determine compliance with the standard [5]."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Technical Supply Conditions / Product Specification (Horology / Precision Gauges)",
-    "certification_status": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing third-party certified material and testing parameter compliance.",
-    "requirements": [
-      {
-        "requirement_type": "Recommended Raw Materials (Tool Steels)",
-        "detail": "Requires the material of gauges to be of suitable quality gauge steel capable of retaining dimensions during ageing and heat treatment while remaining wear resistant [3]. Standard steel designations recommended from IS 3748 : 1990 include: \na) XT 215 Cr 12 for plain plug gauges; \nb) T 105 Cr 5 Mn 2 for ring gauges; \nb) T 105 Cr 5 (typographically printed as T1OSCr5) for thread plug gauges; \nc) T 90 V 2 (typographically printed as T9OV2) for thread ring gauges [3, 4].",
-        "clause_reference": "Clause 3"
-      },
-      {
-        "requirement_type": "Recommended Raw Materials (Case Hardening Steels)",
-        "detail": "Requires materials from IS 4432 : 1988 for manufacturing snap gauges, recommending chemical steel designations: 16 Mn 5 Cr 4 and 20 Mn 5 Cr 5 (typographically printed as 20Mn5CrS) [4].",
-        "clause_reference": "Clause 3"
-      },
-      {
-        "requirement_type": "Measuring Surface Hardness Limits",
-        "detail": "The measuring surfaces of all manufactured gauges must carry a minimum hardness of 700 HV (equivalent to approximately 60 HRC) to prevent measurement face wear [4].",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Demagnetisation",
-        "detail": "All completed gauges and gauge members must be thoroughly demagnetised after heat treatment to prevent magnetic attraction of debris [4].",
-        "clause_reference": "Clause 5.2"
-      },
-      {
-        "requirement_type": "Workmanship and Thread Finish",
-        "detail": "Gauges and gauge members must be well-finished. All sharp corners and edges of measuring surfaces must be broken and free from burrs and defects. In thread gauges, incomplete starting threads must be removed and a blunt start provided [4].",
-        "clause_reference": "Clause 5.1"
-      },
-      {
-        "requirement_type": "Colour Coding Recesses",
-        "detail": "Whenever grooves or recesses are provided on the gauges for colour coding, they must hold a minimum depth of 0.3 mm and a minimum width of 2 mm, with their bottom corners suitably rounded [4].",
-        "clause_reference": "Clause 5.3"
-      },
-      {
-        "requirement_type": "Structured Marking and Tagging Scheme",
-        "detail": "Gauges must be legibly marked or tagged (using an aluminium plate for miniature plug gauges) indicating: \na) Nominal size (per IS 14365); \nb) Class of tolerance with type of deviation and amount of tolerance (plain gauges) or tolerance class (thread gauges only - check plug gauges append 'Tcp' after tolerance class); \nc) The word 'GO' and 'NOT GO' on respective gauges; \nd) Manufacturer's name or trade mark; \ne) Red paint on 'NOT GO' gauges; \nf) 'Check' or 'Wear Check' marked on check plug and wear check plug gauges respectively [4].",
-        "clause_reference": "Clause 6"
-      },
-      {
-        "requirement_type": "Anti-Corrosive Packing and Preservation",
-        "detail": "A suitable anti-corrosive coating must be applied on the finished gauges. They must then be wrapped in wax paper and packed inside cardboard, wooden, or plastic boxes [4].",
-        "clause_reference": "Clause 7"
-      },
-      {
-        "requirement_type": "Compliance Rounding Rule",
-        "detail": "Any final observed or calculated test or analysis value must be rounded off per IS 2 : 1960 to the same number of significant places as specified in the standard [5].",
-        "clause_reference": "Foreword"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Standard mainly covers the general technical supply conditions of plain and thread gauges to be used in manufacturing of watch bezels and back covers. It also recommends the material to be used in manufacturing and the markings to be provided on the gauges [2].",
+    "scope": "This Standard mainly covers the general technical supply conditions of plain and thread gauges to be used in manufacturing of watch bezels and back covers. It also recommends the material to be used in manufacturing and the markings to be provided on the gauges [2].",
+    "keywords": [
+      "IS 14339 : 1996",
+      "Watch Bezel Gauges",
+      "Back Cover Gauges",
+      "Horology",
+      "LM 23",
+      "XT 215 Cr 12",
+      "700 HV Hardness",
+      "GO and NOT GO Gauges",
+      "IS 14365",
+      "Demagnetisation"
     ]
   },
-  "keywords": [
-    "IS 14339 : 1996",
-    "Watch Bezel Gauges",
-    "Back Cover Gauges",
-    "Horology",
-    "LM 23",
-    "XT 215 Cr 12",
-    "700 HV Hardness",
-    "GO and NOT GO Gauges",
-    "IS 14365",
-    "Demagnetisation"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 14339 : 1996 is the national Indian Standard specification governing general technical supply conditions for plain and thread gauges used in manufacturing watch bezels and back covers [1, 2]. Reaffirmed in 2012, this standard is finalized by the Horology Sectional Committee (LM 23) and operates as a necessary adjunct to IS 14365 : 1996, which specifies dimensional limits and tolerances [1, 2]. To maintain high accuracy and prevent measurement face wear, it mandates that measuring surfaces achieve a minimum hardness of 700 HV (60 HRC) and recommends tool steels (such as XT 215 Cr 12) or case hardening steels [3, 4]. Additionally, the standard enforces demagnetisation, deburring of sharp edges, blunt starts on threads, and outlines strict color coding and marking schemes (such as red paint identifiers on 'NOT GO' gauges) [4]."
+  "version": {
+    "current_version": "First Edition, March 1996 (Reaffirmed 2012) [1]",
+    "first_publication_year": 1996,
+    "publication_year": 1996,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1996"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS 14365 : 1996",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3748 : 1990",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4432 : 1988",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14365 : 1996",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3748 : 1990",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4432 : 1988",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing third-party certified material and testing parameter compliance.",
+    "requirements": [
+      "Requires the material of gauges to be of suitable quality gauge steel capable of retaining dimensions during ageing and heat treatment while remaining wear resistant [3]. Standard steel designations recommended from IS 3748 : 1990 include: \na) XT 215 Cr 12 for plain plug gauges; \nb) T 105 Cr 5 Mn 2 for ring gauges; \nb) T 105 Cr 5 (typographically printed as T1OSCr5) for thread plug gauges; \nc) T 90 V 2 (typographically printed as T9OV2) for thread ring gauges [3, 4].",
+      "Requires materials from IS 4432 : 1988 for manufacturing snap gauges, recommending chemical steel designations: 16 Mn 5 Cr 4 and 20 Mn 5 Cr 5 (typographically printed as 20Mn5CrS) [4].",
+      "The measuring surfaces of all manufactured gauges must carry a minimum hardness of 700 HV (equivalent to approximately 60 HRC) to prevent measurement face wear [4].",
+      "All completed gauges and gauge members must be thoroughly demagnetised after heat treatment to prevent magnetic attraction of debris [4].",
+      "Gauges and gauge members must be well-finished. All sharp corners and edges of measuring surfaces must be broken and free from burrs and defects. In thread gauges, incomplete starting threads must be removed and a blunt start provided [4].",
+      "Whenever grooves or recesses are provided on the gauges for colour coding, they must hold a minimum depth of 0.3 mm and a minimum width of 2 mm, with their bottom corners suitably rounded [4].",
+      "Gauges must be legibly marked or tagged (using an aluminium plate for miniature plug gauges) indicating: \na) Nominal size (per IS 14365); \nb) Class of tolerance with type of deviation and amount of tolerance (plain gauges) or tolerance class (thread gauges only - check plug gauges append 'Tcp' after tolerance class); \nc) The word 'GO' and 'NOT GO' on respective gauges; \nd) Manufacturer's name or trade mark; \ne) Red paint on 'NOT GO' gauges; \nf) 'Check' or 'Wear Check' marked on check plug and wear check plug gauges respectively [4].",
+      "A suitable anti-corrosive coating must be applied on the finished gauges. They must then be wrapped in wax paper and packed inside cardboard, wooden, or plastic boxes [4].",
+      "Any final observed or calculated test or analysis value must be rounded off per IS 2 : 1960 to the same number of significant places as specified in the standard [5]."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "14339.pdf",
     "document_version_edition": "First Edition, March 1996 (Reaffirmed 2012) [1]"
   }

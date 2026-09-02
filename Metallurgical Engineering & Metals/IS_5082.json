@@ -1,232 +1,153 @@
 {
-  "basic_identification": {
-    "is_number": "IS 5082 : 1998",
-    "full_title": "Wrought Aluminium and Aluminium Alloy Bars, Rods, Tubes, Sections, Plates and Sheets for Electrical Applications — Specification (Second Revision)",
-    "sector_category": "Metallurgical Engineering / Light Metals and Their Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Light Metals and Their Alloys Sectional Committee of the Bureau of Indian Standards) [1]",
-    "ics_code": "29.060.10; 77.120.10",
+  "standard": {
+    "is_code": "IS 5082:1998",
+    "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods, Tubes, Sections, Plates and Sheets for Electrical Applications — Specification (Second Revision)",
+    "sector": "Metallurgical Engineering / Light Metals and Their Alloys",
+    "ics_code": [
+      "29.060.10",
+      "77.120.10"
+    ],
     "sectional_committee": {
       "name": "Light Metals and Their Alloys Sectional Committee",
       "number": "MTD 7"
     },
-    "citations": "[1]"
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements for wrought aluminium and aluminium alloy bars, rods, tubes, sections, plates, and sheets for electrical applications (such as busbars, tubular conductors, and terminal fittings), prescribing their chemical composition, mechanical properties, and electrical resistivity/conductivity limits. It applies to extruded products of 6 mm diameter and above, sections of 3 mm thickness and above, and rolled plates/sheets.",
+    "scope": "This standard specifies requirements for wrought aluminium and aluminium alloy bars, rods, tubes, sections, plates, and sheets for electrical applications (such as busbars, tubular conductors, and terminal fittings), prescribing their chemical composition, mechanical properties, and electrical resistivity/conductivity limits. It applies to extruded products of 6 mm diameter and above, sections of 3 mm thickness and above, and rolled plates/sheets.",
+    "keywords": [
+      "IS 5082 : 1998",
+      "Wrought Aluminium",
+      "Electrical Applications",
+      "Aluminium Busbars",
+      "Tubular Conductors",
+      "Grade 19501",
+      "Grade 63401",
+      "WP Range-2",
+      "Electrical Resistivity 0.0287",
+      "Electrical Conductivity 60% IACS",
+      "0.2% Proof Stress 170 MPa",
+      "Tensile Test IS 1608 / ISO 6892-1",
+      "MTD 7",
+      "Aluminium QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements for wrought aluminium and aluminium alloy bars, rods, tubes, sections, plates, and sheets for electrical applications (such as busbars, tubular conductors, and terminal fittings), prescribing their chemical composition, mechanical properties, and electrical resistivity/conductivity limits. It applies to extruded products of 6 mm diameter and above, sections of 3 mm thickness and above, and rolled plates/sheets.",
-    "clause_number": "Clause 1.1 & 1.2",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, April 1998 (incorporating Amendment No. 1, September 1999, Amendment No. 2, and Amendment No. 3, March 2022) [1]",
-    "year_first_published": "1969",
+  "version": {
+    "current_version": "Second Revision, April 1998 (incorporating Amendment No. 1, September 1999, Amendment No. 2, and Amendment No. 3, March 2022) [1]",
+    "first_publication_year": 1969,
+    "publication_year": 1998,
+    "revision": "Second Revision (updated alloy classifications, temper designations, and testing alignments with international frameworks)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1969"
-      },
-      {
-        "edition": "First Revision",
-        "year": "1982"
-      },
-      {
-        "edition": "Second Revision (updated alloy classifications, temper designations, and testing alignments with international frameworks)",
-        "year": "1998"
-      }
+      "First Edition, 1969",
+      "First Revision, 1982",
+      "Second Revision (updated alloy classifications, temper designations, and testing alignments with international frameworks), 1998"
     ],
-    "supersedes": "IS 5082 : 1982",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 5082 : 1982"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "September 1999",
-        "description": "Substitutes 'Percent Elongation on 5.65√So gauge length' for 'Percent Elongation on 50 mm Gauge Length' in Table 2, Column 5."
+        "amendment_number": "Amendment 1",
+        "date": "1999-09",
+        "summary": "Substitutes 'Percent Elongation on 5.65√So gauge length' for 'Percent Elongation on 50 mm Gauge Length' in Table 2, Column 5."
       },
       {
-        "amendment_number": "Amendment No. 2",
+        "amendment_number": "Amendment 2",
         "date": "Unspecified",
-        "description": "Realigns general packaging and editorial terminology."
+        "summary": "Realigns general packaging and editorial terminology."
       },
       {
-        "amendment_number": "Amendment No. 3",
-        "date": "March 2022",
-        "description": "Replaces legacy references for chemical analysis (IS 504) with the updated multi-part standards IS 504 (Parts 1 to 12) : 2002 and IS 504 (Parts 13 to 16) : 2013 [1, 2]. It also replaces legacy references for tensile testing (IS 1608) with the modernized IS 1608 (Part 1) / ISO 6892-1 [2]."
-      }
-    ],
-    "citations": "[1, 2]"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 504 (Parts 1 to 12) : 2002",
-      "title": "Chemical analysis of aluminium and its alloys",
-      "category": "Chemical compliance",
-      "location": "Amendment No. 3 (Clauses 2 & 6.2)",
-      "relevance": "Mandates standard wet chemical and instrumental analysis methods to verify the elemental composition of aluminium alloys [1, 2]."
-    },
-    {
-      "is_number": "IS 504 (Parts 13 to 16) : 2013",
-      "title": "Chemical analysis of aluminium and its alloys",
-      "category": "Chemical compliance",
-      "location": "Amendment No. 3 (Clauses 2 & 6.2)",
-      "relevance": "Specifies specialized chemical extraction and determination methods for impurities and major elements [1, 2]."
-    },
-    {
-      "is_number": "IS 1608 (Part 1) / ISO 6892-1",
-      "title": "Metallic materials — Tensile testing — Part 1: Method of test at room temperature",
-      "category": "Test method",
-      "location": "Amendment No. 3 (Clause 8.1)",
-      "relevance": "Prescribes standard tensile test procedures to determine yield strength, ultimate tensile strength, and percentage elongation [2]."
-    },
-    {
-      "is_number": "IS 2676",
-      "title": "Dimensions for wrought aluminium and aluminium alloys, sheets and strips",
-      "category": "Dimensional standard",
-      "location": "Clause 9 (References)",
-      "relevance": "Governs dimensional tolerances and measurement methods for rolled sheet profiles."
-    },
-    {
-      "is_number": "IS 6477",
-      "title": "Dimensions for wrought aluminium and aluminium alloys, extruded hollow sections",
-      "category": "Dimensional standard",
-      "location": "Clause 9 (References)",
-      "relevance": "Governs dimensional tolerances and profiles for extruded hollow structural/conductor sections."
-    },
-    {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes mathematical procedures used to round off calculated or observed test parameters to check compliance boundaries."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 733 : 1983",
-      "title": "Wrought aluminium and aluminium alloy bars, rods and sections (for general engineering purposes)",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Parallel extruded aluminum standard, sharing matching MTD 7 metallurgical and dimensions framework, present in the notebook."
-    },
-    {
-      "is_number": "IS 1285 : 2002",
-      "title": "Wrought aluminium and aluminium alloy extruded round tubes and hollow sections (for general engineering purposes)",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Parallel hollow profile standard co-managed under the Light Metals sectional framework, present in the notebook."
-    },
-    {
-      "is_number": "IS 7092 (Part 2) : 1987",
-      "title": "Aluminium Alloy Tube for Irrigation Purposes — Part 2: Extruded Tube",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "A sister standard developed by the same Light Metals and Their Alloys Sectional Committee (MTD 7), present in the notebook."
-    },
-    {
-      "is_number": "IS 5484 : 1997",
-      "title": "EC Grade Aluminium Rod produced by Continuous Casting and Rolling",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Standardizes continuously cast electrical-grade aluminum rod prior to drawing into wires."
-    },
-    {
-      "is_number": "IS 737 : 2008",
-      "title": "Wrought aluminium and aluminium alloy sheet and strip (for general engineering purposes)",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Parallel flat rolled profile standard co-managed under the Light Metals sectional framework, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Products / Electrical Conductors)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Aluminium and Aluminium Alloy Products (Quality Control) Order' (Aluminium QCO) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all wrought aluminium and aluminium alloy products for electrical applications manufactured, imported, distributed, or sold in India must conform to IS 5082 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified electrical-grade aluminium bars, rods, or tubes is a statutory offense. Precious metal hallmarking is completely inapplicable to industrial alloy conductors.",
-    "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every package or bundle of electrical-grade aluminium products must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
-        "clause_reference": "Marking clauses"
-      },
-      {
-        "requirement_type": "Standard Alloy Designations",
-        "detail": "The standard covers two primary chemical designations designed for electrical applications: a) Grade 19501 (Electrolytic Grade / EC); b) Grade 63401 (Al-Mg-Si Alloy Grade / E91E).",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Standard Temper Designations",
-        "detail": "The products are supplied in designated tempers based on material type: a) Grade 19501: Supplied in 'M' (fully annealed), 'H1', or 'H2' tempers; b) Grade 63401: Supplied in 'W' (solution heat-treated) or 'WP' (precipitation-hardened/artificial aging) tempers (WP range 1 and WP range 2).",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Physical Densities",
-        "detail": "The nominal physical densities used for dimensional conversions and calculations are: a) Grade 19501: 2.705 g/cm³; b) Grade 63401: 2.700 g/cm³.",
-        "clause_reference": "Clause 8.1"
-      },
-      {
-        "requirement_type": "Chemical Composition - Grade 19501 (EC)",
-        "detail": "The high-purity composition of Grade 19501 requires: Aluminium (minimum 99.50 percent by mass), Copper (maximum 0.04 percent), Iron (maximum 0.35 percent), Silicon (maximum 0.15 percent), and Titanium (maximum 0.02 percent).",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Chemical Composition - Grade 63401 (E91E)",
-        "detail": "The alloyed composition of Grade 63401 requires: Silicon (0.3 to 0.70 percent by mass), Magnesium (0.4 to 0.90 percent), Iron (maximum 0.50 percent), Copper (maximum 0.05 percent), Manganese (maximum 0.03 percent), and Aluminium (Remainder).",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Electrical Resistivity - Grade 19501",
-        "detail": "Grade 19501 must demonstrate exceptional electrical performance: maximum electrical resistivity at 20°C is strictly limited to 0.0287 Ω·mm²/m (equivalent to a minimum electrical conductivity of 60.0 percent IACS).",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Electrical Resistivity - Grade 63401 (WP Range-2)",
-        "detail": "Grade 63401 in WP Range-2 temper (commonly used for high-current bus ducts and switchgear panels) must satisfy a maximum electrical resistivity at 20°C of 0.0321 Ω·mm²/m (equivalent to an electrical conductivity range of 0.0305 to 0.0321 Ω·mm²/m).",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Electrical Resistivity - Grade 63401 (WP Range-1)",
-        "detail": "Grade 63401 in WP Range-1 temper must satisfy a maximum electrical resistivity at 20°C of 0.0325 Ω·mm²/m.",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Mechanical Properties - Grade 19501 (M)",
-        "detail": "Finished annealed Grade 19501 (M) products must demonstrate: a) Ultimate Tensile Strength (UTS): minimum 60 MPa; b) Elongation: minimum 25 percent.",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Mechanical Properties - Grade 63401 (WP Range-2)",
-        "detail": "Finished artificially aged Grade 63401 (WP Range-2) products must demonstrate: a) 0.2% Proof Stress: minimum 170 MPa; b) Ultimate Tensile Strength (UTS): minimum 200 MPa; c) Elongation: minimum 10 percent over 5.65√So gauge length.",
-        "clause_reference": "Table 2"
-      },
-      {
-        "requirement_type": "Bending Performance Limits (Bend Test)",
-        "detail": "Bars, sheets, and plates must undergo bend testing: specimens must be bent through an angle of 90 degrees or 180 degrees (depending on thickness) around a mandrel of specified radius without showing any visual signs of cracking or surface tearing.",
-        "clause_reference": "Clause 9.2"
-      },
-      {
-        "requirement_type": "Freedom from Defects",
-        "detail": "The finished products must be clean, smooth, straight, of uniform quality, and free from cracks, voids, laminations, seams, slivers, folds, or non-metallic inclusions that would compromise mechanical or electrical reliability.",
-        "clause_reference": "Clause 4.1"
+        "amendment_number": "Amendment 3",
+        "date": "2022-03",
+        "summary": "Replaces legacy references for chemical analysis (IS 504) with the updated multi-part standards IS 504 (Parts 1 to 12) : 2002 and IS 504 (Parts 13 to 16) : 2013 [1, 2]. It also replaces legacy references for tensile testing (IS 1608) with the modernized IS 1608 (Part 1) / ISO 6892-1 [2]."
       }
     ]
   },
-  "keywords": [
-    "IS 5082 : 1998",
-    "Wrought Aluminium",
-    "Electrical Applications",
-    "Aluminium Busbars",
-    "Tubular Conductors",
-    "Grade 19501",
-    "Grade 63401",
-    "WP Range-2",
-    "Electrical Resistivity 0.0287",
-    "Electrical Conductivity 60% IACS",
-    "0.2% Proof Stress 170 MPa",
-    "Tensile Test IS 1608 / ISO 6892-1",
-    "MTD 7",
-    "Aluminium QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 504 (Parts 1 to 12) : 2002",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 504 (Parts 13 to 16) : 2013",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1608 (Part 1) / ISO 6892-1",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2676",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6477",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 733 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1285 : 2002",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7092 (Part 2) : 1987",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5484 : 1997",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 737 : 2008",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 5082 : 1998 is the mandatory national Indian Standard specification regulating wrought aluminium and aluminium alloy products (such as bars, rods, tubes, sections, plates, and sheets) designed specifically for electrical applications, including power distribution bus ducts, switchgear panels, and terminal fittings. Under India's statutory national Aluminium Quality Control Order (QCO), all such electrical-grade aluminium conductors must conform to this standard and carry the Bureau of Indian Standards Standard Mark (ISI Mark). It specifies two major alloys: Grade 19501 (high-purity electrolytic aluminium with a minimum conductivity of 60.0% IACS) and Grade 63401 (an Al-Mg-Si structural alloy). It mandates rigorous mechanical and physical testing—including tensile, bend, and high-precision electrical resistivity measurements—and incorporates Amendment No. 3 (March 2022) to align all testing protocols with advanced chemical analysis (IS 504 parts) and mechanical tension (IS 1608 / ISO 6892-1) testing frameworks [1, 2].",
-    "citations": "[1, 2]"
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Aluminium and Aluminium Alloy Products (Quality Control) Order",
+      "year": null
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Aluminium and Aluminium Alloy Products (Quality Control) Order' (Aluminium QCO) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all wrought aluminium and aluminium alloy products for electrical applications manufactured, imported, distributed, or sold in India must conform to IS 5082 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling non-certified electrical-grade aluminium bars, rods, or tubes is a statutory offense. Precious metal hallmarking is completely inapplicable to industrial alloy conductors.",
+    "requirements": [
+      "Every package or bundle of electrical-grade aluminium products must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to certify compliance.",
+      "The standard covers two primary chemical designations designed for electrical applications: a) Grade 19501 (Electrolytic Grade / EC); b) Grade 63401 (Al-Mg-Si Alloy Grade / E91E).",
+      "The products are supplied in designated tempers based on material type: a) Grade 19501: Supplied in 'M' (fully annealed), 'H1', or 'H2' tempers; b) Grade 63401: Supplied in 'W' (solution heat-treated) or 'WP' (precipitation-hardened/artificial aging) tempers (WP range 1 and WP range 2).",
+      "The nominal physical densities used for dimensional conversions and calculations are: a) Grade 19501: 2.705 g/cm³; b) Grade 63401: 2.700 g/cm³.",
+      "The high-purity composition of Grade 19501 requires: Aluminium (minimum 99.50 percent by mass), Copper (maximum 0.04 percent), Iron (maximum 0.35 percent), Silicon (maximum 0.15 percent), and Titanium (maximum 0.02 percent).",
+      "The alloyed composition of Grade 63401 requires: Silicon (0.3 to 0.70 percent by mass), Magnesium (0.4 to 0.90 percent), Iron (maximum 0.50 percent), Copper (maximum 0.05 percent), Manganese (maximum 0.03 percent), and Aluminium (Remainder).",
+      "Grade 19501 must demonstrate exceptional electrical performance: maximum electrical resistivity at 20°C is strictly limited to 0.0287 Ω·mm²/m (equivalent to a minimum electrical conductivity of 60.0 percent IACS).",
+      "Grade 63401 in WP Range-2 temper (commonly used for high-current bus ducts and switchgear panels) must satisfy a maximum electrical resistivity at 20°C of 0.0321 Ω·mm²/m (equivalent to an electrical conductivity range of 0.0305 to 0.0321 Ω·mm²/m).",
+      "Grade 63401 in WP Range-1 temper must satisfy a maximum electrical resistivity at 20°C of 0.0325 Ω·mm²/m.",
+      "Finished annealed Grade 19501 (M) products must demonstrate: a) Ultimate Tensile Strength (UTS): minimum 60 MPa; b) Elongation: minimum 25 percent.",
+      "Finished artificially aged Grade 63401 (WP Range-2) products must demonstrate: a) 0.2% Proof Stress: minimum 170 MPa; b) Ultimate Tensile Strength (UTS): minimum 200 MPa; c) Elongation: minimum 10 percent over 5.65√So gauge length.",
+      "Bars, sheets, and plates must undergo bend testing: specimens must be bent through an angle of 90 degrees or 180 degrees (depending on thickness) around a mandrel of specified radius without showing any visual signs of cracking or surface tearing.",
+      "The finished products must be clean, smooth, straight, of uniform quality, and free from cracks, voids, laminations, seams, slivers, folds, or non-metallic inclusions that would compromise mechanical or electrical reliability."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "5082a3.pdf",
     "document_version_edition": "Second Revision, April 1998 (incorporating Amendment No. 1, Amendment No. 2, and Amendment No. 3, March 2022) [1]"
   }

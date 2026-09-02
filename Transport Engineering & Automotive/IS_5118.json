@@ -1,178 +1,123 @@
 {
-  "basic_identification": {
-    "is_number": "IS 5118 : 1969",
-    "full_title": "Specification for Constructional Details of Ventilation Trunking for Shipboard Use",
-    "sector_category": "Marine Engineering and Shipbuilding (approved by the Mechanical Engineering Division Council and finalized by the Shipbuilding Sectional Committee, EDC 56, of the Indian Standards Institution)",
-    "ics_code": "47.020.90",
+  "standard": {
+    "is_code": "IS 5118:1969",
+    "title": "Specification for Constructional Details of Ventilation Trunking for Shipboard Use",
+    "sector": "Marine Engineering and Shipbuilding",
+    "ics_code": [
+      "47.020.90"
+    ],
     "sectional_committee": {
       "name": "Shipbuilding Sectional Committee",
       "number": "EDC 56"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the constructional details, material thicknesses, joint designs, support arrangements, and painting/coating protocols for rectangular and circular ventilation trunking (ductwork) used on board ships to convey air to and from various spaces.",
+    "scope": "This standard specifies the constructional details, material thicknesses, joint designs, support arrangements, and painting/coating protocols for rectangular and circular ventilation trunking (ductwork) used on board ships to convey air to and from various spaces.",
+    "keywords": [
+      "IS 5118 : 1969",
+      "Ventilation Trunking",
+      "Shipboard Ventilation",
+      "Ductwork Construction",
+      "Vaned Turn Grids",
+      "Splitter Bends",
+      "Deflector Plate",
+      "GI Sheet Thickness",
+      "Aluminium Sheet Alternative",
+      "Spring Hanger",
+      "EDC 56",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the constructional details, material thicknesses, joint designs, support arrangements, and painting/coating protocols for rectangular and circular ventilation trunking (ductwork) used on board ships to convey air to and from various spaces.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 3"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1969 (Reaffirmed 2002, Reaffirmed 2012, and Reviewed & Reaffirmed in 2022)",
-    "year_first_published": "1969",
+  "version": {
+    "current_version": "First Edition, 1969 (Reaffirmed 2002, Reaffirmed 2012, and Reviewed & Reaffirmed in 2022)",
+    "first_publication_year": 1969,
+    "publication_year": 1969,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1969"
-      }
+      "First Edition, 1969"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 737 : 1965",
-      "title": "Specification for wrought aluminium and aluminium alloys, sheet and strip (for general engineering purposes) (revised)",
-      "category": "Material standard",
-      "location": "Clause 4.3",
-      "relevance": "Defines standard grades (NS4-1/2H or S1C-1/2H) required when aluminium sheets are used as an alternative to galvanized steel sheets."
-    },
-    {
-      "is_number": "IS 1363",
-      "title": "Specification for black hexagonal bolts (6 to 39 mm) with nuts and black hexagonal screws (6 to 24 mm)",
-      "category": "Dimensional standard",
-      "location": "Fig. 2 & Fig. 9",
-      "relevance": "Specifies standard M6 to M10 fasteners used for securing lateral joints, cover plates, and bell-mouths."
-    },
-    {
-      "is_number": "IS 2016",
-      "title": "Specification for plain washers (first revision)",
-      "category": "Dimensional standard",
-      "location": "Fig. 9",
-      "relevance": "Regulates MS galvanized plain washers and small punched washers used to bolt mesh to bell-mouth inlets/outlets."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Data Evaluation Standard",
-      "location": "Clause 0.5",
-      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 3276 : 1966",
-      "title": "Dimensions for Mechanical Turning Arrangements for Steel Cowl Ventilators",
-      "category": "Product Standard / Mechanical Dimensions",
-      "location": "Parallel EDC 56 standard",
-      "relevance": "A sister marine outfitting standard present in the notebook, specifying gear-driven turning systems for steel cowl ventilators."
-    },
-    {
-      "is_number": "IS 4010 : 1967",
-      "title": "Specification for Sounding Pipes",
-      "category": "Product Specification",
-      "location": "Parallel EDC 56 standard",
-      "relevance": "A sister marine piping outfitting standard present in the notebook, specifying striker plates and deck fittings for sounding tanks."
-    },
-    {
-      "is_number": "IS 10527 : 1983",
-      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-      "category": "System standard",
-      "location": "Parallel marine engineering standard",
-      "relevance": "A fellow transport and marine engineering standard present in the notebook, specifying nominal starting and auxiliary compressed air pressures."
-    },
-    {
-      "is_number": "IS 15052 : 2002",
-      "title": "Shipbuilding — Diesel Propulsion System Responsibility — Requirements",
-      "category": "System standard",
-      "location": "Parallel marine propulsion standard",
-      "relevance": "A sister marine engineering standard present in the notebook, specifying unified systems responsibility in engine-gearing-propeller configurations."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in this notebook, regulating support framing, weld joints, and connection details on shipboard structures."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification / Technical Construction Details (Marine Outfitting / Ventilation)",
-    "certification_status": "Voluntary Engineering Design and Material Standard. Since IS 5118 is an outfitting design standard rather than a safety-critical consumer product, it is certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Certification Mark). However, compliance with its structural designs, material thickness categories, air-tight joints, vaned grids, and support brackets is universally mandated inside all national public, defense, Indian Navy, port authority, and commercial shipyard procurement contracts to ensure air-tightness and corrosion protection.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Duct Section Restrictions",
-        "detail": "On board ships, trunks of rectangular sections are preferred for easier manufacture and space utilization. To prevent flow resistance and whistling, the ratio of maximum to minimum axes of any rectangular duct must be as near to one as possible and must not exceed a limit of 4.",
-        "clause_reference": "Clause 2.1"
-      },
-      {
-        "requirement_type": "Longitudinal Joint Sealing (Fig. 1)",
-        "detail": "For duct materials up to 2 mm thickness, longitudinal joints are specified as: a) Single lock when width is normal; b) Double lock when width is abnormal (Type A & B); or c) Spot-welded/riveted joints with sealing compound to guarantee air-tightness.",
-        "clause_reference": "Fig. 1"
-      },
-      {
-        "requirement_type": "90° Vaned Turn Grids (Table 1)",
-        "detail": "Vane turn grids are fitted on large ducts (over 300 mm width) to smooth air flow. The duct flange must be set accurately to half the turn angle (45° for a 90° turn). Table 1 unifies dimensions for trunk widths (306.8 to over 762 mm), spacing of vanes S (38 to 70 mm), width of channel W (76 to 152 mm), and number of vanes N (7 to 14, e.g. B=306.8 mm requires N=10; B=406.4 mm requires N=14).",
-        "clause_reference": "Clause 2.6.3, 2.6.4 & Table 1"
-      },
-      {
-        "requirement_type": "Vaned Turn Cover Plate watertightness",
-        "detail": "When a vaned turn is fitted in watertight trunking, the top cover plate must be fitted with a rubber gasket and fasteners must be suitably spaced to maintain watertight sealing.",
-        "clause_reference": "Fig. 5 Note 1"
-      },
-      {
-        "requirement_type": "Change of Section Splitters (Fig. 8)",
-        "detail": "For diverging section pieces (expansion ducts), the slope angle θ must be generally 7° (slope 1 in 8), capped at a max slope of 1 in 4 where angles in excess of 15° are unavoidable; equally spaced splitters with not more than 15° included angle must be fitted. For converging sections (reducers), the angle α is generally 16° (slope 1 in 4), capped at a max slope of 1 in 2 where angles in excess of 30° are unavoidable, utilizing splitters with not more than 30° included angle.",
-        "clause_reference": "Fig. 8"
-      },
-      {
-        "requirement_type": "Branch Take-Offs & Deflector Plate",
-        "detail": "As far as possible, branch ducts should match the full depth of the main trunk. Where the main trunk section remains constant, a 12 mm long deflector plate set at an angle of 45° must be fitted at the branch entrance.",
-        "clause_reference": "Fig. 6 Note & Fig. 7"
-      },
-      {
-        "requirement_type": "Aluminium Sheets Alternative (Clause 4.3)",
-        "detail": "When aluminium is used as an alternative to galvanized steel sheets, the alloy must be NS4-1/2H or S1C-1/2H conforming to IS 737. Crucially, the sheet must be two-gauge heavier than the corresponding mild steel sheets and must be reinforced.",
-        "clause_reference": "Clause 4.3 & 5.2"
-      },
-      {
-        "requirement_type": "Supporting Brackets & Spacing (Fig. 10)",
-        "detail": "Heavy ducts in engine rooms must be supported by steel angles (25x25x3 to 40x40x6 mm) spaced about 2 meters apart. Accommodation ducts must be supported by steel flats bolted with 6 mm bolts, spaced about 2 meters apart.",
-        "clause_reference": "Clause 2.8 & Fig. 10"
-      },
-      {
-        "requirement_type": "Spring Hangers (Fig. 11)",
-        "detail": "Where spring hangers are used, they must comply with standard spring properties: 9 coils, 14 mm internal diameter, 3 mm wire diameter, 63 mm length, and unloaded stiffness of 9.42 kg/cm² spaced approx. 2 meters apart.",
-        "clause_reference": "Clause 2.8.1 & Fig. 11"
-      },
-      {
-        "requirement_type": "Duct Material Thickness Categories (Clause 5.1)",
-        "detail": "Defines three structural thickness categories depending on pressure/location:\na) Category 1 (Standard): up to 300 mm is 1 mm GI sheet; 300 to 500 mm is 1.5 mm GI; over 500 mm is 2 mm GI;\nb) Category 2: up to 500 mm is 2 mm GI; 500 to 750 mm is 3 mm MS; over 750 mm is 4 mm MS;\nc) Category 3 (Engine Room/Heavy plate): Any size is 4 to 8 mm MS depending on location.",
-        "clause_reference": "Clause 5.1 & Table"
-      },
-      {
-        "requirement_type": "Interior and Exterior Painting (Clause 6)",
-        "detail": "The interior surface of all aluminium and galvanized steel trunks must remain smooth and unpainted. Un-galvanized structural steel trunk interiors must be coated with two coats of red lead paint and one coat of aluminium hold paint. Mild steel exteriors require two coats of red lead paint, while galvanized exteriors require two coats of zinc chromate primer.",
-        "clause_reference": "Clause 6.1, 6.2 & 6.3"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 5118 : 1969",
-    "Ventilation Trunking",
-    "Shipboard Ventilation",
-    "Ductwork Construction",
-    "Vaned Turn Grids",
-    "Splitter Bends",
-    "Deflector Plate",
-    "GI Sheet Thickness",
-    "Aluminium Sheet Alternative",
-    "Spring Hanger",
-    "EDC 56",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 737 : 1965",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1363",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2016",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3276 : 1966",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4010 : 1967",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10527 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15052 : 2002",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 5118 : 1969 (Reaffirmed 2022) is the national Indian Standard specification governing constructional details of ventilation trunking (ductwork) for shipboard use. Approved by the Mechanical Engineering Division Council and finalized under the Shipbuilding Sectional Committee (EDC 56), this standard defines the structural, mechanical, and material criteria for marine ventilation systems. It outlines standard thickness specifications for steel and aluminium alloy sheets (Class 1, 2, and 3 limits), regulates longitudinal joints for sheets up to 2 mm thickness (single and double lock designs), and unifies dimensions for 90° vaned turn grids used to minimize flow resistance in ducts over 300 mm. Additionally, it specifies tight design limits—including a maximum 4:1 axis ratio for rectangular ducts, strict diverging/converging angles and splitter positions for change-of-section pieces, a 12 mm deflector set at 45° for branch take-offs, and standardized spring hangers spaced 2 meters apart to withstand marine wave vibrations."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Engineering Design and Material Standard. Since IS 5118 is an outfitting design standard rather than a safety-critical consumer product, it is certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Certification Mark). However, compliance with its structural designs, material thickness categories, air-tight joints, vaned grids, and support brackets is universally mandated inside all national public, defense, Indian Navy, port authority, and commercial shipyard procurement contracts to ensure air-tightness and corrosion protection.",
+    "requirements": [
+      "On board ships, trunks of rectangular sections are preferred for easier manufacture and space utilization. To prevent flow resistance and whistling, the ratio of maximum to minimum axes of any rectangular duct must be as near to one as possible and must not exceed a limit of 4.",
+      "For duct materials up to 2 mm thickness, longitudinal joints are specified as: a) Single lock when width is normal; b) Double lock when width is abnormal (Type A & B); or c) Spot-welded/riveted joints with sealing compound to guarantee air-tightness.",
+      "Vane turn grids are fitted on large ducts (over 300 mm width) to smooth air flow. The duct flange must be set accurately to half the turn angle (45° for a 90° turn). Table 1 unifies dimensions for trunk widths (306.8 to over 762 mm), spacing of vanes S (38 to 70 mm), width of channel W (76 to 152 mm), and number of vanes N (7 to 14, e.g. B=306.8 mm requires N=10; B=406.4 mm requires N=14).",
+      "When a vaned turn is fitted in watertight trunking, the top cover plate must be fitted with a rubber gasket and fasteners must be suitably spaced to maintain watertight sealing.",
+      "For diverging section pieces (expansion ducts), the slope angle θ must be generally 7° (slope 1 in 8), capped at a max slope of 1 in 4 where angles in excess of 15° are unavoidable; equally spaced splitters with not more than 15° included angle must be fitted. For converging sections (reducers), the angle α is generally 16° (slope 1 in 4), capped at a max slope of 1 in 2 where angles in excess of 30° are unavoidable, utilizing splitters with not more than 30° included angle.",
+      "As far as possible, branch ducts should match the full depth of the main trunk. Where the main trunk section remains constant, a 12 mm long deflector plate set at an angle of 45° must be fitted at the branch entrance.",
+      "When aluminium is used as an alternative to galvanized steel sheets, the alloy must be NS4-1/2H or S1C-1/2H conforming to IS 737. Crucially, the sheet must be two-gauge heavier than the corresponding mild steel sheets and must be reinforced.",
+      "Heavy ducts in engine rooms must be supported by steel angles (25x25x3 to 40x40x6 mm) spaced about 2 meters apart. Accommodation ducts must be supported by steel flats bolted with 6 mm bolts, spaced about 2 meters apart.",
+      "Where spring hangers are used, they must comply with standard spring properties: 9 coils, 14 mm internal diameter, 3 mm wire diameter, 63 mm length, and unloaded stiffness of 9.42 kg/cm² spaced approx. 2 meters apart.",
+      "Defines three structural thickness categories depending on pressure/location:\na) Category 1 (Standard): up to 300 mm is 1 mm GI sheet; 300 to 500 mm is 1.5 mm GI; over 500 mm is 2 mm GI;\nb) Category 2: up to 500 mm is 2 mm GI; 500 to 750 mm is 3 mm MS; over 750 mm is 4 mm MS;\nc) Category 3 (Engine Room/Heavy plate): Any size is 4 to 8 mm MS depending on location.",
+      "The interior surface of all aluminium and galvanized steel trunks must remain smooth and unpainted. Un-galvanized structural steel trunk interiors must be coated with two coats of red lead paint and one coat of aluminium hold paint. Mild steel exteriors require two coats of red lead paint, while galvanized exteriors require two coats of zinc chromate primer."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "5118_1969_reff2022.pdf",
     "document_version_edition": "First Edition, April 1969 (Reaffirmed 2022)"
   }

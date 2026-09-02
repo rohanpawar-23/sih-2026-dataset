@@ -1,183 +1,128 @@
 {
-  "basic_identification": {
-    "is_number": "IS 7092 (Part 2) : 1987",
-    "full_title": "Aluminium Alloy Tube for Irrigation Purposes — Specification, Part 2: Extruded Tube (Second Revision)",
-    "sector_category": "Metallurgical Engineering / Light Metals and their Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Light Metals and their Alloys Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "23.040.15; 65.060.35",
+  "standard": {
+    "is_code": "IS 7092 (Part 2):1987",
+    "title": "Aluminium Alloy Tube for Irrigation Purposes — Specification, Part 2: Extruded Tube (Second Revision)",
+    "sector": "Metallurgical Engineering / Light Metals and their Alloys",
+    "ics_code": [
+      "23.040.15",
+      "65.060.35"
+    ],
     "sectional_committee": {
       "name": "Light Metals and their Alloys Sectional Committee",
       "number": "MTD 7"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the material composition, mechanical properties, dimensions, tolerances, and testing schedules for extruded aluminium alloy tubes designed for agricultural and sprinkler irrigation networks. It covers tubes suitable for a maximum continuous working pressure of 1 000 kN/m² (10 kgf/cm²) for nominal outer diameters up to and including 200 mm.",
+    "scope": "This standard specifies the material composition, mechanical properties, dimensions, tolerances, and testing schedules for extruded aluminium alloy tubes designed for agricultural and sprinkler irrigation networks. It covers tubes suitable for a maximum continuous working pressure of 1 000 kN/m² (10 kgf/cm²) for nominal outer diameters up to and including 200 mm.",
+    "keywords": [
+      "IS 7092 (Part 2) : 1987",
+      "Aluminium Alloy Tube",
+      "Irrigation Tube",
+      "Extruded Tube",
+      "Sprinkler Irrigation",
+      "63400-WP Alloy",
+      "64430-WP Alloy",
+      "Hydrostatic Pressure",
+      "Tensile Strength",
+      "0.2% Proof Strength",
+      "Drift Expanding Test",
+      "MTD 7",
+      "Aluminium QCO 2026",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the material composition, mechanical properties, dimensions, tolerances, and testing schedules for extruded aluminium alloy tubes designed for agricultural and sprinkler irrigation networks. It covers tubes suitable for a maximum continuous working pressure of 1 000 kN/m² (10 kgf/cm²) for nominal outer diameters up to and including 200 mm.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, 1987 (incorporating Amendment No. 1, December 1992 and Amendment No. 2, October 1995; Reaffirmed in 2021)",
-    "year_first_published": "1974",
+  "version": {
+    "current_version": "Second Revision, 1987 (incorporating Amendment No. 1, December 1992 and Amendment No. 2, October 1995; Reaffirmed in 2021)",
+    "first_publication_year": 1974,
+    "publication_year": 1987,
+    "revision": "Second Revision (updated extruded tube dimensions, thickness tolerances, and mechanical property parameters)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1974"
-      },
-      {
-        "edition": "First Revision",
-        "year": "1979"
-      },
-      {
-        "edition": "Second Revision (updated extruded tube dimensions, thickness tolerances, and mechanical property parameters)",
-        "year": "1987"
-      }
+      "First Edition, 1974",
+      "First Revision, 1979",
+      "Second Revision (updated extruded tube dimensions, thickness tolerances, and mechanical property parameters), 1987"
     ],
-    "supersedes": "IS 7092 (Part 2) : 1979",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 7092 (Part 2) : 1979"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "December 1992",
-        "description": "Modifies basic dimensional tolerances, tube sizes, and structural parameters under Table 2."
+        "amendment_number": "Amendment 1",
+        "date": "1992-12",
+        "summary": "Modifies basic dimensional tolerances, tube sizes, and structural parameters under Table 2."
       },
       {
-        "amendment_number": "Amendment No. 2",
-        "date": "October 1995",
-        "description": "Substitutes the mathematical tolerance formula in Table 2, Column 3. It replaces the legacy multiplication-based factor '1/2 (AA*BB) . (d)^2' with the corrected addition-based factor '1/2 (AA+BB) . (d)^2' (where d is the nominal wall thickness of the extruded tube) to rectify an algebraic error in the eccentricity calculation."
+        "amendment_number": "Amendment 2",
+        "date": "1995-10",
+        "summary": "Substitutes the mathematical tolerance formula in Table 2, Column 3. It replaces the legacy multiplication-based factor '1/2 (AA*BB) . (d)^2' with the corrected addition-based factor '1/2 (AA+BB) . (d)^2' (where d is the nominal wall thickness of the extruded tube) to rectify an algebraic error in the eccentricity calculation."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 2657",
-      "title": "Method for tensile testing of wrought aluminium and aluminium alloys",
-      "category": "Test method",
-      "location": "Clause 6.2 / Laboratory scope",
-      "relevance": "Prescribes standard tensile testing procedures to determine the ultimate tensile strength (UTS) and yield characteristics of the extruded tubes."
+      "target_is_code": "IS 2657",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 5082 : 1998",
-      "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods, Tubes, Sections, Plates and Sheets for Electrical Applications",
-      "category": "Allied / Reference standard",
-      "location": "Foreword",
-      "relevance": "Directly cross-referenced as a primary material and testing specification for electrical and general engineering wrought aluminium, present in the notebook."
+      "target_is_code": "IS 5082 : 1998",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Governs standard mathematical rounding off of physical, mechanical, and analytical testing figures to determine code conformity."
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7092 (Part 1) : 1992",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1285 : 2002",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 733 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5484 : 1997",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2062 : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 7092 (Part 1) : 1992",
-      "title": "Aluminium Alloy Tubes for Irrigation Purposes — Specification, Part 1: Welded Tubes",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "The companion sister standard regulating welded (electric resistance welded) aluminium irrigation pipes, sharing hydrostatic and drift expanding tests, present in the notebook."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Aluminium and Aluminium Alloy Products (Quality Control) Order",
+      "year": 2016
     },
-    {
-      "is_number": "IS 1285 : 2002",
-      "title": "Wrought Aluminium and Aluminium Alloy Extruded Round Tubes and Hollow Sections for General Engineering Purposes",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "The master national engineering specification for extruded hollow profiles, sharing identical MTD 7 metallurgical controls, present in the notebook."
-    },
-    {
-      "is_number": "IS 733 : 1983",
-      "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods and Sections for General Engineering Purposes",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "National standard regulating extruded sections and engineering rods, present in the notebook."
-    },
-    {
-      "is_number": "IS 5484 : 1997",
-      "title": "EC Grade Aluminium Rod produced by Continuous Casting and Rolling",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "National metallurgical standard for continuously cast aluminum rods, present in the notebook."
-    },
-    {
-      "is_number": "IS 2062 : 2026",
-      "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Normative reference",
-      "location": "Parallel metal group",
-      "relevance": "Master structural steel specification sharing mechanical property and ladle chemistry variation principles, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Products / Irrigation Hardware)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Aluminium and Aluminium Alloy Products (Quality Control) Order' (QCO) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all Extruded Aluminium Alloy Tubes for Irrigation Purposes must bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or distributing uncertified irrigation tubes in India is a punishable offense under the BIS Act, 2016. Micro and small scale units are granted specific delayed compliance phases, and export shipments are exempt. Precious metal hallmarking is completely inapplicable to industrial alloy tubes.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Aluminium and Aluminium Alloy Products (Quality Control) Order' (QCO) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all Extruded Aluminium Alloy Tubes for Irrigation Purposes must bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or distributing uncertified irrigation tubes in India is a punishable offense under the BIS Act, 2016. Micro and small scale units are granted specific delayed compliance phases, and export shipments are exempt. Precious metal hallmarking is completely inapplicable to industrial alloy tubes.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every extruded tube must be legibly and indelibly marked on its outer surface with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 7092 Part 2).",
-        "clause_reference": "Marking clauses"
-      },
-      {
-        "requirement_type": "Maximum Hydrostatic Working Pressure",
-        "detail": "The extruded tubes are specified to safely withstand a maximum continuous hydrostatic working pressure of 1 000 kN/m² (10 kgf/cm²) during field operations.",
-        "clause_reference": "Clause 1.1"
-      },
-      {
-        "requirement_type": "Permitted Alloys and Temper",
-        "detail": "Tubes must be manufactured from designated corrosion-resistant wrought aluminium alloys (typically unified grades 63400-WP or 64430-WP, formerly HE9-WP or HE30-WP) to resist both dynamic water pressure and corrosive agricultural soils.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Chemical Composition Control",
-        "detail": "The ladle analysis of the alloy must be strictly controlled (limiting iron, silicon, copper, manganese, zinc, titanium, and magnesium impurities) to guarantee correct material temper, strength, and corrosion-resistance behavior.",
-        "clause_reference": "Clause 6.1"
-      },
-      {
-        "requirement_type": "Ultimate Tensile Strength (UTS)",
-        "detail": "Specimens cut from finished extruded tubes must undergo tensile testing per IS 2657 to demonstrate ultimate tensile strength (UTS) values matching the specified temper of the selected alloy.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "0.2% Proof Strength & Elongation",
-        "detail": "Tubes must demonstrate high structural yield behavior, satisfying specified 0.2% proof strength boundaries and exhibiting a mandatory minimum elongation percentage over a standard 50 mm gauge length to prevent structural cracking.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "Ductile Drift Expanding Test",
-        "detail": "The extruded tube must demonstrate high ductility under localized mechanical expansion. A tapered metal drift must be driven into the end of a conditioned specimen to expand the nominal outside diameter by a specified percentage without exhibiting any signs of cracking or splitting.",
-        "clause_reference": "Clause 6.3"
-      },
-      {
-        "requirement_type": "hydrostatic Leak-Proofness test",
-        "detail": "Tubes must undergo hydrostatic pressure testing at the factory, showing zero water weeping, joint leaks, pinholes, or permanent physical swelling under test pressure.",
-        "clause_reference": "Clause 5.3.2"
-      },
-      {
-        "requirement_type": "Eccentricity & Sizing Tolerance (Table 2 - Amended)",
-        "detail": "Extruded tube diameters and wall thicknesses must satisfy the strict limits of Table 2. Under Amendment No. 2, the eccentricity tolerance of the tube walls is calculated using the corrected mathematical formula: 1/2 (AA+BB) . (d)^2 (where d is the nominal wall thickness).",
-        "clause_reference": "Table 2 (Sl No. col 3) (Amended)",
-        "page_reference": "Page 1 of Amendment No. 2"
-      }
+      "Every extruded tube must be legibly and indelibly marked on its outer surface with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 7092 Part 2).",
+      "The extruded tubes are specified to safely withstand a maximum continuous hydrostatic working pressure of 1 000 kN/m² (10 kgf/cm²) during field operations.",
+      "Tubes must be manufactured from designated corrosion-resistant wrought aluminium alloys (typically unified grades 63400-WP or 64430-WP, formerly HE9-WP or HE30-WP) to resist both dynamic water pressure and corrosive agricultural soils.",
+      "The ladle analysis of the alloy must be strictly controlled (limiting iron, silicon, copper, manganese, zinc, titanium, and magnesium impurities) to guarantee correct material temper, strength, and corrosion-resistance behavior.",
+      "Specimens cut from finished extruded tubes must undergo tensile testing per IS 2657 to demonstrate ultimate tensile strength (UTS) values matching the specified temper of the selected alloy.",
+      "Tubes must demonstrate high structural yield behavior, satisfying specified 0.2% proof strength boundaries and exhibiting a mandatory minimum elongation percentage over a standard 50 mm gauge length to prevent structural cracking.",
+      "The extruded tube must demonstrate high ductility under localized mechanical expansion. A tapered metal drift must be driven into the end of a conditioned specimen to expand the nominal outside diameter by a specified percentage without exhibiting any signs of cracking or splitting.",
+      "Tubes must undergo hydrostatic pressure testing at the factory, showing zero water weeping, joint leaks, pinholes, or permanent physical swelling under test pressure.",
+      "Extruded tube diameters and wall thicknesses must satisfy the strict limits of Table 2. Under Amendment No. 2, the eccentricity tolerance of the tube walls is calculated using the corrected mathematical formula: 1/2 (AA+BB) . (d)^2 (where d is the nominal wall thickness)."
     ]
   },
-  "keywords": [
-    "IS 7092 (Part 2) : 1987",
-    "Aluminium Alloy Tube",
-    "Irrigation Tube",
-    "Extruded Tube",
-    "Sprinkler Irrigation",
-    "63400-WP Alloy",
-    "64430-WP Alloy",
-    "Hydrostatic Pressure",
-    "Tensile Strength",
-    "0.2% Proof Strength",
-    "Drift Expanding Test",
-    "MTD 7",
-    "Aluminium QCO 2026",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 7092 (Part 2) : 1987 is the mandatory national Indian Standard specification governing extruded aluminium alloy tubes utilized for agricultural and sprinkler irrigation systems. Under the statutory national Aluminium Quality Control Order (QCO), all such extruded irrigation pipes supplied to the Indian market must bear the BIS Standard Mark (ISI Mark) to ensure safety. The standard regulates the metallurgy of corrosion-resistant, high-tensile wrought aluminium alloys (such as 63400-WP or 64430-WP) and limits the maximum working line pressure to 1 000 kN/m² (10 kgf/cm²) for nominal outer diameters up to 200 mm. It mandates rigorous physical and mechanical tests—including ultimate tensile strength, yield behavior (0.2% proof strength), a drift-expanding test to verify ductility, and a 100% leak-proof hydrostatic pressure test. Amendment No. 2 (October 1995) establishes the corrected mathematical eccentricity tolerance formula to eliminate structurally weak or unevenly extruded walls that would fail in the field under pressure."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "7092_2a2.pdf",
     "document_version_edition": "Second Revision, 1987 (incorporating Amendment No. 1, December 1992 and Amendment No. 2, October 1995; Reaffirmed 2021)"
   }

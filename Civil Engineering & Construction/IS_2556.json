@@ -1,246 +1,122 @@
 {
-  "basic_identification": {
-    "is_number": "IS 2556 (Part 15) : 2024",
-    "full_title": "Vitreous China Sanitary Appliances — Specification Part 15: Specific Requirements of Universal Water Closets (Third Revision) (काँचेय चीनी मिट्टी के स्वच्छता उपकरण — विशिष्टि भाग 15: यूनिवर्सल वॉटर क्लोजेट्स की विशिष्ट अपेक्षाएं (तीसरा पुनरीक्षण))",
-    "sector_category": "Civil Engineering / Sanitary Appliances and Water Fittings (approved by the Civil Engineering Division Council and finalized by the Sanitary Appliances and Accessories Subcommittee, CED 3:1, of the Bureau of Indian Standards)",
-    "ics_code": "91.140.70",
+  "standard": {
+    "is_code": "IS 2556 (Part 15):2024",
+    "title": "Vitreous China Sanitary Appliances — Specification Part 15: Specific Requirements of Universal Water Closets (Third Revision) (काँचेय चीनी मिट्टी के स्वच्छता उपकरण — विशिष्टि भाग 15: यूनिवर्सल वॉटर क्लोजेट्स की विशिष्ट अपेक्षाएं (तीसरा पुनरीक्षण))",
+    "sector": "Civil Engineering / Sanitary Appliances and Water Fittings",
+    "ics_code": [
+      "91.140.70"
+    ],
     "sectional_committee": {
       "name": "Sanitary Appliances and Water Fittings Sectional Committee",
       "number": "CED 3"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the patterns, raw materials, construction, design shapes, standard dimensions, surface tolerances, physical-mechanical testing limits, and marking requirements for universal water closets (commercially known as Anglo-Indian combination closets) made of high-quality vitreous china.",
+    "scope": "This standard prescribes the patterns, raw materials, construction, design shapes, standard dimensions, surface tolerances, physical-mechanical testing limits, and marking requirements for universal water closets (commercially known as Anglo-Indian combination closets) made of high-quality vitreous china.",
+    "keywords": [
+      "IS 2556 (Part 15) : 2024",
+      "Vitreous China Sanitary Appliances",
+      "Universal Water Closet",
+      "Anglo-Indian Commode",
+      "Anti-Slip Footrests",
+      "Water Absorption 0.5 percent",
+      "Crazing Resistance Autoclave",
+      "Sewer Gas Water Seal",
+      "CED 3:1",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the patterns, raw materials, construction, design shapes, standard dimensions, surface tolerances, physical-mechanical testing limits, and marking requirements for universal water closets (commercially known as Anglo-Indian combination closets) made of high-quality vitreous china.",
-    "clause_number": "Clause 1.1 / Section 1",
-    "page_number": "Page 3 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Third Revision, May 2024",
-    "year_first_published": "1974 (first published as IS 2556 (Part 15) : 1974, updated to its second revision in 2004, and finalized as the third revision in May 2024)",
+  "version": {
+    "current_version": "Third Revision, May 2024",
+    "first_publication_year": 1974,
+    "publication_year": 2024,
+    "revision": "Third Revision (IS 2556 (Part 15) : 2024)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 2556 : Part 15 : 1974)",
-        "year": "1974"
-      },
-      {
-        "edition": "Second Revision (IS 2556 : Part 15 : 2004)",
-        "year": "2004"
-      },
-      {
-        "edition": "Third Revision (IS 2556 (Part 15) : 2024)",
-        "year": "2024"
-      }
+      "First Edition (IS 2556 : Part 15 : 1974), 1974",
+      "Second Revision (IS 2556 : Part 15 : 2004), 2004",
+      "Third Revision (IS 2556 (Part 15) : 2024), 2024"
     ],
-    "supersedes": "IS 2556 (Part 15) : 2004",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this newly published 2024 copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2556 (Part 1) : 2021",
-      "title": "Vitreous sanitary appliances (vitreous china) — Specification Part 1: General requirements",
-      "category": "Product Specification",
-      "relevance": "Specifies fundamental materials criteria, maximum 0.5% water absorption limit, high-pressure autoclave crazing tests, and visual defect tolerances."
-    },
-    {
-      "is_number": "IS 2548 (Part 1 & Part 2)",
-      "title": "Plastic seats and covers for water closets — Specification",
-      "category": "Product Specification",
-      "relevance": "Specifies physical sizing, plastic materials (thermosetting and thermoplastic), and hinges used to secure seats on pedestal closet pans."
-    },
-    {
-      "is_number": "IS 774 : 1984",
-      "title": "Flushing cisterns for water closets and urinals (other than plastic cisterns)",
-      "category": "Product Specification",
-      "relevance": "Specifies discharge volume, siphon kinetics, and flush efficiency of dual-flush or single-flush ceramic cisterns."
-    },
-    {
-      "is_number": "IS 7231",
-      "title": "Plastic flushing cisterns for water closets and urinals — Specification",
-      "category": "Product Specification",
-      "relevance": "Regulates high-durability polymer dual-flush cisterns extensively installed in residential toilet units."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated test dimensions, flush volumes, and water seal depths."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 2064 : 1993",
-      "title": "Selection, Installation and Maintenance of Sanitary Appliances — Code of Practice",
-      "category": "Testing standard",
-      "location": "CED 3",
-      "relevance": "Specifies standard heights (e.g., European WC pedestal rim at 400 mm), spacing, watertight joints, and on-site maintenance."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification",
-      "category": "Water quality standard",
-      "location": "Food and Agriculture Department (FAD)",
-      "relevance": "Regulates water quality, ensuring that fresh water supplied to wash basins and flushing cisterns remains free of scaling mineral residues."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "location": "Chemical Department / CHD 08",
-      "relevance": "Directs safety audits of industrial rest facilities, ensuring clean sanitation, anti-slip floor gradients, and secure handrails for workers."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, walkway platforms, and vertical shafts carrying soil and waste stacks."
-    }
-  ],
-  "allied_parts_is_2556_series": [
-    {
-      "is_number": "IS 2556 (Part 1)",
-      "title": "General requirements for vitreous sanitary appliances"
-    },
-    {
-      "is_number": "IS 2556 (Part 2)",
-      "title": "Specific requirements of washdown water closets"
-    },
-    {
-      "is_number": "IS 2556 (Part 3)",
-      "title": "Specific requirements of squatting pans"
-    },
-    {
-      "is_number": "IS 2556 (Part 4)",
-      "title": "Specific requirements of wash basins"
-    },
-    {
-      "is_number": "IS 2556 (Part 5)",
-      "title": "Specific requirements of laboratory sinks"
-    },
-    {
-      "is_number": "IS 2556 (Part 6)",
-      "title": "Specific requirements of urinals"
-    },
-    {
-      "is_number": "IS 2556 (Part 7)",
-      "title": "Specific requirements of half-round channels"
-    },
-    {
-      "is_number": "IS 2556 (Part 8)",
-      "title": "Specific requirements of close-coupled and one-piece pedestal washdown and syphonic water closets"
-    },
-    {
-      "is_number": "IS 2556 (Part 14)",
-      "title": "Specific requirements of integrated squatting pans"
-    },
-    {
-      "is_number": "IS 2556 (Part 16)",
-      "title": "Specific requirements of washdown wall mounted water closets"
-    }
-  ],
-  "allied_subcommittee_representatives": [
-    {
-      "name": "Shri B.S.A. Narayan",
-      "organization": "In Personal Capacity (Andheri, Mumbai)"
-    },
-    {
-      "name": "Shri T.R. Rane",
-      "organization": "Branch, Integrated HQ of MoD (Army), New Delhi"
-    },
-    {
-      "name": "Shri Arunkumar S. (Scientist 'E'/Director)",
-      "organization": "Civil Engineering, BIS (ex-officio)"
-    },
-    {
-      "name": "Shri Rajesh Choudhary (Scientist 'B'/Assistant Director)",
-      "organization": "Civil Engineering, BIS (Member Secretary)"
-    },
-    {
-      "name": "Shri Shubham Agrawal (Scientist 'B'/Assistant Director)",
-      "organization": "Civil Engineering, BIS (Member Secretary)"
-    },
-    {
-      "name": "Col N. Chakraborty",
-      "organization": "Military Engineer Services, Engineer-in-Chief's Branch, Integrated HQ of MoD (Army), New Delhi"
-    },
-    {
-      "name": "Shri Sandesh Duwawale (Alternate)",
-      "organization": "Karnataka Water Supply and Drainage Board, Bengaluru"
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Civil Engineering Department / Sanitaryware)",
-    "certification_status": "Voluntary Product Specification under the Bureau of Indian Standards (BIS). However, manufacturers are highly encouraged to apply for a BIS license to print the prestigious physical 'ISI Mark' standard mark on the vitreous body of the water closet and its packaging box as a certified guarantee of chemical, mechanical, and thermal durability. Compliance with IS 2556 is strictly demanded in Public Works Department (PWD) contracts, municipal corporation building bylaws, and commercial construction projects across India.",
-    "requirements": [
+    "supersedes": [
+      "IS 2556 (Part 15) : 2004"
+    ],
+    "amendments": [
       {
-        "requirement_type": "SDG Compliance Alignment",
-        "detail": "Under this 2024 revision, the standard explicitly aligns its technical and sanitary ware specifications with United Nations Sustainable Development Goals (SDGs), supporting SDG 6 (Clean Water and Sanitation), SDG 11 (Sustainable Cities and Communities), and SDG 12 (Responsible Consumption and Production).",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "The Universal Combination Design",
-        "detail": "Universal water closets (commonly known as Anglo-Indian closets) must feature a dual-use design, allowing the toilet to be used as a sitting pedestal (EWC) or as a squatting pan (Indian style) using integrated raised non-slip footrests cast into the rim of the pan.",
-        "clause_reference": "Construction Requirements"
-      },
-      {
-        "requirement_type": "Fired Body Water Absorption",
-        "detail": "The fired body of the vitreous china sanitary appliance must be highly dense and vitrified, having an average water absorption limit not exceeding 0.5 percent of its dry mass, when evaluated using standard boiling and dry-weighing tests to prevent microbial ingress and odors.",
-        "clause_reference": "IS 2556 (Part 1), Clause 5.2"
-      },
-      {
-        "requirement_type": "High-Pressure Crazing Resistance",
-        "detail": "The glaze must show zero cracks (crazing) when subjected to an autoclave steam-curing test at high pressure, guaranteeing that thermal expansion does not damage the glossy, impervious protective finish.",
-        "clause_reference": "IS 2556 (Part 1), Clause 5.3"
-      },
-      {
-        "requirement_type": "Anti-Slip Footrest Pattern",
-        "detail": "The integrated footrests on the universal WC rim must feature a highly textured or chequered non-slip pattern, designed to prevent foot slipping under wet conditions.",
-        "clause_reference": "Construction Requirements"
-      },
-      {
-        "requirement_type": "Trapped Water Seal Depth",
-        "detail": "Universal closets fitted with P-trap or S-trap configurations must maintain an integrated water seal depth of not less than 50 mm, serving as a gas-tight barrier against toxic sewer vapors.",
-        "clause_reference": "Clause 8.1 / Dimensions"
-      },
-      {
-        "requirement_type": "Flushing Performance Sawdust Test",
-        "detail": "The closet must clear sawdust completely from the entire interior flushing rim area within a single flush cycle, ensuring a clean and hygienic pan surface.",
-        "clause_reference": "Performance Tests"
-      },
-      {
-        "requirement_type": "Dual-Flush Siphonic Efficiency",
-        "detail": "Must be fully compatible with dual-flush siphonic or washdown systems, clearing toilet paper and standard artificial test solids using a water-saving flush volume of 6/3 litres or 4/2 litres.",
-        "clause_reference": "Performance Tests"
-      },
-      {
-        "requirement_type": "Water Efficiency Labelling",
-        "detail": "If the manufacturer opts for additional water efficiency requirements, the product must be evaluated, rated, and marked with a standard water efficiency rating and labelling system.",
-        "clause_reference": "Foreword & Clause 10"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Observed or calculated test dimensions, flush volumes, and clearances must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this newly published 2024 copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 2556 (Part 15) : 2024",
-    "Vitreous China Sanitary Appliances",
-    "Universal Water Closet",
-    "Anglo-Indian Commode",
-    "Anti-Slip Footrests",
-    "Water Absorption 0.5 percent",
-    "Crazing Resistance Autoclave",
-    "Sewer Gas Water Seal",
-    "CED 3:1",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2556 (Part 1) : 2021",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2548 (Part 1 & Part 2)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 774 : 1984",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7231",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2064 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 2556 (Part 15) : 2024 (Third Revision) is the national Indian Standard specification establishing technical, design, and performance requirements for universal water closets (commonly known as Anglo-Indian combination closets) made of vitreous china. Formulated by the Sanitary Appliances and Accessories Subcommittee (CED 3:1) and published in May 2024, the standard unifies requirements for dual-use toilets that combine a sitting pedestal with integrated raised, anti-slip footrests for squatting. To support public health, sustainable water usage, and quality assurance, the standard enforces strict vitreous china physical testing (limiting water absorption to 0.5% and requiring crazing resistance), a minimum 50 mm water trap seal depth, highly efficient water-saving dual flushing limits (6/3 litres), and direct alignment with United Nations SDGs (SDG 6, SDG 11, and SDG 12)."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification under the Bureau of Indian Standards (BIS). However, manufacturers are highly encouraged to apply for a BIS license to print the prestigious physical 'ISI Mark' standard mark on the vitreous body of the water closet and its packaging box as a certified guarantee of chemical, mechanical, and thermal durability. Compliance with IS 2556 is strictly demanded in Public Works Department (PWD) contracts, municipal corporation building bylaws, and commercial construction projects across India.",
+    "requirements": [
+      "Under this 2024 revision, the standard explicitly aligns its technical and sanitary ware specifications with United Nations Sustainable Development Goals (SDGs), supporting SDG 6 (Clean Water and Sanitation), SDG 11 (Sustainable Cities and Communities), and SDG 12 (Responsible Consumption and Production).",
+      "Universal water closets (commonly known as Anglo-Indian closets) must feature a dual-use design, allowing the toilet to be used as a sitting pedestal (EWC) or as a squatting pan (Indian style) using integrated raised non-slip footrests cast into the rim of the pan.",
+      "The fired body of the vitreous china sanitary appliance must be highly dense and vitrified, having an average water absorption limit not exceeding 0.5 percent of its dry mass, when evaluated using standard boiling and dry-weighing tests to prevent microbial ingress and odors.",
+      "The glaze must show zero cracks (crazing) when subjected to an autoclave steam-curing test at high pressure, guaranteeing that thermal expansion does not damage the glossy, impervious protective finish.",
+      "The integrated footrests on the universal WC rim must feature a highly textured or chequered non-slip pattern, designed to prevent foot slipping under wet conditions.",
+      "Universal closets fitted with P-trap or S-trap configurations must maintain an integrated water seal depth of not less than 50 mm, serving as a gas-tight barrier against toxic sewer vapors.",
+      "The closet must clear sawdust completely from the entire interior flushing rim area within a single flush cycle, ensuring a clean and hygienic pan surface.",
+      "Must be fully compatible with dual-flush siphonic or washdown systems, clearing toilet paper and standard artificial test solids using a water-saving flush volume of 6/3 litres or 4/2 litres.",
+      "If the manufacturer opts for additional water efficiency requirements, the product must be evaluated, rated, and marked with a standard water efficiency rating and labelling system.",
+      "Observed or calculated test dimensions, flush volumes, and clearances must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "2556_15_2024.pdf",
     "document_version_edition": "Third Revision, May 2024"
   }

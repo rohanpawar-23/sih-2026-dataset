@@ -1,129 +1,105 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10021 : 2000",
-    "full_title": "Guidelines for De-icing System for Hydraulic Installations (First Revision)",
-    "sector_category": "Water Resources / Hydraulic Gates and Valves (approved by the Water Resources Division Council and finalized by the Hydraulic Gates and Valves Sectional Committee, WRD 12, of the Bureau of Indian Standards)",
-    "ics_code": "93.160",
+  "standard": {
+    "is_code": "IS 10021:2000",
+    "title": "Guidelines for De-icing System for Hydraulic Installations (First Revision)",
+    "sector": "Water Resources / Hydraulic Gates and Valves",
+    "ics_code": [
+      "93.160"
+    ],
     "sectional_committee": {
       "name": "Hydraulic Gates and Valves Sectional Committee",
       "number": "WRD 12"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies guidelines, operational parameters, and structural design criteria for de-icing systems (particularly compressed air bubbler systems) installed on hydraulic structures—such as spillway gates, radial gates, fixed-wheel gates, and trash-rack structures—in cold and sub-freezing regions to prevent ice formation and ensure trouble-free gate operation.",
+    "scope": "This standard specifies guidelines, operational parameters, and structural design criteria for de-icing systems (particularly compressed air bubbler systems) installed on hydraulic structures—such as spillway gates, radial gates, fixed-wheel gates, and trash-rack structures—in cold and sub-freezing regions to prevent ice formation and ensure trouble-free gate operation.",
+    "keywords": [
+      "IS 10021 : 2000",
+      "De-icing System",
+      "Hydraulic Installations",
+      "Air Bubbler System",
+      "Trash-Rack Structure",
+      "Spillway Gate",
+      "Compressed Air Nozzles",
+      "Compressor Discharge Pressure",
+      "Control Valves",
+      "WRD 12"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies guidelines, operational parameters, and structural design criteria for de-icing systems (particularly compressed air bubbler systems) installed on hydraulic structures—such as spillway gates, radial gates, fixed-wheel gates, and trash-rack structures—in cold and sub-freezing regions to prevent ice formation and ensure trouble-free gate operation.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, Reaffirmed 2023",
-    "year_first_published": "1981 (as IS 10021 : 1981)",
+  "version": {
+    "current_version": "First Revision, Reaffirmed 2023",
+    "first_publication_year": 1981,
+    "publication_year": 2000,
+    "revision": "First Revision (IS 10021 : 2000)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1981"
-      },
-      {
-        "edition": "First Revision (IS 10021 : 2000)",
-        "year": "2000"
-      }
+      "First Edition, 1981",
+      "First Revision (IS 10021 : 2000), 2000"
     ],
-    "supersedes": "IS 10021 : 1981",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    },
-    {
-      "is_number": "IS 4622 : 2020",
-      "title": "Recommendations for Structural Design of Fixed-Wheel Gates (Fourth Revision)",
-      "category": "Design standard",
-      "relevance": "Mandates that de-freezing systems for fixed-wheel gates operating in sub-freezing weather comply with IS 10021."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10386 (Part 11) : 2026",
-      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
-      "category": "Safety Code",
-      "location": "Water Resources Division",
-      "relevance": "A sister river valley development safety standard, regulating underground geotechnical, excavation, and safety controls."
-    },
-    {
-      "is_number": "IS 16115 : 2013",
-      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
-      "category": "Evaluation standard",
-      "location": "Water Resources Division",
-      "relevance": "A sister river valley planning standard, specifying guidelines to evaluate completed structures and canals."
-    },
-    {
-      "is_number": "IS 16091 : 2013",
-      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
-      "category": "Performance Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates fluid flow measurement instruments and sensors used to monitor reservoir levels."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "An allied environmental standard specifying geomembrane lining systems for reservoirs, canals, and water containment ponds."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design and construction code in India, regulating support frames, connections, and weldments where air compressors, pipe headers, and structural brackets are anchored."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Design and Operational Guidelines (Water Resources Department)",
-    "certification_status": "Voluntary Code of Practice. Since IS 10021:2000 is an engineering guideline and operational code of practice for dam outfitting and hydraulic gates rather than a direct consumer product, it does not carry a mandatory BIS 'ISI Mark' product stamp. However, compliance with its technical specifications, air-bubble layout schematics, and pressure curve requirements is strictly mandated in public sector hydropower development tenders (under NHPC, SJVN, NEEPCO, etc.) and dam design audits across sub-freezing regions of India (such as Ladakh, Himachal Pradesh, Uttarakhand, and Sikkim) to ensure structural safety and prevent freezing disasters.",
-    "requirements": [
+    "supersedes": [
+      "IS 10021 : 1981"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Calibration of Compressor Pressure",
-        "detail": "Requires preparing an operational calibration curve showing compressor discharge pressures for varying reservoir water levels, based on the specific operating characteristics of the compressor, to match changing hydrostatic heads as the reservoir level rises and falls.",
-        "clause_reference": "Foreword / General Guidelines"
-      },
-      {
-        "requirement_type": "Control Valve Guidelines",
-        "detail": "The proper use of control valves for both the operating cycle and the shutdown cycle of the de-icing system must be explicitly described in the operating instructions.",
-        "clause_reference": "General Operational Instructions"
-      },
-      {
-        "requirement_type": "Standard Nozzle Spacing (Figure 2 & 3 Layouts)",
-        "detail": "Submerged compressed air nozzles are positioned at standard intervals, typically spaced at 3-metre center-to-center distances (3 m ± tolerance) to establish a continuous rising bubble curtain of warm water.",
-        "clause_reference": "Figure 2 & Figure 3"
-      },
-      {
-        "requirement_type": "Structural Integration",
-        "detail": "De-icing distribution piping must be securely integrated with trash racks and spillway gate structures to prevent interference with hoisting machinery or rubbish cleaning operations.",
-        "clause_reference": "Figure 2 & Figure 3"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10021 : 2000",
-    "De-icing System",
-    "Hydraulic Installations",
-    "Air Bubbler System",
-    "Trash-Rack Structure",
-    "Spillway Gate",
-    "Compressed Air Nozzles",
-    "Compressor Discharge Pressure",
-    "Control Valves",
-    "WRD 12"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4622 : 2020",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10386 (Part 11) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16115 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16091 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10021 : 2000 is the national Indian Standard guidelines specifying de-icing systems for hydraulic installations such as spillways, gates, and trash racks in sub-freezing climates. It outlines the design and operation of compressed air bubbler systems, which release bubbles through submerged piping to circulate warmer bottom water to the surface, melting ice and ensuring gate operability. It mandates calibrating compressor discharge pressures against varying reservoir water levels and requires clear operational instructions for control valves during running and shutdown cycles."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 10021:2000 is an engineering guideline and operational code of practice for dam outfitting and hydraulic gates rather than a direct consumer product, it does not carry a mandatory BIS 'ISI Mark' product stamp. However, compliance with its technical specifications, air-bubble layout schematics, and pressure curve requirements is strictly mandated in public sector hydropower development tenders (under NHPC, SJVN, NEEPCO, etc.) and dam design audits across sub-freezing regions of India (such as Ladakh, Himachal Pradesh, Uttarakhand, and Sikkim) to ensure structural safety and prevent freezing disasters.",
+    "requirements": [
+      "Requires preparing an operational calibration curve showing compressor discharge pressures for varying reservoir water levels, based on the specific operating characteristics of the compressor, to match changing hydrostatic heads as the reservoir level rises and falls.",
+      "The proper use of control valves for both the operating cycle and the shutdown cycle of the de-icing system must be explicitly described in the operating instructions.",
+      "Submerged compressed air nozzles are positioned at standard intervals, typically spaced at 3-metre center-to-center distances (3 m ± tolerance) to establish a continuous rising bubble curtain of warm water.",
+      "De-icing distribution piping must be securely integrated with trash racks and spillway gate structures to prevent interference with hoisting machinery or rubbish cleaning operations."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10021_2000_reaff2023.pdf",
     "document_version_edition": "First Revision, Reaffirmed 2023"
   }

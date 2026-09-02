@@ -1,165 +1,113 @@
 {
-  "basic_identification": {
-    "is_number": "IS 1612 : 1976",
-    "full_title": "Specification for Iron Powder (Reduction Grade) (लोहे के बुरादे (अपचायक ग्रेड) की विशिष्टि) (First Revision)",
-    "sector_category": "Chemical / Inorganic Chemicals (approved by the Chemical Division Council and finalized by the Inorganic Chemicals (Miscellaneous) Sectional Committee, CDC 3, of the Bureau of Indian Standards)",
-    "ics_code": "669.131.6-492.2",
+  "standard": {
+    "is_code": "IS 1612:1976",
+    "title": "Specification for Iron Powder (Reduction Grade) (लोहे के बुरादे (अपचायक ग्रेड) की विशिष्टि) (First Revision)",
+    "sector": "Chemical / Inorganic Chemicals",
+    "ics_code": [
+      "669.131.6-492.2"
+    ],
     "sectional_committee": {
       "name": "Inorganic Chemicals (Miscellaneous) Sectional Committee",
       "number": "CDC 3"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the physical form, chemical composition, quality tolerances, testing methods, and field sampling plans for iron powder (reduction grade) used primarily as a chemical reducing agent in chemical synthesis and industrial metallurgy.",
+    "scope": "This standard specifies the physical form, chemical composition, quality tolerances, testing methods, and field sampling plans for iron powder (reduction grade) used primarily as a chemical reducing agent in chemical synthesis and industrial metallurgy.",
+    "keywords": [
+      "IS 1612 : 1976",
+      "Iron Powder",
+      "Reduction Grade",
+      "Chemical Activity",
+      "Carbon Impurity",
+      "Phosphorus Titration",
+      "Appendix C Sampling",
+      "Volatile Matter",
+      "Inorganic Chemicals",
+      "CDC 3",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the physical form, chemical composition, quality tolerances, testing methods, and field sampling plans for iron powder (reduction grade) used primarily as a chemical reducing agent in chemical synthesis and industrial metallurgy.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 3 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, July 1976 (Reaffirmed 2015 / 2024)",
-    "year_first_published": "1960",
+  "version": {
+    "current_version": "First Revision, July 1976 (Reaffirmed 2015 / 2024)",
+    "first_publication_year": 1960,
+    "publication_year": 1976,
+    "revision": "First Revision (IS 1612 : 1976)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 1612 : 1960)",
-        "year": "1960"
-      },
-      {
-        "edition": "First Revision (IS 1612 : 1976)",
-        "year": "1976"
-      }
+      "First Edition (IS 1612 : 1960), 1960",
+      "First Revision (IS 1612 : 1976), 1976"
     ],
-    "supersedes": "IS 1612 : 1960",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters and testing values to determine code compliance."
-    },
-    {
-      "is_number": "IS 265 : 1962",
-      "title": "Specification for hydrochloric acid (revised)",
-      "category": "Material standard",
-      "relevance": "Specifies purity requirements for concentrated hydrochloric acid used to dissolve iron samples for analytical testing."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 15556 : 2005",
-      "title": "Volumetric and spectrophotometric estimation of iron",
-      "category": "Testing standard",
-      "location": "Same Sectional Committee (CHD 1)",
-      "relevance": "Provides standard volumetric and colorimetric/spectrophotometric assays to calibrate total iron content in chemical products."
-    },
-    {
-      "is_number": "IS 2075 : 2017",
-      "title": "Ready Mixed Paint, Stoving, Red Oxide Zinc Chrome, Priming — Specification",
-      "category": "Product Specification",
-      "location": "Chemical Department",
-      "relevance": "Regulates iron-oxide-pigmented stoving primers, where total iron concentration is audited using standard volumetric analysis."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "location": "Chemical Department",
-      "relevance": "Regulates safety audits in chemical plants, auditing air-monitoring and protective equipment (PPE) required when handling highly active, flammable reduction iron powders and toxic reagents like bromine."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification",
-      "category": "Water quality standard",
-      "location": "Food and Agriculture Department (FAD)",
-      "relevance": "Restricts dissolved iron concentration in municipal water supplies to prevent pipe deposits and taste degradation."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, walkway railings, ladders, and protective enclosures for chemical warehouses, reactors, and powder blending yards."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Chemical Department / Inorganic Chemicals)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the prestigious 'Standard Mark' (ISI Mark) on HDPE bags or steel drums as a certified guarantee of material purity and high reduction activity. Additionally, compliance with IS 1612 is heavily integrated into commercial purchase contracts for dyestuffs, pharmaceutical intermediates, and chemical reagents across India.",
-    "requirements": [
+    "supersedes": [
+      "IS 1612 : 1960"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Carbon Impurity Cap",
-        "detail": "Under this first revision, the maximum limit of carbon impurity is strictly lowered from 2.5 to 2.0 percent by mass to prevent filtration difficulties when isolating organic products.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Activity Test",
-        "detail": "A mandatory chemical reduction activity test is incorporated because iron powders with identical chemical purity and particle size can show significant differences in reduction efficiency.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Iron (Fe) Content",
-        "detail": "The total elemental iron (Fe) content must satisfy a minimum specified percentage (nominally 93.0 percent by mass, with a tolerance of \u00b12.0 percent) to ensure adequate reducing equivalent.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Volatile Matter",
-        "detail": "Moisture and volatile components are restricted to a maximum of 0.50 percent by mass to maintain chemical stability and prevent rusting during storage.",
-        "clause_reference": "Table 1"
-      },
-      {
-        "requirement_type": "Analytical Reagents",
-        "detail": "Chemical assays must utilize concentrated hydrochloric acid conforming to IS 265, along with barium chloride, bromine solution, aluminium metal, and ammonium hydroxide.",
-        "clause_reference": "Clause A-5.1"
-      },
-      {
-        "requirement_type": "Phosphorus Titration",
-        "detail": "Quantitatively determines phosphorus (percent by mass) using a volumetric back-titration of a digested sample with standard hydrochloric acid and a parallel control run.",
-        "clause_reference": "Clause A-6.3"
-      },
-      {
-        "requirement_type": "Unexposed Sampling Room",
-        "detail": "To prevent ambient moisture absorption and premature oxidation, samples must not be drawn or prepared in an exposed place.",
-        "clause_reference": "Clause C-1.1"
-      },
-      {
-        "requirement_type": "Clean and Dry Sampling Equipment",
-        "detail": "The sampling trier or instrument must be completely clean and dry before drawing material to avoid cross-contamination.",
-        "clause_reference": "Clause C-1.2"
-      },
-      {
-        "requirement_type": "Individual Samples Testing",
-        "detail": "Volatile matter and elemental iron content tests must be carried out on each of the individual samples drawn from the consignment.",
-        "clause_reference": "Clause C-4.1"
-      },
-      {
-        "requirement_type": "Composite Samples Testing",
-        "detail": "The remaining chemical characteristics, carbon impurities, and activity must be evaluated on the composite sample only.",
-        "clause_reference": "Clause C-4.2"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "All observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960 to match the significant places of the specified limits.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 1612 : 1976",
-    "Iron Powder",
-    "Reduction Grade",
-    "Chemical Activity",
-    "Carbon Impurity",
-    "Phosphorus Titration",
-    "Appendix C Sampling",
-    "Volatile Matter",
-    "Inorganic Chemicals",
-    "CDC 3",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 265 : 1962",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15556 : 2005",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2075 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 1612 : 1976 (First Revision) is the primary national Indian Standard specification establishing technical requirements, chemical compositions, and sampling rules for reduction-grade iron powder. Developed under Sectional Committee CDC 3 and reaffirmed in 2024, this standard regulates iron powder used as a chemical reducing agent in the manufacture of dyes (like H-acid), pharmaceuticals, and intermediates. Key updates in this first revision incorporate a mandatory chemical activity test to verify actual reduction efficiency and lower the maximum carbon impurity limit from 2.5% to 2.0% by mass to prevent filtration clogs during product isolation, ensuring high operational reliability across chemical synthesis plants."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to apply for a BIS license to print the prestigious 'Standard Mark' (ISI Mark) on HDPE bags or steel drums as a certified guarantee of material purity and high reduction activity. Additionally, compliance with IS 1612 is heavily integrated into commercial purchase contracts for dyestuffs, pharmaceutical intermediates, and chemical reagents across India.",
+    "requirements": [
+      "Under this first revision, the maximum limit of carbon impurity is strictly lowered from 2.5 to 2.0 percent by mass to prevent filtration difficulties when isolating organic products.",
+      "A mandatory chemical reduction activity test is incorporated because iron powders with identical chemical purity and particle size can show significant differences in reduction efficiency.",
+      "The total elemental iron (Fe) content must satisfy a minimum specified percentage (nominally 93.0 percent by mass, with a tolerance of ±2.0 percent) to ensure adequate reducing equivalent.",
+      "Moisture and volatile components are restricted to a maximum of 0.50 percent by mass to maintain chemical stability and prevent rusting during storage.",
+      "Chemical assays must utilize concentrated hydrochloric acid conforming to IS 265, along with barium chloride, bromine solution, aluminium metal, and ammonium hydroxide.",
+      "Quantitatively determines phosphorus (percent by mass) using a volumetric back-titration of a digested sample with standard hydrochloric acid and a parallel control run.",
+      "To prevent ambient moisture absorption and premature oxidation, samples must not be drawn or prepared in an exposed place.",
+      "The sampling trier or instrument must be completely clean and dry before drawing material to avoid cross-contamination.",
+      "Volatile matter and elemental iron content tests must be carried out on each of the individual samples drawn from the consignment.",
+      "The remaining chemical characteristics, carbon impurities, and activity must be evaluated on the composite sample only.",
+      "All observed or calculated test and analytical values must be mathematically rounded off in accordance with IS 2:1960 to match the significant places of the specified limits."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "1612_1976_reaff2024.pdf",
     "document_version_edition": "First Revision, July 1976"
   }

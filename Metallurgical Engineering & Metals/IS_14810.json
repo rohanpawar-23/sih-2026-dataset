@@ -1,210 +1,144 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14810 : 2000",
-    "full_title": "Copper Tubes for Plumbing — Specification",
-    "sector_category": "Metallurgical Engineering / Copper and Copper Alloys (approved by the Metallurgical Engineering Division Council and finalized by the Copper and Copper Alloys Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "77.150.30",
+  "standard": {
+    "is_code": "IS 14810:2000",
+    "title": "Copper Tubes for Plumbing — Specification",
+    "sector": "Metallurgical Engineering / Copper and Copper Alloys",
+    "ics_code": [
+      "77.150.30"
+    ],
     "sectional_committee": {
       "name": "Copper and Copper Alloys Sectional Committee",
       "number": "MTD 08"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, dimensions, tolerances, chemical compositions, mechanical properties, and performance-testing schedules for seamless, solid drawn phosphorized deoxidized copper (Cu-DHP) tubes designed for plumbing and sanitation applications [1, 2]. These tubes are suitable for general plumbing, domestic hot/cold water supply, drainage, and similar piping systems for the conveyance of fluids, commonly jointed using solder, flared, or compression-type fittings [1].",
+    "scope": "This standard specifies the requirements, dimensions, tolerances, chemical compositions, mechanical properties, and performance-testing schedules for seamless, solid drawn phosphorized deoxidized copper (Cu-DHP) tubes designed for plumbing and sanitation applications [1, 2]. These tubes are suitable for general plumbing, domestic hot/cold water supply, drainage, and similar piping systems for the conveyance of fluids, commonly jointed using solder, flared, or compression-type fittings [1].",
+    "keywords": [
+      "IS 14810 : 2000",
+      "Copper Tubes",
+      "Plumbing Pipes",
+      "DHP Grade Copper",
+      "Phosphorized Deoxidized",
+      "Tensile strength",
+      "Elongation",
+      "Drift Expanding",
+      "Hydrostatic Test",
+      "Micro Bore Table W",
+      "Half-Hard Table X",
+      "Hard Drawn Table Z",
+      "MTD 08",
+      "Copper QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, dimensions, tolerances, chemical compositions, mechanical properties, and performance-testing schedules for seamless, solid drawn phosphorized deoxidized copper (Cu-DHP) tubes designed for plumbing and sanitation applications [1, 2]. These tubes are suitable for general plumbing, domestic hot/cold water supply, drainage, and similar piping systems for the conveyance of fluids, commonly jointed using solder, flared, or compression-type fittings [1].",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, May 2000 (Reaffirmed 2006, Reaffirmed 2021) [1]",
-    "year_first_published": "2000",
+  "version": {
+    "current_version": "First Edition, May 2000 (Reaffirmed 2006, Reaffirmed 2021) [1]",
+    "first_publication_year": 2000,
+    "publication_year": 2000,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2000"
-      }
+      "First Edition, 2000"
     ],
-    "supersedes": "N/A (Developed as a new dedicated national standard specifically to regulate plumbing-grade copper tubes)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 191 (Part 8)",
-      "title": "Copper — Specification, Part 8: Phosphorized copper (DHP) (third revision)",
-      "category": "Raw material standard",
-      "location": "Clause 7.1 / References",
-      "relevance": "Prescribes chemical purity and raw material composition requirements for Grade Cu-DHP copper base [1]."
-    },
-    {
-      "is_number": "IS 440",
-      "title": "Methods for chemical analysis of copper",
-      "category": "Chemical testing",
-      "location": "Clause 7.1",
-      "relevance": "Provides wet chemical and referee testing protocols to determine the elemental composition and purity of copper-based products [1]."
-    },
-    {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Supply standard",
-      "location": "Clause 4 / Clause 5",
-      "relevance": "Outlines standard administrative, manufacturing, sampling, and shipping conditions for supplied metallurgical products."
-    },
-    {
-      "is_number": "IS 1608 : 1995",
-      "title": "Mechanical testing of metals — Tensile testing (second revision)",
-      "category": "Mechanical testing",
-      "location": "Clause 11.1",
-      "relevance": "Enforces room-temperature tensile test setups to measure the tube's tensile strength (MPa) and elongation percentage [2]."
-    },
-    {
-      "is_number": "IS 2335 : 1985",
-      "title": "Method for drift expanding test for metallic tubes (first revision)",
-      "category": "Mechanical testing",
-      "location": "Clause 11.2",
-      "relevance": "Prescribes standard drift expanding test setups to verify that tube ends can be flared or expanded without splitting or tearing [2]."
-    },
-    {
-      "is_number": "IS 5493 : 1981",
-      "title": "Dimensions of wrought copper and copper alloy tubes (first revision)",
-      "category": "Dimensional standard",
-      "location": "Clause 10.2",
-      "relevance": "Governs standard dimensions, outside diameters, wall thicknesses, and rationalized tolerances for wrought tubes."
-    },
-    {
-      "is_number": "IS 6243 : 1985",
-      "title": "Method for hydrogen embrittlement test for copper (first revision)",
-      "category": "Metallurgical testing",
-      "location": "Normative references",
-      "relevance": "Specifies standard testing methods to verify that copper material is resistant to hydrogen-induced embrittlement."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1545 : 1994",
-      "title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating seamless drawn copper and brass alloy tubes designed for heat transfer systems, present in the notebook."
-    },
-    {
-      "is_number": "IS 12444 : 2020",
-      "title": "Copper Wire Rods for Electrical Applications — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating continuous cast copper feedstocks, present in the notebook."
-    },
-    {
-      "is_number": "IS 1897 : 2008",
-      "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "The fellow national standard regulating flat wrought copper strip conductors, present in the notebook."
-    },
-    {
-      "is_number": "IS 613 : 2000",
-      "title": "Copper Rods and Bars for Electrical Purposes — Specification",
-      "category": "Product specification",
-      "location": "Parallel metallurgical category",
-      "relevance": "Related conductive copper specification co-regulated under the same QCO framework."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Metallurgical Engineering / Domestic Piping Infrastructure)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper tubes for plumbing must conform to IS 14810:2000 and carry the mandatory BIS Standard Mark (ISI Mark). Enforcement began on October 19, 2024, for medium and large-scale enterprises, January 19, 2025, for small enterprises, and April 19, 2025, for micro enterprises. Manufacturing, importing, distributing, or stocking non-certified plumbing tubes is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial plumbing copper tubes.",
-    "requirements": [
+    "supersedes": [
+      "N/A (Developed as a new dedicated national standard specifically to regulate plumbing-grade copper tubes)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every commercial package or tube length of plumbing pipe must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard reference to verify compliance.",
-        "clause_reference": "Clause 14.1"
-      },
-      {
-        "requirement_type": "Permitted Materials and Chemical Purity",
-        "detail": "The tubes must be manufactured from Grade Cu-DHP (Phosphorized deoxidized copper with high residual phosphorus) conforming to IS 191 (Part 8), ensuring a minimum copper purity of 99.90 percent (including silver) and phosphorus content restricted to between 0.015 and 0.040 percent [1]. This composition prevents hydrogen embrittlement and maintains long-term structural toughness.",
-        "clause_reference": "Clause 7.1"
-      },
-      {
-        "requirement_type": "Solid Drawn (Seamless) Fabrication",
-        "detail": "Plumbing tubes must be manufactured through a solid drawing process (seamless construction). Longitudinal welding is strictly prohibited to guarantee maximum pressure handling, leak tightness, and high resistance to splitting.",
-        "clause_reference": "Clause 8.1"
-      },
-      {
-        "requirement_type": "Drafting and End Sealing",
-        "detail": "Tubes must be cut to size in coils or straight lengths, properly drafted, and securely sealed at both ends. This sealing prevents dirt, moisture, and microbial contaminants from entering the tube bore during transit and storage.",
-        "clause_reference": "Clause 8.2"
-      },
-      {
-        "requirement_type": "Three Delivery Tempers (Conditions)",
-        "detail": "Tubes are supplied as specified by the purchaser in one of three conditions:\na) O — Annealed (soft) [supplied in coils or straight lengths];\nb) HB — Half-hard [supplied in straight lengths];\nc) HD — Hard [supplied in straight lengths].",
-        "clause_reference": "Clause 9.1"
-      },
-      {
-        "requirement_type": "Rationalized Sizing Tables (Designations)",
-        "detail": "Tubes are designated by outside diameter and wall thickness, classified across four functional tables:\na) Table W (Micro Bore Annealed): sizes 6, 8, 10 mm OD (thickness 0.6 mm preferred, or 0.8 mm recommended). Max working pressure: 6.2 to 9.0 MPa (preferred) and 8.2 to 14.4 MPa (recommended);\nb) Table X (Half-Hard): sizes 6 to 159 mm OD (thickness 0.6 mm to 2.0 mm). Max working pressure: 1.5 to 13.3 MPa;\nc) Table Y (Half-Hard and Annealed): sizes 6 to 108 mm OD (thickness 0.8 mm to 2.5 mm). Max working pressure: 2.9 to 18.8 MPa (half-hard) and 2.3 to 14.4 MPa (annealed);\nd) Table Z (Hard Drawn): sizes 6 to 159 mm OD (thickness 0.5 mm to 1.5 mm). Max working pressure: 1.5 to 11.3 MPa.",
-        "clause_reference": "Clause 10.1"
-      },
-      {
-        "requirement_type": "Freedom from Defects",
-        "detail": "The inner and outer surfaces of the tubes must be clean, bright, smooth, and completely free from harmful defects such as deep scratches, cracks, inclusions, pitting, or visible oxidation scale, with the bore entirely free from deleterious residue films.",
-        "clause_reference": "Clause 6"
-      },
-      {
-        "requirement_type": "Tensile properties (Table 1)",
-        "detail": "Tubes must satisfy minimum mechanical limits tested in full section or longitudinal strips per IS 1608:\n- Annealed (O) [up to 108 mm size]: Tensile strength (Min) = 210 MPa, Elongation (Min) = 40%;\n- Half-hard (HB) [up to 159 mm size]: Tensile strength (Min) = 250 MPa, Elongation (Min) = 30%;\n- Hard (HD) [up to 54 mm size]: Tensile strength (Min) = 280 MPa;\n- Hard (HD) [54 to 159 mm size]: Tensile strength (Min) = 310 MPa.",
-        "clause_reference": "Clause 11.1 & Table 1",
-        "page_reference": "Page 3 of base standard"
-      },
-      {
-        "requirement_type": "Drift Expanding Test (Table 1)",
-        "detail": "For tubes designated in Tables W, X, and Y (O and HB tempers), a 45-degree taper drift is plunged into the unannealed tube end per IS 2335. The tube must expand without cracking or showing physical flow:\n- Table W (O condition): minimum 30% expansion;\n- Table X (HB up to 54 mm): minimum 35% expansion;\n- Table X (HB 54 to 108 mm): minimum 25% expansion;\n- Table X (HB 108 to 159 mm): minimum 15% expansion;\n- Table Y (O condition up to 108 mm): minimum 30% expansion;\n- Table Y (HB up to 35 mm): minimum 30% expansion;\n- Table Y (HB 35 to 108 mm): minimum 30% expansion;\n- Table Z (HD condition): Drift expansion is not applicable.",
-        "clause_reference": "Clause 11.2 & Table 1",
-        "page_reference": "Page 3 of base standard"
-      },
-      {
-        "requirement_type": "Hydrostatic Leak-Proof Pressure test",
-        "detail": "Every single tube length must withstand a standard hydrostatic test pressure calculated per formula: P = (2 * F * t) / (D - t)\nwhere P is pressure (MPa), t is wall thickness (mm), D is outside diameter (mm), and F is design stress (72.5 MPa for HD, 60.0 MPa for HB, and 46.0 MPa for O condition). The tube must sustain this pressure for at least 5 seconds with zero leakage or sweating.",
-        "clause_reference": "Clause 12"
-      },
-      {
-        "requirement_type": "Dimensional Integrity Calculations",
-        "detail": "To ensure reliable leak-proof compression fittings, strict geometric limits are enforced:\n- Mean Outside Diameter: half the sum of two diameters measured at right angles;\n- Mean Wall Thickness: half the sum of two diametrically opposite wall thicknesses;\n- Ovality: calculated as (OD_max - OD_min) / OD_avg;\n- Eccentricity: calculated as (WT_max - WT_min) / WT_avg.",
-        "clause_reference": "Clauses 3.2, 3.3, 3.6 & 3.8"
-      },
-      {
-        "requirement_type": "Sampling Scale and Lot Conformity",
-        "detail": "Consignments of identical diameters, thicknesses, and tempers are grouped into inspection lots of 300 tubes or 1,000 kg (whichever is greater). One random sample tube is tested per lot. If it fails, two retest tubes are drawn. If both retests pass, the lot is accepted; if either fails, the entire lot is rejected.",
-        "clause_reference": "Clauses 13.1, 13.2 & 13.3",
-        "page_reference": "Page 4 of base standard"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 14810 : 2000",
-    "Copper Tubes",
-    "Plumbing Pipes",
-    "DHP Grade Copper",
-    "Phosphorized Deoxidized",
-    "Tensile strength",
-    "Elongation",
-    "Drift Expanding",
-    "Hydrostatic Test",
-    "Micro Bore Table W",
-    "Half-Hard Table X",
-    "Hard Drawn Table Z",
-    "MTD 08",
-    "Copper QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 191 (Part 8)",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 440",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1608 : 1995",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2335 : 1985",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5493 : 1981",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6243 : 1985",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1545 : 1994",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12444 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1897 : 2008",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 613 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 14810 : 2000 is the mandatory national Indian Standard specification governing solid drawn (seamless) phosphorized deoxidized copper (Cu-DHP) tubes used in residential, commercial, and industrial plumbing systems for carrying hot and cold water, drainage, and other plumbing fluids [1]. Under India's statutory Copper Products Quality Control Order (QCO), all copper plumbing tubes must conform to this standard and carry the mandatory BIS Standard Mark (ISI Mark) to guarantee water safety, leak tightness, and pressure handling. The standard classifies tubes across four sizing charts based on temper (annealed, half-hard, and hard drawn), covering outside diameters from micro-bore 6 mm up to 159 mm [2, 3]. It enforces detailed physical and mechanical requirements—including minimum tensile strength (210 to 310 MPa), high elongation (up to 40%), drift expansion flares without splitting, and 100% leak-proof hydrostatic pressure tests calculated using grade-specific design stresses [3]."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Copper Products (Quality Control) Order",
+      "year": 2000
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Copper Products (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all copper tubes for plumbing must conform to IS 14810:2000 and carry the mandatory BIS Standard Mark (ISI Mark). Enforcement began on October 19, 2024, for medium and large-scale enterprises, January 19, 2025, for small enterprises, and April 19, 2025, for micro enterprises. Manufacturing, importing, distributing, or stocking non-certified plumbing tubes is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial plumbing copper tubes.",
+    "requirements": [
+      "Every commercial package or tube length of plumbing pipe must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard reference to verify compliance.",
+      "The tubes must be manufactured from Grade Cu-DHP (Phosphorized deoxidized copper with high residual phosphorus) conforming to IS 191 (Part 8), ensuring a minimum copper purity of 99.90 percent (including silver) and phosphorus content restricted to between 0.015 and 0.040 percent [1]. This composition prevents hydrogen embrittlement and maintains long-term structural toughness.",
+      "Plumbing tubes must be manufactured through a solid drawing process (seamless construction). Longitudinal welding is strictly prohibited to guarantee maximum pressure handling, leak tightness, and high resistance to splitting.",
+      "Tubes must be cut to size in coils or straight lengths, properly drafted, and securely sealed at both ends. This sealing prevents dirt, moisture, and microbial contaminants from entering the tube bore during transit and storage.",
+      "Tubes are supplied as specified by the purchaser in one of three conditions:\na) O — Annealed (soft) [supplied in coils or straight lengths];\nb) HB — Half-hard [supplied in straight lengths];\nc) HD — Hard [supplied in straight lengths].",
+      "Tubes are designated by outside diameter and wall thickness, classified across four functional tables:\na) Table W (Micro Bore Annealed): sizes 6, 8, 10 mm OD (thickness 0.6 mm preferred, or 0.8 mm recommended). Max working pressure: 6.2 to 9.0 MPa (preferred) and 8.2 to 14.4 MPa (recommended);\nb) Table X (Half-Hard): sizes 6 to 159 mm OD (thickness 0.6 mm to 2.0 mm). Max working pressure: 1.5 to 13.3 MPa;\nc) Table Y (Half-Hard and Annealed): sizes 6 to 108 mm OD (thickness 0.8 mm to 2.5 mm). Max working pressure: 2.9 to 18.8 MPa (half-hard) and 2.3 to 14.4 MPa (annealed);\nd) Table Z (Hard Drawn): sizes 6 to 159 mm OD (thickness 0.5 mm to 1.5 mm). Max working pressure: 1.5 to 11.3 MPa.",
+      "The inner and outer surfaces of the tubes must be clean, bright, smooth, and completely free from harmful defects such as deep scratches, cracks, inclusions, pitting, or visible oxidation scale, with the bore entirely free from deleterious residue films.",
+      "Tubes must satisfy minimum mechanical limits tested in full section or longitudinal strips per IS 1608:\n- Annealed (O) [up to 108 mm size]: Tensile strength (Min) = 210 MPa, Elongation (Min) = 40%;\n- Half-hard (HB) [up to 159 mm size]: Tensile strength (Min) = 250 MPa, Elongation (Min) = 30%;\n- Hard (HD) [up to 54 mm size]: Tensile strength (Min) = 280 MPa;\n- Hard (HD) [54 to 159 mm size]: Tensile strength (Min) = 310 MPa.",
+      "For tubes designated in Tables W, X, and Y (O and HB tempers), a 45-degree taper drift is plunged into the unannealed tube end per IS 2335. The tube must expand without cracking or showing physical flow:\n- Table W (O condition): minimum 30% expansion;\n- Table X (HB up to 54 mm): minimum 35% expansion;\n- Table X (HB 54 to 108 mm): minimum 25% expansion;\n- Table X (HB 108 to 159 mm): minimum 15% expansion;\n- Table Y (O condition up to 108 mm): minimum 30% expansion;\n- Table Y (HB up to 35 mm): minimum 30% expansion;\n- Table Y (HB 35 to 108 mm): minimum 30% expansion;\n- Table Z (HD condition): Drift expansion is not applicable.",
+      "Every single tube length must withstand a standard hydrostatic test pressure calculated per formula: P = (2 * F * t) / (D - t)\nwhere P is pressure (MPa), t is wall thickness (mm), D is outside diameter (mm), and F is design stress (72.5 MPa for HD, 60.0 MPa for HB, and 46.0 MPa for O condition). The tube must sustain this pressure for at least 5 seconds with zero leakage or sweating.",
+      "To ensure reliable leak-proof compression fittings, strict geometric limits are enforced:\n- Mean Outside Diameter: half the sum of two diameters measured at right angles;\n- Mean Wall Thickness: half the sum of two diametrically opposite wall thicknesses;\n- Ovality: calculated as (OD_max - OD_min) / OD_avg;\n- Eccentricity: calculated as (WT_max - WT_min) / WT_avg.",
+      "Consignments of identical diameters, thicknesses, and tempers are grouped into inspection lots of 300 tubes or 1,000 kg (whichever is greater). One random sample tube is tested per lot. If it fails, two retest tubes are drawn. If both retests pass, the lot is accepted; if either fails, the entire lot is rejected."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "14810_2000_reff2021.pdf",
     "document_version_edition": "First Edition, May 2000 (Reaffirmed 2021)"
   }

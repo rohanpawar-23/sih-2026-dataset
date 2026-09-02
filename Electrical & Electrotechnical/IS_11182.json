@@ -1,158 +1,116 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11182 (Part 7 / Sec 1) : 1986",
-    "full_title": "Guide for the Evaluation of Insulation Systems of Electrical Equipment — Part 7: Multi-factor Functional Testing — Section 1: Test Procedures (विद्युत उपकरणों की इन्सुलेशन प्रणालियों के मूल्यांकन के लिए गाइड — भाग 7: बहु-कारक कार्यात्मक परीक्षण — धारा 1: परीक्षण प्रक्रियाएं)",
-    "sector_category": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems (finalized by the Solid Electrical Insulating Materials and Insulation Systems Sectional Committee, ETD 02, formerly ETDC 63, of the Bureau of Indian Standards)",
-    "ics_code": "29.080.30",
+  "standard": {
+    "is_code": "IS 11182 (Part 7 / Sec 1):1986",
+    "title": "Guide for the Evaluation of Insulation Systems of Electrical Equipment — Part 7: Multi-factor Functional Testing — Section 1: Test Procedures (विद्युत उपकरणों की इन्सुलेशन प्रणालियों के मूल्यांकन के लिए गाइड — भाग 7: बहु-कारक कार्यात्मक परीक्षण — धारा 1: परीक्षण प्रक्रियाएं)",
+    "sector": "Electrotechnical / Solid Electrical Insulating Materials and Insulation Systems",
+    "ics_code": [
+      "29.080.30"
+    ],
     "sectional_committee": {
       "name": "Solid Electrical Insulating Materials and Insulation Systems Sectional Committee",
       "number": "ETD 02"
-    }
+    },
+    "standard_type": "GUIDE",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes technical guidelines and methodology to develop functional testing procedures for evaluating electrical insulation systems (EIS) exposed to multiple co-existing aging factors (stresses) during their service life.",
+    "scope": "This Indian Standard prescribes technical guidelines and methodology to develop functional testing procedures for evaluating electrical insulation systems (EIS) exposed to multiple co-existing aging factors (stresses) during their service life.",
+    "keywords": [
+      "IS 11182 (Part 7/Sec 1) : 1986",
+      "Insulation Systems of Electrical Equipment",
+      "Multi-factor Functional Testing",
+      "Aging Interaction",
+      "Direct and Indirect Interaction",
+      "Sequential Multi-factor Tests",
+      "Simultaneous Multi-factor Tests",
+      "Single-factor testing",
+      "Diagnostic testing",
+      "ETD 02 Solid Insulating Materials",
+      "IS 2 : 2022"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes technical guidelines and methodology to develop functional testing procedures for evaluating electrical insulation systems (EIS) exposed to multiple co-existing aging factors (stresses) during their service life.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1986 (Reaffirmed 2021)",
-    "year_first_published": "1986",
+  "version": {
+    "current_version": "First Edition, 1986 (Reaffirmed 2021)",
+    "first_publication_year": 1986,
+    "publication_year": 1986,
+    "revision": "First Edition (IS 11182 (Part 7/Sec 1) : 1986)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 11182 (Part 7/Sec 1) : 1986)",
-        "year": "1986"
-      }
+      "First Edition (IS 11182 (Part 7/Sec 1) : 1986), 1986"
     ],
-    "supersedes": "None (Developed as a new standalone guide to govern modern multi-factor evaluation methodologies)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 11182 (Part 1) : 1984",
-      "title": "Guide for evaluation of insulation systems of electrical equipment — Part 1: Identification, evaluation and ageing mechanisms",
-      "category": "Terminology standard",
-      "relevance": "The foundational standard establishing definitions for electrical, thermal, mechanical, and environmental stress factors."
-    },
-    {
-      "is_number": "IS 11182 (Part 3/Sec 1) : 1986",
-      "title": "Guide for the evaluation of insulation systems of electrical equipment — Part 3: Electrical endurance test procedures, Section 1: General considerations and evaluation procedures based on normal distributions",
-      "category": "Testing standard",
-      "relevance": "Outlines statistical evaluation and testing criteria for electrical aging stresses."
-    },
-    {
-      "is_number": "IS 11182 (Part 5) : 1993",
-      "title": "Guide for evaluation of insulation system of electrical equipment — Part 5: Mechanical endurance functional tests",
-      "category": "Testing standard",
-      "relevance": "Specifies physical test setups for mechanical fatigue and dynamic vibration stresses."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 14220 : 2018",
-      "title": "Openwell Submersible Pumpsets — Specification",
-      "category": "Product Specification",
-      "relevance": "Submersible motors run flooded with water, experiencing simultaneous electrical, thermal, mechanical, and wet environmental stresses. Their complex windings must be evaluated based on the multi-factor aging criteria defined under IS 11182."
-    },
-    {
-      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
-      "title": "Insulating Varnishes Containing Solvents — Specification",
-      "category": "Material standard",
-      "relevance": "Impregnating varnishes used to bond winding wires together must resist mechanical vibration shocks alongside extreme thermal loading, which are evaluated under multi-factor aging tests."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits in high-voltage testing yards and research laboratories operating multi-factor testing rigs (comprising ovens, vibrators, and high-voltage electrodes)."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork, test derrick frames, and machinery bases carrying heavy vibration platforms and thermal testing ovens."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Evaluation Guide (Electrotechnical Department / Solid Electrical Insulating Materials)",
-    "certification_status": "Voluntary National Code. However, state electricity boards, public works departments, and military equipment procurement agencies require high-voltage equipment, traction motors, and distribution transformers to carry test certificates demonstrating functional compliance with the multi-factor testing criteria of the IS 11182 series.",
-    "requirements": [
+    "supersedes": [
+      "None (Developed as a new standalone guide to govern modern multi-factor evaluation methodologies)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Final observed or calculated test times, aging rates, specific stress limits, and statistical failure probabilities must be mathematically rounded off in accordance with IS 2:2022 (second revision). The number of significant places retained should match that of the specified value in this standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Core Aging Interaction",
-        "detail": "Establishes definitions for aging interaction: the modification of the aging effect of one factor by the combination of two or more factors such that the combined effect differs significantly from the sum of their individual aging effects when acting independently.",
-        "clause_reference": "Clause 2.1"
-      },
-      {
-        "requirement_type": "Direct Interaction",
-        "detail": "Defines direct interaction as the interaction between simultaneously applied factors of influence that differs fundamentally from that occurring when those same factors are applied sequentially.",
-        "clause_reference": "Clause 2.2"
-      },
-      {
-        "requirement_type": "Indirect Interaction",
-        "detail": "Defines indirect interaction as the interaction between simultaneously applied factors of influence that remains essentially unchanged when those same factors are applied sequentially.",
-        "clause_reference": "Clause 2.3"
-      },
-      {
-        "requirement_type": "Single-Factor Testing",
-        "detail": "Single-factor testing is technically valid and preferred only when interactions between service stress factors are absent or unknown.",
-        "clause_reference": "Clause 3.1.1(a) & Figure 1"
-      },
-      {
-        "requirement_type": "Sequential Multi-Factor Testing",
-        "detail": "Conducted on the same specimen batch in a repetitive loop of sequential steps. This approach is technically valid and highly practical when indirect interaction is present.",
-        "clause_reference": "Clause 3.1.2 & Figure 1"
-      },
-      {
-        "requirement_type": "Simultaneous Multi-Factor Testing",
-        "detail": "Simultaneous multi-factor testing is mandated when direct interaction is present. Stresses (e.g., heat, voltage, and vibration) must be applied to the specimen at the same physical instant.",
-        "clause_reference": "Clause 3.1.2 & Figure 1"
-      },
-      {
-        "requirement_type": "Sequential Strategy",
-        "detail": "Sequential procedures may be developed in which alternative consequential actions are listed to cover each possible outcome of a preceding action.",
-        "clause_reference": "Clause 3.0"
-      },
-      {
-        "requirement_type": "Targeted Interaction Research",
-        "detail": "Where service relationships and aging interactions are not confidently known, technical committees or manufacturers must instigate research to identify specific aging factors, their relative importance, and their physical interactions.",
-        "clause_reference": "Clause 3.0"
-      },
-      {
-        "requirement_type": "Addressing Insufficient Failures",
-        "detail": "During testing, if there are no failures, or an insufficient number of failures within the planned number of test cycles, engineers must either continue testing cycles until a sufficient number of failures occur or carry out additional diagnostic tests to reveal the extent of deterioration.",
-        "clause_reference": "Clause 4.4.2"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL"
       }
     ]
   },
-  "keywords": [
-    "IS 11182 (Part 7/Sec 1) : 1986",
-    "Insulation Systems of Electrical Equipment",
-    "Multi-factor Functional Testing",
-    "Aging Interaction",
-    "Direct and Indirect Interaction",
-    "Sequential Multi-factor Tests",
-    "Simultaneous Multi-factor Tests",
-    "Single-factor testing",
-    "Diagnostic testing",
-    "ETD 02 Solid Insulating Materials",
-    "IS 2 : 2022"
+  "relationships": [
+    {
+      "target_is_code": "IS 11182 (Part 1) : 1984",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11182 (Part 3/Sec 1) : 1986",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11182 (Part 5) : 1993",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14220 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11182 (Part 7/Sec 1) : 1986 (Reaffirmed 2021) is the primary national Indian Standard code of practice prescribing procedures for multi-factor functional testing of electrical insulation systems. Technically equivalent to international standard IEC TR 60792-1:1985 and modernly consolidated under IEC 60505, the standard unifies how electrical, thermal, mechanical, and environmental stresses are combined to simulate real-world service aging. It defines crucial concepts like aging interaction and provides a logical decision matrix to choose between separate single-factor tests, sequential tests on the same specimen, and complex simultaneous tests. Incorporating rigid failure evaluation guidelines, the code outlines alternative diagnostic procedures when planned test cycles yield insufficient failures, ensuring high-voltage windings and motors achieve optimal reliability and occupant safety."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary National Code. However, state electricity boards, public works departments, and military equipment procurement agencies require high-voltage equipment, traction motors, and distribution transformers to carry test certificates demonstrating functional compliance with the multi-factor testing criteria of the IS 11182 series.",
+    "requirements": [
+      "Final observed or calculated test times, aging rates, specific stress limits, and statistical failure probabilities must be mathematically rounded off in accordance with IS 2:2022 (second revision). The number of significant places retained should match that of the specified value in this standard.",
+      "Establishes definitions for aging interaction: the modification of the aging effect of one factor by the combination of two or more factors such that the combined effect differs significantly from the sum of their individual aging effects when acting independently.",
+      "Defines direct interaction as the interaction between simultaneously applied factors of influence that differs fundamentally from that occurring when those same factors are applied sequentially.",
+      "Defines indirect interaction as the interaction between simultaneously applied factors of influence that remains essentially unchanged when those same factors are applied sequentially.",
+      "Single-factor testing is technically valid and preferred only when interactions between service stress factors are absent or unknown.",
+      "Conducted on the same specimen batch in a repetitive loop of sequential steps. This approach is technically valid and highly practical when indirect interaction is present.",
+      "Simultaneous multi-factor testing is mandated when direct interaction is present. Stresses (e.g., heat, voltage, and vibration) must be applied to the specimen at the same physical instant.",
+      "Sequential procedures may be developed in which alternative consequential actions are listed to cover each possible outcome of a preceding action.",
+      "Where service relationships and aging interactions are not confidently known, technical committees or manufacturers must instigate research to identify specific aging factors, their relative importance, and their physical interactions.",
+      "During testing, if there are no failures, or an insufficient number of failures within the planned number of test cycles, engineers must either continue testing cycles until a sufficient number of failures occur or carry out additional diagnostic tests to reveal the extent of deterioration."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "11182_7_1_1986_reff2021.pdf",
     "document_version_edition": "First Edition, 1986"
   }

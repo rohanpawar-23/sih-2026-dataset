@@ -1,160 +1,121 @@
 {
-  "basic_identification": {
-    "is_number": "IS 17048 : 2018",
-    "full_title": "Halogen Free Flame Retardant (HFFR) Cables for Working Voltages up to and including 1 100 Volts — Specification",
-    "sector_category": "Electrotechnical / Power Cables (approved by the Electrotechnical Division Council and finalized by the Power Cables Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "29.060.20",
+  "standard": {
+    "is_code": "IS 17048:2018",
+    "title": "Halogen Free Flame Retardant (HFFR) Cables for Working Voltages up to and including 1 100 Volts — Specification",
+    "sector": "Electrotechnical / Power Cables",
+    "ics_code": [
+      "29.060.20"
+    ],
     "sectional_committee": {
       "name": "Power Cables Sectional Committee",
       "number": "ETD 09"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements for single-core and multicore halogen-free, flame-retardant, low-smoke (HFFR) insulated and sheathed (if any) electrical cables/cords with rigid or flexible conductors. These cables are designed for use in power and lighting installations in AC single-phase or three-phase systems operating at rated voltages up to and including 1 100 V (1.1 kV) a.c. (50 Hz) or DC systems up to and including 1 500 V to earth.",
+    "scope": "This standard specifies requirements for single-core and multicore halogen-free, flame-retardant, low-smoke (HFFR) insulated and sheathed (if any) electrical cables/cords with rigid or flexible conductors. These cables are designed for use in power and lighting installations in AC single-phase or three-phase systems operating at rated voltages up to and including 1 100 V (1.1 kV) a.c. (50 Hz) or DC systems up to and including 1 500 V to earth.",
+    "keywords": [
+      "IS 17048:2018",
+      "Halogen Free Flame Retardant",
+      "HFFR Cables",
+      "LSZH Cables",
+      "Low Smoke Zero Halogen",
+      "HFI-TP 70",
+      "HFI-XL 90",
+      "HFS-TP 90",
+      "Halogen Gas Evolution",
+      "HCl limit 0.5%",
+      "Light Transmittance 70%",
+      "Flame Retardance Part 61",
+      "Cables QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements for single-core and multicore halogen-free, flame-retardant, low-smoke (HFFR) insulated and sheathed (if any) electrical cables/cords with rigid or flexible conductors. These cables are designed for use in power and lighting installations in AC single-phase or three-phase systems operating at rated voltages up to and including 1 100 V (1.1 kV) a.c. (50 Hz) or DC systems up to and including 1 500 V to earth.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 2018 (incorporating Amendment No. 1, September 2021) [1]",
-    "year_first_published": "2018",
+  "version": {
+    "current_version": "First Edition, 2018 (incorporating Amendment No. 1, September 2021) [1]",
+    "first_publication_year": 2018,
+    "publication_year": 2018,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "2018"
-      }
+      "First Edition, 2018"
     ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1 [1]",
+        "amendment_number": "Amendment 1 [1]",
         "date": "September 2021 [1]",
-        "description": "Substitutes references on Page 4 (Clause 5.7) and Page 18 (Annex A, Sl No. 9) to replace 'Annex 4' with 'Annex D' [1]. It completely replaces Annex B, Sl No. 2.2 to update the properties after ageing in an air oven for HFFR sheathing compounds (HFS-TP 70, HFS-TP 90, HFS-XL70, HFS-XL90), specifying aging temperatures and durations (e.g., 80°C for HFS-TP 70, and 100°C for others) [1]."
+        "summary": "Substitutes references on Page 4 (Clause 5.7) and Page 18 (Annex A, Sl No. 9) to replace 'Annex 4' with 'Annex D' [1]. It completely replaces Annex B, Sl No. 2.2 to update the properties after ageing in an air oven for HFFR sheathing compounds (HFS-TP 70, HFS-TP 90, HFS-XL70, HFS-XL90), specifying aging temperatures and durations (e.g., 80°C for HFS-TP 70, and 100°C for others) [1]."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 8130",
-      "title": "Conductors for insulated electric cables and cords",
-      "category": "Normative reference / Component standard",
-      "location": "Conductor specification clauses",
-      "relevance": "Specifies rigid (Class 1 or 2) and flexible (Class 5) copper or aluminium conductor requirements, including resistance and dimensions."
+      "target_is_code": "IS 8130",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 10810 (series)",
-      "title": "Methods of test for cables",
-      "category": "Test method",
-      "location": "Testing and validation clauses",
-      "relevance": "Provides the mandatory multi-part test methods used to evaluate electrical, mechanical, and fire-resistant parameters (such as Part 61 and Part 62 for flame retardancy)."
+      "target_is_code": "IS 10810 (series)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 1070 : 2023",
-      "title": "Reagent grade water — Specification (Fourth Revision)",
-      "category": "Normative reference",
-      "location": "Testing annexes",
-      "relevance": "Prescribes standard water purity parameters used inside laboratories to execute chemical extraction testing (such as halogen acid gas evolution tests)."
+      "target_is_code": "IS 1070 : 2023",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword / Deciding Conformity",
-      "relevance": "Governs the standard mathematical rounding routines used on calculated and observed physical or chemical testing figures to evaluate code compliance."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7098 (Part 1) : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14255 : 1995",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14494 : 2019",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 17505 (Part 1) : 2021",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 694 : 2010",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 7098 (Part 1) : 2025",
-      "title": "Crosslinked Polyethylene Insulated Thermoplastic Sheathed Cables — Specification, Part 1: For Working Voltages up to and including 1 100 Volts",
-      "category": "Product specification",
-      "location": "Parallel electrotechnical standard",
-      "relevance": "Low-voltage power cable standard, sharing identical raw conductor quality (IS 8130), testing methods (IS 10810), and wooden drums (IS 10418) frameworks."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Electrical Cables (Quality Control) Order",
+      "year": 2020
     },
-    {
-      "is_number": "IS 14255 : 1995",
-      "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1100 Volts — Specification",
-      "category": "Product specification",
-      "location": "Parallel electrotechnical standard",
-      "relevance": "The national low-voltage insulated overhead transmission line standard, sharing identical vocabulary (IS 1885 Part 32), raw conductor quality (IS 8130), testing methods (IS 10810), and wooden drums (IS 10418) frameworks."
-    },
-    {
-      "is_number": "IS 14494 : 2019",
-      "title": "Elastomer Insulated Flexible Cables for Use in Mines — Specification",
-      "category": "Product specification",
-      "location": "Parallel electrotechnical standard",
-      "relevance": "Mining operations power and control standard, sharing identical raw conductor quality (IS 8130), testing methods (IS 10810), and wooden drums (IS 10418) frameworks."
-    },
-    {
-      "is_number": "IS 17505 (Part 1) : 2021",
-      "title": "Specification for thermosetting insulated fire survival cables for fixed installation having low emission of smoke and corrosive gases when affected by fire",
-      "category": "Product specification",
-      "location": "Parallel electrotechnical standard",
-      "relevance": "Governs fireproof critical survival circuits, sharing identical low-toxicity, low-smoke, and zero-halogen gas emission testing regimes under fire conditions."
-    },
-    {
-      "is_number": "IS 694 : 2010",
-      "title": "Polyvinyl Chloride Insulated Unsheathed and Sheathed Cables/Cords for Working Voltages up to and including 1 100 V",
-      "category": "Product specification",
-      "location": "Parallel electrotechnical standard",
-      "relevance": "General building and domestic wiring standard, which is the PVC equivalent of IS 17048 and shares similar mechanical sizes and Class 5 flexible copper geometries."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Electrical / Safety Cables)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Electrical Cables (Quality Control) Order' (Cables QCO 2020) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all Halogen-Free Flame Retardant (HFFR) cables manufactured, imported, distributed, or sold in India must conform to IS 17048 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or selling uncertified HFFR cables is a criminal offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial electrotechnical cables, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
+    "description": "Strict Statutory Mandatory Certification. Under the 'Electrical Cables (Quality Control) Order' (Cables QCO 2020) issued by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, all Halogen-Free Flame Retardant (HFFR) cables manufactured, imported, distributed, or sold in India must conform to IS 17048 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, stocking, or selling uncertified HFFR cables is a criminal offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial electrotechnical cables, as it is strictly reserved for gold and silver jewelry under national BIS frameworks.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every cable reel or attached label must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L)."
-      },
-      {
-        "requirement_type": "Conductor Material Quality",
-        "detail": "Conductors must be composed of high-purity annealed bare or tinned copper or aluminium complying with Class 2 (stranded) or Class 5 (flexible) of IS 8130."
-      },
-      {
-        "requirement_type": "Insulation Chemistry and Designations",
-        "detail": "Cables are insulated with halogen-free flame-retardant (HFFR) compounds, designated based on material type and rated conductor temperature: a) HFI-TP 70: Thermoplastic HFFR, 70°C maximum; b) HFI-TP 90: Thermoplastic HFFR, 90°C maximum; c) HFI-XL 70: Crosslinked (thermosetting) HFFR, 70°C; d) HFI-XL 90: Crosslinked (thermosetting) HFFR, 90°C."
-      },
-      {
-        "requirement_type": "Sheathing Chemistry and Designations [1]",
-        "detail": "Sheathing (if any) must be composed of HFFR compounds designated as: a) HFS-TP 70: Thermoplastic HFFR sheathing, 70°C [1]; b) HFS-TP 90: Thermoplastic HFFR sheathing, 90°C [1]; c) HFS-XL 70: Crosslinked HFFR sheathing, 70°C [1]; d) HFS-XL 90: Crosslinked HFFR sheathing, 90°C [1]. Properties after air oven aging are tested as per Amendment No. 1 (80°C for HFS-TP 70 and 100°C for others) [1].",
-        "clause_reference": "Annex B, Sl No. 2.2 [1]"
-      },
-      {
-        "requirement_type": "Strict Low-Smoke and Halogen Gas Limits",
-        "detail": "To ensure safety of life and prevent equipment corrosion in fires, cables must meet strict low-smoke and non-toxic emission boundaries: a) Halogen acid gas evolution (measured as HCl) must not exceed a maximum of 0.5 percent by weight; b) Smoke emission must have a minimum of 70 percent light transmittance (negligible smoke opacity); c) Evolved gases must have a pH of minimum 4.3 and a maximum electrical conductivity of 10 µS/mm."
-      },
-      {
-        "requirement_type": "Mandatory Flame Retardancy Tests",
-        "detail": "Finished cables must be self-extinguishing and pass mandatory flame tests under IS 10810: a) Flame retardance on single cable (Part 61); b) Flame retardance on bunched cables (Part 62) to prevent rapid fire spread in vertical cable trays."
-      },
-      {
-        "requirement_type": "Mechanical and Aging Performance",
-        "detail": "Insulation and sheathing must undergo tensile strength, elongation at break, hot set, cold bend, and air oven aging tests to ensure long-term physical durability."
-      }
+      "Every cable reel or attached label must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+      "Conductors must be composed of high-purity annealed bare or tinned copper or aluminium complying with Class 2 (stranded) or Class 5 (flexible) of IS 8130.",
+      "Cables are insulated with halogen-free flame-retardant (HFFR) compounds, designated based on material type and rated conductor temperature: a) HFI-TP 70: Thermoplastic HFFR, 70°C maximum; b) HFI-TP 90: Thermoplastic HFFR, 90°C maximum; c) HFI-XL 70: Crosslinked (thermosetting) HFFR, 70°C; d) HFI-XL 90: Crosslinked (thermosetting) HFFR, 90°C.",
+      "Sheathing (if any) must be composed of HFFR compounds designated as: a) HFS-TP 70: Thermoplastic HFFR sheathing, 70°C [1]; b) HFS-TP 90: Thermoplastic HFFR sheathing, 90°C [1]; c) HFS-XL 70: Crosslinked HFFR sheathing, 70°C [1]; d) HFS-XL 90: Crosslinked HFFR sheathing, 90°C [1]. Properties after air oven aging are tested as per Amendment No. 1 (80°C for HFS-TP 70 and 100°C for others) [1].",
+      "To ensure safety of life and prevent equipment corrosion in fires, cables must meet strict low-smoke and non-toxic emission boundaries: a) Halogen acid gas evolution (measured as HCl) must not exceed a maximum of 0.5 percent by weight; b) Smoke emission must have a minimum of 70 percent light transmittance (negligible smoke opacity); c) Evolved gases must have a pH of minimum 4.3 and a maximum electrical conductivity of 10 µS/mm.",
+      "Finished cables must be self-extinguishing and pass mandatory flame tests under IS 10810: a) Flame retardance on single cable (Part 61); b) Flame retardance on bunched cables (Part 62) to prevent rapid fire spread in vertical cable trays.",
+      "Insulation and sheathing must undergo tensile strength, elongation at break, hot set, cold bend, and air oven aging tests to ensure long-term physical durability."
     ]
   },
-  "keywords": [
-    "IS 17048:2018",
-    "Halogen Free Flame Retardant",
-    "HFFR Cables",
-    "LSZH Cables",
-    "Low Smoke Zero Halogen",
-    "HFI-TP 70",
-    "HFI-XL 90",
-    "HFS-TP 90",
-    "Halogen Gas Evolution",
-    "HCl limit 0.5%",
-    "Light Transmittance 70%",
-    "Flame Retardance Part 61",
-    "Cables QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 17048 : 2018 is the mandatory national Indian Standard specification establishing strict physical, chemical, and fire safety requirements for Halogen-Free Flame Retardant (HFFR) cables operating up to 1 100 V. Unlike conventional PVC cables (which release dense black smoke and highly toxic hydrochloric acid gas in fires), HFFR cables emit negligible, transparent smoke (minimum 70% light transmittance) and virtually zero halogen gases (maximum 0.5% HCl by weight), drastically reducing suffocation risks in densely populated or critical areas (such as hospitals, stadiums, and escape routes). Under India's statutory Cables Quality Control Order, all HFFR cables sold or imported must be BIS certified and carry the Standard Mark (ISI Mark). Quality teams must evaluate HFI-TP/HFI-XL insulation types, verify high flame retardancy under single and bunched tests, and ensure structural durability to guarantee life and equipment protection during emergencies."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "17048a1.pdf",
     "document_version_edition": "First Edition, 2018 (incorporating Amendment No. 1, September 2021) [1]"
   }

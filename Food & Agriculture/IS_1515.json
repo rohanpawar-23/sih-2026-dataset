@@ -1,160 +1,120 @@
 {
-  "basic_identification": {
-    "is_number": "IS 1515 : 2013",
-    "full_title": "Beehives — Specification (मधुमक्खी पेटिका — विशिष्टि) (Fourth Revision)",
-    "sector_category": "Food and Agriculture / Apiary Industry (approved by the Food and Agriculture Division Council and finalized by the Apiary Industry Sectional Committee, FAD 03, of the Bureau of Indian Standards)",
-    "ics_code": "65.140; 67.180.10",
+  "standard": {
+    "is_code": "IS 1515:2013",
+    "title": "Beehives — Specification (मधुमक्खी पेटिका — विशिष्टि) (Fourth Revision)",
+    "sector": "Food and Agriculture / Apiary Industry",
+    "ics_code": [
+      "65.140",
+      "67.180.10"
+    ],
     "sectional_committee": {
       "name": "Apiary Industry Sectional Committee",
       "number": "FAD 03"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the constructional requirements, dimensional limits, and timber joint specifications for Type A, Type B, and Type C beehives used in apiculture.",
+    "scope": "This standard prescribes the constructional requirements, dimensional limits, and timber joint specifications for Type A, Type B, and Type C beehives used in apiculture.",
+    "keywords": [
+      "IS 1515 : 2013",
+      "Beehives",
+      "Brood Chamber",
+      "Super Chamber",
+      "Dovetail Joint",
+      "Tongue and Groove Joint",
+      "Finger Joint",
+      "Rabbet",
+      "Bee Space",
+      "Apiary",
+      "FAD 03"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the constructional requirements, dimensional limits, and timber joint specifications for Type A, Type B, and Type C beehives used in apiculture.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Fourth Revision, August 2013 (Reaffirmed 2024)",
-    "year_first_published": "Not explicitly stated (Fourth Revision established in 2013)",
+  "version": {
+    "current_version": "Fourth Revision, August 2013 (Reaffirmed 2024)",
+    "first_publication_year": 2013,
+    "publication_year": 2013,
+    "revision": "Fourth Revision (IS 1515 : 2013)",
     "revision_history": [
-      {
-        "edition": "Prior Editions",
-        "year": "Prior to 2013"
-      },
-      {
-        "edition": "Fourth Revision (IS 1515 : 2013)",
-        "year": "2013"
-      }
+      "Prior Editions, Prior to 2013",
+      "Fourth Revision (IS 1515 : 2013), 2013"
     ],
-    "supersedes": "Prior editions of IS 1515",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of surveyed dimensions and design metrics to determine compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 14133 : 2013",
-      "title": "Beekeeper’s Kit — Specification (First Revision)",
-      "category": "Apiary Equipment",
-      "location": "Notebook Co-source",
-      "relevance": "An associated apiary standard specifying the nine essential implements (including smokers, veils, and grafting devices) which must remain fully compatible with Langstroth and Newton hives."
-    },
-    {
-      "is_number": "IS 11816 (Part 3) : 2018",
-      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
-      "category": "Pest-Control standard",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow Food and Agriculture Department standard, regulating pest exclusion and chemical safety limits to safeguard stored agricultural products."
-    },
-    {
-      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
-      "category": "Assessment standard",
-      "location": "Notebook Co-source",
-      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
-    },
-    {
-      "is_number": "IS 16115 : 2013",
-      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
-      "category": "Evaluation standard",
-      "location": "Notebook Co-source",
-      "relevance": "Provides guidelines to evaluate completed structures and commands, including assessing local water availability which supports regional apiary environments."
-    },
-    {
-      "is_number": "IS 13668 : 1993",
-      "title": "Guidelines for Fixing Intensity of Irrigation",
-      "category": "Planning standard",
-      "location": "Notebook Co-source",
-      "relevance": "A companion water resources planning standard, defining cropping intensities and commanded-area water allocations."
-    },
-    {
-      "is_number": "IS 13739 : 1993",
-      "title": "Guidelines for Estimation of Flood Damages",
-      "category": "Disaster economics",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies standard damage estimation proformas and agricultural evaluations, which are integrated with post-flood fishery or apiary infrastructure audits."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies impermeable PVC barrier linings designed to prevent seepage and soil water-loss in agricultural containment ponds."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural processing plants, cold-storage warehouses, and gantry hoists."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Food and Agriculture / Apiary Equipment)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product packaging as a certified assurance of quality. Additionally, compliance with the dimensions, joint construction, and engraving parameters of the beehive is strictly mandated in central and state agricultural department tenders, honey-bee colony development subsidies, and apiary training packages across India.",
-    "requirements": [
+    "supersedes": [
+      "Prior editions of IS 1515"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Three Approved Hive Types",
-        "detail": "Prescribes structural and dimensional requirements for three standardized types of beehives: Type A, Type B, and Type C.",
-        "clause_reference": "Clause 1"
-      },
-      {
-        "requirement_type": "Brood Chamber Lifting Cuts",
-        "detail": "To facilitate handling and transport on-site, grooves or notches must be cut on the outer faces of the front and rear walls of the brood chamber. These notches must be positioned exactly in the centers of the outer faces.",
-        "clause_reference": "Clause 6.1"
-      },
-      {
-        "requirement_type": "Chamber Timber Joint Assemblies",
-        "detail": "The four sides of the brood chamber must be securely joined together using one of four approved joint profiles: special box corner, finger, dovetail, or tongue and groove joints.",
-        "clause_reference": "Clause 6.1 & Fig. 3"
-      },
-      {
-        "requirement_type": "Super Chamber Dimensions & Rabbets",
-        "detail": "Super chamber dimensions must conform to Tables 1 to 7. A rabbet measuring 10 mm wide and 16 mm deep must be cut at the top and towards the inner surface in both the front and rear walls of the chamber.",
-        "clause_reference": "Clause 6.3"
-      },
-      {
-        "requirement_type": "Super Frame Joint Fitting",
-        "detail": "The ends of the super frame (often having a bar 10 mm thick and 448 mm long) must be fitted with a groove measuring 10 mm × 10 mm to accommodate the tongue of the side bar.",
-        "clause_reference": "Clause 6.6"
-      },
-      {
-        "requirement_type": "Engraved Marking Requirements",
-        "detail": "Each major component of the hive must be clearly and indelibly engraved with: a) Name of the part and its size (e.g., Brood chamber, Type A, Bee space 8 mm); b) Trade-mark, if any; c) Batch or code number; d) Name of the manufacturer; and e) Date of manufacture.",
-        "clause_reference": "Clause 8.2"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or dimension value must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 1515 : 2013",
-    "Beehives",
-    "Brood Chamber",
-    "Super Chamber",
-    "Dovetail Joint",
-    "Tongue and Groove Joint",
-    "Finger Joint",
-    "Rabbet",
-    "Bee Space",
-    "Apiary",
-    "FAD 03"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14133 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11816 (Part 3) : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16115 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13668 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13739 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 1515 : 2013 (Fourth Revision) is the national Indian Standard specification establishing design requirements, dimensions, and materials for beehives. Developed under the Apiary Industry Sectional Committee (FAD 03), this standard regulates the manufacturing of Type A, Type B, and Type C beehives across India. It mandates safe lifting notches on brood chambers, specifies four approved high-durability joint profiles (special box corner, finger, dovetail, tongue and groove), defines super chamber rabbet cuts (10 mm × 16 mm), and enforces strict engraving and BIS marking protocols to ensure compatibility and build quality."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product packaging as a certified assurance of quality. Additionally, compliance with the dimensions, joint construction, and engraving parameters of the beehive is strictly mandated in central and state agricultural department tenders, honey-bee colony development subsidies, and apiary training packages across India.",
+    "requirements": [
+      "Prescribes structural and dimensional requirements for three standardized types of beehives: Type A, Type B, and Type C.",
+      "To facilitate handling and transport on-site, grooves or notches must be cut on the outer faces of the front and rear walls of the brood chamber. These notches must be positioned exactly in the centers of the outer faces.",
+      "The four sides of the brood chamber must be securely joined together using one of four approved joint profiles: special box corner, finger, dovetail, or tongue and groove joints.",
+      "Super chamber dimensions must conform to Tables 1 to 7. A rabbet measuring 10 mm wide and 16 mm deep must be cut at the top and towards the inner surface in both the front and rear walls of the chamber.",
+      "The ends of the super frame (often having a bar 10 mm thick and 448 mm long) must be fitted with a groove measuring 10 mm × 10 mm to accommodate the tongue of the side bar.",
+      "Each major component of the hive must be clearly and indelibly engraved with: a) Name of the part and its size (e.g., Brood chamber, Type A, Bee space 8 mm); b) Trade-mark, if any; c) Batch or code number; d) Name of the manufacturer; and e) Date of manufacture.",
+      "Any observed or calculated test or dimension value must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "1515_2013_reaff2024.pdf",
     "document_version_edition": "Fourth Revision, August 2013"
   }

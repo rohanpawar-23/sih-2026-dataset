@@ -1,184 +1,121 @@
 {
-  "basic_identification": {
-    "is_number": "IS 6315 : 2025",
-    "full_title": "Hydraulically Regulated Floor Springs — Specification (Third Revision)",
-    "sector_category": "Civil Engineering / Builders Hardware (approved by the Civil Engineering Division Council and finalized by the Builder's Hardware Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "91.190",
+  "standard": {
+    "is_code": "IS 6315:2025",
+    "title": "Hydraulically Regulated Floor Springs — Specification (Third Revision)",
+    "sector": "Civil Engineering / Builders Hardware",
+    "ics_code": [
+      "91.190"
+    ],
     "sectional_committee": {
       "name": "Builder's Hardware Sectional Committee",
       "number": "CED 15"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, classification, performance criteria, and testing methods for hydraulically regulated floor springs used on swing doors. It covers functional checks, durability, opening and closing forces, mechanical efficiency, corrosion resistance, and fire resistance testing on door assemblies.",
+    "scope": "This standard specifies the requirements, classification, performance criteria, and testing methods for hydraulically regulated floor springs used on swing doors. It covers functional checks, durability, opening and closing forces, mechanical efficiency, corrosion resistance, and fire resistance testing on door assemblies.",
+    "keywords": [
+      "IS 6315 : 2025",
+      "Floor Springs",
+      "Builders Hardware",
+      "Double Action Closing",
+      "Adjustable Power Size",
+      "Closing Force Efficiency",
+      "Corrosion Resistance",
+      "Fire Rated Floor Springs",
+      "Latch Control Speed",
+      "Back-Check Cushioning",
+      "Delayed Closing",
+      "CED 15",
+      "Door Fittings QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, classification, performance criteria, and testing methods for hydraulically regulated floor springs used on swing doors. It covers functional checks, durability, opening and closing forces, mechanical efficiency, corrosion resistance, and fire resistance testing on door assemblies.",
-    "clause_number": "Clause 1 & Annex C",
-    "page_number": "Page 1 & Page 13 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Third Revision, November 2025",
-    "year_first_published": "1971",
+  "version": {
+    "current_version": "Third Revision, November 2025",
+    "first_publication_year": 1971,
+    "publication_year": 2025,
+    "revision": "Third Revision (reorganized to extend testing methodologies, harmonize general tolerances, establish adjustable power sizing rules, and define clear limits for mechanical efficiency and fire-rated door assemblies)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1971"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "1992"
-      },
-      {
-        "edition": "Third Revision (reorganized to extend testing methodologies, harmonize general tolerances, establish adjustable power sizing rules, and define clear limits for mechanical efficiency and fire-rated door assemblies)",
-        "year": "2025"
-      }
+      "First Edition, 1971",
+      "Second Revision, 1992",
+      "Third Revision (reorganized to extend testing methodologies, harmonize general tolerances, establish adjustable power sizing rules, and define clear limits for mechanical efficiency and fire-rated door assemblies), 2025"
     ],
-    "supersedes": "IS 6315 : 1992",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this newly established third revision."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 3614",
-      "title": "Specification of Fire Doors and Assembly",
-      "category": "Fire testing standard",
-      "location": "Clause 11.2 (d)",
-      "relevance": "Prescribes standard test door assemblies and configurations used to evaluate the fire resistance of fire-rated floor springs."
-    },
-    {
-      "is_number": "IS 4905",
-      "title": "Methods for random sampling",
-      "category": "Sampling standard",
-      "location": "Clause 11.2.1",
-      "relevance": "Governs statistical randomization and lot drawing procedures to extract representative test samples from consignments."
-    },
-    {
-      "is_number": "IS 5528",
-      "title": "Method of testing corrosion resistance by neutral salt spray test",
-      "category": "Testing standard",
-      "location": "Clause 8.6",
-      "relevance": "Governs neutral salt spray chamber configurations used to test and verify the floor spring's corrosion resistance."
-    },
-    {
-      "is_number": "IS 2 : 1960 / IS 2 : 2022",
-      "title": "Rules for rounding off numerical values",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 3564 : 2025",
-      "title": "Hydraulically Regulated Door Closers — Specification",
-      "category": "Product specification",
-      "location": "Parallel builders hardware category",
-      "relevance": "The fellow national standard regulating overhead surface-mounted and concealed-type door closers, finalized by the same Builders Hardware Sectional Committee."
-    },
-    {
-      "is_number": "IS 14912 : 2001",
-      "title": "Door Closers, Concealed Type (Hydraulically Regulated) — Specification",
-      "category": "Product specification",
-      "location": "Parallel builders hardware category",
-      "relevance": "The legacy standard for concealed door closers, now officially integrated and amalgamated under IS 3564 : 2025."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Parallel structural engineering",
-      "relevance": "The master structural steel construction code present in the notebook, regulating lifting tackles and wire rope slings of correct size used on-site."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Builders Hardware / Mechanical Door Controls)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Door Fittings (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all hydraulically regulated floor springs must conform to IS 6315:2025 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified floor springs in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial builders hardware.",
-    "requirements": [
+    "supersedes": [
+      "IS 6315 : 1992"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every certified floor spring body must be legibly and indelibly marked with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and classification code.",
-        "clause_reference": "Clauses 12.1, 12.2 & 12.3"
-      },
-      {
-        "requirement_type": "Classified Performance Suitability",
-        "detail": "When tested, the floor spring must meet all mechanical and safety requirements in accordance with its declared classification code (similar to the 6-digit coding of IS 3564).",
-        "clause_reference": "Clause 10.1.2"
-      },
-      {
-        "requirement_type": "Adjustable Power Sizing",
-        "detail": "For floor springs featuring adjustable closing force, the unit must be capable of adjustment at least to power size 3, and the manufacturer must provide precise, clear instructions to the installer to ensure correct setup.",
-        "clause_reference": "Clause 10.5.2.1"
-      },
-      {
-        "requirement_type": "Double-Power Sample Drawing",
-        "detail": "If a floor spring has adjustable power sizes, two floor springs must be drawn from the lot for durability and efficiency testing: one unit is set to the minimum power size and the other to the maximum power size.",
-        "clause_reference": "Clause 11.2 (Note)"
-      },
-      {
-        "requirement_type": "Durability Cycle Testing",
-        "detail": "Floor springs are tested on assemblies to verify closing moment, opening moment, and efficiency. For double-action floor springs, the direction of closing must be alternated between clockwise and anticlockwise directions after every 5,000 cycles.",
-        "clause_reference": "Clause 10.3.1, 10.4.1 & 10.4.2"
-      },
-      {
-        "requirement_type": "Fire Rated Door Closing Capability",
-        "detail": "Fire-rated floor springs, when installed as per instructions, must be capable of closing the test door from any angle to which it may be opened. One sample must be tested on door assemblies in accordance with IS 3614.",
-        "clause_reference": "Clauses 10.5.2.1 & 11.2 (d)"
-      },
-      {
-        "requirement_type": "Corrosion Resistance Evaluation",
-        "detail": "One floor spring is subjected to salt spray testing. The opening and closing forces of the floor spring are measured before and after salt spray exposure (and subsequent post-rinsing) to verify that corrosion does not impair functional operation.",
-        "clause_reference": "Clause 11.2 (c) & Clause C-4"
-      },
-      {
-        "requirement_type": "Opening & Closing Mechanical Efficiency",
-        "detail": "The opening and closing forces are measured slowly (not faster than 1°/s) using a force gauge positioned perpendicular to the door face from 0° to 4° and 88° to 92° (taking the average of three readings). The efficiency of the floor spring is calculated as:\nEfficiency = (Average of maximum closing force between 0° and 4°) / (Average of maximum opening force between 0° and 4°) * 100.\nThis efficiency must not be less than the values defined in Table 1 for that power size.",
-        "clause_reference": "Clauses C-3.4 & C-3.8"
-      },
-      {
-        "requirement_type": "Adjustable Latch Control Speed",
-        "detail": "For doors with latches, the closing speed must be regulated so that the door smoothly engages with the latch. The closing time shall be easily adjustable between 5 seconds and 20 seconds.",
-        "clause_reference": "Clause C-2.1"
-      },
-      {
-        "requirement_type": "Optional Back-Check Cushioning",
-        "detail": "If provided with a back-check function, the floor spring must be capable of hydraulically stopping or cushioning the test door before it reaches a 90° open position.",
-        "clause_reference": "Clause C-2.4"
-      },
-      {
-        "requirement_type": "Optional Delayed Closing Performance",
-        "detail": "If delayed closing is provided, the closing time from 90° to the end of the delay zone must not be less than 20 seconds at an ambient temperature of (25 ± 5)°C. The delay zone must not extend beyond the 65° open position, and the manual override torque must not exceed 150 Nm. After 500 test cycles, the delay time must remain between 10 s and 30 s.",
-        "clause_reference": "Clause C-2.5"
-      },
-      {
-        "requirement_type": "General Testing Tolerances (Annex A)",
-        "detail": "Standard testing parameter tolerances are strictly defined:\na) Mass in kilograms or grams: ±2 percent;\nb) Length in millimetres: ±2 percent.",
-        "clause_reference": "Annex A, Clause A-1"
-      },
-      {
-        "requirement_type": "Packing and Moisture Prevention",
-        "detail": "Floor springs must be packed in individual packs and suitably reinforced to prevent physical damage. Packaging must be designed to protect the contents from moisture and physical handling during storage and transport.",
-        "clause_reference": "Clause 13.1 & 13.2"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this newly established third revision."
       }
     ]
   },
-  "keywords": [
-    "IS 6315 : 2025",
-    "Floor Springs",
-    "Builders Hardware",
-    "Double Action Closing",
-    "Adjustable Power Size",
-    "Closing Force Efficiency",
-    "Corrosion Resistance",
-    "Fire Rated Floor Springs",
-    "Latch Control Speed",
-    "Back-Check Cushioning",
-    "Delayed Closing",
-    "CED 15",
-    "Door Fittings QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 3614",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 5528",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960 / IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3564 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14912 : 2001",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 6315 : 2025 is the mandatory national Indian Standard specification governing hydraulically regulated floor springs used to swing and control heavy doors weighing up to 160 kg. Under India's statutory Door Fittings Quality Control Order (QCO), all floor springs supplied or sold in the country must carry the BIS Standard Mark (ISI Mark) to ensure fire-safety and corrosion resistance. This third revision establishes rigorous performance criteria, defining strict testing schedules for mechanical efficiency, adjustable power sizing (requiring at least power size 3 for fire-rated models), and double-action durability cycling (where the closing direction is alternated clockwise and anticlockwise after every 5,000 cycles). It mandates a minimum 3-minute hydraulic pressure leak test, adjustable closing and latching speed valving (5 to 20 seconds), and optional back-check or delayed closing features to prevent doors from slamming or catching under wind loads."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Door Fittings (Quality Control) Order",
+      "year": 2025
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Door Fittings (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all hydraulically regulated floor springs must conform to IS 6315:2025 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified floor springs in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial builders hardware.",
+    "requirements": [
+      "Every certified floor spring body must be legibly and indelibly marked with the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and classification code.",
+      "When tested, the floor spring must meet all mechanical and safety requirements in accordance with its declared classification code (similar to the 6-digit coding of IS 3564).",
+      "For floor springs featuring adjustable closing force, the unit must be capable of adjustment at least to power size 3, and the manufacturer must provide precise, clear instructions to the installer to ensure correct setup.",
+      "If a floor spring has adjustable power sizes, two floor springs must be drawn from the lot for durability and efficiency testing: one unit is set to the minimum power size and the other to the maximum power size.",
+      "Floor springs are tested on assemblies to verify closing moment, opening moment, and efficiency. For double-action floor springs, the direction of closing must be alternated between clockwise and anticlockwise directions after every 5,000 cycles.",
+      "Fire-rated floor springs, when installed as per instructions, must be capable of closing the test door from any angle to which it may be opened. One sample must be tested on door assemblies in accordance with IS 3614.",
+      "One floor spring is subjected to salt spray testing. The opening and closing forces of the floor spring are measured before and after salt spray exposure (and subsequent post-rinsing) to verify that corrosion does not impair functional operation.",
+      "The opening and closing forces are measured slowly (not faster than 1°/s) using a force gauge positioned perpendicular to the door face from 0° to 4° and 88° to 92° (taking the average of three readings). The efficiency of the floor spring is calculated as:\nEfficiency = (Average of maximum closing force between 0° and 4°) / (Average of maximum opening force between 0° and 4°) * 100.\nThis efficiency must not be less than the values defined in Table 1 for that power size.",
+      "For doors with latches, the closing speed must be regulated so that the door smoothly engages with the latch. The closing time shall be easily adjustable between 5 seconds and 20 seconds.",
+      "If provided with a back-check function, the floor spring must be capable of hydraulically stopping or cushioning the test door before it reaches a 90° open position.",
+      "If delayed closing is provided, the closing time from 90° to the end of the delay zone must not be less than 20 seconds at an ambient temperature of (25 ± 5)°C. The delay zone must not extend beyond the 65° open position, and the manual override torque must not exceed 150 Nm. After 500 test cycles, the delay time must remain between 10 s and 30 s.",
+      "Standard testing parameter tolerances are strictly defined:\na) Mass in kilograms or grams: ±2 percent;\nb) Length in millimetres: ±2 percent.",
+      "Floor springs must be packed in individual packs and suitably reinforced to prevent physical damage. Packaging must be designed to protect the contents from moisture and physical handling during storage and transport."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "6315_2025.pdf",
     "document_version_edition": "Third Revision, November 2025"
   }

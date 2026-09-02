@@ -1,235 +1,148 @@
 {
-  "basic_identification": {
-    "is_number": "IS 2202 (Part 2) : 2022",
-    "full_title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 2: Particle Board, High Density Fibre Board, Medium Density Fibre Board and Fibre Hardboard Face Panels (Fourth Revision)",
-    "sector_category": "Civil Engineering / Doors, Windows and Shutters (approved by the Civil Engineering Division Council and finalized by the Doors, Windows and Shutters Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "79.060.10; 91.060.50",
+  "standard": {
+    "is_code": "IS 2202 (Part 2):2022",
+    "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 2: Particle Board, High Density Fibre Board, Medium Density Fibre Board and Fibre Hardboard Face Panels (Fourth Revision)",
+    "sector": "Civil Engineering / Doors, Windows and Shutters",
+    "ics_code": [
+      "79.060.10",
+      "91.060.50"
+    ],
     "sectional_committee": {
       "name": "Doors, Windows and Shutters Sectional Committee",
       "number": "CED 11"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the physical, dimensional, constructional, and performance testing criteria for solid core wooden flush door shutters with face panels made of particle board, high density fibre board (HDF), medium density fibre board (MDF), or fibre hardboard, suitable for use in both internal and external positions. Amendment No. 1 explicitly clarifies that the standard covers different constructions of doors (stiles and rails as well as particle/MDF board door blanks) and acts in addition or alternative to IS 2202 (Part 1).",
+    "scope": "This standard specifies the physical, dimensional, constructional, and performance testing criteria for solid core wooden flush door shutters with face panels made of particle board, high density fibre board (HDF), medium density fibre board (MDF), or fibre hardboard, suitable for use in both internal and external positions. Amendment No. 1 explicitly clarifies that the standard covers different constructions of doors (stiles and rails as well as particle/MDF board door blanks) and acts in addition or alternative to IS 2202 (Part 1).",
+    "keywords": [
+      "IS 2202 (Part 2) : 2022",
+      "Wooden Flush Doors",
+      "Solid Core Shutters",
+      "Particle Board Face Panels",
+      "HDF Face Panels",
+      "MDF Face Panels",
+      "Fibre Hardboard",
+      "Door Blanks",
+      "Thickness Swelling",
+      "Pencil Hardness Test",
+      "Plywood QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the physical, dimensional, constructional, and performance testing criteria for solid core wooden flush door shutters with face panels made of particle board, high density fibre board (HDF), medium density fibre board (MDF), or fibre hardboard, suitable for use in both internal and external positions. Amendment No. 1 explicitly clarifies that the standard covers different constructions of doors (stiles and rails as well as particle/MDF board door blanks) and acts in addition or alternative to IS 2202 (Part 1).",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Fourth Revision, 2022 (incorporating Amendment No. 1, August 2024)",
-    "year_first_published": "1983",
+  "version": {
+    "current_version": "Fourth Revision, 2022 (incorporating Amendment No. 1, August 2024)",
+    "first_publication_year": 1983,
+    "publication_year": 2022,
+    "revision": "Fourth Revision",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1983"
-      },
-      {
-        "edition": "Second Revision",
-        "year": "N/A"
-      },
-      {
-        "edition": "Third Revision",
-        "year": "N/A"
-      },
-      {
-        "edition": "Fourth Revision",
-        "year": "2022"
-      }
+      "First Edition, 1983",
+      "Second Revision, N/A",
+      "Third Revision, N/A",
+      "Fourth Revision, 2022"
     ],
-    "supersedes": "IS 2202 (Part 2) : 1983 / older editions",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 2202 (Part 2) : 1983 / older editions"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "August 2024",
-        "description": "Formally updates the scope to cover door blanks and stiles and rails constructions. Establishes pencil hardness criteria for decorative foil faces, sets a maximum 5% swelling limit for core materials, defines door blank Grade requirements, and exempts edge-banded or beaded solid core door blanks from end immersion and knife testing."
+        "amendment_number": "Amendment 1",
+        "date": "2024-08",
+        "summary": "Formally updates the scope to cover door blanks and stiles and rails constructions. Establishes pencil hardness criteria for decorative foil faces, sets a maximum 5% swelling limit for core materials, defines door blank Grade requirements, and exempts edge-banded or beaded solid core door blanks from end immersion and knife testing."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 2202 (Part 1)",
-      "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification: Part 1 Plywood Face Panels",
-      "category": "Normative reference / Sister standard",
-      "location": "Foreword",
-      "relevance": "Provides the master baseline specifications for blockboard constructions and timber species."
+      "target_is_code": "IS 2202 (Part 1)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 4020 (various parts)",
-      "title": "Methods of test for wooden flush door shutters",
-      "category": "Test method",
-      "location": "Testing clauses",
-      "relevance": "Prescribes standard mechanical and physical tests including flatness, local planeness, impact, buckling, and slamming tests."
+      "target_is_code": "IS 4020 (various parts)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 17637 : 2021",
-      "title": "Performance requirements of surface finishes for furniture applications",
-      "category": "Component standard",
-      "location": "Clause 6.3.3",
-      "relevance": "Referenced for the Annex C pencil hardness test (1H minimum requirement) for decorative PVC or ABS foil faces."
+      "target_is_code": "IS 17637 : 2021",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2046 : 1995",
-      "title": "Decorative thermosetting synthetic resin bonded laminated sheets — Specification (second revision)",
-      "category": "Component standard",
-      "location": "Clause 6.3.3",
-      "relevance": "Governs the chemical and physical quality criteria for decorative laminates and CPL face coatings."
+      "target_is_code": "IS 2046 : 1995",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2380 (Part 17)",
-      "title": "Methods of test for wood particle boards and other lignocellulose-based fiber boards: Part 17 Determination of swelling in thickness after immersion in water",
-      "category": "Test method",
-      "location": "Clause 6.5",
-      "relevance": "Prescribes the testing procedures utilized to determine infill core water-swelling resistance."
+      "target_is_code": "IS 2380 (Part 17)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3087",
-      "title": "Wood particle boards (medium density) for general purposes — Specification",
-      "category": "Component standard",
-      "location": "Clause 7.4",
-      "relevance": "Governs Grade 1 core-particle board materials used inside solid door blanks."
+      "target_is_code": "IS 3087",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 12406",
-      "title": "Medium density fibre boards for general purposes — Specification",
-      "category": "Component standard",
-      "location": "Clause 7.4",
-      "relevance": "Governs Grade 1 core-MDF board materials used inside solid door blanks."
+      "target_is_code": "IS 12406",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3097",
-      "title": "Veneered particle boards — Specification",
-      "category": "Component standard",
-      "location": "Clause 7.4",
-      "relevance": "Governs Grade 1 veneered particle board core materials used inside solid door blanks."
+      "target_is_code": "IS 3097",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 2 : 2022",
-      "title": "Rules for rounding off numerical values (second revision)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated values to verify standard conformity."
+      "target_is_code": "IS 2 : 2022",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2202 (Part 1) : 2023",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2191 (Part 1) : 2022",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2191 (Part 2) : 2022",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1003 (Part 1) : 2003",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "allied_standards": [
-    {
-      "is_number": "IS 2202 (Part 1) : 2023",
-      "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification: Part 1 Plywood Face Panels",
-      "category": "Sister standard",
-      "location": "Foreword",
-      "relevance": "The plywood-faced counterpart standard, sharing identical wooden core construction rules."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Plywood and Wooden Flush Door Shutters (Quality Control) Order",
+      "year": 2016
     },
-    {
-      "is_number": "IS 2191 (Part 1) : 2022",
-      "title": "Wooden Flush Door Shutters (Cellular and Hollow Core Type) — Specification, Part 1: Plywood Face Panels",
-      "category": "Product specification",
-      "location": "Parallel door group",
-      "relevance": "Parallel standard regulating cellular-core door constructions with plywood face panels."
-    },
-    {
-      "is_number": "IS 2191 (Part 2) : 2022",
-      "title": "Wooden Flush Door Shutters (Cellular and Hollow Core Type) — Specification, Part 2: Particle Board and Hardboard Face Panels",
-      "category": "Product specification",
-      "location": "Parallel door group",
-      "relevance": "Parallel standard regulating cellular-core door constructions with particle board or fibre hardboard face panels."
-    },
-    {
-      "is_number": "IS 1003 (Part 1) : 2003",
-      "title": "Timber panelled and glazed shutters: Part 1 Door shutters — Specification",
-      "category": "Product specification",
-      "location": "Parallel door group",
-      "relevance": "Parallel standard regulating traditional panelled and glazed solid timber door shutters."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Building Materials / Wooden Doors)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the statutory 'Plywood and Wooden Flush Door Shutters (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all solid core wooden flush door shutters with particle board, MDF, HDF, and fibre hardboard face panels must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified flush doors is a criminal offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition periods, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to building construction doors.",
+    "description": "Strict Statutory Mandatory Certification. Under the statutory 'Plywood and Wooden Flush Door Shutters (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry, Government of India, all solid core wooden flush door shutters with particle board, MDF, HDF, and fibre hardboard face panels must carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified flush doors is a criminal offense under the Bureau of Indian Standards Act, 2016. MSMEs are granted phased transition periods, and export-only shipments are exempt. Precious metal hallmarking is completely inapplicable to building construction doors.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every door shutter must carry the BIS Standard Mark (ISI Mark) marked legibly and indelibly on any of its edges, along with the manufacturer's name/trademark, brand name, batch number, date of manufacture, size, and the standard number (IS 2202 Part 2).",
-        "clause_reference": "Clause 14 (implied)"
-      },
-      {
-        "requirement_type": "Door Construction Scope Expansion (Note 1)",
-        "detail": "Under Amendment No. 1, the standard explicitly covers different constructions of doors, including doors having stiles and rails as well as doors having particle/MDF board door blanks.",
-        "clause_reference": "Foreword Note 1",
-        "page_reference": "Page 1 of Amendment No. 1",
-        "citations": "[1]"
-      },
-      {
-        "requirement_type": "Scope Relationship (Note 2)",
-        "detail": "The requirements given in IS 2202 (Part 2) are in addition or alternative to the plywood face panel requirements defined in IS 2202 (Part 1).",
-        "clause_reference": "Foreword Note 2",
-        "page_reference": "Page 1 of Amendment No. 1",
-        "citations": "[1]"
-      },
-      {
-        "requirement_type": "Decorative Face Panels Pencil Hardness (Clause 6.3.3)",
-        "detail": "For BDPV, PDPV, and MDPV types of flush door shutters, face panels of particle board, MDF, HDF, and fibre hardboard with decorative faces of PVC foils, other types of foils, or ABS sheets must pass 1H of the pencil hardness test as per Annex C to IS 17637. Face panels of prelaminated MDF or HDF must meet the Type IV abrasion resistance requirements of IS 14587. Face panels with decorative laminates or continuous pressed laminates (CPL) must meet the type VLS requirements of IS 2046.",
-        "clause_reference": "Clause 6.3.3 (Amended)",
-        "page_reference": "Page 2 of Amendment No. 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Core Terminology Alignment",
-        "detail": "In Clause 6.4, the term 'core' is substituted with 'infill board/core' to align with modern manufacturing blanks and stave-type layouts.",
-        "clause_reference": "Clause 6.4 (Amended)",
-        "page_reference": "Page 2 of Amendment No. 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Infill Board Swelling in Thickness (Clause 6.5)",
-        "detail": "The core particle board, MDF, or HDF board must exhibit highly controlled thickness swelling when tested: the swelling in thickness after 2 hours of immersion in water, when tested in accordance with IS 2380 (Part 17), shall not exceed a strict maximum of 5 percent.",
-        "clause_reference": "Clause 6.5 (Amended)",
-        "page_reference": "Page 2 of Amendment No. 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Face Panel Formation and Thickness (Clause 7.2)",
-        "detail": "The face panels must be formed by gluing under hot, cold, or high frequency press processes onto the faces of the particle board, HDF board, MDF board, or fibre hardboard, with or without decorative laminates, PVC foils, CPL, or ABS sheets. The combined thickness of the face panels must be at least 3 mm.",
-        "clause_reference": "Clause 7.2 (Amended)",
-        "page_reference": "Page 2 of Amendment No. 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Solid Door Blanks Core Grading (Clause 7.4)",
-        "detail": "Flush door shutters manufactured with solid door blanks of particle board, MDF, or veneered particle board must conform to Grade 1 of IS 3087, Grade 1 of IS 12406, and Grade 1 of IS 3097, respectively. The edge-banding/beading must consist of solid timber of any species (preferably from Annex B of Part 1) or of PVC or ABS material, applied to the full thickness of the door, and its thickness must pass the screw withdrawal test.",
-        "clause_reference": "Clause 7.4 (Added)",
-        "page_reference": "Page 2 of Amendment No. 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Immersion & Knife Test Exclusions",
-        "detail": "Under Amendment No. 1, for solid core door blanks featuring edge banding or beaded edges, the end immersion test and knife (glue adhesion) test shall not be applicable.",
-        "clause_reference": "Clause 10.1 (Amended)",
-        "page_reference": "Page 2 of Amendment No. 1",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Mechanical Screw-holding strength",
-        "detail": "The door must resist screw pullout during hinge assembly: when tested in accordance with IS 4020 (Part 16), the minimum load required to completely withdraw the wood screw must be at least 1 000 N, with zero local delamination, chipping, or cracking.",
-        "clause_reference": "Clause 10.1 (implied)"
-      }
+      "Every door shutter must carry the BIS Standard Mark (ISI Mark) marked legibly and indelibly on any of its edges, along with the manufacturer's name/trademark, brand name, batch number, date of manufacture, size, and the standard number (IS 2202 Part 2).",
+      "Under Amendment No. 1, the standard explicitly covers different constructions of doors, including doors having stiles and rails as well as doors having particle/MDF board door blanks.",
+      "The requirements given in IS 2202 (Part 2) are in addition or alternative to the plywood face panel requirements defined in IS 2202 (Part 1).",
+      "For BDPV, PDPV, and MDPV types of flush door shutters, face panels of particle board, MDF, HDF, and fibre hardboard with decorative faces of PVC foils, other types of foils, or ABS sheets must pass 1H of the pencil hardness test as per Annex C to IS 17637. Face panels of prelaminated MDF or HDF must meet the Type IV abrasion resistance requirements of IS 14587. Face panels with decorative laminates or continuous pressed laminates (CPL) must meet the type VLS requirements of IS 2046.",
+      "In Clause 6.4, the term 'core' is substituted with 'infill board/core' to align with modern manufacturing blanks and stave-type layouts.",
+      "The core particle board, MDF, or HDF board must exhibit highly controlled thickness swelling when tested: the swelling in thickness after 2 hours of immersion in water, when tested in accordance with IS 2380 (Part 17), shall not exceed a strict maximum of 5 percent.",
+      "The face panels must be formed by gluing under hot, cold, or high frequency press processes onto the faces of the particle board, HDF board, MDF board, or fibre hardboard, with or without decorative laminates, PVC foils, CPL, or ABS sheets. The combined thickness of the face panels must be at least 3 mm.",
+      "Flush door shutters manufactured with solid door blanks of particle board, MDF, or veneered particle board must conform to Grade 1 of IS 3087, Grade 1 of IS 12406, and Grade 1 of IS 3097, respectively. The edge-banding/beading must consist of solid timber of any species (preferably from Annex B of Part 1) or of PVC or ABS material, applied to the full thickness of the door, and its thickness must pass the screw withdrawal test.",
+      "Under Amendment No. 1, for solid core door blanks featuring edge banding or beaded edges, the end immersion test and knife (glue adhesion) test shall not be applicable.",
+      "The door must resist screw pullout during hinge assembly: when tested in accordance with IS 4020 (Part 16), the minimum load required to completely withdraw the wood screw must be at least 1 000 N, with zero local delamination, chipping, or cracking."
     ]
   },
-  "keywords": [
-    "IS 2202 (Part 2) : 2022",
-    "Wooden Flush Doors",
-    "Solid Core Shutters",
-    "Particle Board Face Panels",
-    "HDF Face Panels",
-    "MDF Face Panels",
-    "Fibre Hardboard",
-    "Door Blanks",
-    "Thickness Swelling",
-    "Pencil Hardness Test",
-    "Plywood QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 2202 (Part 2) : 2022 is the mandatory national Indian Standard safety specification regulating solid core wooden flush door shutters with face panels made of particle board, HDF, MDF, or fibre hardboard [1]. Under the national Plywood and Wooden Flush Door Shutters Quality Control Order (QCO), all such shutters sold or imported in India must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). Amendment No. 1 (August 2024) introduces critical updates [1, 2]: it expands the scope to cover diverse doors with stiles and rails as well as solid board door blanks [1]; mandates a 1H pencil hardness for PVC or ABS foil-covered faces [2]; restricts infill core thickness swelling to a maximum of 5% [2]; and explicitly waives the end immersion and knife tests for edge-banded or beaded door blanks [2]—ensuring structural integrity and resistance to extreme moisture and mechanical misuse in residential and commercial buildings."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "2202_2_amd1.pdf",
     "document_version_edition": "Fourth Revision, 2022 (incorporating Amendment No. 1, August 2024)"
   }

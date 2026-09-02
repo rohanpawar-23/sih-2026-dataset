@@ -1,138 +1,113 @@
 {
-  "basic_identification": {
-    "is_number": "IS 2164 : 1961",
-    "full_title": "Method for Calculation of Bulk Quantities of Petroleum and Liquid Petroleum Products (पेट्रोलियम और तरल पेट्रोलियम उत्पादों की थोक मात्रा की गणना की विधि)",
-    "sector_category": "Chemical / Petroleum Measurements (originally finalized by the Petroleum Measurements Sectional Committee, CDC 32, under the Chemical Division Council of the Indian Standards Institution, and currently maintained under the Production and General Engineering Department, technical committee PGD 26 - Weights and Measures)",
-    "ics_code": "17.060; 75.180.30",
+  "standard": {
+    "is_code": "IS 2164:1961",
+    "title": "Method for Calculation of Bulk Quantities of Petroleum and Liquid Petroleum Products (पेट्रोलियम और तरल पेट्रोलियम उत्पादों की थोक मात्रा की गणना की विधि)",
+    "sector": "Chemical / Petroleum Measurements",
+    "ics_code": [
+      "17.060",
+      "75.180.30"
+    ],
     "sectional_committee": {
       "name": "Weights and Measures Sectional Committee",
       "number": "PGD 26"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the standardized procedures, mathematical equations, temperature correction factors, and density-conversion coefficients used to calculate the bulk quantities (volumes and weights) of petroleum and liquid petroleum products stored in large bulk carrier tanks, stationary vertical storage tanks, or ship holds. It unifies calculation methods to provide the maximum possible accuracy in final calculated quantities compatible with the precision of physical measurements.",
+    "scope": "This Indian Standard prescribes the standardized procedures, mathematical equations, temperature correction factors, and density-conversion coefficients used to calculate the bulk quantities (volumes and weights) of petroleum and liquid petroleum products stored in large bulk carrier tanks, stationary vertical storage tanks, or ship holds. It unifies calculation methods to provide the maximum possible accuracy in final calculated quantities compatible with the precision of physical measurements.",
+    "keywords": [
+      "IS 2164 : 1961",
+      "Calculation of Bulk Quantities",
+      "Petroleum Products Volumes",
+      "Non-Petroleum Correction Coefficients",
+      "Density at 15 deg C",
+      "IS 1519 Temperature Measurements",
+      "IS 1448 Density P-16",
+      "Appendix E Petroleum Blends",
+      "Appendix F Organic Solvents",
+      "PGD 26 Weights and Measures",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the standardized procedures, mathematical equations, temperature correction factors, and density-conversion coefficients used to calculate the bulk quantities (volumes and weights) of petroleum and liquid petroleum products stored in large bulk carrier tanks, stationary vertical storage tanks, or ship holds. It unifies calculation methods to provide the maximum possible accuracy in final calculated quantities compatible with the precision of physical measurements.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, June 1961 (Reaffirmed 2024, previous reaffirmations in 2002, 2013, 2018)",
-    "year_first_published": "1961",
+  "version": {
+    "current_version": "First Edition, June 1961 (Reaffirmed 2024, previous reaffirmations in 2002, 2013, 2018)",
+    "first_publication_year": 1961,
+    "publication_year": 1961,
+    "revision": "First Edition (IS 2164 : 1961)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 2164 : 1961)",
-        "year": "1961"
-      }
+      "First Edition (IS 2164 : 1961), 1961"
     ],
-    "supersedes": "None (Developed as a new standalone code to standardize bulk liquid petroleum calculations across the Indian oil and chemical sector)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1519 (Part I) : 1961",
-      "title": "Method for temperature measurement of petroleum and its products, Part I",
-      "category": "Temperature measurement",
-      "relevance": "This standard ensures that the accepted oil temperature is substantially correct and has been obtained in accordance with standard national recommendations."
-    },
-    {
-      "is_number": "IS 1448 (Part I) : 1960 (P:16)",
-      "title": "Methods of test for petroleum and its products, Part I — Density and relative density",
-      "category": "Testing standard",
-      "relevance": "Outlines the standard hydrometer or pycnometer methods to determine density at 15°C."
-    },
-    {
-      "is_number": "IS 2 : 1960 (or IS 2 : 2022)",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardizes the mathematical rounding of evaluated parameters, densities, temperatures, and volumes to ensure absolute consistency and prevent legal metrology disputes."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1058 : 1993",
-      "title": "Legal metrology — Commercial capacity measures — Specification (second revision)",
-      "category": "Metrology standard",
-      "relevance": "Liquid products in retail and small-scale operations are measured using calibrated volumetric vessels, which must be verified and stamped by the same weights and measures sectional committee (PGD 26)."
-    },
-    {
-      "is_number": "IS 1434 : 2026",
-      "title": "Counter Weighing Machines — Specification (First Revision)",
-      "category": "Fastener standard",
-      "relevance": "Commercial bulk packaging lines of drummed or containerized lubricants integrate Class III weighing scales to check net weights of petroleum products."
-    },
-    {
-      "is_number": "IS 14220 : 2018",
-      "title": "Openwell Submersible Pumpsets — Specification",
-      "category": "Product Specification",
-      "relevance": "Wet-type submersible pump motor lubricants and volumetric test tank calibrations are verified using capacity and flow-meters calibrated against master standards."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "High-risk operations in petroleum bulk depots, refinery laboratory testing, and calibration yards require safety audits to maintain active ventilation, explosion-proof lighting, and proper PPE."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork, structural columns, and gantry platforms supporting heavy petroleum storage tanks."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Measurement Evaluation & Quality-Control Code of Practice (Electrotechnical Department / Lifts, PGD 26)",
-    "certification_status": "Voluntary Code of Practice. However, under state distribution and legal metrology rules, central university petroleum research labs, oil public sector undertakings (PSUs), and customs calibration systems, newly designed fuel terminal systems are audited and verified to comply with the bulk density and temperature correction coefficients specified under IS 2164.",
-    "requirements": [
+    "supersedes": [
+      "None (Developed as a new standalone code to standardize bulk liquid petroleum calculations across the Indian oil and chemical sector)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, densities, temperatures, and volumes must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Core Mathematical Accuracy Principle",
-        "detail": "The calculation method is explicitly optimized to ensure maximum possible accuracy in the final calculated quantities compatible with the precision of the physical measurements, utilizing standard calibration tables.",
-        "clause_reference": "Foreword 0.3"
-      },
-      {
-        "requirement_type": "Accepted Oil Temperature Verification",
-        "detail": "Accepted oil temperature must be substantially correct and obtained in accordance with the standard guidelines and precautions laid down in IS 1519 (Part I) : 1961.",
-        "clause_reference": "Foreword 0.2(c)"
-      },
-      {
-        "requirement_type": "Oil Density at 15 deg C Verification",
-        "detail": "All product densities must be determined strictly in accordance with standard hydrometer or pycnometer test methods laid down in P:16 of IS 1448 (Part I) : 1960.",
-        "clause_reference": "Foreword 0.2(d)"
-      },
-      {
-        "requirement_type": "Volume Correction Coefficient for Petroleum Blends",
-        "detail": "Appendix E prescribes the volume correction coefficients per °C of petroleum products, to be used only for blends of petroleum with non-petroleum products based on standard density at 15°C (kg/l) (e.g. 0.5994 to 0.6022 kg/l uses 0.00173; 0.7416 to 0.7468 kg/l uses 0.00110; 1.0753 to 1.1249 kg/l uses 0.00058).",
-        "clause_reference": "Appendix E [Clause 10.5 & 6.3(b)]"
-      },
-      {
-        "requirement_type": "Volume Correction Coefficient for Non-Petroleum Products",
-        "detail": "Appendix F defines standard coefficients for organic chemicals and solvents per °C (e.g. Benzene: 0.00124; Toluole: 0.00104; Xylole: 0.00100; Creosote oil: 0.00073; Coal tar: 0.00054; Methyl alcohol: 0.00118; Ethyl alcohol: 0.00108).",
-        "clause_reference": "Appendix F [Clause 10.5 & 6.3(b)]"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL"
       }
     ]
   },
-  "keywords": [
-    "IS 2164 : 1961",
-    "Calculation of Bulk Quantities",
-    "Petroleum Products Volumes",
-    "Non-Petroleum Correction Coefficients",
-    "Density at 15 deg C",
-    "IS 1519 Temperature Measurements",
-    "IS 1448 Density P-16",
-    "Appendix E Petroleum Blends",
-    "Appendix F Organic Solvents",
-    "PGD 26 Weights and Measures",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 1519 (Part I) : 1961",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1448 (Part I) : 1960 (P:16)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960 (or IS 2 : 2022)",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1058 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1434 : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14220 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 2164 : 1961 (Reaffirmed 2024) is the primary national Indian Standard code of practice prescribing standard procedures, mathematical equations, temperature correction factors, and density-conversion coefficients used to calculate the bulk quantities of petroleum and liquid petroleum products. Maintained under the Weights and Measures Sectional Committee (PGD 26) and reaffirmed in 2024, the standard unifies calculation methods to provide maximum possible volumetric and mass accuracy compatible with the precision of physical measurements. It mandates temperature measurement per IS 1519 (Part I) and density testing per P:16 of IS 1448. By defining standard volume correction coefficients for petroleum blends (Appendix E) and organic solvents/chemicals (Appendix F), the standard ensures complete safety, consistency, and equity across national refineries, ports, and bulk carriers."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. However, under state distribution and legal metrology rules, central university petroleum research labs, oil public sector undertakings (PSUs), and customs calibration systems, newly designed fuel terminal systems are audited and verified to comply with the bulk density and temperature correction coefficients specified under IS 2164.",
+    "requirements": [
+      "Observed or calculated final test values, densities, temperatures, and volumes must be mathematically rounded off in accordance with IS 2:1960. The decimal places retained should match that of the specified value in the standard.",
+      "The calculation method is explicitly optimized to ensure maximum possible accuracy in the final calculated quantities compatible with the precision of the physical measurements, utilizing standard calibration tables.",
+      "Accepted oil temperature must be substantially correct and obtained in accordance with the standard guidelines and precautions laid down in IS 1519 (Part I) : 1961.",
+      "All product densities must be determined strictly in accordance with standard hydrometer or pycnometer test methods laid down in P:16 of IS 1448 (Part I) : 1960.",
+      "Appendix E prescribes the volume correction coefficients per °C of petroleum products, to be used only for blends of petroleum with non-petroleum products based on standard density at 15°C (kg/l) (e.g. 0.5994 to 0.6022 kg/l uses 0.00173; 0.7416 to 0.7468 kg/l uses 0.00110; 1.0753 to 1.1249 kg/l uses 0.00058).",
+      "Appendix F defines standard coefficients for organic chemicals and solvents per °C (e.g. Benzene: 0.00124; Toluole: 0.00104; Xylole: 0.00100; Creosote oil: 0.00073; Coal tar: 0.00054; Methyl alcohol: 0.00118; Ethyl alcohol: 0.00108)."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "2164_1961_reaff2024.pdf",
     "document_version_edition": "First Edition, 1961"
   }

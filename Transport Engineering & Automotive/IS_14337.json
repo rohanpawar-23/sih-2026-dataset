@@ -1,180 +1,129 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14337 : 1996",
-    "full_title": "Shipbuilding — Mineral Fibre Resin Bonded Slabs — Specification",
-    "sector_category": "Transport Engineering / Shipbuilding (approved by the Transport Engineering Division Council and finalized by the Shipbuilding Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "47.020.05",
+  "standard": {
+    "is_code": "IS 14337:1996",
+    "title": "Shipbuilding — Mineral Fibre Resin Bonded Slabs — Specification",
+    "sector": "Transport Engineering / Shipbuilding",
+    "ics_code": [
+      "47.020.05"
+    ],
     "sectional_committee": {
       "name": "Shipbuilding Sectional Committee",
       "number": "TED 17"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the requirements, materials, manufacture, and methods of sampling and testing for mineral fibre resin bonded slabs used for thermal insulation and acoustic lagging on board ships. It applies specifically to flat surfaces operating at temperatures from -25°C to 350°C.",
+    "scope": "This standard specifies the requirements, materials, manufacture, and methods of sampling and testing for mineral fibre resin bonded slabs used for thermal insulation and acoustic lagging on board ships. It applies specifically to flat surfaces operating at temperatures from -25°C to 350°C.",
+    "keywords": [
+      "IS 14337 : 1996",
+      "Shipbuilding",
+      "Mineral Fibre Slabs",
+      "Resin Bonded Slabs",
+      "Thermal Insulation",
+      "Acoustic Lagging",
+      "Water Absorption Test",
+      "Thermal Conductivity",
+      "Shot Content",
+      "Alkalinity Limit",
+      "TED 17",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the requirements, materials, manufacture, and methods of sampling and testing for mineral fibre resin bonded slabs used for thermal insulation and acoustic lagging on board ships. It applies specifically to flat surfaces operating at temperatures from -25°C to 350°C.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1996 (Reaffirmed 2006, Reviewed and Reaffirmed in 2025)",
-    "year_first_published": "1996",
+  "version": {
+    "current_version": "First Edition, 1996 (Reaffirmed 2006, Reviewed and Reaffirmed in 2025)",
+    "first_publication_year": 1996,
+    "publication_year": 1996,
+    "revision": "First Edition (finalized drawing assistance from Naval Specification No. NCD 1412 and BS 2972 : 1989)",
     "revision_history": [
-      {
-        "edition": "First Edition (finalized drawing assistance from Naval Specification No. NCD 1412 and BS 2972 : 1989)",
-        "year": "1996"
-      }
+      "First Edition (finalized drawing assistance from Naval Specification No. NCD 1412 and BS 2972 : 1989), 1996"
     ],
-    "supersedes": "None (developed as a new dedicated national standard to regulate resin-bonded mineral fibre insulation slabs in marine services)",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 3069 : 1994",
-      "title": "Glossary of terms, symbols and units relating to thermal insulation materials (first revision)",
-      "category": "Normative reference",
-      "location": "Clause 3",
-      "relevance": "Provides standardized vocabulary, engineering symbols, and physical units applied throughout thermal insulation specifications."
-    },
-    {
-      "is_number": "IS 3144 : 1990",
-      "title": "Methods of test for mineral wools thermal insulation materials (second revision)",
-      "category": "Testing standard",
-      "location": "Clause 6.1 & Table 1",
-      "relevance": "Outlines laboratory testing methods for measuring alkalinity, shot content, dimensions, and visual characteristics of mineral wools."
-    },
-    {
-      "is_number": "IS 3346 : 1980",
-      "title": "Method for the determination of thermal conductivity of thermal insulation materials (two slab guarded hot-plate method) (first revision)",
-      "category": "Testing standard",
-      "location": "Table 1 (v)",
-      "relevance": "Defines the standard reference method utilizing a guarded hot-plate setup to determine the thermal conductivity of insulating slabs."
-    },
-    {
-      "is_number": "IS 13286 : 1992",
-      "title": "Surface spread of flame for thermal insulation materials — Methods of test",
-      "category": "Testing standard",
-      "location": "Table 1 (iv)",
-      "relevance": "Prescribes standard testing protocols to assess flammability and surface spread of flame for marine and industrial insulation materials."
-    },
-    {
-      "is_number": "IS 460 (Part 2) : 1992",
-      "title": "Specification for test sieves: Part 2 Perforated plate test sieves (third revision)",
-      "category": "Normative reference",
-      "location": "Table 1 (ii)",
-      "relevance": "Specifies sizing and tolerances of perforated plate test sieves (such as 500-micron and 250-micron sieves) used to determine shot content."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 14335 : 1996",
-      "title": "Shipbuilding — Mineral fibre marine board for thermal insulation — Specification",
-      "category": "Product Specification",
-      "location": "Parallel Marine Thermal Insulation Category",
-      "relevance": "A sister shipbuilding standard regulating rigid mineral fibre marine boards used for bulkheads and linings rather than flat semi-rigid slabs."
-    },
-    {
-      "is_number": "IS 11294 (Part 1) : 1985",
-      "title": "Side Scuttles for Inland Vessels — Part 1 : General Requirements",
-      "category": "Product Specification",
-      "location": "Parallel Marine Outfitting Category",
-      "relevance": "A fellow shipbuilding and outfitting standard present in the notebook, regulating framed portholes on hulls and superstructures."
-    },
-    {
-      "is_number": "IS 10527 : 1983",
-      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-      "category": "System Standard",
-      "location": "Parallel Marine Engineering Category",
-      "relevance": "A fellow transport and marine engineering system standard present in the notebook, defining standard air system pressures."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design Standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel design standard in this notebook, which interfaces with marine structural framing."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Marine Materials / Thermal Insulation)",
-    "certification_status": "Voluntary Quality and Performance Specification. Unlike safety-critical builders hardware or transport systems under mandatory QCOs, mineral fibre slabs for shipbuilding are certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) on slab wrapping or tags. However, compliance with this specification is universally required in commercial shipyards, Indian Navy, and Coast Guard procurement tenders to ensure fire safety, structural thermal efficiency, and acoustic lagging performance on flat surfaces.",
-    "requirements": [
+    "supersedes": [
+      "None (developed as a new dedicated national standard to regulate resin-bonded mineral fibre insulation slabs in marine services)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every commercial package, crate, or bundle of slabs conforming to this standard may carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Composition & Materials",
-        "detail": "Slabs must consist of glass, rock, or slag fibres impregnated with a suitable organic or inorganic resin binder.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Dimensional Sizing and Thickness",
-        "detail": "Standard dimensions are specified as 1000 mm length x 500 mm width. Preferred thicknesses are 25, 50, 75, or 100 mm. Alternative dimensions may be supplied as mutually agreed between the purchaser and supplier.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "Maximum Finished Slabs Weight",
-        "detail": "The maximum weight of finished slabs must not exceed values defined in the code for each specified thickness (e.g. 1 kg/m² for 25 mm slabs) to manage the ship's overall deadweight.",
-        "clause_reference": "Clause 6.3"
-      },
-      {
-        "requirement_type": "Water Absorption Testing (Annex A)",
-        "detail": "Slabs are tested for water absorption through partial immersion. A 150 mm x 25 mm specimen is suspended vertically with its edge immersed 6 mm below the surface of tap water for 48 hours. After immersion (and careful wiping of surface water), the water absorption must not exceed the specified limit of 4 kg/m².",
-        "clause_reference": "Table 1 (iii) & Annex A"
-      },
-      {
-        "requirement_type": "Low Alkalinity Restriction",
-        "detail": "To prevent galvanic corrosion on contacting steel bulkheads or aluminum hulls in marine environments, the alkalinity of the mineral fibres must be low, capped at a maximum of 1 percent when tested per IS 3144.",
-        "clause_reference": "Table 1 (i)"
-      },
-      {
-        "requirement_type": "Shot Content Limits",
-        "detail": "Un-fiberized glassy particles (shot) decrease thermal efficiency. The standard limits shot content to a maximum of 5 percent by mass for particles passing a 500-micron sieve, and 15 percent by mass for a 250-micron sieve. Any individual shot particle must not exceed 5 mm in any dimension.",
-        "clause_reference": "Table 1 (ii)"
-      },
-      {
-        "requirement_type": "Surface Spread of Flame & Flammability",
-        "detail": "For fire safety on board vessels, slabs must satisfy Class 1 flammability requirements (low flame spread) when tested in accordance with IS 13286.",
-        "clause_reference": "Table 1 (iv)"
-      },
-      {
-        "requirement_type": "Thermal Conductivity limit",
-        "detail": "To provide adequate thermal barrier performance, the thermal conductivity at a mean temperature of 20°C must not exceed 0.035 W/m°C when evaluated by the guarded hot-plate method of IS 3346.",
-        "clause_reference": "Table 1 (v)"
-      },
-      {
-        "requirement_type": "Resin Binder Content",
-        "detail": "The binder resin content (impregnation ratio) must range strictly between a minimum of 5 percent and a maximum of 10 percent by mass (tested per Annex B) to maintain structural integrity of the slabs without creating excessive organic mass.",
-        "clause_reference": "Table 1 (vi) & Annex B"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 14337 : 1996",
-    "Shipbuilding",
-    "Mineral Fibre Slabs",
-    "Resin Bonded Slabs",
-    "Thermal Insulation",
-    "Acoustic Lagging",
-    "Water Absorption Test",
-    "Thermal Conductivity",
-    "Shot Content",
-    "Alkalinity Limit",
-    "TED 17",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 3069 : 1994",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3144 : 1990",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3346 : 1980",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13286 : 1992",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 460 (Part 2) : 1992",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14335 : 1996",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11294 (Part 1) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10527 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 14337 : 1996 is the national Indian Standard specification governing mineral fibre resin bonded slabs used for thermal insulation and acoustic lagging on board ships. Certified on a voluntary basis under the BIS Standard Mark (ISI Mark) scheme, the standard regulates slabs made from rock, glass, or slag wool fibres bound with resin, designed for operating temperatures between -25°C and 350°C. To ensure durability, safety, and compatibility with steel bulkheads in wet marine environments, it enforces strict benchmarks—including a maximum 1% alkalinity limit to prevent corrosion, Class 1 fire-retardant surface flame spread, low thermal conductivity (max 0.035 W/m°C), and a strict water absorption limit (max 4 kg/m²) tested via a rigorous 48-hour partial immersion test."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Quality Control Order",
+      "year": null
+    },
+    "description": "Voluntary Quality and Performance Specification. Unlike safety-critical builders hardware or transport systems under mandatory QCOs, mineral fibre slabs for shipbuilding are certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) on slab wrapping or tags. However, compliance with this specification is universally required in commercial shipyards, Indian Navy, and Coast Guard procurement tenders to ensure fire safety, structural thermal efficiency, and acoustic lagging performance on flat surfaces.",
+    "requirements": [
+      "Every commercial package, crate, or bundle of slabs conforming to this standard may carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+      "Slabs must consist of glass, rock, or slag fibres impregnated with a suitable organic or inorganic resin binder.",
+      "Standard dimensions are specified as 1000 mm length x 500 mm width. Preferred thicknesses are 25, 50, 75, or 100 mm. Alternative dimensions may be supplied as mutually agreed between the purchaser and supplier.",
+      "The maximum weight of finished slabs must not exceed values defined in the code for each specified thickness (e.g. 1 kg/m² for 25 mm slabs) to manage the ship's overall deadweight.",
+      "Slabs are tested for water absorption through partial immersion. A 150 mm x 25 mm specimen is suspended vertically with its edge immersed 6 mm below the surface of tap water for 48 hours. After immersion (and careful wiping of surface water), the water absorption must not exceed the specified limit of 4 kg/m².",
+      "To prevent galvanic corrosion on contacting steel bulkheads or aluminum hulls in marine environments, the alkalinity of the mineral fibres must be low, capped at a maximum of 1 percent when tested per IS 3144.",
+      "Un-fiberized glassy particles (shot) decrease thermal efficiency. The standard limits shot content to a maximum of 5 percent by mass for particles passing a 500-micron sieve, and 15 percent by mass for a 250-micron sieve. Any individual shot particle must not exceed 5 mm in any dimension.",
+      "For fire safety on board vessels, slabs must satisfy Class 1 flammability requirements (low flame spread) when tested in accordance with IS 13286.",
+      "To provide adequate thermal barrier performance, the thermal conductivity at a mean temperature of 20°C must not exceed 0.035 W/m°C when evaluated by the guarded hot-plate method of IS 3346.",
+      "The binder resin content (impregnation ratio) must range strictly between a minimum of 5 percent and a maximum of 10 percent by mass (tested per Annex B) to maintain structural integrity of the slabs without creating excessive organic mass."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "14337_1996_reff2021.pdf",
     "document_version_edition": "First Edition, 1996 (Reaffirmed 2025)"
   }

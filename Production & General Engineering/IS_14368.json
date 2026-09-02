@@ -1,174 +1,118 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14368 : 1996",
-    "full_title": "PORTABLE PNEUMATIC WELDFLUX SCALERS — SPECIFICATION",
-    "sector_category": "Production Engineering / Pneumatic Tools (finalized by the Pneumatic Tools Sectional Committee PE 08 and approved by the Production Engineering Division Council of the Bureau of Indian Standards)",
-    "ics_code": "ICS 25.140.10; 25.160.30",
+  "standard": {
+    "is_code": "IS 14368:1996",
+    "title": "PORTABLE PNEUMATIC WELDFLUX SCALERS — SPECIFICATION",
+    "sector": "Production Engineering / Pneumatic Tools",
+    "ics_code": [
+      "ICS 25.140.10",
+      "25.160.30"
+    ],
     "sectional_committee": {
       "name": "Pneumatic Tools Sectional Committee",
       "number": "PE 08"
-    }
-  },
-  "scope": {
-    "summary": "This Indian Standard specifies requirements for portable pneumatic weldflux scalers or weld flux chippers used for scaling applications such as removal of weld flux scales, excess metal after welding, and spatter. They are also intended for removing paint, soot, and rust from metal surfaces before welding.",
-    "clause_number": "Clause 1 & Foreword",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1996 (Reaffirmed 2001)",
-    "year_first_published": "1996",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1996"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 196 : 1966",
-      "title": "Atmospheric conditions for testing (revised)",
-      "category": "Normative / Testing Environment Standard",
-      "location": "Clause 2",
-      "relevance": "Specifies the standardized ambient temperature and humidity boundaries for evaluating pneumatic tool operating ratings."
     },
-    {
-      "is_number": "IS 554 : 1985",
-      "title": "Dimension for pipe threads where pressure tight joints are required on the threads (third revision)",
-      "category": "Normative / Thread Design Standard",
-      "location": "Clause 2 & Clause 6.3.2",
-      "relevance": "Governs the sizing, limits, and tolerances of the Rc 1/2 inlet pressure-tight joints."
-    },
-    {
-      "is_number": "IS 1570 (Part 2/Sec 1) : 1979",
-      "title": "Schedules for wrought steels: Part 2 Carbon steels (unalloyed steels), Section 1 Wrought products (other than wire) with specified chemical composition and related properties (first revision)",
-      "category": "Normative / Steel Composition Standard",
-      "location": "Clause 2",
-      "relevance": "Specifies the chemical composition limits and grading rules for raw structural steels used to forge tool bodies."
-    },
-    {
-      "is_number": "IS 11609 : 1986",
-      "title": "Technical supply conditions for pneumatic tools",
-      "category": "Normative / Technical Supply Conditions",
-      "location": "Clause 2",
-      "relevance": "Establishes baseline engineering requirements, quality controls, testing configurations, and delivery criteria for pneumatic equipment."
-    },
-    {
-      "is_number": "IS 12531 : 1988",
-      "title": "Dimensions for weldflux scaler shanks and nozzle holes",
-      "category": "Normative / Dimensional Interface Standard",
-      "location": "Clause 2",
-      "relevance": "Defines interchangeability dimensions for matching scaling chisels, shank inserts, and front nozzle ports."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 196 : 1966",
-      "title": "Atmospheric conditions for testing (revised)",
-      "category": "Normative / Testing Environment Standard",
-      "location": "Clause 2",
-      "relevance": "Specifies the standardized ambient temperature and humidity boundaries for evaluating pneumatic tool operating ratings."
-    },
-    {
-      "is_number": "IS 554 : 1985",
-      "title": "Dimension for pipe threads where pressure tight joints are required on the threads (third revision)",
-      "category": "Normative / Thread Design Standard",
-      "location": "Clause 2 & Clause 6.3.2",
-      "relevance": "Governs the sizing, limits, and tolerances of the Rc 1/2 inlet pressure-tight joints."
-    },
-    {
-      "is_number": "IS 1570 (Part 2/Sec 1) : 1979",
-      "title": "Schedules for wrought steels: Part 2 Carbon steels (unalloyed steels), Section 1 Wrought products (other than wire) with specified chemical composition and related properties (first revision)",
-      "category": "Normative / Steel Composition Standard",
-      "location": "Clause 2",
-      "relevance": "Specifies the chemical composition limits and grading rules for raw structural steels used to forge tool bodies."
-    },
-    {
-      "is_number": "IS 11609 : 1986",
-      "title": "Technical supply conditions for pneumatic tools",
-      "category": "Normative / Technical Supply Conditions",
-      "location": "Clause 2",
-      "relevance": "Establishes baseline engineering requirements, quality controls, testing configurations, and delivery criteria for pneumatic equipment."
-    },
-    {
-      "is_number": "IS 12531 : 1988",
-      "title": "Dimensions for weldflux scaler shanks and nozzle holes",
-      "category": "Normative / Dimensional Interface Standard",
-      "location": "Clause 2",
-      "relevance": "Defines interchangeability dimensions for matching scaling chisels, shank inserts, and front nozzle ports."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Pneumatic Tools / Construction Equipment)",
-    "certification_status": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing third-party certified mechanical and testing parameter compliance.",
-    "requirements": [
-      {
-        "requirement_type": "Mechanical Operation",
-        "detail": "Defines the tool as a percussive piston mechanism. The potential energy of compressed air acting on a free piston is converted into kinetic energy, driving the piston to strike a scaling chisel to chip off weldflux scales, stone, concrete, bricks, or wood.",
-        "clause_reference": "Clause 3.1"
-      },
-      {
-        "requirement_type": "Integrated Blowing Auxiliary Device",
-        "detail": "Requires the provision of an air-blowing feature designed to clean up and clear chipped slag, scales, and dust from the active working surface.",
-        "clause_reference": "Clause 3.3"
-      },
-      {
-        "requirement_type": "Raw Material Grade Consistency",
-        "detail": "The material must be of uniform quality and completely free of physical defects, scale, seams, or structural imperfections that degrade the tool's functional service life.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Tool Envelope and Weight Limits",
-        "detail": "Limits the overall length of the weldflux scaler to a maximum of 300 mm. The recommended nominal mass is 2 kg, holding a strict tolerance of +10% / -0%.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Pneumatic Lubricant Enclosure",
-        "detail": "Enforces that all components requiring lubrication must be securely enclosed within the tool housing to prevent the ingress of abrasive scaling dust and leakage of lubricant.",
-        "clause_reference": "Clause 6.1"
-      },
-      {
-        "requirement_type": "Working Component Hardness",
-        "detail": "Working parts directly exposed to reciprocating wear must hold a sufficient hardness level to withstand heavy, continuous industrial percussive cycles.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "Air Inlet Connection and Integrated Strainer",
-        "detail": "The air inlet nipple must incorporate an integrated mesh air strainer or screen to filter solid particles from the compressed air line. The assembly must be designed to be easily cleanable.",
-        "clause_reference": "Clause 6.3.1"
-      },
-      {
-        "requirement_type": "Inlet Pipe Thread Specifications",
-        "detail": "The air inlet connection must carry precision pipe threads of nominal size Rc 1/2 conforming to the engineering dimensions of IS 554.",
-        "clause_reference": "Clause 6.3.2"
-      },
-      {
-        "requirement_type": "Ergonomic Handle Configurations",
-        "detail": "Handles must be manufactured according to the standard ergonomic layouts, grips, and dimensions illustrated in Figure 1 and Figure 2 of the specification.",
-        "clause_reference": "Clause 6.4"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard specifies requirements for portable pneumatic weldflux scalers or weld flux chippers used for scaling applications such as removal of weld flux scales, excess metal after welding, and spatter. They are also intended for removing paint, soot, and rust from metal surfaces before welding.",
+    "scope": "This Indian Standard specifies requirements for portable pneumatic weldflux scalers or weld flux chippers used for scaling applications such as removal of weld flux scales, excess metal after welding, and spatter. They are also intended for removing paint, soot, and rust from metal surfaces before welding.",
+    "keywords": [
+      "IS 14368 : 1996",
+      "Pneumatic Weldflux Scalers",
+      "Weld Flux Chipper",
+      "Pneumatic Tools",
+      "PE 08",
+      "Blowing Device",
+      "Air Inlet Strainer",
+      "Rc 1/2 Thread",
+      "IS 554",
+      "IS 12531",
+      "IS 11609"
     ]
   },
-  "keywords": [
-    "IS 14368 : 1996",
-    "Pneumatic Weldflux Scalers",
-    "Weld Flux Chipper",
-    "Pneumatic Tools",
-    "PE 08",
-    "Blowing Device",
-    "Air Inlet Strainer",
-    "Rc 1/2 Thread",
-    "IS 554",
-    "IS 12531",
-    "IS 11609"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 14368 : 1996 is the national Indian Standard specification governing portable pneumatic weldflux scalers (or weld flux chippers). Finalized by the Pneumatic Tools Sectional Committee (PE 08), this standard regulates manual percussive piston tools used in heavy metalworking, welding shops, and shipyards to chip away excess metal, weld spatter, flux scale, paint, rust, or soot from steel plates. It establishes strict physical boundaries, including a maximum length of 300 mm, a nominal mass of 2 kg (+10% / -0% tolerance), and a standard Rc 1/2 threaded air inlet equipped with an integrated, cleanable particle strainer to protect internal cylinders. To ensure operator efficiency and tool durability, it defines standard handle geometries, mandates dust-tight oil chambers, and requires case-hardened reciprocating working parts."
+  "version": {
+    "current_version": "First Edition, 1996 (Reaffirmed 2001)",
+    "first_publication_year": 1996,
+    "publication_year": 1996,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1996"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS 196 : 1966",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 554 : 1985",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1570 (Part 2/Sec 1) : 1979",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11609 : 1986",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12531 : 1988",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 196 : 1966",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 554 : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1570 (Part 2/Sec 1) : 1979",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11609 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12531 : 1988",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Conformity assessment is governed under the Bureau of Indian Standards scheme, providing third-party certified mechanical and testing parameter compliance.",
+    "requirements": [
+      "Defines the tool as a percussive piston mechanism. The potential energy of compressed air acting on a free piston is converted into kinetic energy, driving the piston to strike a scaling chisel to chip off weldflux scales, stone, concrete, bricks, or wood.",
+      "Requires the provision of an air-blowing feature designed to clean up and clear chipped slag, scales, and dust from the active working surface.",
+      "The material must be of uniform quality and completely free of physical defects, scale, seams, or structural imperfections that degrade the tool's functional service life.",
+      "Limits the overall length of the weldflux scaler to a maximum of 300 mm. The recommended nominal mass is 2 kg, holding a strict tolerance of +10% / -0%.",
+      "Enforces that all components requiring lubrication must be securely enclosed within the tool housing to prevent the ingress of abrasive scaling dust and leakage of lubricant.",
+      "Working parts directly exposed to reciprocating wear must hold a sufficient hardness level to withstand heavy, continuous industrial percussive cycles.",
+      "The air inlet nipple must incorporate an integrated mesh air strainer or screen to filter solid particles from the compressed air line. The assembly must be designed to be easily cleanable.",
+      "The air inlet connection must carry precision pipe threads of nominal size Rc 1/2 conforming to the engineering dimensions of IS 554.",
+      "Handles must be manufactured according to the standard ergonomic layouts, grips, and dimensions illustrated in Figure 1 and Figure 2 of the specification."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "14368_1996_reff2021.pdf",
     "document_version_edition": "First Edition, 1996 (Reaffirmed 2001)"
   }

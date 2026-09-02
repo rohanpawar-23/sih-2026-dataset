@@ -1,178 +1,125 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11388 : 2012",
-    "full_title": "Recommendations for Design of Trash Racks for Intakes (अन्तरग्राही कचरा रैक के डिजाइन की सिफारिशें) (Second Revision)",
-    "sector_category": "Water Resources / Water Conductor Systems (approved by the Water Resources Division Council and finalized by the Water Conductor Systems Sectional Committee, WRD 14, of the Bureau of Indian Standards)",
-    "ics_code": "93.160",
+  "standard": {
+    "is_code": "IS 11388:2012",
+    "title": "Recommendations for Design of Trash Racks for Intakes (अन्तरग्राही कचरा रैक के डिजाइन की सिफारिशें) (Second Revision)",
+    "sector": "Water Resources / Water Conductor Systems",
+    "ics_code": [
+      "93.160"
+    ],
     "sectional_committee": {
       "name": "Water Conductor Systems Sectional Committee",
       "number": "WRD 14"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard specifies recommendations, guidelines, and structural and hydraulic design criteria for trash racks provided at the entrance of water intakes (including tunnels, penstocks, channels, and power houses) in river valley and hydroelectric projects to minimize hydraulic head losses and prevent ice, debris, or floating trash from entering water conductors.",
+    "scope": "This standard specifies recommendations, guidelines, and structural and hydraulic design criteria for trash racks provided at the entrance of water intakes (including tunnels, penstocks, channels, and power houses) in river valley and hydroelectric projects to minimize hydraulic head losses and prevent ice, debris, or floating trash from entering water conductors.",
+    "keywords": [
+      "IS 11388 : 2012",
+      "Trash Racks",
+      "Water Intake",
+      "Water Conductor Systems",
+      "Approach Velocity",
+      "Clear Spacing",
+      "Differential Head",
+      "Vibration Stability",
+      "Forcing Frequency",
+      "Natural Frequency",
+      "Strouhal Number",
+      "WRD 14"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies recommendations, guidelines, and structural and hydraulic design criteria for trash racks provided at the entrance of water intakes (including tunnels, penstocks, channels, and power houses) in river valley and hydroelectric projects to minimize hydraulic head losses and prevent ice, debris, or floating trash from entering water conductors.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, August 2012 (Reaffirmed 2017/2022)",
-    "year_first_published": "1985 (originally published in 1985, revised in 1995 as the first revision, and updated to second revision in 2012)",
+  "version": {
+    "current_version": "Second Revision, August 2012 (Reaffirmed 2017/2022)",
+    "first_publication_year": 1985,
+    "publication_year": 2012,
+    "revision": "Second Revision (IS 11388 : 2012)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 11388 : 1985)",
-        "year": "1985"
-      },
-      {
-        "edition": "First Revision (IS 11388 : 1995)",
-        "year": "1995"
-      },
-      {
-        "edition": "Second Revision (IS 11388 : 2012)",
-        "year": "2012"
-      }
+      "First Edition (IS 11388 : 1985), 1985",
+      "First Revision (IS 11388 : 1995), 1995",
+      "Second Revision (IS 11388 : 2012), 2012"
     ],
-    "supersedes": "IS 11388 : 1995",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "General Construction in Steel — Code of Practice (Third Revision)",
-      "category": "Design standard",
-      "relevance": "Provides structural steel design requirements, load combinations, and bending stress criteria for fabricating the steel framing of trash rack panels."
-    },
-    {
-      "is_number": "IS 2062",
-      "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
-      "category": "Material standard",
-      "relevance": "Specifies structural steel grades (such as E250) commonly used for manufacturing trash rack flats, channels, and plates."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10021 : 2000",
-      "title": "Guidelines for De-icing System for Hydraulic Installations (First Revision)",
-      "category": "Operating standard",
-      "location": "Notebook Co-source",
-      "relevance": "A sister hydraulic installation outfitting standard present in the notebook, specifying de-icing compressed air bubbler layouts to prevent ice accumulation on trash racks in freezing climates."
-    },
-    {
-      "is_number": "IS 10386 (Part 11) : 2026",
-      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
-      "category": "Safety Code",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates underground excavation safety, tunnel lining, and drainage systems, where trash racks protect downstream tunnels from blockages."
-    },
-    {
-      "is_number": "IS 16115 : 2013",
-      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
-      "category": "Evaluation standard",
-      "location": "Notebook Co-source",
-      "relevance": "Uses topographical mapping and canal structures to evaluate completed irrigation networks, including checking the operational efficiency of intake trash racks."
-    },
-    {
-      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
-      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
-      "category": "Terminology standard",
-      "location": "Notebook Co-source",
-      "relevance": "Provides standardized terms (such as water years, torrents, and freshets) to ensure uniform interpretation during post-project hydrological audits."
-    },
-    {
-      "is_number": "IS 16091 : 2013",
-      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
-      "category": "Performance Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates fluid flow measurement instruments used in water conductor systems, which are aligned with topographical benchmarks."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies impermeable PVC barrier linings for raw water reservoirs and canals leading to intake systems."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Design and Operational Guidelines (Water Resources Department / Water Conductor Systems)",
-    "certification_status": "Voluntary Code of Practice. Since IS 11388:2012 is an engineering guideline and design code rather than a direct consumer product, it does not carry a mandatory BIS 'ISI Mark' product stamp. However, compliance with its design loads, clear opening parameters, bar thicknesses, and vibration resonance limits is strictly mandated in public sector hydropower, water-diverting tunnels, and river valley intake tenders (under agencies such as NHPC, SJVN, THDC, NEEPCO, CWC, and state irrigation departments) across India to prevent structural failures, turbine damage, or water conductor blockages. Precious metal hallmarking is completely inapplicable.",
-    "requirements": [
+    "supersedes": [
+      "IS 11388 : 1995"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Slope Criteria for Raking",
-        "detail": "Trash racks are typically installed at an incline from the vertical to facilitate manual or mechanical raking. A slope of 15 degrees from the vertical is commonly recommended to lower manual effort and ensure easy debris clearance."
-      },
-      {
-        "requirement_type": "Clear Opening Spacing Limits",
-        "detail": "Spacing of vertical bars must be as wide as possible to prolong cleaning intervals while preventing harmful debris from entering. Clear openings typically range from 7.5 to 15 cm for medium-size turbines, and 15 to 25 cm for larger-size turbines, or designed proportional to the runner diameter (e.g., 1/30 to 1/50 of runner diameter)."
-      },
-      {
-        "requirement_type": "Minimum Bar Thickness",
-        "detail": "Trash rack bars must have a minimum thickness of 10 mm to 12 mm to provide sufficient resistance against structural bending, physical impacts of heavy debris, and corrosion."
-      },
-      {
-        "requirement_type": "Approach Velocity Boundaries",
-        "detail": "To keep hydraulic head losses minimum and prevent debris from being drawn too tightly against the trash rack face, the approach velocity through the net area of the trash rack is generally restricted to 0.75 m/s to 1.5 m/s (typically kept below 1.5 m/s, or 1.0 m/s for normal flow conditions)."
-      },
-      {
-        "requirement_type": "Lateral Support Spacing Limits",
-        "detail": "To prevent lateral-torsional buckling or excessive vibration without support, the maximum lateral unsupported length of any trash rack bar must not exceed 70 times the bar thickness (L/t <= 70)."
-      },
-      {
-        "requirement_type": "Design Differential Head Surcharges",
-        "detail": "To safeguard against sudden blocking, trash rack bars must be designed for a minimum differential hydraulic head of 6.0 m of water. The supporting steel members (beams and frames) must be designed for a higher differential head of 7.0 m of water, ensuring that the bars fail first before the supporting structure during severe blockage."
-      },
-      {
-        "requirement_type": "Trash Rack Bar Bending Strength",
-        "detail": "Trash rack bars are assumed to fail when the bending stress reaches:\n\u03c3 = \u03c3_y * (1.23 - 0.0153 * L / t)\nwhere \u03c3_y is the yield stress of the steel, L is the laterally unsupported length, and t is the bar thickness. For bars used to support flash boards, the safe working stress must not exceed 2/3 of this failure stress."
-      },
-      {
-        "requirement_type": "Horizontal Beam Rigidity Limits",
-        "detail": "Horizontal intermediate support beams should not require stress reduction for lack of lateral support and are assumed to fail at yield point stress. However, calculations must include dead weights of both the beam and bars. To ensure rigidity during handling and operation, the lateral deflection of these beams under load must not exceed 1/325 of the span."
-      },
-      {
-        "requirement_type": "Check for Stability Against Vibration",
-        "detail": "Trash racks must be checked for hydrodynamically induced vibration (vortex shedding). The ratio of the forcing frequency of vortex shedding (Fi) to the natural frequency (Fn) must satisfy:\nFi / Fn <= 0.6 for normal conditions, and must not exceed 0.65 for a short period."
-      },
-      {
-        "requirement_type": "Forced Frequency Calculation",
-        "detail": "The forced frequency of vortex shedding is calculated as:\nFi = St * Veff / t\nwhere St is the Strouhal number (typically 0.18 to 0.22 based on bar profile), Veff is the effective velocity in the net area, and t is the bar thickness perpendicular to the flow."
-      },
-      {
-        "requirement_type": "Natural Frequency Calculation",
-        "detail": "The natural frequency of the trash rack must be calculated incorporating steel elasticity (E), moment of inertia (I), acceleration due to gravity (g), steel weight density (\u03b3s), bar thickness (t), and the virtual mass density of water (\u03b3be)."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 11388 : 2012",
-    "Trash Racks",
-    "Water Intake",
-    "Water Conductor Systems",
-    "Approach Velocity",
-    "Clear Spacing",
-    "Differential Head",
-    "Vibration Stability",
-    "Forcing Frequency",
-    "Natural Frequency",
-    "Strouhal Number",
-    "WRD 14"
+  "relationships": [
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2062",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10021 : 2000",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10386 (Part 11) : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16115 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4410 (Part 11/Sec 1) : 2024",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16091 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11388 : 2012 (Second Revision) is the national Indian Standard specification establishing recommendations for the design of trash racks at water intakes. Formulated by the Water Conductor Systems Sectional Committee (WRD 14), this standard unifies structural and hydraulic design criteria for trash rack bars and supports in hydroelectric and river valley projects. It restricts approach velocities to below 1.5 m/s to minimize head losses, mandates a minimum bar thickness of 10–12 mm, enforces a design differential head of 6.0 m for bars and 7.0 m for supports, and establishes a rigid vortex-shedding vibration check requiring the ratio of forcing-to-natural frequency to remain under 0.6 to prevent destructive resonance."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice. Since IS 11388:2012 is an engineering guideline and design code rather than a direct consumer product, it does not carry a mandatory BIS 'ISI Mark' product stamp. However, compliance with its design loads, clear opening parameters, bar thicknesses, and vibration resonance limits is strictly mandated in public sector hydropower, water-diverting tunnels, and river valley intake tenders (under agencies such as NHPC, SJVN, THDC, NEEPCO, CWC, and state irrigation departments) across India to prevent structural failures, turbine damage, or water conductor blockages. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      "Trash racks are typically installed at an incline from the vertical to facilitate manual or mechanical raking. A slope of 15 degrees from the vertical is commonly recommended to lower manual effort and ensure easy debris clearance.",
+      "Spacing of vertical bars must be as wide as possible to prolong cleaning intervals while preventing harmful debris from entering. Clear openings typically range from 7.5 to 15 cm for medium-size turbines, and 15 to 25 cm for larger-size turbines, or designed proportional to the runner diameter (e.g., 1/30 to 1/50 of runner diameter).",
+      "Trash rack bars must have a minimum thickness of 10 mm to 12 mm to provide sufficient resistance against structural bending, physical impacts of heavy debris, and corrosion.",
+      "To keep hydraulic head losses minimum and prevent debris from being drawn too tightly against the trash rack face, the approach velocity through the net area of the trash rack is generally restricted to 0.75 m/s to 1.5 m/s (typically kept below 1.5 m/s, or 1.0 m/s for normal flow conditions).",
+      "To prevent lateral-torsional buckling or excessive vibration without support, the maximum lateral unsupported length of any trash rack bar must not exceed 70 times the bar thickness (L/t <= 70).",
+      "To safeguard against sudden blocking, trash rack bars must be designed for a minimum differential hydraulic head of 6.0 m of water. The supporting steel members (beams and frames) must be designed for a higher differential head of 7.0 m of water, ensuring that the bars fail first before the supporting structure during severe blockage.",
+      "Trash rack bars are assumed to fail when the bending stress reaches:\nσ = σ_y * (1.23 - 0.0153 * L / t)\nwhere σ_y is the yield stress of the steel, L is the laterally unsupported length, and t is the bar thickness. For bars used to support flash boards, the safe working stress must not exceed 2/3 of this failure stress.",
+      "Horizontal intermediate support beams should not require stress reduction for lack of lateral support and are assumed to fail at yield point stress. However, calculations must include dead weights of both the beam and bars. To ensure rigidity during handling and operation, the lateral deflection of these beams under load must not exceed 1/325 of the span.",
+      "Trash racks must be checked for hydrodynamically induced vibration (vortex shedding). The ratio of the forcing frequency of vortex shedding (Fi) to the natural frequency (Fn) must satisfy:\nFi / Fn <= 0.6 for normal conditions, and must not exceed 0.65 for a short period.",
+      "The forced frequency of vortex shedding is calculated as:\nFi = St * Veff / t\nwhere St is the Strouhal number (typically 0.18 to 0.22 based on bar profile), Veff is the effective velocity in the net area, and t is the bar thickness perpendicular to the flow.",
+      "The natural frequency of the trash rack must be calculated incorporating steel elasticity (E), moment of inertia (I), acceleration due to gravity (g), steel weight density (γs), bar thickness (t), and the virtual mass density of water (γbe)."
+    ]
   },
-  "author_committee_attribution": {
-    "chairperson": "SHRI SARBJIT SINGH BAKSHI (Chief Engineer Design NW&S, CWC)",
-    "sectional_committee": "Water Conductor Systems Sectional Committee (WRD 14)",
-    "member_secretary": "MR. NAVDEEP YADAV (Scientist ‘C’/Deputy Director, BIS)",
-    "department_head": "SHRI DUSHYANT PRAJAPATI (Scientist ‘E’/Director and Head, Water Resources Department, BIS)"
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "Research_report_IS_11388_Trash_Racks.md",
     "document_version_edition": "Second Revision, August 2012"
   }

@@ -1,170 +1,129 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11730 : 1986",
-    "full_title": "Glossary of Terms for Cocoa, Chocolate and its Products (कोको, चॉकलेट और इसके उत्पादों के लिए शब्दावली)",
-    "sector_category": "Food and Agriculture / Stimulant Foods (approved by the Agricultural and Food Products Division Council and finalized by the Stimulant Foods Sectional Committee, FAD 06, of the Bureau of Indian Standards)",
-    "ics_code": "01.040.67; 67.140.30",
+  "standard": {
+    "is_code": "IS 11730:1986",
+    "title": "Glossary of Terms for Cocoa, Chocolate and its Products (कोको, चॉकलेट और इसके उत्पादों के लिए शब्दावली)",
+    "sector": "Food and Agriculture / Stimulant Foods",
+    "ics_code": [
+      "01.040.67",
+      "67.140.30"
+    ],
     "sectional_committee": {
       "name": "Stimulant Foods Sectional Committee",
       "number": "FAD 06"
-    }
+    },
+    "standard_type": "TERMINOLOGY",
+    "status": "ACTIVE",
+    "description": "This standard defines the terms commonly used in the field of cocoa, chocolate, and its products, providing uniform nomenclature and precise interpretation for trade, manufacturing, quality control, and regulatory purposes at both national and international levels.",
+    "scope": "This standard defines the terms commonly used in the field of cocoa, chocolate, and its products, providing uniform nomenclature and precise interpretation for trade, manufacturing, quality control, and regulatory purposes at both national and international levels.",
+    "keywords": [
+      "IS 11730 : 1986",
+      "Glossary",
+      "Terms",
+      "Cocoa",
+      "Chocolate",
+      "Acetylated Waxy Maize Starch",
+      "Acid Modified Thin Boiling Starches",
+      "Acid Value",
+      "Aflatoxin",
+      "FAD 06",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard defines the terms commonly used in the field of cocoa, chocolate, and its products, providing uniform nomenclature and precise interpretation for trade, manufacturing, quality control, and regulatory purposes at both national and international levels.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 3 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, April 1986 (Reaffirmed 2022)",
-    "year_first_published": "1986 (originally adopted on 15 April 1986 by the Indian Standards Institution)",
+  "version": {
+    "current_version": "First Edition, April 1986 (Reaffirmed 2022)",
+    "first_publication_year": 1986,
+    "publication_year": 1986,
+    "revision": "First Edition (IS 11730 : 1986)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 11730 : 1986)",
-        "year": "1986"
-      }
+      "First Edition (IS 11730 : 1986), 1986"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated chemical and physical analytical values."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1163 : 1992",
-      "title": "Chocolates — Specification (Third Revision)",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee FAD 06",
-      "relevance": "Specifies physical and chemical requirements for milk, dark, and white chocolates, using definitions standardized in IS 11730."
-    },
-    {
-      "is_number": "IS 11923 : 1986",
-      "title": "Cocoa Mass — Specification",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee FAD 06",
-      "relevance": "Regulates the active quality, packaging, and marking parameters of cocoa mass (cocoa liquor)."
-    },
-    {
-      "is_number": "IS 11924 : 1986",
-      "title": "Cocoa Butter — Specification",
-      "category": "Product Specification",
-      "location": "Same Sectional Committee FAD 06",
-      "relevance": "Specifies chemical limits and extraction methods for cocoa butter."
-    },
-    {
-      "is_number": "IS 10017 : 1981",
-      "title": "Code of practice for construction of cocoa beans storage structures",
-      "category": "Codes of Practice",
-      "location": "Same Sectional Committee FAD 06",
-      "relevance": "Governs storage infrastructure designed to protect harvested cocoa beans from pest damage and moisture absorption."
-    },
-    {
-      "is_number": "IS 7236 : 2013",
-      "title": "Coffee and Coffee Products — Vocabulary (First Revision)",
-      "category": "Nomenclature standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A sister terminology standard present in the notebook, defining standard terms and classifications for coffee."
-    },
-    {
-      "is_number": "IS 11816 (Part 3) : 2018",
-      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
-      "category": "Pest-Control standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "Regulates post-harvest storage pest control, ensuring that raw agricultural stimulant ingredients remain free of insect and mammalian infestation."
-    },
-    {
-      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
-      "category": "Assessment standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A fellow post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
-    },
-    {
-      "is_number": "IS 16066 : 2017",
-      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
-      "category": "Food Safety standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "Specifies hygiene requirements for street food preparation, directly governing the on-site handling of chocolates, confectionery, and baked goods."
-    },
-    {
-      "is_number": "IS 10500 : 2012",
-      "title": "Drinking Water — Specification (Second Revision)",
-      "category": "Water quality standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "Mandates water potability parameters, ensuring that the water utilized in beverage preparation and processing lines remains free of impurities."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, panel thickness, and connections for agricultural warehouses, confectionery processing plants, and food-storage silos."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Nomenclature Standard / Glossary of Terms (Food and Agriculture / Stimulant Foods)",
-    "certification_status": "Voluntary Code of Practice / Guideline. Since IS 11730 : 1986 is a terminology standard rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, its terminology represents the exact legally binding dictionary utilized by the Food Safety and Standards Authority of India (FSSAI) and the Ministry of Commerce and Industry during agricultural grading, trade contract specifications, and customs classifications.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Foreword Adoption",
-        "detail": "Adopted by the Indian Standards Institution on 15 April 1986, after the draft finalized by the Stimulant Foods Sectional Committee had been approved by the Agricultural and Food Products Division Council.",
-        "clause_reference": "Foreword, Clause 0.1"
-      },
-      {
-        "requirement_type": "Nomenclature Uniformity",
-        "detail": "Formulated to achieve uniformity in the use of terms and their precise interpretation, especially in trade, at both the national and international levels.",
-        "clause_reference": "Foreword, Clause 0.2"
-      },
-      {
-        "requirement_type": "Definition of Acetylated Waxy Maize Starch",
-        "detail": "Defines this starch as gel-resistant to freezing and thawing. It dissolves readily in cold water to form a clear, smooth, short texture.",
-        "clause_reference": "Clause 2.1"
-      },
-      {
-        "requirement_type": "Definition of Acid Modified Thin Boiling Starches",
-        "detail": "Defines this as modified starch available with varying fluidity and nature of application in the production of gums and jellies. It features low viscosity during hot depositing, good gel rigidity, clarity, and short texture.",
-        "clause_reference": "Clause 2.2"
-      },
-      {
-        "requirement_type": "Definition of Acid Value",
-        "detail": "Defines this as the number of milligrams of potassium hydroxide required to neutralize the free fatty acids present in 1 g of fat, normally expressed as a percentage of major fatty acids (if calculated as oleic acid, it is half the acid value).",
-        "clause_reference": "Clause 2.3"
-      },
-      {
-        "requirement_type": "Definition of Aflatoxin",
-        "detail": "Defines this as a toxin formed by the action of the molds Aspergillus flavus, Aspergillus parasiticus, or Penicillium puberulum on cocoa beans, peanuts, etc.",
-        "clause_reference": "Clause 2.4"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or analysis value must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 11730 : 1986",
-    "Glossary",
-    "Terms",
-    "Cocoa",
-    "Chocolate",
-    "Acetylated Waxy Maize Starch",
-    "Acid Modified Thin Boiling Starches",
-    "Acid Value",
-    "Aflatoxin",
-    "FAD 06",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1163 : 1992",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11923 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11924 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10017 : 1981",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7236 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11816 (Part 3) : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16066 : 2017",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10500 : 2012",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11730 : 1986 is the national Indian Standard establishing a unified glossary of terms for cocoa, chocolate, and its products. Prepared under the Stimulant Foods Sectional Committee (FAD 06) and reaffirmed in 2022, this terminology standard provides precise definitions for chemical parameters, ingredients, and contaminants—such as Acid Value, Acetylated Waxy Maize Starch, Acid Modified Thin Boiling Starches, and Aflatoxin—to ensure absolute consistency across food safety regulations, industrial processing, commercial trade, and customs auditing in India."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Code of Practice / Guideline. Since IS 11730 : 1986 is a terminology standard rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, its terminology represents the exact legally binding dictionary utilized by the Food Safety and Standards Authority of India (FSSAI) and the Ministry of Commerce and Industry during agricultural grading, trade contract specifications, and customs classifications.",
+    "requirements": [
+      "Adopted by the Indian Standards Institution on 15 April 1986, after the draft finalized by the Stimulant Foods Sectional Committee had been approved by the Agricultural and Food Products Division Council.",
+      "Formulated to achieve uniformity in the use of terms and their precise interpretation, especially in trade, at both the national and international levels.",
+      "Defines this starch as gel-resistant to freezing and thawing. It dissolves readily in cold water to form a clear, smooth, short texture.",
+      "Defines this as modified starch available with varying fluidity and nature of application in the production of gums and jellies. It features low viscosity during hot depositing, good gel rigidity, clarity, and short texture.",
+      "Defines this as the number of milligrams of potassium hydroxide required to neutralize the free fatty acids present in 1 g of fat, normally expressed as a percentage of major fatty acids (if calculated as oleic acid, it is half the acid value).",
+      "Defines this as a toxin formed by the action of the molds Aspergillus flavus, Aspergillus parasiticus, or Penicillium puberulum on cocoa beans, peanuts, etc.",
+      "Any observed or calculated test or analysis value must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "11730_1986_reff2022.pdf",
     "document_version_edition": "First Edition, 1986"
   }

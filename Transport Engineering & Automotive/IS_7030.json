@@ -1,142 +1,108 @@
 {
-  "basic_identification": {
-    "is_number": "IS 7030 : 1988",
-    "full_title": "Identification of Parts for Complete, Filled Transport Packages when Testing (First Revision)",
-    "sector_category": "Transport Engineering / Transport Packaging and Pallets (approved by the Marine, Cargo Movement and Packaging Division Council and finalized by the Transport Packages Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "55.180.40",
+  "standard": {
+    "is_code": "IS 7030:1988",
+    "title": "Identification of Parts for Complete, Filled Transport Packages when Testing (First Revision)",
+    "sector": "Transport Engineering / Transport Packaging and Pallets",
+    "ics_code": [
+      "55.180.40"
+    ],
     "sectional_committee": {
       "name": "Transport Packaging and Pallets",
       "number": "TED 24"
-    }
+    },
+    "standard_type": "TEST_METHOD",
+    "status": "ACTIVE",
+    "description": "This standard specifies a standardized, uniform system for identifying the different parts (surfaces, edges, and corners) of complete, filled transport packages when undergoing mechanical, physical, or environmental testing. It covers parallelepipedal (box-shaped) packages, cylindrical packages, sacks and bags, and miscellaneous packages.",
+    "scope": "This standard specifies a standardized, uniform system for identifying the different parts (surfaces, edges, and corners) of complete, filled transport packages when undergoing mechanical, physical, or environmental testing. It covers parallelepipedal (box-shaped) packages, cylindrical packages, sacks and bags, and miscellaneous packages.",
+    "keywords": [
+      "IS 7030",
+      "Transport Packaging",
+      "Complete Filled Packages",
+      "Package Testing",
+      "Parallelepipedal Packages",
+      "Cylindrical Packages",
+      "Sacks and Bags",
+      "Surfaces Edges Corners",
+      "ISO 2206",
+      "Drop and Impact Testing",
+      "TED 24"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies a standardized, uniform system for identifying the different parts (surfaces, edges, and corners) of complete, filled transport packages when undergoing mechanical, physical, or environmental testing. It covers parallelepipedal (box-shaped) packages, cylindrical packages, sacks and bags, and miscellaneous packages.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, October 1988 (Reaffirmed in 2024)",
-    "year_first_published": "1973",
+  "version": {
+    "current_version": "First Revision, October 1988 (Reaffirmed in 2024)",
+    "first_publication_year": 1973,
+    "publication_year": 1988,
+    "revision": "First Revision (reorganized and aligned with ISO 2206:1987 to expand the scope to cover sacks, bags, and miscellaneous shapes, and provide a standardized reference system)",
     "revision_history": [
-      {
-        "edition": "First Edition (published under the title 'Method for Identification of Parts for Complete, Filled Transport Packages')",
-        "year": "1973"
-      },
-      {
-        "edition": "First Revision (reorganized and aligned with ISO 2206:1987 to expand the scope to cover sacks, bags, and miscellaneous shapes, and provide a standardized reference system)",
-        "year": "1988"
-      }
+      "First Edition (published under the title 'Method for Identification of Parts for Complete, Filled Transport Packages'), 1973",
+      "First Revision (reorganized and aligned with ISO 2206:1987 to expand the scope to cover sacks, bags, and miscellaneous shapes, and provide a standardized reference system), 1988"
     ],
-    "supersedes": "IS 7030 : 1973",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "ISO 2206 : 1987",
-      "title": "Packaging — Complete, filled transport packages — Identification of parts when testing",
-      "category": "International equivalent",
-      "location": "Foreword",
-      "relevance": "Identical international reference standard providing the basis of technical alignment for identifying surfaces, edges, and corners of packages."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 7028 (all parts)",
-      "title": "Performance Tests for Complete, Filled Transport Packages",
-      "category": "Testing standard",
-      "location": "Normative companion",
-      "relevance": "A multi-part standard series (including static load stacking, fixed low-frequency vibration, horizontal impact, vertical impact drop, rolling, compression, water spray, water immersion, and toppling tests) that explicitly requires using IS 7030 to document and identify the package's tested attitude and damage locations."
-    },
-    {
-      "is_number": "IS 7031 : 2002",
-      "title": "Method of Conditioning for Testing of Complete, Filled Transport Packages",
-      "category": "Testing standard",
-      "location": "Acoustic / conditioning companion",
-      "relevance": "Direct companion standard regulating temperature and relative humidity conditioning parameters before transport packaging tests are commenced."
-    },
-    {
-      "is_number": "IS 13154 : 2015",
-      "title": "Automotive Vehicles — Tyres for Agricultural Vehicles and Their Trailers — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "A sister transport engineering standard present in the notebook, specifying pneumatic tyre limits under the Transport Engineering Division Council."
-    },
-    {
-      "is_number": "IS 12222 : 2011",
-      "title": "Automotive Vehicles — Turning Circle and Maneuverability Requirements",
-      "category": "Performance Specification",
-      "location": "Notebook Co-source",
-      "relevance": "A fellow CMVR homologation standard present in the notebook, specifying steering pad geometry and turning clearances."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in this notebook, regulating steel construction and structural support connections."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Procedural and Testing Specification (Transport Engineering / Package Testing)",
-    "certification_status": "Voluntary Procedural Standard (Transport Packaging). Since IS 7030 is an engineering methodology code rather than a consumer product, it is certified on a voluntary basis under BIS schemes. However, compliance with its structural designs, material thickness categories, air-tight joints, vaned grids, and support brackets is universally mandated inside all national public, defense, Indian Navy, port authority, and commercial shipyard procurement contracts to ensure air-tightness and corrosion protection.",
-    "requirements": [
+    "supersedes": [
+      "IS 7030 : 1973"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Parallelepipedal (Box-Shaped) Surface Identification",
-        "detail": "Requires placing the package in its intended transport position. If unknown, arbitrarily select one. If a manufacturer's joint exists, it must be placed vertically on the observer's right. With one side facing the observer, identify surfaces as: No. 1 (Top), No. 2 (Right), No. 3 (Bottom), No. 4 (Left), No. 5 (Nearest / Front), and No. 6 (Farthest away / Rear). If more than one manufacturer's joint exists, arbitrarily select one end as No. 5.",
-        "clause_reference": "Clause 2.1 & Fig. 1"
-      },
-      {
-        "requirement_type": "Parallelepipedal Edge Designation",
-        "detail": "Edges are designated by combining the numbers of the two meeting surfaces. For example, edge '1-2' identifies the line formed by the meeting of the top surface (No. 1) and the right surface (No. 2).",
-        "clause_reference": "Clause 2.1.2"
-      },
-      {
-        "requirement_type": "Parallelepipedal Corner Designation",
-        "detail": "Corners are designated by combining the numbers of the three meeting surfaces. For example, corner '1-2-5' identifies the point where the top (No. 1), right (No. 2), and front (No. 5) surfaces meet.",
-        "clause_reference": "Clause 2.1.3"
-      },
-      {
-        "requirement_type": "Cylindrical Package Identification",
-        "detail": "The ends of two perpendicular diameters on the upper surface of the cylinder are designated as 1, 3, 5, and 7. The corresponding parallel lines along the cylinder axis are designated as 2, 4, 6, and 8 respectively. The axial lines connecting them are designated as lines 1-2, 3-4, 5-6, and 7-8. If a manufacturer's joint exists, it should occupy the position 5-6.",
-        "clause_reference": "Clause 2.2 & Fig. 2"
-      },
-      {
-        "requirement_type": "Sacks and Bags Positioning and Orientation",
-        "detail": "The sack or bag is placed flat on one face with its sealed/bottom end towards the observer. Any side seam must be positioned on the observer's right. If two side seams exist, one must be on the right and the other on the left. If a longitudinal seam exists, it must face downwards, with the top (filling end) of the sack pointing away from the observer. Surfaces are then identified systematically starting from the uppermost face.",
-        "clause_reference": "Clause 2.3 & Fig. 3"
-      },
-      {
-        "requirement_type": "Miscellaneous and Irregular Packages",
-        "detail": "Irregularly shaped packages must be arbitrarily mapped using analogous designations derived from the basic parallelepipedal or cylindrical models, with all reference numbers and selected orientations fully documented in the testing report.",
-        "clause_reference": "Clause 2.4"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 7030",
-    "Transport Packaging",
-    "Complete Filled Packages",
-    "Package Testing",
-    "Parallelepipedal Packages",
-    "Cylindrical Packages",
-    "Sacks and Bags",
-    "Surfaces Edges Corners",
-    "ISO 2206",
-    "Drop and Impact Testing",
-    "TED 24"
+  "relationships": [
+    {
+      "target_is_code": "ISO 2206 : 1987",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7028 (all parts)",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 7031 : 2002",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13154 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12222 : 2011",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 7030 : 1988 is the mandatory national Indian Standard code of practice specifying a standardized method for identifying the various parts—specifically the surfaces, edges, and corners—of complete, filled transport packages when undergoing mechanical or environmental testing. Strictly required for recording tested attitudes and damage locations in all packaging evaluations (such as IS 7028 stack, drop, and vibration tests), this standard establishes a uniform numbering system. For example, in box-shaped (parallelepipedal) packages, it numbers surfaces 1 through 6 (Top, Right, Bottom, Left, Front, Rear) based on intended transport position and manufacturer's joint location, while defining clear rules for mapping cylindrical drums, paper or plastic sacks, bags, and irregularly shaped cargo containers to ensure clear, repeatable test reporting across the shipping and logistics sectors."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Procedural Standard (Transport Packaging). Since IS 7030 is an engineering methodology code rather than a consumer product, it is certified on a voluntary basis under BIS schemes. However, compliance with its structural designs, material thickness categories, air-tight joints, vaned grids, and support brackets is universally mandated inside all national public, defense, Indian Navy, port authority, and commercial shipyard procurement contracts to ensure air-tightness and corrosion protection.",
+    "requirements": [
+      "Requires placing the package in its intended transport position. If unknown, arbitrarily select one. If a manufacturer's joint exists, it must be placed vertically on the observer's right. With one side facing the observer, identify surfaces as: No. 1 (Top), No. 2 (Right), No. 3 (Bottom), No. 4 (Left), No. 5 (Nearest / Front), and No. 6 (Farthest away / Rear). If more than one manufacturer's joint exists, arbitrarily select one end as No. 5.",
+      "Edges are designated by combining the numbers of the two meeting surfaces. For example, edge '1-2' identifies the line formed by the meeting of the top surface (No. 1) and the right surface (No. 2).",
+      "Corners are designated by combining the numbers of the three meeting surfaces. For example, corner '1-2-5' identifies the point where the top (No. 1), right (No. 2), and front (No. 5) surfaces meet.",
+      "The ends of two perpendicular diameters on the upper surface of the cylinder are designated as 1, 3, 5, and 7. The corresponding parallel lines along the cylinder axis are designated as 2, 4, 6, and 8 respectively. The axial lines connecting them are designated as lines 1-2, 3-4, 5-6, and 7-8. If a manufacturer's joint exists, it should occupy the position 5-6.",
+      "The sack or bag is placed flat on one face with its sealed/bottom end towards the observer. Any side seam must be positioned on the observer's right. If two side seams exist, one must be on the right and the other on the left. If a longitudinal seam exists, it must face downwards, with the top (filling end) of the sack pointing away from the observer. Surfaces are then identified systematically starting from the uppermost face.",
+      "Irregularly shaped packages must be arbitrarily mapped using analogous designations derived from the basic parallelepipedal or cylindrical models, with all reference numbers and selected orientations fully documented in the testing report."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "7030_1988_reaff2024.pdf",
     "document_version_edition": "First Revision, October 1988 (Reaffirmed 2024)"
   }

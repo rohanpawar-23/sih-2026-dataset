@@ -1,175 +1,122 @@
 {
-  "basic_identification": {
-    "is_number": "IS 12798 : 1989",
-    "full_title": "Household Sewing Machines — Flywheels — Specification (घरेलू सिलाई मशीनें — फ्लाईव्हील (गतिपालक चक्र) — विशिष्टि)",
-    "sector_category": "Mechanical Engineering / Sewing Machines (approved by the Mechanical Engineering Division Council and finalized by the Sewing Machines Sectional Committee, MED 29, of the Bureau of Indian Standards)",
-    "ics_code": "61.080",
+  "standard": {
+    "is_code": "IS 12798:1989",
+    "title": "Household Sewing Machines — Flywheels — Specification (घरेलू सिलाई मशीनें — फ्लाईव्हील (गतिपालक चक्र) — विशिष्टि)",
+    "sector": "Mechanical Engineering / Sewing Machines",
+    "ics_code": [
+      "61.080"
+    ],
     "sectional_committee": {
       "name": "Sewing Machines Sectional Committee",
       "number": "MED 29"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the material grade, dimensional requirements, tolerances, balancing criteria, surface finishing, and testing protocols for flywheels used in household sewing machines to ensure smooth rotational inertia, vibration-free operation, and perfect mechanical mating with the arm shaft and bobbin winder.",
+    "scope": "This Indian Standard prescribes the material grade, dimensional requirements, tolerances, balancing criteria, surface finishing, and testing protocols for flywheels used in household sewing machines to ensure smooth rotational inertia, vibration-free operation, and perfect mechanical mating with the arm shaft and bobbin winder.",
+    "keywords": [
+      "IS 12798 : 1989",
+      "Household Sewing Machines",
+      "Sewing Machine Flywheel",
+      "Flywheel bush IS 13120",
+      "Grey Cast Iron FG 200",
+      "Nickel-Chromium Plating",
+      "Run-out wobble",
+      "Static Balancing",
+      "Tractor belt groove",
+      "MED 29",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the material grade, dimensional requirements, tolerances, balancing criteria, surface finishing, and testing protocols for flywheels used in household sewing machines to ensure smooth rotational inertia, vibration-free operation, and perfect mechanical mating with the arm shaft and bobbin winder.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1989 (Reaffirmed 2024) incorporating active Amendment No. 1 (September 2008)",
-    "year_first_published": "1989",
+  "version": {
+    "current_version": "First Edition, 1989 (Reaffirmed 2024) incorporating active Amendment No. 1 (September 2008)",
+    "first_publication_year": 1989,
+    "publication_year": 1989,
+    "revision": "First Edition (IS 12798 : 1989)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 12798 : 1989)",
-        "year": "1989"
-      }
+      "First Edition (IS 12798 : 1989), 1989"
     ],
-    "supersedes": "None (Formulated as a new independent standard in 1989 to separate flywheels from system-level machine specifications)",
-    "superseded_by": "N/A",
-    "amendment_slips": "Amendment No. 1 (September 2008)"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 210",
-      "title": "Grey iron castings — Specification",
-      "category": "Material standard",
-      "relevance": "Prescribes the metallurgical limits, carbon equivalencies, and minimum tensile strengths for the cast-iron wheel."
-    },
-    {
-      "is_number": "IS 13120 : 1991",
-      "title": "Household sewing machines — Flywheel bush — Specification",
-      "category": "Product Specification",
-      "relevance": "Regulates the sintered iron or brass bushing which mounts inside the central bore of the flywheel."
-    },
-    {
-      "is_number": "IS 1068",
-      "title": "Electroplated coatings of nickel plus chromium on iron and steel",
-      "category": "Surface Finishing standard",
-      "relevance": "Standardises the corrosion-resistant bright chrome plating on the hand wheel rim and hub face."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of dimensions, clearances, and test readings to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1610 : 2018",
-      "title": "Household Sewing Machine Head — Specification",
-      "category": "System Specification",
-      "relevance": "The parent system specification. Under IS 1610 product manuals, the flywheel is identified as a critical component, and its compliance is verified against IS 12798 during a full machine audit."
-    },
-    {
-      "is_number": "IS 11280 : 1996",
-      "title": "Household sewing machines — Feed bars — Specification",
-      "category": "Product Specification",
-      "relevance": "Part of the same MED 29 mechanical sewing machine family, unifying part-level tolerances across the oscillating drive system."
-    },
-    {
-      "is_number": "IS 14352 : 1996",
-      "title": "Household sewing machines — Shuttle carrier — Specification",
-      "category": "Product Specification",
-      "relevance": "Unifies tolerances and clearances for internal drive parts under the same technical committee."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Enforces industrial safety standards. Cast-iron foundries, automated machining centers, and electroplating lines are audited to verify that dust extraction, chemical fume scrubbing, and machine guards comply with national laws."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork and foundations for high-pressure molding machines and CNC milling lines."
-    }
-  ],
-  "allied_subcommittee_representatives": [
-    {
-      "name": "Mr. Prasoon Yadav (Member Secretary)",
-      "organization": "Mechanical Engineering Department, Bureau of Indian Standards, New Delhi"
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Mechanical Engineering Department / Sewing Machines)",
-    "certification_status": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or attach the physical ISI 'Standard Mark' directly on the packaging of the flywheel or the component itself to certify material grade, balancing, and plating quality in the competitive market.",
-    "requirements": [
+    "supersedes": [
+      "None (Formulated as a new independent standard in 1989 to separate flywheels from system-level machine specifications)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "The Cast Iron Grade Gate",
-        "detail": "The flywheel must be cast using grey cast iron conforming to Grade FG 150 or FG 200 of IS 210, showing zero blow-holes, shrinkage cavities, cold shuts, or hard spots.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "The Brinell Hardness Bounds",
-        "detail": "The casting must show a uniform Brinell hardness between 160 to 220 HB to ensure clean machining and prevent groove wear from drive belts.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "Central Hub Sizing Tolerance",
-        "detail": "The central hub bore designed to receive the flywheel bush (IS 13120) must be ground to a high-precision finish to prevent wobble.",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "September 2008 Calibration Limits",
-        "detail": "Under Amendment No. 1, standardizes wheel diameters: outside rim diameter Ø 143 ± 1 mm, hub collar diameter Ø 74 ± 0.5 mm, and rim thickness width 19 ± 0.1 mm to control rotational momentum.",
-        "clause_reference": "Figs. 2 & 3 as amended"
-      },
-      {
-        "requirement_type": "Maximum Axial Wobble Run-out",
-        "detail": "When mounted on a standard test mandrel, the lateral wobble of the side rim faces must not exceed 0.15 mm when rotated.",
-        "clause_reference": "Clause 6 / Performance Tests"
-      },
-      {
-        "requirement_type": "Maximum Radial Eccentricity Run-out",
-        "detail": "The radial eccentricity (run-out) of the outer rim must not exceed 0.12 mm when rotated on a test mandrel.",
-        "clause_reference": "Clause 6 / Performance Tests"
-      },
-      {
-        "requirement_type": "Static Balancing Pocket-Milling",
-        "detail": "Every flywheel must be statically balanced. Any heavy side must be corrected by pocket-milling on the inner side of the web, ensuring smooth rotation.",
-        "clause_reference": "Clause 6 / Performance Tests"
-      },
-      {
-        "requirement_type": "Corrosion Protection Nickel-Chromium Plating",
-        "detail": "The outer rim and hub face must be polished and given a bright, continuous nickel-chromium electroplated coating conforming to IS 1068, showing zero pinholes or peeling.",
-        "clause_reference": "Clause 7.1"
-      },
-      {
-        "requirement_type": "Recessed Web Synthetic Painting",
-        "detail": "The recessed web portions of the flywheel must be thoroughly cleaned of grease and scale, primed, and finished with a glossy synthetic enamel paint or powder coating (typically black).",
-        "clause_reference": "Clause 7.2"
-      },
-      {
-        "requirement_type": "Amended Plating Adhesion Checking",
-        "detail": "Under Amendment No. 1, a revised plating adhesion checking protocol is enforced, requiring the plating to resist scratching and show zero flaking under mandrel wrapping tests.",
-        "clause_reference": "Clause 7.3 as amended"
+        "amendment_number": "Amendment 1",
+        "date": "2008-09",
+        "summary": "Amendment No. 1 (September 2008)"
       }
     ]
   },
-  "keywords": [
-    "IS 12798 : 1989",
-    "Household Sewing Machines",
-    "Sewing Machine Flywheel",
-    "Flywheel bush IS 13120",
-    "Grey Cast Iron FG 200",
-    "Nickel-Chromium Plating",
-    "Run-out wobble",
-    "Static Balancing",
-    "Tractor belt groove",
-    "MED 29",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 210",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13120 : 1991",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1068",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1610 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11280 : 1996",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14352 : 1996",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 12798 : 1989 (Reaffirmed 2024) is the primary national Indian Standard specification prescribing the design, materials, construction, tolerances, and testing requirements for flywheels used in household sewing machines. Maintained under Sectional Committee MED 29 and reaffirmed in 2024, the standard unifies component manufacturing. It mandates using high-vibration-damping grey cast iron (conforming to IS 210), enforces strict manufacturing dimensional tolerances, and defines critical mechanical safety thresholds—including axial wobble run-out (max 0.15 mm), radial eccentricity (max 0.12 mm), and static balancing. Incorporating the active Amendment No. 1 (September 2008), the standard calibrates standard wheel profiles (Ø 143 mm and Ø 74 mm) and enforces a highly rigorous electroplating adhesion check to protect the wheel from corrosion and flaking."
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Product Specification. Manufacturers are highly encouraged to obtain a valid BIS license to stamp or attach the physical ISI 'Standard Mark' directly on the packaging of the flywheel or the component itself to certify material grade, balancing, and plating quality in the competitive market.",
+    "requirements": [
+      "Observed or calculated final test values, observed dimensions, or physical properties must be rounded off mathematically in accordance with IS 2:1960. The number of significant places retained should match that of the specified value in the standard.",
+      "The flywheel must be cast using grey cast iron conforming to Grade FG 150 or FG 200 of IS 210, showing zero blow-holes, shrinkage cavities, cold shuts, or hard spots.",
+      "The casting must show a uniform Brinell hardness between 160 to 220 HB to ensure clean machining and prevent groove wear from drive belts.",
+      "The central hub bore designed to receive the flywheel bush (IS 13120) must be ground to a high-precision finish to prevent wobble.",
+      "Under Amendment No. 1, standardizes wheel diameters: outside rim diameter Ø 143 ± 1 mm, hub collar diameter Ø 74 ± 0.5 mm, and rim thickness width 19 ± 0.1 mm to control rotational momentum.",
+      "When mounted on a standard test mandrel, the lateral wobble of the side rim faces must not exceed 0.15 mm when rotated.",
+      "The radial eccentricity (run-out) of the outer rim must not exceed 0.12 mm when rotated on a test mandrel.",
+      "Every flywheel must be statically balanced. Any heavy side must be corrected by pocket-milling on the inner side of the web, ensuring smooth rotation.",
+      "The outer rim and hub face must be polished and given a bright, continuous nickel-chromium electroplated coating conforming to IS 1068, showing zero pinholes or peeling.",
+      "The recessed web portions of the flywheel must be thoroughly cleaned of grease and scale, primed, and finished with a glossy synthetic enamel paint or powder coating (typically black).",
+      "Under Amendment No. 1, a revised plating adhesion checking protocol is enforced, requiring the plating to resist scratching and show zero flaking under mandrel wrapping tests."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "12798a1.pdf",
     "document_version_edition": "First Edition, 1989 (incorporating Amendment No. 1, September 2008)"
   }

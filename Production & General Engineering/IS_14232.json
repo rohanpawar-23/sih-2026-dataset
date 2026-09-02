@@ -1,195 +1,134 @@
 {
-  "basic_identification": {
-    "is_number": "IS 14232 : 1995 [1]",
-    "full_title": "SHAVING SYSTEMS — CASES FOR BARBERS TOOLS — SPECIFICATION [1]",
-    "sector_category": "Fasteners for Consumer Goods and Hair Cutting, Shaving, Shearing and Allied Equipments Sectional Committee, LM 15 / Light Mechanical Engineering Division Council [1]",
-    "ics_code": "UDC 687.53.058.71 : 621-798-12 ( 675.18 ) [1]",
+  "standard": {
+    "is_code": "IS 14232:1995",
+    "title": "SHAVING SYSTEMS — CASES FOR BARBERS TOOLS — SPECIFICATION [1]",
+    "sector": "Fasteners for Consumer Goods and Hair Cutting, Shaving, Shearing and Allied Equipments Sectional Committee, LM 15 / Light Mechanical Engineering Division Council [1]",
+    "ics_code": [
+      "UDC 687.53.058.71 : 621-798-12 ( 675.18 ) [1]"
+    ],
     "sectional_committee": {
       "name": "Fasteners for Consumer Goods and Hair Cutting, Shaving, Shearing and Allied Equipments Sectional Committee [1]",
       "number": "LM 15 [1]"
-    }
-  },
-  "scope": {
-    "summary": "This specification covers the requirements of cases for barbers tools [2].",
-    "clause_number": "Clause 1.1 [2]",
-    "page_number": "Page 1 of base standard [2]"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, February 1995 (reaffirmed 2000) [1]",
-    "year_first_published": "1995 [1]",
-    "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1995 [1]"
-      }
-    ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": []
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 580 : 1973",
-      "title": "Specification for harness leather ( second revision ) [2]",
-      "category": "Raw Materials / Quality Standard",
-      "location": "Clause 2, Clause 3.1, Clause 5.2 [2, 3]",
-      "relevance": "Specifies the cow or buffalo curried leather quality and thickness tolerance parameters utilized in manufacturing the case's top cover, straps, body, and bottom rests [2, 3]."
     },
-    {
-      "is_number": "IS 2907 : 1964",
-      "title": "Specification for non-ferrous rivets ( 1.6 to 10 mm ) [2]",
-      "category": "Normative / Fasteners Component Standard",
-      "location": "Clause 2, Clause 3.1 [2, 3]",
-      "relevance": "Specifies the dimensions and material requirements for copper hose rivets (3 mm tinned with washer) used to attach metallic components [2, 3]."
-    },
-    {
-      "is_number": "IS 4274 : 1981",
-      "title": "Specification for buckles (first revision ) [2]",
-      "category": "Normative / Fasteners Component Standard",
-      "location": "Clause 2, Clause 3.1 [2, 3]",
-      "relevance": "Governs the dimensions and tolerances for single brass roller buckles of 16 mm and 25 mm sizes used to fasten straps [2, 3]."
-    },
-    {
-      "is_number": "IS 4905 : 1968",
-      "title": "Methods for random sampling [2]",
-      "category": "Testing / Quality Control Standard",
-      "location": "Clause 2, Clause 9.2 [2, 3]",
-      "relevance": "Establishes statistical procedures and techniques for random selection of cases during product compliance inspections [2, 3]."
-    },
-    {
-      "is_number": "IS 9543 : 1980",
-      "title": "Specification for spun polyester sewing threads [2]",
-      "category": "Normative / Sewing Thread Material Standard",
-      "location": "Clause 2, Clause 3.1 [2, 3]",
-      "relevance": "Provides material guidelines for threads; sewing thread is flax-undyed, 4-cord well-twisted, and waxed [2, 3]."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values ( revised ) [4]",
-      "category": "Normative / Mathematical Rounding Standard",
-      "location": "Foreword [4]",
-      "relevance": "Defines the rounding of final observed or calculated test and analysis values to match the significant places of specified limits [4]."
-    },
-    {
-      "is_number": "JSS 7105-18",
-      "title": "Joint-Service Specification JSS 7105-18 [4]",
-      "category": "Military Reference / Design Basis Standard",
-      "location": "Foreword [4]",
-      "relevance": "The military joint-service standard used as a drafting basis due to the case's extensive use by military and paramilitary forces [4]."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 580 : 1973",
-      "title": "Specification for harness leather ( second revision ) [2]",
-      "category": "Raw Materials / Quality Standard",
-      "location": "Clause 2, Clause 3.1, Clause 5.2 [2, 3]",
-      "relevance": "Specifies the cow or buffalo curried leather quality and thickness tolerance parameters utilized in manufacturing the case's top cover, straps, body, and bottom rests [2, 3]."
-    },
-    {
-      "is_number": "IS 2907 : 1964",
-      "title": "Specification for non-ferrous rivets ( 1.6 to 10 mm ) [2]",
-      "category": "Normative / Fasteners Component Standard",
-      "location": "Clause 2, Clause 3.1 [2, 3]",
-      "relevance": "Specifies the dimensions and material requirements for copper hose rivets (3 mm tinned with washer) used to attach metallic components [2, 3]."
-    },
-    {
-      "is_number": "IS 4274 : 1981",
-      "title": "Specification for buckles (first revision ) [2]",
-      "category": "Normative / Fasteners Component Standard",
-      "location": "Clause 2, Clause 3.1 [2, 3]",
-      "relevance": "Governs the dimensions and tolerances for single brass roller buckles of 16 mm and 25 mm sizes used to fasten straps [2, 3]."
-    },
-    {
-      "is_number": "IS 4905 : 1968",
-      "title": "Methods for random sampling [2]",
-      "category": "Testing / Quality Control Standard",
-      "location": "Clause 2, Clause 9.2 [2, 3]",
-      "relevance": "Establishes statistical procedures and techniques for random selection of cases during product compliance inspections [2, 3]."
-    },
-    {
-      "is_number": "IS 9543 : 1980",
-      "title": "Specification for spun polyester sewing threads [2]",
-      "category": "Normative / Sewing Thread Material Standard",
-      "location": "Clause 2, Clause 3.1 [2, 3]",
-      "relevance": "Provides material guidelines for threads; sewing thread is flax-undyed, 4-cord well-twisted, and waxed [2, 3]."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values ( revised ) [4]",
-      "category": "Normative / Mathematical Rounding Standard",
-      "location": "Foreword [4]",
-      "relevance": "Defines the rounding of final observed or calculated test and analysis values to match the significant places of specified limits [4]."
-    },
-    {
-      "is_number": "JSS 7105-18",
-      "title": "Joint-Service Specification JSS 7105-18 [4]",
-      "category": "Military Reference / Design Basis Standard",
-      "location": "Foreword [4]",
-      "relevance": "The military joint-service standard used as a drafting basis due to the case's extensive use by military and paramilitary forces [4]."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Consumer Goods / Leather Hardware) [1]",
-    "certification_status": "Governed by the provisions of the Bureau of Indian Standards Act, 1986 and the Rules and Regulations made thereunder [3]. Standard-marked products carry third-party quality assurance [3].",
-    "requirements": [
-      {
-        "requirement_type": "Raw Materials and Specifications",
-        "detail": "All components must be made of specified materials: cow/buffalo curried leather (IS 580 : 1973), brass single roller buckles in 16 mm and 25 mm sizes (IS 4274 : 1981), flax-undyed sewing thread (IS 9543 : 1980), tinned copper hose rivets of 3 mm with washers (IS 2907 : 1964), and shoe maker/saddlers wax with softening point 75°C Min, neutral pH, and penetration of 8-15 units [2, 3].",
-        "clause_reference": "Clause 3.1 & Clause 3.2 [2, 3]"
-      },
-      {
-        "requirement_type": "Manufacturing Shape and Assembly Fit",
-        "detail": "Cases must conform to the shape and design shown in Figures 1 and 2 [3]. Metallic fasteners must be firmly attached to the leather so that each fastener fits the matching strap cleanly without causing tension or sagging [3].",
-        "clause_reference": "Clauses 4.1 & 4.2 [3]"
-      },
-      {
-        "requirement_type": "Stitching Quality and Stitch Regulation",
-        "detail": "Stitching must be uniform, neat, and sound, regulated strictly at 28 to 30 stitches per decimetre [3]. Thread must be 4-cord well-twisted and waxed, with sewing by hook awl method strictly prohibited [3]. Stitching must have even tension, be securely finished off, and have loose ends removed [3].",
-        "clause_reference": "Clauses 4.3 & 6.3 [3]"
-      },
-      {
-        "requirement_type": "Dimensions and Tolerance Bounds",
-        "detail": "The case dimensions must match Figures 1 and 2, with dimensional tolerances specified in the drawings and leather thickness tolerances conforming strictly to IS 580 : 1973 [3].",
-        "clause_reference": "Clauses 5.1 & 5.2 [3]"
-      },
-      {
-        "requirement_type": "Workmanship and Finish Limits",
-        "detail": "Metallic fittings must be free from cracks, seams, scales, burrs, and other defects, with buckle rollers moving freely [3]. Leather edges must be cleanly cut, neatly rubbed, and creased [3]. General workmanship and finish must be good [3].",
-        "clause_reference": "Clauses 6.1, 6.2 & 6.4 [3]"
-      },
-      {
-        "requirement_type": "Marking and Identification Parameters",
-        "detail": "Each case must be legibly and indelibly marked with the manufacturer's name or recognized trade-mark, number, and year of manufacture [3]. Standard Mark compliance is governed by BIS licence rules under the BIS Act, 1986 [3].",
-        "clause_reference": "Clauses 7.1 & 7.2 [3]"
-      },
-      {
-        "requirement_type": "Sampling and Visual Inspection (Table 1)",
-        "detail": "Unless otherwise agreed, lots are evaluated based on AQL 5 percent visual plans [3]. Sample size depends on lot size (e.g., up to 50: sample size 28, Ac=0; 501-1200: sample size 80, Ac=1; 1201-3200: sample size 125, Ac=3) [3]. Lots conform only when they meet the acceptance numbers for both Table 1 and Table 2 [3].",
-        "clause_reference": "Clauses 9.1, 9.2 & 10.1 [3]"
-      },
-      {
-        "requirement_type": "Sampling and Laboratory Testing (Table 2)",
-        "detail": "Detailed laboratory testing is governed by Table 2 attribute sampling plans indexed by lot size (e.g., for lot sizes 2-150: major sample size 5, Ac=0; minor sample size 5, Ac=1; for lot sizes 151-500: major sample size 5, Ac=0; minor sample size 8, Ac=2; for lot sizes 1001-3000: major sample size 20, Ac=2; minor sample size 13, Ac=3) [3].",
-        "clause_reference": "Clauses 9.1 & 10.1 [3]"
-      }
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This specification covers the requirements of cases for barbers tools [2].",
+    "scope": "This specification covers the requirements of cases for barbers tools [2].",
+    "keywords": [
+      "IS 14232 : 1995",
+      "Barbers Tools Cases",
+      "Harness Leather Case",
+      "Buckles IS 4274",
+      "Solid Rivets IS 2907",
+      "Random Sampling IS 4905",
+      "AQL 5 Percent",
+      "JSS 7105-18",
+      "LM 15"
     ]
   },
-  "keywords": [
-    "IS 14232 : 1995",
-    "Barbers Tools Cases",
-    "Harness Leather Case",
-    "Buckles IS 4274",
-    "Solid Rivets IS 2907",
-    "Random Sampling IS 4905",
-    "AQL 5 Percent",
-    "JSS 7105-18",
-    "LM 15"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 14232 : 1995 is the national Indian Standard specification governing leather carry cases designed for barbers' tools [2]. Adopted in 1995 and reaffirmed in 2000, this standard outlines the raw materials, manufacturing methods, dimensions, and visual/laboratory sampling inspections required to certify conformity [1, 3]. Key components include cow or buffalo curried harness leather, brass single roller buckles, tinned copper rivets, and a differential sampling plan (comprising visual AQL 5 percent and detailed laboratory tests) to ensure stitching and fastener durability under extensive use, such as within military and paramilitary environments [2-4]."
+  "version": {
+    "current_version": "First Edition, February 1995 (reaffirmed 2000) [1]",
+    "first_publication_year": 1995,
+    "publication_year": 1995,
+    "revision": "First Edition",
+    "revision_history": [
+      "First Edition, 1995 [1]"
+    ],
+    "supersedes": [],
+    "amendments": []
   },
-  "source_information": {
+  "relationships": [
+    {
+      "target_is_code": "IS 580 : 1973",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2907 : 1964",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4274 : 1981",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 1968",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 9543 : 1980",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "JSS 7105-18",
+      "relationship_type": "DESIGN_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 580 : 1973",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2907 : 1964",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4274 : 1981",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4905 : 1968",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 9543 : 1980",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "JSS 7105-18",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
+  ],
+  "certification": {
+    "mandatory": false,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "VOLUNTARY_BIS",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Governed by the provisions of the Bureau of Indian Standards Act, 1986 and the Rules and Regulations made thereunder [3]. Standard-marked products carry third-party quality assurance [3].",
+    "requirements": [
+      "All components must be made of specified materials: cow/buffalo curried leather (IS 580 : 1973), brass single roller buckles in 16 mm and 25 mm sizes (IS 4274 : 1981), flax-undyed sewing thread (IS 9543 : 1980), tinned copper hose rivets of 3 mm with washers (IS 2907 : 1964), and shoe maker/saddlers wax with softening point 75°C Min, neutral pH, and penetration of 8-15 units [2, 3].",
+      "Cases must conform to the shape and design shown in Figures 1 and 2 [3]. Metallic fasteners must be firmly attached to the leather so that each fastener fits the matching strap cleanly without causing tension or sagging [3].",
+      "Stitching must be uniform, neat, and sound, regulated strictly at 28 to 30 stitches per decimetre [3]. Thread must be 4-cord well-twisted and waxed, with sewing by hook awl method strictly prohibited [3]. Stitching must have even tension, be securely finished off, and have loose ends removed [3].",
+      "The case dimensions must match Figures 1 and 2, with dimensional tolerances specified in the drawings and leather thickness tolerances conforming strictly to IS 580 : 1973 [3].",
+      "Metallic fittings must be free from cracks, seams, scales, burrs, and other defects, with buckle rollers moving freely [3]. Leather edges must be cleanly cut, neatly rubbed, and creased [3]. General workmanship and finish must be good [3].",
+      "Each case must be legibly and indelibly marked with the manufacturer's name or recognized trade-mark, number, and year of manufacture [3]. Standard Mark compliance is governed by BIS licence rules under the BIS Act, 1986 [3].",
+      "Unless otherwise agreed, lots are evaluated based on AQL 5 percent visual plans [3]. Sample size depends on lot size (e.g., up to 50: sample size 28, Ac=0; 501-1200: sample size 80, Ac=1; 1201-3200: sample size 125, Ac=3) [3]. Lots conform only when they meet the acceptance numbers for both Table 1 and Table 2 [3].",
+      "Detailed laboratory testing is governed by Table 2 attribute sampling plans indexed by lot size (e.g., for lot sizes 2-150: major sample size 5, Ac=0; minor sample size 5, Ac=1; for lot sizes 151-500: major sample size 5, Ac=0; minor sample size 8, Ac=2; for lot sizes 1001-3000: major sample size 20, Ac=2; minor sample size 13, Ac=3) [3]."
+    ]
+  },
+  "source": {
     "source_pdf_filename": "14232_1995_reaff2023.pdf",
     "document_version_edition": "First Edition, February 1995 (Reaffirmed 2000) [1]"
   }

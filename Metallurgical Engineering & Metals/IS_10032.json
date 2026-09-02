@@ -1,151 +1,118 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10032 : 2013",
-    "full_title": "Organic No Bake (Self Setting) Binders for Use in Foundries — Specification",
-    "sector_category": "Metallurgical Engineering / Foundry and Steel Castings",
-    "ics_code": "73.060.01; 81.080",
+  "standard": {
+    "is_code": "IS 10032:2013",
+    "title": "Organic No Bake (Self Setting) Binders for Use in Foundries — Specification",
+    "sector": "Metallurgical Engineering / Foundry and Steel Castings",
+    "ics_code": [
+      "73.060.01",
+      "81.080"
+    ],
     "sectional_committee": {
       "name": "Foundry and Steel Casting Sectional Committee",
       "number": "MTD 14"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the physical, chemical, and mechanical performance requirements, classification, sampling guidelines, and testing procedures for organic no-bake (self-setting) liquid binders used to bond sand in foundry mold and core-making processes. These binders react with chemical hardeners or catalysts at room temperature to cure without the application of heat, facilitating high-dimensional accuracy in molten metal castings.",
+    "scope": "This standard specifies the physical, chemical, and mechanical performance requirements, classification, sampling guidelines, and testing procedures for organic no-bake (self-setting) liquid binders used to bond sand in foundry mold and core-making processes. These binders react with chemical hardeners or catalysts at room temperature to cure without the application of heat, facilitating high-dimensional accuracy in molten metal castings.",
+    "keywords": [
+      "IS 10032 : 2013",
+      "Organic No-Bake Binders",
+      "Self-Setting Binders",
+      "Foundry Core Resin",
+      "Furan Resin Binder",
+      "Phenolic No-Bake",
+      "Mould Compression Strength",
+      "Evolved Gas Content",
+      "Nitrogen Content",
+      "MTD 14",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the physical, chemical, and mechanical performance requirements, classification, sampling guidelines, and testing procedures for organic no-bake (self-setting) liquid binders used to bond sand in foundry mold and core-making processes. These binders react with chemical hardeners or catalysts at room temperature to cure without the application of heat, facilitating high-dimensional accuracy in molten metal castings.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, December 2013 (Reaffirmed in October 2022)",
-    "year_first_published": "1981",
+  "version": {
+    "current_version": "First Revision, December 2013 (Reaffirmed in October 2022)",
+    "first_publication_year": 1981,
+    "publication_year": 2013,
+    "revision": "First Revision (reorganized to specify modern testing protocols, update chemical and mechanical tolerances, and align terminology with contemporary foundry processes)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1981"
-      },
-      {
-        "edition": "First Revision (reorganized to specify modern testing protocols, update chemical and mechanical tolerances, and align terminology with contemporary foundry processes)",
-        "year": "2013"
-      }
+      "First Edition, 1981",
+      "First Revision (reorganized to specify modern testing protocols, update chemical and mechanical tolerances, and align terminology with contemporary foundry processes), 2013"
     ],
-    "supersedes": "IS 10032 : 1981",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1918 : 1966",
-      "title": "Methods of physical tests for foundry sands",
-      "category": "Testing standard",
-      "location": "Normative references",
-      "relevance": "Outlines standardized physical testing procedures for raw and chemically-bonded sands used in foundry molding and core-making."
-    },
-    {
-      "is_number": "IS 1387 : 1993",
-      "title": "General requirements for the supply of metallurgical materials (second revision)",
-      "category": "Supply standard",
-      "location": "Normative references",
-      "relevance": "Outlines standard administrative, sampling, and technical delivery conditions for Supplied metallurgical items."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10033 : 1992",
-      "title": "Zircon and Graphite Based Core and Mould Washes — Specification",
-      "category": "Product Specification",
-      "location": "Foundry Accessories Group",
-      "relevance": "Companion standard regulating protective surface coatings applied to cores/molds to improve surface finish and prevent sand burn-on."
-    },
-    {
-      "is_number": "IS 9009 : 1992",
-      "title": "Foundry Core Oils — Specification",
-      "category": "Product Specification",
-      "location": "Foundry Accessories Group",
-      "relevance": "Companion standard specifying organic-based core oils used as thermal-bake binders in core-making."
-    },
-    {
-      "is_number": "IS 12446 : 2007",
-      "title": "Bentonite for Use in Foundries — Specification",
-      "category": "Raw material standard",
-      "location": "Foundry Sands & Clays Group",
-      "relevance": "Related standard regulating inorganic clay binders used in green sand molding."
-    },
-    {
-      "is_number": "IS 8246 : 1976",
-      "title": "Liquid Resins for Use in Shell Process in Foundries — Specification",
-      "category": "Product Specification",
-      "location": "Foundry Accessories Group",
-      "relevance": "Related specification governing thermosetting liquid resins used in the hot-shell moulding and core-making processes."
-    },
-    {
-      "is_number": "IS 8785 : 1978",
-      "title": "Carbon Dioxide Core Binder System (Binder and Breakdown Agent) for Use in Foundries",
-      "category": "Product Specification",
-      "location": "Foundry Accessories Group",
-      "relevance": "Companion standard specifying sodium silicate-based binders cured by gassing with carbon dioxide."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification",
-    "certification_status": "Voluntary Quality and Performance Specification. Unlike builders hardware or metal packaging containers which are under strict statutory Quality Control Orders (QCOs), industrial foundry binders and accessories under IS 10032 : 2013 are certified on a voluntary basis. Conforming manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) under Scheme-I of Schedule-II of the BIS (Conformity Assessment) Regulations, 2018. Compliance is routinely mandated inside public and private sector foundry, metallurgy, and heavy casting procurement tenders. Precious metal hallmarking is completely inapplicable to industrial foundry resin binders.",
-    "requirements": [
+    "supersedes": [
+      "IS 10032 : 1981"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Binder Material Chemical Base",
-        "detail": "The organic binder must be supplied in a liquid state, typically formulated from furan resins (based on furfuryl alcohol), phenolic resins, or alkyd systems. The specific chemistry dictates the corresponding acid catalyst or hardener system required for room-temperature curing."
-      },
-      {
-        "requirement_type": "Viscosity Control",
-        "detail": "To ensure uniform pumpability and rapid, consistent mixing with sand grains, the viscosity must not exceed specified limits when tested via standard viscometers (such as Ford Cup viscometry at 30°C)."
-      },
-      {
-        "requirement_type": "Solids Content (Non-Volatile Matter)",
-        "detail": "Prescribes a minimum percentage of non-volatile active resin solids to ensure that the binder provides sufficient dry strength after the carrier solvents evaporate."
-      },
-      {
-        "requirement_type": "Nitrogen Content Restriction",
-        "detail": "For binders intended for steel or high-grade iron castings, the nitrogen content is strictly restricted. High nitrogen levels can decompose under casting temperatures and dissolve into the liquid steel, causing pinhole porosity and structural casting defects."
-      },
-      {
-        "requirement_type": "Bench Life and Strip Time of Sand Mix",
-        "detail": "The binder system, when mixed with standard sand and catalyst, must provide a usable bench life (pot life) to allow core box packing, followed by a controlled strip time (setting time) after which the core gains sufficient green strength to be safely stripped."
-      },
-      {
-        "requirement_type": "Mechanical Core Strength",
-        "detail": "Standard sand core specimens (typically 50 mm x 50 mm) prepared with the binder must satisfy minimum physical strength parameters:\na) Early green compression strength (e.g. 0.010 MPa within 15 minutes to prevent core collapse during handling);\nb) In-process scratch hardness or mould strength (measured on side walls immediately after stripping);\nc) Sustained final compression strength after complete room-temperature curing (attaining a minimum of 1.72 MPa or 17.5 kg/cm² after 240 minutes)."
-      },
-      {
-        "requirement_type": "Evolved Gas Volume Limits",
-        "detail": "The fully cured sand core must not evolve excessive gas when exposed to molten metal temperatures. Evolved gas volume must remain within restricted limits (such as 16 to 20 ml/g max) to prevent gas blowholes in castings."
-      },
-      {
-        "requirement_type": "Lot Sampling scale and Conformity",
-        "detail": "All binders of the same grade, type, and batch manufactured under essentially similar conditions in a single day constitute one inspection lot. Random samples are selected for both physical sand-mix tests and wet chemical/referee analyses. Non-conforming lots must be isolated and rejected."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this copy (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 10032 : 2013",
-    "Organic No-Bake Binders",
-    "Self-Setting Binders",
-    "Foundry Core Resin",
-    "Furan Resin Binder",
-    "Phenolic No-Bake",
-    "Mould Compression Strength",
-    "Evolved Gas Content",
-    "Nitrogen Content",
-    "MTD 14",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 1918 : 1966",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1387 : 1993",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10033 : 1992",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 9009 : 1992",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12446 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 8246 : 1976",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 8785 : 1978",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10032 : 2013 is the national Indian Standard specification governing organic no-bake (self-setting) liquid binders used in foundry sand molding and core-making processes. Unlike thermal-cure core binders or clay-bonded green sands, organic no-bake binders are mixed with silica sand and a chemical catalyst (or co-binder hardener) to cure spontaneously at room temperature without requiring baking ovens. This standard establishes rigorous guidelines to ensure that binders possess the physical and chemical properties required to support heavy molten metal castings without structural deformation, mold collapse, or chemical contamination. It regulates viscosity, specific gravity, solids content, and limits nitrogen content to prevent gas-induced pinhole porosity in steel castings. Additionally, it mandates that sand-mix specimens satisfy strict mechanical benchmarks—including early handling strength (e.g., 0.010 MPa within 15 minutes) and a robust final cured compression strength of at least 1.72 MPa—alongside strict control of evolved gas volumes during casting to eliminate blowhole defects."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Quality Control Order",
+      "year": 2013
+    },
+    "description": "Voluntary Quality and Performance Specification. Unlike builders hardware or metal packaging containers which are under strict statutory Quality Control Orders (QCOs), industrial foundry binders and accessories under IS 10032 : 2013 are certified on a voluntary basis. Conforming manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark) under Scheme-I of Schedule-II of the BIS (Conformity Assessment) Regulations, 2018. Compliance is routinely mandated inside public and private sector foundry, metallurgy, and heavy casting procurement tenders. Precious metal hallmarking is completely inapplicable to industrial foundry resin binders.",
+    "requirements": [
+      "The organic binder must be supplied in a liquid state, typically formulated from furan resins (based on furfuryl alcohol), phenolic resins, or alkyd systems. The specific chemistry dictates the corresponding acid catalyst or hardener system required for room-temperature curing.",
+      "To ensure uniform pumpability and rapid, consistent mixing with sand grains, the viscosity must not exceed specified limits when tested via standard viscometers (such as Ford Cup viscometry at 30°C).",
+      "Prescribes a minimum percentage of non-volatile active resin solids to ensure that the binder provides sufficient dry strength after the carrier solvents evaporate.",
+      "For binders intended for steel or high-grade iron castings, the nitrogen content is strictly restricted. High nitrogen levels can decompose under casting temperatures and dissolve into the liquid steel, causing pinhole porosity and structural casting defects.",
+      "The binder system, when mixed with standard sand and catalyst, must provide a usable bench life (pot life) to allow core box packing, followed by a controlled strip time (setting time) after which the core gains sufficient green strength to be safely stripped.",
+      "Standard sand core specimens (typically 50 mm x 50 mm) prepared with the binder must satisfy minimum physical strength parameters:\na) Early green compression strength (e.g. 0.010 MPa within 15 minutes to prevent core collapse during handling);\nb) In-process scratch hardness or mould strength (measured on side walls immediately after stripping);\nc) Sustained final compression strength after complete room-temperature curing (attaining a minimum of 1.72 MPa or 17.5 kg/cm² after 240 minutes).",
+      "The fully cured sand core must not evolve excessive gas when exposed to molten metal temperatures. Evolved gas volume must remain within restricted limits (such as 16 to 20 ml/g max) to prevent gas blowholes in castings.",
+      "All binders of the same grade, type, and batch manufactured under essentially similar conditions in a single day constitute one inspection lot. Random samples are selected for both physical sand-mix tests and wet chemical/referee analyses. Non-conforming lots must be isolated and rejected."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10032_2013_reff2022.pdf",
     "document_version_edition": "First Revision, December 2013 (Reaffirmed 2022)"
   }

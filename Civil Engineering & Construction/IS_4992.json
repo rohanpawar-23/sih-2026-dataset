@@ -1,140 +1,96 @@
 {
-  "basic_identification": {
-    "is_number": "IS 4992 : 2024",
-    "full_title": "Door Handles for Mortice Locks — Specification (Second Revision)",
-    "sector_category": "Civil Engineering / Builders Hardware",
-    "ics_code": "91.190",
+  "standard": {
+    "is_code": "IS 4992:2024",
+    "title": "Door Handles for Mortice Locks — Specification (Second Revision)",
+    "sector": "Civil Engineering / Builders Hardware",
+    "ics_code": [
+      "91.190"
+    ],
     "sectional_committee": {
       "name": "Builders Hardware Sectional Committee",
       "number": "CED 15"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies requirements for materials, dimensions, manufacture, workmanship, finish, and performance-testing for door handles (lever door handles and door knobs) used with mortice locks.",
+    "scope": "This standard specifies requirements for materials, dimensions, manufacture, workmanship, finish, and performance-testing for door handles (lever door handles and door knobs) used with mortice locks.",
+    "keywords": [
+      "IS 4992 : 2024",
+      "Mortice Lock Door Handles",
+      "Lever Door Handle",
+      "Door Knob",
+      "Axial Strength Test",
+      "Classification Code",
+      "Durability Cycles",
+      "Corrosion Resistance",
+      "CED 15",
+      "Door Fittings QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies requirements for materials, dimensions, manufacture, workmanship, finish, and performance-testing for door handles (lever door handles and door knobs) used with mortice locks.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, 2024 (incorporating Amendment No. 1, May 2026) [1]",
-    "year_first_published": "1975",
+  "version": {
+    "current_version": "Second Revision, 2024 (incorporating Amendment No. 1, May 2026) [1]",
+    "first_publication_year": 1975,
+    "publication_year": 2024,
+    "revision": "Second Revision (overhauls testing guidelines, updates material chemistry, and introduces the 6-digit classification coding system)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1975"
-      },
-      {
-        "edition": "First Revision",
-        "year": "2020"
-      },
-      {
-        "edition": "Second Revision (overhauls testing guidelines, updates material chemistry, and introduces the 6-digit classification coding system)",
-        "year": "2024"
-      }
+      "First Edition, 1975",
+      "First Revision, 2020",
+      "Second Revision (overhauls testing guidelines, updates material chemistry, and introduces the 6-digit classification coding system), 2024"
     ],
-    "supersedes": "IS 4992 : 1975",
-    "superseded_by": "N/A",
-    "amendment_slips": [
+    "supersedes": [
+      "IS 4992 : 1975"
+    ],
+    "amendments": [
       {
-        "amendment_number": "Amendment No. 1",
-        "date": "May 2026",
-        "description": "Modifies marking and labeling clauses: substitutes Clause 8.1 (a) to require the 'Manufacturer’s name or brand name or trade mark' instead of the previous text; substitutes Clause 9.1 (a) to require 'Manufacturer’s name or brand name or trade name'; and deletes Clause 9.1 (b) completely."
+        "amendment_number": "Amendment 1",
+        "date": "2026-05",
+        "summary": "Modifies marking and labeling clauses: substitutes Clause 8.1 (a) to require the 'Manufacturer’s name or brand name or trade mark' instead of the previous text; substitutes Clause 9.1 (a) to require 'Manufacturer’s name or brand name or trade name'; and deletes Clause 9.1 (b) completely."
       }
     ]
   },
-  "cross_referenced_standards_top_20": [
+  "relationships": [
     {
-      "is_number": "IS 2",
-      "title": "Rules for rounding off numerical values",
-      "category": "Rounding",
-      "location": "Foreword",
-      "relevance": "Standardises rounding procedures during testing."
+      "target_is_code": "IS 2",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS/ISO 3008 (Part 1)",
-      "title": "Fire resistance tests — Door and shutter assemblies",
-      "category": "Fire testing",
-      "location": "Clause 6.6",
-      "relevance": "Provides fire-resistance test configurations for fire-rated handles."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 208 : 2020",
-      "title": "Door Handles — Specification",
-      "category": "Product specification",
-      "location": "CED 15 Parallel Category",
-      "relevance": "Companion standard regulating non-mortice pull-type door handles, present in the notebook."
+      "target_is_code": "IS/ISO 3008 (Part 1)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
     },
     {
-      "is_number": "IS 3564 : 2025",
-      "title": "Hydraulically Regulated Door Closers — Specification",
-      "category": "Product specification",
-      "location": "CED 15 Parallel Category",
-      "relevance": "The fellow national standard regulating hydraulically operated overhead and concealed closers, present in the notebook."
+      "target_is_code": "IS 208 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 3564 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
     }
   ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Builders Hardware)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Door Fittings (Quality Control) Order', all door handles for mortice locks must conform to IS 4992:2024 and bear the mandatory BIS Standard Mark (ISI Mark) to be legally manufactured, imported, or sold in India.",
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Door Fittings (Quality Control) Order', all door handles for mortice locks must conform to IS 4992:2024 and bear the mandatory BIS Standard Mark (ISI Mark) to be legally manufactured, imported, or sold in India.",
     "requirements": [
-      {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every certified door handle/knob and its packaging box must carry the BIS Standard Mark (ISI Mark) along with the CM/L licence number."
-      },
-      {
-        "requirement_type": "Product Marking (Amended)",
-        "detail": "Under Amendment No. 1 (May 2026), Clause 8.1 (a) is modified to require that each individual door handle be clearly and indelibly marked with the 'Manufacturer's name or brand name or trade mark'.",
-        "clause_reference": "Clause 8.1 (a)"
-      },
-      {
-        "requirement_type": "Packaging Carton Marking (Amended)",
-        "detail": "Under Amendment No. 1 (May 2026), Clause 9.1 (a) is modified to require that each packaging carton be marked with the 'Manufacturer's name or brand name or trade name', while the previous packaging marking requirement under Clause 9.1 (b) is completely deleted.",
-        "clause_reference": "Clause 9.1 (a) & 9.1 (b)"
-      },
-      {
-        "requirement_type": "Types of Handles",
-        "detail": "Covers two main types: a) Lever door handles; b) Door knobs.",
-        "clause_reference": "Clause 4.1"
-      },
-      {
-        "requirement_type": "6-Digit Classification Coding System",
-        "detail": "Establishes a performance code defining handle capabilities:\n- Digit 1 (Category of Use): Grade 1 (Light Duty) up to Grade 4 (High Frequency/Heavy Duty);\n- Digit 2 (Durability): Grade 4 (25,000 cycles) to Grade 7 (200,000 cycles of operation);\n- Digit 3 (Test Door Mass): No classification (marked as '-');\n- Digit 4 (Fire Resistance): Grade 0 (not suitable) up to fire-rated categories;\n- Digit 5 (Safety): Grade 1 (essential safety-in-use requirements);\n- Digit 6 (Types of Operation): Grade A (Spring assisted), Grade B (Spring loaded), Grade U (Un-sprung).",
-        "clause_reference": "Clause 5"
-      },
-      {
-        "requirement_type": "Axial Strength (Clause 6.2)",
-        "detail": "Handles must withstand high pulling forces (tested using axial strength apparatus with tension loads up to 1000 N) without stripping threads, breaking, or pulling loose from the spindle.",
-        "clause_reference": "Clause 6.2"
-      },
-      {
-        "requirement_type": "Mechanism Durability (Clause 6.4)",
-        "detail": "The spring return mechanism must withstand high durability cyclic testing (up to 200,000 operations depending on durability grade) with zero structural failures, loss of return angle, or spring slippage.",
-        "clause_reference": "Clause 6.4"
-      },
-      {
-        "requirement_type": "Corrosion Resistance (Clause 6.5)",
-        "detail": "Handles must withstand neutral salt spray testing (up to 240 hours depending on grade) to ensure corrosion resistance on finishes (plated, painted, or anodised layers).",
-        "clause_reference": "Clause 6.5"
-      }
+      "Every certified door handle/knob and its packaging box must carry the BIS Standard Mark (ISI Mark) along with the CM/L licence number.",
+      "Under Amendment No. 1 (May 2026), Clause 8.1 (a) is modified to require that each individual door handle be clearly and indelibly marked with the 'Manufacturer's name or brand name or trade mark'.",
+      "Under Amendment No. 1 (May 2026), Clause 9.1 (a) is modified to require that each packaging carton be marked with the 'Manufacturer's name or brand name or trade name', while the previous packaging marking requirement under Clause 9.1 (b) is completely deleted.",
+      "Covers two main types: a) Lever door handles; b) Door knobs.",
+      "Establishes a performance code defining handle capabilities:\n- Digit 1 (Category of Use): Grade 1 (Light Duty) up to Grade 4 (High Frequency/Heavy Duty);\n- Digit 2 (Durability): Grade 4 (25,000 cycles) to Grade 7 (200,000 cycles of operation);\n- Digit 3 (Test Door Mass): No classification (marked as '-');\n- Digit 4 (Fire Resistance): Grade 0 (not suitable) up to fire-rated categories;\n- Digit 5 (Safety): Grade 1 (essential safety-in-use requirements);\n- Digit 6 (Types of Operation): Grade A (Spring assisted), Grade B (Spring loaded), Grade U (Un-sprung).",
+      "Handles must withstand high pulling forces (tested using axial strength apparatus with tension loads up to 1000 N) without stripping threads, breaking, or pulling loose from the spindle.",
+      "The spring return mechanism must withstand high durability cyclic testing (up to 200,000 operations depending on durability grade) with zero structural failures, loss of return angle, or spring slippage.",
+      "Handles must withstand neutral salt spray testing (up to 240 hours depending on grade) to ensure corrosion resistance on finishes (plated, painted, or anodised layers)."
     ]
   },
-  "keywords": [
-    "IS 4992 : 2024",
-    "Mortice Lock Door Handles",
-    "Lever Door Handle",
-    "Door Knob",
-    "Axial Strength Test",
-    "Classification Code",
-    "Durability Cycles",
-    "Corrosion Resistance",
-    "CED 15",
-    "Door Fittings QCO",
-    "ISI Mark"
-  ],
-  "plain_language_summary": {
-    "summary": "IS 4992 : 2024 is the mandatory national Indian Standard specification governing door handles and knobs used with mortice locks. Formulated under India's statutory Door Fittings Quality Control Order (QCO), all such handles must bear the BIS Standard Mark (ISI Mark) to verify mechanical safety, fire-resistance, and long-term durability. This edition, incorporating Amendment No. 1 (May 2026), refines marking rules to standardise the labeling of manufacturer and brand names on both the handles and their retail packaging cartons. It establishes a 6-digit classification code rating handles on category of use, durability cycling (up to 200,000 cycles), fire safety, and salt spray corrosion resistance, verifying that they can sustain severe axial pull forces (up to 1000 N) without failing."
-  },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "4992_amd1.pdf",
     "document_version_edition": "Second Revision, May 2024 (incorporating Amendment No. 1, May 2026) [1]"
   }

@@ -1,147 +1,107 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10810 (Part 27) : 1984",
-    "full_title": "Methods of Test for Cables — Part 27: Ash Content Test of Insulating Paper (केबलों के लिए परीक्षण विधियाँ — भाग 27: विद्युतरोधी कागज का राख अंश परीक्षण)",
-    "sector_category": "Electrotechnical / Power Cables (approved by the Electrotechnical Division Council and finalized by the Power Cables Sectional Committee, ETD 09, of the Bureau of Indian Standards)",
-    "ics_code": "29.035.01; 29.060.20",
-    "udc_code": "621.315.221.8 : 621-315-614.6 : 543.822",
+  "standard": {
+    "is_code": "IS 10810 (Part 27):1984",
+    "title": "Methods of Test for Cables — Part 27: Ash Content Test of Insulating Paper (केबलों के लिए परीक्षण विधियाँ — भाग 27: विद्युतरोधी कागज का राख अंश परीक्षण)",
+    "sector": "Electrotechnical / Power Cables",
+    "ics_code": [
+      "29.035.01",
+      "29.060.20"
+    ],
     "sectional_committee": {
       "name": "Power Cables Sectional Committee",
       "number": "ETD 09"
-    }
+    },
+    "standard_type": "TEST_METHOD",
+    "status": "ACTIVE",
+    "description": "This Indian Standard prescribes the standardized test methodology, apparatus specifications, conditioning, and evaluation protocols for determining the ash content (residual inorganic impurity level) in paper insulation used in electric power and communication cables.",
+    "scope": "This Indian Standard prescribes the standardized test methodology, apparatus specifications, conditioning, and evaluation protocols for determining the ash content (residual inorganic impurity level) in paper insulation used in electric power and communication cables.",
+    "keywords": [
+      "IS 10810 (Part 27) : 1984",
+      "Cable Testing Methods",
+      "Ash Content Test",
+      "Insulating Paper",
+      "Inorganic Impurities",
+      "Dielectric Degradation",
+      "Muffle Furnace 900C",
+      "Platinum Silica Crucible",
+      "Desiccator Cooling",
+      "ETD 09 Power Cables",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This Indian Standard prescribes the standardized test methodology, apparatus specifications, conditioning, and evaluation protocols for determining the ash content (residual inorganic impurity level) in paper insulation used in electric power and communication cables.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1984 (Reaffirmed 2021)",
-    "year_first_published": "1984",
+  "version": {
+    "current_version": "First Edition, 1984 (Reaffirmed 2021)",
+    "first_publication_year": 1984,
+    "publication_year": 1984,
+    "revision": "First Edition (IS 10810-27 : 1984)",
     "revision_history": [
-      {
-        "edition": "First Edition (IS 10810-27 : 1984)",
-        "year": "1984"
-      }
+      "First Edition (IS 10810-27 : 1984), 1984"
     ],
-    "supersedes": "None (Formulated as a dedicated test procedure under the comprehensive cable-testing master series IS 10810)",
-    "superseded_by": "N/A",
-    "amendment_slips": "NIL"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 10810 (Part 0) : 1984",
-      "title": "Methods of test for cables — Part 0: General",
-      "category": "Testing standard",
-      "relevance": "Prescribes the overall list of test methods, report formats, and sampling criteria for cable manufacturing."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of evaluated parameters and test results to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 1175 : 1981",
-      "title": "Methods for Grading and Classification of Muscovite Mica Blocks, Thins and Films",
-      "category": "Material standard",
-      "relevance": "Works in parallel as a core electrotechnical insulation grading standard to control geological and chemical impurities in solid dielectric layers."
-    },
-    {
-      "is_number": "IS 10026 (Part 3/Sec 2) : 1999",
-      "title": "Insulating Varnishes Containing Solvents — Specification",
-      "category": "Material standard",
-      "relevance": "Raw insulating papers, before lamination or winding, are often treated or varnished to improve thermal classes and dielectric protection."
-    },
-    {
-      "is_number": "IS 14489 : 2018",
-      "title": "Code of Practice on Occupational Safety and Health Audit",
-      "category": "Safety Code",
-      "relevance": "Directs safety audits of high-temperature laboratory setups where muffle furnaces (reaching 900°C) and gas burners are operated."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support steelwork, structural columns, and machinery foundations inside chemical compounding and cable-extrusion facilities."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Material Testing Method / Quality Control Standard (Electrotechnical Department / Cables)",
-    "certification_status": "Mandatory Quality Control Test. Under public utility contracts (such as central power grids, railway signaling specifications, and state electricity boards), paper-insulated copper or aluminum cables must carry certified lab records showing that the ash content of the paper does not exceed specified limits to legally enter commercial distribution.",
-    "requirements": [
+    "supersedes": [
+      "None (Formulated as a dedicated test procedure under the comprehensive cable-testing master series IS 10810)"
+    ],
+    "amendments": [
       {
-        "requirement_type": "The Rounding Off Protocol",
-        "detail": "Observed or calculated final ash content percentages must be mathematically rounded off in accordance with IS 2:1960 to match the significant places of the specified values.",
-        "clause_reference": "Foreword"
-      },
-      {
-        "requirement_type": "Impurity Dielectric Degradation",
-        "detail": "Any inorganic impurity in insulating paper tends to reduce its dielectric property, which can lead to localized electrical tracking and cable breakdown under high voltages.",
-        "clause_reference": "Clause 2"
-      },
-      {
-        "requirement_type": "Standardized Specimen Mass",
-        "detail": "The test specimen must consist of a raw insulating paper sample weighing at least 1 g.",
-        "clause_reference": "Clause 6"
-      },
-      {
-        "requirement_type": "Specimen Drying Conditioning",
-        "detail": "Before ignition, the paper specimen must be dried to constant mass at a temperature of 100°C to 105°C to eliminate environmental humidity, reweighed to an accuracy of 0.1 mg inside the ignited crucible.",
-        "clause_reference": "Clause 7"
-      },
-      {
-        "requirement_type": "High-Temperature Ignition Zone",
-        "detail": "The reweighed conditioned sample is placed inside a platinum, fused aluminum, silica, or porcelain crucible and ignited in a muffle furnace or by a gas burner, raising the temperature to 900 ± 25°C.",
-        "clause_reference": "Clause 8.1"
-      },
-      {
-        "requirement_type": "Lid-Shielding Controlled Charring",
-        "detail": "To avoid the loss of lightweight ash particles during initial heating, the crucible lid must be fully in place during the initial charring stage.",
-        "clause_reference": "Clause 8.1"
-      },
-      {
-        "requirement_type": "Combustion Lid Sidelining",
-        "detail": "When peak ignition temperature is attained, the lid must be slid slightly to one side to admit oxygen for complete carbon combustion, ensuring draft protection.",
-        "clause_reference": "Clause 8.1"
-      },
-      {
-        "requirement_type": "Desiccator Cooling Cycle",
-        "detail": "When the paper is completely burnt (indicated by the absolute absence of black carbon particles), the crucible with its lid on is cooled to ambient room temperature in a desiccator.",
-        "clause_reference": "Clause 8.2"
-      },
-      {
-        "requirement_type": "Constant Mass Weighing",
-        "detail": "The crucible is weighed to the nearest 0.1 mg, and the ignition, cooling, and weighing cycle is repeated sequentially until the mass remains constant.",
-        "clause_reference": "Clause 8.3"
-      },
-      {
-        "requirement_type": "Ash Content Calculation",
-        "detail": "The percentage of inorganic ash content is calculated dry-on-dry using the formula: Ash Content, % = [(W3 - W2) / W1] * 100, where W1 is sample weight, W2 is empty crucible weight, and W3 is crucible plus ash weight.",
-        "clause_reference": "Clause 10"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "NIL"
       }
     ]
   },
-  "keywords": [
-    "IS 10810 (Part 27) : 1984",
-    "Cable Testing Methods",
-    "Ash Content Test",
-    "Insulating Paper",
-    "Inorganic Impurities",
-    "Dielectric Degradation",
-    "Muffle Furnace 900C",
-    "Platinum Silica Crucible",
-    "Desiccator Cooling",
-    "ETD 09 Power Cables",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 10810 (Part 0) : 1984",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1175 : 1981",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10026 (Part 3/Sec 2) : 1999",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14489 : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10810 (Part 27) : 1984 (Reaffirmed 2021) is the primary national Indian Standard specification prescribing the high-temperature testing methodology to determine the ash content of paper insulation used in electric cables. Maintained under the Power Cables Sectional Committee (ETD 09), the code serves to ensure the dielectric purity of medium and high-voltage paper-insulated cables. It requires drying a minimum 1g paper sample at 100–105°C, charring it under a closed crucible lid, and igniting it at a controlled muffle furnace temperature of 900 ± 25°C until all carbon is burnt. The calculated percentage of residual inorganic ash represents the impurities, allowing manufacturers and inspectors to reject sub-standard lots that compromise dielectric properties."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Mandatory Quality Control Test. Under public utility contracts (such as central power grids, railway signaling specifications, and state electricity boards), paper-insulated copper or aluminum cables must carry certified lab records showing that the ash content of the paper does not exceed specified limits to legally enter commercial distribution.",
+    "requirements": [
+      "Observed or calculated final ash content percentages must be mathematically rounded off in accordance with IS 2:1960 to match the significant places of the specified values.",
+      "Any inorganic impurity in insulating paper tends to reduce its dielectric property, which can lead to localized electrical tracking and cable breakdown under high voltages.",
+      "The test specimen must consist of a raw insulating paper sample weighing at least 1 g.",
+      "Before ignition, the paper specimen must be dried to constant mass at a temperature of 100°C to 105°C to eliminate environmental humidity, reweighed to an accuracy of 0.1 mg inside the ignited crucible.",
+      "The reweighed conditioned sample is placed inside a platinum, fused aluminum, silica, or porcelain crucible and ignited in a muffle furnace or by a gas burner, raising the temperature to 900 ± 25°C.",
+      "To avoid the loss of lightweight ash particles during initial heating, the crucible lid must be fully in place during the initial charring stage.",
+      "When peak ignition temperature is attained, the lid must be slid slightly to one side to admit oxygen for complete carbon combustion, ensuring draft protection.",
+      "When the paper is completely burnt (indicated by the absolute absence of black carbon particles), the crucible with its lid on is cooled to ambient room temperature in a desiccator.",
+      "The crucible is weighed to the nearest 0.1 mg, and the ignition, cooling, and weighing cycle is repeated sequentially until the mass remains constant.",
+      "The percentage of inorganic ash content is calculated dry-on-dry using the formula: Ash Content, % = [(W3 - W2) / W1] * 100, where W1 is sample weight, W2 is empty crucible weight, and W3 is crucible plus ash weight."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10810_27_1984_reff2021.pdf",
     "document_version_edition": "First Edition, 1984"
   }

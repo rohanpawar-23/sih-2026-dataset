@@ -1,157 +1,124 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11294 : Part 1 : 1985",
-    "full_title": "Specification for Side Scuttles for Inland Vessels - Part 1 : General Requirements",
-    "sector_category": "Transport Engineering / Inland, Harbour Crafts and Fishing Vessels (approved by the Transport Engineering Division Council and finalized by the Inland, Harbour Crafts and Fishing Vessels Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "47.080; 47.020.10",
+  "standard": {
+    "is_code": "IS 11294:Part 1:1985",
+    "title": "Specification for Side Scuttles for Inland Vessels - Part 1 : General Requirements",
+    "sector": "Transport Engineering / Inland, Harbour Crafts and Fishing Vessels",
+    "ics_code": [
+      "47.080",
+      "47.020.10"
+    ],
     "sectional_committee": {
       "name": "Inland, Harbour Crafts and Fishing Vessels Sectional Committee",
       "number": "TED 18"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the general requirements, classification, dimensions, materials, and testing schedules for side scuttles (portholes) fitted on inland navigation vessels. These side scuttles are round openings with an area not exceeding 0.16 m² designed to provide daylight, visibility, and watertight/weathertight closure in the hull or superstructure.",
+    "scope": "This standard specifies the general requirements, classification, dimensions, materials, and testing schedules for side scuttles (portholes) fitted on inland navigation vessels. These side scuttles are round openings with an area not exceeding 0.16 m² designed to provide daylight, visibility, and watertight/weathertight closure in the hull or superstructure.",
+    "keywords": [
+      "IS 11294 : Part 1 : 1985",
+      "Side Scuttles",
+      "Inland Vessels",
+      "Porthole Windows",
+      "Type A Heavy Type",
+      "Type B Medium Type",
+      "Type C Light Type",
+      "Toughened Safety Glass",
+      "Hinged Deadlight",
+      "Watertight Seal",
+      "TED 18",
+      "ISO 1751",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the general requirements, classification, dimensions, materials, and testing schedules for side scuttles (portholes) fitted on inland navigation vessels. These side scuttles are round openings with an area not exceeding 0.16 m² designed to provide daylight, visibility, and watertight/weathertight closure in the hull or superstructure.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1985 (Reaffirmed 2011, Reaffirmed 2016, and Reviewed & Reaffirmed in 2026)",
-    "year_first_published": "1985",
+  "version": {
+    "current_version": "First Edition, 1985 (Reaffirmed 2011, Reaffirmed 2016, and Reviewed & Reaffirmed in 2026)",
+    "first_publication_year": 1985,
+    "publication_year": 1985,
+    "revision": "First Edition",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1985"
-      }
+      "First Edition, 1985"
     ],
-    "supersedes": "None",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "ISO 1751",
-      "title": "Shipbuilding and marine structures — Ships' side scuttles",
-      "category": "Identical/Equivalent Standard",
-      "location": "Foreword",
-      "relevance": "The international standard upon which IS 11294 is based, establishing the core design and testing rules for marine side scuttles."
-    },
-    {
-      "is_number": "ISO 614",
-      "title": "Shipbuilding — Ships' windows and side scuttles — Toughened safety glass panes",
-      "category": "Testing Standard",
-      "location": "Normative references",
-      "relevance": "Prescribes standard non-destructive punch testing methods to verify the mechanical strength of toughened glass panes."
-    },
-    {
-      "is_number": "IS 1387",
-      "title": "General requirements for the supply of metallurgical materials",
-      "category": "Technical Delivery Standard",
-      "location": "Normative references",
-      "relevance": "Outlines standard technical delivery conditions, supply terms, and inspection practices for cast and wrought metallic components."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Other",
-      "location": "Compliance assessment clauses",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 10527 : 1983",
-      "title": "Specification for Pressure Ranges for Compressed Air System for Inland Vessels",
-      "category": "Product Specification / System Standard",
-      "location": "Parallel Marine Engineering Category",
-      "relevance": "A sister inland navigation standard present in the notebook, specifying nominal starting and compressed air pressure ratings on-board vessels.",
-      "citations": ""
-    },
-    {
-      "is_number": "IS 12427 : 2001",
-      "title": "Transmission Tower Bolts — Specification",
-      "category": "Product Specification / Fastener Standard",
-      "location": "Parallel Fasteners Category",
-      "relevance": "Regulates hot-dip galvanized structural fasteners, present in the notebook."
-    },
-    {
-      "is_number": "IS 11812 : 1986",
-      "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
-      "category": "Code of Practice / Recommended Guidelines",
-      "location": "Parallel Corrosion Protection",
-      "relevance": "Specifies fabrication precautions and welding details for galvanized steel assemblies, present in the notebook."
-    },
-    {
-      "is_number": "IS 15977 : 2013",
-      "title": "Classification and Acceptance Tests for Bare Solid Wire Electrodes and Wire Flux Combination for Submerged Arc Welding of Structural Steel — Specification",
-      "category": "Product Specification / Welding Consumables",
-      "location": "Parallel Welding Category",
-      "relevance": "Regulates submerged arc welding consumables used to join structural steel plates, present in the notebook."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Code of Practice / Design Standard",
-      "location": "Parallel Structural Steel Code",
-      "relevance": "The master structural steel design and construction code in India, regulating support framing, weld joints, and connection detailing, present in the notebook."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification / General Requirements (Inland Marine Outfitting)",
-    "certification_status": "Voluntary Quality and Performance Specification. Unlike safety-critical builders hardware or pressure cylinders which are under strict statutory Quality Control Orders (QCOs), side scuttles for inland vessels under IS 11294 (Part 1) are certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark). However, compliance is universally mandated inside all national public sector (such as Inland Waterways Authority of India - IWAI), port authority, and commercial river barge procurement tenders.",
-    "requirements": [
+    "supersedes": [
+      "None"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every certified side scuttle and its packaging box must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to verify quality compliance."
-      },
-      {
-        "requirement_type": "Location-based Type Classification",
-        "detail": "Classifies side scuttles into three distinct types depending on their installation location:\na) Heavy Type (Type A): Designed for watertight and gastight requirements, installed below the freeboard deck or in the hull below the full load waterline;\nb) Medium Type (Type B): Installed above the freeboard deck in the first tier of superstructures (cargo vessels);\nc) Light Type (Type C): Installed above the freeboard deck in superstructures for passenger vessels."
-      },
-      {
-        "requirement_type": "Opening & Non-Opening Configurations",
-        "detail": "Side scuttles must be configured as either:\na) Opening Type: Equipped with a hinged glassholder that can be swung open for ventilation;\nb) Non-opening Type: Fixed model where the glassholder is secured permanently to the main frame."
-      },
-      {
-        "requirement_type": "Hinged Deadlight (Storm Cover) Models",
-        "detail": "Side scuttles must be specified as with or without a deadlight. A deadlight is a hinged metal cover that can be clamped watertight over the glass pane to provide double-barrier protection during extreme weather, or in the event of glass breakage."
-      },
-      {
-        "requirement_type": "Material Standards & Corrosion Control",
-        "detail": "The main frame, glassholder, and deadlight must be made of high-strength, corrosion-resistant materials suitable for marine service (such as cast steel, brass, bronze, or marine-grade aluminum alloy)."
-      },
-      {
-        "requirement_type": "Glass Pane Toughness",
-        "detail": "Glass panes must be thermally toughened safety glass satisfying high impact and pressure testing parameters (evaluated via the non-destructive punch testing method of ISO 614) to prevent sudden shattering under wave impact."
-      },
-      {
-        "requirement_type": "Fastener & Gasket Watertight Sealing",
-        "detail": "Requires robust swing-bolt (eyelet bolt) or toggle arrangements with nuts to apply uniform compression force on the rubber or elastomeric gaskets, ensuring a reliable watertight seal under wave and hydraulic impact."
-      },
-      {
-        "requirement_type": "Standard Clear Light Nominal Sizes",
-        "detail": "Specifies standard clear light diameters (nominal sizes) for selection: 200, 250, 300, 350, 400, and 450 mm."
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 11294 : Part 1 : 1985",
-    "Side Scuttles",
-    "Inland Vessels",
-    "Porthole Windows",
-    "Type A Heavy Type",
-    "Type B Medium Type",
-    "Type C Light Type",
-    "Toughened Safety Glass",
-    "Hinged Deadlight",
-    "Watertight Seal",
-    "TED 18",
-    "ISO 1751",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "ISO 1751",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "ISO 614",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1387",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 10527 : 1983",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12427 : 2001",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11812 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15977 : 2013",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11294 : Part 1 : 1985 is the national Indian Standard specifying general requirements and classifications for side scuttles (portholes) fitted on inland navigation vessels. Grounded in international marine safety standards, it classifies side scuttles into Heavy (Type A) for watertight locations below the freeboard deck, Medium (Type B) for superstructure locations on cargo vessels, and Light (Type C) for passenger cabins. It defines standard sizing (200 to 450 mm nominal diameter), opening and non-opening configurations (with or without metal storm deadlights), and regulates material durability, swing-bolt closure mechanisms, and thermally toughened safety glass toughness to guarantee watertightness and structural integrity under river and waterway operating conditions."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": true,
+      "name": "Quality Control Order",
+      "year": null
+    },
+    "description": "Voluntary Quality and Performance Specification. Unlike safety-critical builders hardware or pressure cylinders which are under strict statutory Quality Control Orders (QCOs), side scuttles for inland vessels under IS 11294 (Part 1) are certified on a voluntary basis. Manufacturers are eligible to apply for a BIS license to use the Standard Mark (ISI Mark). However, compliance is universally mandated inside all national public sector (such as Inland Waterways Authority of India - IWAI), port authority, and commercial river barge procurement tenders.",
+    "requirements": [
+      "Every certified side scuttle and its packaging box must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) to verify quality compliance.",
+      "Classifies side scuttles into three distinct types depending on their installation location:\na) Heavy Type (Type A): Designed for watertight and gastight requirements, installed below the freeboard deck or in the hull below the full load waterline;\nb) Medium Type (Type B): Installed above the freeboard deck in the first tier of superstructures (cargo vessels);\nc) Light Type (Type C): Installed above the freeboard deck in superstructures for passenger vessels.",
+      "Side scuttles must be configured as either:\na) Opening Type: Equipped with a hinged glassholder that can be swung open for ventilation;\nb) Non-opening Type: Fixed model where the glassholder is secured permanently to the main frame.",
+      "Side scuttles must be specified as with or without a deadlight. A deadlight is a hinged metal cover that can be clamped watertight over the glass pane to provide double-barrier protection during extreme weather, or in the event of glass breakage.",
+      "The main frame, glassholder, and deadlight must be made of high-strength, corrosion-resistant materials suitable for marine service (such as cast steel, brass, bronze, or marine-grade aluminum alloy).",
+      "Glass panes must be thermally toughened safety glass satisfying high impact and pressure testing parameters (evaluated via the non-destructive punch testing method of ISO 614) to prevent sudden shattering under wave impact.",
+      "Requires robust swing-bolt (eyelet bolt) or toggle arrangements with nuts to apply uniform compression force on the rubber or elastomeric gaskets, ensuring a reliable watertight seal under wave and hydraulic impact.",
+      "Specifies standard clear light diameters (nominal sizes) for selection: 200, 250, 300, 350, 400, and 450 mm."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "Not in current notebook sources. Profile compiled from official BIS LIMS and transport engineering industry specifications.",
     "document_version_edition": "First Edition, 1985 (Reaffirmed 2026)"
   }

@@ -1,181 +1,129 @@
 {
-  "basic_identification": {
-    "is_number": "IS 8701 : 2013",
-    "full_title": "Temephos, Technical — Specification (टेमीफॉस, तकनीकी — विशिष्टि) (Second Revision)",
-    "sector_category": "Food and Agriculture / Pesticides and Pesticide Residues (approved by the Food and Agriculture Division Council and finalized by the Pesticides and Pesticides Residues Analysis Sectional Committee, FAD 1, of the Bureau of Indian Standards)",
-    "ics_code": "65.100.30",
+  "standard": {
+    "is_code": "IS 8701:2013",
+    "title": "Temephos, Technical — Specification (टेमीफॉस, तकनीकी — विशिष्टि) (Second Revision)",
+    "sector": "Food and Agriculture / Pesticides and Pesticide Residues",
+    "ics_code": [
+      "65.100.30"
+    ],
     "sectional_committee": {
       "name": "Pesticides and Pesticides Residues Analysis Sectional Committee",
       "number": "FAD 1"
-    }
+    },
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard prescribes the requirements and the methods of sampling and test for temephos, technical, which is used as an active ingredient in the formulation of public health and agricultural insecticides.",
+    "scope": "This standard prescribes the requirements and the methods of sampling and test for temephos, technical, which is used as an active ingredient in the formulation of public health and agricultural insecticides.",
+    "keywords": [
+      "IS 8701 : 2013",
+      "Temephos",
+      "Technical",
+      "Specification",
+      "Pesticides",
+      "HPLC",
+      "Internal Standard",
+      "Moisture Content",
+      "Acidity",
+      "Acetone Insoluble",
+      "Insecticides Act 1968",
+      "FAD 1",
+      "IS 2 : 1960"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes the requirements and the methods of sampling and test for temephos, technical, which is used as an active ingredient in the formulation of public health and agricultural insecticides.",
-    "clause_number": "Clause 1",
-    "page_number": "Page 1 of base standard"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "Second Revision, June 2013 (Reaffirmed 2023)",
-    "year_first_published": "Not explicitly stated (Second Revision established in 2013)",
+  "version": {
+    "current_version": "Second Revision, June 2013 (Reaffirmed 2023)",
+    "first_publication_year": 2013,
+    "publication_year": 2013,
+    "revision": "Second Revision (IS 8701 : 2013)",
     "revision_history": [
-      {
-        "edition": "First Edition / First Revision",
-        "year": "Prior to 2013"
-      },
-      {
-        "edition": "Second Revision (IS 8701 : 2013)",
-        "year": "2013"
-      }
+      "First Edition / First Revision, Prior to 2013",
+      "Second Revision (IS 8701 : 2013), 2013"
     ],
-    "supersedes": "Prior editions of IS 8701",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1070 : 1992",
-      "title": "Reagent grade water (third revision)",
-      "category": "Material standard",
-      "relevance": "Specifies quality parameters for water used in preparing analytical reagents and HPLC mobile phases."
-    },
-    {
-      "is_number": "IS 6940 : 1982",
-      "title": "Methods of test for pesticides and their formulations (first revision)",
-      "category": "Testing standard",
-      "relevance": "Provides general testing methodologies and procedures for examining physical and chemical characteristics of pesticides."
-    },
-    {
-      "is_number": "IS 8190 (Part 2) : 1988",
-      "title": "Requirements for packing of pesticides: Part 2 Liquid pesticides",
-      "category": "Packing standard",
-      "relevance": "Regulates packing requirements, container materials, and closure types for liquid technical and formulated pesticides."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Rounding standard",
-      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 11816 (Part 3) : 2018",
-      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
-      "category": "Pest-Control standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A fellow food and agriculture standard present in the notebook, regulating storage pest-control practices and explicitly mandating compliance with FSSAI pesticide residue limits on stored foodstuffs."
-    },
-    {
-      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
-      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
-      "category": "Assessment standard",
-      "location": "Same Division Council (FAD)",
-      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
-    },
-    {
-      "is_number": "IS 13668 : 1993",
-      "title": "Guidelines for Fixing Intensity of Irrigation",
-      "category": "Planning standard",
-      "location": "Notebook Co-source",
-      "relevance": "An associated agricultural planning standard, defining cropping intensities which govern the agricultural baseline exposed to pests and requiring protective chemical applications."
-    },
-    {
-      "is_number": "IS 13739 : 1993",
-      "title": "Guidelines for Estimation of Flood Damages",
-      "category": "Disaster economics",
-      "location": "Notebook Co-source",
-      "relevance": "Regulates post-flood agricultural damage audits, which are integrated with pest-inflicted or ecological crop losses during national disaster evaluations."
-    },
-    {
-      "is_number": "IS 15909 : 2020",
-      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
-      "category": "Product Specification",
-      "location": "Notebook Co-source",
-      "relevance": "Specifies geomembrane linings to prevent water and pest seepage into agricultural silos and chemical-containment basins."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Design standard",
-      "location": "Notebook Master Code",
-      "relevance": "The master structural steel code in India, regulating support framing, panel thickness, and connections for steel storage silos, agricultural chemical warehouses, and pesticide containment structures."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Food and Agriculture / Pesticides)",
-    "certification_status": "Voluntary/Mandatory under the Insecticides Act. Manufacturers are encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product containers as a certified assurance of quality. Additionally, all packaging, labeling, and distribution of technical-grade temephos must strictly comply with statutory registrations and warning declarations mandated under the Insecticides Act, 1968 and Rules framed thereunder.",
-    "requirements": [
+    "supersedes": [
+      "Prior editions of IS 8701"
+    ],
+    "amendments": [
       {
-        "requirement_type": "Minimum Temephos Purity",
-        "detail": "Mandates that the temephos content shall be a minimum of 90.0 percent by mass, determined by High Performance Liquid Chromatography (HPLC) equipped with a UV-VIS detector.",
-        "clause_reference": "Table 1, Sl No. (i) & Annex A"
-      },
-      {
-        "requirement_type": "Maximum Moisture Content",
-        "detail": "Restricts moisture content to a maximum of 0.2 percent by mass, determined in accordance with the method prescribed in Clause 4.1.",
-        "clause_reference": "Table 1, Sl No. (ii)"
-      },
-      {
-        "requirement_type": "Maximum Acidity Limit",
-        "detail": "Restricts free acidity (calculated as H2SO4) to a maximum of 0.3 percent by mass, determined in accordance with the method prescribed in Clause 11.3.2.",
-        "clause_reference": "Table 1, Sl No. (iii)"
-      },
-      {
-        "requirement_type": "Acetone-Insoluble Matter",
-        "detail": "Limits material insoluble in acetone to a maximum of 0.5 percent by mass, determined in accordance with the method prescribed in Clause 9.",
-        "clause_reference": "Table 1, Sl No. (iv)"
-      },
-      {
-        "requirement_type": "Packaging Requirements",
-        "detail": "Technical temephos must be securely packed in containers satisfying the general requirements of IS 8190 (Part 2) for liquid technical pesticides.",
-        "clause_reference": "Clause 4"
-      },
-      {
-        "requirement_type": "Mandatory Labeling Information",
-        "detail": "Each container must legibly and indelibly bear: the name of the material, manufacturer's name and address, batch number, date of manufacture, date of expiry, net quantity, nominal temephos content (percent m/m), and standard cautionary notices worded in accordance with the Insecticides Act, 1968.",
-        "clause_reference": "Clause 5.1"
-      },
-      {
-        "requirement_type": "Reference Standard Preparation (HPLC)",
-        "detail": "Requires weighing exactly 0.033 3 g of reference standard temephos of known purity into a 50 ml volumetric flask, adding 5 ml of internal standard solution, and making up to the mark with mobile phase.",
-        "clause_reference": "Clause A-4.2"
-      },
-      {
-        "requirement_type": "Sample Preparation (HPLC)",
-        "detail": "Requires weighing a sample quantity equivalent to contain 0.033 3 g of temephos into a 50 ml volumetric flask, adding 5 ml of internal standard solution, making up to the mark with mobile phase, and shaking well to homogenize.",
-        "clause_reference": "Clause A-4.3"
-      },
-      {
-        "requirement_type": "HPLC Injection and Calculation",
-        "detail": "Injects a 10 µl aliquot. Computes the percentage of temephos content by mass using peak areas of temephos and the internal standard:\nTemephos content, % by mass = (M1 * A2 * A3 * P) / (M2 * A1 * A4)\nwhere M1 is mass of reference standard (g), M2 is mass of sample (g), A1 & A2 are peak areas of temephos in standard & sample, A3 & A4 are peak areas of internal standard in standard & sample, and P is standard purity.",
-        "clause_reference": "Clauses A-5 & A-6"
-      },
-      {
-        "requirement_type": "Mathematical Rounding Protocol",
-        "detail": "Any observed or calculated test or analysis value expressing purity, moisture, acidity, or insolubles must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard.",
-        "clause_reference": "Foreword"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 8701 : 2013",
-    "Temephos",
-    "Technical",
-    "Specification",
-    "Pesticides",
-    "HPLC",
-    "Internal Standard",
-    "Moisture Content",
-    "Acidity",
-    "Acetone Insoluble",
-    "Insecticides Act 1968",
-    "FAD 1",
-    "IS 2 : 1960"
+  "relationships": [
+    {
+      "target_is_code": "IS 1070 : 1992",
+      "relationship_type": "MATERIAL_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6940 : 1982",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 8190 (Part 2) : 1988",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11816 (Part 3) : 2018",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11261 (Part 1 & Part 2) : 1985",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13668 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 13739 : 1993",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 15909 : 2020",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 8701 : 2013 is the national Indian Standard specification establishing technical requirements, sampling protocols, and analytical methods for temephos, technical. Prepared by the FAD 1 Sectional Committee, this standard regulates the chemical quality of this active pesticide ingredient, which is widely utilized in formulating larvicides and public health insecticides. It mandates a minimum purity (temephos content) of 90.0% by mass, limits moisture to 0.2%, acidity to 0.3%, and acetone insolubles to 0.5%. It outlines a precise High Performance Liquid Chromatography (HPLC) test using an internal standard technique to verify chemical purity, ensuring both safety and environmental compliance under the statutory framework of the Insecticides Act, 1968."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary/Mandatory under the Insecticides Act. Manufacturers are encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product containers as a certified assurance of quality. Additionally, all packaging, labeling, and distribution of technical-grade temephos must strictly comply with statutory registrations and warning declarations mandated under the Insecticides Act, 1968 and Rules framed thereunder.",
+    "requirements": [
+      "Mandates that the temephos content shall be a minimum of 90.0 percent by mass, determined by High Performance Liquid Chromatography (HPLC) equipped with a UV-VIS detector.",
+      "Restricts moisture content to a maximum of 0.2 percent by mass, determined in accordance with the method prescribed in Clause 4.1.",
+      "Restricts free acidity (calculated as H2SO4) to a maximum of 0.3 percent by mass, determined in accordance with the method prescribed in Clause 11.3.2.",
+      "Limits material insoluble in acetone to a maximum of 0.5 percent by mass, determined in accordance with the method prescribed in Clause 9.",
+      "Technical temephos must be securely packed in containers satisfying the general requirements of IS 8190 (Part 2) for liquid technical pesticides.",
+      "Each container must legibly and indelibly bear: the name of the material, manufacturer's name and address, batch number, date of manufacture, date of expiry, net quantity, nominal temephos content (percent m/m), and standard cautionary notices worded in accordance with the Insecticides Act, 1968.",
+      "Requires weighing exactly 0.033 3 g of reference standard temephos of known purity into a 50 ml volumetric flask, adding 5 ml of internal standard solution, and making up to the mark with mobile phase.",
+      "Requires weighing a sample quantity equivalent to contain 0.033 3 g of temephos into a 50 ml volumetric flask, adding 5 ml of internal standard solution, making up to the mark with mobile phase, and shaking well to homogenize.",
+      "Injects a 10 µl aliquot. Computes the percentage of temephos content by mass using peak areas of temephos and the internal standard:\nTemephos content, % by mass = (M1 * A2 * A3 * P) / (M2 * A1 * A4)\nwhere M1 is mass of reference standard (g), M2 is mass of sample (g), A1 & A2 are peak areas of temephos in standard & sample, A3 & A4 are peak areas of internal standard in standard & sample, and P is standard purity.",
+      "Any observed or calculated test or analysis value expressing purity, moisture, acidity, or insolubles must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "8701_2013_reaff2023.pdf",
     "document_version_edition": "Second Revision, June 2013"
   }

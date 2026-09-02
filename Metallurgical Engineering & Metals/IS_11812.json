@@ -1,172 +1,118 @@
 {
-  "basic_identification": {
-    "is_number": "IS 11812 : 1986",
-    "full_title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
-    "sector_category": "Metallurgical Engineering / Corrosion Protection (approved by the Metallurgical Engineering Division Council and finalized by the Hot Dip Sprayed and Diffusion Coatings Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "25.220.40; 77.140.85",
+  "standard": {
+    "is_code": "IS 11812:1986",
+    "title": "Recommended Practice for Safeguarding Against Warpage and Distortion of Hot Dip Galvanized Articles",
+    "sector": "Metallurgical Engineering / Corrosion Protection",
+    "ics_code": [
+      "25.220.40",
+      "77.140.85"
+    ],
     "sectional_committee": {
       "name": "Hot Dip Sprayed and Diffusion Coatings Sectional Committee",
       "number": "SMDC 28"
-    }
+    },
+    "standard_type": "CODE_OF_PRACTICE",
+    "status": "ACTIVE",
+    "description": "This standard prescribes recommended design principles, fabrication practices, and process control measures to safeguard fabricated iron and steel assemblies against warpage, twisting, and physical distortion during hot-dip zinc galvanizing. It addresses the release of residual stresses, thermal expansion differentials, and cross-section symmetry.",
+    "scope": "This standard prescribes recommended design principles, fabrication practices, and process control measures to safeguard fabricated iron and steel assemblies against warpage, twisting, and physical distortion during hot-dip zinc galvanizing. It addresses the release of residual stresses, thermal expansion differentials, and cross-section symmetry.",
+    "keywords": [
+      "IS 11812 : 1986",
+      "Recommended Practice",
+      "Hot Dip Galvanizing",
+      "Warpage Prevention",
+      "Distortion Control",
+      "Symmetrical Design",
+      "Stress Relief",
+      "Seal Welding",
+      "Air Venting",
+      "Zinc Drainage",
+      "Progressive Dipping",
+      "SMDC 28",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard prescribes recommended design principles, fabrication practices, and process control measures to safeguard fabricated iron and steel assemblies against warpage, twisting, and physical distortion during hot-dip zinc galvanizing. It addresses the release of residual stresses, thermal expansion differentials, and cross-section symmetry.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 3"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Edition, 1986 (Reaffirmed in 2001, Reaffirmed in 2011, Reaffirmed in 2016, and Reviewed & Reaffirmed in 2021)",
-    "year_first_published": "1986",
+  "version": {
+    "current_version": "First Edition, 1986 (Reaffirmed in 2001, Reaffirmed in 2011, Reaffirmed in 2016, and Reviewed & Reaffirmed in 2021)",
+    "first_publication_year": 1986,
+    "publication_year": 1986,
+    "revision": "First Edition (officially approved by the sectional committee SMDC 28 under the chairmanship of Shri V. R. Subramanian representing the Indian Hot Dip Galvanizer's Association)",
     "revision_history": [
-      {
-        "edition": "First Edition (officially approved by the sectional committee SMDC 28 under the chairmanship of Shri V. R. Subramanian representing the Indian Hot Dip Galvanizer's Association)",
-        "year": "1986"
-      }
+      "First Edition (officially approved by the sectional committee SMDC 28 under the chairmanship of Shri V. R. Subramanian representing the Indian Hot Dip Galvanizer's Association), 1986"
     ],
-    "supersedes": "N/A",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 2629",
-      "title": "Recommended practice for hot-dip galvanizing on iron and steel",
-      "category": "Code of Practice / General Guidelines",
-      "location": "Normative references",
-      "relevance": "Provides the baseline chemical pre-treatment, fluxing, and molten zinc dipping procedures for iron and steel fabrications."
-    },
-    {
-      "is_number": "IS 4759",
-      "title": "Hot-dip zinc coatings on structural steel and other allied products — Specification",
-      "category": "Product Specification / Coating Standard",
-      "location": "Normative references",
-      "relevance": "Specifies nominal coating weights and thicknesses of zinc layers deposited on fabricated steel sections."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values (revised)",
-      "category": "Data Evaluation standard",
-      "location": "Clause 0.4",
-      "relevance": "Standardises the mathematical rounding of calculated or observed testing results during quality and compliance audits."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 11759 : 1986",
-      "title": "Recommended Practice for Repair of Damaged Hot-Dip Galvanized Coatings",
-      "category": "Code of Practice / Repair Standard",
-      "location": "Corrosion Protection allied series",
-      "relevance": "Specifies repair procedures (such as zinc-rich paints, metallising, or solder sticks) for galvanized sections that suffer localized damage during transport or distortion straightening."
-    },
-    {
-      "is_number": "IS 1254 : 2025",
-      "title": "Corrugated Aluminium Sheet — Specification",
-      "category": "Product Specification",
-      "location": "Parallel non-ferrous sheeting",
-      "relevance": "The master specification for corrugated aluminum roofing and cladding sheets, present in the notebook."
-    },
-    {
-      "is_number": "IS 12427 : 2001",
-      "title": "Transmission Tower Bolts — Specification",
-      "category": "Product Specification",
-      "location": "Parallel fasteners category",
-      "relevance": "Regulates hot-dip galvanized structural fasteners used in transmission towers, present in the notebook."
-    },
-    {
-      "is_number": "IS 16343 : 2015",
-      "title": "Geosynthetics — Guidelines for Installation of Geotextiles as Pavement Fabric",
-      "category": "Installation & Guideline Standard",
-      "location": "Parallel technical textiles",
-      "relevance": "Specifies on-site installation and inspection guidelines for pavement geotextiles, present in the notebook."
-    },
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Code of Practice / Design Standard",
-      "location": "Parallel structural engineering",
-      "relevance": "The master national structural steel construction code in this notebook, regulating support framing, steel assemblies, and connection details."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Code of Practice / Recommended Guidelines (Metallurgical Engineering / Corrosion Protection)",
-    "certification_status": "Voluntary Engineering Code of Practice. Since IS 11812:1986 is an engineering guideline rather than a direct manufacturing product, it does not carry a separate mandatory BIS license or ISI certification mark. However, its design rules, stress-relief practices, venting details, and dipping protocols are universally mandated inside all national public works (CPWD), power transmission (PGCIL), railways, and industrial structural steel engineering contracts to prevent on-site mechanical twisting and structural damage during the hot-dip galvanizing process.",
-    "requirements": [
+    "supersedes": [],
+    "amendments": [
       {
-        "requirement_type": "Pre-forming Assembly Members",
-        "detail": "All structural members used in an assembly should be pre-formed accurately to avoid SPRINGING ACTION and forced alignment during fit-up, thereby eliminating built-in mechanical tension that could be released in the zinc bath.",
-        "clause_reference": "Clause 3.1.2"
-      },
-      {
-        "requirement_type": "Thermal Stress Relief of Welds",
-        "detail": "Where massive weldments or heavy clamping forces are involved, the fabricated assembly should be stress-relieved by a suitable low-temperature heat treatment prior to galvanizing to prevent thermal distortion.",
-        "clause_reference": "Clause 3.1.3"
-      },
-      {
-        "requirement_type": "Symmetrical Cross-Section Design",
-        "detail": "Symmetrical cross-sections (such as I-beams, tubes, and pipes) are highly recommended because they distribute heating and cooling forces evenly about both axes. Non-symmetrical sections (such as channels, angles, or assemblies with dissimilar thicknesses) are highly prone to warping.",
-        "clause_reference": "Clause 2.1.1 & 3.1.4"
-      },
-      {
-        "requirement_type": "Generous Corner Radii",
-        "detail": "Corners on sheet metal products such as pans, bins, and containers should be fabricated with a generous radius to minimize localized stress concentration.",
-        "clause_reference": "Clause 3.1.5"
-      },
-      {
-        "requirement_type": "Continuous Seal-Welding of Contacting Surfaces",
-        "detail": "Tightly contacting or overlapping steel surfaces must be completely sealed by continuous welding. This prevents the entrapment of pickling acids or flux in crevices, which can cause severe interior rust, non-uniform coating, or build up explosive steam pressures at galvanizing temperatures (815–850°F / 435–455°C) that pose serious injury risks to plant personnel.",
-        "clause_reference": "Clause 3.1.7, 4.1 & 4.2"
-      },
-      {
-        "requirement_type": "Pre-Galvanizing Riveting Restriction",
-        "detail": "Riveting of fabricated parts prior to dipping is not recommended if the kettle size allows single-dip total immersion. Crevices at contacting rivet heads entrap pickling acids, leading to localized rusting.",
-        "clause_reference": "Clause 3.1.8"
-      },
-      {
-        "requirement_type": "Separate Assembly for Progressive Dipping",
-        "detail": "If a sheet metal or fabricated structure is too large for single-dip kettles, the sheets and framing should be galvanized separately and assembled post-galvanizing using galvanized or aluminum alloy rivets.",
-        "clause_reference": "Clause 3.1.9"
-      },
-      {
-        "requirement_type": "Mandatory Air Venting & Zinc Drainage",
-        "detail": "Each fabricated article must be submerged with complete safety. Closed hollow shapes (including pipes, structural hollow sections, pressure vessels, footing stiffeners, and gussets) must be provided with clipped or drilled vent holes to prevent air pockets, ensure complete zinc coverage, and facilitate rapid zinc drainage.",
-        "clause_reference": "Clause 3.2.1"
-      },
-      {
-        "requirement_type": "Dipping and Quenching Orientation",
-        "detail": "Articles should be dipped in a manner that ensures uniform heating and cooling across their sections. Vertical dipping of channel profiles and framing is preferred over horizontal or low-angle immersion.",
-        "clause_reference": "Clause 3.2.2"
-      },
-      {
-        "requirement_type": "Removal of Arc Welding slag",
-        "detail": "Slag and flux residues left by coated welding electrodes are chemically inert to standard pickling acids. All weld slag must be removed prior to pickling by chipping, wire brushing, or sand/shot blasting to prevent uncoated bare spots.",
-        "clause_reference": "Clause 4.2"
-      },
-      {
-        "requirement_type": "Open-Mitre Joints in Pipe Railings",
-        "detail": "For pipe railings, handrails, and similar assemblies, joints must feature open-mitre configurations at all times to allow continuous internal venting and zinc flow. Closed or blind sections are strictly prohibited, and floor flanges should be made of cast or wrought steel instead of cast iron.",
-        "clause_reference": "Clause 4.3"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments have been issued on this standard (NIL on this copy)."
       }
     ]
   },
-  "keywords": [
-    "IS 11812 : 1986",
-    "Recommended Practice",
-    "Hot Dip Galvanizing",
-    "Warpage Prevention",
-    "Distortion Control",
-    "Symmetrical Design",
-    "Stress Relief",
-    "Seal Welding",
-    "Air Venting",
-    "Zinc Drainage",
-    "Progressive Dipping",
-    "SMDC 28",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 2629",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4759",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 11759 : 1986",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1254 : 2025",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 12427 : 2001",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 16343 : 2015",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 11812 : 1986 (Reaffirmed 2021) is the national Indian Standard recommended practice specifying design and fabrication guidelines to safeguard fabricated iron and steel assemblies against warpage, twisting, and dimensional distortion when subjected to the high temperatures (815–850°F / 435–455°C) of molten zinc during hot-dip galvanizing. It acts as a crucial quality-control guide for engineers, fabricators, and galvanizers. The standard outlines key design parameters—such as avoiding thin steel sheets welded to heavy framing, using symmetrical structural sections, and stress-relieving heavy welds. It enforces strict procedural controls, including continuous seal-welding of overlapping joints to avoid acid entrapment and explosive steam expansion, drilling mandatory air-vent and zinc-drainage holes in hollow sections, and dipping assemblies vertically to ensure uniform thermal expansion and contraction."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Voluntary Engineering Code of Practice. Since IS 11812:1986 is an engineering guideline rather than a direct manufacturing product, it does not carry a separate mandatory BIS license or ISI certification mark. However, its design rules, stress-relief practices, venting details, and dipping protocols are universally mandated inside all national public works (CPWD), power transmission (PGCIL), railways, and industrial structural steel engineering contracts to prevent on-site mechanical twisting and structural damage during the hot-dip galvanizing process.",
+    "requirements": [
+      "All structural members used in an assembly should be pre-formed accurately to avoid SPRINGING ACTION and forced alignment during fit-up, thereby eliminating built-in mechanical tension that could be released in the zinc bath.",
+      "Where massive weldments or heavy clamping forces are involved, the fabricated assembly should be stress-relieved by a suitable low-temperature heat treatment prior to galvanizing to prevent thermal distortion.",
+      "Symmetrical cross-sections (such as I-beams, tubes, and pipes) are highly recommended because they distribute heating and cooling forces evenly about both axes. Non-symmetrical sections (such as channels, angles, or assemblies with dissimilar thicknesses) are highly prone to warping.",
+      "Corners on sheet metal products such as pans, bins, and containers should be fabricated with a generous radius to minimize localized stress concentration.",
+      "Tightly contacting or overlapping steel surfaces must be completely sealed by continuous welding. This prevents the entrapment of pickling acids or flux in crevices, which can cause severe interior rust, non-uniform coating, or build up explosive steam pressures at galvanizing temperatures (815–850°F / 435–455°C) that pose serious injury risks to plant personnel.",
+      "Riveting of fabricated parts prior to dipping is not recommended if the kettle size allows single-dip total immersion. Crevices at contacting rivet heads entrap pickling acids, leading to localized rusting.",
+      "If a sheet metal or fabricated structure is too large for single-dip kettles, the sheets and framing should be galvanized separately and assembled post-galvanizing using galvanized or aluminum alloy rivets.",
+      "Each fabricated article must be submerged with complete safety. Closed hollow shapes (including pipes, structural hollow sections, pressure vessels, footing stiffeners, and gussets) must be provided with clipped or drilled vent holes to prevent air pockets, ensure complete zinc coverage, and facilitate rapid zinc drainage.",
+      "Articles should be dipped in a manner that ensures uniform heating and cooling across their sections. Vertical dipping of channel profiles and framing is preferred over horizontal or low-angle immersion.",
+      "Slag and flux residues left by coated welding electrodes are chemically inert to standard pickling acids. All weld slag must be removed prior to pickling by chipping, wire brushing, or sand/shot blasting to prevent uncoated bare spots.",
+      "For pipe railings, handrails, and similar assemblies, joints must feature open-mitre configurations at all times to allow continuous internal venting and zinc flow. Closed or blind sections are strictly prohibited, and floor flanges should be made of cast or wrought steel instead of cast iron."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "11812_1986_reff2021.pdf",
     "document_version_edition": "First Edition, 1986 (Reaffirmed 2021)"
   }

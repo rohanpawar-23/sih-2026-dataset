@@ -1,239 +1,154 @@
 {
-  "basic_identification": {
-    "is_number": "IS 10238 : 2001",
-    "full_title": "Fasteners — Threaded Steel Fasteners — Step Bolts for Steel Structures — Specification (First Revision)",
-    "sector_category": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories (approved by the Basic and Production Engineering Division Council and finalized by the Bolts, Nuts and Fasteners Accessories Sectional Committee of the Bureau of Indian Standards)",
-    "ics_code": "21.060.01",
+  "standard": {
+    "is_code": "IS 10238:2001",
+    "title": "Fasteners — Threaded Steel Fasteners — Step Bolts for Steel Structures — Specification (First Revision)",
+    "sector": "Production and General Engineering / Bolts, Nuts and Fasteners Accessories",
+    "ics_code": [
+      "21.060.01"
+    ],
     "sectional_committee": {
       "name": "Bolts, Nuts and Fasteners Accessories Sectional Committee",
       "number": "BP 33"
     },
-    "citations": "[1]"
+    "standard_type": "PRODUCT_SPECIFICATION",
+    "status": "ACTIVE",
+    "description": "This standard specifies the material, mechanical, dimensional, manufacture, and test requirements for step bolts used in steel structures, including electrical transmission towers, to gain physical access to the top of the structures.",
+    "scope": "This standard specifies the material, mechanical, dimensional, manufacture, and test requirements for step bolts used in steel structures, including electrical transmission towers, to gain physical access to the top of the structures.",
+    "keywords": [
+      "IS 10238:2001",
+      "Step Bolts",
+      "Transmission Towers",
+      "Product Grade C",
+      "Property Class 4.6",
+      "Cantilever Test Setup",
+      "No Permanent Set",
+      "5 mm Punched Washer",
+      "M16-6g Thread",
+      "Hot-dip Galvanizing",
+      "Sodium Dichromate Passivation",
+      "NN Two Nuts suffix",
+      "Fasteners QCO",
+      "ISI Mark"
+    ]
   },
-  "scope": {
-    "summary": "This standard specifies the material, mechanical, dimensional, manufacture, and test requirements for step bolts used in steel structures, including electrical transmission towers, to gain physical access to the top of the structures.",
-    "clause_number": "Clause 1.1",
-    "page_number": "Page 1 of base standard",
-    "citations": "[2]"
-  },
-  "version_status_and_amendments": {
-    "edition_year_of_copy": "First Revision, 2001 (Reaffirmed 2021)",
-    "year_first_published": "1982",
+  "version": {
+    "current_version": "First Revision, 2001 (Reaffirmed 2021)",
+    "first_publication_year": 1982,
+    "publication_year": 2001,
+    "revision": "First Revision (prepared to incorporate three older amendments and align specifications with actual field products utilized in transmission line construction)",
     "revision_history": [
-      {
-        "edition": "First Edition",
-        "year": "1982"
-      },
-      {
-        "edition": "First Revision (prepared to incorporate three older amendments and align specifications with actual field products utilized in transmission line construction)",
-        "year": "2001"
-      }
+      "First Edition, 1982",
+      "First Revision (prepared to incorporate three older amendments and align specifications with actual field products utilized in transmission line construction), 2001"
     ],
-    "supersedes": "IS 10238 : 1982",
-    "superseded_by": "N/A",
-    "amendment_slips": "No active amendments issued since publication on this copy.",
-    "citations": "[1]"
-  },
-  "cross_referenced_standards_top_20": [
-    {
-      "is_number": "IS 1367 (Part 2)",
-      "title": "Technical supply conditions for threaded steel fasteners: Part 2 Product grades and tolerances",
-      "category": "Normative reference",
-      "location": "Clause 2 & Clause 4.1",
-      "relevance": "Specifies product grades and dimensional tolerance parameters for Grade C fasteners."
-    },
-    {
-      "is_number": "IS 1367 (Part 3)",
-      "title": "Technical supply conditions for threaded steel fasteners: Part 3 Mechanical properties and test methods for bolts, screws and studs with full load ability",
-      "category": "Normative reference / Test method",
-      "location": "Clause 2, Clause 5.1 & Clause 12.1",
-      "relevance": "Enforces testing standards for property class 4.6 step bolts and specifies overall marking guidelines.",
-      "citations": "[3]"
-    },
-    {
-      "is_number": "IS 1367 (Part 9/Sec 2)",
-      "title": "Technical supply conditions for threaded steel fasteners: Part 9 Surface discontinuities, Section 2 Bolts, screws and studs for special applications",
-      "category": "Quality control",
-      "location": "Clause 2 & Clause 7.1",
-      "relevance": "Governs the maximum allowable limits for surface blemishes, cracks, and discontinuities."
-    },
-    {
-      "is_number": "IS 1367 (Part 13)",
-      "title": "Technical supply conditions for threaded steel fasteners: Part 13 Hot-dip galvanized coatings on threaded fasteners",
-      "category": "Finish standard",
-      "location": "Clause 2 & Clause 8.1",
-      "relevance": "Enforces coating thickness and uniformity parameters for galvanized bolt threads."
-    },
-    {
-      "is_number": "IS 1367 (Part 17)",
-      "title": "Technical supply conditions for threaded steel fasteners: Part 17 Inspection, sampling and acceptance procedure",
-      "category": "Sampling",
-      "location": "Clause 2 & Clause 9.1",
-      "relevance": "Specifies lot groupings and statistical acceptance criteria for fastener quality audits."
-    },
-    {
-      "is_number": "IS 14394",
-      "title": "Industrial Fasteners — Hexagon nuts — Product grade C — Hot-dip galvanized and other allied products",
-      "category": "Component standard",
-      "location": "Clause 2 & Clause 6.1",
-      "relevance": "Governs the material performance and sizing criteria of matching property class 5 nuts."
-    },
-    {
-      "is_number": "IS 2016",
-      "title": "Specification for plain washers",
-      "category": "Component standard",
-      "location": "Clause 2, Clause 6.2.1 & Fig. 2",
-      "relevance": "References Type A punched plain washers used in the cantilever assembly.",
-      "citations": "[4]"
-    },
-    {
-      "is_number": "IS 4218",
-      "title": "ISO Metric screw threads — Specification",
-      "category": "Thread standard",
-      "location": "Clause 2 & Fig. 1",
-      "relevance": "Specifies thread forms, profiles, and pitches for the M16-6g thread profile.",
-      "citations": "[4]"
-    },
-    {
-      "is_number": "IS 4759",
-      "title": "Hot-dip zinc coatings on structural steel and other allied products",
-      "category": "Finish standard",
-      "location": "Clause 2 & Clause 8.2",
-      "relevance": "Governs hot-dip galvanizing parameters and quality tests for accompanying washers."
-    },
-    {
-      "is_number": "IS 2 : 1960",
-      "title": "Rules for rounding off numerical values",
-      "category": "Other",
-      "location": "Foreword",
-      "relevance": "Standardizes the mathematical procedures used to round off observed or calculated physical testing values."
-    }
-  ],
-  "allied_standards": [
-    {
-      "is_number": "IS 800 : 2007",
-      "title": "Code of Practice for General Steel Construction",
-      "category": "Normative reference",
-      "location": "Foreword",
-      "relevance": "The master national structural code governing steel joints, connections, and structural detailing where step bolts are installed.",
-      "citations": "[5]"
-    },
-    {
-      "is_number": "IS 6623 : 2004",
-      "title": "High Strength Structural Nuts — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "An allied product specification defining heavy-duty structural nuts used in preloaded structural joints."
-    },
-    {
-      "is_number": "IS 14255 : 1995",
-      "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1100 Volts — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Governs low-voltage aerial cables suspended on overhead distribution poles and towers where step bolts provide climbing access."
-    },
-    {
-      "is_number": "IS 2062 : 2026",
-      "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Product specification",
-      "location": "Foreword",
-      "relevance": "Specifies physical-mechanical limits for the structural steel plates, angles, and sections that step bolts are fixed into."
-    }
-  ],
-  "certification_and_marking": {
-    "standard_type": "Product Specification (Industrial Fasteners / Transmission Line Hardware)",
-    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Bolts, Nuts and Fasteners (Quality Control) Order' issued by the Government of India, all step bolts utilized on structural steel masts and transmission towers must conform to IS 10238 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling uncertified step bolts in the Indian market is a statutory offense. Precious metal hallmarking is completely inapplicable to heavy industrial steel fasteners.",
-    "requirements": [
+    "supersedes": [
+      "IS 10238 : 1982"
+    ],
+    "amendments": [
       {
-        "requirement_type": "BIS Standard Mark Scheme",
-        "detail": "Every step bolt package or batch must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L)."
-      },
-      {
-        "requirement_type": "Total Weight Safety Limit",
-        "detail": "For climbing safety reasons, the maximum total weight of a person—including their personal climbing tools, nuts, tackles, and gear—using these step bolts to ascend must not exceed 150 kg (or 120 kg in early standard drafts)."
-      },
-      {
-        "requirement_type": "Complete Assembly Supply Configuration",
-        "detail": "Each individual step bolt must be packaged and supplied complete with exactly two matching hexagon nuts.",
-        "clause_reference": "Clause 1.2",
-        "citations": "[2]"
-      },
-      {
-        "requirement_type": "Property Grade and Property Class",
-        "detail": "The step bolt must belong to Product Grade C as specified in IS 1367 (Part 2), and satisfy property class 4.6 as specified in IS 1367 (Part 3)."
-      },
-      {
-        "requirement_type": "Mating Nut Property Class",
-        "detail": "The hexagon nuts supplied with the step bolts must belong to property class 5 and comply with IS 14394."
-      },
-      {
-        "requirement_type": "Punched WasherS Sizing",
-        "detail": "The accompanying plain washers must be Type A punched washers conforming to IS 2016, but feature a modified heavy-duty thickness of 5 ± 1 mm.",
-        "clause_reference": "Clause 6.2.1",
-        "citations": "[4]"
-      },
-      {
-        "requirement_type": "Precision Thread Geometry",
-        "detail": "The step bolt must feature M16-6g screw threads complying with IS 4218. The thread pitch must be P = 2 mm, with a 2x45° end chamfer, and all edges must be smooth with zero sharp corners to prevent worker injury.",
-        "clause_reference": "Fig. 1",
-        "citations": "[4]"
-      },
-      {
-        "requirement_type": "Surface Discontinuities Control",
-        "detail": "Permissible surface discontinuities of the step bolts must comply with the strict quality limits of IS 1367 (Part 9/Sec 2)."
-      },
-      {
-        "requirement_type": "Galvanizing Application Sequence",
-        "detail": "The finished step bolts must be hot-dip galvanized in accordance with IS 1367 (Part 13), and the washers galvanized per IS 4759. All dimensional limits specified in the standard apply to the product before galvanizing is executed."
-      },
-      {
-        "requirement_type": "Mandatory Anti-Rust Passivation",
-        "detail": "Immediately after galvanizing, the hot-dip galvanized bolts, nuts, and washers must be passivated by dipping in a 0.15 percent solution of sodium dichromate with 0.5 percent concentrated sulphuric acid maintained at a temperature above 32°C to prevent wet storage strain (white rust)."
-      },
-      {
-        "requirement_type": "Cantilever Loading Proof Test",
-        "detail": "To verify climbing safety, the step bolt must be tightly fixed to a structural member via a 16 mm drilled hole with the nuts tightened to the end of the threads, as illustrated in Fig. 2. The assembly must be subjected to a cantilever proof load of 150 kg (specified as 120 kg in some earlier prints) applied for 10 seconds. After unloading and re-applying the load for another 10 seconds, there must be no permanent set observed at the designated measurement point, subject to a measurement error tolerance of 30 µm.",
-        "clause_reference": "Clauses 10.1 & 10.1.1 & Fig. 2",
-        "citations": "[3, 6]"
-      },
-      {
-        "requirement_type": "Lot Sampling Scale",
-        "detail": "Sampling, inspection, and acceptance criteria must conform to the standard procedures of IS 1367 (Part 17)."
-      },
-      {
-        "requirement_type": "Standard Alphanumeric Designation",
-        "detail": "The step bolts must be designated by size, length, standard number, and the suffix 'NN' indicating two nuts (e.g., 'Step Bolt M16 x 175 NN IS 10238').",
-        "clause_reference": "Clause 11",
-        "citations": "[3]"
-      },
-      {
-        "requirement_type": "Mandatory Body Markings",
-        "detail": "Each step bolt must carry the manufacturer's identification mark and the property class (4.6) marked on the bolt head in accordance with IS 1367 (Part 3).",
-        "clause_reference": "Clause 12.1",
-        "citations": "[3]"
+        "amendment_number": "Amendment 1",
+        "date": null,
+        "summary": "No active amendments issued since publication on this copy."
       }
     ]
   },
-  "keywords": [
-    "IS 10238:2001",
-    "Step Bolts",
-    "Transmission Towers",
-    "Product Grade C",
-    "Property Class 4.6",
-    "Cantilever Test Setup",
-    "No Permanent Set",
-    "5 mm Punched Washer",
-    "M16-6g Thread",
-    "Hot-dip Galvanizing",
-    "Sodium Dichromate Passivation",
-    "NN Two Nuts suffix",
-    "Fasteners QCO",
-    "ISI Mark"
+  "relationships": [
+    {
+      "target_is_code": "IS 1367 (Part 2)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1367 (Part 3)",
+      "relationship_type": "TEST_METHOD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1367 (Part 9/Sec 2)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1367 (Part 13)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 1367 (Part 17)",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14394",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2016",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4218",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 4759",
+      "relationship_type": "NORMATIVE_REFERENCE",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2 : 1960",
+      "relationship_type": "ROUNDING_STANDARD",
+      "relationship_category": "CROSS_REFERENCED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 800 : 2007",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 6623 : 2004",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 14255 : 1995",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    },
+    {
+      "target_is_code": "IS 2062 : 2026",
+      "relationship_type": "RELATED_PRODUCT_STANDARD",
+      "relationship_category": "ALLIED_STANDARD"
+    }
   ],
-  "plain_language_summary": {
-    "summary": "IS 10238 : 2001 is the mandatory national Indian Standard safety specification establishing physical, dimensional, and mechanical requirements for steel step bolts (and their matching nuts and washers) installed on electrical transmission towers and other steel structures to provide climbing access to maintenance personnel. Under the national Fasteners Quality Control Order, all step bolts sold or imported in India must be certified by the Bureau of Indian Standards and bear the Standard Mark (ISI Mark). The standard specifies that each M16 bolt (tolerance 6g) must be supplied complete with two property class 5 nuts and a heavy-duty 5 mm thick plain washer. To withstand severe outdoor weather, all elements must undergo hot-dip galvanizing and a special chromic-acid passivation treatment to prevent white rust. To ensure human life safety, the standard mandates a strict cantilever load proof test—requiring that the fixed bolt withstand a 150 kg weight applied twice for 10 seconds with zero permanent deformation."
+  "certification": {
+    "mandatory": true,
+    "certification_scheme": "ISI_MARK",
+    "certification_type": "BIS_PRODUCT_CERTIFICATION",
+    "qco": {
+      "applicable": false
+    },
+    "description": "Strict Statutory Mandatory Certification. Under the 'Bolts, Nuts and Fasteners (Quality Control) Order' issued by the Government of India, all step bolts utilized on structural steel masts and transmission towers must conform to IS 10238 and bear the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, or selling uncertified step bolts in the Indian market is a statutory offense. Precious metal hallmarking is completely inapplicable to heavy industrial steel fasteners.",
+    "requirements": [
+      "Every step bolt package or batch must carry the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L).",
+      "For climbing safety reasons, the maximum total weight of a person—including their personal climbing tools, nuts, tackles, and gear—using these step bolts to ascend must not exceed 150 kg (or 120 kg in early standard drafts).",
+      "Each individual step bolt must be packaged and supplied complete with exactly two matching hexagon nuts.",
+      "The step bolt must belong to Product Grade C as specified in IS 1367 (Part 2), and satisfy property class 4.6 as specified in IS 1367 (Part 3).",
+      "The hexagon nuts supplied with the step bolts must belong to property class 5 and comply with IS 14394.",
+      "The accompanying plain washers must be Type A punched washers conforming to IS 2016, but feature a modified heavy-duty thickness of 5 ± 1 mm.",
+      "The step bolt must feature M16-6g screw threads complying with IS 4218. The thread pitch must be P = 2 mm, with a 2x45° end chamfer, and all edges must be smooth with zero sharp corners to prevent worker injury.",
+      "Permissible surface discontinuities of the step bolts must comply with the strict quality limits of IS 1367 (Part 9/Sec 2).",
+      "The finished step bolts must be hot-dip galvanized in accordance with IS 1367 (Part 13), and the washers galvanized per IS 4759. All dimensional limits specified in the standard apply to the product before galvanizing is executed.",
+      "Immediately after galvanizing, the hot-dip galvanized bolts, nuts, and washers must be passivated by dipping in a 0.15 percent solution of sodium dichromate with 0.5 percent concentrated sulphuric acid maintained at a temperature above 32°C to prevent wet storage strain (white rust).",
+      "To verify climbing safety, the step bolt must be tightly fixed to a structural member via a 16 mm drilled hole with the nuts tightened to the end of the threads, as illustrated in Fig. 2. The assembly must be subjected to a cantilever proof load of 150 kg (specified as 120 kg in some earlier prints) applied for 10 seconds. After unloading and re-applying the load for another 10 seconds, there must be no permanent set observed at the designated measurement point, subject to a measurement error tolerance of 30 µm.",
+      "Sampling, inspection, and acceptance criteria must conform to the standard procedures of IS 1367 (Part 17).",
+      "The step bolts must be designated by size, length, standard number, and the suffix 'NN' indicating two nuts (e.g., 'Step Bolt M16 x 175 NN IS 10238').",
+      "Each step bolt must carry the manufacturer's identification mark and the property class (4.6) marked on the bolt head in accordance with IS 1367 (Part 3)."
+    ]
   },
-  "source_information": {
+  "source": {
     "source_pdf_filename": "10238_2001_reff2021.pdf",
     "document_version_edition": "First Revision, 2001 (Reaffirmed 2021)"
   }
