@@ -1,0 +1,179 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12662 (Part 2) : 2025",
+    "full_title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
+    "sector_category": "Chemical / Environmental Protection and Waste Management (approved by the Chemical Division Council and finalized by the Environmental Protection and Waste Management Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "13.030.40; 43.160",
+    "sectional_committee": {
+      "name": "Environmental Protection and Waste Management Sectional Committee",
+      "number": "CHD 32"
+    }
+  },
+  "scope": {
+    "summary": "This standard (Part 2) specifies procedural and safety guidelines for the regular, preventive, and corrective maintenance of specialized and general-purpose municipal vehicles (including compactor trucks, auto-tippers, dumper placers, hook loaders, and refuse collectors) used to collect, compact, and haul municipal solid waste (MSW) to protect equipment from corrosive leachate and guarantee structural safety.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 2025 (established to align with modern municipal waste vehicle technologies and replace the outdated 2002 edition)",
+    "year_first_published": "2002 (originally published as IS 12662 (Part 2) : 2002 under the title 'Vehicles for Collection of Municipal Solid Wastes : Part 2 Guidelines for Maintenance')",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 12662 (Part 2) : 2002)",
+        "year": "2002"
+      },
+      {
+        "edition": "First Revision (IS 12662 (Part 2) : 2025)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "IS 12662 (Part 2) : 2002",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2025 revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 12662 (Part 1) : 2021",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 1: Selection of Vehicles",
+      "category": "Selection standard",
+      "location": "Normative references",
+      "relevance": "Provides the baseline vehicle classifications (such as rear loaders, side loaders, and dumper placers) which Part 2 directly establishes maintenance guidelines for."
+    },
+    {
+      "is_number": "IS 9234",
+      "title": "Methods for preparation of solid waste sample for chemical and microbiological analysis",
+      "category": "Testing standard",
+      "location": "Normative references",
+      "relevance": "Regulates chemical and biological waste sampling methods that support waste evaluation near transport vehicles."
+    },
+    {
+      "is_number": "IS 9235",
+      "title": "Physical Analysis and Determination of Moisture in Solid Wastes (Excluding Industrial Solid wastes)",
+      "category": "Testing standard",
+      "location": "Normative references",
+      "relevance": "Standardises analytical procedures to measure moisture content in municipal waste which dictates corrosive leachate volumes."
+    },
+    {
+      "is_number": "IS 9569",
+      "title": "Glossary of terms relating to solid wastes",
+      "category": "Terminology standard",
+      "location": "Normative references",
+      "relevance": "Defines standard terms, classifications, and nomenclature relating to municipal and domestic solid waste."
+    },
+    {
+      "is_number": "IS 10158",
+      "title": "Methods of Analysis of Solid Wastes (Excluding Industrial Solid Wastes)",
+      "category": "Testing standard",
+      "location": "Normative references",
+      "relevance": "Specifies physical and chemical test methods to analyze solid wastes collected by haulage vehicles."
+    },
+    {
+      "is_number": "IS 12647",
+      "title": "Solid Waste Management System - Collection Equipment - Guidelines",
+      "category": "Product standard",
+      "location": "Normative references",
+      "relevance": "Provides design and dimensional specifications of mobile bins and roadside collection units compatible with vehicle lifting mechanisms."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow waterways and environmental protection standard present in the notebook, specifying geobag configurations used to prevent riverbank erosion."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "PVC Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, specifying impermeable lining systems for municipal solid waste landfills where transport vehicles discharge waste."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow water-system monitoring standard present in the notebook, specifying hydrometric instrumentation parameters."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, weld joints, and connection details on vehicle chassis, waste transfer stations, and maintenance gantries."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Guidelines / Code of Practice (Environmental Protection / Municipal Waste Vehicles)",
+    "certification_status": "Voluntary Procedural Guidelines Standard. Compliance with IS 12662 (Part 2) is verified through municipal audits, state-level urban development departments, Swachh Bharat Mission (SBM) clean city star ratings, and state pollution control boards. While there is no direct BIS 'ISI Mark' stamp for IS 12662 itself, compliance with its daily, weekly, monthly, and chemical disinfection schedules is universally mandated in public municipal collection and transport tenders across India. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Pre-Route Daily Inspections",
+        "detail": "Requires daily inspection of all critical vehicle systems before starting collection routes. This includes engine fluids, coolant levels, tyre pressures, brake systems, steering gear, and a thorough visual check of all hydraulic hoses, hose couplings, and valves for leaks."
+      },
+      {
+        "requirement_type": "Daily High-Pressure Cleaning",
+        "detail": "To prevent vector breeding (flies, mosquitoes), severe foul odours, and the buildup of highly corrosive organic municipal solid waste, the entire vehicle body—particularly the collection hopper, compaction chamber, and chassis underside—must be washed daily with high-pressure water jets."
+      },
+      {
+        "requirement_type": "Daily Chemical Disinfection",
+        "detail": "Following high-pressure washing, the vehicle's waste containment compartments must be disinfected daily using approved disinfectants and germicides (such as sodium hypochlorite, phenol, bleaching powder, or quaternary ammonium compounds) to safeguard public health and protect conservancy workers."
+      },
+      {
+        "requirement_type": "Acidic Leachate Management & Anti-Corrosion",
+        "detail": "Requires weekly inspection of leachate collection tanks, seals, and drainage valves. Valves must be flushed, and tanks emptied at designated disposal points. Because municipal organic waste leachate is highly acidic (typically pH 4.0 to 6.0), any bare steel or peeling paint must be cleaned immediately and treated with protective anti-corrosion, rust-preventive paint coatings."
+      },
+      {
+        "requirement_type": "Weekly Lubrication & Pivot Checks",
+        "detail": "All moving joints, bin-lifter hinges, hydraulic cylinder pivot pins, tailgate locking linkages, and sliding guide tracks must be greased weekly to prevent mechanical wear, friction buildup, and premature component seizing."
+      },
+      {
+        "requirement_type": "Monthly Hydraulic System Performance",
+        "detail": "Checks of hydraulic oil levels, oil quality, suction filters, pressure relief valve settings (via standard pressure gauges), and hydraulic pump mounting bolts must be performed monthly to ensure consistent compaction forces and prevent sudden high-pressure hose bursts."
+      },
+      {
+        "requirement_type": "Mechanical Safety Locks & Warnings",
+        "detail": "Safety equipment must be checked. Rear loading hoppers, heavy tailgates, dumper derrick arms, and container pins must feature functional mechanical safety locks/pins. Audible reversing alarms, beacon lights, reflective safety tape, and cabin warning flashers must be tested daily."
+      },
+      {
+        "requirement_type": "Worker PPE & Safety Protocols",
+        "detail": "Maintenance files must demonstrate that all conservancy and workshop staff are provided with and wear proper Personal Protective Equipment (heavy-duty rubber gloves, safety goggles, face shields, protective aprons, safety boots, and masks) during cleaning, lubrication, or mechanical repairs."
+      },
+      {
+        "requirement_type": "Driver Cabin Logbook Maintenance",
+        "detail": "Mandates that a permanent daily maintenance logbook be maintained inside the driver's cabin or workshop tracking fuel consumption, dynamic compaction cycles, lubrication dates, hydraulic filter changes, and part replacement histories."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12662 (Part 2)",
+    "Municipal Solid Waste",
+    "Solid Waste Vehicles",
+    "Vehicle Maintenance",
+    "Preventive Maintenance",
+    "Compactor Truck",
+    "Corrosive Leachate",
+    "Washing and Disinfection",
+    "Hydraulic Compaction",
+    "Weekly Greasing",
+    "CHD 32",
+    "Swachh Bharat Mission",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12662 (Part 2) : 2025 (First Revision) is the national Indian Standard specification and code of practice establishing guidelines for the maintenance of municipal solid waste (MSW) collection and transport vehicles. Formulated under the Environmental Protection and Waste Management Sectional Committee, this standard regulates the preventive, regular, and corrective maintenance procedures for compactor trucks, refuse collectors, auto-tippers, and container carriers. To counter the highly corrosive effects of organic waste leachate and prevent vector breeding in cities, the standard mandates a strict maintenance regime—enforcing daily high-pressure water washing, daily chemical disinfection, weekly greasing of all moving joints and hydraulic pivots, weekly flushing of leachate tanks, and monthly hydraulic system pressure checks—to ensure structural roadworthiness and protect the health of conservancy workers."
+  },
+  "source_information": {
+    "source_pdf_filename": "12662_2_2025.pdf",
+    "document_version_edition": "First Revision, March 2025"
+  }
+}

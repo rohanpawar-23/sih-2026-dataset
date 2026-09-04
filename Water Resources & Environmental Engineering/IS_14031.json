@@ -1,0 +1,156 @@
+{
+  "basic_identification": {
+    "is_number": "IS 14031 : 2025",
+    "full_title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+    "sector_category": "Environment and Ecology / Environmental Management (approved by the newly established Environment and Ecology Division Council and finalized by the Environmental Management Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "13.020.10",
+    "sectional_committee": {
+      "name": "Environmental Management Sectional Committee",
+      "number": "EED 01 (formerly CHD 34 under the Chemical Department)"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies guidelines for the design, development, and use of Environmental Performance Evaluation (EPE) within any organization, regardless of its size, type, location, or complexity. It defines EPE as an internal management process that uses indicators to compare an organization's actual environmental performance against its established environmental performance objectives, helping to support legal compliance, pollution prevention, and continual improvement.",
+    "clause_number": "Clause 1",
+    "page_number": "First Revision, 2025"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, February 2025 (established to align with the latest international environmental management guidelines and replace the outdated 1999 edition)",
+    "year_first_published": "1999 (as dual-numbered IS/ISO 14031 : 1999)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS/ISO 14031 : 1999)",
+        "year": "1999"
+      },
+      {
+        "edition": "First Revision (IS 14031 : 2025)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "IS/ISO 14031 : 1999",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2025 revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS/ISO 14001",
+      "title": "Environmental management systems — Requirements with guidance for use",
+      "category": "System standard",
+      "location": "Normative references",
+      "relevance": "Provides the foundational requirements for establishing an Environmental Management System (EMS) which EPE directly monitors and evaluates."
+    },
+    {
+      "is_number": "IS/ISO 14040",
+      "title": "Environmental management — Life cycle assessment — Principles and framework",
+      "category": "Analysis standard",
+      "location": "Normative references",
+      "relevance": "Establishes life cycle assessment parameters that support data collection and product/process environmental evaluations."
+    },
+    {
+      "is_number": "IS/ISO 14044",
+      "title": "Environmental management — Life cycle assessment — Requirements and guidelines",
+      "category": "Analysis standard",
+      "location": "Normative references",
+      "relevance": "Provides detailed requirements to perform LCAs which feed direct data into environmental indicators."
+    },
+    {
+      "is_number": "IS/ISO 14050",
+      "title": "Environmental management — Vocabulary",
+      "category": "Terminology standard",
+      "location": "Normative references",
+      "relevance": "Standardises the vocabulary and definitions utilized throughout environmental management standards."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Foreword",
+      "relevance": "Standardises mathematical rounding procedures during conformity evaluations."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Geosynthetics / Waterways Protection",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental and waterways protection standard present in the notebook, regulating woven geobag geotextiles used to control erosion and mitigate flood risks."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "PVC Geomembranes for Lining — Specification",
+      "category": "Geosynthetics / Seepage Control",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, specifying impermeable lining systems for solid waste landfills, industrial containment ponds, and agricultural water bodies."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Water Resources / Hydrometry",
+      "location": "Notebook Co-source",
+      "relevance": "A companion standard present in the notebook, regulating instrumentation accuracy to gather field data for open-channel water resources."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The national structural steel code in India, regulating support framing, watertight steel partitions, and connection details for industrial installations."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Guidelines / Code of Practice (Environmental Management / Systems & Evaluation)",
+    "certification_status": "Voluntary Procedural Guidelines Standard. Unlike product specifications that govern safety-critical materials, IS 14031:2025 is a voluntary, procedural methodology standard. Organizations do not obtain a direct BIS product license or ISI mark stamp for IS 14031 itself. Instead, the standard is globally used as a technical guide to implement Clause 9.1 (Monitoring and Measurement) of ISO 14001 environmental management systems. It is universally adopted by green factories, municipal waste operations, heavy chemical processors, and ESG (Environmental, Social, and Governance) compliance boards to demonstrate objective, measurable evidence of their environmental performance to regulatory agencies.",
+    "requirements": [
+      {
+        "requirement_type": "Environmental Performance Evaluation (EPE) Process",
+        "detail": "Organizations must structure their EPE process based on the Plan-Do-Check-Act (PDCA) cycle, selecting relevant indicators, collecting and analyzing field data, evaluating performance against objectives, and reporting/communicating findings.",
+        "clause_reference": "EPE Guidelines"
+      },
+      {
+        "requirement_type": "Management Performance Indicators (MPIs)",
+        "detail": "Organizations must track indicators that evaluate management's commitment and efforts to minimize environmental impacts. Examples include the number of achieved environmental objectives, the volume of environmental training hours completed, resources spent on pollution prevention, or the frequency of compliance audits.",
+        "clause_reference": "Indicators for EPE"
+      },
+      {
+        "requirement_type": "Operational Performance Indicators (OPIs)",
+        "detail": "Organizations must track physical indicators related to the inputs, processes, and outputs of their operations. Examples include raw materials consumed per unit of product, total energy/electricity used, hazardous waste generated, wastewater discharged, or direct greenhouse gas emissions.",
+        "clause_reference": "Indicators for EPE"
+      },
+      {
+        "requirement_type": "Environmental Condition Indicators (ECIs)",
+        "detail": "Organizations must collect data describing the local, regional, national, or global state of the environment that may interact with or be affected by their activities. Examples include local river water quality (upstream and downstream of a discharge point), ambient air quality indices, soil contaminants, or biodiversity counts.",
+        "clause_reference": "Indicators for EPE"
+      },
+      {
+        "requirement_type": "Data Quality and Calibration Controls",
+        "detail": "To ensure EPE reliability, monitoring and measurement devices must be calibrated or verified regularly, with all records documented and maintained for audit verification.",
+        "clause_reference": "EPE Implementation"
+      },
+      {
+        "requirement_type": "Reporting and Communication",
+        "detail": "Establishes guidelines to share evaluation results both internally (to management and personnel to foster awareness) and externally (via corporate sustainability and ESG reports) to demonstrate policy compliance.",
+        "clause_reference": "Reporting and Review"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 14031 : 2025",
+    "Environmental Management",
+    "Environmental Performance Evaluation",
+    "EPE PDCA Cycle",
+    "Management Performance Indicators MPI",
+    "Operational Performance Indicators OPI",
+    "Environmental Condition Indicators ECI",
+    "ISO 14031",
+    "EED 01",
+    "ESG Compliance"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 14031 : 2025 (First Revision) is the national Indian Standard specification and code of practice providing comprehensive guidelines on how any organization can evaluate and improve its environmental performance. Aligned with the international standard ISO 14031, this standard outlines the Environmental Performance Evaluation (EPE) process using the Plan-Do-Check-Act (PDCA) framework. It divides indicators into three distinct classes: Management Performance Indicators (tracking EMS efforts like training and audits), Operational Performance Indicators (tracking physical inputs and emissions like energy and waste), and Environmental Condition Indicators (tracking the local environment's health, such as air and river water quality). This structured reporting helps firms systematically prove, manage, and communicate their ecological footprint to external stakeholders and regulatory agencies."
+  },
+  "source_information": {
+    "source_pdf_filename": "IS 14031:2025 (referred to via web research, replacing legacy IS/ISO 14031:1999)",
+    "document_version_edition": "First Revision, February 2025"
+  }
+}

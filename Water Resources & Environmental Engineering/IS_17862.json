@@ -1,0 +1,165 @@
+{
+  "basic_identification": {
+    "is_number": "IS 17862 : 2026",
+    "full_title": "E-Waste Management — Guidelines (ई-अपशिष्ट प्रबंधन — दिशानिर्देश) (First Revision)",
+    "sector_category": "Environment and Ecology / Waste Management (approved by the newly established Environment and Ecology Division Council and finalized by the Waste Management Sectional Committee, EED 08, of the Bureau of Indian Standards)",
+    "ics_code": "13.030.10",
+    "sectional_committee": {
+      "name": "Waste Management Sectional Committee",
+      "number": "EED 08"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies comprehensive guidelines, operational practices, and safety protocols for the environmentally sound storage, collection, transport, refurbishing, dismantling, and recycling of electrical and electronic waste (e-waste) to maximize material recovery and prevent ecological contamination.",
+    "clause_number": "Clause 1 / Foreword",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, July 2026",
+    "year_first_published": "2022 (originally published under the title 'Storage, Collection, Dismantling and Recycling of E-Waste Guidelines')",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 17862 : 2022)",
+        "year": "2022"
+      },
+      {
+        "edition": "First Revision (IS 17862 : 2026)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "IS 17862 : 2022",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2026 standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 12662 (Part 2) : 2025",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
+      "category": "Maintenance standard",
+      "relevance": "Provides the baseline vehicle cleaning, leachate control, and maintenance requirements for waste haulage fleets, co-regulated under EED 08."
+    },
+    {
+      "is_number": "IS 19372 : 2025",
+      "title": "Thermal Processing of Horticulture and Wet Waste — Guidelines",
+      "category": "Operating standard",
+      "relevance": "A sister waste management and material-to-energy recovery standard present in the notebook, co-regulated under EED 08."
+    },
+    {
+      "is_number": "IS 14031 : 2025",
+      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+      "category": "System standard",
+      "relevance": "Establishes environmental condition (ECI) and operational performance indicators (OPI) to monitor and evaluate overall industrial facility footprints."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 12662 (Part 2) : 2025",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow municipal solid waste management standard present in the notebook, regulating transport and hygiene controls."
+    },
+    {
+      "is_number": "IS 19372 : 2025",
+      "title": "Thermal Processing of Horticulture and Wet Waste — Guidelines",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow waste-processing standard present in the notebook, co-regulated under the same Sectional Committee EED 08."
+    },
+    {
+      "is_number": "IS 12002 : 2025",
+      "title": "Control of Air Pollution in Cement Plants — Code of Practice (First Revision)",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "An associated air pollution control code regulating emissions, where dried and non-recyclable solid plastic fractions can be co-processed."
+    },
+    {
+      "is_number": "IS 8073 : 2026",
+      "title": "Treatment and Disposal of Steel Plant Effluents — Guidelines (First Revision)",
+      "category": "Product / Effluent Specification",
+      "location": "Notebook Co-source",
+      "relevance": "An associated effluent control code regulating heavy industrial wastewater and waste recycling loops."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for waste storage and sorting yards to prevent hazardous chemical leaching into local soil."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for storage racks, shredders, and processing machinery."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Quality and Operating Guidelines (Environment and Ecology / Waste Management)",
+    "certification_status": "Voluntary Code of Practice. Since IS 17862:2026 is an operational and management guideline standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its structured storage guidelines, collection channels, and equipment calibration schedules is legally integrated into Extended Producer Responsibility (EPR) authorizations. It is universally audited by the Central Pollution Control Board (CPCB) and State Pollution Control Boards (SPCBs) to verify that EEE producers, dismantlers, refurbishers, and recyclers follow environmentally sound practices.",
+    "requirements": [
+      {
+        "requirement_type": "Three-Tier Producer Identification",
+        "detail": "Formally defines a 'producer' of electrical and electronic equipment (EEE) under three categories:\na) Manufactures and offers to sell EEE and their components, consumables, parts, or spares under its own brand;\nb) Offers to sell under its own brand, assembled EEE and their components, consumables, parts, or spares produced by other manufacturers or suppliers; or\nc) Offers to sell imported EEE and their components, consumables, parts, or spares.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Collection Channel Financing",
+        "detail": "Producers of EEE may establish and finance collection channels across all cities, towns, and villages where their products are sold to encourage and facilitate safe disposal of old or unused electronic devices.",
+        "clause_reference": "Clause 5.7.1"
+      },
+      {
+        "requirement_type": "EPR Public Disclosures",
+        "detail": "Producers must provide clear and accessible details of their established collection networks through appropriate media, including publishing active website links where the general public can easily retrieve this information.",
+        "clause_reference": "Clause 5.7.1"
+      },
+      {
+        "requirement_type": "Facility Equipment Calibration",
+        "detail": "All diagnostic, testing, sorting, dismantling, and material-handling equipment utilized in e-waste processing facilities must be regularly calibrated, monitored, and maintained on a specified periodicity to ensure occupational safety and prevent emissions.",
+        "clause_reference": "Clause 5.6"
+      },
+      {
+        "requirement_type": "Authorized Facility Setup",
+        "detail": "All collection points, warehouses, refurbishing centres, and recycling plants must be established and operated strictly by authorized dismantlers, registered refurbishers, and licensed recyclers.",
+        "clause_reference": "Clause 5.6 / 5.8"
+      },
+      {
+        "requirement_type": "Climate-Controlled Storage",
+        "detail": "Collected e-waste, especially components containing hazardous chemicals or heavy metals (such as cathode ray tubes, liquid crystal displays, lithium-ion batteries, and printed circuit boards), must be stored in secure, weatherproof, and climate-controlled areas to prevent rainfall ingress, leachate runoff, or physical damage."
+      },
+      {
+        "requirement_type": "Refurbished Equipment Quality",
+        "detail": "Refurbished electrical and electronic equipment intended for resale must satisfy safety and quality requirements, aligning with the Compulsory Registration Scheme (CRS) of the Ministry of Electronics and Information Technology."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 17862 : 2026",
+    "E-Waste Management",
+    "Extended Producer Responsibility EPR",
+    "Electrical and Electronic Equipment EEE",
+    "E-Waste Storage",
+    "Collection Channels",
+    "Dismantler and Recycler",
+    "Refurbished Quality",
+    "Equipment Calibration",
+    "EED 08",
+    "Karo Sambhav",
+    "E-Parisaraa",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 17862 : 2026 (First Revision) is the national Indian Standard code of practice specifying guidelines for the storage, collection, refurbishing, dismantling, and recycling of electrical and electronic waste (e-waste). Developed under the Waste Management Sectional Committee (EED 08), this first revision replaces the legacy 2022 edition to align with India's latest Extended Producer Responsibility (EPR) regulations. It defines strict classifications for EEE producers, requires them to finance and establish nationwide collection channels with clear website disclosures, and enforces operational guidelines for authorized facility operators—mandating climate-controlled storage to prevent heavy metal leaching and regular calibration of dismantling and testing equipment."
+  },
+  "source_information": {
+    "source_pdf_filename": "17862_2026.pdf",
+    "document_version_edition": "First Revision, July 2026"
+  }
+}

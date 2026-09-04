@@ -1,0 +1,164 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12002 : 2025",
+    "full_title": "Control of Air Pollution in Cement Plants — Code of Practice (First Revision)",
+    "sector_category": "Environment Pollution / Environmental Protection and Waste Management (approved by the newly established Environment and Ecology Division Council and finalized by the Environment Pollution Sectional Committee, EED 02, of the Bureau of Indian Standards)",
+    "ics_code": "13.040.99",
+    "sectional_committee": {
+      "name": "Environment Pollution Sectional Committee",
+      "number": "EED 02"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the identification of air pollutants from the cement industry, their sources, dust control equipment (design and selection), and stack height, monitoring, and maintenance guidelines to systematically manage and abate atmospheric emissions.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 4 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, May 2025 (developed from draft Doc No. EED 02 (24202))",
+    "year_first_published": "1987",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 12002 : 1987)",
+        "year": "1987"
+      },
+      {
+        "edition": "First Revision (IS 12002 : 2025)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "IS 12002 : 1987",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2025 revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for rounding off numerical values (second revision)",
+      "category": "Rounding standard",
+      "location": "Foreword / Clause 0.3",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "G.S.R. 496 (E) [MOEF&CC]",
+      "title": "Ministry of Environment, Forest and Climate Change Notification on Emission Norms for Cement Plants (dated 9th May 2016)",
+      "category": "Statutory regulation",
+      "location": "Foreword",
+      "relevance": "Prescribes statutory national particulate, SO2, and NOx emission limits with which standard cement plants must comply."
+    },
+    {
+      "is_number": "G.S.R. 497 (E) [MOEF&CC]",
+      "title": "Ministry of Environment, Forest and Climate Change Notification on Emission Norms for Cement Plants with Co-processing (dated 10th May 2016)",
+      "category": "Statutory regulation",
+      "location": "Foreword",
+      "relevance": "Prescribes statutory national particulate, SO2, and NOx emission limits with which cement plants utilizing co-processing of hazardous and non-hazardous waste must comply."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10044 : 2025",
+      "title": "Treatment and Disposal of Effluents of Petroleum Refining Industry — Guidelines (First Revision)",
+      "category": "Product / Effluent Specification",
+      "location": "Parallel Sectional Committee EED 02",
+      "relevance": "A sister environmental protection standard present in the notebook, developed by the same Environment Pollution Sectional Committee (EED 02)."
+    },
+    {
+      "is_number": "IS 9427 : 2025",
+      "title": "Operation and Maintenance of Deionizing Columns — Code of Practice (First Revision)",
+      "category": "Product / Operating Specification",
+      "location": "Parallel Sectional Committee EED 02",
+      "relevance": "A fellow water-system chemical safety standard present in the notebook, developed under the same Environment Pollution Sectional Committee (EED 02)."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow water-system monitoring standard present in the notebook, specifying hydrometric instrumentation parameters."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, specifying impermeable lining systems for water bodies and landfills."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental and waterways protection standard present in the notebook, specifying geobag geotextiles."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, steel gantry assemblies, and connection detailing for chimneys, ducting, and dust collectors."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Recommendations (Environmental Protection / Air Pollution Control)",
+    "certification_status": "Voluntary Code of Practice. Since IS 12002:2025 is an engineering code of practice and guideline rather than a direct consumer product, it does not carry a mandatory BIS 'ISI Mark' product stamp. However, compliance with its structural designs, duct velocities, in-built scrubbers, and stack heights is legally enforced across India by the Central Pollution Control Board (CPCB) and State Pollution Control Boards (SPCBs) under the statutory mandates of MoEF&CC notifications G.S.R. 496 (E) and G.S.R. 497 (E) to authorize a plant's Consent to Operate (CTO).",
+    "requirements": [
+      {
+        "requirement_type": "Primary Atmospheric Dust Concern",
+        "detail": "Identifies that the massive volumes of alkaline cement dust emitted by these facilities (ranging from 5 to 250 micrometers) represent the primary atmospheric pollution hazard, and the code acts as a design manual to select appropriate dust control equipment (such as ESPs, baghouses, cyclones, and scrubbers) to minimize surrounding habitat exposure.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Kiln Flue SO2 In-Built Abatement",
+        "detail": "Requires optimizing raw milling operations so that the raw mill can be operated to act as an in-built SO2 abatement system for the kiln. Flue gases from the preheater kiln are routed directly through the raw mill, where the highly alkaline raw materials dry, grind, and absorb SO2.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Sulphur Capture in Clinker",
+        "detail": "Specifies that sulphur introduced through fuels fed to preheater kilns will not lead to significant SO2 emissions because of the strong alkaline environment inside the sintering zone, the calcination zone, and the lower stage of the preheater, ensuring this sulphur is safely captured and locked in the clinker.",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Kiln Excess Oxygen Control",
+        "detail": "Mandates maintaining an excess oxygen level of 1 percent to 3 percent O2 in the kiln flue gases. This concentration is critical to ensure satisfactory clinker and cement product quality while minimizing incomplete combustion products like carbon monoxide (CO).",
+        "clause_reference": "Clause 4"
+      },
+      {
+        "requirement_type": "Co-processing of Waste Norms",
+        "detail": "Specifies that cement plants utilizing co-processing (feeding hazardous or non-hazardous wastes into cement kilns for energy and material recovery) must strictly satisfy and comply with the emission norms notified by MoEF&CC vide notification G.S.R. 497 (E).",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Standard Cement Emission Norms",
+        "detail": "Specifies that standard cement plants must satisfy and comply with the emission norms notified by MoEF&CC vide notification G.S.R. 496 (E).",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated test or analysis value expressing emission concentrations, moisture content, temperatures, or volume must be mathematically rounded off in accordance with IS 2 : 2022. The number of significant places retained must be identical to the specified value in the standard.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12002 : 2025",
+    "Cement Plants",
+    "Air Pollution Control",
+    "Dust Abatement",
+    "Electrostatic Precipitator ESP",
+    "Fabric Filters",
+    "Preheater Kiln",
+    "SO2 Abatement",
+    "Clinker Sulphur Capture",
+    "Excess Oxygen",
+    "Co-processing",
+    "MoEFCC G.S.R. 496",
+    "EED 02"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12002 : 2025 (First Revision) is the mandatory national Indian Standard code of practice specifying guidelines to identify and control air pollution in cement manufacturing facilities. Prepared by the Environment Pollution Sectional Committee (EED 02), this first revision replaces the legacy 1987 standard, updating technical guidelines to align with modern preheater/precalciner kilns and environmental legislation. It unifies strategies to abate massive particulate cement dust (ranging from 5 to 250 micrometers) using baghouses and electrostatic precipitators, regulates excess kiln oxygen levels (1% to 3% O2) to maintain clinker quality while minimizing carbon monoxide, and details how to operate raw mills as highly efficient, in-built sulfur dioxide (SO2) scrubbers to capture sulfur compounds safely in the clinker."
+  },
+  "source_information": {
+    "source_pdf_filename": "12002_2025.pdf",
+    "document_version_edition": "First Revision, May 2025"
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13739 : 1993",
+    "full_title": "Guidelines for Estimation of Flood Damages (बाढ़ से हुई क्षति के आकलन के मार्गदर्शी सिद्धांत)",
+    "sector_category": "Water Resources / Disaster Economics and Planning (approved by the River Valley Division Council and finalized by the Water Resources Planning, Management and Evaluation Sectional Committee, WRD 06, of the Bureau of Indian Standards)",
+    "ics_code": "93.160; 13.200",
+    "sectional_committee": {
+      "name": "Water Resources Planning, Management and Evaluation Sectional Committee",
+      "number": "WRD 06"
+    }
+  },
+  "scope": {
+    "summary": "This standard lays down a detailed scientific procedure for the collection of flood damage data (excluding the loss of human life) under various classifications and establishes standardized methodologies to translate physical losses into objective monetary terms, as well as providing frameworks to estimate indirect flood losses in monetary terms.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, January 1993 (Reaffirmed 2024)",
+    "year_first_published": "1993",
+    "revision_history": [
+      {
+        "edition": "First Edition (officially adopted as the standard national procedure to govern flood damage data collection and disaster cost audits across Indian states)",
+        "year": "1993"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16115 : 2013",
+      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
+      "category": "Evaluation standard",
+      "location": "Same Sectional Committee WRD 06",
+      "relevance": "A sister water resources management standard in this notebook, specifying guidelines to evaluate completed structures and commands, including assessing their flood protection benefits."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Same Sectional Committee WRD 06",
+      "relevance": "A companion water resources planning standard, specifying guidelines to fix crop irrigation intensities which dictate the cropping baseline exposed to flood risks."
+    },
+    {
+      "is_number": "IS 12094 : 2018",
+      "title": "Planning and Design of River Embankments (Levees) — Guidelines",
+      "category": "Civil design standard",
+      "location": "Notebook Co-source",
+      "relevance": "Provides design and planning requirements for flood protection levees, which directly mitigate the agricultural and property damages audited under IS 13739."
+    },
+    {
+      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
+      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
+      "category": "Terminology standard",
+      "location": "Notebook Co-source",
+      "relevance": "Standardises hydrological definitions (such as freshets and torrents) to ensure technical consistency across flood reporting frameworks."
+    },
+    {
+      "is_number": "IS 9401 (Part 12) : 2026",
+      "title": "Methods of Measurement of Work in River Valley Projects (Dams and Appurtenant Structures) — Part 12: Topographical Surveys (First Revision)",
+      "category": "Measurement Code",
+      "location": "Notebook Co-source",
+      "relevance": "Provides linear measurement and billing guidelines for topographical cross-sections used to map flood inundation boundaries."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for raw water reservoirs and canals designed to prevent flooding from channel breaches."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for hydraulic floodgates, trash racks, and spillway gates."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Procedural Guidelines (Water Resources Department / Flood Management)",
+    "certification_status": "Voluntary Guidelines. Since IS 13739:1993 is a planning guideline and statistical methodology standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its data-collection timelines, survey proformas, price-deflating formulas, and damage estimation scales is strictly mandated by the Central Water Commission (CWC), state ministries of revenue and disaster management, planning boards, and financial audit authorities during post-disaster damage evaluations, state-level funding requests under National/State Disaster Response Funds (NDRF/SDRF), and benefit-cost ratio (BCR) audits for new flood-control structural projects. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Definition of Flood Damages",
+        "detail": "Formally defines flood damages as all adverse effects caused by rising stage and spilling of water over the banks of rivers in an area, occurring at times and in magnitudes that cannot be predicted accurately, causing physical impairment, loss of property serviceability, or interrupting/delaying productive and service activities. Recognizes rivers, canal breaches, and rainstorms as valid causes.",
+        "clause_reference": "Clause 2"
+      },
+      {
+        "requirement_type": "Five Broad Classifications of Damage",
+        "detail": "Categorizes flood damages into five distinct, standard auditing classes:\na) Agricultural crops;\nb) Private and public properties;\nc) Business and other secondary activities;\nd) Spread of epidemics, ill health, and loss of livestock; and\ne) Fear, anxiety, and distress.",
+        "clause_reference": "Clause 3"
+      },
+      {
+        "requirement_type": "Statistical Sampling Technique",
+        "detail": "Enforces that crop damage assessments be conducted either via complete enumeration or via sample surveys. Sample surveys are normally adopted, dividing states into zones based on flood exposure risk and choosing representative sample villages under expert statistical guidance.",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Four-Stage Field Investigation Schedule",
+        "detail": "Mandates organizing actual field investigation work into four distinct operational phases:\n1) Primary investigation into the nature of plots (initiated prior to floods);\n2) Pre-flood enquiry;\n3) Field work during floods; and\n4) Assessment of damages.",
+        "clause_reference": "Clause 4.3"
+      },
+      {
+        "requirement_type": "Plot Identification and Respondent Registration",
+        "detail": "Initial work must be started prior to floods. It requires mapping and identifying plots and registering the respective respondent (owner-cultivator or tenant cultivator) with the help of the village cadastral maps and the field register.",
+        "clause_reference": "Clause 4.3.1"
+      },
+      {
+        "requirement_type": "Six Core Plot Classifications",
+        "detail": "Specifies mapping and classifying land plots into six core types prior to flooding:\na) Cultivable;\nb) Cultivable waste;\nc) Orchards;\nd) Residential;\ e) Ponds or tanks; and\nf) Bushes and pastures.",
+        "clause_reference": "Clause 4.3.1"
+      },
+      {
+        "requirement_type": "Crop Price Deflating Formula",
+        "detail": "To prevent inflated values, monetary evaluation of crop loss must use the farm price. If harvest price is not available at the time of initial assessment, the standard mandates deflating the price prevailing at the time of field enquiry based on past years' experience to approximate the farm harvest price. Enforces using the simple average of these prices from selected villages for district or zonal calculations. Strictly prohibits using wholesale or retail price indexes.",
+        "clause_reference": "Clause 4.7"
+      },
+      {
+        "requirement_type": "Private Property Damage Survey",
+        "detail": "Private household losses (such as cleaning and rebuilding expenses) must be assessed by conducting small, focused surveys in sample villages surrounded by floodwaters for varying lengths of time, directly interviewing affected householders.",
+        "clause_reference": "Clause 5.1.2"
+      },
+      {
+        "requirement_type": "Public Utility Damage Estimation",
+        "detail": "Estimates for repairs and restoration must be prepared by technical authorities before any work is executed. These actual engineering estimates serve as the monetary measure of direct damage. Mandates strict checks to ensure these estimates are not exaggerated.",
+        "clause_reference": "Clauses 5.1.1, 5.2.1, & 5.2.2"
+      },
+      {
+        "requirement_type": "Indirect Loss Assessment",
+        "detail": "Mandates evaluating secondary and indirect losses, such as losses to railways, roadways, and utilities from service suspension or diversion, and industrial/business losses caused by work stoppages or raw material shortages.",
+        "clause_reference": "Clause 6"
+      },
+      {
+        "requirement_type": "Livestock Enumeration",
+        "detail": "Mandates enumerating and evaluating livestock losses at prevailing local prices, which is to be carried out by designated village officials using prescribed proformas.",
+        "clause_reference": "Clause 7"
+      },
+      {
+        "requirement_type": "Fear, Anxiety and Distress Reporting",
+        "detail": "Recognizes that floods cause significant human suffering in the form of fear, anxiety, and distress. Notes that while these factors are not amenable to precise monetary assessment, they must be recorded in reports to describe the qualitative disaster impact.",
+        "clause_reference": "Clause 8"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13739 : 1993",
+    "Flood Damages",
+    "Damage Estimation",
+    "Crop Damage",
+    "Farm Price",
+    "Price Deflating",
+    "Private Properties",
+    "Public Utilities",
+    "Indirect Losses",
+    "Livestock Loss",
+    "Disaster Management",
+    "Sample Surveys",
+    "WRD 06"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13739 : 1993 is the national Indian Standard guidelines specifying criteria for the scientific estimation of flood damages. Developed under the Water Resources Planning, Management and Evaluation Sectional Committee (WRD 06), this standard outlines a standardized procedure to collect data on direct agricultural, residential, public utility, and livestock losses, and translates them into objective monetary terms. It enforces a four-stage field schedule (starting with pre-flood plot registration), mandates using deflated farm-gate harvest prices rather than retail/wholesale indexes to prevent inflated crop valuation, and provides guidelines to estimate indirect business and utility losses caused by flood interruptions, establishing a sound financial basis for disaster relief and flood protection cost-benefit audits."
+  },
+  "source_information": {
+    "source_pdf_filename": "13739_1993_reaff2024.pdf",
+    "document_version_edition": "First Edition, January 1993"
+  }
+}

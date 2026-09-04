@@ -1,0 +1,147 @@
+{
+  "basic_identification": {
+    "is_number": "IS 20201 : 2026",
+    "full_title": "Community Seed Bank Management System — Requirements (सामुदायिक बीज बैंक प्रबंधन प्रणाली — अपेक्षाएं)",
+    "sector_category": "Environment and Ecology / Biodiversity (approved by the newly established Environment and Ecology Division Council and finalized by the Biodiversity Sectional Committee, EED 06, of the Bureau of Indian Standards)",
+    "ics_code": "13.020.20",
+    "sectional_committee": {
+      "name": "Biodiversity Sectional Committee",
+      "number": "EED 06"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies requirements for establishing, implementing, operating, maintaining, and continually improving a Community Seed Bank (CSB) management system to ensure agricultural biodiversity conservation, quality seed production, seed exchange, and local genetic resource security.",
+    "clause_number": "Clause 1 / Foreword",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, May 2026",
+    "year_first_published": "2026",
+    "revision_history": [
+      {
+        "edition": "First Edition (officially adopted as a new dedicated national standard for local agricultural and genetic resource conservation)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2026 standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 4905",
+      "title": "Random sampling and randomization procedures",
+      "category": "Sampling Standard",
+      "location": "Clause 11.1.3",
+      "relevance": "Referenced as the standard methodology to execute random selection of seed samples from a lot to ascertain conformity."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14031 : 2025",
+      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "A sister environmental management standard in this notebook, regulating environmental performance evaluation and sustainability metrics."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A companion water resources and hydrometry standard present in the notebook, regulating fluid flow measurement instruments."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "An allied environmental standard specifying geomembrane lining systems for solid waste landfills and industrial water containment ponds."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "An allied environmental protection standard present in the notebook, specifying geobag geotextiles."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, steel gantry assemblies, and connection detailing for silos, racks, and storage containment units."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Management System Specification / Agricultural & Biodiversity Requirements",
+    "certification_status": "Voluntary Quality and Management System Certification Scheme. Under the provisions of the Bureau of Indian Standards Act, 2016, community seed banks and agricultural organizations are eligible to obtain a formal BIS Management System Certification to verify compliance of their CSB management systems with IS 20201:2026. Compliance is audited by authorized registry teams to ensure native seed varieties are correctly conserved, cataloged, stored, and distributed under strict genetic and physical purity standards, supporting the Protection of Plant Varieties and Farmers' Rights Authority.",
+    "requirements": [
+      {
+        "requirement_type": "Leadership and Customer Focus",
+        "detail": "Top management of the community seed bank (CSB) must demonstrate active leadership, accountability for system effectiveness, and customer focus by consistently meeting customer and statutory/regulatory requirements, identifying risk/opportunities, and promoting continual improvement.",
+        "clause_reference": "Clauses 5.1.1 & 5.1.2"
+      },
+      {
+        "requirement_type": "Measureable System Objectives",
+        "detail": "Requires the CSB to establish and maintain documented objectives that are consistent with its policy, measurable with respect to specified standards, monitored, communicated, and updated. CSBs must plan actions, resources, responsible persons, timelines, and evaluation criteria to achieve these objectives.",
+        "clause_reference": "Clauses 6.2.1 & 6.2.2"
+      },
+      {
+        "requirement_type": "Resource Adequacy & Security",
+        "detail": "The CSB must plan physical security measures for its seed facility. All provided monitoring and measuring resources must be suitable and maintained to ensure continuing fitness for seed storage evaluations.",
+        "clause_reference": "Clause 7.1.5"
+      },
+      {
+        "requirement_type": "Control of Documented Information",
+        "detail": "All documented information required by the CSB management system must be strictly controlled to ensure availability and suitability for use wherever needed, and must be adequately protected against loss of integrity or improper use.",
+        "clause_reference": "Clauses 7.5.3, 7.5.3.1 & 7.5.3.2"
+      },
+      {
+        "requirement_type": "Container Selection & Moisture Prevention",
+        "detail": "Conserved seeds must be stored under dry, hermetic conditions using locally available and cost-effective resources:\na) Traditional containers such as earthen pots or bamboo baskets may be used if protective measures against moisture, pests, and rodents are provided;\nb) Exposure to high humidity, heat, and direct sunlight must be strictly avoided;\nc) For bulk storage, hermetically sealed moisture-impervious bins must NOT be used, as they cause heat and moisture accumulation in lower layers.",
+        "clause_reference": "Clause 8.1.2.7 Note 2 & Note 3"
+      },
+      {
+        "requirement_type": "Labeling and Identification",
+        "detail": "All seed storage containers must be clearly labeled and assigned a unique identity number by the CSB, serving as a permanent reference ID for all operations.",
+        "clause_reference": "Clauses 8.1.2.7 & 8.4.2"
+      },
+      {
+        "requirement_type": "Performance Monitoring and Analysis",
+        "detail": "The CSB must determine what parameters need to be monitored and measured, establish valid methods for evaluation, define when monitoring is performed, and analyze results to evaluate the performance and effectiveness of the CSB management system.",
+        "clause_reference": "Clauses 9.1 & 9.1.1"
+      },
+      {
+        "requirement_type": "Nonconformity & Corrective Action Program",
+        "detail": "If any non-conformity occurs (including those from customer complaints), the CSB must take immediate action to control and correct it, evaluate the need to eliminate root causes to prevent recurrence, implement required actions, verify conformity of corrected outputs, and formally inform the customer and top management.",
+        "clause_reference": "Clauses 8.5, 10.2 & 10.2.1"
+      },
+      {
+        "requirement_type": "Committees and Delegated Roles",
+        "detail": "The CSB must establish clear delegated roles and responsibilities: Overall Management is overseen by the CSB Management Committee; Administration and Records are managed by the Secretary; Seed Collection, storage, on-farm centers, quality seed production, germination, and physical purity testing are handled by the Seed QC Committee. Signed records of role assignments must be reviewed at least once every 12 months.",
+        "clause_reference": "Annex B"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 20201 : 2026",
+    "Community Seed Bank",
+    "CSB Management System",
+    "Biodiversity",
+    "Seed Conservation",
+    "Traditional Containers",
+    "Moisture Control",
+    "Seed Purity",
+    "Seed QC Committee",
+    "BIS Act 2016",
+    "EED 06"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 20201 : 2026 is the national Indian Standard specification establishing the requirements for a Community Seed Bank (CSB) Management System. Developed by the Biodiversity Sectional Committee (EED 06), this standard defines a structured quality management framework to conserve agricultural biodiversity and seed genetic resources. It regulates seed collection, cleaning, drying, and storage—specifically outlining moisture control guidelines, restricting moisture-impervious bins for bulk storage, and permitting traditional earthen pots with pest controls. Additionally, it defines organizational responsibilities through specialized management and quality control committees, mandates strict documentation controls, and establishes clear corrective action and auditing programs to protect local food security and farmers' rights."
+  },
+  "source_information": {
+    "source_pdf_filename": "20201_2026.pdf",
+    "document_version_edition": "First Edition, May 2026"
+  }
+}

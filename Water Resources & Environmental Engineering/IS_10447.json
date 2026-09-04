@@ -1,0 +1,198 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10447 : 2026",
+    "full_title": "Solid Waste Management in Iron and Steel Plants — Guidelines (लौह और इस्पात संयंत्रों में ठोस अपशिष्ट प्रबंधन — दिशानिर्देश)",
+    "sector_category": "Environment and Ecology / Waste Management (approved by the newly established Environment and Ecology Division Council and finalized by the Waste Management Sectional Committee, EED 08, of the Bureau of Indian Standards)",
+    "ics_code": "13.030.10",
+    "sectional_committee": {
+      "name": "Waste Management Sectional Committee",
+      "number": "EED 08"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies comprehensive guidelines, technical criteria, and in-plant recycling or disposal practices for various solid wastes generated within integrated iron and steel plants (including blast furnace slag, steelmaking slag, mill scale, coke breeze, flue dust, gas-cleaning sludge, and spent refractory linings) to maximize resource recovery and prevent environmental contamination.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 3 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, July 2026",
+    "year_first_published": "1983 (originally published under the title 'Guidelines for utilization and disposal of solid waste from integrated steel plants')",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 10447 : 1983)",
+        "year": "1983"
+      },
+      {
+        "edition": "First Revision (IS 10447 : 2026)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "IS 10447 : 1983",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2026 standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "IS 3677",
+      "title": "Specification for Rock Wool and Slag Wool",
+      "category": "Product standard",
+      "relevance": "Specifies quality parameters for lightweight insulating slag wool manufactured using air-cooled blast furnace slag."
+    },
+    {
+      "is_number": "IS 9569",
+      "title": "Glossary of terms relating to solid wastes",
+      "category": "Terminology standard",
+      "relevance": "Defines standard terms, classifications, and nomenclature relating to industrial and domestic solid waste."
+    },
+    {
+      "is_number": "IS 10153",
+      "title": "Guidelines for utilization and disposal of fly ash",
+      "category": "Utilisation guidelines",
+      "relevance": "Provides technical guidelines to utilize thermal power plant fly ash in steel plant civil works and brick making."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 8073 : 2026",
+      "title": "Treatment and Disposal of Steel Plant Effluents — Guidelines (First Revision)",
+      "category": "Product / Effluent Specification",
+      "location": "Parallel Sectional Committee EED 03",
+      "relevance": "A direct companion standard present in the notebook, regulating heavy industrial wastewater, acid pickling spent liquors, and waste-reclamation processes."
+    },
+    {
+      "is_number": "IS 12002 : 2025",
+      "title": "Control of Air Pollution in Cement Plants — Code of Practice (First Revision)",
+      "category": "Performance Specification",
+      "location": "Parallel Sectional Committee EED 02",
+      "relevance": "An associated air pollution control code regulating cement plant emissions, where granulated blast furnace slag from steel plants is reutilized as a pozzolanic binder."
+    },
+    {
+      "is_number": "IS 19767 : 2026",
+      "title": "Control of Air Pollution in Coal-Based Thermal Power Plant — Code of Practice",
+      "category": "Performance Specification",
+      "location": "Parallel Sectional Committee EED 02",
+      "relevance": "An associated air pollution control code regulating power plant emissions, where fly ash and bottom ash are collected and prepared for in-plant or external civil works."
+    },
+    {
+      "is_number": "IS 14031 : 2025",
+      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+      "category": "System standard",
+      "location": "Parallel Sectional Committee EED 01",
+      "relevance": "Establishes environmental condition (ECI) and operational performance indicators (OPI) to monitor and evaluate overall industrial facility footprints."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for hazardous dust storage yards and waste-settling ponds to prevent heavy metals from leaching into local soils."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for storage bunkers, slag granulation pits, and processing machinery."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Quality and Operating Guidelines (Environment and Ecology / Waste Management)",
+    "certification_status": "Voluntary Code of Practice. Since IS 10447:2026 is an operational and management guideline standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its structured waste segregation, recycling limits, and slag-utilization criteria is legally audited by the Central Pollution Control Board (CPCB) and State Pollution Control Boards (SPCBs) under national Solid Waste Management Rules, 2016, and Hazardous Waste Rules. It is a mandatory component of Environmental Impact Assessments (EIAs) and Consent to Operate (CTO) approvals for metallurgical facilities across India.",
+    "requirements": [
+      {
+        "requirement_type": "Solid Waste Generation Mapping",
+        "detail": "Requires steel plants to establish comprehensive mapping and monthly tracking of solid wastes. Technical profiles are typically structured around a nominal baseline of a 2 Million Tonne Crude Steel per annum plant capacity to trace generation rates.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Segregated Sinter and Blast Furnace Feed",
+        "detail": "Mill scale must be segregated by size and reutilized directly in-plant: fine mill scale (-10 mm) is routed as direct feed to the sinter plant, medium-size scale (+6 mm) is recycled through open hearth furnaces or pelletizing mixes (up to 5 percent to increase compressive pellet strength), and coarse scale (+10 mm) is reutilized as blast furnace feed.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Steelmaking (BOF) Slag Recyclability Limits",
+        "detail": "LD/BOF steelmaking slag (typically generated at 120 kg to 220 kg per tonne of crude steel) can be reutilized as a source of flux in the blast furnace or sinter base-mix. However, the standard specifies a strict maximum recycling limit of 30 kg to 35 kg of BOF slag per tonne of sinter mix, as high phosphorus and sulfur contents in the slag can affect metallurgical quality if exceeded.",
+        "clause_reference": "Table 1 (Continued)"
+      },
+      {
+        "requirement_type": "Agricultural Soil Conditioning",
+        "detail": "Due to its high calcium oxide (CaO = 30 to 52 percent) and magnesium oxide (MgO = 6 to 15 percent) content, BOF slag is approved for use as a soil conditioner to neutralize highly acidic agricultural soils.",
+        "clause_reference": "Table 1 (Continued)"
+      },
+      {
+        "requirement_type": "Granulated BF Slag Cement Utilization",
+        "detail": "Granulated blast furnace slag must be recovered and utilized to the maximum extent possible as a pozzolanic raw material for manufacturing Portland Slag Cement (PSC) to divert waste from slag dumps.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Air-Cooled Slag Infrastructure Reuse",
+        "detail": "Air-cooled blast furnace slag is approved for physical infrastructure reuse, including road construction aggregates, railway ballast, or as a raw feed to manufacture insulating slag wool in accordance with IS 3677.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Coke Breeze & Coal Fine Combustion",
+        "detail": "Coke breeze (screened out below 10 mm) and coal dust fines must be captured and reutilized as alternative fuels in sintering strands or pulverized coal injection (PCI) boilers to maximize thermal recovery.",
+        "clause_reference": "Table 1"
+      },
+      {
+        "requirement_type": "Secured Hazardous Dust Disposal",
+        "detail": "Heavy-metal-bearing flue dust and gas-cleaning sludge containing volatile zinc, lead, or alkali compounds must be treated to recover metals, recycled under restricted ratios, or safely encapsulated and disposed of in secure landfills (SLFs) lined with geomembranes to prevent leaching.",
+        "clause_reference": "Table 1"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10447 : 2026",
+    "Solid Waste Management",
+    "Iron and Steel Plants",
+    "Blast Furnace Slag",
+    "BOF Slag",
+    "LD Slag",
+    "Mill Scale",
+    "Coke Breeze",
+    "Sinter Plant Feed",
+    "Pellet Compressive Strength",
+    "Acidic Soil Conditioner",
+    "EED 08"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10447 : 2026 (First Revision) is the national Indian Standard code of practice specifying guidelines for the utilization and disposal of solid wastes generated within integrated iron and steel plants. Developed under the Waste Management Sectional Committee (EED 08), this updated standard provides a highly structured engineering guide to classify, recycle, and safely dispose of millions of tonnes of industrial residues like blast furnace slag, steelmaking (LD) slag, mill scale, coke breeze, and flue dusts. It outlines precise in-plant recycling limits (such as restricting BOF slag additions to 30–35 kg per tonne of sinter mix to avoid phosphorus buildup), mandates granulated slag reclamation for cement making, and details how coarse mill scale can increase the compressive strength of pellets or feed blast furnaces. This guidelines standard supports circular economy, carbon reduction, and zero-waste-to-landfill initiatives in India's steel sector."
+  },
+  "author_committee_attribution": {
+    "chairperson": "DR ANURADHA SHUKLA",
+    "sectional_committee": "Waste Management Sectional Committee (EED 08)",
+    "drafting_convenor": "DR SIKSHA SWAROOP KAR (CSIR - Central Road Research Institute)",
+    "drafting_panel_members": [
+      {
+        "name": "DR JAGANNATH PAL",
+        "organization": "CSIR - National Metallurgical Laboratory, Jamshedpur"
+      },
+      {
+        "name": "SHRI D. SHATISH KUMAR",
+        "organization": "JSW Steel Limited, Bellary"
+      },
+      {
+        "name": "SHRI YOGESH DHOBLE",
+        "organization": "National Institute of Science Communication and Information Resources, New Delhi"
+      },
+      {
+        "name": "SHRI RAJNEESH KUMAR GUPTA",
+        "organization": "Steel Authority of India Limited (SAIL), New Delhi"
+      },
+      {
+        "name": "SHRI UTSAV KASHYAP",
+        "organization": "Tata Steel Limited, Jamshedpur"
+      }
+    ]
+  },
+  "source_information": {
+    "source_pdf_filename": "10447_2026.pdf",
+    "document_version_edition": "First Revision, July 2026"
+  }
+}

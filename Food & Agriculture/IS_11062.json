@@ -1,0 +1,160 @@
+{
+  "basic_identification": {
+    "is_number": "IS 11062 : 2019",
+    "full_title": "Method for Estimation of Total Dietary Fibre in Foodstuffs (पहला पुनरीक्षण) (First Revision)",
+    "sector_category": "Food and Agriculture / Test Methods for Food Products (approved by the Food and Agriculture Divisional Council and finalized by the Test Methods for Food Products Sectional Committee, FAD 28, of the Bureau of Indian Standards)",
+    "ics_code": "67.050",
+    "sectional_committee": {
+      "name": "Test Methods for Food Products Sectional Committee",
+      "number": "FAD 28"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies an enzymatic and gravimetric method for the determination of insoluble, soluble, and total dietary fibre after the enzymatic digestion of carbohydrate, protein, and starch in foodstuffs.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, July 2019 (Reaffirmed 2023)",
+    "year_first_published": "Not explicitly stated (First Revision adopted in July 2019)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 11062)",
+        "year": "Prior to 2019"
+      },
+      {
+        "edition": "First Revision (IS 11062 : 2019)",
+        "year": "2019"
+      }
+    ],
+    "supersedes": "Prior edition of IS 11062",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1006 : 1984",
+      "title": "Specification for Arrowroot Starch (Second Revision)",
+      "category": "Product Specification",
+      "location": "Same Divisional Council (FAD)",
+      "relevance": "A fellow food standard present in the notebook, defining pure starch quality parameters that work in tandem with dietary fibre analysis."
+    },
+    {
+      "is_number": "IS 16066 : 2017",
+      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
+      "category": "Food Safety standard",
+      "location": "Same Divisional Council (FAD)",
+      "relevance": "Directs hygienic food handling and nutritional sourcing, governing on-site prep of high-fibre dietary grains, legumes, and batters."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Divisional Council (FAD)",
+      "relevance": "Ensures the post-harvest storage integrity of grain commodities before they are sampled and milled for dietary fibre audits."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Divisional Council (FAD)",
+      "relevance": "Details quantitative survey methods to calculate grain damage and loss, supporting procurement quality checks prior to nutritional testing."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Water quality standard",
+      "location": "Same Divisional Council (FAD)",
+      "relevance": "Specifies chemical and microbiological purity limits for water, which must be strictly potable when used for reagent preparation, washing, or food preparation."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural processing mills, laboratories, and food warehouses."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Methods of Test / Food Laboratory Operational Guidelines (Food and Agriculture / Test Methods)",
+    "certification_status": "Voluntary Code of Practice. Since IS 11062 : 2019 is a laboratory testing methodology rather than a direct physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its sampling, milling, lipid extraction, and enzymatic-gravimetric calculation protocols is strictly mandated in public sector food quality testing, commercial nutritional labeling (FSSAI audits), agricultural university research, and national crop-procurement specifications across India to certify dietary fibre content and support food labeling claims.",
+    "requirements": [
+      {
+        "requirement_type": "Definition of Dietary Fibre",
+        "detail": "Defines dietary fibre as the sum of polysaccharides and lignin present in human diets that are not digested by the endogenous secretions of the upper gastro-intestinal tract (including gums, mucilages, and associated plant cell wall components resistant to alimentary enzymes).",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Classification of Fibre",
+        "detail": "Classifies dietary fibre based on water solubility into Insoluble Dietary Fibre (IDF) (less fermentable fibre) and Soluble Dietary Fibre (SDF) (fermentable fibre).",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Method of Analysis",
+        "detail": "Establishes the enzymatic and gravimetric method (AOAC-based) as the standard, mimicking the human digestive process to resolve insoluble, soluble, and total dietary fibre.",
+        "clause_reference": "Foreword & Clause 1"
+      },
+      {
+        "requirement_type": "Duplicate Testing and Reagent Blank",
+        "detail": "Mandates that each food sample must be analyzed in duplicate, along with a parallel reagent blank to correct for protein from enzymes and ash from buffers.",
+        "clause_reference": "Clause 1 (Note) & Clause 6.4.4 (Note)"
+      },
+      {
+        "requirement_type": "Sample Preparation and Milling",
+        "detail": "Requires drawing a representative sample of the entire lot. Grains must be milled to a precise particle size of 0.5 - 1 mm in a cyclone mill. The dry matter content must be determined after drying for 5 hours at 105°C.",
+        "clause_reference": "Clause 6.2.1"
+      },
+      {
+        "requirement_type": "Extraction of Lipids",
+        "detail": "Mandates lipid extraction prior to enzymatic assay for foodstuffs containing more than 5 percent of lipids. This step facilitates the subsequent removal of free sugars by ethyl alcohol extraction. The lipids must be extracted via 5 hours of Soxhlet extraction using a chloroform-methanol mixture or solvent ether.",
+        "clause_reference": "Clause 6.2.2"
+      },
+      {
+        "requirement_type": "Total Dietary Fibre (TDF) Formula",
+        "detail": "Defines the calculation of Total Dietary Fibre (TDF) as the sum of insoluble and soluble fractions:\nTDF (Percent) = IDF (Percent) + SDF (Percent)",
+        "clause_reference": "Clause 6.4.4"
+      },
+      {
+        "requirement_type": "Expression of Results",
+        "detail": "Requires expressing the final results as g/100 g on a dry mass basis (or 'as is' basis as required) after correcting mathematically for moisture and lipid content.",
+        "clause_reference": "Clause 6.4.5"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated test or analysis value expressing moisture, lipid weight, or fibre percentage must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 11062 : 2019",
+    "Total Dietary Fibre",
+    "Dietary Fibre",
+    "Insoluble Dietary Fibre",
+    "Soluble Dietary Fibre",
+    "IDF",
+    "SDF",
+    "Enzymatic Gravimetric Method",
+    "AOAC",
+    "Soxhlet Extraction",
+    "Lipid Extraction",
+    "Milling",
+    "FAD 28",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 11062 : 2019 (First Revision) is the national Indian Standard prescribing the testing methods for estimating total dietary fibre in foodstuffs. Formulated by the FAD 28 Sectional Committee and reaffirmed in 2023, this standard outlines a high-precision enzymatic and gravimetric method (modeled on the human digestive process and aligned with AOAC/AACC protocols). It details sample preparation (milling grains to 0.5–1 mm and drying at 105°C), mandates a 5-hour Soxhlet lipid extraction for foods containing over 5% fat, and calculates Total Dietary Fibre (TDF) as the sum of Insoluble Dietary Fibre (IDF) and Soluble Dietary Fibre (SDF), ensuring accurate nutritional labeling and regulatory compliance."
+  },
+  "source_information": {
+    "source_pdf_filename": "11062_2019_reaff2023.pdf",
+    "document_version_edition": "First Revision, July 2019"
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "basic_identification": {
+    "is_number": "IS 10044 : 2025",
+    "full_title": "Treatment and Disposal of Effluents of Petroleum Refining Industry — Guidelines (First Revision)",
+    "sector_category": "Environment Pollution / Environmental Protection and Waste Management (approved by the newly formed Environment and Ecology Division Council and finalized by the Environment Pollution Sectional Committee, EED 02, of the Bureau of Indian Standards)",
+    "ics_code": "13.060.30",
+    "sectional_committee": {
+      "name": "Environment Pollution Sectional Committee",
+      "number": "EED 02"
+    }
+  },
+  "scope": {
+    "summary": "This standard provides guidelines and design considerations for the methods of treatment and disposal of effluents originating from petroleum refineries. It establishes characteristics of composite waste water and recommends practical biological, chemical, and physical treatment technologies to comply with Minimal National Standards (MINAS).",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, April 2025 (established to reflect changes in refinery configurations and updated wastewater characteristics over the last 40 years)",
+    "year_first_published": "1981",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1981"
+      },
+      {
+        "edition": "First Revision (IS 10044 : 2025)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "IS 10044 : 1981",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2025 revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 9497 : 1980",
+      "title": "Method for determination of sodium and potassium (flame photometric)",
+      "category": "Testing standard",
+      "location": "Normative references",
+      "relevance": "Provides standard testing procedures to analyze sodium and potassium levels in refinery effluents."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, specifying impermeable PVC lining systems for solid waste landfills, industrial containment ponds, and agricultural water bodies."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow waterways and environmental protection standard present in the notebook, specifying geobag configurations used to prevent riverbank erosion."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow water-system monitoring standard present in the notebook, specifying hydrometric instrumentation parameters."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, watertight bulkheads, and connection details where drainage pipelines or containment tanks are structurally supported."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Guidelines / Code of Practice (Environmental Protection / Industrial Waste Management)",
+    "certification_status": "Voluntary Procedural and Guidelines Standard. Compliance with IS 10044:2025 is verified through state pollution control boards, environmental impact assessments (EIA), and safety audits. While there is no direct BIS 'ISI Mark' stamp for IS 10044 itself, compliance with its wastewater treatment schemes, oil limits, and explosion-proof drainage designs is universally mandated in public refinery design, engineering, procurement, and construction (EPC) contracts across India.",
+    "requirements": [
+      {
+        "requirement_type": "Classification of Refinery Effluents",
+        "detail": "Refinery effluents must be segregated and classified into five distinct categories based on their contamination sources:\na) Effluent free from oil and dissolved organic material (originating from boiler blow-down, water treatment plants, and oil-free storm areas);\nb) Effluent accidentally contaminated with oil (originating from tank farms and cooling tower blow-downs);\c) Effluent continuously contaminated with oil but free from other soluble organic material (originating from oil processing areas);\nd) Process effluent (originating from desalters, steam stripping condensates, pump gland cooling, barometric condensers containing emulsions, and wash water);\ne) Sanitary and domestic effluents (originating from toilets and canteens)."
+      },
+      {
+        "requirement_type": "Primary Oil Separation",
+        "detail": "All waste streams subject to accidental or continuous oil contamination must be routed through gravity separators or surge ponds to facilitate effective physical oil removal."
+      },
+      {
+        "requirement_type": "Biological Treatment Oil Tolerance Limits",
+        "detail": "Biological treatment processes used to eliminate biodegradable organic matter and toxic substances (like phenols) are restricted by strict incoming oil concentration limits:\na) Trickling filters can tolerate an incoming oil concentration of up to 100 ppm;\nb) Activated sludge processes can tolerate an incoming oil concentration of up to 25 ppm;\nc) Oxidation ponds cannot tolerate high oil concentrations, as surface oil films retard essential atmospheric reaeration and photosynthesis."
+      },
+      {
+        "requirement_type": "Dissolved Air Flotation (DAF) Performance",
+        "detail": "Dissolved Air Flotation (DAF) must be applied as a primary treatment step to inject micron-sized air bubbles that float fat, oil, grease (O&G), and low-density chemically coagulated suspended solids to the surface for skimming. This reduces residual oil after gravity separation but is not meant for oil recovery."
+      },
+      {
+        "requirement_type": "Four-Tier Chemical Treatment Methods",
+        "detail": "Chemical methods to remove emulsified oil, settle suspended solids, and eliminate toxic substances are categorized into:\na) Neutralization: Neutralizes acidic or alkaline wastes (e.g., diluting acid/alkali, neutralizing spent caustic with spent acid or gas, neutralizing sulphuric sludges or hydrofluoric acid wastes);\b) Precipitation and Clarification: Precipitates specific refinery compounds (such as spent caustic with acidic oils, sulphide water with iron salts, sulphonates with lime, or cooling-water chromates with ferrous sulphate and lime);\c) Chemical Oxidation: Applied specifically to destroy toxic phenols and cyanides in waste, or for waste combustion;\nd) Regeneration: Regenerates chemical absorbents (like monoethanolamine used to absorb hydrogen sulphide and mercaptans) using steam stripping."
+      },
+      {
+        "requirement_type": "Hydrodynamic Cavitation Pre-treatment",
+        "detail": "Hydrodynamic cavitation may be utilized as a high-intensity physical pre-treatment step. Water flows through a high-velocity physical constriction, creating vapor-filled cavities (cavitation bubbles) that collapse with intense localized forces (shockwaves, micro-jets) to disrupt chemical bonds, break down large organic molecules, and make them highly amenable to subsequent biological treatment."
+      },
+      {
+        "requirement_type": "Explosion-Proof Collection and Drainage System Safety",
+        "detail": "Collecting system designs must prioritize fire and explosion prevention above standard sanitary sewage criteria. All branch or lateral sewers must be isolated from main sewers using liquid water seals and water-sealed manholes to prevent the travel of explosive hydrocarbon vapours. Properly designed vents must be high enough to disperse volatile vapours safely and prevent their accumulation at ground elevation."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 10044 : 2025",
+    "Petroleum Refining",
+    "Effluent Treatment",
+    "Refinery Wastewater",
+    "Oil Water Separator",
+    "Minimal National Standards MINAS",
+    "Trickling Filters",
+    "Activated Sludge Process",
+    "Dissolved Air Flotation DAF",
+    "Hydrodynamic Cavitation",
+    "Explosion Proof Sewers",
+    "EED 02",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 10044 : 2025 (First Revision) is the national Indian Standard code of practice specifying guidelines for the treatment, management, and safe disposal of effluents originating from the petroleum refining industry. Formulated under the Environment Pollution Sectional Committee, this revision updates the wastewater characteristics and treatment guidelines to reflect modern refining units. It defines strict segregation for five classes of wastewater, establishes performance thresholds for biological treatment (such as oil tolerances of 100 ppm for trickling filters and 25 ppm for activated sludge systems), and outlines advanced chemical neutralization, dissolved air flotation, and hydrodynamic cavitation methods. Crucially, the standard enforces strict explosion-proof collection designs—mandating water-sealed isolation manholes and high-elevation vents—to prevent fire and vapor-propagation hazards across refinery drainage systems."
+  },
+  "source_information": {
+    "source_pdf_filename": "10044_2025.pdf",
+    "document_version_edition": "First Revision, April 2025"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12004 : 2026",
+    "full_title": "Isoproturon, Technical — Specification (आइसोप्रोटुरोन, तकनीकी — विशिष्टि) (First Revision)",
+    "sector_category": "Food and Agriculture / Pesticides (approved by the Food and Agriculture Division Council and finalized by the Pesticides Sectional Committee, FAD 01, of the Bureau of Indian Standards)",
+    "ics_code": "65.100.10",
+    "sectional_committee": {
+      "name": "Pesticides Sectional Committee",
+      "number": "FAD 01"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements and the methods of sampling and test for isoproturon, technical, which is used as an active ingredient in the formulation of agricultural herbicides (primarily targeting grass weeds in wheat and barley crops).",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, February 2026",
+    "year_first_published": "Not explicitly stated (original standard superseded by this 2026 revision)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 12004)",
+        "year": "Prior to 2026"
+      },
+      {
+        "edition": "First Revision (IS 12004 : 2026)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "Prior edition of IS 12004",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly published copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1070",
+      "title": "Reagent grade water / Distilled water",
+      "category": "Material standard",
+      "relevance": "Specifies purity parameters for distilled water utilized in preparing reagents, hydrolysis, and back-titration solutions."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 15983 : 2013",
+      "title": "Thiamethoxam, Technical — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 01",
+      "relevance": "A sister FAD 01 pesticide specification, regulating thiamethoxam technical quality and chromatography test methods."
+    },
+    {
+      "is_number": "IS 16141 : 2013",
+      "title": "Pyriproxyfen, Technical — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 01",
+      "relevance": "A sister FAD 01 pesticide specification, regulating pyriproxyfen technical quality and chromatography test methods."
+    },
+    {
+      "is_number": "IS 15982 : 2013",
+      "title": "Tricyclazole, Technical — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 01",
+      "relevance": "A sister FAD 01 pesticide specification, regulating tricyclazole technical quality and chromatography test methods."
+    },
+    {
+      "is_number": "IS 8701 : 2013",
+      "title": "Temephos, Technical — Specification (Second Revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 01",
+      "relevance": "A sister FAD 01 pesticide specification, regulating temephos technical quality and chromatography test methods."
+    },
+    {
+      "is_number": "IS 8498 : 2013",
+      "title": "Temephos, Emulsifiable Concentrate (EC) — Specification",
+      "category": "Formulation Specification",
+      "location": "Same Sectional Committee FAD 01",
+      "relevance": "Regulates the physical and chemical requirements of liquid temephos formulations derived from technical temephos."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A fellow food and agriculture standard present in the notebook, regulating storage pest-control practices and explicitly mandating compliance with FSSAI pesticide residue limits on stored foodstuffs."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Notebook Co-source",
+      "relevance": "An associated agricultural planning standard, defining cropping intensities which govern the agricultural baseline exposed to pests and requiring protective chemical applications."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates post-flood agricultural damage audits, which are integrated with pest-inflicted or ecological crop losses during national disaster evaluations."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies geomembrane linings to prevent water and pest seepage into agricultural silos and chemical-containment basins."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, panel thickness, and connections for steel storage silos, agricultural chemical warehouses, and pesticide containment structures."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Food and Agriculture / Pesticides)",
+    "certification_status": "Voluntary/Mandatory under the Insecticides Act. Manufacturers are encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product containers as a certified assurance of quality. Additionally, all packaging, labeling, and distribution of technical-grade isoproturon must strictly comply with statutory registrations and warning declarations mandated under the Insecticides Act, 1968 and Rules framed thereunder.",
+    "requirements": [
+      {
+        "requirement_type": "Sampling and Testing Standard Integration",
+        "detail": "Mandates that all tests must be carried out as referred to in column (4) of Table 1.",
+        "clause_reference": "Clause 7.1"
+      },
+      {
+        "requirement_type": "Reagent Quality and Distilled Water",
+        "detail": "Unless specified otherwise, pure chemicals and distilled water conforming to IS 1070 must be employed in all analytical tests. Pure chemicals must not contain impurities that affect the results of analysis.",
+        "clause_reference": "Clause 7.2"
+      },
+      {
+        "requirement_type": "Alkaline Hydrolysis Principle",
+        "detail": "Isoproturon is hydrolysed using potassium hydroxide in aqueous diethylene glycol (1 : 1 by volume). Dimethylamine, the volatile product of hydrolysis, is distilled off and absorbed in standard hydrochloric acid. From the quantity of acid consumed by dimethylamine, the percentage of isoproturon present in the original sample is computed.",
+        "clause_reference": "Clause A-4.1"
+      },
+      {
+        "requirement_type": "All-Glass Distillation Assembly",
+        "detail": "Requires a high-precision, all-glass distillation assembly of a suitable type as illustrated in Fig. 1.",
+        "clause_reference": "Clause A-4.2 & Fig. 1"
+      },
+      {
+        "requirement_type": "Reagents for Content Analysis",
+        "detail": "The estimation procedure mandates five specific chemical reagents: a) 0.2 N Hydrochloric Acid Solution; b) 0.2 N Sodium Hydroxide Solution; c) 35 percent aqueous Potassium Hydroxide Solution; d) Diethylene Glycol; and e) Silicon Defoamer.",
+        "clause_reference": "Clauses A-4.3.1 to A-4.3.5"
+      },
+      {
+        "requirement_type": "Hydrolysis-cum-Distillation Procedure",
+        "detail": "Accurately weighs 1.0 g ± 0.1 g of the isoproturon, technical sample and transfers it to the reaction flask. Adds 50 ml of diethylene glycol, one or two boiling chips, and 1 ml of silicon defoamer to check foaming. In a receiver beaker, 50 ml of hydrochloric acid (0.2 N) is taken, in which the delivery tube end dips. Adds 50 ml of potassium hydroxide (35 percent) solution to the flask through a dropping funnel, closes the stop-cock, and heats the contents to boiling.",
+        "clause_reference": "Clause A-4.4"
+      },
+      {
+        "requirement_type": "Endpoint Verification and pH 7 Neutrality",
+        "detail": "Distillation is continued for up to approximately 24 hours. The distillation can be stopped when the contents of the flask turn orange-brown, confirming the distillate has ceased to be alkaline. This neutral endpoint must be verified using multi-range pH paper, indicating a pH of exactly 7.",
+        "clause_reference": "Clause A-4.4"
+      },
+      {
+        "requirement_type": "Quantification Back-Titration Equation",
+        "detail": "Requires back-titrating the excess hydrochloric acid in the receiver beaker against 0.2 N sodium hydroxide to calculate active isoproturon content via: Isoproturon (Percent) = [(V1 * N1) - (V2 * N2)] * 20.6 / M, where V1 = volume of HCl originally taken, N1 = normality of HCl, V2 = volume of NaOH consumed, N2 = normality of NaOH, and M = mass in g of the sample.",
+        "clause_reference": "Clause A-4.4 & Clause A-5.1"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated test or analysis value expressing active ingredient content, moisture, or impurities must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard.",
+        "clause_reference": "Foreword & Clause 0.5 of IS 1006"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12004 : 2026",
+    "Isoproturon",
+    "Technical",
+    "Specification",
+    "Pesticides",
+    "Alkaline Hydrolysis",
+    "Dimethylamine",
+    "Diethylene Glycol",
+    "Silicon Defoamer",
+    "Back-Titration",
+    "IS 1070",
+    "pH 7 Neutrality",
+    "FAD 01",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12004 : 2026 is the national Indian Standard specification establishing technical requirements, packaging guidelines, and testing protocols for isoproturon, technical. Finalized by the FAD 01 Pesticides Sectional Committee, this standard regulates the chemical quality of this active substituted-urea herbicide, which is widely utilized in agriculture to control grass weeds in cereal crops. It mandates conducting all tests using pure reagents and distilled water conforming to IS 1070. It outlines a detailed alkaline hydrolysis method—using diethylene glycol and potassium hydroxide to distill off volatile dimethylamine into standard hydrochloric acid, followed by back-titration against sodium hydroxide—to calculate the exact active percentage of isoproturon, ensuring product potency and statutory safety under the Insecticides Act, 1968."
+  },
+  "source_information": {
+    "source_pdf_filename": "12004_2026.pdf",
+    "document_version_edition": "First Revision, February 2026"
+  }
+}

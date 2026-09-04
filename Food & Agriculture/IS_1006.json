@@ -1,0 +1,161 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1006 : 1984",
+    "full_title": "Specification for Arrowroot Starch (अरारोट स्टार्च — विशिष्टि) (Second Revision)",
+    "sector_category": "Food and Agriculture / Starches and Foodgrain Products (approved by the Food and Agriculture Division Council and finalized by the Foodgrains, Allied Products and Ready-to-Eat Foods Sectional Committee, FAD 16, of the Bureau of Indian Standards)",
+    "ics_code": "67.180.20",
+    "sectional_committee": {
+      "name": "Foodgrains, Allied Products and Ready-to-Eat Foods Sectional Committee",
+      "number": "FAD 16"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the quality requirements, physical and chemical parameters, packaging standards, and methods of sampling and test for arrowroot starch, which is popularly known as 'arrowroot' and derived from the rhizomes of the plant Maranta arundinacea.",
+    "clause_number": "Clause 1.1",
+    "page_number": "Page 3"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, 1984 (Reaffirmed 2022)",
+    "year_first_published": "1957 (First published in 1957, revised to Second Revision in 1984)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 1006 : 1957)",
+        "year": "1957"
+      },
+      {
+        "edition": "First Revision (IS 1006 : 1969)",
+        "year": "1969"
+      },
+      {
+        "edition": "Second Revision (IS 1006 : 1984)",
+        "year": "1984"
+      }
+    ],
+    "supersedes": "IS 1006 : 1969",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "IS 4662 : 1977",
+      "title": "Methods of sampling for starches",
+      "category": "Sampling standard",
+      "relevance": "Provides the mandatory methods for drawing representative samples from bulk packages and retail lots of arrowroot starch."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Sectional Committee FAD 16",
+      "relevance": "A fellow food and agriculture standard under FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A companion food storage standard present in the notebook, regulating pest exclusion and chemical safety limits to safeguard stored agricultural products."
+    },
+    {
+      "is_number": "IS 16066 : 2017",
+      "title": "Street Food Vendors — Food Safety Requirements (First Revision)",
+      "category": "Food Safety standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "Specifies hygiene requirements for street food preparation, directly governing the on-site handling of starch-based thickeners, gravies, and batters."
+    },
+    {
+      "is_number": "IS 11427 : 2001",
+      "title": "Fish and Fishery Products — Sampling (First Revision)",
+      "category": "Sampling standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "Provides standard sampling plans and conformity criteria for seafood and canned food products."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "An associated agricultural planning standard, defining irrigation intensities and commanded-area water budgets."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "Regulates post-flood agricultural damage audits, which are integrated with pest-inflicted or ecological crop losses during national disaster evaluations."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies geomembrane linings to prevent water and pest seepage into agricultural silos and chemical-containment basins."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for starch-processing plants, factories, and food-storage warehouses."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Food and Agriculture / Foodgrain Products and Starches)",
+    "certification_status": "Voluntary Certification under the Bureau of Indian Standards (BIS). Starch manufacturers can apply for a license to use the prestigious BIS Standard Mark (ISI Mark) on product containers to convey quality assurance. Additionally, product marking, net weight declarations, and labeling must satisfy statutory food safety standards, including the Food Safety and Standards (Packaging and Labelling) Regulations.",
+    "requirements": [
+      {
+        "requirement_type": "Sampling Standards",
+        "detail": "The method of drawing representative samples of arrowroot starch must conform to the requirements and sample-extraction procedures specified in IS 4662-1977.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Individual Sampling Parameters",
+        "detail": "Starch content and moisture content must be tested separately on each of the individual samples drawn from the lot.",
+        "clause_reference": "Clause 6.2.1"
+      },
+      {
+        "requirement_type": "Composite Sampling Parameters",
+        "detail": "All remaining physical, chemical, and microscopic requirements (such as ash, acid insoluble ash, pH, or particle size) must be tested on a unified composite sample.",
+        "clause_reference": "Clause 6.2.1"
+      },
+      {
+        "requirement_type": "Lot Conformity Criteria",
+        "detail": "The lot shall be declared as conforming to the requirements of the specification if and only if all the test results obtained from both the individual samples and the composite sample satisfy the relevant specification limits.",
+        "clause_reference": "Clause 6.2.2"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "To determine compliance with the chemical, moisture, or particulate limits of this standard, the final observed or calculated value of any test or analysis must be mathematically rounded off in accordance with IS 2:1960. The number of significant places retained in the rounded value must match the specified limit in this standard.",
+        "clause_reference": "Clause 0.5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1006 : 1984",
+    "Arrowroot Starch",
+    "Arrowroot",
+    "Starch Content",
+    "Moisture Content",
+    "Sampling Plans",
+    "IS 4662 : 1977",
+    "Individual Samples",
+    "Composite Samples",
+    "FAD 16",
+    "IS 2:1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1006 : 1984 (Second Revision) is the national Indian Standard specification establishing technical requirements, sampling plans, and testing methods for arrowroot starch, popularly known as 'arrowroot'. Formulated under the Foodgrains, Allied Products and Ready-to-Eat Foods Sectional Committee (FAD 16) and reaffirmed in 2022, this standard ensures the purity, safety, and consistency of arrowroot starch extracted from the rhizomes of Maranta arundinacea. It mandates specific sampling under IS 4662, dictates that moisture and starch content must be analyzed on each individual sample while other parameters are checked on a composite sample, and enforces strict mathematical rounding protocols under IS 2:1960 to verify conformity."
+  },
+  "source_information": {
+    "source_pdf_filename": "1006_1984_reff2022.pdf",
+    "document_version_edition": "Second Revision, 1984"
+  }
+}

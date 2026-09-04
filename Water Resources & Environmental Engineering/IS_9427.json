@@ -1,0 +1,162 @@
+{
+  "basic_identification": {
+    "is_number": "IS 9427 : 2025",
+    "full_title": "Operation and Maintenance of Deionizing Columns — Code of Practice (First Revision)",
+    "sector_category": "Environment and Ecology / Environment Pollution (approved by the newly established Environment and Ecology Division Council and finalized by the Environment Pollution Sectional Committee, EED 02, of the Bureau of Indian Standards)",
+    "ics_code": "13.060.25",
+    "sectional_committee": {
+      "name": "Environment Pollution Sectional Committee",
+      "number": "EED 02"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the structured sequence of operations and maintenance protocols to be followed in the use of deionizing columns. It also prescribes the necessary safety and operational precautions to be taken during resin regeneration, chemical handling, and waste disposal. It applies specifically to small-scale laboratory deionization units and is explicitly not applicable to large-scale industrial water treatment plants.",
+    "clause_number": "Clauses 1.1 and 1.2",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, April 2025 (established by the newly formed Environment and Ecology Department of BIS to replace and modernize the legacy 1980 first edition)",
+    "year_first_published": "1980",
+    "revision_history": [
+      {
+        "edition": "First Edition (published under the title 'Code of practice for operation and maintenance of deionizing columns')",
+        "year": "1980"
+      },
+      {
+        "edition": "First Revision (IS 9427 : 2025)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "IS 9427 : 1980",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2025 revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10044 : 2025",
+      "title": "Treatment and Disposal of Effluents of Petroleum Refining Industry — Guidelines (First Revision)",
+      "category": "Product / Effluent Specification",
+      "location": "Parallel Sectional Committee EED 02",
+      "relevance": "Direct sister environmental standard formulated under the same Environment Pollution Sectional Committee (EED 02), regulating refinery effluent treatment systems and chemical safety."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow water resources and hydrometry standard present in the notebook, regulating fluid flow measurement instruments."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection lining standard present in the notebook, specifying PVC barriers for water containment ponds."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow civil and waterways protection standard present in the notebook, specifying woven geotextiles."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in this notebook, regulating support structures, steel mounting plates, and connection detailing where laboratory deionizing columns, brackets, and chemical drums are installed."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Operating and Maintenance Guidelines",
+    "certification_status": "Voluntary Code of Practice. Since IS 9427:2025 is a procedural code of practice for laboratory operations rather than a manufacturing material specification, it does not carry an individual BIS 'ISI Mark' product license. However, compliance with its structured regeneration protocols, chemical safety checks, and valve controls is universally mandated in public laboratory audits, NABL accreditation assessments, boiler-feed water preparation checklists, and environmental testing laboratories to ensure consistent water purity and protect column resins.",
+    "requirements": [
+      {
+        "requirement_type": "Cation Exchanger Backwash & Rinse",
+        "detail": "Requires backwashing the cation exchange unit with deionized water at a specified flow rate and temperature for a supplier-recommended duration before regenerating with the specified acid quantity/concentration. The bed is subsequently rinsed with deionized water.",
+        "clause_reference": "Clause 2.1.1.1, 2.1.1.2 & 2.1.1.3"
+      },
+      {
+        "requirement_type": "Anion Exchanger Backwash & Rinse",
+        "detail": "Requires backwashing the anion exchange bed with deionized water at a specified flow rate. The resin must be regenerated using the designated quantity and concentration of alkali at supplier-specified flow/temperature rates, followed by a thorough deionized water rinse.",
+        "clause_reference": "Clause 2.1.2.1, 2.1.2.2 & 2.1.2.3"
+      },
+      {
+        "requirement_type": "Two-Bed Operation & Breakthrough Controls",
+        "detail": "The two-bed deionization unit must be operated at the recommended flow rate. Operation must continue until ionic breakthrough is officially detected, monitored via an inbuilt or separate electrical conductivity meter.",
+        "clause_reference": "Clause 2.2"
+      },
+      {
+        "requirement_type": "Mixed Bed Polishing Status Boundary",
+        "detail": "Mixed bed deionizers are strictly categorized as polishing units. The standard mandates that they must not be used as a primary replacement for standard deionizing columns.",
+        "clause_reference": "Clause 3.1"
+      },
+      {
+        "requirement_type": "Mixed Bed Multi-Step Regeneration Program",
+        "detail": "Specifies a four-step regeneration sequence: a) Backwashing with deionized water at a designated flow rate to allow the cation and anion resin layers to separate physically; b) Regenerating the separated resins using the column's internal distributor or in two different external columns; c) Re-mixing the cation and anion exchangers thoroughly using clean compressed air; and d) Rinsing the mixed bed with deionized water as recommended by the supplier.",
+        "clause_reference": "Clause 3.2.1, 3.2.2, 3.2.3 & 3.2.4"
+      },
+      {
+        "requirement_type": "Resin Saturation & Drying Prevention",
+        "detail": "Ion exchange resin beds must never be allowed to dry out. The deionization columns must be located completely away from high-temperature laboratory sources, including boilers, heaters, or furnaces.",
+        "clause_reference": "Clause 4.1"
+      },
+      {
+        "requirement_type": "Exhausted State Storage Protocol",
+        "detail": "If a deionizing column is expected to remain out of service for an extended period of time, the resin bed must be stored in an exhausted (unregenerated) condition rather than a fully regenerated condition.",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Shutdown Valve Controls",
+        "detail": "All inlet, outlet, and bypass valves must be fully closed immediately at the end of any operation or regeneration process if the unit is not scheduled for immediate reuse.",
+        "clause_reference": "Clause 4.3"
+      },
+      {
+        "requirement_type": "Fittings and Conductivity Meter Audits",
+        "detail": "Operators must ensure that all tube connectors, fittings, and attached conductivity meters are in proper working condition, with daily visual checks conducted to ensure zero liquid leakage.",
+        "clause_reference": "Clause 4.4"
+      },
+      {
+        "requirement_type": "Regeneration Chemical Handling Safety",
+        "detail": "Operators must strictly observe appropriate safety considerations and wear proper protective equipment when handling hazardous acid and alkali regeneration chemicals and managing their highly corrosive waste products.",
+        "clause_reference": "Clause 4.5"
+      },
+      {
+        "requirement_type": "Acid/Alkali Waste Disposal Guidelines",
+        "detail": "Neutralization and disposal of the acidic and alkaline waste streams generated during column regeneration must strictly comply with national and local environmental pollution disposal guidelines.",
+        "clause_reference": "Clause 4.6"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 9427 : 2025",
+    "Deionizing Columns",
+    "Two-Bed Deionizers",
+    "Mixed Bed Deionizer",
+    "Resin Regeneration",
+    "Cation Exchanger",
+    "Anion Exchanger",
+    "Conductivity Meter",
+    "Breakthrough Limit",
+    "Air Mixing Resins",
+    "Boiler Feedwater",
+    "EED 02"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 9427 : 2025 (First Revision) is the national Indian Standard code of practice specifying guidelines for the operation, maintenance, and chemical safety of deionizing columns used in small-scale laboratories and R&D facilities to produce high-purity demineralized water. Developed under the Environment Pollution Sectional Committee (EED 02), this first revision establishes precise procedures for operating both two-bed (cation/anion) and mixed-bed polishing deionizers. It defines structured cycles for backwashing, acid and alkali regeneration, and air-mixing of resin beds, while mandating that water purity be continuously monitored using electrical conductivity meters to detect ionic breakthrough. Furthermore, the standard outlines essential preventive rules, including keeping resin beds fully wet, storing idle columns in an exhausted state, checking fittings daily to prevent leaks, and enforcing strict safety controls for handling and disposing of corrosive chemicals."
+  },
+  "source_information": {
+    "source_pdf_filename": "9427_2025.pdf",
+    "document_version_edition": "First Revision, April 2025"
+  }
+}

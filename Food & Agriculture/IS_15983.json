@@ -1,0 +1,213 @@
+{
+  "basic_identification": {
+    "is_number": "IS 15983 : 2013",
+    "full_title": "Thiamethoxam, Technical — Specification (थीयामेथोक्सम, तकनीकी — विशिष्टि)",
+    "sector_category": "Food and Agriculture / Pesticides and Pesticide Residues (approved by the Food and Agriculture Division Council and finalized by the Pesticides and Pesticides Residues Analysis Sectional Committee, FAD 1, of the Bureau of Indian Standards)",
+    "ics_code": "65.100.30",
+    "sectional_committee": {
+      "name": "Pesticides and Pesticides Residues Analysis Sectional Committee",
+      "number": "FAD 1"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes the requirements and the methods of sampling and test for thiamethoxam, technical, which is used as an active ingredient in formulating high-efficiency systemic insecticides to control agricultural sucking and chewing pests.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, July 2013 (Reaffirmed 2018 / 2023)",
+    "year_first_published": "2013 (officially adopted as a new Indian Standard specification for technical-grade thiamethoxam)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 15983 : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 1070 : 1992",
+      "title": "Reagent grade water (third revision)",
+      "category": "Material standard",
+      "relevance": "Specifies quality parameters for water used in preparing analytical reagents and HPLC mobile phases."
+    },
+    {
+      "is_number": "IS 6940 : 1982",
+      "title": "Methods of test for pesticides and their formulations (first revision)",
+      "category": "Testing standard",
+      "relevance": "Provides general testing methodologies and procedures for examining physical and chemical characteristics of pesticides, such as moisture, acidity, and insolubles."
+    },
+    {
+      "is_number": "IS 8190 (Part 1) : 1988",
+      "title": "Requirements for packing of pesticides: Part 1 Solid pesticides (second revision)",
+      "category": "Packing standard",
+      "relevance": "Regulates packing requirements, container materials, and closure types for solid technical and formulated pesticides."
+    },
+    {
+      "is_number": "IS 10946 : 1996",
+      "title": "Methods of sampling for technical grade pesticides (first revision)",
+      "category": "Sampling standard",
+      "relevance": "Specifies standard methods and sample-size criteria to representatively sample technical-grade pesticide lots."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A fellow food and agriculture standard present in the notebook, regulating storage pest-control practices and explicitly mandating compliance with FSSAI pesticide residue limits on stored foodstuffs."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 8701 : 2013",
+      "title": "Temephos, Technical — Specification (Second Revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 1",
+      "relevance": "A sister FAD 1 pesticide specification, regulating temephos technical quality and test methods."
+    },
+    {
+      "is_number": "IS 8498 : 2013",
+      "title": "Temephos, Emulsifiable Concentrate (EC) — Specification",
+      "category": "Formulation Specification",
+      "location": "Same Sectional Committee FAD 1",
+      "relevance": "Regulates the physical and chemical requirements of liquid temephos formulations derived from technical temephos."
+    },
+    {
+      "is_number": "IS 15982 : 2013",
+      "title": "Tricyclazole, Technical — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 1",
+      "relevance": "A sister FAD 1 pesticide specification, regulating tricyclazole technical quality and test methods."
+    },
+    {
+      "is_number": "IS 16141 : 2013",
+      "title": "Pyriproxyfen, Technical — Specification",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 1",
+      "relevance": "A sister FAD 1 pesticide specification, regulating pyriproxyfen technical quality and test methods."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Notebook Co-source",
+      "relevance": "An associated agricultural planning standard, defining cropping intensities which govern the agricultural baseline exposed to pests and requiring protective chemical applications."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates post-flood agricultural damage audits, which are integrated with pest-inflicted or ecological crop losses during national disaster evaluations."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies geomembrane linings to prevent water and pest seepage into agricultural silos and chemical-containment basins."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, panel thickness, and connections for steel storage silos, agricultural chemical warehouses, and pesticide containment structures."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Food and Agriculture / Pesticides)",
+    "certification_status": "Voluntary/Mandatory under the Insecticides Act. Manufacturers are encouraged to apply for the prestigious BIS 'Standard Mark' (ISI Mark) to print on product containers as a certified assurance of quality. Additionally, all packaging, labeling, and distribution of technical-grade thiamethoxam must strictly comply with statutory registrations and warning declarations mandated under the Insecticides Act, 1968 and Rules framed thereunder.",
+    "requirements": [
+      {
+        "requirement_type": "Minimum Thiamethoxam Purity",
+        "detail": "Mandates that the active thiamethoxam content shall be a minimum of 98.0 percent by weight (percent w/w minimum, determined quantitatively by HPLC using acetonitrile mobile phase and internal standard calibration).",
+        "clause_reference": "Table 1, Sl No. (i) & Annex A"
+      },
+      {
+        "requirement_type": "Maximum Moisture Content",
+        "detail": "Restricts moisture content to a maximum of 0.5 percent by mass, determined in accordance with the method prescribed in Clause 4 of IS 6940.",
+        "clause_reference": "Table 1, Sl No. (ii)"
+      },
+      {
+        "requirement_type": "Maximum Acidity Limit",
+        "detail": "Restricts free acidity (calculated as H2SO4) to a maximum of 0.5 percent by mass, determined in accordance with the method prescribed in Clause 11.3.2 of IS 6940.",
+        "clause_reference": "Table 1, Sl No. (iv)"
+      },
+      {
+        "requirement_type": "Acetone-Insoluble Matter",
+        "detail": "Limits material insoluble in acetone to a maximum of 0.5 percent by mass, determined in accordance with the method prescribed in Clause 9 of IS 6940.",
+        "clause_reference": "Table 1, Sl No. (iii)"
+      },
+      {
+        "requirement_type": "Packaging and Sampling Requirements",
+        "detail": "Technical thiamethoxam must be securely packed in containers satisfying the general requirements of IS 8190 (Part 1) for solid technical pesticides. Sampling of the technical material shall be carried out as prescribed in IS 10946.",
+        "clause_reference": "Clauses 6 & 7.1"
+      },
+      {
+        "requirement_type": "Mandatory Labeling Information",
+        "detail": "Each container must legibly and indelibly bear: the name of the material, manufacturer's name and address, batch number, date of manufacture, date of expiry, net quantity, nominal thiamethoxam content (percent m/m), and standard cautionary notices worded in accordance with the Insecticides Act, 1968.",
+        "clause_reference": "Clause 5"
+      },
+      {
+        "requirement_type": "Sample Solution Preparation (HPLC)",
+        "detail": "Requires weighing about 0.2 g of thiamethoxam, technical into a 50 ml volumetric flask. Dissolves and makes up the volume to the mark with acetonitrile. Pipettes out 5 ml of this solution into a 100 ml volumetric flask, adds 5 ml of internal standard solution, and makes up to the mark with acetonitrile before shaking to homogenize.",
+        "clause_reference": "Clause A-1.4.3"
+      },
+      {
+        "requirement_type": "HPLC Injection and Active Estimation",
+        "detail": "Injects a 20 µl aliquot of the prepared solution into a high-performance liquid chromatograph (HPLC) equipped with a UV detector to resolve active thiamethoxam and the internal standard.",
+        "clause_reference": "Clause A-1.4.4 & A-1.4.4.1"
+      },
+      {
+        "requirement_type": "Chromatographic Peak Resolution",
+        "detail": "The chromatographic system must cleanly resolve the active ingredient and internal standard. Based on the calibrated sample chromatogram, the typical retention times are approximately 2.79 minutes and 7.50 minutes.",
+        "clause_reference": "Figure / Chromatogram (Image 24)"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated test or analysis value expressing purity, moisture, acidity, or insolubles must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained in the rounded off value should be identical to the specified value in the standard.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 15983 : 2013",
+    "Thiamethoxam",
+    "Technical",
+    "Specification",
+    "Pesticides",
+    "HPLC",
+    "Internal Standard",
+    "Acetonitrile",
+    "Moisture Content",
+    "Acidity",
+    "Acetone Insoluble",
+    "Insecticides Act 1968",
+    "FAD 1",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 15983 : 2013 is the national Indian Standard specification establishing technical requirements, sampling protocols, and analytical methods for thiamethoxam, technical. Prepared by the FAD 1 Sectional Committee, this standard regulates the chemical quality of this active neonicotinoid ingredient, which is widely utilized in crop protection formulations to control sucking pests. It mandates a minimum purity of 98.0% by mass, limits moisture to 0.5%, acidity to 0.5%, and acetone insolubles to 0.5%. It outlines a precise High Performance Liquid Chromatography (HPLC) test using an internal standard technique in an acetonitrile solvent, ensuring both efficacy and environmental compliance under the statutory framework of the Insecticides Act, 1968."
+  },
+  "source_information": {
+    "source_pdf_filename": "15983_2013_reaff2023.pdf",
+    "document_version_edition": "First Edition, July 2013"
+  }
+}

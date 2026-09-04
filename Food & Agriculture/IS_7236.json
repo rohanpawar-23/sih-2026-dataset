@@ -1,0 +1,208 @@
+{
+  "basic_identification": {
+    "is_number": "IS 7236 : 2013",
+    "full_title": "Coffee and Coffee Products — Vocabulary (कॉफ़ी और कॉफ़ी उत्पाद — शब्दावली) (First Revision)",
+    "sector_category": "Food and Agriculture / Stimulant Foods (approved by the Food and Agriculture Division Council and finalized by the Stimulant Foods Sectional Committee, FAD 06, of the Bureau of Indian Standards)",
+    "ics_code": "01.040.67; 67.140.20",
+    "sectional_committee": {
+      "name": "Stimulant Foods Sectional Committee",
+      "number": "FAD 06"
+    }
+  },
+  "scope": {
+    "summary": "This standard defines the most commonly used terminology, classifications, and process descriptions relating to coffee and coffee products (fruits and seeds of plants of the genus Coffea, as well as processed derivatives intended for human consumption) to establish a unified, standardized national nomenclature and eliminate ambiguity in commercial, regulatory, and scientific contexts.",
+    "clause_number": "Clause 1 / Scope",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, November 2013 (Reaffirmed 2018 / 2023)",
+    "year_first_published": "1974 (originally published as IS 7236 : 1974 'Glossary of terms for coffee and its products')",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 7236 : 1974)",
+        "year": "1974"
+      },
+      {
+        "edition": "First Revision (IS 7236 : 2013)",
+        "year": "2013"
+      }
+    ],
+    "supersedes": "IS 7236 : 1974",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "IS 3581 : 2019",
+      "title": "Green Coffee — Specification (Third Revision)",
+      "category": "Product Specification",
+      "relevance": "Provides physical and chemical limits for green coffee, utilizing IS 7236 definitions as the official classification baseline."
+    },
+    {
+      "is_number": "IS 3077 : 2022",
+      "title": "Roasted and Ground Coffee — Specification (Third Revision)",
+      "category": "Product Specification",
+      "relevance": "Regulates quality parameters for roasted and ground coffee blends based on standard definitions defined in IS 7236."
+    },
+    {
+      "is_number": "IS 2791 : 2022",
+      "title": "Soluble Coffee Powder — Specification (Fourth Revision)",
+      "category": "Product Specification",
+      "relevance": "Defines active quality and solubility standards for pure instant/soluble coffee powders."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16032 : 2012",
+      "title": "Green Coffee — Defect Reference Chart",
+      "category": "Evaluation standard",
+      "location": "Same Sectional Committee FAD 06",
+      "relevance": "Identical adoption of ISO 10470 : 2004, providing visual and quantitative definitions for defects in green coffee to support raw bean sorting and valuation."
+    },
+    {
+      "is_number": "IS 3309 : 2022",
+      "title": "Soluble Coffee-Chicory Powder — Specification (Third Revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 06",
+      "relevance": "Regulates the water-soluble extract, caffeine, and chicory proportions in commercial instant blend formulations."
+    },
+    {
+      "is_number": "IS 3802 : 2019",
+      "title": "Roasted Coffee-Chicory Powder — Specification (Second Revision)",
+      "category": "Product Specification",
+      "location": "Same Sectional Committee FAD 06",
+      "relevance": "Defines parameters for physical roasted and ground mixtures of coffee and chicory."
+    },
+    {
+      "is_number": "IS 612 : 1992",
+      "title": "Roasted Chicory Powder — Specification",
+      "category": "Product Specification",
+      "location": "Food and Agriculture (FAD 23)",
+      "relevance": "Defines technical requirements for roasted chicory roots used as a coffee additive or substitute."
+    },
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A fellow Food and Agriculture Department standard, regulating storage pest-control practices and mandating FSSAI chemical residue limits."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "An associated agricultural planning standard, defining cropping intensities which govern the raw agricultural baseline of stimulant crops."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Water Resources Department (WRD)",
+      "relevance": "Regulates post-flood agricultural damage audits, which are integrated with pest-inflicted or ecological crop losses during national disaster evaluations."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies geomembrane linings to prevent water and pest seepage into agricultural silos and chemical-containment basins."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for agricultural processing plants, factories, and cold-storage warehouses."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Nomenclature Standard / Glossary of Terms (Food and Agriculture / Stimulant Foods)",
+    "certification_status": "Voluntary/Identical Adoption. Since IS 7236 : 2013 is a terminology and vocabulary standard rather than a physical consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, its terminology represents the exact legally binding dictionary utilized by the Food Safety and Standards Authority of India (FSSAI), the Central Excise Department, and the Ministry of Commerce and Industry during agricultural grading, trademark disputes, customs classifications, and food safety compliance evaluations.",
+    "requirements": [
+      {
+        "requirement_type": "Definition of Coffee",
+        "detail": "General term for the fruits and seeds of plants of the genus Coffea, generally the cultivated species, as well as products from these fruits and seeds in different stages of processing and use, intended for human consumption."
+      },
+      {
+        "requirement_type": "Definition of Cherry Coffee / Coffee Cherry",
+        "detail": "Defines this as the fresh or dried fruit of the coffee plant, containing one or two seeds (beans) wrapped in their endocarps (parchments) and pulp."
+      },
+      {
+        "requirement_type": "Definition of Husk Coffee / Dried Coffee Cherries",
+        "detail": "Defines this as the dried cherry coffee (fruit of the coffee plant) after drying, before any mechanical removal of the outer layers."
+      },
+      {
+        "requirement_type": "Definition of Parchment Coffee",
+        "detail": "Defines this as coffee beans wrapped in their protective endocarp (parchment) layer."
+      },
+      {
+        "requirement_type": "Definition of Green Coffee / Raw Coffee",
+        "detail": "Defines this as coffee beans that are not roasted and have been separated from their outer layers."
+      },
+      {
+        "requirement_type": "Definition of Monsooned Coffee",
+        "detail": "Defines this as green coffee that has been exposed to a humid atmosphere (monsoon winds) to absorb moisture and swell, altering its physical color and taste characteristics."
+      },
+      {
+        "requirement_type": "Definition of Polished Coffee",
+        "detail": "Defines this as green coffee beans from which the silverskin has been completely or partially removed by mechanical polishing."
+      },
+      {
+        "requirement_type": "Definition of Decaffeinated Coffee",
+        "detail": "Defines this as coffee from which caffeine has been extracted, restricting residual caffeine content in accordance with product specifications."
+      },
+      {
+        "requirement_type": "Definition of Roasted Coffee",
+        "detail": "Defines this as coffee obtained by roasting green coffee to develop its aroma, flavor, and characteristic brown color."
+      },
+      {
+        "requirement_type": "Definition of Coffee Extract / Instant Coffee / Soluble Coffee",
+        "detail": "Defines this as the dry water-soluble product obtained by the extraction of roasted coffee using only water as the solvent, and dried."
+      },
+      {
+        "requirement_type": "Definition of Coffee Brew",
+        "detail": "Defines this as the liquid beverage obtained by extracting roasted and ground coffee with hot water."
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "In reporting results of any tests or analyses made in accordance with standards using this vocabulary, if the final value is to be rounded off, it shall be done in accordance with IS 2 : 1960. The number of significant places retained should match the specified value."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 7236 : 2013",
+    "ISO 3509",
+    "Coffee and Coffee Products",
+    "Vocabulary",
+    "Cherry Coffee",
+    "Husk Coffee",
+    "Parchment Coffee",
+    "Green Coffee",
+    "Monsooned Coffee",
+    "Soluble Coffee",
+    "Chicory",
+    "FAD 06",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 7236 : 2013 is the national Indian Standard establishing standard terminology and definitions for coffee and coffee products. Developed under the Stimulant Foods Sectional Committee (FAD 06) and reaffirmed in 2023, this standard is identical to the international standard ISO 3509. It provides precise, legally binding definitions for raw, intermediate, and processed coffee products—including cherry, husk, parchment, green, monsooned, roasted, and instant coffee—to ensure absolute consistency across food safety regulations, agricultural grading, commercial trade, and customs auditing in India."
+  },
+  "source_information": {
+    "source_pdf_filename": "7236_2013_reff2023.pdf",
+    "document_version_edition": "First Revision, November 2013"
+  }
+}

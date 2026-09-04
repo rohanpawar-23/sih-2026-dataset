@@ -1,0 +1,133 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13668 : 1993",
+    "full_title": "Guidelines for Fixing Intensity of Irrigation (सिंचाई की तीव्रता निश्चित करने के मार्गदर्शी सिद्धांत)",
+    "sector_category": "Water Resources / Irrigation Planning (approved by the River Valley Division Council and finalized by the River Valley Projects: Planning, Irrigation Management and Evaluation Sectional Committee, RVD 6, of the Bureau of Indian Standards)",
+    "ics_code": "626.81/.84",
+    "sectional_committee": {
+      "name": "River Valley Projects: Planning, Irrigation Management and Evaluation Sectional Committee",
+      "number": "RVD 6"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies standard guidelines, parameters, and socio-economic or hydrological criteria for determining and fixing the intensity of irrigation in river valley projects, differentiating between intensive and protective irrigation systems to optimize water allocation, maintain smallholder viability, and promote sustainable agriculture.",
+    "clause_number": "Foreword",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, January 1993 (Reaffirmed 2001)",
+    "year_first_published": "1993",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13668 : 1993)",
+        "year": "1993"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16115 : 2013",
+      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
+      "category": "Evaluation standard",
+      "location": "Water Resources Division",
+      "relevance": "A sister post-project evaluation standard in this notebook, using design and actual irrigation intensities to assess system efficiency and socio-agro-economic impacts."
+    },
+    {
+      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
+      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
+      "category": "Terminology standard",
+      "location": "Water Resources Division",
+      "relevance": "Provides standardized terms (such as water years, torrents, and freshets) to maintain consistency across project planning and design reports."
+    },
+    {
+      "is_number": "IS 13083 : 2017",
+      "title": "Hydrometric Determinations — Flow Measurement in Open Channels Using Structures — Flat-V Weirs (First Revision)",
+      "category": "Hydrometric standard",
+      "location": "Water Resources Division",
+      "relevance": "Regulates water flow measurement in canals, providing accurate discharge records necessary for determining actual water availability."
+    },
+    {
+      "is_number": "IS 12094 : 2018",
+      "title": "Planning and Design of River Embankments (Levees) — Guidelines",
+      "category": "Civil design standard",
+      "location": "Water Resources Division",
+      "relevance": "Allied flood-protection standard, securing commanded agricultural areas from river breaches."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product standard",
+      "location": "Notebook Co-source",
+      "relevance": "Allied canal lining standard, preventing seepage losses in transit to maximize the commanded area that can be effectively irrigated."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for gates, headworks, and aqueduct structures."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Technical Guidelines (Water Resources Department / Irrigation Management)",
+    "certification_status": "Voluntary Guidelines. Since IS 13668:1993 is a planning guideline and methodology standard rather than a physical consumer material, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its planning criteria, water duty computations, and commanded-area calculations is strictly mandated by the Central Water Commission (CWC), state irrigation and water resources departments, and agricultural ministries during the preparation of Detailed Project Reports (DPRs), feasibility briefs, and funding clearances for major and medium river valley projects across India.",
+    "requirements": [
+      {
+        "requirement_type": "Definition of Intensity of Irrigation",
+        "detail": "Formally defines the intensity of irrigation as the percentage of the culturable commanded area (CCA) proposed to be irrigated in a given period of time, such as a crop season or a full water year.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Intensive Irrigation System Objectives",
+        "detail": "For intensive irrigation systems (where water availability is not a limiting factor), the intensity of irrigation may be set to 100 percent or even more. This objective is met by putting the same land under multiple cropping cycles once or twice a year under different crops.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Protective Irrigation System Objectives",
+        "detail": "For protective irrigation systems (where water is scarce), the primary objective is to extend irrigation facilities to a larger, more dispersed area. Consequently, the design intensity is set low to distribute benefits across the community, provided the lower limit is fixed to maintain the basic viability of small agricultural landholdings.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Agronomic and Input Factors",
+        "detail": "Fixing high intensities in water-sufficient zones is shown to support better utilization of agricultural inputs (like fertilizers and modern implements) and take advantage of residual soil moisture from previous crops.",
+        "clause_reference": "Foreword"
+      },
+      {
+        "requirement_type": "Water Availability Limitation",
+        "detail": "Fixing a suitable intensity requires careful evaluation of several factors, with water availability serving as the primary physical constraint. Where water is abundant, high intensities are called for, while water-scarce zones must adopt protective, lower-intensity limits.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13668 : 1993",
+    "Intensity of Irrigation",
+    "Culturable Commanded Area",
+    "CCA",
+    "Intensive Irrigation",
+    "Protective Irrigation",
+    "Multiple Cropping",
+    "Water Availability",
+    "Small Holdings",
+    "RVD 6",
+    "River Valley Projects"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13668 : 1993 is the national Indian Standard guidelines specifying criteria for fixing the intensity of irrigation in river valley projects. Prepared under the RVD 6 sectional committee, this standard defines the intensity of irrigation as the percentage of culturable commanded area (CCA) proposed to be irrigated in a given season or year. It provides planning guidelines to differentiate between intensive systems (targeting over 100% intensity through multiple annual crops in water-abundant zones) and protective systems (targeting lower, wider-dispersed intensities in water-scarce zones to benefit the broader community while protecting smallholders), supporting sustainable agricultural and water-resources planning."
+  },
+  "source_information": {
+    "source_pdf_filename": "13668_1993_reaff2024.pdf",
+    "document_version_edition": "First Edition, January 1993"
+  }
+}

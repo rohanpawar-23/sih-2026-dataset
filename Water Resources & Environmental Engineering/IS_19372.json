@@ -1,0 +1,191 @@
+{
+  "basic_identification": {
+    "is_number": "IS 19372 : 2025",
+    "full_title": "Thermal Processing of Horticulture and Wet Waste — Guidelines (उद्यान कृषि और गीले कचरे का थर्मल प्रसंस्करण — दिशानिर्देश)",
+    "sector_category": "Environment and Ecology / Waste Management (approved by the newly established Environment and Ecology Division Council and finalized by the Waste Management Sectional Committee, EED 08, of the Bureau of Indian Standards)",
+    "ics_code": "13.030.10",
+    "sectional_committee": {
+      "name": "Waste Management Sectional Committee",
+      "number": "EED 08"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies guidelines, technical criteria, and operational parameters for the design, selection, and performance of systems used for the thermal and thermochemical processing (including incineration, pyrolysis, gasification, and hydrothermal carbonization) of horticultural and wet biodegradable organic wastes to minimize municipal solid waste landfill volumes, maximize energy recovery, and manage carbon recycling.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, September 2025",
+    "year_first_published": "2025",
+    "revision_history": [
+      {
+        "edition": "First Edition (officially adopted as a new dedicated national standard to regulate the thermochemical treatment of organic and green waste fractions)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 12662 (Part 1) : 2021",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 1: Selection of Vehicles",
+      "category": "Selection standard",
+      "relevance": "Provides baseline vehicle classifications and collection standards that support segregated municipal organic waste transport."
+    },
+    {
+      "is_number": "IS 12662 (Part 2) : 2025",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
+      "category": "Maintenance standard",
+      "relevance": "Regulates maintenance, high-pressure cleaning, and disinfection of municipal vehicles to manage corrosive leachates from wet wastes."
+    },
+    {
+      "is_number": "IS 14031 : 2025",
+      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+      "category": "System standard",
+      "relevance": "Establishes environmental condition (ECI) and operational performance indicators (OPI) to monitor and evaluate waste treatment footprints."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises mathematical rounding procedures during compliance and testing evaluations."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 12662 (Part 2) : 2025",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow municipal solid waste management standard present in the notebook, regulating transport and hygiene controls."
+    },
+    {
+      "is_number": "IS 12002 : 2025",
+      "title": "Control of Air Pollution in Cement Plants — Code of Practice (First Revision)",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates emissions, excess oxygen parameters, and co-processing standards where dried horticultural waste pellets are utilized as alternative fuels in cement kilns."
+    },
+    {
+      "is_number": "IS 10044 : 2025",
+      "title": "Treatment and Disposal of Effluents of Petroleum Refining Industry — Guidelines (First Revision)",
+      "category": "Product / Effluent Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, developed under the sister Sectional Committee EED 02."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, specifying impermeable liners for solid waste landfills and wastewater treatment basins."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow environmental protection standard present in the notebook, specifying geobag geotextiles."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, steel gantry assemblies, and connection detailing for incinerators, pyrolysis reactors, and storage silos."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Technical Guidelines (Environment and Ecology / Waste Management)",
+    "certification_status": "Voluntary Code of Practice. Since IS 19372:2025 is an engineering guideline and operational code of practice for municipal solid waste processing facilities rather than a direct consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its design parameters, process controls, temperature ranges, and stack heights is legally enforced by the Central Pollution Control Board (CPCB), State Pollution Control Boards (SPCBs), and municipal corporations under the statutory frameworks of the national Solid Waste Management Rules, 2016, to authorize and license Waste-to-Energy or Waste-to-Char plants. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Waste Segregation & Moisture Control",
+        "detail": "Horticultural and wet biodegradable wastes must be strictly segregated at the source. Due to the high moisture content of wet organic scrap (typically exceeding 60 percent), the standard mandates pre-treatment (such as mechanical pressing, shredding, solar or low-temperature drying, and blending) to raise the raw calorific values and guarantee stable thermochemical processing."
+      },
+      {
+        "requirement_type": "Direct Incineration Combustion Limits",
+        "detail": "When direct incineration or combustion is applied to dry horticultural waste or blended fuel pellets, the primary furnace combustion chamber must maintain a minimum operating temperature of 850°C with an excess oxygen level of 1 percent to 3 percent to prevent incomplete combustion, reduce carbon monoxide (CO), and minimize volatile organic compounds (VOCs)."
+      },
+      {
+        "requirement_type": "Pyrolysis Reactor Guidelines",
+        "detail": "Requires that the pyrolysis of dry horticultural woody biomass (tree prunings, dry leaves, trimmings) be conducted in the complete or near-complete absence of oxygen at temperatures between 400°C and 700°C. The process parameters must be optimized based on the desired output (solid bio-char, bio-oil, or syngas)."
+      },
+      {
+        "requirement_type": "Gasification Air-Fuel Ratios",
+        "detail": "Specifies guidelines for partial oxidation gasification utilizing restricted air or oxygen supply to generate high-quality synthesis gas (syngas). Gasifier draft pressures and bed temperatures must be continuously monitored to prevent tar condensation in piping networks."
+      },
+      {
+        "requirement_type": "Hydrothermal Carbonization (HTC) for Wet Waste",
+        "detail": "Specifies hydrothermal carbonization as an advanced thermochemical pathway highly suitable for highly saturated wet organic wastes. Wet biomass is processed in subcritical liquid water under elevated pressures (typically 1.0 to 2.5 MPa) and temperatures (180°C to 250°C), converting organic solids into energy-dense hydro-char without requiring energy-intensive pre-drying."
+      },
+      {
+        "requirement_type": "Co-processing in Cement Kilns",
+        "detail": "Provides guidelines to pelletize and feed dried horticultural waste into cement kilns for energy and material co-processing, provided it satisfies the strict emission limits and environmental guidelines of MoEF&CC and IS 12002."
+      },
+      {
+        "requirement_type": "Stack Emission Controls",
+        "detail": "Flue gases generated from incinerators, gasifiers, or boilers must pass through designated secondary air pollution control devices (such as cyclones, baghouses, and wet scrubbers) to ensure particulate matter, sulfur dioxide (SO2), nitrogen oxides (NOx), and acid gases are safely abated below national CPCB statutory limits."
+      },
+      {
+        "requirement_type": "Safe Ash & Char Heavy Metal Auditing",
+        "detail": "Fly ash, bottom ash, and produced char or bio-char must be audited for heavy metal concentrations (such as lead, cadmium, mercury, and chromium) before being cleared for agricultural soil amendment or land applications, in accordance with Solid Waste Management guidelines."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 19372 : 2025",
+    "Thermal Processing",
+    "Horticulture Waste",
+    "Wet Waste",
+    "Incineration",
+    "Pyrolysis",
+    "Gasification",
+    "Hydrothermal Carbonization",
+    "Bio-char",
+    "Solid Waste Management",
+    "EED 08",
+    "CPCB Guidelines"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 19372 : 2025 is the national Indian Standard code of practice specifying guidelines for the thermal and thermochemical processing of horticultural and wet organic waste. Formulated under the Waste Management Sectional Committee (EED 08), this standard regulates the engineering and safety design of volume-reduction and waste-to-energy technologies such as incineration, pyrolysis, gasification, and hydrothermal carbonization. It establishes critical pre-treatment and moisture-reduction guidelines, regulates furnace and reactor temperatures, aligns with co-processing standards in cement plants, and enforces rigorous stack emission controls and ash audits to ensure clean, sustainable urban waste treatment in compliance with national Solid Waste Management Rules."
+  },
+  "author_committee_attribution": {
+    "chairperson": "DR ANURADHA SHUKLA",
+    "sectional_committee": "Waste Management Sectional Committee (EED 08)",
+    "committee_members": [
+      {
+        "organization": "Alkali Manufacturers Association of India, New Delhi",
+        "representatives": ["Shri K. Srinivasan", "Shri Harisaran Das (Alternate)"]
+      },
+      {
+        "organization": "Cement Manufacturers Association, New Delhi",
+        "representatives": ["Shri Hitesh Sukhwal", "Shri K. V. Reddy (Alternate)"]
+      },
+      {
+        "organization": "Central Pollution Control Board, New Delhi",
+        "representatives": ["Ms Divya Sinha", "Shri Ritesh Prasad Gurung (Alternate)"]
+      },
+      {
+        "organization": "The Energy and Resources Institute (TERI), New Delhi",
+        "representatives": ["Dr Suneel Pandey", "Shri Kaushik Chandrashekhar (Alternate)"]
+      },
+      {
+        "organization": "The Fertiliser Association of India, New Delhi",
+        "representatives": ["Shri G. M. Patel", "Shri Manish Goswami (Alternate)"]
+      },
+      {
+        "personal_capacity": [
+          "Prof Sadhan K. Ghosh",
+          "Ms Sanchita Jindal"
+        ]
+      }
+    ]
+  },
+  "source_information": {
+    "source_pdf_filename": "19372_2025 (1).pdf",
+    "document_version_edition": "First Edition, September 2025"
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "basic_identification": {
+    "is_number": "IS 12094 : 2018",
+    "full_title": "Planning and Design of River Embankments (Levees) — Guidelines (नदी तटबंध के नियोजन तथा डिजाईन के मार्गदर्शी सिद्धांत) (Second Revision)",
+    "sector_category": "Water Resources / Flood and Erosion Management (approved by the Water Resources Division Council and finalized by the Flood Management, Erosion Management and Diversion Works Sectional Committee, WRD 22, of the Bureau of Indian Standards)",
+    "ics_code": "93.160",
+    "sectional_committee": {
+      "name": "Flood Management, Erosion Management and Diversion Works Sectional Committee",
+      "number": "WRD 22"
+    }
+  },
+  "scope": {
+    "summary": "This standard covers the planning and design of river embankments (levees) constructed on dry land to protect agricultural and urban areas from flooding.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Second Revision, March 2018 (Reaffirmed 2023)",
+    "year_first_published": "Not explicitly stated (Second Revision established in 2018)",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "Prior to 2018"
+      },
+      {
+        "edition": "Second Revision (IS 12094 : 2018)",
+        "year": "2018"
+      }
+    ],
+    "supersedes": "Prior edition of IS 12094",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of surveyed dimensions and design metrics to determine compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "An allied waterways protection standard, regulating woven geotextile geobags used to line scour aprons and protect embankment slopes from hydraulic erosion."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "An allied environmental lining standard, specifying impermeable containment barrier linings which can prevent high-velocity seepage through the embankment core."
+    },
+    {
+      "is_number": "IS 16115 : 2013",
+      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
+      "category": "Evaluation standard",
+      "location": "Notebook Co-source",
+      "relevance": "An associated river valley planning standard, utilizing network maps and structural assessments to audit completed irrigation and drainage commands."
+    },
+    {
+      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
+      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
+      "category": "Terminology standard",
+      "location": "Notebook Co-source",
+      "relevance": "Provides standardized terminology (such as water years, torrents, and freshets) to maintain consistency across project design and engineering reports."
+    },
+    {
+      "is_number": "IS 9401 (Part 12) : 2026",
+      "title": "Methods of Measurement of Work in River Valley Projects (Dams and Appurtenant Structures) — Part 12: Topographical Surveys (First Revision)",
+      "category": "Measurement Code",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow river valley surveying standard, defining contract measurement and quantity billing procedures for topographical alignments and cross-sections."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design code in India, regulating steel framing, connections, and support details where sluice gates, outfall conduits, or gantry structures are integrated with the levee."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Design and Operational Guidelines (Water Resources Department / Flood Management)",
+    "certification_status": "Voluntary Code of Practice. Since IS 12094:2018 is an engineering guideline for civil works, it does not carry an individual mandatory BIS 'ISI Mark' product stamp. However, compliance with its dimensional parameters (such as top width, freeboard, slopes, turning platforms) and analytical requirements (such as backwater analysis and HGL cover) is strictly mandated in public works department (PWD) tenders, irrigation department contracts, and flood-control project approvals by state and central agencies (including the Central Water Commission) to ensure structural safety against catastrophic breaches.",
+    "requirements": [
+      {
+        "requirement_type": "Design High Flood Level (HFL) Modeling",
+        "detail": "Requires determining the design HFL utilizing short-term or long-term sub-zone plans from the CWC Directorate of Hydrology, or by referencing the Rashtriya Barh Ayog Report (1980).",
+        "clause_reference": "Clause 4.2"
+      },
+      {
+        "requirement_type": "Jacketing & Backwater Analysis",
+        "detail": "In the case of embankments constructed on both sides of a river, the rise in water level due to jacketing must be kept in view. A backwater analysis must be carried out to determine the afflux due to the loss in flood storage after construction.",
+        "clause_reference": "Clause 4.2.1"
+      },
+      {
+        "requirement_type": "Embankment Top Width Limits",
+        "detail": "For homogeneous embankments, a standard top width of 5.0 m to 5.5 m must be provided to accommodate maintenance and service vehicle operations.",
+        "clause_reference": "Figure 1 Cross-Section"
+      },
+      {
+        "requirement_type": "Freeboard Above Design HFL",
+        "detail": "Requires providing a structural freeboard of 1.5 m or 1.8 m above the design HFL to prevent overtopping by wave action or hydraulic surges.",
+        "clause_reference": "Figure 1 Cross-Section"
+      },
+      {
+        "requirement_type": "Embankment Side Slopes and Turf",
+        "detail": "Side slopes on both the river side and country side must not be steeper than 1:2 or 1:3. Slopes must be protected with turf (vegetative grass cover) to prevent erosion.",
+        "clause_reference": "Figure 1 Cross-Section"
+      },
+      {
+        "requirement_type": "Hydraulic Gradient Line (HGL) Safety Cover",
+        "detail": "The HGL through the levee is assumed at a slope of 1:4, 1:5, or 1:6. To prevent piping and seepage failures, the countryside slope must cover the HGL by a minimum of 0.6 m of compacted soil. A 1.5 m wide berm (or wider) must be provided on the country side if required to encapsulate the HGL.",
+        "clause_reference": "Figure 1 Cross-Section"
+      },
+      {
+        "requirement_type": "Seat Strip Level",
+        "detail": "Before placing embankment soil, the base seat must be stripped of organic topsoil, roots, and loose material to an average depth of 0.3 m.",
+        "clause_reference": "Figure 1 Cross-Section"
+      },
+      {
+        "requirement_type": "Turning Platforms at Intervals",
+        "detail": "A turning platform of 3 m width and 15 m to 30 m in length must be provided at every kilometre along the levee top to facilitate safe turning and passage of maintenance vehicles.",
+        "clause_reference": "Typical Turning Platform Cross-Section"
+      },
+      {
+        "requirement_type": "Borrow Pit Siting Controls",
+        "detail": "To prevent under-seepage and preserve foundation stability:\na) River-side borrow pits must be located at least 3 m from the toe of the embankment;\nb) Country-side borrow pits must be located at least 3 m (with a longitudinal drain and 0.6 m minimum cover) or 6 m from the toe.",
+        "clause_reference": "Typical Homogeneous Embankment Cross-Sections"
+      },
+      {
+        "requirement_type": "Communication Ramps",
+        "detail": "To provide communication from one side of the embankment to the other, ramps at suitable places must be provided as per requirement to prevent subsequent unauthorized cutting of the levee slope.",
+        "clause_reference": "Clause 4.10"
+      },
+      {
+        "requirement_type": "Mitigation of Failure/Breaching Modes",
+        "detail": "Embankment design and compaction must prevent common breach modes: overtopping by floods higher than design limits, and improper soil compaction/settlement.",
+        "clause_reference": "Clause 4.11"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 12094 : 2018",
+    "River Embankments",
+    "Levees",
+    "Homogeneous Embankment",
+    "Freeboard",
+    "Hydraulic Gradient Line HGL",
+    "Turning Platform",
+    "Borrow Pits",
+    "Backwater Analysis",
+    "Turf Protection",
+    "WRD 22"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 12094 : 2018 (Second Revision) is the national Indian Standard guidelines specifying criteria for the planning and design of river embankments (levees) on dry land. Prepared by the WRD 22 Sectional Committee, this standard regulates flood protection works across India. It mandates backwater analysis for jacketed rivers, defines standard levee dimensions (5.0–5.5 m top width, 1.5–1.8 m freeboard, slopes not steeper than 1:2 or 1:3), requires turfing for erosion control, and enforces a strict 0.6 m minimum soil cover over the hydraulic gradient line (HGL) to prevent piping. It also specifies that 3 m wide turning platforms must be provided at every kilometre and restricts borrow pits to safe distances from the embankment toe to protect foundation integrity."
+  },
+  "source_information": {
+    "source_pdf_filename": "12094_2018_reaff2023.pdf",
+    "document_version_edition": "Second Revision, March 2018"
+  }
+}

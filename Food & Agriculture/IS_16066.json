@@ -1,0 +1,207 @@
+{
+  "basic_identification": {
+    "is_number": "IS 16066 : 2017",
+    "full_title": "Street Food Vendors — Food Safety Requirements (First Revision) (रेहड़ी लगाकर खाद्य पदार्थ बेचने वाले — खाद्य सुरक्षा अपेक्षाएँ (पहला पुनरीक्षण))",
+    "sector_category": "Food and Agriculture / Food Hygiene and Safety (approved by the Food and Agriculture Division Council and finalized by the Food Hygiene, Safety Management and Other Systems Sectional Committee, FAD 15, of the Bureau of Indian Standards)",
+    "ics_code": "67.020",
+    "sectional_committee": {
+      "name": "Food Hygiene, Safety Management and Other Systems Sectional Committee",
+      "number": "FAD 15"
+    }
+  },
+  "scope": {
+    "summary": "This standard prescribes food safety and hygienic requirements for street food vendors, laying down control checkpoints, minimum hygiene practices, and an inspection checklist with grading criteria to govern both mobile and fixed street food operations across India and ensure safe food is served to consumers.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 2017 (Reaffirmed 2022)",
+    "year_first_published": "2012 (originally published as IS 16066 : 2012)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 16066 : 2012)",
+        "year": "2012"
+      },
+      {
+        "edition": "First Revision (IS 16066 : 2017)",
+        "year": "2017"
+      }
+    ],
+    "supersedes": "IS 16066 : 2012",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (second revision)",
+      "category": "Water quality standard",
+      "relevance": "Specifies physical, chemical, and microbiological limits for potable water, which is strictly required for cooking, drinking, ingredient washing, and cleaning by food vendors."
+    },
+    {
+      "is_number": "IS 5887 (Part 1) : 1976",
+      "title": "Methods for Detection of Bacteria Responsible for Food Poisoning — Part 1: Isolation, Identification and Enumeration of Escherichia Coli (first revision)",
+      "category": "Testing standard",
+      "relevance": "Provides standard testing protocols to detect and enumerate fecal coliform contamination in street food and water samples."
+    },
+    {
+      "is_number": "IS 5887 (Part 2) : 1976",
+      "title": "Methods for Detection of Bacteria Responsible for Food Poisoning — Part 2: Isolation, Identification and Enumeration of Staphylococcus aureus and Faecal Streptococci (first revision)",
+      "category": "Testing standard",
+      "relevance": "Provides protocols to identify bacterial indicators associated with poor food handling and lack of personal hygiene."
+    },
+    {
+      "is_number": "IS 5887 (Part 7) : 1999",
+      "title": "Methods for Detection of Bacteria Responsible for Food Poisoning — Part 7: General Guidance on Methods for Isolation and Identification of Shigella",
+      "category": "Testing standard",
+      "relevance": "Provides testing protocols for identifying Shigella pathogen contamination in raw or ready-to-eat foodstuffs."
+    },
+    {
+      "is_number": "IS 1070 : 2023",
+      "title": "Reagent Grade Water — Specification (fourth revision)",
+      "category": "Material standard",
+      "relevance": "Specifies pure water standards used in laboratory media preparation for conducting microbiological audits on street food samples."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of evaluated safety indices and compliance percentages."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 11816 (Part 3) : 2018",
+      "title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision)",
+      "category": "Pest-Control standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A fellow food and agriculture standard present in the notebook, regulating storage pest-control practices and explicitly mandating compliance with FSSAI pesticide residue limits on stored foodstuffs."
+    },
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A sister post-harvest agricultural standard under Sectional Committee FAD 16, detailing direct and indirect rodent damage survey procedures."
+    },
+    {
+      "is_number": "IS 14133 : 2013",
+      "title": "Beekeeper’s Kit — Specification (First Revision)",
+      "category": "Product Specification",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A sister FAD 3 standard present in the notebook, regulating beekeeping kits, smokers, and accessories."
+    },
+    {
+      "is_number": "IS 1515 : 2013",
+      "title": "Beehives — Specification (Fourth Revision)",
+      "category": "Product Specification",
+      "location": "Same Division Council (FAD)",
+      "relevance": "A companion FAD 3 standard present in the notebook, standardizing Type A, B, and C beehive dimensions."
+    },
+    {
+      "is_number": "IS 7236 : 2013",
+      "title": "Coffee and Coffee Products — Vocabulary (First Revision)",
+      "category": "Nomenclature standard",
+      "location": "Same Division Council (FAD)",
+      "relevance": "Defines standard terms for stimulant crops and processed coffee extracts used in commercial food service."
+    },
+    {
+      "is_number": "IS 12662 (Part 2) : 2025",
+      "title": "Guidelines for Use of Vehicles for Collection and Transportation of Municipal Solid Wastes — Part 2: Maintenance (First Revision)",
+      "category": "Maintenance standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow solid waste standard, regulating transport hygiene and leachate controls, which prevent rodent attraction and vector breeding in municipal food-vending corridors."
+    },
+    {
+      "is_number": "IS 19372 : 2025",
+      "title": "Thermal Processing of Horticulture and Wet Waste — Guidelines",
+      "category": "Operational Guidelines",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow agricultural post-harvest and organic waste management standard, regulating bio-waste decomposition and volume-reduction technologies under Sectional Committee EED 08."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, connections, and weldments for permanent kiosk structures and street-vending hubs."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Food Safety and Hygiene Guidelines (Food and Agriculture / Food Safety)",
+    "certification_status": "Voluntary Code of Practice / Guideline. Since IS 16066 is a procedural code of practice rather than a direct consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product stamp on its own. However, compliance with its checkpoints, water quality rules, and vendor checklists is strictly integrated into the mandatory licensing and registration regulations of the Food Safety and Standards Authority of India (FSSAI) under the Food Safety and Standards (Licensing and Registration of Food Businesses) Regulation, 2011. Additionally, its audit checklist serves as the core evaluation tool used to certify 'Clean Street Food Hubs' under the national Eat Right India movement. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Control Checkpoints and General Sourcing",
+        "detail": "Establishes a systematic 'farm-to-fork' approach, outlining control checkpoints across the food chain to ensure all raw materials, ingredients, and pre-packaged foods are obtained from safe, registered suppliers.",
+        "clause_reference": "Foreword & Clause 4"
+      },
+      {
+        "requirement_type": "Vending Location Criteria",
+        "detail": "Mandates that street food stalls, carts, or kiosks must be situated in clean environments, completely separated and located at safe distances from open sewers, open drains, public toilets, garbage piles, animal stables, or industrial pollution zones to prevent airborne or vector contamination."
+      },
+      {
+        "requirement_type": "Vending Cart / Stall Design",
+        "detail": "Vending carts or kiosks must be constructed from clean, smooth, non-absorbent, and easily washable materials (such as stainless steel, laminated panels, or food-grade plastics). Stalls must be fitted with overhead roofs, canopies, or parasols to protect exposed food from rain, dust, and bird droppings."
+      },
+      {
+        "requirement_type": "Water Potability Requirements",
+        "detail": "Mandates that water utilized for preparing food, mixing beverages, washing raw ingredients, cleaning food contact surfaces, and washing hands/utensils must be strictly potable and meet the physical, chemical, and microbiological parameters specified in IS 10500."
+      },
+      {
+        "requirement_type": "Raw vs. Cooked Food Segregation",
+        "detail": "Requires complete physical separation between raw food ingredients and cooked/ready-to-eat foods to prevent cross-contamination. Separate cutting boards, knives, and prep surfaces must be marked and maintained for raw meats/vegetables and cooked items."
+      },
+      {
+        "requirement_type": "Temperature Control during Storage and Holding",
+        "detail": "Enforces strict temperature-holding thresholds. Perishable raw materials must be refrigerated below 5°C, and hot cooked food held for serving must be kept at temperatures above 60°C to inhibit bacterial proliferation."
+      },
+      {
+        "requirement_type": "Utensils and Serving Materials Safety",
+        "detail": "Utensils, plates, and cooking equipment must be of food-grade materials, free from cracks, rust, or deep scratches. Strictly prohibits using newspapers, recycled printed paper, or toxic plastics for wrapping or serving food."
+      },
+      {
+        "requirement_type": "Personal Hygiene Standards",
+        "detail": "Food handlers must wear clean clothing, protective light-coloured aprons, and hair nets or caps. Hands must be thoroughly washed with soap and potable water before starting work, after using toilets, and after handling raw waste."
+      },
+      {
+        "requirement_type": "Prohibited Personal Habits",
+        "detail": "Strictly prohibits unhygienic personal habits at the vending site, including spitting, smoking, chewing pan or tobacco, nose-picking, and coughing/sneezing over exposed food."
+      },
+      {
+        "requirement_type": "Vendor Medical Examinations",
+        "detail": "Mandates that all food handlers undergo periodic medical examinations to certify they do not suffer from skin infections, open cuts, discharging wounds, tuberculosis, cholera, or any other communicable/foodborne diseases."
+      },
+      {
+        "requirement_type": "Sanitary Waste Disposal and covered bins",
+        "detail": "Separate, leak-proof, covered trash bins must be provided on or near the vending cart to collect wet (biodegradable) and dry (non-biodegradable) waste. Waste must be disposed of daily in designated municipal garbage bins, keeping the vending site clean and free of litter."
+      },
+      {
+        "requirement_type": "Audit Checklist and Grading System",
+        "detail": "Provides a comprehensive, standardized audit checklist and grading sheet for local health authorities. Compliance scores are calculated to assign hygiene grades, supporting official sanitary certifications and clean-hub recognitions."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 16066 : 2017",
+    "Street Food Vendors",
+    "Food Safety Requirements",
+    "Food Hygiene",
+    "Water Potability",
+    "IS 10500",
+    "FAD 15",
+    "Eat Right India",
+    "Vending Carts",
+    "Personal Hygiene",
+    "Cross-Contamination",
+    "Waste Disposal",
+    "Audit Checklist"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 16066 : 2017 (First Revision) is the national Indian Standard establishing food safety and hygiene requirements for street food vendors. Developed by the FAD 15 Sectional Committee, this code of practice unifies safety guidelines for mobile and fixed street-vending operations across India. It mandates clean, covered cart designs, safe stall positioning away from sewers and garbage, the exclusive use of IS 10500-compliant potable water, and strict personal hygiene (including hair nets, aprons, and health certificates). By separating raw and cooked foods, prohibiting unhygienic practices, enforcing covered waste bins, and introducing a standardized audit checklist, the standard serves as the technical baseline for certifying clean street food hubs under FSSAI's 'Eat Right India' initiative."
+  },
+  "source_information": {
+    "source_pdf_filename": "16066_2017_reff2022.pdf",
+    "document_version_edition": "First Revision, March 2017"
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "basic_identification": {
+    "is_number": "IS 8073 : 2026",
+    "full_title": "Treatment and Disposal of Steel Plant Effluents — Guidelines (First Revision)",
+    "sector_category": "Environment and Ecology / Water Pollution Control (approved by the newly established Environment and Ecology Division Council and finalized by the Water Pollution Control Sectional Committee, EED 03, of the Bureau of Indian Standards)",
+    "ics_code": "13.060.25",
+    "sectional_committee": {
+      "name": "Water Pollution Control Sectional Committee",
+      "number": "EED 03"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies guidelines, technical criteria, and treatment methods for managing, segregating, treating, and safely disposing of various effluent and wastewater streams generated during steel plant operations (including coke ovens, blast furnaces, steelmaking furnaces, rolling mills, and pickling lines) to enable in-plant recycling and prevent environmental pollution.",
+    "clause_number": "Clause 1 / Foreword",
+    "page_number": "Page 11 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 2026",
+    "year_first_published": "Not explicitly stated in excerpts (first revision established in March 2026)",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "Prior to 2026"
+      },
+      {
+        "edition": "First Revision",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "Prior edition of IS 8073",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2026 revision (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10044 : 2025",
+      "title": "Treatment and Disposal of Effluents of Petroleum Refining Industry — Guidelines (First Revision)",
+      "category": "Product / Effluent Specification",
+      "location": "Parallel Sectional Committee EED 02",
+      "relevance": "A sister heavy-industry wastewater treatment standard present in the notebook, regulating effluent segregation, chemical neutralization, and oil separation."
+    },
+    {
+      "is_number": "IS 12002 : 2025",
+      "title": "Control of Air Pollution in Cement Plants — Code of Practice (First Revision)",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow heavy-industry pollution control standard present in the notebook, regulating emissions, co-processing, and in-built scrubbing technologies."
+    },
+    {
+      "is_number": "IS 14031 : 2025",
+      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "Establishes environmental condition (ECI) and operational performance indicators (OPI) to monitor and evaluate industrial effluent footprints."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for industrial waste reservoirs, clarification ponds, and settling basins to prevent toxic seepage into local aquifers."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies high-strength woven geobags used to reinforce shorelines, line drainage channels, and construct protective dykes around settling basins."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support frames, connection weldments, and gantry details where heavy clarifiers, sedimentation tanks, and piping networks are anchored."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural Guidelines / Code of Practice (Environmental Protection / Water Pollution Control)",
+    "certification_status": "Voluntary Procedural and Guidelines Standard. Although IS 8073:2026 is an engineering code of practice and operational guideline rather than a direct consumer product carrying an individual mandatory BIS 'ISI Mark' product stamp, its structural requirements, segregation strategies, chemical neutralizing schemes, and biological treatments are legally enforced across India by the Central Pollution Control Board (CPCB) and State Pollution Control Boards (SPCBs). Compliance is mandatory to secure and maintain a steel plant's statutory Consent to Operate (CTO) and Consent to Establish (CTE). Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Effluent Segregation Strategy",
+        "detail": "Because treating all waste streams to a quality suitable for in-plant recirculation is economically unviable, plants must strictly segregate cooling water streams and less contaminated wastes from highly contaminated process wastes.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Concrete and Metal Corrosion Mitigation",
+        "detail": "In all treatment cases, the potential for effluents to cause chemical corrosion of steel plant metals and concrete structures must be eliminated through active treatments, including super-phosphate (phosphatization) and lime (alkalization).",
+        "clause_reference": "Table 6 & Table 7 Notes"
+      },
+      {
+        "requirement_type": "Blast Furnace Gas-Cleaning Treatment",
+        "detail": "Wastewater from blast furnace gas cleaning and cooling must be treated by plain sedimentation in horizontal-flow sedimentation tanks (without coagulants) to reduce suspended solids (SS) to standard limits (e.g., 10 mg/l).",
+        "clause_reference": "Table 7"
+      },
+      {
+        "requirement_type": "Pickle Liquor Recovery and Neutralization",
+        "detail": "Spent pickle liquor from acid pickling lines must be chemically regenerated or neutralized with lime. Adding lime and air under controlled temperature and aeration conditions oxidizes ferrous hydroxide into rapidly settling and insoluble ferric hydroxide. Acid and copperas (ferrous sulphate heptahydrate) must be recovered from pickle liquor to the maximum extent economically possible.",
+        "clause_reference": "Table 8, Clauses 6.6.1, 6.6.2 & 7.6"
+      },
+      {
+        "requirement_type": "Acid Sludge Secured Disposal",
+        "detail": "Acid sludge generated from by-product plants is classified as hazardous waste and must be safely disposed of in a Secured Land Fill (SLF).",
+        "clause_reference": "Table 8"
+      },
+      {
+        "requirement_type": "Caustic Wash Incineration",
+        "detail": "Caustic wash waste generated from by-product plants must be disposed of via incineration.",
+        "clause_reference": "Table 8"
+      },
+      {
+        "requirement_type": "Spent Brine Reclamation",
+        "detail": "Brine wastewater from ion exchange resin regeneration must either be chemically reclaimed or discharged via highly controlled release to wastewater streams.",
+        "clause_reference": "Table 8"
+      },
+      {
+        "requirement_type": "Degreasing Cleaners Segregation",
+        "detail": "Spent cleaners utilized in surface treatment and degreasing must be segregated for oil breakout or incineration.",
+        "clause_reference": "Table 8"
+      },
+      {
+        "requirement_type": "Phosphorus Nutrient Supplementation",
+        "detail": "Coke oven wastes are rich in nitrogen but relatively low in phosphorus. Because phosphorus is required to the extent of approximately 1 percent of the Biochemical Oxygen Demand (BOD) for microbial growth, phosphorus must be supplemented during biological coke oven waste treatment.",
+        "clause_reference": "Clause 6.2.5 & Clause 7.5"
+      },
+      {
+        "requirement_type": "Phenol Oxygen and Sludge Controls",
+        "detail": "Phenolic substances in coke oven waste demand high levels of dissolved oxygen (2 mg to 25 mg of oxygen per milligram of phenol). Biological systems must maintain adequate oxygen supplies, and plants must provide dedicated handling facilities for the substantial quantities of excess sludge generated.",
+        "clause_reference": "Clause 6.2.6"
+      },
+      {
+        "requirement_type": "Scale Pit Dredging and Turbulence Control",
+        "detail": "Settled scale from rolling mill wastewater must be dredged from scale pits using buckets or drag-out conveyors. To prevent scale from passing over the weir, turbulent conditions must be minimized by shutting down the specific compartment of the scale pit being cleaned.",
+        "clause_reference": "Clause 6.5.2"
+      },
+      {
+        "requirement_type": "Fly Ash Slurry Settling",
+        "detail": "Slurry containing fly ash from power plants must be pumped to settling basins or low-lying dyked areas. The supernatant water can be reused or discharged, but the raw slurry must never be discharged directly into streams or freshwater lakes.",
+        "clause_reference": "Clause 6.7.2"
+      },
+      {
+        "requirement_type": "Ammonia and Phenol Recovery",
+        "detail": "Ammonia and phenols must be recovered from coke oven waste to the maximum extent economically possible. The remaining wastewater can be treated in an extended aeration activated sludge process working on a complete mixing system.",
+        "clause_reference": "Clause 7.5"
+      },
+      {
+        "requirement_type": "Phenolic Waste Dilution and Filtration",
+        "detail": "If raw sewage or dilution water is available, coke oven waste can be diluted to a phenol concentration below 200 mg/l and treated in a trickling filter.",
+        "clause_reference": "Clause 7.5"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 8073 : 2026",
+    "Steel Plant Effluents",
+    "Wastewater Treatment",
+    "Effluent Segregation",
+    "Coke Oven Waste",
+    "Blast Furnace Gas Cleaning",
+    "Pickle Liquor Neutralization",
+    "Phenol Recovery",
+    "Activated Sludge Process",
+    "Acid Sludge SLF",
+    "Scale Pit Dredging",
+    "Fly Ash Basin",
+    "EED 03"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 8073 : 2026 (First Revision) is the mandatory national Indian Standard code of practice specifying guidelines for the treatment, recirculation, and disposal of effluents originating from integrated iron and steel plants. Formulated by the Water Pollution Control Sectional Committee (EED 03), this standard regulates the segregation of highly contaminated process streams from cooling waters to facilitate cost-effective in-plant recycling. It establishes strict handling and treatment rules for hazardous coke oven, pickling, and gas-cleaning wastes—mandating the chemical neutralization and regeneration of spent pickling acids, the recovery of ammonia and phenols, phosphorus nutrient supplementation for biological aeration, and safe land or incineration disposal for hazardous sludges and caustic washes to satisfy national pollution control limits."
+  },
+  "source_information": {
+    "source_pdf_filename": "8073_2026.pdf",
+    "document_version_edition": "First Revision, March 2026"
+  }
+}

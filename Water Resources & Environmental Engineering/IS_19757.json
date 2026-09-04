@@ -1,0 +1,168 @@
+{
+  "basic_identification": {
+    "is_number": "IS 19757 : 2026",
+    "full_title": "Alternative Drinking Water Service Provision During a Crisis — Guidelines (आपदा के दौरान वैकल्पिक पेयजल सेवा प्रावधान — दिशानिर्देश)",
+    "sector_category": "Environment and Ecology / Water Supply and Services (approved by the newly established Environment and Ecology Division Council and finalized by the Water Supply, Wastewater, And Stormwater Systems And Services Sectional Committee, EED 04, of the Bureau of Indian Standards)",
+    "ics_code": "13.060.20; 03.080.30",
+    "sectional_committee": {
+      "name": "Water Supply, Wastewater, And Stormwater Systems And Services Sectional Committee",
+      "number": "EED 04"
+    }
+  },
+  "scope": {
+    "summary": "This standard provides comprehensive guidelines, planning frameworks, and operational strategies on Alternative Drinking Water Service (ADWS) provision during a crisis. It covers any event or situation that disrupts a utility's normal piped water distribution and demands more than usual operational arrangements, establishing a unified emergency response framework for the general population, essential facilities (hospitals, schools), and temporary settlements (relief and evacuation camps).",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Edition, June 2026",
+    "year_first_published": "2026",
+    "revision_history": [
+      {
+        "edition": "First Edition (officially adopted as a new dedicated national code of practice to standardize alternative water service provision under the newly formed Environment and Ecology Department of BIS)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "None",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2026 standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 17392 : 2023",
+      "title": "Disaster Management in Drinking Water Utility — Requirements (First Revision)",
+      "category": "Management System Standard",
+      "relevance": "Provides the disaster management framework, crisis triggers, and standard water quantity allocation quotas that the ADWS must conform to during disruptions."
+    },
+    {
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water — Specification (Second Revision)",
+      "category": "Quality Specification",
+      "relevance": "Enforces the mandatory national chemical, biological, and physical water quality norms that alternative water assets must satisfy to ensure safety."
+    },
+    {
+      "is_number": "IS 17390 : 2020",
+      "title": "Service Activities Relating to Drinking Water Supply Systems and Wastewater Systems — Crisis Management — Good Practice for Technical Aspects",
+      "category": "Operating Guidelines",
+      "relevance": "Provides technical best practices for water utility operations and system recoveries during crisis states."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 19756 : 2026",
+      "title": "Benchmarking of Environmental Monitoring Services — Guidelines",
+      "category": "Product / Operating Specification",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow water-system and environmental services benchmarking standard present in the notebook, specifying metrics to evaluate utility competence."
+    },
+    {
+      "is_number": "IS 14031 : 2025",
+      "title": "Environmental Management — Environmental Performance Evaluation — Guidelines (First Revision)",
+      "category": "System standard",
+      "location": "Notebook Co-source",
+      "relevance": "Establishes environmental condition (ECI) and operational performance indicators (OPI) to monitor and evaluate overall municipal and crisis-response footprints."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates fluid flow measurement instruments used in open waterways and reservoirs where alternative water resources are collected."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for rainwater harvesting basins, raw water containment ponds, and emergency settling lagoons."
+    },
+    {
+      "is_number": "IS 16654 : 2017",
+      "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies woven geobag configurations used to protect temporary points of distribution (TPDs) near floodplains or rivers."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel design and construction code in India, regulating support framing, gantry platforms, and connection detailing for static water tanks, mobile treatment units, and elevated gantry frameworks."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Technical Guidelines (Environment and Ecology / Water Services)",
+    "certification_status": "Voluntary Code of Practice. Since IS 19757:2026 is an operational guideline and code of practice rather than a physical consumer material, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its planning frameworks, 36-hour trigger rules, water-seal safety measures, and water quality quotas is highly recommended for municipal corporations, water supply boards (such as DJB or BWSSB), and state disaster management authorities (SDMAs). It is legally incorporated into public utility tenders, emergency water supply contracts, and disaster preparedness checklists across India to ensure public safety during water system failures. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Definition of Crisis Situation",
+        "detail": "Defines a water crisis as any natural, technical, or human-induced event that disrupts a utility's normal piped water distribution and demands more than usual operational arrangements or emergency structures to manage."
+      },
+      {
+        "requirement_type": "36-Hour Operational Trigger Rule",
+        "detail": "Mandates that where an operational interruption or breakdown in normal piped distribution exceeds or is projected to exceed 36 hours, the drinking water utility must immediately ensure Alternative Drinking Water Service (ADWS) provision."
+      },
+      {
+        "requirement_type": "Authorized and Disinfected Asset Controls",
+        "detail": "Requires that all equipment, vehicles, pipes, and tanks mobilized for ADWS deployment consist only of authorized, thoroughly disinfected assets to prevent waterborne contamination outbreaks."
+      },
+      {
+        "requirement_type": "Quantity and Quality Quota Alignment",
+        "detail": "Alternative water must be supplied at a quota conforming strictly to the quantity norms of IS 17392 (Disaster Management in Drinking Water Utility) and the biological, chemical, and physical quality norms of IS 10500 (Indian Standard for Drinking Water)."
+      },
+      {
+        "requirement_type": "Approach 1: Existing Network Non-Conventional Use",
+        "detail": "Details the non-conventional use of existing distribution networks as an emergency approach, incorporating temporary standpipes, water tanker recharge into mains, and operating networks at lowered pressure."
+      },
+      {
+        "requirement_type": "Approach 2: Temporary Points of Distribution (TPDs)",
+        "detail": "Establishes independent Temporary Points of Distribution (TPDs) established independently of the network, requiring sites to be selected based on rigorous standards of hygiene, accessibility, load capacity, safety, and the needs of vulnerable users."
+      },
+      {
+        "requirement_type": "Pre-Planning Disruption Scenarios",
+        "detail": "Mandates that utilities proactively model and pre-plan disruption scenarios, secure standby contracts, and maintain mobilization resource sheets before a crisis occurs."
+      },
+      {
+        "requirement_type": "Dual-Phase Communication Program",
+        "detail": "Prescribes a structured communication plan for informing users and stakeholders both before and during a crisis, detailing ADWS deployment timings, distribution locations, and appropriate water hygiene behavior."
+      },
+      {
+        "requirement_type": "Ten Approved Implementation Methods",
+        "detail": "Approves ten specific implementation pathways for crisis water delivery: static water tanks, containerized water, bottled water, fixed water resources, automated water transaction machines, mutual aid from neighboring utilities, mobile treatment units, community water points, and rainwater harvesting."
+      },
+      {
+        "requirement_type": "Vulnerable User Support (Annex B)",
+        "detail": "Annex B provides mandatory practical guidelines on managing layouts for TPD sites and supporting vulnerable users with special needs (such as elderly, disabled, or isolated populations) during water collection."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 19757 : 2026",
+    "Alternative Drinking Water",
+    "ADWS",
+    "Crisis Management",
+    "Water Utility",
+    "Disaster Management",
+    "Temporary Points of Distribution",
+    "TPD Site Selection",
+    "36 Hour Trigger",
+    "Disinfected Assets",
+    "IS 17392",
+    "IS 10500",
+    "EED 04"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 19757 : 2026 is the newly established national Indian Standard code of practice specifying guidelines for alternative drinking water service (ADWS) provision during crises. Formulated under the Water Supply, Wastewater, And Stormwater Systems And Services Sectional Committee (EED 04), this standard regulates emergency responses when normal piped water distributions fail. It mandates an immediate ADWS trigger if outages exceed 36 hours, requires using only sanitized assets, and enforces supply quotas aligned with IS 17392 (quantity) and IS 10500 (quality). It details existing network modifications and independent Temporary Points of Distribution (TPDs), site selection criteria for vulnerable users, and structured crisis communication plans to ensure public health and water security."
+  },
+  "source_information": {
+    "source_pdf_filename": "19757_2026.pdf",
+    "document_version_edition": "First Edition, June 2026"
+  }
+}

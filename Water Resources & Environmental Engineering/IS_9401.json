@@ -1,0 +1,234 @@
+{
+  "basic_identification": {
+    "is_number": "IS 9401 (Part 12) : 2026",
+    "full_title": "Methods of Measurement of Work in River Valley Projects (Dams and Appurtenant Structures) — Part 12: Topographical Surveys (नदी घाटी परयोजनाओ ंमें कायर्  मापन क पद्धित (बाँध और संबंिधत संरचनाए)ँ भाग 12 स्थलाकृितक सवक्षण) (First Revision)",
+    "sector_category": "Water Resources / Civil & Dam Work Measurement (approved by the Water Resources Division Council and finalized by the Measurement and Cost Analysis of Works for River Valley Projects Sectional Committee, WRD 23, of the Bureau of Indian Standards)",
+    "ics_code": "93.160",
+    "sectional_committee": {
+      "name": "Measurement and Cost Analysis of Works for River Valley Projects Sectional Committee",
+      "number": "WRD 23"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies standard methods, billing frameworks, and technical criteria for measuring topographical survey work (including alignments of canals, drains, highways, and cross-section surveys) performed in river valley projects to ensure contractual transparency and uniform cost analysis.",
+    "clause_number": "Clauses 4.2 & 4.3",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, 2026 (developed to integrate modern total station, GIS-based, and computerized surveying measurement systems into standard river valley contract billing frameworks)",
+    "year_first_published": "Prior to 2026 (first revision established in 2026)",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "Prior to 2026"
+      },
+      {
+        "edition": "First Revision (IS 9401 (Part 12) : 2026)",
+        "year": "2026"
+      }
+    ],
+    "supersedes": "Prior edition of IS 9401 (Part 12)",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established 2026 standard (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 5497 : 2008",
+      "title": "Guide to topographical surveys for river valley projects (second revision)",
+      "category": "Survey Guidelines",
+      "relevance": "Provides technical specifications, contour intervals, and boundary accuracy parameters that the field measurements under IS 9401 must satisfy."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of surveyed dimensions and coordinate boundaries to determine compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 10386 (Part 11) : 2026",
+      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
+      "category": "Safety Code",
+      "location": "Water Resources Division",
+      "relevance": "A fellow river valley development standard present in this notebook, regulating underground geotechnical and safety controls."
+    },
+    {
+      "is_number": "IS 16115 : 2013",
+      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
+      "category": "Evaluation standard",
+      "location": "Notebook Co-source",
+      "relevance": "Uses topographical index maps (recommending a 1 : 250 000 scale) and canal network layout maps to execute post-completion performance evaluations."
+    },
+    {
+      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
+      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
+      "category": "Terminology standard",
+      "location": "Notebook Co-source",
+      "relevance": "Provides standard hydrological definitions (such as water years, torrents, and freshets) to maintain consistency across project survey reports."
+    },
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates fluid flow measurement instruments used in open channels, which are aligned with topographical benchmarks surveyed under IS 9401."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for raw water reservoirs and canals designed in accordance with cross-sections surveyed under IS 9401."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for hydraulic gates, trash racks, and penstock anchors."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Procedural and Measurement Code of Practice (Water Resources Department)",
+    "certification_status": "Voluntary Measurement Code. Since IS 9401 (Part 12) is a standard method of measurement and quantity auditing rather than a physical consumer product, it does not carry an individual BIS 'ISI Mark' product stamp. However, its use is strictly mandated by the Central Water Commission (CWC), state water resources departments, public sector utilities (such as NHPC, BBMB, THDC, WAPCOS, SJVN), and civil auditing boards across India. It is universally incorporated into commercial tender specifications, construction contracts, and billing schedules of public works to determine contractors' payments, measure physical excavation quantities, and prevent contractual disputes. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Linear Basis of Measurement",
+        "detail": "Mandates that topographical measurements, specifically cross-section surveys, must be carried out and recorded on a standardized linear basis (e.g., per running metre or kilometre)."
+      },
+      {
+        "requirement_type": "Scope of Survey Targets",
+        "detail": "Specifies that the topographical and cross-sectional surveys must cover and map specific key features, including alignments of canals, natural drainages, highways, and other similar linear elements of the river valley project."
+      },
+      {
+        "requirement_type": "Technical Work Itemization (Clauses 3.4 & 4.3)",
+        "detail": "Cross-sectional measurements must comprehensively include all individual work items, pegging, benchmarking, leveling, and clearance activities as specified under Clause 3.4 of the standard."
+      },
+      {
+        "requirement_type": "Survey Scale Integration",
+        "detail": "Integrates topographical surveying techniques and scales with the guidelines of IS 5497 to ensure appropriate contour resolutions and surveying accuracies are maintained across the project command."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 9401 (Part 12) : 2026",
+    "River Valley Projects",
+    "Topographical Surveys",
+    "Cross Section Survey",
+    "Alignment Survey",
+    "Linear Measurement",
+    "Canal Alignment",
+    "Dams and Appurtenant Structures",
+    "Cost Analysis",
+    "Quantity Auditing",
+    "WRD 23",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 9401 (Part 12) : 2026 is the national Indian Standard establishing standard methods of measurement for topographical surveys in river valley projects, specifically for dams and appurtenant structures. Prepared by the WRD 23 committee, this standard provides a uniform technical framework to measure and bill surveying activities (such as cross-section and alignment surveys for canals, drains, and highways) on a linear basis. It serves as a vital contractual and quantity auditing code across major hydropower and irrigation projects in India, ensuring that all cost analysis and quantity auditing practices remain objective, transparent, and consistent with modern surveying technology."
+  },
+  "author_committee_attribution": {
+    "chairperson": "SHRI UPENDRA HAJRA",
+    "sectional_committee": "Measurement and Cost Analysis of Works for River Valley Projects Sectional Committee (WRD 23)",
+    "committee_members": [
+      {
+        "organization": "NHPC Ltd, Faridabad",
+        "representatives": ["Shri Upendra Hajra (Chairperson)", "Ms Swati Garg", "Ms Renu Bhadrasen (Alternate I)", "Shri Anil Singh Bhandari (Alternate II)"]
+      },
+      {
+        "organization": "Bhakra Beas Management Board, Chandigarh",
+        "representatives": ["Shri Rajesh Gupta", "Shri V. K. Gupta (Alternate)"]
+      },
+      {
+        "organization": "Central Board of Irrigation and Power, New Delhi",
+        "representatives": ["Shri K. K. Singh", "Shri Kamal Kumar (Alternate)"]
+      },
+      {
+        "organization": "Central Electricity Authority, New Delhi",
+        "representatives": ["Shri Manoj Tripathi", "Shri Bharat Gupta (Alternate)"]
+      },
+      {
+        "organization": "Central Water Commission, New Delhi",
+        "representatives": ["Shri Kiran Pramanik", "Shri Ajay Shivlal Banode (Alternate)"]
+      },
+      {
+        "organization": "DMR Hydro Engineering and Infrastructures Limited",
+        "representatives": ["Shri K. K. Gupta", "Shri B. B. N. Subudhi (Alternate)"]
+      },
+      {
+        "organization": "Energy Infratech, Gurugram",
+        "representatives": ["Shri Manoj Kumar Gupta", "Shri Pramod Chand Tiwari (Alternate I)", "Shri Sudheer Kumar Singh (Alternate II)"]
+      },
+      {
+        "organization": "Ferro Concrete Co (I) Pvt Ltd, Indore",
+        "representatives": ["Dr Mahavir Bidasaria", "Shri Anupam Bidasaria (Alternate)"]
+      },
+      {
+        "organization": "Indian Institute of Technology, Roorkee (WRDM)",
+        "representatives": ["Prof Gopal Chauhan"]
+      },
+      {
+        "organization": "Irrigation Department, Govt of Kerala",
+        "representatives": ["Shri K. A. Joshy"]
+      },
+      {
+        "organization": "Irrigation Research Institute, Roorkee",
+        "representatives": ["Shri Sudhir Kumar", "Shri Shankar Kumar Saha (Alternate)"]
+      },
+      {
+        "organization": "Karnataka Power Corporation Limited, Bengaluru",
+        "representatives": ["Shri Chinnasomaiah"]
+      },
+      {
+        "organization": "Larsen & Toubro Construction India Ltd, New Delhi",
+        "representatives": ["Shri Sanjay Pajni", "Shri Sravan Kumar Meghavarupu (Alternate)"]
+      },
+      {
+        "organization": "NTPC Ltd, Noida",
+        "representatives": ["Shri Shailendra Kumar Pandey", "Shri Jagat Singh Yadav (Alternate)"]
+      },
+      {
+        "organization": "Sardar Sarovar Narmada Nigam Ltd, Gandhi Nagar",
+        "representatives": ["Shri K. B. Parmar", "Shri V. K. Gupta (Alternate)"]
+      },
+      {
+        "organization": "Satluj Jal Vidyut Nigam Ltd, Shimla",
+        "representatives": ["Shri M. C. Verma", "Shrimati Priyanka Bhatia (Alternate)"]
+      },
+      {
+        "organization": "THDC Ltd, Rishikesh",
+        "representatives": ["Shri Mukesh Kr Verma", "Shri K. M. S Rawat (Alternate)"]
+      },
+      {
+        "organization": "WAPCOS Ltd, New Delhi",
+        "representatives": ["Shri Anupam Mishra", "Shri Amitabh Tripathi (Alternate)"]
+      },
+      {
+        "organization": "Water Resources Department Madhya Pradesh, Bhopal",
+        "representatives": ["Shri Vinod Kumar Dewada"]
+      },
+      {
+        "organization": "Water Resources Department Punjab, Chandigarh",
+        "representatives": ["Shri Sukhjit Singh Buller"]
+      },
+      {
+        "organization": "Water Resources Development Organization, Bengaluru",
+        "representatives": ["Shri Satish M."]
+      },
+      {
+        "personal_capacity": ["Shri H. L. Arora, Noida"]
+      },
+      {
+        "bis_directorate_general": ["Shri Dushyant Prajapati, Scientist ‘E’/Director and Head (Water Resources)"]
+      },
+      {
+        "member_secretary": ["Shri Vaibhav Yadav, Scientist ‘C’/Deputy Director (Water Resources), BIS"]
+      }
+    ]
+  },
+  "source_information": {
+    "source_pdf_filename": "9401_12_2026.pdf",
+    "document_version_edition": "First Revision, 2026"
+  }
+}

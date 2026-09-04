@@ -1,0 +1,150 @@
+{
+  "basic_identification": {
+    "is_number": "IS 11816 (Part 3) : 2018",
+    "full_title": "Storage of Cereals and Pulses — Part 3: Control of Attack by Pests (First Revision) (अनाज एवं दालों का भंडारण — भाग 3: कीट द्वारा हमलों का नियंत्रण (पहला पुनरीक्षण))",
+    "sector_category": "Food and Agriculture / Post-Harvest Management and Grain Storage (approved by the Food and Agriculture Division Council and finalized by the Foodgrains, Allied Products and Other Agricultural Produce Sectional Committee, FAD 16, of the Bureau of Indian Standards)",
+    "ics_code": "67.060",
+    "sectional_committee": {
+      "name": "Foodgrains, Allied Products and Other Agricultural Produce Sectional Committee",
+      "number": "FAD 16"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies standard guidelines, limiting and optimum environmental thresholds, operational control criteria, and regulatory parameters for controlling attacks by vertebrate and invertebrate pests on stored cereals and pulses in India.",
+    "clause_number": "Clause 1 (specifically 1.1 and 1.2)",
+    "page_number": "Page 1 of Part 3 base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, August 2018 (Reaffirmed 2023)",
+    "year_first_published": "1986 (originally developed in 1986 taking guidance from ISO 6322-3 : 1981, and updated to first revision in 2018 taking considerable assistance from ISO 6322-3 : 1989)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 11816 (Part 3) : 1986)",
+        "year": "1986"
+      },
+      {
+        "edition": "First Revision (IS 11816 (Part 3) : 2018)",
+        "year": "2018"
+      }
+    ],
+    "supersedes": "IS 11816 (Part 3) : 1986",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "IS 11816 (Part 1)",
+      "title": "Storage of cereals and pulses: Part 1 General consideration in keeping cereals",
+      "category": "Operational Guidelines",
+      "relevance": "Provides baseline physical and ventilation criteria for constructing and managing grain storage sites."
+    },
+    {
+      "is_number": "IS 11816 (Part 2)",
+      "title": "Storage of cereals and pulses: Part 2 Essential requirements",
+      "category": "Operational Guidelines",
+      "relevance": "Defines essential moisture limits, bagging standards, and physical requirements for safe storage."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 11261 (Part 1 & Part 2) : 1985",
+      "title": "Methods for Assessment of Post-Harvest Grain Losses by Rodents",
+      "category": "Assessment standard",
+      "location": "Same Sectional Committee FAD 16",
+      "relevance": "A fellow post-harvest grain-protection standard, defining direct and indirect population assessments to calculate rodent-inflicted economic losses."
+    },
+    {
+      "is_number": "IS 16115 : 2013",
+      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
+      "category": "Evaluation standard",
+      "location": "Notebook Co-source",
+      "relevance": "Uses standard data collection and performance benchmarking to audit completed agricultural commands, including reviewing the security of storage infrastructure."
+    },
+    {
+      "is_number": "IS 13668 : 1993",
+      "title": "Guidelines for Fixing Intensity of Irrigation",
+      "category": "Planning standard",
+      "location": "Notebook Co-source",
+      "relevance": "A companion agricultural planning standard defining water duty and commanded-area cropping baselines that dictate seasonal grain storage volumes."
+    },
+    {
+      "is_number": "IS 13739 : 1993",
+      "title": "Guidelines for Estimation of Flood Damages",
+      "category": "Disaster economics",
+      "location": "Notebook Co-source",
+      "relevance": "Defines data collection protocols to calculate flood-induced crop losses, which are integrated with pest-induced losses during public disaster audits."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier sheets used to line containment structures, preventing subterranean water seepage and burrowing pest intrusion."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, panel thickness, and connection detailing for steel storage silos and grain bins to ensure they are structurally rodent- and bird-proof."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Design and Operational Guidelines (Food and Agriculture / Post-Harvest Management)",
+    "certification_status": "Voluntary Code of Practice. Since IS 11816 (Part 3) is an operational guideline and code of practice for pest control rather than a physical consumer product, it does not carry a mandatory BIS 'ISI Mark' product stamp. However, compliance with its pest exclusion rules, insect multiplication curves, and FSSAI pesticide residue limits is strictly mandated in public sector grain storage and procurement tenders (issued by the Food Corporation of India (FCI), Central Warehousing Corporation (CWC), and state warehousing agencies) across India to safeguard national buffer stocks. Precious metal hallmarking is completely inapplicable.",
+    "requirements": [
+      {
+        "requirement_type": "Bird and Rodent Exclusion Criteria",
+        "detail": "Recognizes that the ability of birds, rats, mice, and other rodents to feed on grain is not limited by the quality or condition of the grain but only by its physical accessibility, mandating structural exclusion measures.",
+        "clause_reference": "Clause 2.1.1"
+      },
+      {
+        "requirement_type": "Pesticide Residue Safety Limits",
+        "detail": "Pest control regulations and chemical applications must strictly take into account and comply with the recommendations of the Food Safety and Standards Authority of India (FSSAI) regarding limits for pesticide residues in food.",
+        "clause_reference": "Clause 3 / c)"
+      },
+      {
+        "requirement_type": "Pre-Harvest Field Infestation Control",
+        "detail": "Requires implementing specific controls to manage pre-harvest field infestations caused by storage insects (primarily Sitotroga cerealella and Sitophilus zea-mais) flying from warehouses to lay eggs on ripening crops, which particularly impacts hybrid maize with short sheath leaves.",
+        "clause_reference": "Clause 3.2.2.1"
+      },
+      {
+        "requirement_type": "Pest Temperature and Humidity Boundaries (Appendix A)",
+        "detail": "Establishes specific minimum, optimum, and maximum temperature and relative humidity parameters governing the population multiplication rates of stored grain pests to guide aeration and temperature controls:\na) Australian spider beetle (Ptinus tectus): Min Temp 10°C, Min RH 50%, Opt Temp 23-25°C, Opt RH 70%, Multiplication: 4x/month;\nb) Lesser grain borer (Rhizopertha dominica): Min Temp 23°C, Min RH 30%, Opt Temp 32-35°C, Opt RH 50%, Multiplication: 20x/month;\nc) Grain weevil (Sitophilus granarius): Min Temp 15°C, Min RH 50%, Opt Temp 26-30°C, Opt RH 70%, Multiplication: 15x/month;\nd) Rice weevil (Sitophilus oryzae): Min Temp 17°C, Min RH 60%, Opt Temp 27-31°C, Opt RH 70%, Multiplication: 25x/month.",
+        "clause_reference": "Appendix A (Clauses 3.3.3.4 & 3.4.1)"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated test or analysis value expressing moisture content, temperature, humidity, or pest counts must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained must be identical to the specified value in the standard.",
+        "clause_reference": "Foreword"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 11816 : 2018",
+    "Storage of Cereals and Pulses",
+    "Pest Control",
+    "Grain Storage",
+    "Vertebrate Pests",
+    "FSSAI Residue Limits",
+    "Rice Weevil",
+    "Lesser Grain Borer",
+    "Australian Spider Beetle",
+    "Sitophilus",
+    "FAD 16",
+    "IS 2 : 1960"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 11816 (Part 3) : 2018 (First Revision) is the national Indian Standard guidelines specifying criteria for controlling pest attacks on stored cereals and pulses. Developed by the FAD 16 Sectional Committee, this standard integrates structural exclusion, chemical safety, and biological temperature/humidity thresholds to protect stored grain. It mandates structural barriers to exclude rodents and birds (whose feeding is limited only by accessibility), requires compliance with FSSAI pesticide residue limits, and outlines precise environmental limits that control the multiplication of destructive insect pests (such as the rice weevil and lesser grain borer) to guide warehouse aeration and sanitation."
+  },
+  "source_information": {
+    "source_pdf_filename": "11816_3_2018_reaff2023.pdf",
+    "document_version_edition": "First Revision, August 2018"
+  }
+}

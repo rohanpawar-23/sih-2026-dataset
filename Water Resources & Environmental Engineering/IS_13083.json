@@ -1,0 +1,181 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13083 : 2017",
+    "full_title": "Hydrometric Determinations — Flow Measurement in Open Channels Using Structures — Flat-V Weirs (पहला पुनरीक्षण) (First Revision)",
+    "sector_category": "Water Resources / Hydrometry (approved by the Water Resources Division Council and finalized by the Hydrometry Sectional Committee, WRD 01, of the Bureau of Indian Standards)",
+    "ics_code": "17.120.20",
+    "sectional_committee": {
+      "name": "Hydrometry Sectional Committee",
+      "number": "WRD 01"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies standard guidelines, design criteria, and operational procedures for using Flat-V weirs to measure the volumetric flow rate (discharge) of liquids in open channels under steady or slowly varying flow conditions in both modular (free flow) and non-modular (drowned flow) ranges.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, November 2017 (Reaffirmed 2022)",
+    "year_first_published": "1991 (originally published under the title 'Liquid flow measurement in open channels — flat-V weirs' and technically equivalent to ISO 4377 : 1990)",
+    "revision_history": [
+      {
+        "edition": "First Edition (IS 13083 : 1991)",
+        "year": "1991"
+      },
+      {
+        "edition": "First Revision (IS 13083 : 2017)",
+        "year": "2017"
+      }
+    ],
+    "supersedes": "IS 13083 : 1991",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this reaffirmed copy (NIL on this copy)."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Rounding standard",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to determine code compliance."
+    },
+    {
+      "is_number": "IS 1191 : 2003",
+      "title": "Hydrometric determinations — Vocabulary and symbols (second revision)",
+      "category": "Terminology standard",
+      "relevance": "Provides standardized symbols, subscripts, and technical definitions for open-channel hydrometry."
+    },
+    {
+      "is_number": "IS 12752 : 2013",
+      "title": "Hydrometric Determinations — Flow Measurements in Open Channels Using Structures — Guidelines for Selection of Structure (First Revision)",
+      "category": "Selection guidelines",
+      "relevance": "Assists design engineers in selecting the optimal type of weir or flume based on channel parameters, sediment loads, and cost."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 16091 : 2013",
+      "title": "Measurement of Liquid Flow in Open Channels — Method of Specifying Performance of Hydrometric Equipment",
+      "category": "Performance Specification",
+      "location": "Same Sectional Committee WRD 01",
+      "relevance": "A fellow hydrometry standard present in the notebook, regulating open-channel flow-metering devices and sensor accuracies."
+    },
+    {
+      "is_number": "IS 4410 (Part 11/Sec 1) : 2024",
+      "title": "Glossary of Terms Relating to River Valley Projects — Part 11 Hydrology, Section 1 General Terms (First Revision)",
+      "category": "Terminology standard",
+      "location": "Notebook Co-source",
+      "relevance": "Provides standardized hydrological terms (such as water years, torrents, and freshets) to maintain consistency across project design reports."
+    },
+    {
+      "is_number": "IS 16115 : 2013",
+      "title": "Evaluation of Completed Irrigation Projects (Major and Medium) — Guidelines",
+      "category": "Evaluation standard",
+      "location": "Notebook Co-source",
+      "relevance": "Uses hydrometric stations and weir measurements to evaluate completed irrigation networks and check overall canal water delivery efficiencies."
+    },
+    {
+      "is_number": "IS 9401 (Part 12) : 2026",
+      "title": "Methods of Measurement of Work in River Valley Projects (Dams and Appurtenant Structures) — Part 12: Topographical Surveys (First Revision)",
+      "category": "Measurement Code",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies linear measurement and contract billing procedures for topographical alignments and cross-sections."
+    },
+    {
+      "is_number": "IS 10021 : 2000",
+      "title": "Guidelines for De-icing System for Hydraulic Installations (First Revision)",
+      "category": "Operating standard",
+      "location": "Notebook Co-source",
+      "relevance": "A fellow hydraulic outfitting standard in the notebook, specifying de-icing compressed air bubbler systems to prevent ice accumulation around gates, trash racks, and weirs in freezing climates."
+    },
+    {
+      "is_number": "IS 10386 (Part 11) : 2026",
+      "title": "Safety in Construction, Operation and Maintenance of River Valley Projects — Guidelines — Part 11: Underground Excavation (First Revision)",
+      "category": "Safety Code",
+      "location": "Notebook Co-source",
+      "relevance": "Regulates safety, geological monitoring, and structural supports during underground hydropower tunnel excavations."
+    },
+    {
+      "is_number": "IS 15909 : 2020",
+      "title": "Poly Vinyl Chloride (PVC) Geomembranes for Lining — Specification",
+      "category": "Product Specification",
+      "location": "Notebook Co-source",
+      "relevance": "Specifies impermeable PVC barrier linings for reservoirs, landfills, and canals leading to intake systems."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Design standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master structural steel code in India, regulating support framing, steel gantry assemblies, and connection detailing for hydrometric sensor mounting plates and weather instrumentation towers."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Code of Practice / Design and Operational Guidelines (Water Resources Department / Hydrometry)",
+    "certification_status": "Voluntary Code of Practice. Since IS 13083 is an engineering design and field installation standard rather than a retail consumer product, it does not carry an individual mandatory BIS 'ISI Mark' product certification stamp. However, compliance with its structural dimensions, cross-slopes, and pressure-tapping positions is strictly mandated in public sector tenders for irrigation channels, river gauging stations, and hydrometric networks (issued by the Central Water Commission, state water resources departments, and municipal water authorities) across India to ensure discharge measurement precision and prevent data disputes.",
+    "requirements": [
+      {
+        "requirement_type": "Triangular Weir Profile",
+        "detail": "The standard Flat-V weir structure must have a triangular profile in the direction of flow, featuring an upstream slope of 1 (vertical) : 2 (horizontal) and a downstream slope of 1 (vertical) : 5 (horizontal) to ensure stable flow separation and high modular limits.",
+        "clause_reference": "Characteristics of Flat-V Weirs"
+      },
+      {
+        "requirement_type": "Crest Cross-Slope Restrictions",
+        "detail": "The cross-slope of the crest line shall lie in the range of 0 to 1:10 (shall not be steeper than 1:10). At the limit when the cross-slope is zero, the weir becomes a two-dimensional triangular profile weir.",
+        "clause_reference": "Characteristics of Flat-V Weirs"
+      },
+      {
+        "requirement_type": "Head Measurement Station (Tapping) Position",
+        "detail": "The upstream head measurement tapping (gauge location) must be positioned at a standard distance of 10H' (where H' is the depth of the V) or as specified to ensure it is outside the local drawdown region.",
+        "clause_reference": "Characteristics / Head Measurement"
+      },
+      {
+        "requirement_type": "Design Parameters for Standard Slopes",
+        "detail": "Specifies recommended modular discharge coefficients (CDe), head correction factors (kh), and standard uncertainties based on three standard crest cross-slopes (as shown in Table 4):\na) Slope 1:40 or less: CDe = 0.630 (or 0.625), kh = 0.0004 m (0.4 mm), Uncertainty = 1.25%;\nb) Slope 1:20: CDe = 0.625 (or 0.620), kh = 0.0005 m (0.5 mm), Uncertainty = 1.4%;\nc) Slope 1:10: CDe = 0.620 (or 0.615), kh = 0.0008 m (0.8 mm), Uncertainty = 1.15%.",
+        "clause_reference": "Table 4"
+      },
+      {
+        "requirement_type": "Modular Limit",
+        "detail": "Provides high modular limits typically ranging from 65 percent to 75 percent. The weir can operate accurately without drowned-flow reduction adjustments even when the downstream tailwater level submerges up to 75 percent of the upstream head.",
+        "clause_reference": "Table 4"
+      },
+      {
+        "requirement_type": "Crest Radius Refurbishment",
+        "detail": "The weir crest must be kept clean, sharp, and free from clinging debris. If the mean effective radius of the crest exceeds critical limits, refurbishment is required to prevent significant measurement errors at low flows.",
+        "clause_reference": "Maintenance"
+      },
+      {
+        "requirement_type": "Drowned Flow Range Gauging",
+        "detail": "The Flat-V weir is approved for gauging purposes in the non-modular (drowned) flow range, provided a pressure-recording tapping is physically incorporated directly at the weir crest.",
+        "clause_reference": "General Design Criteria"
+      },
+      {
+        "requirement_type": "Mathematical Rounding Protocol",
+        "detail": "Any observed or calculated analysis value (including discharge rates, velocity heads, and water stages) used to determine compliance must be mathematically rounded off in accordance with IS 2 : 1960. The number of significant places retained must match the standard's specified value."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13083 : 2017",
+    "Hydrometric Determinations",
+    "Flat-V Weirs",
+    "Open Channel Flow",
+    "Discharge Coefficient",
+    "Modular Limit",
+    "Head Correction Factor",
+    "Velocity of Approach",
+    "WRD 01",
+    "Crest Refurbishment"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13083 : 2017 (First Revision) is the national Indian Standard code of practice specifying guidelines for measuring liquid flow in open channels using Flat-V weirs. Formulated under the Hydrometry Sectional Committee (WRD 01) and technically aligned with ISO 4377, this standard provides a comprehensive design framework for installing, calibrating, and maintaining Flat-V weirs in river gauging and canal networks. It specifies a standard triangular weir profile (1:2 upstream and 1:5 downstream slopes), details the crest cross-slope limits (up to 1:10), and defines discharge coefficients, head correction factors (such as 0.4 mm to 0.8 mm), and standard uncertainties (1.15% to 1.4%) for different cross-slopes. It also outlines maintenance requirements and allows flow measurements in drowned-flow conditions using a dedicated crest pressure tapping."
+  },
+  "author_committee_attribution": {
+    "sectional_committee": "Hydrometry Sectional Committee (WRD 01)",
+    "member_secretary": "MR. NAVDEEP YADAV (Scientist ‘C’/Deputy Director, BIS)",
+    "department_head": "SHRI DUSHYANT PRAJAPATI (Scientist ‘E’/Director and Head, Water Resources Department, BIS)"
+  },
+  "source_information": {
+    "source_pdf_filename": "13083_2017_reff2022.pdf",
+    "document_version_edition": "First Revision, November 2017"
+  }
+}
