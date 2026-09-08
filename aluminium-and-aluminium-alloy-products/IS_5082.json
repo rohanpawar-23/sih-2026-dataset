@@ -101,35 +101,35 @@
     {
       "is_number": "IS 733 : 1983",
       "title": "Wrought aluminium and aluminium alloy bars, rods and sections (for general engineering purposes)",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Parallel extruded aluminum standard, sharing matching MTD 7 metallurgical and dimensions framework, present in the notebook."
     },
     {
       "is_number": "IS 1285 : 2002",
       "title": "Wrought aluminium and aluminium alloy extruded round tubes and hollow sections (for general engineering purposes)",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Parallel hollow profile standard co-managed under the Light Metals sectional framework, present in the notebook."
     },
     {
       "is_number": "IS 7092 (Part 2) : 1987",
       "title": "Aluminium Alloy Tube for Irrigation Purposes — Part 2: Extruded Tube",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "A sister standard developed by the same Light Metals and Their Alloys Sectional Committee (MTD 7), present in the notebook."
     },
     {
       "is_number": "IS 5484 : 1997",
       "title": "EC Grade Aluminium Rod produced by Continuous Casting and Rolling",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Standardizes continuously cast electrical-grade aluminum rod prior to drawing into wires."
     },
     {
       "is_number": "IS 737 : 2008",
       "title": "Wrought aluminium and aluminium alloy sheet and strip (for general engineering purposes)",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Parallel flat rolled profile standard co-managed under the Light Metals sectional framework, present in the notebook."
     }

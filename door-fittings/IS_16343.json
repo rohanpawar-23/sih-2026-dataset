@@ -61,42 +61,42 @@
     {
       "is_number": "IS 15351 : 2015",
       "title": "Textiles — Laminated High Density Polyethylene (HDPE) Woven Fabric (Geo-membrane) for Water Proof Lining — Specification",
-      "category": "Allied geosynthetic standard",
+      "category": "Product specification",
       "location": "Parallel geosynthetics group",
       "relevance": "Specifies laminated HDPE geomembranes designed for waterproof lining of canals, ponds, and reservoirs."
     },
     {
       "is_number": "IS 16344 : 2015",
       "title": "Geosynthetics — Guidelines for Installation of Geotextile for Permanent Erosion Control in Hard Armor Systems",
-      "category": "Allied geotextile installation guideline",
+      "category": "Installation / Application standard",
       "location": "Parallel geotextile installation group",
       "relevance": "Sister installation guideline regulating geotextile filters placed under hard armor block systems."
     },
     {
       "is_number": "IS 16345 : 2015",
       "title": "Geosynthetics — Guidelines for Installation of Geotextile used in Sub-Grade Separation in Pavement Structures",
-      "category": "Allied geotextile installation guideline",
+      "category": "Installation / Application standard",
       "location": "Parallel geotextile installation group",
       "relevance": "Sister installation standard specifying geotextiles at sub-grade interfaces to prevent soil mixing."
     },
     {
       "is_number": "IS 16349 : 2015",
       "title": "Geosynthetics — Guidelines for Installation of Geogrids Used as Reinforcement of Base and Sub-Base",
-      "category": "Allied geogrid installation guideline",
+      "category": "Installation / Application standard",
       "location": "Parallel geogrid installation group",
       "relevance": "Sister installation guideline specifying geogrid placement to reinforce road sub-base."
     },
     {
       "is_number": "IS 17070 : 2019",
       "title": "Jute Agrotextiles for Growth of Plants and Suppression of Weeds — Specification",
-      "category": "Allied agricultural textile standard",
+      "category": "Product specification",
       "location": "Parallel technical textiles",
       "relevance": "A technical textile standard in the notebook regulating jute-based soil stabilizing blankets."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structural engineering",
       "relevance": "The master national structural steel construction code present in the notebook, regulating lifting tackles and wire rope slings of correct size used on-site."
     }

@@ -20,9 +20,18 @@
     "edition_year_of_copy": "Second Revision, December 2015 (incorporating Amendment No. 1, March 2026)",
     "year_first_published": "2003",
     "revision_history": [
-      { "edition": "First Edition", "year": "2003" },
-      { "edition": "First Revision", "year": "2008" },
-      { "edition": "Second Revision", "year": "2015" }
+      {
+        "edition": "First Edition",
+        "year": "2003"
+      },
+      {
+        "edition": "First Revision",
+        "year": "2008"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "2015"
+      }
     ],
     "supersedes": "IS 15351 : 2008",
     "superseded_by": "N/A",
@@ -120,14 +129,14 @@
     {
       "is_number": "IS 10146",
       "title": "Positive list of constituents of polyethylene in contact with foodstuffs, pharmaceuticals and drinking water",
-      "category": "Allied / Food safety standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Mandates that if the geomembrane liner is specified for potable drinking water applications, all constituent polymers must be strictly food-grade."
     },
     {
       "is_number": "IS 7903 : 2011",
       "title": "High Density Polyethylene (HDPE) Tarpaulins — Specification",
-      "category": "Allied / Product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "A sister standard under the same textiles group governing laminated HDPE sheets used for general outdoor protection, agricultural covers, and tarpaulins."
     }

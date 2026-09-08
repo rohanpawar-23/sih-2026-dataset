@@ -19,7 +19,10 @@
     "edition_year_of_copy": "First Edition, 2013 (reaffirmed periodically; incorporating Amendment No. 1, December 2023)",
     "year_first_published": "2013",
     "revision_history": [
-      { "edition": "First Edition", "year": "2013" }
+      {
+        "edition": "First Edition",
+        "year": "2013"
+      }
     ],
     "supersedes": "N/A (New Standard)",
     "superseded_by": "N/A",
@@ -92,7 +95,7 @@
     {
       "is_number": "IS 15351 : 2015",
       "title": "Agro Textiles — Laminated High Density Polyethylene (HDPE) Woven Geomembrane for Water Proof Lining — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Governs heavy HDPE woven geomembranes that are frequently specified alongside cushioning geotextiles (IS 16090) to prevent subgrade stones from puncturing the waterproof liner.",
       "citations": ""
@@ -100,7 +103,7 @@
     {
       "is_number": "IS 15909 : 2020",
       "title": "PVC Geomembranes for Lining — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Parallel lining specification governing flexible PVC geomembranes, which also require protective geotextiles under high physical point loads.",
       "citations": ""
@@ -108,7 +111,7 @@
     {
       "is_number": "IS 16654 : 2017",
       "title": "Geosynthetics — Polypropylene Multifilament Woven Geobags for Coastal and Waterways Protection — Specification",
-      "category": "Allied / Product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Sister technical textile standard developed under the same Geosynthetics Sectional Committee (TXD 30).",
       "citations": ""
@@ -116,7 +119,7 @@
     {
       "is_number": "IS 16653 : 2017",
       "title": "Geosynthetics — Needle punched nonwoven geobags for coastal and waterways protection — Specification",
-      "category": "Allied / Product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Sister product standard utilizing nonwoven needle-punched fabrics for waterways training and flood protection.",
       "citations": ""

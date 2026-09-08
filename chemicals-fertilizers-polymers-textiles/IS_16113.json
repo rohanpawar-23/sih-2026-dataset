@@ -20,7 +20,10 @@
     "edition_year_of_copy": "First Edition, 2013 (incorporating Amendment No. 1, February 2024)",
     "year_first_published": "2013",
     "revision_history": [
-      { "edition": "First Edition", "year": "2013" }
+      {
+        "edition": "First Edition",
+        "year": "2013"
+      }
     ],
     "supersedes": "N/A (Developed as a new standard)",
     "superseded_by": "N/A",
@@ -63,7 +66,7 @@
     {
       "is_number": "IS 16112 : 2013",
       "title": "Beta Picoline — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Specifies requirements for Beta Picoline (3-methylpyridine), an isomer of Gamma Picoline widely used as a raw material in the manufacture of Vitamin B3 (Niacin).",
       "citations": ""
@@ -71,7 +74,7 @@
     {
       "is_number": "IS 8058 : 2018",
       "title": "Pyridine — Specification",
-      "category": "Allied / Parent chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies the technical requirements for pure pyridine, which belongs to the same chemical family and is also under mandatory BIS certification.",
       "citations": ""

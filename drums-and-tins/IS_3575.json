@@ -68,42 +68,42 @@
     {
       "is_number": "IS 1783 (Part 1)",
       "title": "Drums, Large, Fixed Ends — Specification: Part 1 Grade A Drums",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Specifies large 200-litre fixed-end Grade A steel drums, present in the notebook."
     },
     {
       "is_number": "IS 1783 (Part 2)",
       "title": "Drums, Large, Fixed Ends — Specification: Part 2 Grade B Drums",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Specifies large 200-litre fixed-end Grade B steel drums, present in the notebook."
     },
     {
       "is_number": "IS 13997 : 2014",
       "title": "Drums, Large Open Top — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Specifies large open-top drums with removable heads, present in the notebook."
     },
     {
       "is_number": "IS 2552 : 1989",
       "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Regulates mild steel drums of 3 to 150 litres capacity, present in the notebook."
     },
     {
       "is_number": "IS 2062 : 2011",
       "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
-      "category": "Allied structural steel standard",
+      "category": "Product specification",
       "location": "Parallel structural materials",
       "relevance": "The master structural steel specification for carbon steel sheets used to fabricate industrial drums, present in the notebook."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel steel design code",
       "relevance": "The master national structural steel construction code regulating storage tank support framing and connections, present in the notebook."
     }

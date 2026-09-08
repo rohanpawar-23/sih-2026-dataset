@@ -78,42 +78,42 @@
     {
       "is_number": "IS 16874 : 2018",
       "title": "Protective Gloves for Firefighters — Specification",
-      "category": "Allied / Hand protection standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Governs specifications and mechanical/thermal quality checks for protective gloves worn alongside firefighter suits."
     },
     {
       "is_number": "IS 18582 (Part 6) : 2024",
       "title": "Footwear for Firefighters — Specification Part 6: Footwear used by Firefighters",
-      "category": "Allied / Foot protection standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Governs materials, slip resistance, and thermal insulation of protective firefighting boots."
     },
     {
       "is_number": "IS 2745 : 1983",
       "title": "Specification for Non-Metal Helmet for Firemen and Civil Defence Personnel",
-      "category": "Allied / Head protection standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Details quality and impact-resistance parameters for firefighting safety helmets."
     },
     {
       "is_number": "IS 15741 : 2007",
       "title": "Textiles — Resistance to Ignition of Curtains and Drapes — Specification",
-      "category": "Allied / Product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "A fellow protective textiles specification governing flame retardant drapes used in public structures."
     },
     {
       "is_number": "IS 15742 : 2007",
       "title": "Textiles — Requirements for clothing made of limited flame spread materials and material assemblies affording protection against heat and flame — Specification",
-      "category": "Allied / Protective clothing standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies requirements for heat-protective garments that do not necessitate the high structural insulation required for active firefighters."
     },
     {
       "is_number": "IS 15748 : 2022",
       "title": "Protective Clothing for Industrial Workers Exposed to Heat — Specification",
-      "category": "Allied / Protective clothing standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies thermal insulation and structural parameters for industrial heat-resistant workwear."
     }

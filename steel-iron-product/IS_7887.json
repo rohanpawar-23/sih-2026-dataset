@@ -20,8 +20,14 @@
     "edition_year_of_copy": "First Revision, 1992 (incorporating Amendment No. 2)",
     "year_first_published": "1975",
     "revision_history": [
-      { "edition": "First Edition", "year": "1975" },
-      { "edition": "First Revision (with 15 grades of carbon steels introduced)", "year": "1992" }
+      {
+        "edition": "First Edition",
+        "year": "1975"
+      },
+      {
+        "edition": "First Revision (with 15 grades of carbon steels introduced)",
+        "year": "1992"
+      }
     ],
     "supersedes": "IS 7887 : 1975",
     "superseded_by": "N/A",
@@ -87,28 +93,28 @@
     {
       "is_number": "IS 280 : 2006",
       "title": "Mild steel wire for general engineering purposes — Specification",
-      "category": "Allied / Downstream product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "The national standard for general engineering wires (e.g. binding wire, mesh, nails), which specifies that the raw input material used should conform to IS 7887."
     },
     {
       "is_number": "IS 11169 (Part 1) : 2022",
       "title": "Steels for cold heading/cold extrusion application: Part 1 Wrought carbon and low alloy steels",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Governs carbon and low-alloy steel wire rods optimized for cold-heading processes such as bolts, screws, and fasteners."
     },
     {
       "is_number": "IS 7904 : 2018",
       "title": "Carbon steel wire rods — Specification (second revision)",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Specifies high carbon steel wire rods intended for drawing high-strength wires (such as spring wire or wire ropes), as opposed to mild steel."
     },
     {
       "is_number": "IS 2255 : 1977",
       "title": "Specification for Mild Steel Wire Rod for the Manufacture of Machine Screws (By Cold Heading)",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Details specialized high-ductility mild steel wire rods manufactured specifically for cold-headed machine screws."
     }

@@ -75,28 +75,28 @@
     {
       "is_number": "IS 3757 : 1985",
       "title": "Specification for High Strength Structural Bolts",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "The companion product standard specifying the large series hexagon structural bolts that must be paired as a matched assembly with IS 6623 structural nuts."
     },
     {
       "is_number": "IS 6649 : 1985",
       "title": "Hardened and Tempered Washers for High Strength Structural Bolts and Nuts",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "The companion standard specifying the through-hardened steel washers required under the bolt head and/or nut to prevent surface crushing and maintain high tension clamping."
     },
     {
       "is_number": "IS 4000 : 1992",
       "title": "High Strength Bolts in Steel Structures — Code of Practice",
-      "category": "Allied / Application standard",
+      "category": "Installation / Application standard",
       "location": "Foreword",
       "relevance": "Governs the engineering design, installation methods, and tensioning/tightening control procedures of matched HSFG assemblies in steel joints."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied / Design standard",
+      "category": "Design standard",
       "location": "Foreword / Connections design sections",
       "relevance": "The master national structural code that regulates connection designs, shear lag calculations, and slip-critical friction-grip parameters using matched HSFG assemblies."
     }

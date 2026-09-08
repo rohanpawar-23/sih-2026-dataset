@@ -86,7 +86,7 @@
     {
       "is_number": "IS 13997 : 2014",
       "title": "Drums, Large Open Top — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Specifies 200-litre large open-top drums with removable heads, co-regulated under the same Quality Control Order, present in the notebook.",
       "citations": "[1-3]"
@@ -94,21 +94,21 @@
     {
       "is_number": "IS 2552 : 1989",
       "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Covers intermediate-capacity steel drums (ranging from 3 to 150 litres) for industrial storage."
     },
     {
       "is_number": "IS 3575 : 1993",
       "title": "Bitumen Drums — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Regulates specialized drums designed for packaging and transporting hot-poured asphalt and bitumen."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structural engineering",
       "relevance": "The master structural steel design code that regulates external support structures and heavy-duty storage frames, present in the notebook."
     }

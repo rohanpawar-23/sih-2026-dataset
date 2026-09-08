@@ -18,7 +18,10 @@
     "edition_year_of_copy": "First Edition, June 2026",
     "year_first_published": "2026",
     "revision_history": [
-      { "edition": "First Edition", "year": "2026" }
+      {
+        "edition": "First Edition",
+        "year": "2026"
+      }
     ],
     "supersedes": "N/A (Newly established code of practice under the joint standardization initiatives between the Ministry of Ayush and the Bureau of Indian Standards)",
     "superseded_by": "N/A",
@@ -51,35 +54,35 @@
     {
       "is_number": "IS 19856 : 2026",
       "title": "Preparation of Cūraṇam tablet (Medicinal Powder tablet) — Code of Practice",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "A sister standard formulated by the same Siddha Sectional Committee AYD 05, governing the code of practice for processing traditional medicinal powders (Cūraṇam) into solid tablets."
     },
     {
       "is_number": "IS 19858 : 2026",
       "title": "Preparation of Cattu Tablet (Herbal extract tablet) — Code of Practice",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "A sister standard formulated by the same Siddha Sectional Committee AYD 05, governing the code of practice for processing traditional herbal extracts (Cattu) into tablets."
     },
     {
       "is_number": "IS 19310 : 2025",
       "title": "Neykkuṟi (Oleo-Uromacroscopy) Analysis — Code of Practice",
-      "category": "Allied / Diagnostic standard",
+      "category": "Design standard",
       "location": "Foreword",
       "relevance": "Another major standard under the AYD 05 sectional committee, regulating the traditional diagnostic oil-pattern urine analysis utilized in personalized Siddha healthcare."
     },
     {
       "is_number": "IS 18842 : 2024",
       "title": "Zingiber officinale Roscoe Fresh Rhizome for Use in Traditional Medicine — Specification",
-      "category": "Allied / Material standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies physical and chemical limits (including contaminant and pesticide residue limits) for fresh ginger rhizomes used as raw materials in Siddha medicine."
     },
     {
       "is_number": "IS 18839 : 2024",
       "title": "Nigella sativa L. Seed for Use in Traditional Medicine — Specification",
-      "category": "Allied / Material standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies quality, macroscopic, and microscopic limits for black cumin (Nigella sativa) seeds utilized in standard Traditional formulations."
     }

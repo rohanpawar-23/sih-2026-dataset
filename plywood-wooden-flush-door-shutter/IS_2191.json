@@ -18,10 +18,22 @@
     "edition_year_of_copy": "Fourth Revision, 2022 (incorporating Amendment No. 1, August 2024)",
     "year_first_published": "1966",
     "revision_history": [
-      { "edition": "First Edition", "year": "1966" },
-      { "edition": "Second Revision", "year": "1973" },
-      { "edition": "Third Revision", "year": "1983" },
-      { "edition": "Fourth Revision", "year": "2022" }
+      {
+        "edition": "First Edition",
+        "year": "1966"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "1973"
+      },
+      {
+        "edition": "Third Revision",
+        "year": "1983"
+      },
+      {
+        "edition": "Fourth Revision",
+        "year": "2022"
+      }
     ],
     "supersedes": "IS 2191 (Part 2) : 1983",
     "superseded_by": "N/A",
@@ -81,28 +93,28 @@
     {
       "is_number": "IS 2191 (Part 1) : 2022",
       "title": "Wooden Flush Door Shutters (Cellular, Hollow and Tubular Core Type) — Specification, Part 1: Plywood Face Panels",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel door group",
       "relevance": "The plywood-faced counterpart standard regulating hollow and cellular core doors, sharing identical core and lipping parameters."
     },
     {
       "is_number": "IS 2202 (Part 2) : 2022",
       "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 2: Particle Board, HDF, MDF and Fibre Hardboard Face Panels",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel door group",
       "relevance": "The solid-core equivalent standard, present in the notebook [1] and sharing matching face panel and edge-lipping specifications."
     },
     {
       "is_number": "IS 2202 (Part 1) : 2023",
       "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 1: Plywood Face Panels",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Parallel door group",
       "relevance": "Parallel standard regulating solid core blockboard door shutters utilizing plywood face panels."
     },
     {
       "is_number": "IS 1003 (Part 1) : 2003",
       "title": "Timber panelled and glazed shutters: Part 1 Door shutters — Specification",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Parallel door group",
       "relevance": "Parallel standard regulating traditional paneled solid timber door shutters."
     }

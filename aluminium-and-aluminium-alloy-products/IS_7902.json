@@ -64,7 +64,7 @@
     {
       "is_number": "IS 7092 (Part 2) : 1987",
       "title": "Aluminium Alloy Tube for Irrigation Purposes — Part 2: Extruded Tube",
-      "category": "Allied metallurgical standard",
+      "category": "Product specification",
       "location": "Parallel MTD 7 standard",
       "relevance": "A sister standard formulated by the same Light Metals and Their Alloys Sectional Committee (MTD 7), present in the notebook.",
       "citations": "[1]"
@@ -72,7 +72,7 @@
     {
       "is_number": "IS 16011 : 2012",
       "title": "Aluminium and Aluminium Alloy Foil for Pharmaceutical Packaging — Specification",
-      "category": "Allied metallurgical standard",
+      "category": "Product specification",
       "location": "Parallel MTD 7 standard",
       "relevance": "Fellow aluminum metallurgical standard co-managed under the Light Metals sectional framework, present in the notebook.",
       "citations": "[1]"
@@ -80,7 +80,7 @@
     {
       "is_number": "IS 1285 : 2002",
       "title": "Wrought aluminium and aluminium alloy extruded round tubes and hollow sections — Specification",
-      "category": "Allied metallurgical standard",
+      "category": "Product specification",
       "location": "Parallel MTD 7 standard",
       "relevance": "The master national engineering specification for extruded hollow round profiles and sections.",
       "citations": "[1]"
@@ -88,7 +88,7 @@
     {
       "is_number": "IS 2062 (Part 2) : 2026",
       "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Parallel metal group",
       "relevance": "Master structural carbon steel specification in the notebook sharing mechanical testing and chemistry variation principles.",
       "citations": "[1]"

@@ -93,42 +93,42 @@
     {
       "is_number": "IS 18739 : 2024",
       "title": "Textiles — Bedsheets, Pillow Covers and Blanket Covers — Specification",
-      "category": "Allied textile standard",
+      "category": "Product specification",
       "location": "Parallel textile standard",
       "relevance": "National standard regulating general-purpose bedsheets and pillow covers (such as those used by Indian Railways) focused on general comfort and durability rather than medtech barrier and infection controls."
     },
     {
       "is_number": "IS 5405 : 2025",
       "title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification",
-      "category": "Allied hygiene standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Fellow personal hygiene absorbent standard co-managed under the medtech framework, present in the notebook."
     },
     {
       "is_number": "IS 17509 : 2021",
       "title": "Disposable Baby Diaper — Specification",
-      "category": "Allied hygiene standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Fellow disposable hygiene standard co-regulated under the same medtech framework, present in the notebook."
     },
     {
       "is_number": "IS 17514 : 2025",
       "title": "Reusable Sanitary Pad/Sanitary Napkin/Period Panties — Specification",
-      "category": "Allied hygiene standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Fellow reusable personal hygiene standard co-regulated under the same medtech framework, present in the notebook."
     },
     {
       "is_number": "IS 17349 : 2020",
       "title": "Medical Textiles — Shoe Covers — Specification",
-      "category": "Allied protective standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Related personal protective medical textile standard co-regulated under the same Quality Control Order, present in the notebook."
     },
     {
       "is_number": "IS 17354 : 2020",
       "title": "Medical Textiles — Dental Bib / Napkins — Specification",
-      "category": "Allied protective standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Related clinical patient-barrier medical textile standard co-regulated under the same QCO framework, present in the notebook."
     }

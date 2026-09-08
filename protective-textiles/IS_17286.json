@@ -89,21 +89,21 @@
     {
       "is_number": "IS 15741 : 2007",
       "title": "Textiles — Resistance to Ignition of Curtains and Drapes — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Parallel fire-safe protective textile specification developed under the same Textiles Protective Clothing Sectional Committee (TXD 32) [2]."
     },
     {
       "is_number": "IS 15742 : 2007",
       "title": "Textiles — Requirements for clothing made of limited flame spread materials and material assemblies affording protection against heat and flame — Specification",
-      "category": "Allied / Protective clothing standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Allied protective apparel specification developed under the TXD 32 committee."
     },
     {
       "is_number": "IS 16890 : 2024",
       "title": "Textiles — Protective Clothing for Firefighters — Specification",
-      "category": "Allied / Protective clothing standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Related heavy-duty personal protective equipment standard managed under the TXD 32 sectional committee."
     }

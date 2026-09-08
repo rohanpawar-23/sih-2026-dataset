@@ -92,42 +92,42 @@
     {
       "is_number": "IS 613 : 2000",
       "title": "Copper Rods and Bars for Electrical Purposes — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "Regulates finished, drawn, or extruded electrical copper bars, rods, and busbars. While IS 613 covers current-carrying electrical applications, IS 4171 covers general engineering and mechanical applications."
     },
     {
       "is_number": "IS 12444 : 2020",
       "title": "Copper Wire Rods for Electrical Applications — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "The fellow national standard regulating continuous cast copper feedstocks, present in the notebook."
     },
     {
       "is_number": "IS 1897 : 2008",
       "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "The fellow national standard regulating flat wrought copper strip conductors, present in the notebook."
     },
     {
       "is_number": "IS 1545 : 1994",
       "title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification",
-      "category": "Allied tubing standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "The fellow national standard regulating seamless drawn copper and brass alloy tubes, present in the notebook."
     },
     {
       "is_number": "IS 4412 : 1981",
       "title": "Copper Wires for General Engineering Purposes — Specification",
-      "category": "Allied wire standard",
+      "category": "Product specification",
       "location": "Parallel engineering category",
       "relevance": "Companion engineering specification regulating drawn copper wires, present in the notebook."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structural engineering",
       "relevance": "The master structural steel design code that regulates external support frames and connection designs, present in the notebook."
     }

@@ -20,9 +20,18 @@
     "edition_year_of_copy": "Second Revision, 2022",
     "year_first_published": "1995",
     "revision_history": [
-      { "edition": "First Edition", "year": "1995" },
-      { "edition": "First Revision", "year": "2017" },
-      { "edition": "Second Revision", "year": "2022" }
+      {
+        "edition": "First Edition",
+        "year": "1995"
+      },
+      {
+        "edition": "First Revision",
+        "year": "2017"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "2022"
+      }
     ],
     "supersedes": "IS 14268 : 2017",
     "superseded_by": "N/A",
@@ -79,35 +88,35 @@
     {
       "is_number": "IS 1343 : 2012",
       "title": "Prestressed Concrete — Code of Practice",
-      "category": "Allied / Application standard",
+      "category": "Design standard",
       "location": "Foreword",
       "relevance": "The national design code for prestressed concrete structural elements, which defines loss calculations based on the relaxation properties of IS 14268 strands."
     },
     {
       "is_number": "IS 6006 : 2014",
       "title": "Specification for uncoated stress relieved strand for prestressed concrete",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Parallel product standard specifying conventional uncoated stress-relieved steel strands that do not undergo low-relaxation stabilizing treatments."
     },
     {
       "is_number": "IS 6003 : 2010",
       "title": "Specification for indented wire for prestressed concrete",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Related product standard specifying single indented steel wires used for prestressing, sharing similar high-tensile and ductility demands."
     },
     {
       "is_number": "IS 1785 (Part 1) : 1983",
       "title": "Specification for plain hard-drawn steel wire for prestressed concrete — Part 1: Cold drawn stress-relieved wire",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Sister product specification defining single cold-drawn stress-relieved steel wires used in pre-tensioned prestressed concrete."
     },
     {
       "is_number": "IS 2090 : 1983",
       "title": "High tensile steel bars for prestressed concrete — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Allied standard covering high-tensile steel bars used alternatively for heavy structural prestressed configurations."
     }

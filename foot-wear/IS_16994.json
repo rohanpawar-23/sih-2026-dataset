@@ -20,7 +20,10 @@
     "edition_year_of_copy": "First Edition, June 2018 (Reaffirmed in 2023)",
     "year_first_published": "2018",
     "revision_history": [
-      { "edition": "First Edition", "year": "2018" }
+      {
+        "edition": "First Edition",
+        "year": "2018"
+      }
     ],
     "supersedes": "N/A (Developed as a new dedicated standard to regulate municipal worker safety)",
     "superseded_by": "N/A",
@@ -129,7 +132,7 @@
     {
       "is_number": "IS 12254 : 2021",
       "title": "Polyvinylchloride (PVC) Industrial Boots — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CHD 19 standard",
       "relevance": "Fellow polymeric protective footwear standard sharing identical raw material controls (IS 12240 parts 4 and 5), test routines (IS 15298), and rounding principles (IS 2) under mandatory certification.",
       "citations": "[1]"
@@ -137,7 +140,7 @@
     {
       "is_number": "IS 10702 : 2023",
       "title": "Hawai Chappal — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CHD 19 standard",
       "relevance": "Another major polymeric footwear standard formulated by the same sectional committee, subject to identical statutory enforcement under national QCOs.",
       "citations": "[1]"
@@ -145,7 +148,7 @@
     {
       "is_number": "IS 15844 (Part 1) : 2023",
       "title": "Sports Footwear — Part 1: General Purpose",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CHD 19 standard",
       "relevance": "Fellow athletic footwear standard sharing identical mechanical test apparatus (IS 15298) and rounding structures (IS 2).",
       "citations": "[1]"
@@ -153,7 +156,7 @@
     {
       "is_number": "IS 17043 (Part 2) : 2024",
       "title": "Shoes — Specification, Part 2: Shoes for General Purpose",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CHD 19 standard",
       "relevance": "Everyday footwear specification sharing identical NABL chemical restriction scopes and material testing frameworks.",
       "citations": "[1]"
@@ -161,7 +164,7 @@
     {
       "is_number": "IS 14494 : 2019",
       "title": "Elastomer Insulated Flexible Cables for Use in Mines — Specification",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Parallel industrial standard",
       "relevance": "Related industrial standard present in the notebook context that utilizes parallel rubber/polymeric compound testing regimes (such as flammability, aging, and sampling).",
       "citations": "[1]"

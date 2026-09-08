@@ -83,49 +83,49 @@
     {
       "is_number": "IS 10339 : 2000",
       "title": "Round Tins for Ghee, Vanaspati and Edible Oils — Specification",
-      "category": "Allied metal packaging standard",
+      "category": "Product specification",
       "location": "Parallel food-grade metal containers",
       "relevance": "Companion national standard regulating round cylindrical tins (ranging from 200 g to 5 kg/litre capacities) for ghee, vanaspati, and edible oils."
     },
     {
       "is_number": "IS 916 : 2000",
       "title": "Square Tins for Solid Products — Specification",
-      "category": "Allied metal packaging standard",
+      "category": "Product specification",
       "location": "Parallel food-grade metal containers",
       "relevance": "Companion national standard regulating square tins designed for dry solid products, sharing general construction guidelines."
     },
     {
       "is_number": "IS 1783 (Part 1)",
       "title": "Drums, Large, Fixed Ends — Specification: Part 1 Grade A Drums",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Heavy-duty steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
     },
     {
       "is_number": "IS 13997 : 2014",
       "title": "Drums, Large Open Top — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Open-top steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
     },
     {
       "is_number": "IS 2552 : 1989",
       "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Intermediate-capacity steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
     },
     {
       "is_number": "IS 3575 : 1993",
       "title": "Bitumen Drums — Specification",
-      "category": "Allied drum standard",
+      "category": "Product specification",
       "location": "Parallel metal containers",
       "relevance": "Bitumen steel drum specification co-regulated under the same Drums and Tins Quality Control Order, present in the notebook."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structural engineering",
       "relevance": "The master structural steel design code regulating external anchorages, support saddles, and warehouse stacking limits, present in the notebook."
     }

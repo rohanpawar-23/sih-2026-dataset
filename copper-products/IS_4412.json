@@ -85,35 +85,35 @@
     {
       "is_number": "IS 12444 : 2020",
       "title": "Copper Wire Rods for Electrical Applications — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "Specifies continuous cast copper wire rods (usually 8 mm in diameter) that serve as raw feedstock drawn down into smaller wires, present in the notebook."
     },
     {
       "is_number": "IS 1897 : 2008",
       "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "The fellow national standard regulating flat wrought copper strip conductors, present in the notebook."
     },
     {
       "is_number": "IS 4171 : 1983",
       "title": "Specification for Copper Rods and Bars for General Engineering Purposes",
-      "category": "Allied general engineering standard",
+      "category": "Normative reference",
       "location": "Parallel metallurgical category",
       "relevance": "The fellow national standard regulating copper bars and rods intended for general engineering applications, present in the notebook."
     },
     {
       "is_number": "IS 1545 : 1994",
       "title": "Solid Drawn Copper and Copper Alloy Tubes for Condensers and Heat Exchangers — Specification",
-      "category": "Allied tubing standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "Seamless drawn copper alloy tubes used in thermal systems, present in the notebook."
     },
     {
       "is_number": "IS 14810 : 2000",
       "title": "Copper Tubes for Plumbing — Specification",
-      "category": "Allied piping standard",
+      "category": "Product specification",
       "location": "Parallel plumbing category",
       "relevance": "Seamless drawn copper tubes used in domestic water supply and drainage systems, present in the notebook."
     }

@@ -79,35 +79,35 @@
     {
       "is_number": "IS 17682 : 2021",
       "title": "Aluminium Composite Panel — Specification",
-      "category": "Allied cladding standard",
+      "category": "Product specification",
       "location": "Parallel building materials",
       "relevance": "Fellow lightweight building cladding panel specification co-regulated under statutory Quality Control Orders, present in the notebook."
     },
     {
       "is_number": "IS 7092 (Part 2) : 1987",
       "title": "Aluminium Alloy Tube for Irrigation Purposes — Part 2: Extruded Tube",
-      "category": "Allied metallurgical standard",
+      "category": "Product specification",
       "location": "Parallel light metals",
       "relevance": "Parallel agricultural aluminium standard present in the notebook co-managed under the MTD 07 sectional committee."
     },
     {
       "is_number": "IS 5082 : 1998",
       "title": "Wrought Aluminium and Aluminium Alloy Bars, Rods, Tubes, Sections, Plates and Sheets for Electrical Applications",
-      "category": "Allied electrical standard",
+      "category": "Product specification",
       "location": "Parallel electrical metals",
       "relevance": "Related switchgear busbar and tubular conductor specification co-regulated under MTD 07, present in the notebook."
     },
     {
       "is_number": "IS 7902 : 2001",
       "title": "Aluminium Alloy Forging Stock and Forgings for Aerospace Applications — Specification",
-      "category": "Allied aerospace standard",
+      "category": "Product specification",
       "location": "Parallel aerospace metals",
       "relevance": "Specialty high-durability aerospace forged alloy standard present in the notebook and managed under MTD 07."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structural engineering",
       "relevance": "The master structural code that regulates external cladding support frames, wind-load deflections, and connection designs, present in the notebook."
     }

@@ -20,7 +20,10 @@
     "edition_year_of_copy": "First Edition, 2007 (incorporating Amendment No. 1, March 2014)",
     "year_first_published": "2007",
     "revision_history": [
-      { "edition": "First Edition", "year": "2007" }
+      {
+        "edition": "First Edition",
+        "year": "2007"
+      }
     ],
     "supersedes": "N/A",
     "superseded_by": "N/A",
@@ -79,21 +82,21 @@
     {
       "is_number": "IS 15768 : 2008",
       "title": "Textiles — Resistance to ignition of upholstered composites used for non-domestic furniture — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "A sister protective textiles standard developed to regulate and test the ignition resistance of upholstered furniture in public and non-domestic buildings."
     },
     {
       "is_number": "IS 15742 : 2007",
       "title": "Textiles — Requirements for clothing made of limited flame spread materials and material assemblies affording protection against heat and flame — Specification",
-      "category": "Allied / Protective clothing standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "A parallel protective clothing standard regulating the limited flame spread index and durability of heat-protective industrial workwear."
     },
     {
       "is_number": "IS 16890 : 2018",
       "title": "Protective clothing for firefighters — Specification",
-      "category": "Allied / Protective clothing standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "An allied product specification defining severe thermal performance, flame spread, and durability requirements for firefighting ensembles."
     }

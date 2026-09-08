@@ -89,35 +89,35 @@
     {
       "is_number": "IS 10238 : 2001",
       "title": "Fasteners — Threaded Steel Fasteners — Step Bolts for Steel Structures — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "The parallel national specification regulating structural step bolts used on transmission tower frames to provide climbing access [3]."
     },
     {
       "is_number": "IS 6639 : 1972",
       "title": "Hexagon bolts for steel structures",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies hexagon bolts utilized in the fabrication of general structural steel joints [3]."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Foreword / Connections design",
       "relevance": "The master structural code that governs connection designs, shear lag, and preloaded/turned bolt tensioning design rules in steel construction [9]."
     },
     {
       "is_number": "IS 6623 : 2004",
       "title": "High Strength Structural Nuts — Specification",
-      "category": "Allied fasteners standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies heavy-duty structural nuts designed for friction-grip and preloaded steel connections [10]."
     },
     {
       "is_number": "IS 14255 : 1995",
       "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1100 Volts — Specification",
-      "category": "Allied distribution standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Governs overhead distribution cable systems carried by transmission towers and steel masts secured with these bolts."
     }

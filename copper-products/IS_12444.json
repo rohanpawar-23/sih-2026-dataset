@@ -72,21 +72,21 @@
     {
       "is_number": "IS 613 : 2000",
       "title": "Copper Rods and Bars for Electrical Purposes — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "Regulates finished, drawn, or extruded electrical copper bars, rods, and busbars, present in the notebook."
     },
     {
       "is_number": "IS 1897 : 2008",
       "title": "Copper Strip for Electrical Purposes — Specification",
-      "category": "Allied electrical copper standard",
+      "category": "Product specification",
       "location": "Parallel metallurgical category",
       "relevance": "Specifies highly conductive copper strips utilized for transformer windings, switchgears, and panels."
     },
     {
       "is_number": "IS 12427 : 2001",
       "title": "Fasteners — Threaded Steel Fasteners — Hexagon Head Transmission Tower Bolts — Specification",
-      "category": "Allied structural component standard",
+      "category": "Product specification",
       "location": "Parallel steel construction components",
       "relevance": "Fellow structural standard co-present in the notebook, specifying hot-dip galvanized fasteners for steel framing."
     }

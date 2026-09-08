@@ -79,35 +79,35 @@
     {
       "is_number": "IS 10701 : 2012",
       "title": "Structural Plywood — Specification",
-      "category": "Allied / Building panels standard",
+      "category": "Product specification",
       "location": "Parallel building materials",
       "relevance": "Fellow load-bearing building panel standard present in the notebook that is co-regulated under statutory Quality Control Orders (QCO)."
     },
     {
       "is_number": "IS 2202 (Part 2) : 2022",
       "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification",
-      "category": "Allied / Building panels standard",
+      "category": "Product specification",
       "location": "Parallel building materials",
       "relevance": "Related solid composite door shutter standard, sharing similar mechanical durability and edge-weathering concerns."
     },
     {
       "is_number": "IS 2191 (Part 2) : 2022",
       "title": "Wooden Flush Door Shutters (Cellular and Hollow Core Type) — Specification",
-      "category": "Allied / Building panels standard",
+      "category": "Product specification",
       "location": "Parallel building materials",
       "relevance": "Related hollow and cellular composite door panel standard."
     },
     {
       "is_number": "IS 7092 (Part 2) : 1987",
       "title": "Aluminium Alloy Tube for Irrigation Purposes — Part 2: Extruded Tube",
-      "category": "Allied aluminium standard",
+      "category": "Product specification",
       "location": "Parallel light metals",
       "relevance": "Another major wrought aluminium alloy product standard present in the notebook under mandatory certification."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structures",
       "relevance": "The master structural code that regulates external cladding support frames, wind-load deflections, and connection designs."
     }

@@ -20,9 +20,18 @@
     "edition_year_of_copy": "Second Revision, October 2025 (incorporating Amendment No. 1)",
     "year_first_published": "1986",
     "revision_history": [
-      { "edition": "First Edition", "year": "1986" },
-      { "edition": "First Revision", "year": "2020" },
-      { "edition": "Second Revision", "year": "2025" }
+      {
+        "edition": "First Edition",
+        "year": "1986"
+      },
+      {
+        "edition": "First Revision",
+        "year": "2020"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "2025"
+      }
     ],
     "supersedes": "IS 11657 : 2020",
     "superseded_by": "N/A",
@@ -97,7 +106,7 @@
     {
       "is_number": "IS 10116 : 2015",
       "title": "Boric Acid — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword (CHD 01 parallel)",
       "relevance": "Sister chemical standard formulated by the same Inorganic Chemicals Sectional Committee (CHD 01) subject to mandatory quality control certification.",
       "citations": "[1, 7]"
@@ -105,7 +114,7 @@
     {
       "is_number": "IS 15573 : 2018",
       "title": "Polyaluminium Chloride — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Another major inorganic chemical standard subject to mandatory BIS certification marking for industrial and water purification use.",
       "citations": "[8]"
@@ -113,7 +122,7 @@
     {
       "is_number": "IS 16113 : 2013",
       "title": "Gamma Picoline — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Related industrial organic chemical intermediate utilized across pharmaceutical syntheses, under mandatory QCO guidelines.",
       "citations": "[9]"
@@ -121,7 +130,7 @@
     {
       "is_number": "IS 5158 : 2025",
       "title": "Phthalic Anhydride, Technical — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Parallel organic chemical intermediate standard extensively used in plasticizers, subject to identical statutory enforcement.",
       "citations": "[10]"

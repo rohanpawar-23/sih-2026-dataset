@@ -68,35 +68,35 @@
     {
       "is_number": "IS 4621 : 1975",
       "title": "Specification for Indicating Bolts for Use in Public Baths and Lavatories",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CED 15 standard",
       "relevance": "A sister builder's hardware specification formulated by the same sectional committee (CED 15) governing safety latches and indicating locks, present in the notebook."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied structural standard",
+      "category": "Design standard",
       "location": "Parallel steel standard",
       "relevance": "The national code of practice regulating design, connections, and construction parameters for structural steel systems, present in the notebook."
     },
     {
       "is_number": "IS 6623 : 2004",
       "title": "High Strength Structural Nuts — Specification",
-      "category": "Allied structural standard",
+      "category": "Normative reference",
       "location": "Parallel fasteners standard",
       "relevance": "Specifies heavy-duty high-tensile structural fasteners used in steel connections, present in the notebook."
     },
     {
       "is_number": "IS 2062 : 2026",
       "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Parallel steel standard",
       "relevance": "Governs structural carbon steel plates, sheets, and sections used across general engineering structures, present in the notebook."
     },
     {
       "is_number": "IS 14268 : 2022",
       "title": "Uncoated Stress Relieved Low Relaxation Seven-Wire (Ply) Strand for Prestressed Concrete — Specification",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Parallel civil engineering standard",
       "relevance": "Governs high-tensile steel reinforcing strands utilized in concrete structures, present in the notebook."
     }

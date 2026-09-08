@@ -65,21 +65,21 @@
     {
       "is_number": "IS 2062 : 2011",
       "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
-      "category": "Allied structural steel standard",
+      "category": "Product specification",
       "location": "Parallel steel category",
       "relevance": "The master structural steel specification for carbon steel sheets used to fabricate these industrial drums, present in the notebook."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel steel design code",
       "relevance": "The master national structural steel construction code that regulates external anchorages, support saddles, and structural framing, present in the notebook."
     },
     {
       "is_number": "IS 2002 : 2009",
       "title": "Steel Plates for Pressure Vessels for Intermediate and High Temperature Service",
-      "category": "Allied pressure vessel standard",
+      "category": "Product specification",
       "location": "Parallel storage vessels",
       "relevance": "Related heavy-duty carbon steel plate specification for industrial chemical storage and pressurized vessels, present in the notebook."
     }

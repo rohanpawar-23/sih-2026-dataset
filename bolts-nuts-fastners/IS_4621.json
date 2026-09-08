@@ -56,7 +56,7 @@
     {
       "is_number": "IS 2062 : 2026",
       "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Parallel electrotechnical/mechanical groups",
       "relevance": "Governs structural carbon steel; present in the notebook.",
       "citations": ""
@@ -64,7 +64,7 @@
     {
       "is_number": "IS 12254 : 2021",
       "title": "Polyvinylchloride (PVC) Industrial Boots — Specification",
-      "category": "Allied product standard",
+      "category": "Product specification",
       "location": "Parallel consumer product groups",
       "relevance": "Specifies injection-molded PVC boots; present in the notebook.",
       "citations": ""
@@ -72,7 +72,7 @@
     {
       "is_number": "IS 10702 : 2023",
       "title": "Hawai Chappal — Specification",
-      "category": "Allied product standard",
+      "category": "Product specification",
       "location": "Parallel consumer product groups",
       "relevance": "Molded consumer footwear specification; present in the notebook.",
       "citations": ""

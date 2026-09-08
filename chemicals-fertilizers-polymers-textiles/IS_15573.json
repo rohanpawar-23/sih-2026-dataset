@@ -20,8 +20,14 @@
     "edition_year_of_copy": "First Revision, 2018 (incorporating Amendment No. 3, February 2026)",
     "year_first_published": "2005",
     "revision_history": [
-      { "edition": "First Edition", "year": "2005" },
-      { "edition": "First Revision", "year": "2018" }
+      {
+        "edition": "First Edition",
+        "year": "2005"
+      },
+      {
+        "edition": "First Revision",
+        "year": "2018"
+      }
     ],
     "supersedes": "IS 15573 : 2005",
     "superseded_by": "N/A",
@@ -90,7 +96,7 @@
     {
       "is_number": "IS 10116 : 2015",
       "title": "Boric Acid — Specification",
-      "category": "Allied / Sister chemical standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Parallel major industrial chemical standard under mandatory quality control orders (QCO) enforcing strict purity levels.",
       "citations": ""
@@ -98,7 +104,7 @@
     {
       "is_number": "IS 695 : 2020",
       "title": "Acetic Acid — Specification",
-      "category": "Allied / Sister chemical standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Another key industrial and water-treatment acid placed under mandatory quality and marking compliance frameworks.",
       "citations": ""

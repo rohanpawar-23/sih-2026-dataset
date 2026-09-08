@@ -20,9 +20,18 @@
     "edition_year_of_copy": "Second Revision, 1983 (incorporating Amendment No. 4, April 2007) [1]",
     "year_first_published": "1961",
     "revision_history": [
-      { "edition": "First Edition", "year": "1961" },
-      { "edition": "First Revision", "year": "1966" },
-      { "edition": "Second Revision", "year": "1983" }
+      {
+        "edition": "First Edition",
+        "year": "1961"
+      },
+      {
+        "edition": "First Revision",
+        "year": "1966"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "1983"
+      }
     ],
     "supersedes": "IS 1785 (Part 1) : 1966",
     "superseded_by": "N/A",
@@ -98,28 +107,28 @@
     {
       "is_number": "IS 1785 (Part 2) : 1983",
       "title": "Specification for plain hard-drawn steel wire for prestressed concrete — Part 2: As drawn wire",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Specifies requirements for high-tensile wire supplied in the 'as-drawn' mechanical condition, which has higher relaxation losses compared to stress-relieved wire."
     },
     {
       "is_number": "IS 1343 : 2012",
       "title": "Prestressed Concrete — Code of Practice (fourth revision)",
-      "category": "Allied / Application standard",
+      "category": "Design standard",
       "location": "Foreword",
       "relevance": "The national design code for prestressed concrete structures, which dictates stress loss calculation limits for IS 1785 wires."
     },
     {
       "is_number": "IS 6006 : 1983",
       "title": "Specification for uncoated stress relieved strand for prestressed concrete (first revision)",
-      "category": "Allied / Product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Regulates multi-wire strands (typically 7-wire strands) manufactured from similar high-carbon cold-drawn wires."
     },
     {
       "is_number": "IS 2090 : 1983",
       "title": "High tensile steel bars for prestressed concrete — Specification (first revision)",
-      "category": "Allied / Product standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies high-strength hot-rolled or alloyed steel reinforcement bars used alternatively in large prestressed structural concrete designs."
     }

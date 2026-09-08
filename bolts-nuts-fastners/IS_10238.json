@@ -113,7 +113,7 @@
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied structural standard",
+      "category": "Normative reference",
       "location": "Foreword",
       "relevance": "The master national structural code governing steel joints, connections, and structural detailing where step bolts are installed.",
       "citations": "[5]"
@@ -121,21 +121,21 @@
     {
       "is_number": "IS 6623 : 2004",
       "title": "High Strength Structural Nuts — Specification",
-      "category": "Allied fasteners standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "An allied product specification defining heavy-duty structural nuts used in preloaded structural joints."
     },
     {
       "is_number": "IS 14255 : 1995",
       "title": "Aerial Bunched Cables — For Working Voltages Up to and Including 1100 Volts — Specification",
-      "category": "Allied distribution standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Governs low-voltage aerial cables suspended on overhead distribution poles and towers where step bolts provide climbing access."
     },
     {
       "is_number": "IS 2062 : 2026",
       "title": "Structural Steel — Hot Rolled Medium and High Tensile Steel — Specification",
-      "category": "Allied material standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Specifies physical-mechanical limits for the structural steel plates, angles, and sections that step bolts are fixed into."
     }

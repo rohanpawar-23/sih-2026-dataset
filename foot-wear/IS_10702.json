@@ -18,9 +18,18 @@
     "edition_year_of_copy": "Third Revision, 2023 (incorporating Amendment No. 1, January 2024 and Amendment No. 2, October 2025)",
     "year_first_published": "1985",
     "revision_history": [
-      { "edition": "First Edition", "year": "1985" },
-      { "edition": "Second Edition (Rubber Hawai Chappal)", "year": "1992" },
-      { "edition": "Third Edition (expanded to include all polymeric materials)", "year": "2023" }
+      {
+        "edition": "First Edition",
+        "year": "1985"
+      },
+      {
+        "edition": "Second Edition (Rubber Hawai Chappal)",
+        "year": "1992"
+      },
+      {
+        "edition": "Third Edition (expanded to include all polymeric materials)",
+        "year": "2023"
+      }
     ],
     "supersedes": "IS 10702 : 1992",
     "superseded_by": "N/A",
@@ -85,35 +94,35 @@
     {
       "is_number": "IS 15844 (Part 1) : 2023",
       "title": "Sports Footwear — Specification, Part 1: General Purpose",
-      "category": "Allied / Footwear standard",
+      "category": "Product specification",
       "location": "Referenced on Page 1 of Amendment No. 2",
       "relevance": "The national safety and material specification for general-purpose sports shoes, present in the notebook and referenced for slip resistance [1]."
     },
     {
       "is_number": "IS 17043 (Part 2) : 2024",
       "title": "Shoes — Specification, Part 2: Shoes for General Purpose",
-      "category": "Allied / Footwear standard",
+      "category": "Product specification",
       "location": "Parallel electrotechnical/rubber group",
       "relevance": "Specifies physical and mechanical requirements for everyday formal and casual shoes, present in the notebook."
     },
     {
       "is_number": "IS 12254",
       "title": "Polyvinyl Chloride (PVC) Industrial Boots — Specification",
-      "category": "Allied / Footwear standard",
+      "category": "Product specification",
       "location": "Parallel polymeric group",
       "relevance": "Governs the material performance and leakage safety of molded PVC gumboots, present in the notebook."
     },
     {
       "is_number": "IS 15636 : 2022",
       "title": "Pneumatic Tyres for Commercial Vehicles — Specification",
-      "category": "Allied / Rubber product standard",
+      "category": "Product specification",
       "location": "Parallel rubber group",
       "relevance": "The national standard regulating heavy-duty vulcanized rubber tires, sharing test and compound aging methodologies with polymeric footwear, present in the notebook."
     },
     {
       "is_number": "IS 17286 : 2019",
       "title": "Textiles — Water Proof Multipurpose Rain Poncho with Convertibility as Bivouac — Specification",
-      "category": "Allied / Tactical field gear",
+      "category": "Product specification",
       "location": "Parallel protective group",
       "relevance": "Specifies waterproof materials and polymer coatings for outdoor protective gear used by security forces, present in the notebook."
     }

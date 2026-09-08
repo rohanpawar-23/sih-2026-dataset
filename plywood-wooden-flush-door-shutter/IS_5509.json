@@ -18,10 +18,22 @@
     "edition_year_of_copy": "Third Revision, June 2021 (Reviewed and Reaffirmed in 2026)",
     "year_first_published": "1969",
     "revision_history": [
-      { "edition": "First Edition", "year": "1969" },
-      { "edition": "First Revision", "year": "1980" },
-      { "edition": "Second Revision", "year": "2000" },
-      { "edition": "Third Revision", "year": "2021" }
+      {
+        "edition": "First Edition",
+        "year": "1969"
+      },
+      {
+        "edition": "First Revision",
+        "year": "1980"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "2000"
+      },
+      {
+        "edition": "Third Revision",
+        "year": "2021"
+      }
     ],
     "supersedes": "IS 5509 : 2000",
     "superseded_by": "N/A",
@@ -61,35 +73,35 @@
     {
       "is_number": "IS 10701 : 2012",
       "title": "Structural Plywood — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CED 20 standard",
       "relevance": "The national standard regulating high-strength plywood optimized for load-bearing configurations, present in the notebook."
     },
     {
       "is_number": "IS 710 : 2010",
       "title": "Marine Plywood — Specification",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CED 20 standard",
       "relevance": "The national standard regulating high-density marine-grade plywood bonded with phenolic resin, present in the notebook."
     },
     {
       "is_number": "IS 303 : 1989",
       "title": "Specification for Plywood for General Purposes",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Parallel CED 20 standard",
       "relevance": "The national baseline plywood specification for general construction, partitioning, and carpentry, present in the notebook."
     },
     {
       "is_number": "IS 2202 (Part 2) : 2022",
       "title": "Wooden Flush Door Shutters (Solid Core Type) — Specification, Part 2: Particle Board, HDF, MDF and Fibre Hardboard Face Panels",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Parallel wood/doors standard",
       "relevance": "Regulates solid-core flush door shutters utilizing engineered polymeric or particle board face skins, present in the notebook."
     },
     {
       "is_number": "IS 2191 (Part 2) : 2022",
       "title": "Wooden Flush Door Shutters (Cellular, Hollow and Tubular Core Type) — Specification, Part 2: Particle Board, HDF, MDF and Fibre Hardboard Face Panels",
-      "category": "Allied standard",
+      "category": "Product specification",
       "location": "Parallel wood/doors standard",
       "relevance": "Regulates hollow or cellular-core flush door shutters utilizing engineered face panels, present in the notebook."
     }

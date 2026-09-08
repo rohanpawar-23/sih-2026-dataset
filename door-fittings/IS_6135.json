@@ -69,21 +69,21 @@
     {
       "is_number": "IS 3564 : 2025",
       "title": "Hydraulically Regulated Door Closers — Specification",
-      "category": "Allied door closer standard",
+      "category": "Product specification",
       "location": "Parallel builders hardware category",
       "relevance": "The fellow national standard regulating overhead surface-mounted and concealed-type door closers, finalized by the same Builders Hardware Sectional Committee."
     },
     {
       "is_number": "IS 14912 : 2001",
       "title": "Door Closers, Concealed Type (Hydraulically Regulated) — Specification",
-      "category": "Allied door closer standard",
+      "category": "Product specification",
       "location": "Parallel builders hardware category",
       "relevance": "The legacy standard for concealed door closers, now officially integrated and amalgamated under IS 3564 : 2025."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied design standard",
+      "category": "Design standard",
       "location": "Parallel structural engineering",
       "relevance": "The master structural steel construction code present in the notebook, regulating lifting tackles and wire rope slings of correct size used on-site."
     }

@@ -75,28 +75,28 @@
     {
       "is_number": "IS 2062 (Part 1) : 2025",
       "title": "Structural Steel — Part 1 Hot Rolled Medium and High Tensile Steel",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "The primary sister standard governing conventional structural steels of medium and high strength, as opposed to quenched and tempered alloys."
     },
     {
       "is_number": "IS 2002 : 2024",
       "title": "Steel Plate for Pressure Vessel for Intermediate and High Temperature Service Including Boilers — Specification",
-      "category": "Allied / Application standard",
+      "category": "Installation / Application standard",
       "location": "Foreword",
       "relevance": "Specifies heavy carbon steel plates used specifically for fabricating pressure-retaining vessels operating at elevated temperatures."
     },
     {
       "is_number": "IS 2041 : 2024",
       "title": "Steel Plates and Strips for Pressure Vessels Used at Moderate and Low Temperature — Specification",
-      "category": "Allied / Application standard",
+      "category": "Installation / Application standard",
       "location": "Foreword",
       "relevance": "Specifies carbon steel plates optimized for low to moderate temperature pressure-vessel service."
     },
     {
       "is_number": "IS 800 : 2007",
       "title": "Code of Practice for General Steel Construction",
-      "category": "Allied / Design standard",
+      "category": "Design standard",
       "location": "Foreword",
       "relevance": "The national design code for structural steel installations, defining allowable bending, compression, and shear limits for steels conforming to IS 2062 [2]."
     }

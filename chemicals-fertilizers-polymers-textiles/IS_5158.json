@@ -18,10 +18,22 @@
     "edition_year_of_copy": "Third Revision, July 2025",
     "year_first_published": "1970",
     "revision_history": [
-      { "edition": "First Edition", "year": "1970" },
-      { "edition": "First Revision", "year": "1977" },
-      { "edition": "Second Revision", "year": "1987" },
-      { "edition": "Third Revision", "year": "2025" }
+      {
+        "edition": "First Edition",
+        "year": "1970"
+      },
+      {
+        "edition": "First Revision",
+        "year": "1977"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "1987"
+      },
+      {
+        "edition": "Third Revision",
+        "year": "2025"
+      }
     ],
     "supersedes": "IS 5158 : 1987",
     "superseded_by": "N/A",
@@ -54,28 +66,28 @@
     {
       "is_number": "IS 5149 : 2020",
       "title": "Specification for Maleic Anhydride, Technical (Second Revision)",
-      "category": "Allied / Sister standard",
+      "category": "Sister standard",
       "location": "Foreword",
       "relevance": "Governs specifications and quality checks for maleic anhydride, which is another major organic acid anhydride widely used in polyester resin manufacturing and checked as an impurity in phthalic anhydride."
     },
     {
       "is_number": "IS 252 : 2013",
       "title": "Caustic Soda — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Related industrial chemical governed by mandatory chemical Quality Control Orders (QCO) in India."
     },
     {
       "is_number": "IS 10116 : 2015",
       "title": "Boric Acid — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Related industrial acid standard under mandatory certification schemes."
     },
     {
       "is_number": "IS 15573 : 2018",
       "title": "Polyaluminium Chloride — Specification",
-      "category": "Allied / Chemical standard",
+      "category": "Product specification",
       "location": "Foreword",
       "relevance": "Related water-treatment chemical standard subject to mandatory BIS certification."
     }

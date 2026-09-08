@@ -75,35 +75,35 @@
     {
       "is_number": "IS 17354 : 2020",
       "title": "Medical textiles — Dental Bib or Napkins — Specification",
-      "category": "Allied medical textile standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "A fellow national medical textile specification co-regulated under the mandatory Quality Control Order (QCO)."
     },
     {
       "is_number": "IS 17630 : 2021",
       "title": "Medical Textiles — Bed sheet and pillow cover — Specification",
-      "category": "Allied medical textile standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "A fellow hospital-use medical textile specification co-regulated under the same QCO framework."
     },
     {
       "is_number": "IS 5405 : 2025",
       "title": "Disposable Sanitary Napkin/Panty Liner/Maternity Pad/Period Panty — Specification",
-      "category": "Allied hygiene standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Fellow personal hygiene absorbent standard co-managed under the medtech framework, present in the notebook."
     },
     {
       "is_number": "IS 17509 : 2021",
       "title": "Disposable Baby Diaper — Specification",
-      "category": "Allied hygiene standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Fellow disposable hygiene standard co-regulated under the same medtech framework, present in the notebook."
     },
     {
       "is_number": "IS 17514 : 2025",
       "title": "Reusable Sanitary Pad/Sanitary Napkin/Period Panties — Specification",
-      "category": "Allied hygiene standard",
+      "category": "Product specification",
       "location": "Parallel TXD 36 standard",
       "relevance": "Fellow reusable personal hygiene standard co-regulated under the same medtech framework, present in the notebook."
     }
