@@ -1,0 +1,193 @@
+{
+  "basic_identification": {
+    "is_number": "IS 1783 : Part 1 & Part 2 : 2014",
+    "full_title": "Drums, Large, Fixed Ends — Specification (Part 1: Grade A Drums; Part 2: Grade B Drums) (Fourth Revision)",
+    "sector_category": "Mechanical Engineering / Metal Containers (approved by the Mechanical Engineering Division Council and finalized by the Metal Containers Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "55.140",
+    "sectional_committee": {
+      "name": "Metal Containers Sectional Committee",
+      "number": "PGD 38"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the physical dimensions, material properties, constructional details, and rigorous performance testing requirements (including drop, leak, and hydraulic pressure tests) for large, fixed-end steel drums of 200-litre nominal capacity. These containers are intended for the secure packaging, storage, and transport of liquids, semi-liquids, bulk chemicals, and industrial raw materials.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standards"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Fourth Revision, 2014 (incorporating Amendment No. 1, June 2023 for Part 1)",
+    "year_first_published": "1961",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1961"
+      },
+      {
+        "edition": "First Revision",
+        "year": "1971"
+      },
+      {
+        "edition": "Second Revision",
+        "year": "1983"
+      },
+      {
+        "edition": "Third Revision",
+        "year": "1993"
+      },
+      {
+        "edition": "Fourth Revision (reorganized to harmonize sheet tolerances, expand testing regimes, and split into Part 1 for Grade A heavy-duty drums and Part 2 for Grade B standard-duty drums)",
+        "year": "2014"
+      }
+    ],
+    "supersedes": "IS 1783 : 1993",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 1 (to Part 1)",
+        "date": "June 2023",
+        "description": "Updates material specifications: substitutes IS 513 (Part 1) : 2016 (Cold forming and drawing purpose) for the obsolete IS 513 : 2008 sheet standard; and substitutes IS 1784 : 2020 (Screwed Closures for Drums) for the obsolete 1998 closure standard.",
+        "citations": "[1]"
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 513 (Part 1) : 2016",
+      "title": "Cold reduced carbon steel sheet and strip: Part 1 Cold forming and drawing purpose",
+      "category": "Raw material standard",
+      "location": "Clause 2 / Amendment No. 1",
+      "relevance": "Governs the cold-reduced steel sheets of Grade CR1, CR2, or CR3 used to fabricate the drum shell and ends.",
+      "citations": "[1]"
+    },
+    {
+      "is_number": "IS 1784 : 2020",
+      "title": "Screwed Closures for Drums — Specification",
+      "category": "Closure standard",
+      "location": "Clause 2 / Amendment No. 1",
+      "relevance": "Prescribes standard thread tolerances and design criteria for leak-proof bungs and closures fitted to the fixed ends.",
+      "citations": "[1]"
+    },
+    {
+      "is_number": "IS 1394",
+      "title": "Glossary of terms relating to metal containers",
+      "category": "Terminology standard",
+      "location": "Clause 3",
+      "relevance": "Standardizes definitions for metal container components (such as chimb, body seam, and rolling hoops)."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Governs the standard mathematical rounding-off routines used on calculated and observed physical testing figures."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 13997 : 2014",
+      "title": "Drums, Large Open Top — Specification",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Specifies 200-litre large open-top drums with removable heads, co-regulated under the same Quality Control Order, present in the notebook.",
+      "citations": "[1-3]"
+    },
+    {
+      "is_number": "IS 2552 : 1989",
+      "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Covers intermediate-capacity steel drums (ranging from 3 to 150 litres) for industrial storage."
+    },
+    {
+      "is_number": "IS 3575 : 1993",
+      "title": "Bitumen Drums — Specification",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Regulates specialized drums designed for packaging and transporting hot-poured asphalt and bitumen."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied design standard",
+      "location": "Parallel structural engineering",
+      "relevance": "The master structural steel design code that regulates external support structures and heavy-duty storage frames, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Packaging Materials / Metal Containers)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all Large Fixed-End Steel Drums (Grade A and Grade B) must conform to IS 1783 (Part 1 and Part 2) and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified drums in India is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Exemption is granted solely for export-oriented shipments and pre-filled imported containers. Precious metal hallmarking is completely inapplicable to industrial steel packaging.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every certified fixed-end steel drum must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard designation (IS 1783 Part 1 or Part 2) stenciled on the drum body or ends."
+      },
+      {
+        "requirement_type": "Capacity & Volume (Clause 3)",
+        "detail": "The nominal capacity must be 200 Litres, and the minimum gross capacity must be at least 210 Litres when measured with water at ambient temperature."
+      },
+      {
+        "requirement_type": "Grade A Construction (Part 1)",
+        "detail": "Grade A drums are heavy-duty containers constructed from cold-reduced steel sheets of nominal thickness 1.25 mm for both the cylindrical body and end plates. Ends must be double-seamed (Type 1) or spiral/triple-seamed (Type 2) to ensure maximum mechanical strength.",
+        "clause_reference": "Part 1, Clause 5 & 6"
+      },
+      {
+        "requirement_type": "Grade B Construction (Part 2)",
+        "detail": "Grade B drums are standard-duty containers. Type 1 utilized 1.25 mm nominal sheet thickness for both the body and ends with double-seamed end seams. Type 2 utilizes slightly thinner steel sheets of 1.00 mm nominal thickness with spiral or triple-seamed ends.",
+        "clause_reference": "Part 2, Clause 5 & 6"
+      },
+      {
+        "requirement_type": "Continuously Welded Body",
+        "detail": "The longitudinal body seam must be continuously resistance welded to provide a completely air-tight and robust joint.",
+        "clause_reference": "Clause 6.1"
+      },
+      {
+        "requirement_type": "Mandatory Pneumatic Leakage Test",
+        "detail": "Every single drum must be tested for leak-tightness before dispatch. The drum must withstand an internal air pressure of 0.3 kg/cm² to 0.5 kg/cm² (depending on grade/type) while submerged in water or sprayed with a soap solution, showing zero bubbles, leaks, or structural sweating.",
+        "clause_reference": "Clause 9.1"
+      },
+      {
+        "requirement_type": "High-Impact Drop Test",
+        "detail": "To guarantee structural safety during rough handling or transportation accidents, the drum is filled with water to 98 percent of its gross capacity and dropped from a specified height (e.g. 1.2 meters) onto a solid concrete or steel pad. It must show zero splits, structural tears, or leakage.",
+        "clause_reference": "Clause 9.2"
+      },
+      {
+        "requirement_type": "Hydrostatic/Hydraulic Pressure Test",
+        "detail": "The drum must withstand a high internal hydrostatic pressure (e.g., 1.5 to 2.0 kg/cm² or 150-200 kPa for Grade A) for a minimum of 5 minutes without showing any signs of leakage, sweating, seam slippage, or permanent warping.",
+        "clause_reference": "Clause 9.3"
+      },
+      {
+        "requirement_type": "Cleanliness of Internal Surface",
+        "detail": "The interior of each drum must be completely clean, dry, and free from scale, rust, or foreign matter. If the raw steel sheet is incompatible with the product to be filled, a suitable protective lining, lacquer, or epoxy coating must be applied."
+      },
+      {
+        "requirement_type": "Scale of Sampling and Lot Conformity",
+        "detail": "A lot comprises up to 300 drums (or 1,000 kg, whichever is greater) of the same grade, size, and condition. Random samples are selected for visual, dimensional, and destructive physical testing. Non-conforming defectives must stay within strictly bounded acceptance limits, or the entire lot is rejected."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 1783 : 2014",
+    "Large Fixed End Drums",
+    "Steel Drums 200L",
+    "Grade A Drums",
+    "Grade B Drums",
+    "Steel sheet 1.25mm",
+    "Steel sheet 1.00mm",
+    "Double Seam",
+    "Spiral Seam",
+    "Screwed Closures IS 1784",
+    "Pneumatic Leakage Test",
+    "Drop Test",
+    "Hydraulic Pressure Test",
+    "PGD 38",
+    "Drums and Tins QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 1783 : 2014 (Parts 1 & 2) is the mandatory national Indian Standard specification governing large fixed-end steel drums (200-litre nominal capacity, 210-litre minimum gross capacity) used for packaging, storing, and transporting bulk liquids, semi-solids, chemicals, and industrial raw materials. Under India's statutory Drums and Tins Quality Control Order (QCO), all large fixed-end steel drums manufactured, imported, or distributed domestically must carry the BIS Standard Mark (ISI Mark). The standard is split into Part 1 (Grade A heavy-duty drums made from 1.25 mm thick steel sheets) and Part 2 (Grade B standard-duty drums made from either 1.25 mm or 1.00 mm sheets). It enforces rigorous mechanical quality criteria, requiring continuously resistance-welded body seams, double or spiral-triple seamed ends, and 100% leak-proof security—verified through pneumatic air leakage testing on every drum, high-impact drop tests on chimbs/seams, and sustained hydrostatic pressure tests."
+  },
+  "source_identification": {
+    "source_pdf_filename": "1783_1amd1.pdf",
+    "document_version_edition": "Fourth Revision, 2014 (incorporating Amendment No. 1, June 2023 for Part 1)"
+  }
+}

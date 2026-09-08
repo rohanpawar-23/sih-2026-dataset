@@ -1,0 +1,170 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3575 : 1993",
+    "full_title": "Bitumen Drums — Specification (Third Revision)",
+    "sector_category": "Metallurgical Engineering / Metal Containers (approved by the Metallurgical Engineering Division Council and finalized by the Metal Containers Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "55.140",
+    "sectional_committee": {
+      "name": "Metal Containers Sectional Committee",
+      "number": "MTD 32"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies requirements for design, material, capacity, construction, and performance testing of steel drums with closed ends intended for packing and transporting bitumen with a penetration value of 225 and below.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Third Revision, 1993 (incorporating Amendment No. 2, September 1995; Reaffirmed in 2018 and reviewed/reaffirmed in 2024)",
+    "year_first_published": "1965",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1965"
+      },
+      {
+        "edition": "Second Edition",
+        "year": "1970"
+      },
+      {
+        "edition": "Third Revision",
+        "year": "1993"
+      }
+    ],
+    "supersedes": "IS 3575 : 1970",
+    "superseded_by": "N/A",
+    "amendment_slips": [
+      {
+        "amendment_number": "Amendment No. 2",
+        "date": "September 1995",
+        "description": "Deletes the last sentence of Clause 6.5 and withdraws Amendment No. 1 (April 1994)."
+      }
+    ]
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 513",
+      "title": "Cold reduced carbon steel sheet and strip — Specification",
+      "category": "Raw material standard",
+      "location": "Clause 5",
+      "relevance": "Prescribes standard chemical and mechanical properties of cold-rolled steel sheets utilized to fabricate drum shells."
+    },
+    {
+      "is_number": "IS 1784",
+      "title": "Screwed Closures for Drums — Specification",
+      "category": "Closure standard",
+      "location": "Clause 6.4",
+      "relevance": "Specifies standard thread and dimension parameters of leak-proof closures and bungs."
+    },
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Other",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of calculated or observed testing figures to evaluate code compliance."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 1783 (Part 1)",
+      "title": "Drums, Large, Fixed Ends — Specification: Part 1 Grade A Drums",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Specifies large 200-litre fixed-end Grade A steel drums, present in the notebook."
+    },
+    {
+      "is_number": "IS 1783 (Part 2)",
+      "title": "Drums, Large, Fixed Ends — Specification: Part 2 Grade B Drums",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Specifies large 200-litre fixed-end Grade B steel drums, present in the notebook."
+    },
+    {
+      "is_number": "IS 13997 : 2014",
+      "title": "Drums, Large Open Top — Specification",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Specifies large open-top drums with removable heads, present in the notebook."
+    },
+    {
+      "is_number": "IS 2552 : 1989",
+      "title": "Steel Drums (Galvanized and Ungalvanized) — Specification",
+      "category": "Allied drum standard",
+      "location": "Parallel metal containers",
+      "relevance": "Regulates mild steel drums of 3 to 150 litres capacity, present in the notebook."
+    },
+    {
+      "is_number": "IS 2062 : 2011",
+      "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
+      "category": "Allied structural steel standard",
+      "location": "Parallel structural materials",
+      "relevance": "The master structural steel specification for carbon steel sheets used to fabricate industrial drums, present in the notebook."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied design standard",
+      "location": "Parallel steel design code",
+      "relevance": "The master national structural steel construction code regulating storage tank support framing and connections, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Packaging Materials / Metal Containers)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all bitumen drums must conform to IS 3575:1993 and bear the mandatory BIS Standard Mark (ISI Mark). Enforcement dates transitioned for medium and large-scale enterprises on April 17, 2024, small enterprises on July 17, 2024, and micro enterprises on October 17, 2024. Manufacturing, importing, or selling non-certified bitumen drums is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial steel packaging.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every certified bitumen drum must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) stenciled on the body or ends."
+      },
+      {
+        "requirement_type": "Capacity & Sizes",
+        "detail": "Drums are manufactured in two standard nominal capacities: 160 litres and 200 litres."
+      },
+      {
+        "requirement_type": "Raw Material Properties",
+        "detail": "The drum shell must be fabricated from mild steel sheets or cold-rolled coils conforming to IS 513."
+      },
+      {
+        "requirement_type": "Steel Sheet Thickness",
+        "detail": "Drums must satisfy specified steel thickness requirements, typically utilizing 0.63 mm cold-rolled steel (24 SWG) to provide high durability and resist transport handling stress."
+      },
+      {
+        "requirement_type": "Continuously Welded Body Seam",
+        "detail": "The longitudinal body seam must be continuously resistance welded to provide a completely airtight joint."
+      },
+      {
+        "requirement_type": "End Seam double seaming",
+        "detail": "The fixed bottom and top ends must be securely attached to the shell using double-seamed joints along with a seaming compound resistant to hot bitumen."
+      },
+      {
+        "requirement_type": "Mandatory Pressure Leakage Test",
+        "detail": "Every finished drum must pass an air pressure leakage test before dispatch, holding an internal air pressure of 0.3 kg/cm² to 0.5 kg/cm² while submerged or sprayed with a soap solution, showing zero bubbles."
+      },
+      {
+        "requirement_type": "Drop Impact Test",
+        "detail": "To guarantee seam security, sample drums filled with water to 98% capacity must withstand drop tests from specified heights onto solid concrete without leaking."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3575 : 1993",
+    "Bitumen Drums",
+    "Asphalt Packaging",
+    "Steel Drums 160L",
+    "Steel Drums 200L",
+    "Sheet Thickness 0.63mm",
+    "Double Seam",
+    "Resistance Welding",
+    "Leakage Test",
+    "MTD 32",
+    "Drums and Tins QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3575 : 1993 is the mandatory national Indian Standard specification governing steel drums with fixed ends designed specifically for packing, storing, and transporting bulk bitumen and asphalt. Under India's statutory Drums and Tins Quality Control Order (QCO), all bitumen drums supplied or sold domestically must bear the BIS Standard Mark (ISI Mark). Crafted from high-quality cold-rolled steel sheets (conforming to IS 513) with a standard thickness of 0.63 mm (24 SWG), they are manufactured in 160-litre and 200-litre nominal capacities. The standard enforces strict quality and structural benchmarks—requiring continuously resistance-welded body seams, double-seamed ends, and 100% leak-proof security verified through high-impact drop tests and pneumatic air leakage testing."
+  },
+  "source_information": {
+    "source_pdf_filename": "3575a2.pdf",
+    "document_version_edition": "Third Revision, 1993 (incorporating Amendment No. 2, September 1995)"
+  }
+}

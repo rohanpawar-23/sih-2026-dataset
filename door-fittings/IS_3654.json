@@ -1,0 +1,141 @@
+{
+  "basic_identification": {
+    "is_number": "IS 3564 : 2025",
+    "full_title": "Hydraulically Regulated Door Closers — Specification (Fifth Revision)",
+    "sector_category": "Civil Engineering / Builders Hardware (approved by the Civil Engineering Division Council and finalized by the Builders Hardware Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "91.190",
+    "sectional_committee": {
+      "name": "Builder’s Hardware Sectional Committee",
+      "number": "CED 15"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies requirements for hydraulically regulated door closers (both fire-rated and non-fire-rated, overhead and concealed type) intended for installation on vertical-hinge doors opening to one side only, with leaf widths up to 1,600 mm and door masses up to 160 kg. It specifies physical dimensions, arm designs (including standard, parallel, and slide arms), and detailed performance testing for speed regulation, latching control, back-check damping, and delayed closing.",
+    "clause_number": "Clause 1.1 & Foreword",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "Fifth Revision, November 2025",
+    "year_first_published": "1965",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1965"
+      },
+      {
+        "edition": "Fifth Revision (officially integrates and amalgamates IS 14912 : 2001, extends the maximum door mass up to 160 kg, introduces fire-resistance class codes, and establishes a standardized 6-digit classification coding system)",
+        "year": "2025"
+      }
+    ],
+    "supersedes": "IS 3564 : 1995 and IS 14912 : 2001",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this newly established fifth revision."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 14912 : 2001",
+      "title": "Door Closers, Concealed Type (Hydraulically Regulated) — Specification",
+      "category": "Amalgamated door closer standard",
+      "location": "Foreword",
+      "relevance": "Its technical provisions for concealed hydraulically regulated door closers are now fully integrated and amalgamated into IS 3564 : 2025."
+    },
+    {
+      "is_number": "IS 2",
+      "title": "Rules for rounding off numerical values",
+      "category": "Rounding rules",
+      "location": "Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values during conformity evaluation."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 14912 : 2001",
+      "title": "Door Closers, Concealed Type (Hydraulically Regulated) — Specification",
+      "category": "Amalgamated door fitting standard",
+      "location": "Notebook Co-source",
+      "relevance": "Concealed hydraulic closers, previously managed separately, are now unified under IS 3564."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied structural standard",
+      "location": "Notebook Master Code",
+      "relevance": "The master national structural steel code regulating metal door framing, door openings, and hardware interface structures."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Builders Hardware / Mechanical Door Controls)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Door Fittings (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all hydraulically regulated door closers (overhead and concealed, fire-rated and non-fire-rated) must conform to IS 3564 : 2025 and carry the mandatory BIS Standard Mark (ISI Mark). Manufacturing, importing, distributing, or stocking non-certified door closers is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial builders hardware components.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Each door closer body and packaged assembly must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L) and standard reference to verify quality compliance.",
+        "clause_reference": "Marking clauses"
+      },
+      {
+        "requirement_type": "Expanded Sizing and Weight Capacity",
+        "detail": "Under the fifth revision, the standard specifies requirements for door closers suitable for door leaf masses up to 160 kg (previously capped at 80 kg) and leaf widths up to 1,600 mm, covering both fire-rated and non-fire-rated applications.",
+        "clause_reference": "Clause 6, Table 1 & Foreword"
+      },
+      {
+        "requirement_type": "Power Size Classification (Table 1)",
+        "detail": "Closers are classified by power sizes based on leaf width and door weight:\n- Size 2: Max leaf width 850 mm, mass 40 kg;\n- Size 3: Max leaf width 950 mm, mass 60 kg;\n- Size 4: Max leaf width 1100 mm, mass 80 kg;\n- Size 5: Max leaf width 1250 mm, mass 100 kg;\n- Size 6: Max leaf width 1400 mm, mass 120 kg;\n- Size 7: Max leaf width 1600 mm, mass 160 kg.\nNote: For door weights exceeding 160 kg, the performance requirements shall be as agreed between the manufacturer and the purchaser.",
+        "clause_reference": "Clause 6 & Table 1"
+      },
+      {
+        "requirement_type": "6-Digit Classification Coding System",
+        "detail": "Establishes a standardized 6-digit classification code defining the exact performance capabilities of the closer:\n- Digit 1 (Category of Use): Grade 3 (closes from >=105°), Grade 4 (closes from >=180°);\n- Digit 2 (Durability): Grade 5 (50,000 cycles), Grade 6 (100,000 cycles), Grade 7 (200,000 cycles), Grade 8 (500,000 cycles);\n- Digit 3 (Power Size): Defined in Table 1 (sizes 2 to 7, or ranges like 2-4);\n- Digit 4 (Fire Resistance): Grade 0 (not suitable), Grade 1 (30 min), Grade 2 (60 min), Grade 3 (90 min), Grade 4 (120 min);\n- Digit 5 (Safety): Grade 1 (essential safety-in-use requirements);\n- Digit 6 (Corrosion Resistance): Grade 1 (24 h), Grade 2 (48 h), Grade 3 (96 h), Grade 4 (240 h salt spray resistance).",
+        "clause_reference": "Clause 8"
+      },
+      {
+        "requirement_type": "Hydraulic Regulation & Closing Speed",
+        "detail": "The door closer regulating valves must be adjusted so that the test door closes smoothly and completely from a 90° open position down to the fully closed position in a regulated manner within a time frame of 3 to 7 seconds, preventing slamming.",
+        "clause_reference": "Clause C-3.2"
+      },
+      {
+        "requirement_type": "Latch Control (Optional)",
+        "detail": "If latch control is provided, it must be effective over a maximum range of 15 degrees from the fully closed position and must be adjustable to ensure a smooth transition from closing to latching without slamming the door.",
+        "clause_reference": "Clause C-2.3"
+      },
+      {
+        "requirement_type": "Back-Check Cushioning (Optional)",
+        "detail": "When fitted with a back-check function, the door closer must be capable of hydraulically cushioning or stopping the test door before it reaches the 90-degree open position to prevent wind or impact damage to surrounding structures.",
+        "clause_reference": "Clause C-2.4"
+      },
+      {
+        "requirement_type": "Delayed Closing Performance (Optional)",
+        "detail": "If a delayed closing feature is provided, the closing time from 90° to the end of the delay zone must not be less than 20 seconds when tested at (25 ± 5)°C. The delay zone must not extend beyond the 65-degree open position, and the manual override torque must not exceed 150 Nm. After 500 cycles of testing, the delay time must remain between 10 and 30 seconds.",
+        "clause_reference": "Clause C-2.5"
+      },
+      {
+        "requirement_type": "Closer Efficiency Assessment",
+        "detail": "Mechanical efficiency must be measured during cycling using force gauges perpendicular to the door face from 0° to 4° and 88° to 92° (moving no faster than 1°/s). The efficiency is calculated as the ratio of average maximum closing force to average maximum opening force multiplied by 100, which must meet or exceed standard requirements at both the start and end of durability cycling.",
+        "clause_reference": "Clause C-3.4, C-3.8 & C-3.9"
+      }
+    ]
+  },
+  "keywords": [
+    "IS 3564 : 2025",
+    "Hydraulic Door Closers",
+    "6-Digit Classification Code",
+    "Power Size Table 1",
+    "Fire Rated Closers",
+    "Concealed Door Closers",
+    "Closing Speed Valve",
+    "Latch Control Speed",
+    "Back Check Damping",
+    "Delayed Closing Time",
+    "Durability Cycles Test",
+    "Mechanical Efficiency",
+    "CED 15",
+    "Door Fittings QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 3564 : 2025 is the mandatory national Indian Standard specification governing hydraulically regulated door closers—including both overhead and concealed, fire-rated and non-fire-rated types—used on single-action vertical-hinge doors in residential, commercial, public, and industrial infrastructure. Under India's statutory Door Fittings Quality Control Order (QCO), all hydraulic door closers supplied to the Indian market must carry the BIS Standard Mark (ISI Mark) to verify mechanical safety, fire protection, and corrosion control. This fifth revision officially merges and amalgamates the concealed closer standard (IS 14912) and extends maximum weight suitability up to 160 kg and leaf widths up to 1,600 mm. It establishes a standardized 6-digit classification code defining the exact performance of each model—enforcing rigorous benchmarks for closing speed valving (3 to 7 seconds from 90°), latching transition controls, back-check hydraulic cushioning, and durability cycling (up to 500,000 cycles under Grade 8)."
+  },
+  "source_information": {
+    "source_pdf_filename": "3564_2025.pdf",
+    "document_version_edition": "Fifth Revision, November 2025"
+  }
+}

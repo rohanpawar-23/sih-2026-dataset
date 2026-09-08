@@ -1,0 +1,154 @@
+{
+  "basic_identification": {
+    "is_number": "IS 13997 : 2014",
+    "full_title": "Drums, Large Open Top — Specification",
+    "sector_category": "Metallurgical Engineering / Metal Containers (approved by the Metallurgical Engineering Division Council and finalized by the Metal Containers Sectional Committee of the Bureau of Indian Standards)",
+    "ics_code": "55.140",
+    "sectional_committee": {
+      "name": "Metal Containers Sectional Committee",
+      "number": "MTD 32"
+    }
+  },
+  "scope": {
+    "summary": "This standard specifies the material, dimensional, constructional, and performance requirements for steel open-top drums of 200 litre (180 kg) nominal capacity featuring a fixed bottom end. It covers drums designed for secure packaging, storage, and transport of bulk chemicals, oils, foodstuffs, and industrial raw materials.",
+    "clause_number": "Clause 1",
+    "page_number": "Page 1 of base standard"
+  },
+  "version_status_and_amendments": {
+    "edition_year_of_copy": "First Revision, March 2014 (Reaffirmed 2019, Reaffirmed 2024)",
+    "year_first_published": "1994",
+    "revision_history": [
+      {
+        "edition": "First Edition",
+        "year": "1994"
+      },
+      {
+        "edition": "First Revision (reorganized to specify updated sheet thickness tolerances, separate the product into Grade A and Grade B classifications, and refine the geometric tolerances of the closures and rolling hoops)",
+        "year": "2014"
+      }
+    ],
+    "supersedes": "IS 13997 : 1994",
+    "superseded_by": "N/A",
+    "amendment_slips": "No active amendments have been issued on this revision copy."
+  },
+  "cross_referenced_standards_top_20": [
+    {
+      "is_number": "IS 2 : 1960",
+      "title": "Rules for rounding off numerical values (revised)",
+      "category": "Reference standard",
+      "location": "Clause 0.3 / Foreword",
+      "relevance": "Standardises the mathematical rounding of observed or calculated testing values to verify standard conformity."
+    },
+    {
+      "is_number": "IS 1783 (Part 1) : 2014",
+      "title": "Drums, Large, Fixed Ends — Specification: Part 1 Grade A Drums",
+      "category": "Allied drum standard",
+      "location": "Foreword",
+      "relevance": "Fellow large industrial steel drum specification regulating closed tight-head Grade A drums of 200 litre capacity."
+    },
+    {
+      "is_number": "IS 1783 (Part 2) : 2014",
+      "title": "Drums, Large, Fixed Ends — Specification: Part 2 Grade B Drums",
+      "category": "Allied drum standard",
+      "location": "Foreword",
+      "relevance": "Fellow large industrial steel drum specification regulating closed tight-head Grade B drums of 200 litre capacity."
+    },
+    {
+      "is_number": "IS 2062 : 2011",
+      "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
+      "category": "Raw material standard",
+      "location": "Normative references",
+      "relevance": "Specifies high-quality carbon steel sheets and plates from which industrial metal packaging and container bodies are formed."
+    }
+  ],
+  "allied_standards": [
+    {
+      "is_number": "IS 2062 : 2011",
+      "title": "Hot Rolled Medium and High Tensile Structural Steel — Specification",
+      "category": "Allied structural steel standard",
+      "location": "Parallel steel category",
+      "relevance": "The master structural steel specification for carbon steel sheets used to fabricate these industrial drums, present in the notebook."
+    },
+    {
+      "is_number": "IS 800 : 2007",
+      "title": "Code of Practice for General Steel Construction",
+      "category": "Allied design standard",
+      "location": "Parallel steel design code",
+      "relevance": "The master national structural steel construction code that regulates external anchorages, support saddles, and structural framing, present in the notebook."
+    },
+    {
+      "is_number": "IS 2002 : 2009",
+      "title": "Steel Plates for Pressure Vessels for Intermediate and High Temperature Service",
+      "category": "Allied pressure vessel standard",
+      "location": "Parallel storage vessels",
+      "relevance": "Related heavy-duty carbon steel plate specification for industrial chemical storage and pressurized vessels, present in the notebook."
+    }
+  ],
+  "certification_and_marking": {
+    "standard_type": "Product Specification (Packaging Materials / Metal Containers)",
+    "certification_status": "Strict Statutory Mandatory Certification. Under the 'Drums and Tins (Quality Control) Order' (QCO) issued by the Ministry of Commerce and Industry (DPIIT), Government of India, all Large Open Top Drums supplied, sold, or distributed in the Indian market must conform to IS 13997:2014 and carry the mandatory BIS Standard Mark (ISI Mark). Enforcement transitioned for medium/large enterprises on April 17, 2024, small enterprises on July 17, 2024, and micro enterprises on October 17, 2024. Manufacturing, importing, distributing, or selling non-certified drums is a punishable statutory offense under the Bureau of Indian Standards Act, 2016. Precious metal hallmarking is completely inapplicable to industrial steel storage drums.",
+    "requirements": [
+      {
+        "requirement_type": "BIS Standard Mark Scheme",
+        "detail": "Every commercial tag or label attached to bundles/coils of copper rods and bars, along with the accompanying test certificate, must bear the BIS Standard Mark (ISI Mark) along with the manufacturer's registered licence number (CM/L)."
+      },
+      {
+        "requirement_type": "Capacity and Liquid Cargo Volume",
+        "detail": "The steel open top drums must satisfy requirements for 200 litre (180 kg) nominal capacity, with a flat bottom end fixed to the cylindrical body."
+      },
+      {
+        "requirement_type": "Grade A Construction and Steel Thickness",
+        "detail": "Grade A drums must be manufactured from steel sheets of nominal thickness 1.25 mm for both the body and the end plates, with a bottom end seam constructed as either a double seam or a spiral/triple seam, and a full-size removable top lid."
+      },
+      {
+        "requirement_type": "Grade B Construction and Steel Thickness",
+        "detail": "Grade B drums must be manufactured from thinner steel sheets of nominal thickness 1.00 mm for both the body and the end plates, featuring a bottom end seam constructed as a spiral/triple seam, and a full-size removable top lid."
+      },
+      {
+        "requirement_type": "Lining and Product Compatibility",
+        "detail": "If the steel sheet, ends, or closures are not in themselves chemically compatible with the cargo to be filled, a suitable protective lining, lacquer, or epoxy coating must be applied to prevent material degradation and contents contamination."
+      },
+      {
+        "requirement_type": "Physical Rolling Hoop Beads",
+        "detail": "The drum body features rolling hoops to facilitate mechanical handling and structural stiffness, with the distance between hoops specified as 280 ± 3 mm."
+      },
+      {
+        "requirement_type": "Closure Ring Positioning",
+        "detail": "The full open top is secured with a closing ring (locking ring) typically fitted with a nut/bolt or fastener lever. The centre-to-centre distance of closures is specified as p1 = 451 ± 1 mm, and the outside diameter over the closing ring is limited to a maximum of 585 mm (except slightly larger over the lever/bolt section)."
+      },
+      {
+        "requirement_type": "Cleanness of Surface and Bottom",
+        "detail": "Prior to sealing or dispatch, the interior must be completely clean and free from rust, scaling, dust, or any traces of foreign matter."
+      },
+      {
+        "requirement_type": "Mandatory Pneumatic Leakage Testing",
+        "detail": "To ensure leak-proof performance during storage and transit of chemicals or hazardous liquids, each drum must undergo mandatory pressure leakage testing (such as a pneumatic air leakage test at 0.5 kg/cm² or 0.3 kg/cm² air pressure), ensuring zero bubbles or leakage."
+      }
+    ]
+  },
+  "keywords": [
+    "IS 13997 : 2014",
+    "Large Open Top Drums",
+    "Steel Drums 200L",
+    "Grade A Drums",
+    "Grade B Drums",
+    "Sheet Thickness 1.25mm",
+    "Sheet Thickness 1.00mm",
+    "Double Seam",
+    "Spiral Seam",
+    "Closing Ring",
+    "Locking Ring",
+    "Epoxy Lining",
+    "Pneumatic Leakage Test",
+    "MTD 32",
+    "Drums and Tins QCO",
+    "ISI Mark"
+  ],
+  "plain_language_summary": {
+    "summary": "IS 13997 : 2014 is the mandatory national Indian Standard specification governing large open-top steel drums (200-litre or 180 kg nominal capacity) utilized across chemical, petroleum, food-processing, and bulk shipping logistics. Under India's statutory Drums and Tins Quality Control Order (QCO), all large open-top steel drums manufactured, imported, or distributed domestically must conform to this standard and bear the mandatory BIS Standard Mark (ISI Mark). It classifies drums into Grade A (heavy-duty 1.25 mm nominal steel sheets with double or spiral bottom seams) and Grade B (standard 1.00 mm nominal steel sheets with spiral bottom seams), enforcing tight tolerances on rolling hoops and top closure rings. To guarantee absolute pressure integrity and prevent spill hazards, the standard mandates a strict pneumatic air leakage test on every single drum before dispatch, alongside internal surface cleanliness and chemical compatibility coatings (such as food-grade epoxy lacquers)."
+  },
+  "source_information": {
+    "source_pdf_filename": "13997.pdf",
+    "document_version_edition": "First Revision, March 2014"
+  }
+}
